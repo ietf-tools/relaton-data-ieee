@@ -1,0 +1,104 @@
+---
+id: IEEE1667.2009
+title:
+- type: title-main
+  content: IEEE Standard for Authentication in Host Attachments of Transient Storage
+    Devices
+  format: text/plain
+- type: main
+  content: IEEE Standard for Authentication in Host Attachments of Transient Storage
+    Devices
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/5438723
+  type: src
+type: standard
+docid:
+- id: IEEE 1667.2009
+  type: IEEE
+- id: 978-0-7381-6123-5
+  type: ISBN
+- id: 10.1109/IEEESTD.2010.5438723
+  type: DOI
+docnumber: IEEE 1667.2009
+date:
+- type: updated
+  value: '2010-04-12'
+- type: created
+  value: '2010'
+- type: published
+  value: '2013-08-30'
+- type: issued
+  value: '2009-11-09'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+revdate: '2013-08-30'
+language: en
+script: Latn
+abstract:
+- content: A method for host authentication of removable storage devices and an optional
+    method for authentication of hosts by removable storage devices are specified
+    by this standard. Both methods are certificate based and manageable by device
+    owners. In addition, a method for identifying non-storage capabilities of removable
+    storage devices is specified.
+  language: en
+  script: Latn
+  format: text/plain
+- content: This project defines a standard protocol for secure authentication and
+    creation of trust between a secure host and a directly attached Transient and
+    other Storage Devices, such as a USB flash drive, portable hard drive, or cellular
+    phone. The protocol has only an indirect relationship with data integrity/security,
+    and does not directly address issues of authorization and enforcement. The protocol
+    also does not address devices that are attached using a network connection. However,
+    a device that uses a point-to-point wireless connection such as WUSB may comply
+    with this protocol.
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2010'
+relation:
+- type: updates
+  bibitem:
+    formattedref:
+      content: IEEE 1667.2006
+      format: text/plain
+  description:
+    content: revises
+    language: en
+    script: Latn
+    format: text/plain
+- type: obsoletedBy
+  bibitem:
+    formattedref:
+      content: IEEE 1667.2015
+      format: text/plain
+fetched: '2021-11-23'
+keyword:
+- IEEE Standards
+- Data storage systems
+- Transient analysis
+- Disc drives
+- 1667-2009
+- authentication
+- certificates
+- discovery
+- probe
+- removable storage
+- security
+ics:
+- code: '35.040'
+  text: Information coding
+- code: 35.220.01
+  text: Data storage devices in general

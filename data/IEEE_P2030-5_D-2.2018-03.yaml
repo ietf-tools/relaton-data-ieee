@@ -1,0 +1,104 @@
+---
+id: IEEEP2030-5/D-2.2018-03
+title:
+- type: title-main
+  content: IEEE Approved Draft Standard for Smart Energy Profile Application Protocol
+  format: text/plain
+- type: main
+  content: IEEE Approved Draft Standard for Smart Energy Profile Application Protocol
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/8314585
+  type: src
+type: standard
+docid:
+- id: IEEE P2030-5/D-2.2018-03
+  type: IEEE
+- id: 978-1-5044-4738-6
+  type: ISBN
+docnumber: IEEE P2030-5/D-2.2018-03
+date:
+- type: created
+  value: '2018-01-01'
+- type: published
+  value: '2018-03-10'
+- type: issued
+  value: '2018-05-07'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: New York
+      country: USA
+  role: publisher
+revdate: '2018-03-10'
+language: en
+script: Latn
+abstract:
+  content: The application layer with TCP/IP providing functions in the transport
+    and Internet layers to enable utility management of the end user energy environment,
+    including demand response, load control, time of day pricing, management of distributed
+    generation, electric vehicles, etc. is defined in this standard. Depending on
+    the physical layer in use (e.g., IEEE 802.15.4&#8482;, IEEE 802.11&#8482;, IEEE
+    1901&#8482;, IEEE 1901.2&#8482;), a variety of lower layer protocols may be involved
+    in providing a complete solution. Generally, lower layer protocols are not discussed
+    in this standard except where there is direct interaction with the application
+    protocol. The mechanisms for exchanging application messages, the exact messages
+    exchanged including error messages, and the security features used to protect
+    the application messages are defined in this standard. With respect to the Open
+    Systems Interconnection (OSI) network model, this standard is built using the
+    four layer Internet stack model. The defined application profile sources elements
+    from many existing standards, including IEC 61968 and IEC 61850, and follows a
+    RESTful architecture (Fielding [B3]) using IETF protocols such as HTTP.
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2018'
+relation:
+  type: updates
+  bibitem:
+    formattedref:
+      content: IEEE 2030-5.2013
+      format: text/plain
+  description:
+    content: revises
+    language: en
+    script: Latn
+    format: text/plain
+fetched: '2021-11-23'
+keyword:
+- IEEE Standards
+- Smart grids
+- Energy efficiency
+- Resource management
+- Electric vehicles
+- Power system economics
+- adoption
+- application
+- application protocol
+- demand response
+- distributed energy resources
+- energy usage information
+- IEEE 2030.5
+- load control
+- metering
+- plugin electric vehicles
+- prepayment
+- pricing communication
+- RESTful
+- SEP 2
+- smart energy
+- smart energy profile
+- Smart Energy Profile 2
+ics:
+- code: 29.240.01
+  text: Power transmission and distribution networks in general
+- code: '35.110'
+  text: Networking

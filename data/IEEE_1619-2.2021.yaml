@@ -1,0 +1,91 @@
+---
+id: IEEE1619-2.2021
+title:
+- type: title-main
+  content: IEEE Standard for Wide-Block Encryption for Shared Storage Media
+  format: text/plain
+- type: main
+  content: IEEE Standard for Wide-Block Encryption for Shared Storage Media
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/9457235
+  type: src
+type: standard
+docid:
+- id: IEEE 1619-2.2021
+  type: IEEE
+- id: 978-1-5044-7513-6
+  type: ISBN
+- id: 10.1109/IEEESTD.2021.9457235
+  type: DOI
+docnumber: IEEE 1619-2.2021
+date:
+- type: created
+  value: '2021'
+- type: published
+  value: '2021-06-16'
+- type: issued
+  value: '2021-05-09'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: New York
+      country: USA
+  role: publisher
+revdate: '2021-06-16'
+language: en
+script: Latn
+abstract:
+  content: EME2-AES and XCB-AES wide-block encryption with associated data (EAD) modes
+    of the NIST AES block cipher, providing usage guidelines and test vectors, are
+    described. A wide block encryption algorithm behaves as a single block cipher
+    with a large plaintext input and ciphertext output, but uses a narrow block cipher
+    [in this case Advanced Encryption Standard (AES)] internally. These encryption
+    modes are oriented toward random access storage devices that do not provide authentication,
+    but need to reduce the granularity of a potential attack.
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2021'
+relation:
+  type: updates
+  bibitem:
+    formattedref:
+      content: IEEE 1619-2.2010
+      format: text/plain
+  description:
+    content: revises
+    language: en
+    script: Latn
+    format: text/plain
+keyword:
+- IEEE Standards
+- Encryption
+- Ciphers
+- Random access memory
+- NIST
+- Media
+- Authentication
+- Guidelines
+- Storage management
+- data-at-rest security
+- encryption
+- encryption with associated data (EAD)
+- encrypt-mix encrypt-v2 mode of operation (EME2)
+- extended codebook mode of operation (XCB)
+- IEEE 1619.2
+- security
+- storage
+ics:
+- code: '35.040'
+  text: Information coding
+- code: 35.240.60
+  text: IT applications in transport

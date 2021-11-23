@@ -1,0 +1,79 @@
+---
+id: IEEE1596-3.1996
+title:
+- type: title-main
+  content: IEEE Standard for Low-Voltage Differential Signals (LVDS) for Scalable
+    Coherent Interface (SCI)
+  format: text/plain
+- type: main
+  content: IEEE Standard for Low-Voltage Differential Signals (LVDS) for Scalable
+    Coherent Interface (SCI)
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/503756
+  type: src
+type: standard
+docid:
+- id: IEEE 1596-3.1996
+  type: IEEE
+- id: 978-0-7381-3136-8
+  type: ISBN
+- id: 10.1109/IEEESTD.1996.81028
+  type: DOI
+docnumber: IEEE 1596-3.1996
+date:
+- type: created
+  value: '1996'
+- type: published
+  value: '2019-04-09'
+- type: issued
+  value: '1996-03-21'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: New York
+      country: USA
+  role: publisher
+revdate: '2019-04-09'
+language: en
+script: Latn
+abstract:
+  content: Scalable Coherent Interface (SCI), specified in IEEE Std 1596-1992, provides
+    computer-bus-like services but uses a collection of fast point-to-point links
+    instead of a physical bus in order to reach far higher speeds. The base specification
+    defines differential ECL signals, which provide a high transfer rate (16 bits
+    are transferred every 2 ns), but are inconvenient for some applications. IEEE
+    Std 1596.3-1996, an extension to IEEE Std 1596-1992, defines a lower-voltage differential
+    signal (as low as 250 mV swing) that is compatible with low-voltage CMOS, BiCMOS,
+    and GaAs circuitry. The power dissipation of the transceivers is low, since only
+    2.5 mA is needed to generate this differential voltage across a 100 W termination
+    resistance. Signal encoding is defined that allows transfer of SCI packets over
+    data paths that are 4-, 8-, 32-, 64-, and 128-bits wide. Narrow data paths (4
+    to 8 bits) transferring data every 2 ns can provide sufficient bandwidth for many
+    applications while reducing the physical size and cost of the interface. The wider
+    paths may be needed for very-high-performance systems.
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '1996'
+keyword:
+- Data buses
+- backplane
+- bus
+- cable
+- differential
+- low power
+- point to point
+- scalable
+- signal
+ics:
+  code: '35.200'
+  text: Interface and interconnection equipment

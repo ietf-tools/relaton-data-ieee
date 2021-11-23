@@ -1,0 +1,168 @@
+---
+id: IEEEP1149-7/D-6.2020-07
+title:
+- type: title-main
+  content: IEEE Draft Standard for Reduced-Pin and Enhanced-Functionality Test Access
+    Port and Boundary-Scan Architecture
+  format: text/plain
+- type: main
+  content: IEEE Draft Standard for Reduced-Pin and Enhanced-Functionality Test Access
+    Port and Boundary-Scan Architecture
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/9248664
+  type: src
+type: standard
+docid:
+- id: IEEE P1149-7/D-6.2020-07
+  type: IEEE
+- id: 978-1-5044-7184-8
+  type: ISBN
+docnumber: IEEE P1149-7/D-6.2020-07
+date:
+- type: created
+  value: '2020-11-03'
+- type: published
+  value: '2020-11-04'
+- type: issued
+  value: '2020'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: New York
+      country: USA
+  role: publisher
+revdate: '2020-11-04'
+language: en
+script: Latn
+abstract:
+  content: This specification describes circuitry that may be added to an integrated
+    circuit to provide access to on-chip Test Access Ports (TAPs) specified by IEEE
+    Std 1149.1. The circuitry uses IEEE Std 1149.1 as its foundation, providing complete
+    backward compatibility, while aggressively adding features to support test and
+    applications debug. It defines six classes of 1149.7 Test Access Ports (TAP.7s),
+    T0&#8211;T5, with each class providing incremental capability, building on that
+    of the lower level classes. Class T0 provides the behavior specified by 1149.1
+    from startup when there are multiple on-chip TAPs. Class T1 adds common debug
+    functions and features to minimize power consumption. Class T2 adds operating
+    modes that maximize scan performance. It also provides an optional hot-connection
+    capability to prevent system corruption when a connection is made to a powered
+    system. Class T3 supports operation in either a four-wire Series or Star Scan
+    Topology. Class T4 provides for communication with either a two-pin or four-pin
+    interface. The two-pin operation serializes 1149.1 transactions and provides for
+    higher Test Clock rates. Class T5 adds the ability to perform data transfers concurrently
+    with scan, supports utilization of functions other than scan, and provides control
+    of TAP.7 pins to custom debug technologies in a manner that ensures current and
+    future interoperability.
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2020'
+relation:
+  type: updates
+  bibitem:
+    formattedref:
+      content: IEEE 1149-7.2009
+      format: text/plain
+  description:
+    content: revises
+    language: en
+    script: Latn
+    format: text/plain
+keyword:
+- IEEE Standards
+- Controllers
+- 'Information exchange '
+- Boundary conditions
+- '1149.1'
+- '1149.7'
+- 2-pin
+- 2-wire
+- 4-pin
+- 4-wire
+- Advanced Protocol
+- Advanced Protocol Unit
+- APU
+- Background Data Transfer
+- background data transport
+- BDX
+- boundary scan
+- BSDL
+- BSDL.1
+- BSDL.7
+- BYPASS
+- Capture-IR
+- CDX
+- Chip-Level TAP Controller
+- CID
+- Class T0
+- Class T1
+- Class T2
+- Class T3
+- Class T4
+- Class T5
+- CLTAPC
+- compact JTAG
+- compliant behavior
+- compliant operation
+- control level
+- controller address
+- Controller ID
+- Controller Identification Number
+- CP
+- Custom Data Transfer
+- custom data transport
+- Data Register
+- debug interface
+- debug logic
+- debug and test interface
+- DOT1
+- DOT7
+- DTI
+- DTS
+- DTT
+- Debug Test System
+- debug test target
+- Escape
+- EOT
+- EPU
+- extended operation
+- Extended Protocol
+- EXTEST
+- HSDL
+- HSDL.7
+- IDCODE
+- Instruction Register
+- JScan
+- JScan0
+- JScan1
+- JScan2
+- JScan3
+- JTAG
+- MScan
+- MTCP
+- Multi-TAP Control Path
+- narrow Star Scan Topology
+- nTRST
+- nTRST_PD
+- optimized scan
+- OScan
+- OScan0
+- OScan1
+- OScan2
+- OScan3
+- OScan4
+- OScan5
+- OScan6
+- OScan7
+ics:
+  code: '35.200'
+  text: Interface and interconnection equipment
