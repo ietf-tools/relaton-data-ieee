@@ -1,0 +1,36 @@
+name: Crawler
+
+on:
+  push:
+  schedule:
+    - cron: '0 15 * * *'
+
+jobs:
+  generate:
+    name: Fetch from ieee-rawbib
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Checkout source
+        uses: actions/checkout@v2
+        with:
+          repository: ietf-ribose/ieee-rawbib
+          token: ${{ secrets.IETF_RIBOSE_CI_PAT }}
+          path: ieee-rawbib
+      - name: Use Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.0
+      - name: Install gem
+        run: |
+          gem install relaton-cli
+      - name: Fetch documents
+        run: relaton fetch-data ieee-rawbib
+      - name: Push data
+        run: |
+          echo `date` > flag.txt
+          git config --global user.name "ietf-ribose-ci"
+          git config --global user.email "ietf-ribose-ci@users.noreply.github.com"
+          git add data/* flag.txt
+          git diff --quiet && git diff --staged --quiet || (git commit -m 'update documents' && git push)
