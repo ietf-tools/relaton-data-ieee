@@ -30,7 +30,7 @@ date:
 - type: published
   value: '2020-07-28'
 - type: issued
-  value: '2020'
+  value: '2021-09-23'
 contributor:
   organization:
     name: Institute of Electrical and Electronics Engineers
@@ -52,7 +52,7 @@ copyright:
   - name: IEC
   from: '2020'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: ISO/IEC/IEEE 29119-2.2013
@@ -62,7 +62,17 @@ relation:
     language: en
     script: Latn
     format: text/plain
-fetched: '2021-11-25'
+- type: updates
+  bibitem:
+    formattedref:
+      content: ISO/IEC/IEEE 29119-2.2013
+      format: text/plain
+  description:
+    content: revises
+    language: en
+    script: Latn
+    format: text/plain
+fetched: '2021-11-26'
 keyword:
 - IEEE Standards
 - ISO Standards

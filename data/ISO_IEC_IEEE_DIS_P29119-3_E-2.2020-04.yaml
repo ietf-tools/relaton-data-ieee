@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2020-07-28'
 - type: issued
-  value: '2020'
+  value: '2021-09-23'
 contributor:
   organization:
     name: Institute of Electrical and Electronics Engineers
@@ -40,6 +40,25 @@ contributor:
 revdate: '2020-07-28'
 language: en
 script: Latn
+abstract:
+  content: The purpose of the ISO/IEC/IEEE 29119 series of software testing standards
+    is to define an internationally-agreed set of standards for software testing that
+    can be used by any organization when performing any form of software testing.
+    ISO/IEC/IEEE 29119-3 includes templates and examples of test documentation. The
+    templates are arranged within clauses reflecting the overall test process description
+    structure in ISO/IEC/IEEE 29119-2, i.e. by the test process in which they are
+    being produced. Annex A outlines the contents of each document and maps each document
+    to ISO/IEC/IEEE 29119-2. Annex B contains an overview of the examples. Annexes
+    C to R contain examples of the application of the templates. Annex S provides
+    mappings to existing standards. Annex T explains the use of the term Test Model
+    in this document. The Bibliography for this part of ISO/IEC/IEEE 29119 is at the
+    end of the document. ISO/IEC/IEEE 29119-3 supports dynamic testing, functional
+    and non-functional testing, manual and automated testing, and scripted and unscripted
+    testing. The documentation templates defined in ISO/IEC/IEEE 29119-3 can be used
+    in conjunction with any software development lifecycle model.
+  language: en
+  script: Latn
+  format: text/plain
 copyright:
   owner:
   - name: Institute of Electrical and Electronics Engineers
@@ -49,7 +68,7 @@ copyright:
   - name: IEC
   from: '2020'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: ISO/IEC/IEEE 29119-3.2013
@@ -59,7 +78,17 @@ relation:
     language: en
     script: Latn
     format: text/plain
-fetched: '2021-11-25'
+- type: updates
+  bibitem:
+    formattedref:
+      content: ISO/IEC/IEEE 29119-3.2013
+      format: text/plain
+  description:
+    content: revises
+    language: en
+    script: Latn
+    format: text/plain
+fetched: '2021-11-26'
 keyword:
 - IEEE Standards
 - ISO Standards
@@ -67,6 +96,12 @@ keyword:
 - Systems engineering and theory
 - Software engineering
 - Software testing
+- '29119'
+- 29119-1
+- software testing
+- Test Planning Process
+- Test Plan
+- verification and validation.
 ics:
   code: '35.080'
   text: Software
