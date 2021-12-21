@@ -19,21 +19,19 @@ docid:
   type: DOI
 docnumber: ISO/IEC/IEEE 8802-1X.2013
 date:
-- type: updated
-  value: '2014-01-17'
 - type: created
   value: '2013-12-06'
 - type: published
   value: '2013-12-06'
 - type: issued
-  value: '2013-12-06'
+  value: '2013'
 contributor:
   organization:
     name: Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+      city: New York
       country: USA
   role: publisher
 revdate: '2013-12-06'
@@ -70,6 +68,12 @@ copyright:
   - name: ISO
   - name: IEC
   from: '2013'
+relation:
+  type: adoptedFrom
+  bibitem:
+    formattedref:
+      content: IEEE 802-1X.2010
+      format: text/plain
 keyword:
 - IEEE standards
 - ISO standards
