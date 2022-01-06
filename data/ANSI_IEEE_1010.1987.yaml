@@ -1,11 +1,11 @@
 ---
 id: ANSI/IEEE1010.1987
 title:
-  type: main
+- type: main
   content: IEEE Guide for Control of Hydroelectric Power Plants
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/25323
+- content: https://ieeexplore.ieee.org/document/25323
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1987-06-11'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'Superseded by IEEE Std 1010-2006 Abstract: The control and monitoring
+- content: 'Superseded by IEEE Std 1010-2006 Abstract: The control and monitoring
     requirements for equipment and systems associated with conventional and pumped-storage
     hydroelectric plants are described. Typical methods of local and remote control,
     details of the control interfaces for plant equipment, requirements for centralized
@@ -47,22 +51,25 @@ abstract:
     sequencing of generating and pumped storage units, centralized control, and off-site
     control are covered. The information is directed toward practicing engineers in
     the field of power plant design who have a basic knowledge of hydroelectric facilities.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1988'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1010.2006
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Hydroelectric power generation
 - Pumped storage power generation
@@ -70,5 +77,5 @@ keyword:
 - Power generation control
 - Hydroelectric power generation
 ics:
-  code: '27.140'
+- code: '27.140'
   text: Hydraulic energy engineering

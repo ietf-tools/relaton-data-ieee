@@ -1,13 +1,13 @@
 ---
 id: IEEE802-1Qcd.2015
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Local and metropolitan area networks-- Bridges and Bridged
     Networks - Amendment 23: Application Virtual Local Area Network (VLAN) Type, Length,
     Value (TLV)'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7062078
+- content: https://ieeexplore.ieee.org/document/7062078
   type: src
 type: standard
 docid:
@@ -28,35 +28,44 @@ date:
 - type: issued
   value: '2015-02-16'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-03-17'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: Enhancements to the set of TLVs used by the Data Center Bridging eXchange
     protocol (DCBX) for the purpose of simplifying the management of networks utilizing
     Data Center Bridging (DCB) features are defined in this amendment to IEEE Std
     802.1Q-2014.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Enhancements to the set of TLVs used by the Data Center Bridging eXchange
     protocol (DCBX) for the purpose of simplifying the management of networks utilizing
     Data Center Bridging (DCB) features are defined in this amendment to IEEE Std
     802.1Q-2014.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2015'
@@ -68,15 +77,17 @@ relation:
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: ISO/IEC/IEEE 8802-1Q/Amd2.2016
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Bridged circuits
@@ -97,5 +108,5 @@ keyword:
 - Virtual Bridged Networks (virtual LANs)
 - VLAN Bridges
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

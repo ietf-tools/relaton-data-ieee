@@ -1,11 +1,11 @@
 ---
 id: ANSI/IEEE1101.1987
 title:
-  type: main
+- type: main
   content: IEEE Standard for Mechanical Core Specifications for Microprocessors
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/26489
+- content: https://ieeexplore.ieee.org/document/26489
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1987-06-11'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-01-12'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'The standard covers three areas: the basic dimensions of subracks, this
+- content: 'The standard covers three areas: the basic dimensions of subracks, this
     range of modular subracks conforming to IEC 297-3-1984, for mounting in equipment
     according to IEC 297-1-1986, and ANSI/EIA RS-310, together with the basic dimensions
     of a compatible range of plug-in units, printed boards, and backplanes; the dimensions
@@ -47,12 +51,15 @@ abstract:
     plug-in units. The purpose of the standard is the specification of dimensions
     that will ensure the mechanical interchangeability and environmental requirements
     of subracks and of plug-in units.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1988'
@@ -66,5 +73,5 @@ keyword:
 - core
 - specifications
 ics:
-  code: '35.160'
+- code: '35.160'
   text: Microprocessor systems

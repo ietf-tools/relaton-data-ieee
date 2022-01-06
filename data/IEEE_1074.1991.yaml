@@ -1,11 +1,11 @@
 ---
 id: IEEE1074.1991
 title:
-  type: main
+- type: main
   content: IEEE Standard for Developing Software Life Cycle Processes
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/159431
+- content: https://ieeexplore.ieee.org/document/159431
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1991-09-26'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The set of activities that constitute the processes that are mandatory
+- content: The set of activities that constitute the processes that are mandatory
     for the development and maintenance of software, whether stand-alone or part of
     a system, is set forth. The management and support processes that continue throughout
     the entire life cycle, as well as all aspects of the software life cycle from
@@ -46,22 +50,25 @@ abstract:
     initiated early in the software life cycle. This standard requires definition
     of a user’s software life cycle and shows its mapping into typical software life
     cycles; it is not intended to define or imply a software life cycle of its own.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1992'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1074.1995
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Software engineering
 - Standards
@@ -82,5 +89,5 @@ keyword:
 - software retirement process
 - software system allocation process
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

@@ -10,7 +10,7 @@ title:
     Measurement and Control Systems - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7949184
+- content: https://ieeexplore.ieee.org/document/7949184
   type: src
 type: standard
 docid:
@@ -29,17 +29,21 @@ date:
 - type: issued
   value: '2008-03-27'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-06-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: This standard defines a protocol enabling precise synchronization of clocks
     in measurement and control systems implemented with technologies such as network
@@ -53,8 +57,10 @@ abstract:
     and operated without requiring the administrative attention of users. The standard
     includes mappings to UDP/IP, DeviceNet and a layer-2 Ethernet implementation.An
     Interpretation is available at http://standards.ieee.org/reading/ieee/interp/1588-2008.html.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: This standard defines a protocol enabling precise synchronization of clocks
     in measurement and control systems implemented with technologies such as network
@@ -68,12 +74,15 @@ abstract:
     and operated without requiring the administrative attention of users. The standard
     includes mappings to UDP/IP, DeviceNet and a layer-2 Ethernet implementation.
     An Interpretation is available at http://standards.ieee.org/reading/ieee/interp/1588-2008.html
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2008'
@@ -90,8 +99,10 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -110,5 +121,5 @@ keyword:
 - synchronized clock
 - transparent clock
 ics:
-  code: 39.040.99
+- code: 39.040.99
   text: Other time-measuring instruments

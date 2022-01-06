@@ -10,7 +10,7 @@ title:
     Identity - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8686457
+- content: https://ieeexplore.ieee.org/document/8686457
   type: src
 type: standard
 docid:
@@ -27,43 +27,52 @@ date:
 - type: issued
   value: '2018-06-14'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-10'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: A Secure Device Identifier (DevID) is cryptographically bound to a device
+- content: A Secure Device Identifier (DevID) is cryptographically bound to a device
     and supports authentication of the device’s identity. An Initial Device Identifier
     (IDevID) provide by the supplier of a device can be supplemented by Local Device
     Identifiers (LDevIDs) facilitating enrollment (provisioning of authentication
     and authorization credentials) by local network administrators. (The PDF of this
     standard is available at no cost compliments of the IEEE GET Program at https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=68)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2018'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-1AR.2009
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -90,5 +99,5 @@ keyword:
 - security
 - X.509
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

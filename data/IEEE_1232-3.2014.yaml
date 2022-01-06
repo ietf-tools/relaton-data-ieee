@@ -1,12 +1,12 @@
 ---
 id: IEEE1232-3.2014
 title:
-  type: main
+- type: main
   content: IEEE Guide for the Use of Artificial Intelligence Exchange and Service
     Tie to All Test Environments (AI-ESTATE)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6922153
+- content: https://ieeexplore.ieee.org/document/6922153
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2014-08-21'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-10-13'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: Guidance to developers of IEEE Std 1232-conformant applications is provided
     in this guide. A simple doorbell is used as an example system under test to illustrate
@@ -47,8 +51,10 @@ abstract:
     terms, and how those concepts are represented in exchange files is shown. Also,
     some of the nuanced aspects of diagnostic knowledge bases in AI-ESTATE are clarified.
     An example reasoner session is provided to illustrate the use of AI-ESTATE services.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Guidance to developers of IEEE Std 1232-conformant applications is provided
     in this guide. A simple doorbell is used as an example system under test to illustrate
@@ -58,12 +64,15 @@ abstract:
     terms, and how those concepts are represented in exchange files is shown. Also,
     some of the nuanced aspects of diagnostic knowledge bases in AI-ESTATE are clarified.
     An example reasoner session is provided to illustrate the use of AI-ESTATE services.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2014'
@@ -87,5 +96,5 @@ keyword:
 - reasoner
 - system test
 ics:
-  code: 01.040.11
+- code: 01.040.11
   text: Health care technology (Vocabularies)

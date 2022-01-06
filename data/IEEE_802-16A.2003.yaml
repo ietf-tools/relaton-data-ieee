@@ -1,14 +1,14 @@
 ---
 id: IEEE802-16a.2003
 title:
-  type: main
+- type: main
   content: 'Standard for Amendment to IEEE Standard for Local and Metropolitan Area
     Networks - Part 16: Air Interface for Fixed Broadband Wireless Access Systems
     - Medium Access Control Modifications and Additional Physical Layer Specifications
     for 2-11 GHz'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1195640
+- content: https://ieeexplore.ieee.org/document/1195640
   type: src
 type: standard
 docid:
@@ -27,19 +27,23 @@ date:
 - type: issued
   value: '2003-01-29'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'Supeseded by IEEE Std 802.16-2004 (Amendment to IEEE Std 802.16-2001)
+- content: 'Supeseded by IEEE Std 802.16-2004 (Amendment to IEEE Std 802.16-2001)
     Abstract: This document amends IEEE Std 802.16-2001 by enhancing the medium access
     control layer and providing additional physical layer specifications in support
     of broadband wireless access at frequencies from 2-11 GHz. The resulting standard
@@ -49,25 +53,30 @@ abstract:
     The standard includes particular physical layer specifications applicable to systems
     operating between 2 and 66 GHz. It supports point-to-multipoint and optional mesh
     topologies.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2003'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-16.2001
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE 802.16 Standard

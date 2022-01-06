@@ -1,12 +1,12 @@
 ---
 id: IEEEP1377/D-11.2012-03
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for Utility Industry Metering Communication Protocol
     Application Layer (End Device Data Tables)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6182564
+- content: https://ieeexplore.ieee.org/document/6182564
   type: src
 type: standard
 docid:
@@ -23,19 +23,23 @@ date:
 - type: issued
   value: '2012-05-14'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2012-05-18'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Common structures are provided in this standard for encoding data in communication
+- content: Common structures are provided in this standard for encoding data in communication
     between End Devices (meters, home appliances, IEEE 1703 Nodes) and Utility enterprise
     collection and control systems using binary codes and Extensible Markup Language
     (XML) content. The Advanced Metering Infrastructure (AMI) and SmartGrid requirements
@@ -52,12 +56,15 @@ abstract:
     of Gas, Water, and Electric sensors and related appliances. Tables are also provided
     for network configuration and management by referencing its companion standard
     IEEE Std 1703TM-2012. IEEE Std 1377-2012 is co-published as ANSI C12.19 and MC12.19.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2012'
@@ -71,5 +78,5 @@ keyword:
 - IEEE 1377
 - Utility Tables
 ics:
-  code: '35.180'
+- code: '35.180'
   text: IT terminal and other peripheral equipment

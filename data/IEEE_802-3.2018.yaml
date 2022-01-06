@@ -1,11 +1,11 @@
 ---
 id: IEEE802-3.2018
 title:
-  type: main
+- type: main
   content: IEEE Standard for Ethernet
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8457469
+- content: https://ieeexplore.ieee.org/document/8457469
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '2018-06-14'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-09-06'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'Ethernet local area network operation is specified for selected speeds
+- content: 'Ethernet local area network operation is specified for selected speeds
     of operation from 1 Mb/s to 400 Gb/s using a common media access control (MAC)
     specification and management information base (MIB). The Carrier Sense Multiple
     Access with Collision Detection (CSMA/CD) MAC protocol specifies shared medium
@@ -50,25 +54,30 @@ abstract:
     metropolitan area network applications, and the provision of power over selected
     twisted pair PHY types.(The PDF of this standard is available at no cost to you
     compliments of the IEEE GET program https://ieeexplore.ieee.org/browse/standards/get-program/page)'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2018'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-3.2015
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards

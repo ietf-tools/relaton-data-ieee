@@ -1,12 +1,12 @@
 ---
 id: IEEE1220.1994
 title:
-  type: main
+- type: main
   content: IEEE Trial Use Standard for Application and Management of the Systems Engineering
     Process
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/477899
+- content: https://ieeexplore.ieee.org/document/477899
   type: src
 type: standard
 docid:
@@ -27,19 +27,23 @@ date:
 - type: issued
   value: '1994-12-13'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-08'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The interdisciplinary tasks that are required throughout a system's life
+- content: The interdisciplinary tasks that are required throughout a system's life
     cycle to transform customer needs, requirements, and constraints into a system
     solution are defined. This standard applies to a performing activity within an
     enterprise that is responsible for developing a product design and establishing
@@ -47,22 +51,25 @@ abstract:
     specifies the requirements for the systems engineering process and its application
     throughout the product life cycle. The requirements of this standard are applicable
     to new products as well as incremental enhancements to existing products
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1995'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1220.1998
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Software development management
@@ -74,5 +81,5 @@ keyword:
 - systems engineering master schedule (SEMS)
 - systems engineering process
 ics:
-  code: 03.100.01
+- code: 03.100.01
   text: Company organization and management in general

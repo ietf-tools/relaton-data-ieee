@@ -1,12 +1,12 @@
 ---
 id: IEEE802-17a.2004
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Local and Metropolitan Area Networks: Media Access Control
     (MAC) Bridges - Amendment 1: Bridging of IEEE Std 802.17'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1355861
+- content: https://ieeexplore.ieee.org/document/1355861
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '2004-09-23'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'Amendment #1 to IEEE Std 802.1D-2004 The scope of this project is limited
+- content: 'Amendment #1 to IEEE Std 802.1D-2004 The scope of this project is limited
     to amending 802.1D-2004 to support Bridging of IEEE Std 802.17 MACs. This involves:
     Adding one subclause to clause 6 of 802.1D describing the service interface mapping
     between the Internal Sublayer Service and the 802.17 MAC service; Minor changes
@@ -46,25 +50,30 @@ abstract:
     Products: IEEE Std 802.17-2004, IEEE 802.1D-2004. The "IEEE Get Program" grants
     public access to view and download individual PDFs of select standards at no charge.
     Visit http://standards.ieee.org/about/get/index.html for details.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2004'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-1D.2004
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -80,5 +89,5 @@ keyword:
 - media access control bridges
 - resilient packet ring (RPR)
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

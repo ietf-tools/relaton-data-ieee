@@ -1,12 +1,12 @@
 ---
 id: ANSIN42-32.2006
 title:
-  type: main
+- type: main
   content: American National Standard Performance Criteria for Alarming Personal Radiation
     Detectors for Homeland Security
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/4079474
+- content: https://ieeexplore.ieee.org/document/4079474
   type: src
 type: standard
 docid:
@@ -25,27 +25,34 @@ date:
 - type: issued
   value: '2006-08-28'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2012-06-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Performance specifications, design criteria, and testing methods are provided
+- content: Performance specifications, design criteria, and testing methods are provided
     for the evaluation of radiation detection instruments that are pocket sized and
     carried on the body.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2007'
@@ -57,15 +64,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: ANSI N42-32.2016
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Radiation detectors
 - Instruments
@@ -82,5 +91,5 @@ keyword:
 - radiation detection
 - radiation instrumentation
 ics:
-  code: '17.240'
+- code: '17.240'
   text: Radiation measurements

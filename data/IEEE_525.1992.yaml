@@ -1,11 +1,11 @@
 ---
 id: IEEE525.1992
 title:
-  type: main
+- type: main
   content: IEEE Guide for the Design and Installation of Cable Systems in Substations
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/239620
+- content: https://ieeexplore.ieee.org/document/239620
   type: src
 type: standard
 docid:
@@ -24,27 +24,34 @@ date:
 - type: issued
   value: '1992-09-17'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-03-08'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Guidance for the design, installation, and protection of wire and cable
+- content: Guidance for the design, installation, and protection of wire and cable
     systems in substations with the objective of minimizing cable failures and their
     consequences is provided. The design of wire and cable systems in gen
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1993'
@@ -56,15 +63,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 525.2007
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Power cables
 - Shielding
@@ -78,5 +87,5 @@ keyword:
 - substations
 - wire cable shield
 ics:
-  code: 29.240.10
+- code: 29.240.10
   text: Substations. Surge arresters

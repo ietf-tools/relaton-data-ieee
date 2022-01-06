@@ -1,12 +1,12 @@
 ---
 id: IEEE187.1990
 title:
-  type: main
+- type: main
   content: 'IEEE Standard on Radio Receivers: Open Field Method of Measurement of
     Spurious Radiation from FM and Television Broadcast Receivers'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/89673
+- content: https://ieeexplore.ieee.org/document/89673
   type: src
 type: standard
 docid:
@@ -25,29 +25,36 @@ date:
 - type: issued
   value: '1990-08-15'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'Superseded by 187-2003. IEEE Standard on Radio Receivers: Open Field Method
+- content: 'Superseded by 187-2003. IEEE Standard on Radio Receivers: Open Field Method
     of Measurement of Spurious Radiation from FM and Television Broadcast Receivers,
     describes the potential sources of spurious radiation from frequency modulation
     and television broadcast receivers and sets up methods of measurement. This standard
     is not intended to apply to equipment other than FM and television broadcast receivers.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1990'
@@ -59,15 +66,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 187.2003
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Electromagnetic radiative interference
 - Standards
@@ -87,5 +96,5 @@ keyword:
 - Electromagnetic measurements
 - Electromagnetic interference
 ics:
-  code: 33.100.10
+- code: 33.100.10
   text: Emission

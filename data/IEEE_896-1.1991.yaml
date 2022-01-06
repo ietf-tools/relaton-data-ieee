@@ -1,11 +1,11 @@
 ---
 id: IEEE896-1.1991
 title:
-  type: main
+- type: main
   content: IEEE Standard for Futurebus+(R) -- Logical Protocol Specification
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/159471
+- content: https://ieeexplore.ieee.org/document/159471
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1991-09-26'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-03-27'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'IEEE Std 896.1-1991 provides a set of tools with which to implement a
+- content: 'IEEE Std 896.1-1991 provides a set of tools with which to implement a
     Futurebus+architecture with performance and cost scalability over time, for multiple
     generations of single- and multiple-bus multiprocessor systems. Although this
     specification is principally intended for 64-bit address and data operation, a
@@ -52,12 +56,15 @@ abstract:
     (2) a configurable transfer-rate, source-synchronized protocol supporting only
     block transfers and source-synchronized broadcast for systems requiring the highest
     possible performance.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1992'
@@ -70,5 +77,5 @@ keyword:
 - logical protocol
 - multiprocessor systems
 ics:
-  code: '35.160'
+- code: '35.160'
   text: Microprocessor systems

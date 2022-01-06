@@ -8,7 +8,7 @@ title:
   content: IEEE Standard for Floating-Point Arithmetic - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5976968
+- content: https://ieeexplore.ieee.org/document/5976968
   type: src
 type: standard
 docid:
@@ -27,28 +27,35 @@ date:
 - type: issued
   value: '2008-06-12'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-08-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This standard specifies formats and methods for floating-point arithmetic
+- content: 'This standard specifies formats and methods for floating-point arithmetic
     in computer systems: standard and extended functions with single, double, extended,
     and extendable precision, and recommends formats for data interchange. Exception
     conditions are defined and standard handling of these conditions is specified.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2011'
@@ -65,15 +72,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 754.2019
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Arithmetic

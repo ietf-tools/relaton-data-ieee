@@ -1,12 +1,12 @@
 ---
 id: IEC62527.2007
 title:
-  type: main
+- type: main
   content: 'IEC 62527 Ed. 1 (IEEE Std 1450.2(TM)-2002): Standard for Extensions to
     Standard Test Interface Language (STIL) for DC Level Specification'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/4410232
+- content: https://ieeexplore.ieee.org/document/4410232
   type: src
 type: standard
 docid:
@@ -27,14 +27,18 @@ date:
 - type: issued
   value: '2007'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: 'This standard extends IEEE Std 1450-1999 (STIL) to support the definition
     of DC levels. STIL language constructs are defined to specify the DC conditions
@@ -43,8 +47,10 @@ abstract:
     under test; (b) specifying DC conditions either globally, by pattern burst, by
     pattern, or by vector; (c) specifying alternate DC levels; and (d) selecting DC
     levels and alternate levels within a period, much the same as timed format events.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: 'This standard extends IEEE Std 1450-1999 (STIL) to support the definition
     of DC levels. STIL language constructs are defined to specify the DC conditions
@@ -53,12 +59,15 @@ abstract:
     under test; (b) specifying DC conditions either globally, by pattern burst, by
     pattern, or by vector; (c) specifying alternate DC levels; and (d) selecting DC
     levels and alternate levels within a period, much the same as timed format events.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2007'

@@ -1,11 +1,11 @@
 ---
 id: IEEE802-3-1.2013
 title:
-  type: main
+- type: main
   content: IEEE Standard for Management Information Base (MIB) Definitions for Ethernet
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6572796
+- content: https://ieeexplore.ieee.org/document/6572796
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '2013-06-14'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-07-31'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The Management Information Base (MIB) module specifications for IEEE Std
     802.3TM, also known as Ethernet, are contained in this standard. It includes the
@@ -45,8 +49,10 @@ abstract:
     as well as extensions resulting from amendments to IEEE Std 802.3. The SMIv2 MIB
     modules are intended for use with the Simple Network Management Protocol (SNMP),
     commonly used to manage Ethernet.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: The Management Information Base (MIB) module specifications for IEEE Std
     802.3TM, also known as Ethernet, are contained in this standard. It includes the
@@ -56,25 +62,30 @@ abstract:
     modules are intended for use with the Simple Network Management Protocol (SNMP),
     commonly used to manage Ethernet. The PDF of this standard is available at no
     cost compliments of the GETIEEE802 program. For more information go to https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=68
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2013'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-3-1.2011
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE 802.3 Standards

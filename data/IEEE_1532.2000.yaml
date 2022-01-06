@@ -1,11 +1,11 @@
 ---
 id: IEEE1532.2000
 title:
-  type: main
+- type: main
   content: IEEE Standard for In-System Configuration of Programmable Devices
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/895604
+- content: https://ieeexplore.ieee.org/document/895604
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '2000-09-21'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-10'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The communication protocol described by IEEE Std 1149.1 TM -2001 (Standard
+- content: The communication protocol described by IEEE Std 1149.1 TM -2001 (Standard
     Test Access Port and Boundary-Scan Architecture) has been adopted by this standard
     for providing standardized programming access and methodology for programmable
     integrated circuit devices.Devices that implement this standard will first be
@@ -45,22 +49,25 @@ abstract:
     back, erased, and verified, singly or concurrently, with a standardized setof
     resources. Sample implementation and application details (which are not part of
     this standard)are included for illustrative purposes.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2000'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1532.2001
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Patents

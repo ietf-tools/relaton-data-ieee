@@ -1,11 +1,11 @@
 ---
 id: IEEE1076-3.1997
 title:
-  type: main
+- type: main
   content: IEEE Standard VHDL Synthesis Packages
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/592543
+- content: https://ieeexplore.ieee.org/document/592543
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1997-03-20'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-10-17'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The current interpretation of common logic values and the association of
+- content: The current interpretation of common logic values and the association of
     numeric values to specific VHDL array types is described. This standard provides
     semantic for the VHDL synthesis domain, and enables formal verification and simulation
     acceleration in the VHDL based design. The standard interpretations are provided
@@ -46,12 +50,15 @@ abstract:
     for arrays of common logic values. Twos complement and binary encoding techniques
     are used. The numeric semantic is conveyed by two VHDL packages. This standard
     also contains any allowable modifications.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1997'
@@ -64,5 +71,5 @@ keyword:
 - synthesis
 - unsigned
 ics:
-  code: '35.060'
+- code: '35.060'
   text: Languages used in information technology

@@ -1,12 +1,12 @@
 ---
 id: IEEE1101-1.1991
 title:
-  type: main
+- type: main
   content: IEEE Standard for Mechanical Core Specifications for Microcomputers Using
     IEC 603-2 Connectors
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/211187
+- content: https://ieeexplore.ieee.org/document/211187
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1991-09-26'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Superseded by 1101.1-1998 (SH/SS94691) The basic dimensions of a range
+- content: Superseded by 1101.1-1998 (SH/SS94691) The basic dimensions of a range
     of modular subracks conforming to IEC 60297-3 (1984-01) and IEC 60297-4 (1995-03)
     for mounting in equipment according to IEC 60297-1 (1986-09) andANSI/EIA 310-D-1992,
     together with the basic dimensions of a compatible range of plug-in units,printed
@@ -46,22 +50,25 @@ abstract:
     system integration guide-lines with attendant advantages, such as reduction in
     design and development time, manufacturingcost savings, and distinct marketing
     advantages.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1992'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1101-1.1998
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Computer interfaces
 - Connectors
@@ -72,5 +79,5 @@ keyword:
 - Plug-in units
 - Mechanical interchangeability
 ics:
-  code: '35.160'
+- code: '35.160'
   text: Microprocessor systems

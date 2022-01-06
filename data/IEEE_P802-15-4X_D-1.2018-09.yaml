@@ -1,13 +1,13 @@
 ---
 id: IEEEP802-15-4x/D-1.2018-09
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for Low-Rate Wireless Networks Amendment Defining Enhancements
     to the Smart Utility Network (SUN) Physical Layers (PHYs) Supporting up to 2.4
     Mb/s Data Rates
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8526566
+- content: https://ieeexplore.ieee.org/document/8526566
   type: src
 type: standard
 docid:
@@ -24,44 +24,53 @@ date:
 - type: issued
   value: '2019-03-21'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-11-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Enhancements to the IEEE 802.15.4(TM) smart utility network (SUN) orthogonal
+- content: Enhancements to the IEEE 802.15.4(TM) smart utility network (SUN) orthogonal
     frequency division multiplexing (OFDM) physical layers (PHYs) that enable support
     for data rates up to 2.4 Mb/s are defined by this amendment to IEEE Std 802.15.4(TM)-2015.
     This amendment also defines additional channel plans, as needed, to support emerging
     applications.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2018'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-15-4.2015
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Wireless networks
@@ -76,5 +85,5 @@ keyword:
 - wireless personal area network
 - WPAN
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

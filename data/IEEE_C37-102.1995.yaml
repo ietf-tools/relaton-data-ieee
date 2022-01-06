@@ -1,11 +1,11 @@
 ---
 id: IEEEC37-102.1995
 title:
-  type: main
+- type: main
   content: IEEE Guide for AC Generator Protection
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8684617
+- content: https://ieeexplore.ieee.org/document/8684617
   type: src
 type: standard
 docid:
@@ -24,29 +24,36 @@ date:
 - type: issued
   value: '1995-12-12'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Superseded by IEEE Std C37.102-2006 A review of the generally accepted
+- content: Superseded by IEEE Std C37.102-2006 A review of the generally accepted
     forms of relay protection for the synchronous generator and its excitation system
     is presented. This guide is primarily concerned with protection against faults
     and abnormal operating conditions for large hydraulic, steam and conbustion-turbine
     generators.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1996'
@@ -58,8 +65,10 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
@@ -71,12 +80,12 @@ relation:
     formattedref:
       content: IEEE C37-102.2006
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - ac generator
 - generator protection
 - relay protection
 - synchronous
 ics:
-  code: 29.160.20
+- code: 29.160.20
   text: Generators

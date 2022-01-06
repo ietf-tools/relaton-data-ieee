@@ -1,11 +1,11 @@
 ---
 id: IEEE18.1992
 title:
-  type: main
+- type: main
   content: IEEE Standard for Shunt Power Capacitors
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/211737
+- content: https://ieeexplore.ieee.org/document/211737
   type: src
 type: standard
 docid:
@@ -24,29 +24,36 @@ date:
 - type: issued
   value: '1992-09-17'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Superseded by 18-2002. Capacitors rated 216 V or higher, 2.5 kvar or more,
+- content: Superseded by 18-2002. Capacitors rated 216 V or higher, 2.5 kvar or more,
     and designed for shunt connection to alternating-current transmission and distribution
     systems operating at a nominal frequency of 50 or 60 Hz are considered. Service
     conditions, ratings, manufacturing, and testing are covered. A guide to application
     and operation of power capacitors is included.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1993'
@@ -58,15 +65,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 18.2002
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Power capacitors
 - Standards
@@ -83,5 +92,5 @@ keyword:
 - Transmission and distribution
 - Shunt connection
 ics:
-  code: 31.060.70
+- code: 31.060.70
   text: Power capacitors

@@ -1,14 +1,14 @@
 ---
 id: IEEEP802-11ba/D-6.0.2020-01
 title:
-  type: main
+- type: main
   content: 'IEEE Draft Standard for Information Technology--Telecommunications and
     Information Exchange Between Systems Local and Metropolitan Area Networks--Specific
     Requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer
     (PHY) Specifications Amendment: Wake-up radio operation'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8986875
+- content: https://ieeexplore.ieee.org/document/8986875
   type: src
 type: standard
 docid:
@@ -25,27 +25,34 @@ date:
 - type: issued
   value: '2021-03-25'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-02-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This amendment defines modifications to both the IEEE 802.11 physical layer
+- content: This amendment defines modifications to both the IEEE 802.11 physical layer
     (PHY) and the IEEE 802.11 medium access control (MAC) sublayer for wake-up radio
     operation.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2020'
@@ -57,8 +64,10 @@ relation:
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: updates
   bibitem:
@@ -67,10 +76,12 @@ relation:
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Local area networks
@@ -88,5 +99,5 @@ keyword:
 - power save
 - wake-up radio
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

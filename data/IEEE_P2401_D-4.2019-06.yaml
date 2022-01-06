@@ -1,12 +1,12 @@
 ---
 id: IEEEP2401/D-4.2019-06
 title:
-  type: main
+- type: main
   content: IEEE Approved Draft Standard Format for LSI-Package-Board Interoperable
     Design
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8796477
+- content: https://ieeexplore.ieee.org/document/8796477
   type: src
 type: standard
 docid:
@@ -23,30 +23,37 @@ date:
 - type: issued
   value: '2019-11-07'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-08-13'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: A method is provided for specifying a common interoperable format for electronic
+- content: A method is provided for specifying a common interoperable format for electronic
     systems design. The format provides a common way to specify information/data about
     the project management, netlists, components, design rules, and geometries used
     in the large-scale integration-package-board designs. The method provides the
     ability to make electronic systems a key consideration early in the design process;
     design tools can use it to seamlessly exchange information/data.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2019'
@@ -69,5 +76,5 @@ keyword:
 - project management
 - Verilog-HDL
 ics:
-  code: '31.200'
+- code: '31.200'
   text: Integrated circuits. Microelectronics

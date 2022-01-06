@@ -1,12 +1,12 @@
 ---
 id: IEEE1450-6.2005
 title:
-  type: main
+- type: main
   content: IEEE Standard Test Interface Language (STIL) for Digital Test Vector Data-Core
     Test Language (CTL)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8328064
+- content: https://ieeexplore.ieee.org/document/8328064
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2005-11-17'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-03-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The Core Test Language (CTL) is a language created for a System-on-Chip
     flow (or SoC flow), where a design created by one group is reused as a sub-design
@@ -45,8 +49,10 @@ abstract:
     in the larger design is commonly called a core and the larger design is commonly
     called the SoC. The core is a design provided by a core provider, and the task
     of incorporating the sub-design into the SoC is called Core System Integration.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: The Core Test Language (CTL) is a language created for a System-on-Chip
     flow (or SoC flow), where a design created by one group is reused as a sub-design
@@ -54,12 +60,15 @@ abstract:
     in the larger design is commonly called a core and the larger design is commonly
     called the SoC. The core is a design provided by a core provider, and the task
     of incorporating the sub-design into the SoC is called Core System Integration.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2006'
@@ -74,5 +83,5 @@ keyword:
 - wrapped core
 - unwrapped core
 ics:
-  code: '35.060'
+- code: '35.060'
   text: Languages used in information technology

@@ -1,11 +1,11 @@
 ---
 id: IEEE1505.2006
 title:
-  type: main
+- type: main
   content: IEEE Standard for Receiver Fixture Interface
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/4161138
+- content: https://ieeexplore.ieee.org/document/4161138
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '2006-08-07'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The scope of this document is the development of a common receiver/fixture
     interface (RFI) specification that is based upon available commercial standards
@@ -44,8 +48,10 @@ abstract:
     is intended to serve government/commercial interest for applications in test,
     system integration, manufacturing, monitoring, and other functional requirements
     that demand large contact densities and quick-disconnect mechanical operation.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: 'A mechanical and electrical specification for implementing a common interoperable
     mechanical quick-disconnect interconnect system for use by industry for interfacing
@@ -66,22 +72,25 @@ abstract:
     of interconnecting connector and mechanical specifications that supports available,
     accepted, low-cost commercial technology to reduced dependence on proprietary
     designs and extend life-cycle availability.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2007'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1505.2010
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Receivers
@@ -99,5 +108,5 @@ keyword:
 - receiver
 - specification
 ics:
-  code: 31.220.10
+- code: 31.220.10
   text: Plug-and-socket devices

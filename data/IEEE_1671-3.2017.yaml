@@ -1,12 +1,12 @@
 ---
 id: IEEE1671-3.2017
 title:
-  type: main
+- type: main
   content: IEEE Standard for Automatic Test Markup Language (ATML) Unit Under Test
     (UUT) Description
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8337144
+- content: https://ieeexplore.ieee.org/document/8337144
   type: src
 type: standard
 docid:
@@ -25,40 +25,49 @@ date:
 - type: issued
   value: '2017-12-06'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-04-12'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: An exchange format utilizing Extensible Markup Language (XML) for both
+- content: An exchange format utilizing Extensible Markup Language (XML) for both
     the static description of unit under test (UUT) and the specific description of
     UUT instance information is defined in this standard.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2018'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1671-3.2007
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -73,5 +82,5 @@ keyword:
 - unit under test (UUT)
 - XML schema
 ics:
-  code: 35.240.30
+- code: 35.240.30
   text: IT applications in information, documentation and publishing

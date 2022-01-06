@@ -1,12 +1,12 @@
 ---
 id: IEEE1013.2019
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for Sizing Lead-Acid Batteries for Stand-Alone
     Photovoltaic (PV) Systems
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8845030
+- content: https://ieeexplore.ieee.org/document/8845030
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2019-05-21'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-09-19'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: A method for determining the energy-capacity requirements (sizing) of both
     vented and valve-regulated lead-acid batteries used in terrestrial stand-alone
@@ -47,8 +51,10 @@ abstract:
     of battery types other than lead-acid are beyond the scope of this recommended
     practice. Recommended practices for the remainder of the electrical systems associated
     with PV installations are also beyond the scope of this recommended practice.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: A method for determining the energy-capacity requirements (sizing) of both
     vented and valve-regulated lead-acid batteries used in terrestrial stand-alone
@@ -58,25 +64,30 @@ abstract:
     of battery types other than lead-acid are beyond the scope of this recommended
     practice. Recommended practices for the remainder of the electrical systems associated
     with PV installations are also beyond the scope of this recommended practice.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2019'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1013.2007
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -94,5 +105,5 @@ keyword:
 - solar
 - stand-alone
 ics:
-  code: 29.220.10
+- code: 29.220.10
   text: Primary cells and batteries

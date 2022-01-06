@@ -1,12 +1,12 @@
 ---
 id: IEEE1003-1/Cor2.2004
 title:
-  type: main
+- type: main
   content: IEEE Standard for Information Technology - Portable Operating System Interface
     (POSIX(TM)) - Technical Corrigendum 2
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1282224
+- content: https://ieeexplore.ieee.org/document/1282224
   type: src
 type: standard
 docid:
@@ -25,41 +25,50 @@ date:
 - type: issued
   value: '2004-02-09'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-06-21'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Technical Corrigendum 2 addresses problems discovered since the approval
+- content: Technical Corrigendum 2 addresses problems discovered since the approval
     of the 2003 edition of The Open Group Base Specifications, Issue 6, IEEE Std 1003.1,
     and ISO/IEC 9945. These are mainly due to resolving integration issues raised
     by the merger of the original Base documents.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2004'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1003-1.2001
       format: text/plain
   description:
     content: corrects
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -83,5 +92,5 @@ keyword:
 - FIFO
 - file access cont
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

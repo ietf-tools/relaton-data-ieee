@@ -1,12 +1,12 @@
 ---
 id: IEEE/ISO/IECFDISP29119-4.2020-12
 title:
-  type: main
+- type: main
   content: 'IEEE/ISO/IEC Draft International Standard - Software and systems engineering--Software
     testing--Part 4: Test techniques'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9334488
+- content: https://ieeexplore.ieee.org/document/9334488
   type: src
 type: standard
 docid:
@@ -23,19 +23,23 @@ date:
 - type: issued
   value: '2021-09-23'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-01-22'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The purpose of this part of ISO/IEC/IEEE 29119 is to provide an International
+- content: The purpose of this part of ISO/IEC/IEEE 29119 is to provide an International
     Standard that defines software test design techniques (also known as test case
     design techniques or test methods) that can be used within the test design and
     implementation process that is defined in ISO/IEC/IEEE 29119-2. This part of ISO/IEC/IEEE
@@ -49,27 +53,34 @@ abstract:
     have not been met). Risk-based testing could be used to determine the set of techniques
     that are applicable in specific (risk-based testing is covered in ISO/IEC/IEEE
     29119-1 and ISO/IEC/IEEE 29119-2).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
-  - name: IEC
+  - name:
+    - ISO
+  - name:
+    - IEC
   from: '2021'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: ISO/IEC/IEEE 29119-4.2015
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -79,5 +90,5 @@ keyword:
 - Systems engineering and theory
 - Software testing
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

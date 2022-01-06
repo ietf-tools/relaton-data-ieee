@@ -1,12 +1,12 @@
 ---
 id: IEEE1474-1.1999
 title:
-  type: main
+- type: main
   content: IEEE Standard for Communication Based Train Control Performance Requirements
     and Functional Requirements
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/815310
+- content: https://ieeexplore.ieee.org/document/815310
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1999-09-16'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'SUPERSEDED BY 1474.1-2004 Abstract: Performance and functional requirements
+- content: 'SUPERSEDED BY 1474.1-2004 Abstract: Performance and functional requirements
     for a communications-based train control (CBTC) system are established in this
     standard. A CBTC system is a continuous, automatic train control system utilizing
     high-resolution train location determination, independent of track circuits; continuous,
@@ -47,27 +51,30 @@ abstract:
     supervision (ATS) functions. In addition to CBTC functional requirements, this
     standard also defines headway criteria, system safety criteria, and system availability
     criteria for a CBTC system.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1999'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1474-1.2004
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Rail transportation
 - communications
 - signaling
 - train control
 ics:
-  code: 35.240.60
+- code: 35.240.60
   text: IT applications in transport and trade

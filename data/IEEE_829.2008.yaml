@@ -1,11 +1,11 @@
 ---
 id: IEEE829.2008
 title:
-  type: main
+- type: main
   content: IEEE Standard for Software and System Test Documentation
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/4578383
+- content: https://ieeexplore.ieee.org/document/4578383
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '2008-03-27'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-08-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: Test processes determine whether the development products of a given activity
     conform to the requirements of that activity and whether the system and/or software
@@ -50,8 +54,10 @@ abstract:
     microcode, and documentation. Test processes can include inspection, analysis,
     demonstration, verification, and validation of software and software-based system
     products.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Test processes determine whether the development products of a given activity
     conform to the requirements of that activity and whether the system and/or software
@@ -64,25 +70,30 @@ abstract:
     Non-Developmental Items). The term software also includes firmware, microcode
     and documentation. Test processes can include inspection, analysis, demonstration,
     verification and validation of software and software-based system products.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2008'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 829.1998
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -96,5 +107,5 @@ keyword:
 - test documentation
 - testing
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

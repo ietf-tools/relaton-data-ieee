@@ -1,13 +1,13 @@
 ---
 id: IEEE1671-3.2007
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Automatic Test Markup Language (ATML) for Exchanging
     Automatic Test Information via XML (eXtensible Markup Language): Exchanging UUT
     (Unit Under Test) Description Information'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/4479571
+- content: https://ieeexplore.ieee.org/document/4479571
   type: src
 type: standard
 docid:
@@ -26,38 +26,45 @@ date:
 - type: issued
   value: '2007-12-05'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-07-11'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document specifies an exchange format, using XML, for identifying
+- content: This document specifies an exchange format, using XML, for identifying
     all of the hardware, software, and documentation associated with a unit under
     test (UUT). This UUT may be tested and diagnosed using a test program set (TPS)
     on an automatic test system (ATS).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2008'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1671-3.2017
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - XML
@@ -72,5 +79,5 @@ keyword:
 - unit under test (UUT)
 - XML schema
 ics:
-  code: 35.240.30
+- code: 35.240.30
   text: IT applications in information, documentation and publishing

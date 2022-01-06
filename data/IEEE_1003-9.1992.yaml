@@ -1,12 +1,12 @@
 ---
 id: IEEE1003-9.1992
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for InformationTechnology - POSIX(R) FORTRAN 77 Language
     Interfaces - Part 1: Binding for System Application Program Interface (API)'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/182910
+- content: https://ieeexplore.ieee.org/document/182910
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1992-06-18'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-30'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard provides a standardized interface for accessing the system
+- content: This standard provides a standardized interface for accessing the system
     services of ISO/IEC 9945-1:1990 (IEEE Std 1003.1-1990, also know as POSIX.1),
     and support routines to access constructs not directly accessible with FORTRAN
     77. This standard supports application portability at the source level through
@@ -47,12 +51,15 @@ abstract:
     and general requirements, process primitives, the process environment, files and
     directories, input and output primitives, device- and class-specific functions,
     the FORTRAN 77 language library, and system databases are covered.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1992'

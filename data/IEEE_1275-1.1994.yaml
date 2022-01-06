@@ -1,12 +1,12 @@
 ---
 id: IEEE1275-1.1994
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Boot (Initialization Configuration) Firmware: Instruction
     Set Architecture (ISA) Supplement for IEEE 1754'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/467437
+- content: https://ieeexplore.ieee.org/document/467437
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1994-09-22'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-09'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'Firmware is the read-only-memory (ROM)-based software that controls a
+- content: 'Firmware is the read-only-memory (ROM)-based software that controls a
     computer between the time it is turned on and the time the primary operating system
     takes control of the machine. Firmware''s responsibilities include testing and
     initializing the hardware, determining the hardware configuration, loading (or
@@ -48,12 +52,15 @@ abstract:
     establishes such additional requirements pertaining to the instruction set architecture
     (ISA) defined by IEEE Std 1754- 1994: IEEE Standard for a 32-bit Microprocessor
     Architecture.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1994'
@@ -70,5 +77,5 @@ keyword:
 - plug-in device
 - ROM
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

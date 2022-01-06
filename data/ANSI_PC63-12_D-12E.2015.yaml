@@ -1,12 +1,12 @@
 ---
 id: ANSIPC63-12/D-12e.2015
 title:
-  type: main
+- type: main
   content: IEEE/ANSI Draft Recommended Practice for Electromagnetic Compatibility
     Limits and Test Levels
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7118110
+- content: https://ieeexplore.ieee.org/document/7118110
   type: src
 type: standard
 docid:
@@ -23,19 +23,23 @@ date:
 - type: issued
   value: '2015-06-24'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-06-04'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This recommended practice presents a rationale and recommendations for
+- content: This recommended practice presents a rationale and recommendations for
     developing emission limits and immunity test levels. These limits and levels are
     representative of current practice and user needs. Emission limits are specified
     by national and international standards bodies. Emission limits for the most part
@@ -51,30 +55,36 @@ abstract:
     high) require the consideration of applying higher test levels. This is described
     herein. Finally, it should be noted that the entire recommended practice does
     not contain normative requirements, as such practices remain optional.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: American National Standards Institute
+  - name:
+    - American National Standards Institute
     abbreviation: ANSI
     url: https://www.ansi.org
   from: '2015'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: ANSI C63-12.1999
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - ANSI Standards
@@ -92,5 +102,5 @@ keyword:
 - man-made
 - and galactic).
 ics:
-  code: 33.100.01
+- code: 33.100.01
   text: Electromagnetic compatibility (EMC) in general

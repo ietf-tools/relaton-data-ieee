@@ -1,14 +1,14 @@
 ---
 id: IEEEP802-1CMde/D-2.1.2020-02
 title:
-  type: main
+- type: main
   content: 'IEEE Approved Draft Standard for Local and metropolitan area networks
     -- Time-Sensitive Networking for Fronthaul Amendment: Enhancements to Fronthaul
     Profiles to Support New Fronthaul Interface, Synchronization, and Syntonization
     Standards'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9001290
+- content: https://ieeexplore.ieee.org/document/9001290
   type: src
 type: standard
 docid:
@@ -25,42 +25,51 @@ date:
 - type: issued
   value: '2020-06-04'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-02-18'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Enhancements to fronthaul profiles are defined in this amendment to IEEE
+- content: Enhancements to fronthaul profiles are defined in this amendment to IEEE
     Std 802.1CM-2018 in order to address new developments in fronthaul interface standards
     and in related synchronization and syntonization standards
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2020'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-1CM.2018
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Local area networks
@@ -84,5 +93,5 @@ keyword:
 - VLAN
 - VLAN Bridge
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

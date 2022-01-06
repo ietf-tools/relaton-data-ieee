@@ -1,14 +1,14 @@
 ---
 id: IEEE/ISO/IEC8802-1Q/Amd1.2020
 title:
-  type: main
+- type: main
   content: 'IEEE/ISO/IEC International Standard-Telecommunications and exchange between
     information technology systems -- Requirements for local and metropolitan area
     networks -- Part 1Q: Bridges and bridged networks AMENDMENT 31: Stream Reservation
     Protocol (SRP) enhancements and performance improvements'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9599625
+- content: https://ieeexplore.ieee.org/document/9599625
   type: src
 type: standard
 docid:
@@ -27,33 +27,42 @@ date:
 - type: issued
   value: '2021'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-11-02'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Enhancements to the configuration of time-sensitive streams are provided
+- content: Enhancements to the configuration of time-sensitive streams are provided
     by this amendment to IEEE Std 8802.1Q-2018.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
-  - name: IEC
+  - name:
+    - ISO
+  - name:
+    - IEC
   from: '2021'
 relation:
-  type: adoptedFrom
+- type: adoptedFrom
   bibitem:
     formattedref:
       content: IEEE 802-1Qcc.2018
@@ -80,5 +89,5 @@ keyword:
 - Time-Sensitive Networking
 - TSN
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

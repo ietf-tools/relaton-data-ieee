@@ -1,11 +1,11 @@
 ---
 id: IEEE1754.1994
 title:
-  type: main
+- type: main
   content: IEEE Standard for a 32-bit Microprocessor Architecture
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/478092
+- content: https://ieeexplore.ieee.org/document/478092
   type: src
 type: standard
 docid:
@@ -26,27 +26,34 @@ date:
 - type: issued
   value: '1994-03-17'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-26'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: A 32-bit microprocessor architecture, available to a wide variety of manufacturers
+- content: A 32-bit microprocessor architecture, available to a wide variety of manufacturers
     and users, is defined. The standard includes the definition of the instruction
     set, register model, data types, instruction op-codes, and coprocessor interface.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1995'
@@ -60,5 +67,5 @@ keyword:
 - microprocessor
 - instruction set architecture
 ics:
-  code: '35.160'
+- code: '35.160'
   text: Microprocessor systems

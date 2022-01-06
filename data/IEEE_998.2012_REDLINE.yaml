@@ -8,7 +8,7 @@ title:
   content: IEEE Guide for Direct Lightning Stroke Shielding of Substations - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6656813
+- content: https://ieeexplore.ieee.org/document/6656813
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2012-12-05'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-11-06'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: Design information for the methods historically and typically applied by
     substation designers to reduce direct lightning strokes to equipment and buswork
@@ -45,8 +49,10 @@ abstract:
     and the electrogeometric model, are presented in detail. A third approach, which
     involves the use of non-conventional lightning terminals and related design methods,
     is also reviewed.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Design information for the methods historically and typically applied by
     substation designers to reduce direct lightning strokes to equipment and buswork
@@ -54,25 +60,30 @@ abstract:
     and the electrogeometric model, are presented in detail. A third approach, which
     involves the use of non-conventional lightning terminals and related design methods,
     is also reviewed.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2013'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 998.1996
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE standards
@@ -92,5 +103,5 @@ keyword:
 - self-consistent leader inception and propagation model (SLIM)
 - substations empirical curves
 ics:
-  code: 91.120.40
+- code: 91.120.40
   text: Lightning protection

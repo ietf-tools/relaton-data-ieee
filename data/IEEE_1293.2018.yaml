@@ -1,12 +1,12 @@
 ---
 id: IEEE1293.2018
 title:
-  type: main
+- type: main
   content: IEEE Standard Specification Format Guide and Test Procedure for Linear
     Single-Axis, Nongyroscopic Accelerometers
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8653544
+- content: https://ieeexplore.ieee.org/document/8653544
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2018-10-23'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-02-26'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The specification and test requirements for a linear, single-axis, nongyroscopic
     accelerometer for use in inertial navigation, guidance, and leveling systems are
@@ -48,8 +52,10 @@ abstract:
     effects, on filtering, noise, and transient analysis techniques, and on calibration
     and modeling techniques (multipoint tumble analysis, vibration and shock test
     analyses, and geophysical effects in inertial instrument testing).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: The specification and test requirements for a linear, single-axis, nongyroscopic
     accelerometer for use in inertial navigation, guidance, and leveling systems are
@@ -60,25 +66,30 @@ abstract:
     effects, on filtering, noise, and transient analysis techniques, and on calibration
     and modeling techniques (multipoint tumble analysis, vibration and shock test
     analyses, and geophysical effects in inertial instrument testing).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2019'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1293.1998
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -103,5 +114,5 @@ keyword:
 - vibrating beam accelerometer
 - vibration and shock
 ics:
-  code: '17.080'
+- code: '17.080'
   text: Measurement of time, velocity, acceleration, angular velocity

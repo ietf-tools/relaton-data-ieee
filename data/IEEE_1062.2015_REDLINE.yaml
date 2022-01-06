@@ -1,11 +1,11 @@
 ---
 id: IEEE1062.2015Redline
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for Software Acquisition
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7544427
+- content: https://ieeexplore.ieee.org/document/7544427
   type: src
 type: standard
 docid:
@@ -22,19 +22,23 @@ date:
 - type: issued
   value: '2015-12-05'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-08-16'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: A set of useful quality considerations that can be selected and applied
+- content: A set of useful quality considerations that can be selected and applied
     during one or more steps in a software acquisition process is described in this
     recommended practice. The recommended practices can be applied to software that
     runs on any computer system regardless of the size, complexity, or criticality
@@ -42,25 +46,30 @@ abstract:
     (OTS), custom, or free and open source software (FOSS). Each organization or individual
     using this recommended practice will need to identify the specific quality and
     activities that need to be included within its acquisition process.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2016'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1062.1993
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -79,5 +88,5 @@ keyword:
 - software as a service
 - supplier
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

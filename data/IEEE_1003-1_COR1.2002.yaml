@@ -1,12 +1,12 @@
 ---
 id: IEEE1003-1/Cor1.2002
 title:
-  type: main
+- type: main
   content: IEEE Standard for Information Technology -- Portable Operating System Interface
     (POSIX(TM)) -- Technical Corrigendum 1
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1388140
+- content: https://ieeexplore.ieee.org/document/1388140
   type: src
 type: standard
 docid:
@@ -25,41 +25,50 @@ date:
 - type: issued
   value: '2002-12-11'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This Technical Corrigendum addresses problems discovered since the approval
+- content: 'This Technical Corrigendum addresses problems discovered since the approval
     of The Open Group Base Specifications, Issue 6, IEEE Std 1003.1-2001, and ISO/IEC
     9945: 2002. These are mainly due to resolving integration issues raised by the
     merger of the original Base documents.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2003'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1003-1.2001
       format: text/plain
   description:
     content: corrects
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -95,5 +104,5 @@ keyword:
 - thread
 - X/Open System Interface (XSI)
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

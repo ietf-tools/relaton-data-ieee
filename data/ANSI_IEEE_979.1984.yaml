@@ -1,11 +1,11 @@
 ---
 id: ANSI/IEEE979.1984
 title:
-  type: main
+- type: main
   content: IEEE Guide for Substation Fire Protection
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/578034
+- content: https://ieeexplore.ieee.org/document/578034
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1984-03-22'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-11-14'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'Substation fire-protection practices that generally have been accepted
+- content: 'Substation fire-protection practices that generally have been accepted
     by the electric utility industry and existing fire- protection standards and guides
     that may aid in the design of components are identified. The purpose is to give
     design guidance to the substation engineer in the area of fire protection. The
@@ -44,22 +48,25 @@ abstract:
     location of oil-filled equipment; cable installation; fire detection systems;
     fire extinguishing systems; substation components; indoor substations; and fire
     fighting'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1984'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 979.1994
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Substations
@@ -71,5 +78,5 @@ keyword:
 - electric utility industry and existing fire- protection standards
 - design of components
 ics:
-  code: 13.220.01
+- code: 13.220.01
   text: General standards related to fire protection

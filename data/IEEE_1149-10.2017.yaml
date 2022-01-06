@@ -1,12 +1,12 @@
 ---
 id: IEEE1149-10.2017
 title:
-  type: main
+- type: main
   content: IEEE Standard for High-Speed Test Access Port and On-Chip Distribution
     Architecture
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7995164
+- content: https://ieeexplore.ieee.org/document/7995164
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2017-05-18'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-07-28'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: Circuitry that may be built into an integrated circuit to assist in the
     test, maintenance, and support of assembled printed circuit boards, assembled
@@ -46,8 +50,10 @@ abstract:
     and distribution architecture through which instructions and test data are communicated.
     The standard leverages the languages of IEEE Std 1149.1(TM) to describe and operate
     the on-chip circuits.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Circuitry that may be built into an integrated circuit to assist in the
     test, maintenance, and support of assembled printed circuit boards, assembled
@@ -56,12 +62,15 @@ abstract:
     and distribution architecture through which instructions and test data are communicated.
     The standard leverages the languages of IEEE Std 1149.1&#8482; to describe and
     operate the on-chip circuits.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2017'
@@ -89,5 +98,5 @@ keyword:
 - SPI
 - system level test
 ics:
-  code: 01.040.11
+- code: 01.040.11
   text: Health care technology (Vocabularies)

@@ -1,12 +1,12 @@
 ---
 id: IEEE1212.2001
 title:
-  type: main
+- type: main
   content: IEEE Standard for a Control and Status Registers (CSR) Architecture for
     Microcomputer Buses
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1032653
+- content: https://ieeexplore.ieee.org/document/1032653
   type: src
 type: standard
 docid:
@@ -25,31 +25,38 @@ date:
 - type: issued
   value: '2001-12-06'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-09-13'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Administratively withdrawn January 2007 A common bus architecture (which
+- content: Administratively withdrawn January 2007 A common bus architecture (which
     includes functional components--modules, nodes,and units--and their address space,
     transaction set, CSRs, and configuration information) suitablefor both parallel
     and serial buses is provided in this standard. Bus bridges are enabled by the
     archi-tecture, but their details are beyond its scope. Configuration information
     is self- administered byvendors and organizations based upon IEEE Registration
     Authority company_id.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2002'
@@ -64,5 +71,5 @@ keyword:
 - register
 - transaction set
 ics:
-  code: '35.200'
+- code: '35.200'
   text: Interface and interconnection equipment

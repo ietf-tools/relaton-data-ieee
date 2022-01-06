@@ -1,11 +1,11 @@
 ---
 id: ANSI/IEEE675.1979
 title:
-  type: main
+- type: main
   content: IEEE Standard Multiple Controllers in a CAMAC Crate
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7434532
+- content: https://ieeexplore.ieee.org/document/7434532
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '1978-06-16'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-03-16'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: This standard defines a method for incorporating more than one source of
     control into a CAMAC crate. The standard fully conforms to the mechanical and
@@ -54,8 +58,10 @@ abstract:
     (CAMAC) or EUR 4600e. It may also be used in autonomous systems (systems with
     no external highways) or in systems with Type U Crate Controllers (such as systems
     with a computer I/O bus as the highway).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: This standard defines a method for incorporating more than one source of
     control into a CAMAC crate. The standard fully conforms to the mechanical and
@@ -73,25 +79,29 @@ abstract:
     (CAMAC) or EUR 4600e. It may also be used in autonomous systems (systems with
     no external highways) or in systems with Type U Crate Controllers (such as systems
     with a computer I/O bus as the highway).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: American National Standards Institute
+- owner:
+  - name:
+    - American National Standards Institute
     abbreviation: ANSI
     url: https://www.ansi.org
-  - name: Institute of Electrical and Electronics Engineers
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1979'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: ANSI/IEEE 675.1982
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - ANSI Standards

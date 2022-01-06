@@ -1,12 +1,12 @@
 ---
 id: IEEE1029-1.1998
 title:
-  type: main
+- type: main
   content: IEEE Standard For VHDL Waveform and Vector Exchange (Waves) to Support
     Design and Test Verification
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8685847
+- content: https://ieeexplore.ieee.org/document/8685847
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1998-09-16'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-09'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Administratively withdrawn in January 2004 - Not available to Resellers
+- content: Administratively withdrawn in January 2004 - Not available to Resellers
     (Revision of IEEE Std 1029.1-1991) This standard is a formal notation intended
     for use in all phases of the development of electronic systems. Because it is
     both machine-readable and human-readable, it supports the veriÞcation and testing
@@ -49,12 +53,15 @@ abstract:
     test data (stimulus and expected responses) is described at the logic level. Voltage
     and current values are not described by WAVES and are beyond the scope of this
     standard.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1998'
@@ -68,5 +75,5 @@ keyword:
 - test vector
 - VHDL
 ics:
-  code: '35.060'
+- code: '35.060'
   text: Languages used in information technology

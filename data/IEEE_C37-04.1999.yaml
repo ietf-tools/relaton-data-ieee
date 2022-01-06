@@ -1,11 +1,11 @@
 ---
 id: IEEEC37-04.1999
 title:
-  type: main
+- type: main
   content: IEEE Standard Rating Structure for AC High-Voltage Circuit Breakers
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/829431
+- content: https://ieeexplore.ieee.org/document/829431
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1999-06-26'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-03-17'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard covers the rating structure for all high-voltage circuit
+- content: This standard covers the rating structure for all high-voltage circuit
     breakers, which include all voltage ratings above 1000 V ac and comprise both
     indoor and outdoor types having the preferred ratings as listed in ANSI C37.06-1997.
     Typical circuit breakers covered by these standards have maximum voltage ratings
@@ -47,12 +51,15 @@ abstract:
     voltage, and capacitor switching, plus associated capabilities such as mechanical
     endurance, load current, and out-of-phase switching. This standard does not cover
     generator circuit breakers, which are covered in IEEE Std C37.013-1997.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1999'
@@ -64,15 +71,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE C37-04.2018
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Circuit breakers
 - capacitance current switching
@@ -91,5 +100,5 @@ keyword:
 - shortline fault
 - voltage dist
 ics:
-  code: 29.120.40
+- code: 29.120.40
   text: Switches

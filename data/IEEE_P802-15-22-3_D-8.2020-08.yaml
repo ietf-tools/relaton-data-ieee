@@ -1,12 +1,12 @@
 ---
 id: IEEEP802-15-22-3/D-8.2020-08
 title:
-  type: main
+- type: main
   content: IEEE Approved Draft Standard for Spectrum Characterization and Occupancy
     Sensing
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9162570
+- content: https://ieeexplore.ieee.org/document/9162570
   type: src
 type: standard
 docid:
@@ -23,19 +23,23 @@ date:
 - type: issued
   value: '2020'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-08-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard specifies the architecture, abstraction layers, interfaces
+- content: This standard specifies the architecture, abstraction layers, interfaces
     and metadata requirements for Spectrum Characterization and Occupancy Sensing
     (SCOS) system, and defines performance parameters, units and measures. This SCOS
     system comprises one or more semi-autonomous Spectrum Sensing Devices which scan
@@ -43,12 +47,15 @@ abstract:
     resultant data with appropriate metadata to a central storage and processing system,
     according to rules, policies or instructions imposed on the Spectrum Sensing Devices
     by a management system.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2020'
@@ -69,5 +76,5 @@ keyword:
 - IEEE 802.22.3
 - WRAN standards
 ics:
-  code: 01.040.11
+- code: 01.040.11
   text: Health care technology (Vocabularies)

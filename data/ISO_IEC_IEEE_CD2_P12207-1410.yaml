@@ -1,12 +1,12 @@
 ---
 id: ISO/IEC/IEEECD2P12207-1410
 title:
-  type: main
+- type: main
   content: ISO/IEC/IEEE Draft International Standard - Systems and software engineering
     -- Software life cycle processes
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6936835
+- content: https://ieeexplore.ieee.org/document/6936835
   type: src
 type: standard
 docid:
@@ -23,19 +23,23 @@ date:
 - type: issued
   value: '2017-09-28'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-10-27'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This International Standard establishes a common process framework for
+- content: This International Standard establishes a common process framework for
     describing the full lifecycle of software products (including software elements
     of systems) from conception through retirement. It applies to the acquisition
     or development of software products and services whether performed internally
@@ -49,29 +53,36 @@ abstract:
     15288 (systems life cycle processes) and this IS are fully aligned so that one
     may select appropriate processes from both standards for use in systems with substantial
     software content.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
-  - name: IEC
+  - name:
+    - ISO
+  - name:
+    - IEC
   from: '2014'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 12207.2008
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Software engineering
@@ -125,5 +136,5 @@ keyword:
 - validation
 - verification
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

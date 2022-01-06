@@ -1,12 +1,12 @@
 ---
 id: IEEE1275-2.1994
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Boot (Initialization Configuration) Firmware: Bus Supplement
     for IEEE 1496 (SBus)'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/467434
+- content: https://ieeexplore.ieee.org/document/467434
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1994-09-22'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-24'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'Firmware is the read-only-memory (ROM)-based software that controls a
+- content: 'Firmware is the read-only-memory (ROM)-based software that controls a
     computer between the time it is turned on and the time the primary operating system
     takes control of the machine. Firmware''s responsibilites include testing and
     initializing the hardware, determining the hardware configuration, loading (or
@@ -47,12 +51,15 @@ abstract:
     form a complete specification for the firmware for a particular system. This standard
     establishes such additional requirements pertaining to the bus architecture defined
     by IEEE Std 1496-1993, IEEE Standard for a Chip and Module Interconnect Bus: SBus.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1994'
@@ -69,5 +76,5 @@ keyword:
 - plug-in device
 - ROM
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

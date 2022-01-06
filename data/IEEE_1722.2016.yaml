@@ -1,12 +1,12 @@
 ---
 id: IEEE1722.2016
 title:
-  type: main
+- type: main
   content: IEEE Standard for a Transport Protocol for Time-Sensitive Applications
     in Bridged Local Area Networks
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7782716
+- content: https://ieeexplore.ieee.org/document/7782716
   type: src
 type: standard
 docid:
@@ -27,46 +27,57 @@ date:
 - type: issued
   value: '2016-03-03'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-12-14'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The protocol, device discovery, connection management, and device-control
     procedures used to facilitate interoperability between audio- and video-based
     end stations that use IEEE 1722-based streams on IEEE 802-based networks are specified.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: The protocol, device discovery, connection management, and device-control
     procedures used to facilitate interoperability between audio- and video-based
     end stations that use IEEE 1722-based streams on IEEE 802-based networks are specified.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2016'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1722.2011
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -95,5 +106,5 @@ keyword:
 - Time-Sensitive Networking (TSN)
 - time synchronization
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

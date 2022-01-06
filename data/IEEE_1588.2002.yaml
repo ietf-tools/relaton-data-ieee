@@ -1,12 +1,12 @@
 ---
 id: IEEE1588.2002
 title:
-  type: main
+- type: main
   content: IEEE Standard for a Precision Clock Synchronization Protocol for Networked
     Measurement and Control Systems
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1048550
+- content: https://ieeexplore.ieee.org/document/1048550
   type: src
 type: standard
 docid:
@@ -25,39 +25,46 @@ date:
 - type: issued
   value: '2002-09-12'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-09'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'Replaced by IEC 61588-2004 (SH95292 or SS95292) Dual-logo document Abstract:
+- content: 'Replaced by IEC 61588-2004 (SH95292 or SS95292) Dual-logo document Abstract:
     A protocol to synchronize independent clocks running on separate nodes of a distributed
     measurement and control system to a high degree of accuracy and precision is specified.
     The protocol is independent of the networking technology, and the system topology
     is self-configuring.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2002'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1588.2008
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Patents
@@ -72,5 +79,5 @@ keyword:
 - real-time clock
 - synchronized clocks
 ics:
-  code: 39.040.99
+- code: 39.040.99
   text: Other time-measuring instruments

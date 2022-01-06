@@ -9,7 +9,7 @@ title:
     - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6581841
+- content: https://ieeexplore.ieee.org/document/6581841
   type: src
 type: standard
 docid:
@@ -26,19 +26,23 @@ date:
 - type: issued
   value: '2007-12-05'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-08-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Directions and requirements are provided for the conversion of qualified
+- content: Directions and requirements are provided for the conversion of qualified
     power switchgear equipment. Examples such as low-voltage power circuit breakers;
     high-voltage outdoor and medium-voltage indoor drawout power circuit breakers;
     medium-voltage fused contactors; medium-voltage ground and test devices; medium-voltage
@@ -46,12 +50,15 @@ abstract:
     Existing design standards are referenced with appropriate guidance on design testing
     necessary to design-verify the conversions. Reconditioning, which concerns the
     maintenance of existing equipment without alteration, is not covered.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2011'
@@ -63,15 +70,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE C37-59.2018
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Switchgear
@@ -87,5 +96,5 @@ keyword:
 - switchgear
 - vacuum
 ics:
-  code: 29.130.01
+- code: 29.130.01
   text: Switchgear and controlgear in general

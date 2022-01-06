@@ -1,12 +1,12 @@
 ---
 id: IEEE1516-2.2010
 title:
-  type: main
+- type: main
   content: IEEE Standard for Modeling and Simulation (M&amp;S) High Level Architecture
     (HLA)-- Object Model Template (OMT) Specification
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5557731
+- content: https://ieeexplore.ieee.org/document/5557731
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2010-03-25'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-08-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: 'High Level Architecture (HLA)-Object Model Template (OMT) specification
     defines the format and syntax (but not content) of HLA object models. Simulations
@@ -53,8 +57,10 @@ abstract:
     High Level Architecture, instance attribute, instance attribute ownership, interaction
     class, joined federate, object class, object model template, rules, runtime infrastructure,
     simulation object model, time-constrained, time-regulating.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: The High Level Architecture (HLA)&#8212;Object Model Template (OMT) specification
     defines the format and syntax (but not content) of HLA object models. Simulations
@@ -66,12 +72,15 @@ abstract:
     as a change in one is likely to have an impact on the others. As such, the HLA
     is an integrated approach that has been developed to provide a common architecture
     for simulation.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2010'
@@ -103,5 +112,5 @@ keyword:
 - time-constrained
 - time-regulating
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

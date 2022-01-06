@@ -1,12 +1,12 @@
 ---
 id: ANSI/IEEE43.1974
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for Testing Insulation Resistance of Rotating
     Machinery
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/20973
+- content: https://ieeexplore.ieee.org/document/20973
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1974-05-30'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Superseded by 43-2000. Insulation resistance characteristics of rotating-machine
+- content: Superseded by 43-2000. Insulation resistance characteristics of rotating-machine
     windings and the manner in which these characteristics may serve to indicate the
     condition of the winding are described. The recommended procedure for the measurement
     of insulation resistance of windings of rotating machines rated 1 hp, 1 kW or
@@ -46,22 +50,25 @@ abstract:
     machines, induction machines, direct-current machines, and synchronous converters
     are covered, as well as armature windings and field windings. Fractional-horsepower
     machines are not included.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1974'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 43.2013 Redline
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - AC machines
 - Asynchronous rotating machines
@@ -78,5 +85,5 @@ keyword:
 - generators
 - Rotating-machine insulation testing
 ics:
-  code: 29.160.01
+- code: 29.160.01
   text: Rotating machinery in general

@@ -1,12 +1,12 @@
 ---
 id: IEEEP802-1Qcp/D-2.0.2017-11
 title:
-  type: main
+- type: main
   content: 'IEEE Draft Standard for Local and Metropolitan Area Networks - Bridges
     and Bridged Networks Amendment: YANG Data Model'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8118316
+- content: https://ieeexplore.ieee.org/document/8118316
   type: src
 type: standard
 docid:
@@ -23,42 +23,51 @@ date:
 - type: issued
   value: '2018-06-14'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-11-22'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: A YANG data model in support of configuration and operational status information
+- content: A YANG data model in support of configuration and operational status information
     for a subset of Bridging capabilities is provided in this amendment to IEEE Std
     802.1Q™-2018.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2017'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-1Q.2014
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Local area networks
@@ -72,5 +81,5 @@ keyword:
 - Virtual Bridged Local Area Networks (virtual LANs)
 - YANG.
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

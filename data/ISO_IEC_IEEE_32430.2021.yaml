@@ -1,12 +1,12 @@
 ---
 id: ISO/IEC/IEEE32430.2021
 title:
-  type: main
+- type: main
   content: IEEE/ISO/IEC International Standard--Software engineering--Trial use standard
     for software non-functional sizing measurements
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9604026
+- content: https://ieeexplore.ieee.org/document/9604026
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '2021'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-11-04'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: A method for the sizing of nonfunctional software requirements is defined
+- content: A method for the sizing of nonfunctional software requirements is defined
     in this standard. It complements ISO/IEC 20926:2009, which defines a method for
     the sizing of functional user requirements. Non-functional categories for data
     operations, interface design, technical environment, and architecture software
@@ -52,19 +56,24 @@ abstract:
     and the non-functional sizes, to avoid overlaps or gaps between the two size methods,
     are described in this standard. Calculating the implementation work effort and
     duration of the non-functional requirements is outside the scope of this standard.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
-  - name: IEC
+  - name:
+    - ISO
+  - name:
+    - IEC
   from: '2021'
 relation:
-  type: adoptedFrom
+- type: adoptedFrom
   bibitem:
     formattedref:
       content: IEEE 2430.2019
@@ -82,5 +91,5 @@ keyword:
 - non-functional requirements
 - SNAP
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

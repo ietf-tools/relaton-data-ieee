@@ -1,13 +1,13 @@
 ---
 id: IEEE802-1AC/Cor1.2018
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Local and Metropolitan Area Networks--Media Access Control
     (MAC) Service Definition - Corrigendum 1: Logical Link Control (LLC) Encapsulation
     EtherType'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8532373
+- content: https://ieeexplore.ieee.org/document/8532373
   type: src
 type: standard
 docid:
@@ -26,40 +26,49 @@ date:
 - type: issued
   value: '2018-09-27'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-11-12'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This corrigendum to IEEE Std 802.1AC&#8482;-2016 corrects the value of
+- content: This corrigendum to IEEE Std 802.1AC&#8482;-2016 corrects the value of
     the LLC Encapsulation EtherType.(The PDF of this standard is available at no cost
     to you compliments of the IEEE GET program https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=68)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2018'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-1AC.2016
       format: text/plain
   description:
     content: corrects
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -77,5 +86,5 @@ keyword:
 - MAN
 - metropolitan area network
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

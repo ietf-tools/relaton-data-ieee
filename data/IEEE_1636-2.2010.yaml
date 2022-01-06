@@ -1,13 +1,13 @@
 ---
 id: IEEE1636-2.2010
 title:
-  type: main
+- type: main
   content: 'IEEE Trial-Use Standard for Software Interface for Maintenance Information
     Collection and Analysis (SIMICA): Exchanging Maintenance Action Information via
     the Extensible Markup Language (XML)'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5648434
+- content: https://ieeexplore.ieee.org/document/5648434
   type: src
 type: standard
 docid:
@@ -28,17 +28,21 @@ date:
 - type: issued
   value: '2010-09-30'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-05-31'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: Interoperability between components of automatic test systems (ATS) is
     promoted and facilitated. The standard facilitates the capture of maintenance
@@ -47,8 +51,10 @@ abstract:
     that particular operational system. The MAI schema becomes a class of information
     that can be used within the SIMICA family of standards. The exchange format utilizes
     the XML formats.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Interoperability between components of automatic test systems (ATS) is
     promoted and facilitated. The standard facilitates the capture of maintenance
@@ -57,12 +63,15 @@ abstract:
     that particular operational system. The MAI schema becomes a class of information
     that can be used within the SIMICA family of standards. The exchange format utilizes
     the XML formats.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2010'
@@ -82,7 +91,7 @@ relation:
     formattedref:
       content: IEEE 1636-2.2018
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - XML
@@ -92,5 +101,5 @@ keyword:
 - Software Interface for Maintenance Information Collection and Analysis (SIMICA)
 - XML schema
 ics:
-  code: '35.040'
+- code: '35.040'
   text: Character sets and information coding

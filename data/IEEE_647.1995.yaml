@@ -1,12 +1,12 @@
 ---
 id: IEEE647.1995
 title:
-  type: main
+- type: main
   content: IEEE Standard Specification Format Guide and Test Procedure for Single-Axis
     Laser Gyros
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/494457
+- content: https://ieeexplore.ieee.org/document/494457
   type: src
 type: standard
 docid:
@@ -25,30 +25,37 @@ date:
 - type: issued
   value: '1995-09-21'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-11-13'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The specification and test requirements for a single-axis laser gyro for
+- content: The specification and test requirements for a single-axis laser gyro for
     use as a sensor in attitude control systems, angular displacement measuring systems,
     and angular rate measuring systems is defined. A standard specification format
     guide for the preparation of a single-axis laser gyro is provided. A complication
     of recommended procedures for testing a laser gyro, derived from those presently
     used in the industry, is also provided.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1996'
@@ -60,15 +67,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 647.2006
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Gyroscopes
 - IEEE standards
@@ -88,5 +97,5 @@ keyword:
 - RLG
 - sagnac effect
 ics:
-  code: '31.260'
+- code: '31.260'
   text: Optoelectronics. Laser equipment

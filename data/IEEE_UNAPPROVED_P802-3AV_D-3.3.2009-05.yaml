@@ -1,7 +1,7 @@
 ---
 id: IEEEUnapprovedP802-3av/D-3.3.2009-05
 title:
-  type: main
+- type: main
   content: 'IEEE Drafts Standards for Telecommunications and information exchange
     between systems--Local and metropolitan area networks--Specific requirements Part
     3: Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Access Method
@@ -9,7 +9,7 @@ title:
     Management Parameters for 10 Gb/s Passive Optical Networks'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5089383
+- content: https://ieeexplore.ieee.org/document/5089383
   type: src
 type: standard
 docid:
@@ -19,21 +19,25 @@ docid:
   type: ISBN
 docnumber: IEEE Unapproved P802-3av/D-3.3.2009-05
 date:
-  type: created
+- type: created
   value: '2009'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
-language: en
-script: Latn
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This amendment to IEEE Std 802.3-2008 extends Ethernet Passive Optical
+- content: This amendment to IEEE Std 802.3-2008 extends Ethernet Passive Optical
     Networks (EPONs) operation to 10Gb10 Gb/s providing both symmetric, 10Gb10 Gb/s
     downstream and upstream, and asymmetric, 10Gb10 Gb/s downstream and 1Gb1 Gb/s
     upstream, data rates. It specifies the 10Gb10 Gb/s EPON Reconciliation Sublayer,
@@ -44,12 +48,15 @@ abstract:
     is defined for distances of at least 10 km and at least 20 km, and for split ratios
     of 1:16 and 1:32. An additional MAC Control opcode is also defined to provide
     organization specific extension operation.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2009'

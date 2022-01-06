@@ -1,11 +1,11 @@
 ---
 id: ANSI/IEEEC37-101.1985
 title:
-  type: main
+- type: main
   content: IEEE Guide for Generator Ground Protection
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8684526
+- content: https://ieeexplore.ieee.org/document/8684526
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1981-12-17'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This guide has been prepared to aid in the application of relays and relaying
+- content: This guide has been prepared to aid in the application of relays and relaying
     schemes for the protection of synchronous generators for single-phase-to- ground
     faults in the stator winding. The guide is not intended for the selection of generator
     or ground connection schemes. The information included in the main body is limited
@@ -50,12 +54,15 @@ abstract:
     source material was drawn. Recommended protective schemes and the arrangements
     in which they may be applied are indicated in Table 1. The use of this table is
     described in Section 3 with supporting information provided in subsequent sections.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1985'
@@ -70,8 +77,9 @@ relation:
     formattedref:
       content: IEEE C37-101.1993
       format: text/plain
-fetched: '2022-01-05'
-keyword: Guide for Generator Ground Protection
+fetched: '2022-01-06'
+keyword:
+- Guide for Generator Ground Protection
 ics:
-  code: 29.160.20
+- code: 29.160.20
   text: Generators

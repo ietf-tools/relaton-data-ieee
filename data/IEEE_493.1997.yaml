@@ -1,12 +1,12 @@
 ---
 id: IEEE493.1997
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for the Design of Reliable Industrial and Commercial
     Power Systems (Gold Book)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/757619
+- content: https://ieeexplore.ieee.org/document/757619
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1997-09-16'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-01-16'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This IEEE Standars product is part of the Color Books family. The design
+- content: This IEEE Standars product is part of the Color Books family. The design
     of reliable industrial and commercial power distribution systems is important
     because of the high cost associated with power outages and their significant impact
     on society. It is necessary to consider the cost of power outages when making
@@ -60,12 +64,15 @@ abstract:
     IEEE Gold Book. The book also focuses on the improvement and evaluation of reliability
     in existing facilities. Voltage sags, and a methodology for estimating the frequency
     of these sags, are also discussed.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1998'
@@ -77,19 +84,21 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 493.2007
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Industrial power systems
 - The fundamentals of reliability analysis to the planning and design of industrial
   and commercial electric ower distribution systems are presented
 ics:
-  code: 29.240.01
+- code: 29.240.01
   text: Power transmission and distribution networks in general

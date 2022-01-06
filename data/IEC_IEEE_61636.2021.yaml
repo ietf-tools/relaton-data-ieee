@@ -1,12 +1,12 @@
 ---
 id: IEC/IEEE61636.2021
 title:
-  type: main
+- type: main
   content: International Standard-Software Interface for Maintenance Information Collection
     and Analysis (SIMICA)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9451889
+- content: https://ieeexplore.ieee.org/document/9451889
   type: src
 type: standard
 docid:
@@ -25,35 +25,43 @@ date:
 - type: issued
   value: '2021'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-06-10'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Promoting and facilitating interoperability between components of automatic
+- content: Promoting and facilitating interoperability between components of automatic
     test systems where test results and/or maintenance actions need to be shared is
     addressed in this standard. The standard defines the common elements between both
     test results data and maintenance action data. The common schema becomes a class
     of information that shall be used within the SIMICA family of standards.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: IEC
+  - name:
+    - IEC
   from: '2021'
 relation:
-  type: adoptedFrom
+- type: adoptedFrom
   bibitem:
     formattedref:
       content: IEEE 1636.2018

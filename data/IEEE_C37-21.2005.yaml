@@ -1,11 +1,11 @@
 ---
 id: IEEEC37-21.2005
 title:
-  type: main
+- type: main
   content: IEEE Standard for Control Switchboards
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1556466
+- content: https://ieeexplore.ieee.org/document/1556466
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '2005-06-09'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-06-06'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard covers ratings, construction, and testing of dead-front control
+- content: This standard covers ratings, construction, and testing of dead-front control
     switchboards containing but not limited to devices such as switches, control devices,
     instrumentation, metering, monitoring, alarms, annunciators, protective and auxiliary
     relays, and regulating devices and accessories. It includes, but is not specifically
@@ -48,12 +52,15 @@ abstract:
     It does not apply to industrial controls, communication equipment, switchboards
     for use on board ships, or Class 1E switchboards for use in nuclear generating
     stations.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2005'
@@ -65,15 +72,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE C37-21.2017
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Patents
@@ -93,5 +102,5 @@ keyword:
 - fixed rack cabinet
 - or swing rack cabinet
 ics:
-  code: 29.130.99
+- code: 29.130.99
   text: Other switchgear and controlgear

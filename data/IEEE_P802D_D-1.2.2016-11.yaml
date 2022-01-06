@@ -1,13 +1,13 @@
 ---
 id: IEEEP802d/D-1.2.2016-11
 title:
-  type: main
+- type: main
   content: 'IEEE Draft Standard for Local and Metropolitan Area Networks: Overview
     and Architecture-- Amendment: Allocation of Uniform Resource Name (URN) values
     in IEEE 802 standards'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7745858
+- content: https://ieeexplore.ieee.org/document/7745858
   type: src
 type: standard
 docid:
@@ -24,26 +24,33 @@ date:
 - type: issued
   value: '2017-02-14'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-11-16'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This amendment to IEEE Std 802-2014 describes how URN values are allocated
+- content: This amendment to IEEE Std 802-2014 describes how URN values are allocated
     in IEEE 802(TM) standards.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2016'
@@ -55,8 +62,10 @@ relation:
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: updates
   bibitem:
@@ -65,10 +74,12 @@ relation:
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Uniform resource name
@@ -77,5 +88,5 @@ keyword:
 - Network architecture
 - Uniform resource name (URN)
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

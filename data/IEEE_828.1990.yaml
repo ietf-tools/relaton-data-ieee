@@ -1,11 +1,11 @@
 ---
 id: IEEE828.1990
 title:
-  type: main
+- type: main
   content: IEEE Standard for Software Configuration Management Plans
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/159336
+- content: https://ieeexplore.ieee.org/document/159336
   type: src
 type: standard
 docid:
@@ -24,28 +24,35 @@ date:
 - type: issued
   value: '1990-09-28'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: IEEE Std 828-1990, IEEE Standard for Software Configuration Management
+- content: IEEE Std 828-1990, IEEE Standard for Software Configuration Management
     Plans, establishes the minimum required contents of a Software Configuration Management
     Plan and defines the specific activities to be addressed and their requirements
     for any portion of a software product’s life cycle.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1990'
@@ -57,15 +64,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 828.1998
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Software engineering
 - Standards
@@ -74,5 +83,5 @@ keyword:
 - software configuration management
 - software configuration management activities.
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

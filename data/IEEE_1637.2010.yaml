@@ -1,12 +1,12 @@
 ---
 id: IEEE1637.2010
 title:
-  type: main
+- type: main
   content: IEEE Guide to Select Terminations for Shielded Alternating-Current Power
     Cable Rated 5 kV - 46 kV
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5464501
+- content: https://ieeexplore.ieee.org/document/5464501
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2010-02-02'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-07-27'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: A step-by-step process for selecting an appropriate termination that is
     commensurate with a particular shielded power cable design is provided in this
@@ -53,8 +57,10 @@ abstract:
     referred to in this guide are considered to be "live front," in that the terminations
     comprise a transition from a shielded power cable system to an energized component
     or bus that is either bare or simply covered.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: A step-by-step process for selecting an appropriate termination that is
     commensurate with a particular shielded power cable design is provided in this
@@ -70,17 +76,20 @@ abstract:
     terminations referred to in this guide are considered to be “live front,” in that
     the terminations comprise a transition from a shielded power cable system to an
     energized component or bus that is either bare or simply covered.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2010'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE P1637/D-1.2019-07
@@ -93,5 +102,5 @@ keyword:
 - shielded
 - termination
 ics:
-  code: 29.240.20
+- code: 29.240.20
   text: Power transmission and distribution lines

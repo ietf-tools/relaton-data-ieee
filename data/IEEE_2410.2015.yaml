@@ -1,11 +1,11 @@
 ---
 id: IEEE2410.2015
 title:
-  type: main
+- type: main
   content: IEEE Standard for Biometric Open Protocol
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7323780
+- content: https://ieeexplore.ieee.org/document/7323780
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '2015-09-03'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-11-10'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: Identity assertion, role gathering, multilevel access control, assurance,
     and auditing are provided by the Biometric Open Protocol Standard (BOPS). The
@@ -58,8 +62,10 @@ abstract:
     interface. The architecture is built on the servlet specification, open SSLs,
     Java, JSON, REST, and an open persistent store. All tools adhere to open standards,
     allowing maximum interoperability.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Identity assertion, role gathering, multilevel access control, assurance,
     and auditing are provided by the Biometric Open Protocol Standard (BOPS). The
@@ -81,22 +87,25 @@ abstract:
     interface. The architecture is built on the servlet specification, open SSLs,
     Java, JSON, REST, and an open persistent store. All tools adhere to open standards,
     allowing maximum interoperability.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2015'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 2410.2017
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Biometrics

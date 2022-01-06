@@ -1,13 +1,13 @@
 ---
 id: IEEE1003-5b.1996
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Information Technology--POSIX(R) Ada Language Interfaces--Part
     1: Binding for System Application Program Interface (API)--Amendment 1: Realtime
     Extensions'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8569012
+- content: https://ieeexplore.ieee.org/document/8569012
   type: src
 type: standard
 docid:
@@ -26,19 +26,23 @@ date:
 - type: issued
   value: '1999'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-12-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This standard is part of the POSIX series of standards for applications
+- content: 'This standard is part of the POSIX series of standards for applications
     and user interfaces to open systems. It defines the Ada language bindings as package
     specifications and accompanying textual descriptions of the application program
     interface (API). This standard supports application portability at the source
@@ -50,12 +54,15 @@ abstract:
     for Ada, system databases, synchronization, memory management, execution scheduling,
     clocks and timers, and message passing are covered. It also specifies behavior
     to support the binding that must be provided by the Ada compilation system.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1997'
@@ -81,5 +88,5 @@ keyword:
 - realtime
 - thread
 ics:
-  code: 01.040.11
+- code: 01.040.11
   text: Health care technology (Vocabularies)

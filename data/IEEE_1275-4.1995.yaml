@@ -1,12 +1,12 @@
 ---
 id: IEEE1275-4.1995
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Boot (Initialization Configuration) Firmware: Bus Supplement
     for IEEE 896 (Futurebus+(R))'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/499692
+- content: https://ieeexplore.ieee.org/document/499692
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1995-09-21'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-24'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'Withdrawn Standard. Withdrawn Date: Jan 15, 2001. Firmware is the read-only-memory
+- content: 'Withdrawn Standard. Withdrawn Date: Jan 15, 2001. Firmware is the read-only-memory
     (ROM)-based software that controls a computer between the time it is turned on
     and the time the primary operating system takes control of the machine. Firmware''s
     responsibilities include testing and initializing the hardware, determining the
@@ -50,12 +54,15 @@ abstract:
     ISO/IEC 10857: 1994[ANSI/IEEE Std 896.1, 1994 Edition], Information technology-Microprocessor
     systems-Futurebus -Logical protocol specifications; and IEEE Std 896.2-1991: IEEE
     Standard for Futurebus -Physical Layer and Profile Specification.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1996'
@@ -72,5 +79,5 @@ keyword:
 - plug in device
 - ROM
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

@@ -1,12 +1,12 @@
 ---
 id: ANSI/IEEE469.1988
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for Voice-Frequency Electrical-Noise Tests of
     Distribution Transformers
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/26508
+- content: https://ieeexplore.ieee.org/document/26508
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1988-06-09'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-03-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Instruction for the testing of distribution transformers as sources of
+- content: Instruction for the testing of distribution transformers as sources of
     voice-frequency noise for communication circuits is provided. The tests measure
     the degree to which a transformer may contribute to electrical noise in communication
     circuits that are physically paralleling the power-supply circuits feeding the
@@ -45,12 +49,15 @@ abstract:
     user, and others in the industry for the purpose of better evaluating the design
     choices that are available and moving toward industry objectives with regard to
     levels of harmonic exciting current.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1988'
@@ -69,5 +76,5 @@ keyword:
 - Power transformer testing
 - Electromagnetic interference
 ics:
-  code: '29.180'
+- code: '29.180'
   text: Transformers. Reactors

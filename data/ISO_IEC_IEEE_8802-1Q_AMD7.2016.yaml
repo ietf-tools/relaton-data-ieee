@@ -1,14 +1,14 @@
 ---
 id: ISO/IEC/IEEE8802-1Q/Amd7.2016
 title:
-  type: main
+- type: main
   content: 'IEEE/ISO/IEC International Standard - Information technology - Telecommunications
     and information exchange between systems - Local and metropolitan area networks
     - Specific requirements - Part 1Q: Bridges and bridged networks - AMENDMENT 7:
     Cyclic queuing and forwarding'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8664711
+- content: https://ieeexplore.ieee.org/document/8664711
   type: src
 type: standard
 docid:
@@ -29,37 +29,48 @@ date:
 - type: issued
   value: '2019'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-03-11'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The use of traffic scheduling and per-stream filtering and policing to
     support cyclic queuing and forwarding are described in this amendment to IEEE
     Std 8802.1Q-2016.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: The use of traffic scheduling and per-stream filtering and policing to
     support cyclic queuing and forwarding are described in this amendment to IEEE
     Std 8802.1Q-2016.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
-  - name: IEC
+  - name:
+    - ISO
+  - name:
+    - IEC
   from: '2019'
 keyword:
 - IEEE Standards
@@ -84,5 +95,5 @@ keyword:
 - scheduled traffic
 - Virtual Bridged Local Area Networks (virtual LANs)
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

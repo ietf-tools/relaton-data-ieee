@@ -1,11 +1,11 @@
 ---
 id: IEEE802.2001
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Local and Metropolitan Area Networks: Overview and Architecture'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/984782
+- content: https://ieeexplore.ieee.org/document/984782
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '2001-06-14'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-07-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'IEEE Std 802-2001, IEEE Standards for Local and Metropolitan Area Networks:
+- content: 'IEEE Std 802-2001, IEEE Standards for Local and Metropolitan Area Networks:
     Overview and Architecture, provides an overview to the family of IEEE 802 Standards.
     It defines compliance with the family of IEEE 802 Standards; it describes the
     relationship of the IEEE 802 Standards to the Open Systems Interconnection Basic
@@ -44,12 +48,15 @@ abstract:
     to the higher layer protocols; it provides a standard for the structure of LAN
     MAC addresses; and it provides a standard for identification of public, private,
     and standard protocols.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2002'
@@ -61,15 +68,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 802.2014
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Communication standards
@@ -81,5 +90,5 @@ keyword:
 - LAN/MAN reference model
 - Metropolitan Area Networks (MANs).
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

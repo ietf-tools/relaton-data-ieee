@@ -1,12 +1,12 @@
 ---
 id: ANSI/IEEE430.1986
 title:
-  type: main
+- type: main
   content: IEEE Standard Procedures for the Measurement of Radio Noise from Overhead
     Power Lines and Substations
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/29119
+- content: https://ieeexplore.ieee.org/document/29119
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1985-09-19'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-06-27'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Uniform procedures are established for the measurement of radio noise generated
+- content: Uniform procedures are established for the measurement of radio noise generated
     by corona from overhead power lines with meters that conform to ANSI C63.2-1980.
     The measurement procedures are also valid for other power-line noise sources such
     as gaps and harmonics; however, most of the precautionary information, analys
@@ -46,12 +50,15 @@ abstract:
     that occur during breaker or disconnect switching operations. Procedures are suggested
     for measurements in and near substations. This standard is applicable to both
     AC and DC transmission lines and substations.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1986'
@@ -69,5 +76,5 @@ keyword:
 - Power system measurements
 - Electromagnetic interference
 ics:
-  code: '27.100'
+- code: '27.100'
   text: Power stations in general

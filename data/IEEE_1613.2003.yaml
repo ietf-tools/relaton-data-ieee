@@ -1,12 +1,12 @@
 ---
 id: IEEE1613.2003
 title:
-  type: main
+- type: main
   content: IEEE Standard Environmental and Testing Requirements for Communications
     Networking Devices in Electric Power Substations
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1307553
+- content: https://ieeexplore.ieee.org/document/1307553
   type: src
 type: standard
 docid:
@@ -25,39 +25,46 @@ date:
 - type: issued
   value: '2003-03-20'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Service conditions, electrical ratings, thermal ratings, and environmental
+- content: Service conditions, electrical ratings, thermal ratings, and environmental
     testing requirements are defined for communications networking devices to be installed
     in electric power substations. This standard establishes a common reproducible
     basis for designing and evaluating communications networking devices for use in
     this harsh environment.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2003'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1613.2009
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Communication standards
@@ -86,5 +93,5 @@ keyword:
 - SWC test
 - switches
 ics:
-  code: 29.240.10
+- code: 29.240.10
   text: Substations. Surge arresters

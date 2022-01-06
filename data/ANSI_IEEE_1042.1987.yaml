@@ -1,11 +1,11 @@
 ---
 id: ANSI/IEEE1042.1987
 title:
-  type: main
+- type: main
   content: IEEE Guide to Software Configuration Management
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/89631
+- content: https://ieeexplore.ieee.org/document/89631
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1987-09-10'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The application of configuration management (CM) disciplines to the management
+- content: The application of configuration management (CM) disciplines to the management
     of software engineering projects is described. For those planning software configuration
     management (SCM) activities, this guide provides insight into the various factors
     that must be considered. For users implementing SCM disciplines, suggestions and
@@ -44,12 +48,15 @@ abstract:
     Std 828-1983, IEEE Standard for Software Configuration Management Plans, can be
     used for planning the management of different kinds of computer program development
     and maintenance activities.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1988'
@@ -62,5 +69,5 @@ keyword:
 - Software maintenance
 - Software development management
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

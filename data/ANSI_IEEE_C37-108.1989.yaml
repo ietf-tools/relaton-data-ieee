@@ -1,11 +1,11 @@
 ---
 id: ANSI/IEEEC37-108.1989
 title:
-  type: main
+- type: main
   content: IEEE Guide for the Protection of Network Transformers
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/89875
+- content: https://ieeexplore.ieee.org/document/89875
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1989-02-02'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This guide is intended to aid those engineers who have reevaluated the
+- content: This guide is intended to aid those engineers who have reevaluated the
     risks associated with faults within network vaults, particularly for those network
     vaults located within or near highrise buildings. It will also identify currently
     available devices that are being used in network transformer protection schemes.
@@ -44,22 +48,25 @@ abstract:
     or remotely, there by minimizing damage and restoration time. These devices will
     be described as to their fault detecting capabilities. An example utilizing a
     number of protective schemes is presented in Appendix B.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1989'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE C37-108.2002
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Fault location
 - Power transformers
@@ -71,5 +78,5 @@ keyword:
   from different subtransmission or distribution lines and are paralleled on their
   low
 ics:
-  code: '29.180'
+- code: '29.180'
   text: Transformers. Reactors

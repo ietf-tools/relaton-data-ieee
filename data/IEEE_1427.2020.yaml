@@ -1,12 +1,12 @@
 ---
 id: IEEE1427.2020
 title:
-  type: main
+- type: main
   content: IEEE Guide for Recommended Electrical Clearances and Insulation Levels
     in Air Insulated Electrical Power Substations
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9382190
+- content: https://ieeexplore.ieee.org/document/9382190
   type: src
 type: standard
 docid:
@@ -25,44 +25,53 @@ date:
 - type: issued
   value: '2020-12-03'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-03-19'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This guide, covering three-phase ac systems from 1 kV to 800 kV, provides
+- content: This guide, covering three-phase ac systems from 1 kV to 800 kV, provides
     recommended electrical operating, safety clearances, and insulation levels in
     air-insulated electric supply substations; addresses insulation coordination procedures;
     provides design procedures for the selection and coordination of the insulation
     levels within the station as they relate to substation clearances; and addresses
     how reduced clearances in high-voltage ac substations will allow for compact bus
     arrangements and substation voltage uprating applications.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2021'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1427.2006
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -80,5 +89,5 @@ keyword:
 - insulation levels
 - substation
 ics:
-  code: 29.240.10
+- code: 29.240.10
   text: Substations. Surge arresters

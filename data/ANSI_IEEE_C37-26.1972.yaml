@@ -1,12 +1,12 @@
 ---
 id: ANSI/IEEEC37-26.1972
 title:
-  type: main
+- type: main
   content: IEEE Standard Guide for Methods of Power-Factor Measurement for Low-Voltage
     Inductive Test Circuits
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/573177
+- content: https://ieeexplore.ieee.org/document/573177
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1971-09-16'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Methods used to measure the power factor in low-voltage test circuits are
+- content: Methods used to measure the power factor in low-voltage test circuits are
     covered. Since the power factor measurement for high-capacity test circuits is
     particularly difficult, and different methods may yield different results, the
     methods that are least likely to yield errors are recommended for particular circuit
@@ -47,22 +51,25 @@ abstract:
     tested interrupts at a point in time more than 0.5 cycle from the initiation of
     the current. The phase relationship method, using current and voltage waves, is
     recommended for circuits having power factors over 30%.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1972'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE C37-26.2003
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Switchgear
@@ -75,5 +82,5 @@ keyword:
 - Electric variables measurement
 - Circuit-breaker testing
 ics:
-  code: 29.130.20
+- code: 29.130.20
   text: Low voltage switchgear and controlgear

@@ -1,12 +1,12 @@
 ---
 id: IEEEP802-15-4u/D-4.2016-07
 title:
-  type: main
+- type: main
   content: 'IEEE Approved Draft Standard for Low-Rate Wireless Networks Amendment:
     Use of the 865-867 MHz Band in India'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7552404
+- content: https://ieeexplore.ieee.org/document/7552404
   type: src
 type: standard
 docid:
@@ -23,44 +23,53 @@ date:
 - type: issued
   value: '2016-09-22'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-08-25'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This amendment defines a PHY layer enabling the use of the 865-867 MHz
+- content: This amendment defines a PHY layer enabling the use of the 865-867 MHz
     band in India. The supported data rate should be at least 40 kb/s per second and
     the typical Line of Sight (LOS) range should be on the order of 5 km using omni
     directional antenna. Included are any channel access and/or timing changes in
     the MAC necessary to support this PHY layer.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2016'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-15-4.2011
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Personal area networks
@@ -74,5 +83,5 @@ keyword:
 - wireless personal area network
 - WPAN
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

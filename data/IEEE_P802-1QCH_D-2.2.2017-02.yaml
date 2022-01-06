@@ -1,13 +1,13 @@
 ---
 id: IEEEP802-1Qch/D-2.2.2017-02
 title:
-  type: main
+- type: main
   content: 'IEEE Approved Draft Standard for Local and Metropolitan Area Networks
     -- Media Access Control (MAC) Bridges and Virtual Bridged Local Area Networks
     Amendment: Cyclic Queuing and Forwarding'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7856925
+- content: https://ieeexplore.ieee.org/document/7856925
   type: src
 type: standard
 docid:
@@ -24,41 +24,50 @@ date:
 - type: issued
   value: '2017-05-18'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-02-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This amendment to IEEE Std 802.1Q-2014 describes the use of traffic scheduling
+- content: This amendment to IEEE Std 802.1Q-2014 describes the use of traffic scheduling
     and per-stream filtering and policing to support cyclic queuing and forwarding.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2017'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-1Q.2011
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Local area networks
@@ -75,5 +84,5 @@ keyword:
 - scheduled traffic
 - cyclic queuing and forwarding.
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

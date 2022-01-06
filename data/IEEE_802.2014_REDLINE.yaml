@@ -9,7 +9,7 @@ title:
     - Redline'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7021875
+- content: https://ieeexplore.ieee.org/document/7021875
   type: src
 type: standard
 docid:
@@ -28,17 +28,21 @@ date:
 - type: issued
   value: '2014-06-12'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-01-26'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: This standard provides an overview to the family of IEEE 802 standards.
     It describes the reference models for the IEEE 802 standards and explains the
@@ -49,8 +53,10 @@ abstract:
     used in IEEE 802 standards; and it specifies a method for higher layer protocol
     identification. The PDF of this standard is available at no charge compliments
     of the GETIEEE Program. Visit http://standards.ieee.org/getieee802/ for more details.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: This standard provides an overview to the family of IEEE 802 standards.
     It describes the reference models for the IEEE 802 standards and explains the
@@ -61,25 +67,30 @@ abstract:
     used in IEEE 802 standards; and it specifies a method for higher layer protocol
     identification. (The PDF of this standard is available at no charge compliments
     of the GETIEEE Program. Visit http://standards.ieee.org/getieee802/ for more details.)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2014'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802.2001
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE standards
@@ -108,5 +119,5 @@ keyword:
 - protocol development
 - protocol types
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

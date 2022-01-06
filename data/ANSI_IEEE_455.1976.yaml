@@ -1,12 +1,12 @@
 ---
 id: ANSI/IEEE455.1976
 title:
-  type: main
+- type: main
   content: IEEE Standard Test Procedure for Measuring Longitudinal Balance of Telephone
     Equipment Operating in the Voice Band
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7422618
+- content: https://ieeexplore.ieee.org/document/7422618
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '1975-09-04'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-03-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: Telephone companies and equipment manufacturers have generally agreed on
     a definition for longitudinal balance for many years. This agreement extends also
@@ -60,8 +64,10 @@ abstract:
     in accordance with the standard will produce the same balance number for a given
     test specimen. Similarly, comparing balance numbers for different devices will
     become more meaningful when all come from tests meeting the standard.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Telephone companies and equipment manufacturers have generally agreed on
     a definition for longitudinal balance for many years. This agreement extends also
@@ -84,25 +90,29 @@ abstract:
     in accordance with the standard will produce the same balance number for a given
     test specimen. Similarly, comparing balance numbers for different devices will
     become more meaningful when all come from tests meeting the standard.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: American National Standards Institute
+- owner:
+  - name:
+    - American National Standards Institute
     abbreviation: ANSI
     url: https://www.ansi.org
-  - name: Institute of Electrical and Electronics Engineers
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1976'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: ANSI/IEEE 455.1985
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Telehone equipment

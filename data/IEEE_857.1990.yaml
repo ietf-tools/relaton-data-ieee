@@ -1,11 +1,11 @@
 ---
 id: IEEE857.1990
 title:
-  type: main
+- type: main
   content: IEEE Guide for Test Procedures for HVDC Thyristor Valves
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/89781
+- content: https://ieeexplore.ieee.org/document/89781
   type: src
 type: standard
 docid:
@@ -24,38 +24,45 @@ date:
 - type: issued
   value: '1990-02-15'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Information and recommendations for the type testing of thyristor valves
+- content: Information and recommendations for the type testing of thyristor valves
     for high-voltage directcurrent (HVDC) power transmission systems are provided.
     These tests cover only the principal tests on the valves and do not include tests
     of auxiliary equipment associated with the valves.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1990'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 857.1996
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - DC power transmission
 - Power conversion
@@ -66,5 +73,5 @@ keyword:
 - HVDC thyristor valves
 - HVDC power transmission system
 ics:
-  code: '29.200'
+- code: '29.200'
   text: Rectifiers. Converters. Stabilized power supply

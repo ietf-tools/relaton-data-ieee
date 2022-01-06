@@ -1,12 +1,12 @@
 ---
 id: IEC62270
 title:
-  type: main
+- type: main
   content: IEC/IEEE Guide for Computer-based Control for Hydroelectric Power Plant
     Automation
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6613508
+- content: https://ieeexplore.ieee.org/document/6613508
   type: src
 type: standard
 docid:
@@ -25,44 +25,54 @@ date:
 - type: issued
   value: '2013-06-14'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-09-27'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This guide addresses the application, design concepts, and implementation
+- content: This guide addresses the application, design concepts, and implementation
     of computer-based control systems for hydroelectric plant automation. It addresses
     functional capabilities, performance requirements, interface requirements, hardware
     considerations, and operator training. It includes recommendations for system
     testing and acceptance. The electrical protective system (generator and step-up
     transformer) is beyond the scope of this guide.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: IEC
+  - name:
+    - IEC
   from: '2013'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1249.1996
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE standards

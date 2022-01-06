@@ -1,11 +1,11 @@
 ---
 id: IEEE1450.1999
 title:
-  type: main
+- type: main
   content: IEEE Standard Test Interface Language (STIL) for Digital Test Vector Data
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/798780
+- content: https://ieeexplore.ieee.org/document/798780
   type: src
 type: standard
 docid:
@@ -24,30 +24,37 @@ date:
 - type: issued
   value: '1999-03-18'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-08-12'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'Standard Test Interface Language (STIL) provides an interface between
+- content: 'Standard Test Interface Language (STIL) provides an interface between
     digital test generation tools and test equipment. A test description language
     is defined that: (a) facilitates the transfer of digital test vector data from
     CAE to ATE environments; (b) specifies pattern, format, and timing information
     sufficient to define the application of digital test vectors to a DUT; and (c)
     supports the volume of test vector data generated from structured tests.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1999'
@@ -68,5 +75,5 @@ keyword:
 - timed event
 - wavefor
 ics:
-  code: '35.060'
+- code: '35.060'
   text: Languages used in information technology

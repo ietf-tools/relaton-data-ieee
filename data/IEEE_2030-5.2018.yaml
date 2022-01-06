@@ -1,11 +1,11 @@
 ---
 id: IEEE2030-5.2018
 title:
-  type: main
+- type: main
   content: IEEE Standard for Smart Energy Profile Application Protocol
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8608044
+- content: https://ieeexplore.ieee.org/document/8608044
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '2018-05-07'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-01-10'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The application layer with TCP/IP providing functions in the transport
     and Internet layers to enable utility management of the end user energy environment,
@@ -54,8 +58,10 @@ abstract:
     elements from many existing standards, including IEC 61968 and IEC 61850, and
     follows a RESTful architecture (Fielding [B3]) using IETF protocols such as HTTP.
     (Additional files for downloads can be found at https://standards.ieee.org/content/dam/ieee-standards/standards/web/download/2030.5-2018_downloads.zip).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: The application layer with TCP/IP providing functions in the transport
     and Internet layers to enable utility management of the end user energy environment,
@@ -73,25 +79,30 @@ abstract:
     from many existing standards, including IEC 61968 and IEC 61850, and follows a
     RESTful architecture (Fielding [B3]) using IETF protocols such as HTTP. (Additional
     files for downloads can be found at https://standards.ieee.org/content/dam/ieee-standards/standards/web/download/2030.5-2018_downloads.zip)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2018'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 2030-5.2013
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards

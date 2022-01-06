@@ -1,13 +1,13 @@
 ---
 id: IEEE1451-0.2007
 title:
-  type: main
+- type: main
   content: IEEE Standard for a Smart Transducer Interface for Sensors and Actuators
     - Common Functions, Communication Protocols, and Transducer Electronic Data Sheet
     (TEDS) Formats
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/4338161
+- content: https://ieeexplore.ieee.org/document/4338161
   type: src
 type: standard
 docid:
@@ -28,17 +28,21 @@ date:
 - type: issued
   value: '2007-03-22'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-06-22'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: It defines the functions that are to be performed by a transducer interface
     module (TIM) and the common characteristics for all devices that implement the
@@ -46,8 +50,10 @@ abstract:
     defines a set of commands to facilitate the setup and control of the TIM as well
     as reading and writing the data used by the system. Application programming interfaces
     (APIs) are defined to facilitate communications with the TIM and with applications.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: It defines the functions that are to be performed by a transducer interface
     module (TIM) and the common characteristics for all devices that implement the
@@ -55,12 +61,15 @@ abstract:
     defines a set of commands to facilitate the setup and control of the TIM as well
     as reading and writing the data used by the system. Application programming interfaces
     (APIs) are defined to facilitate communications with the TIM and with applications.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2007'
@@ -80,5 +89,5 @@ keyword:
 - transducer electronic data sheet
 - transducer interface module
 ics:
-  code: 25.040.40
+- code: 25.040.40
   text: Industrial process measurement and control

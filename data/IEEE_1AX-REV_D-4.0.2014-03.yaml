@@ -1,11 +1,11 @@
 ---
 id: IEEE1AX-REV/D-4.0.2014-03
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for Local and metropolitan area networks--Link Aggregation
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6783946
+- content: https://ieeexplore.ieee.org/document/6783946
   type: src
 type: standard
 docid:
@@ -22,44 +22,53 @@ date:
 - type: issued
   value: '2014-04-05'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-04-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Link Aggregation allows parallel full duplex point-to-point links to be
+- content: Link Aggregation allows parallel full duplex point-to-point links to be
     used as if they werea single link, and also supports the use of multiple links
     as a resilient load sharing interconnectbetween multiple nodes in two separately
     administered networks. This standard defines a MACindependent Link Aggregation
     capability, and general information relevant to specific to MAC types.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2014'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-1AX.2008
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Patents
@@ -79,5 +88,5 @@ keyword:
 - Distributed ResilientNetwork Interconnect
 - DRNI.
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

@@ -1,11 +1,11 @@
 ---
 id: IEEE828.2005
 title:
-  type: main
+- type: main
   content: IEEE Standard for Software Configuration Management Plans
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1502775
+- content: https://ieeexplore.ieee.org/document/1502775
   type: src
 type: standard
 docid:
@@ -24,43 +24,52 @@ date:
 - type: issued
   value: '2005-02-14'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The minimum required contents of a Software Configuration Management (SCM)
+- content: The minimum required contents of a Software Configuration Management (SCM)
     Plan are established via this standard. This standard applies to the entire life
     cycle of critical software (e.g., where failure would impact safety or cause large
     financial or social losses). It also applies to noncritical software and to software
     already developed. The application of this standard is not restricted to any form,
     class, or type of software.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2005'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 828.1998
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -79,5 +88,5 @@ keyword:
 - software configuration management
 - software configuration management plan
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

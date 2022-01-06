@@ -1,12 +1,12 @@
 ---
 id: IEEE802-15-7.2018
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Local and metropolitan area networks--Part 15.7: Short-Range
     Optical Wireless Communications'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8697198
+- content: https://ieeexplore.ieee.org/document/8697198
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2018-12-05'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: A physical layer (PHY) and medium access control (MAC) sublayer for short-range
     optical wireless communications (OWC) in optically transparent media using light
@@ -50,8 +54,10 @@ abstract:
     for cameras where transmitting devices incorporate light-emitting sources and
     receivers are digital cameras with a lens and image sensor. The standard adheres
     to applicable eye safety regulations.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: A physical layer (PHY) and medium access control (MAC) sublayer for short-range
     optical wireless communications (OWC) in optically transparent media using light
@@ -65,25 +71,30 @@ abstract:
     receivers are digital cameras with a lens and image sensor. The standard adheres
     to applicable eye safety regulations. (The PDF of this standard is available at
     no cost compliments of the IEEE GET program at https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=68.)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2018'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-15-7.2011
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -106,5 +117,5 @@ keyword:
 - visible-light communication
 - VLC
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

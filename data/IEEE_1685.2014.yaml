@@ -1,12 +1,12 @@
 ---
 id: IEEE1685.2014
 title:
-  type: main
+- type: main
   content: IEEE Standard for IP-XACT, Standard Structure for Packaging, Integrating,
     and Reusing IP within Tool Flows
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6898803
+- content: https://ieeexplore.ieee.org/document/6898803
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2014-06-12'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-09-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: Conformance checks for eXtensible Markup Language (XML) data designed to
     describe electronic systems are formulated by this standard. The meta-data forms
@@ -51,8 +55,10 @@ abstract:
     of methodology-independent meta-data and the tool-independent mechanism for accessing
     that data provides for portability of design data, design methodologies, and environment
     implementations.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Conformance checks for eXtensible Markup Language (XML) data designed to
     describe electronic systems are formulated by this standard. The meta-data forms
@@ -69,25 +75,30 @@ abstract:
     The "IEEE Get Program" grants public access to view and download individual PDFs
     of select standards at no charge. Visit http://standards.ieee.org/about/get/index.html
     for details.)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2014'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1685.2009
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE standards
@@ -119,5 +130,5 @@ keyword:
 - XML design metadata
 - XML schema
 ics:
-  code: 35.240.99
+- code: 35.240.99
   text: IT applications in other fields

@@ -1,11 +1,11 @@
 ---
 id: IEEE2030-5.2013
 title:
-  type: main
+- type: main
   content: IEEE Adoption of Smart Energy Profile 2.0 Application Protocol Standard
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6662361
+- content: https://ieeexplore.ieee.org/document/6662361
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '2013-10-31'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-11-12'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The 'APPLICATION' layer with TCP/IP providing functions in the 'TRANSPORT'
     and 'INTERNET' layers is defined in this standard. Depending on the physical layer
@@ -51,8 +55,10 @@ abstract:
     information model [61968] profile, mapping directly where possible, and using
     subsets and extensions where needed, and follows an IETF RESTful architecture
     [REST].
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: 'The ''APPLICATION'' layer with TCP/IP providing functions in the ''TRANSPORT''
     and ''INTERNET'' layers is defined in this standard. Depending on the physical
@@ -67,22 +73,25 @@ abstract:
     information model [61968] profile, mapping directly where possible, and using
     subsets and extensions where needed, and follows an IETF RESTful architecture
     [REST]. (NOTE: additional files for this standard is available at http://standards.ieee.org/downloads/2030.5/)'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2013'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 2030-5.2018
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Energy management

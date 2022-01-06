@@ -1,12 +1,12 @@
 ---
 id: IEEE758.1979
 title:
-  type: main
+- type: main
   content: IEEE Standard Subroutines for Computer Automated Measurement and Control
     (CAMAC)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/19507
+- content: https://ieeexplore.ieee.org/document/19507
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1978-12-14'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-01-31'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: A set of standard subroutines that provide access to CAMAC facilities in
+- content: A set of standard subroutines that provide access to CAMAC facilities in
     a variety of computer programming languages is described. The subroutines are
     specifically intended to be suitable for use with FORTRAN, although they are not
     restricted to that language. The subroutines have been grouped into three subsets
@@ -47,12 +51,15 @@ abstract:
     are added that permit procedures to be written in more mnemonic terminology, provide
     better handling of LAMs, permit procedures to be independent of the type of CAMAC
     highway used, and provide efficient block-transfer capability.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1979'

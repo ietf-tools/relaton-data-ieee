@@ -1,11 +1,11 @@
 ---
 id: IEEE1159.2009
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for Monitoring Electric Power Quality
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5154067
+- content: https://ieeexplore.ieee.org/document/5154067
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '2009-03-19'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-08-13'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: This recommended practice encompasses the monitoring of electrical characteristics
     of single-phase and polyphase ac power systems. It includes consistent descriptions
@@ -46,8 +50,10 @@ abstract:
     from interactions between the source and the load. Also, this recommended practice
     discusses power quality monitoring devices, application techniques, and the interpretation
     of monitoring results.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: This Recommended Practice encompasses the monitoring of electrical characteristics
     of single-phase and polyphase ac power systems. It includes consistent descriptions
@@ -56,25 +62,30 @@ abstract:
     may originate within the source of supply or load equipment, or from interactions
     between the source and the load. Also, this document discusses power quality monitoring
     devices, application techniques, and interpretation of monitoring results.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2009'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1159.1995
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -99,5 +110,5 @@ keyword:
 - transient
 - unbalance
 ics:
-  code: 29.240.01
+- code: 29.240.01
   text: Power transmission and distribution networks in general

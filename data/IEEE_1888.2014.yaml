@@ -1,11 +1,11 @@
 ---
 id: IEEE1888.2014
 title:
-  type: main
+- type: main
   content: IEEE Standard for Ubiquitous Green Community Control Network Protocol
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6823054
+- content: https://ieeexplore.ieee.org/document/6823054
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '2014-03-27'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-05-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The standard identifies gateways for field-bus networks, data storage for
     archiving and developing data sharing platforms, and application units as important
@@ -46,8 +50,10 @@ abstract:
     storage, application units) over the IPv4/v6-based networks. This enables integration
     of multiple facilities, data storage, application services such as central management,
     energy saving, environmental monitoring, and alarm notification systems.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: The standard identifies gateways for field-bus networks, data storage for
     archiving and developing data sharing platforms, and application units as important
@@ -57,25 +63,30 @@ abstract:
     storage, application units) over the IPv4/v6-based networks. This enables integration
     of multiple facilities, data storage, application services such as central management,
     energy saving, environmental monitoring, and alarm notification systems.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2014'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1888.2011
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE standards
@@ -106,5 +117,5 @@ keyword:
 - SOAP
 - storage
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

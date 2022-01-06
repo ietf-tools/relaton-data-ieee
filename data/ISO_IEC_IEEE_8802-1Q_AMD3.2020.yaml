@@ -1,7 +1,7 @@
 ---
 id: ISO/IEC/IEEE8802-1Q/Amd3.2020
 title:
-  type: main
+- type: main
   content: 'ISO/IEC/IEEE International Standard - Telecommunications and exchange
     between information technology systems &#8212; Requirements for local and metropolitan
     area networks &#8212;Part 1Q: Bridges and bridged networks AMENDMENT 3: Virtual
@@ -9,7 +9,7 @@ title:
     support network virtualization overlays over layer 3 (NVO3)'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9546720
+- content: https://ieeexplore.ieee.org/document/9546720
   type: src
 type: standard
 docid:
@@ -28,37 +28,46 @@ date:
 - type: issued
   value: '2021'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-22'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Extensions to the Virtual Station Interface (VSI) Discovery and Configuration
+- content: Extensions to the Virtual Station Interface (VSI) Discovery and Configuration
     Protocol (VDP) to support using the protocol between an end station and a device
     doing encapsulation/decapsulation for Network Virtualization Overlays Over Layer
     3 (NVO3) are specified in this amendment to IEEE Std 802.1Q-2018. The extensions
     include adding format types [e.g., Internet Protocol (IP) addresses] and enhancing
     indication of migration events.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
-  - name: IEC
+  - name:
+    - ISO
+  - name:
+    - IEC
   from: '2021'
 relation:
-  type: adoptedFrom
+- type: adoptedFrom
   bibitem:
     formattedref:
       content: IEEE 802-1Qcy.2019
@@ -78,5 +87,5 @@ keyword:
 - VDP extension
 - VDP IP address extension
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

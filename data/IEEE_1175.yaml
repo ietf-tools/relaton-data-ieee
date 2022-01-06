@@ -1,11 +1,11 @@
 ---
 id: IEEE1175
 title:
-  type: main
+- type: main
   content: IEEE Standard Reference Model for Computing System Tool Interconnections
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/573339
+- content: https://ieeexplore.ieee.org/document/573339
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1991-12-05'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'Withdrawn Standard. Withdrawn Date: Jan 10, 2002. No longer endorsed by
+- content: 'Withdrawn Standard. Withdrawn Date: Jan 10, 2002. No longer endorsed by
     the IEEE. This IEEE Standards product is part of the family on Software Engineering.
     Reference models for tool-to-organization interconnections, tool-to-platform interconnections,
     and information transfer among tools are provided. The purpose is to establish
@@ -46,12 +50,15 @@ abstract:
     (STL) is also provided. Interconnections that must be considered when buying,
     building, testing, or using computing system tools for specifying behavioral descriptions
     or requirements of system and software products are described.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1992'
@@ -67,5 +74,5 @@ keyword:
 - Reference model
 - Information transfer
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

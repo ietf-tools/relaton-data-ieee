@@ -1,12 +1,12 @@
 ---
 id: IEEEP1278-2/D-6.2014-11
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for Distributed Interactive Simulation (DIS) - Communication
     Services and Profiles
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6969119
+- content: https://ieeexplore.ieee.org/document/6969119
   type: src
 type: standard
 docid:
@@ -23,44 +23,53 @@ date:
 - type: issued
   value: '2014'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-11-27'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Communication services to support information exchange between simulation
+- content: Communication services to support information exchange between simulation
     applications participating in the Distributed Interactive Simulation (DIS) environment
     are defined. These communication services describe a connectionless information
     transfer that supports real-time, as well as non-real-time, exchange. Several
     communication profiles specifying communication services are provided.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2014'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1278-2.1995
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Telecommunication services
@@ -74,5 +83,5 @@ keyword:
 - protocol data units (PDUs)
 - multicast
 ics:
-  code: '35.020'
+- code: '35.020'
   text: Information technology (IT) in general

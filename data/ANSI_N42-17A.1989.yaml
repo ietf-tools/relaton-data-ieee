@@ -1,12 +1,12 @@
 ---
 id: ANSIN42-17A.1989
 title:
-  type: main
+- type: main
   content: American National Standard Performance Specifications for Health Physics
     Instrumentation - Portable Instrumentation for Use in Normal Environmental Conditions
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/287255
+- content: https://ieeexplore.ieee.org/document/287255
   type: src
 type: standard
 docid:
@@ -25,39 +25,46 @@ date:
 - type: issued
   value: '1989'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-04-10'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Minimum acceptable performance criteria for health physics instrumentation
+- content: Minimum acceptable performance criteria for health physics instrumentation
     for use in ionizing radiation fields are established. Included are testing methods
     to establish the acceptability of each type of instrumentation. This standard
     does not specify which instruments or systems are required, nor does it consider
     the number of specific applications of such instruments.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1989'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: ANSI N42-17A.2003
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Instruments
@@ -68,5 +75,5 @@ keyword:
 - Testing
 - Radiation detectors
 ics:
-  code: '17.240'
+- code: '17.240'
   text: Radiation measurements

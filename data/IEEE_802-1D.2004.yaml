@@ -1,12 +1,12 @@
 ---
 id: IEEE802-1D.2004
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Local and metropolitan area networks: Media Access Control
     (MAC) Bridges'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1309630
+- content: https://ieeexplore.ieee.org/document/1309630
   type: src
 type: standard
 docid:
@@ -25,43 +25,52 @@ date:
 - type: issued
   value: '2004-02-09'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2012-05-22'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: An architecture for the interconnection of IEEE 802(R) Local Area Networks
+- content: An architecture for the interconnection of IEEE 802(R) Local Area Networks
     (LANs) below the MAC Service boundary is defined. MAC Bridges, as specified by
     this standard, allow communications between end stations attached to separate
     LANs, each with its own separate MAC, to be transparent to logical link control
     (LLC) and network layer protocols, just as if the stations were attached to the
     same LAN.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2004'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: ANSI/IEEE 802-1D.1998
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards

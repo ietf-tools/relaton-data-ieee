@@ -1,13 +1,13 @@
 ---
 id: IEEE1451-2.1997
 title:
-  type: main
+- type: main
   content: IEEE Standard for a Smart Transducer Interface for Sensors and Actuators
     - Transducer to Microprocessor Communication Protocols and Transducer Electronic
     Data Sheet (TEDS) Formats
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/720565
+- content: https://ieeexplore.ieee.org/document/720565
   type: src
 type: standard
 docid:
@@ -26,29 +26,36 @@ date:
 - type: issued
   value: '1997-09-16'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-10'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: A digital interface for connecting transducers to microprocessors is defined.
+- content: A digital interface for connecting transducers to microprocessors is defined.
     A TEDS and its data formats are described. An electrical interface, read and write
     logic functions to access the TEDS and a wide variety of transducers are defined.
     This standard does not specify signal conditioning, signal conversion, or how
     the TEDS data is used in applications.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1998'
@@ -68,5 +75,5 @@ keyword:
 - TEDS
 - '1451'
 ics:
-  code: 01.040.11
+- code: 01.040.11
   text: Health care technology (Vocabularies)

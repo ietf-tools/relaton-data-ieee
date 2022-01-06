@@ -11,7 +11,7 @@ title:
     - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5985452
+- content: https://ieeexplore.ieee.org/document/5985452
   type: src
 type: standard
 docid:
@@ -28,19 +28,23 @@ date:
 - type: issued
   value: '2008-03-27'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-08-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This recommended practice provides calculation methods to conservatively
+- content: This recommended practice provides calculation methods to conservatively
     evaluate the feasibility for an existing installed dry-type or liquid-filled transformer,
     to supply nonsinusoidal load currents as a portion of the total load. This recommended
     practice also provides necessary application information to assist in properly
@@ -49,22 +53,25 @@ abstract:
     and calculations are presented. Reference annexes provide a comparison of the
     document calculations to calculations found in other industry standards. Suggested
     temperature rise calculation methods are detailed for reference purposes.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2011'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE C57-110
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Transformers
@@ -82,5 +89,5 @@ keyword:
 - type tests
 - voltage transformer
 ics:
-  code: '29.180'
+- code: '29.180'
   text: Transformers. Reactors

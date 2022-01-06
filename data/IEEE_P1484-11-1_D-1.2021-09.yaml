@@ -1,12 +1,12 @@
 ---
 id: IEEEP1484-11-1/D-1.2021-09
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for Learning Technology--Data Model for Content Object
     Communication
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9567730
+- content: https://ieeexplore.ieee.org/document/9567730
   type: src
 type: standard
 docid:
@@ -23,19 +23,23 @@ date:
 - type: issued
   value: '2021'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-10-11'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This Standard describes a data model to support the interchange of data
+- content: This Standard describes a data model to support the interchange of data
     elements and their values between a content object and a runtime service (RTS).
     It is based on a current industry practice called “CMI&#8212;Computer Managed
     Instruction.” The work upon which this Standard is based was developed to support
@@ -44,25 +48,30 @@ abstract:
     objects, to learners. The data model supports learner data and preferences, interactions,
     objectives, content-object entry, exit, and status information, time parameters,
     and scores.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2021'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1484-11-1.2004
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -82,5 +91,5 @@ keyword:
 - runtime service
 - RTS
 ics:
-  code: 35.240.99
+- code: 35.240.99
   text: IT applications in other fields

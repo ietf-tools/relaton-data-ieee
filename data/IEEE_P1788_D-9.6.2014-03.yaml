@@ -1,11 +1,11 @@
 ---
 id: IEEEP1788/D-9.6.2014-03
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for Interval Arithmetic
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7081718
+- content: https://ieeexplore.ieee.org/document/7081718
   type: src
 type: standard
 docid:
@@ -22,19 +22,23 @@ date:
 - type: issued
   value: '2015-04-22'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-04-08'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard specifies basic interval arithmetic (IA) operations selecting
+- content: This standard specifies basic interval arithmetic (IA) operations selecting
     and following one of the commonly used mathematical interval models. This standard
     supports the IEEE 754 floating point formats of practical use in interval computations.
     Exception conditions are defined, and standard handling of these conditions is
@@ -44,12 +48,15 @@ abstract:
     language levels. It does not mandate that any operations be implemented in hardware.
     It does not define any realization of the basic operations as functions in a programming
     language.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2015'
@@ -68,5 +75,5 @@ keyword:
 - operation
 - verified
 ics:
-  code: '07.020'
+- code: '07.020'
   text: Mathematics

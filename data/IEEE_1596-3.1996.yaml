@@ -1,12 +1,12 @@
 ---
 id: IEEE1596-3.1996
 title:
-  type: main
+- type: main
   content: IEEE Standard for Low-Voltage Differential Signals (LVDS) for Scalable
     Coherent Interface (SCI)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/503756
+- content: https://ieeexplore.ieee.org/document/503756
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1996-03-21'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-09'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Scalable Coherent Interface (SCI), specified in IEEE Std 1596-1992, provides
+- content: Scalable Coherent Interface (SCI), specified in IEEE Std 1596-1992, provides
     computer-bus-like services but uses a collection of fast point-to-point links
     instead of a physical bus in order to reach far higher speeds. The base specification
     defines differential ECL signals, which provide a high transfer rate (16 bits
@@ -51,12 +55,15 @@ abstract:
     to 8 bits) transferring data every 2 ns can provide sufficient bandwidth for many
     applications while reducing the physical size and cost of the interface. The wider
     paths may be needed for very-high-performance systems.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1996'
@@ -71,5 +78,5 @@ keyword:
 - scalable
 - signal
 ics:
-  code: '35.200'
+- code: '35.200'
   text: Interface and interconnection equipment

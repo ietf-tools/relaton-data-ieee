@@ -1,11 +1,11 @@
 ---
 id: IEEE1905-1.2013
 title:
-  type: main
+- type: main
   content: IEEE Standard for a Convergent Digital Home Network for Heterogeneous Technologies
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6502164
+- content: https://ieeexplore.ieee.org/document/6502164
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '2013-03-06'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-04-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: 'An abstraction layer for multiple home networking technologies that provides
     a common interface to widely deployed home networking technologies is defined
@@ -53,8 +57,10 @@ abstract:
     connections, extending network coverage, and facilitating advanced network management
     features including discovery, path selection, autoconfiguration, and quality of
     service (QoS) negotiation.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: 'An abstraction layer for multiple home networking technologies that provides
     a common interface to widely deployed home networking technologies is defined
@@ -71,12 +77,15 @@ abstract:
     connections, extending network coverage, and facilitating advanced network management
     features including discovery, path selection, autoconfiguration, and quality of
     service (QoS) negotiation.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2013'
@@ -103,5 +112,5 @@ keyword:
 - topology discovery protocol
 - wireless fidelity (Wi-Fi)
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

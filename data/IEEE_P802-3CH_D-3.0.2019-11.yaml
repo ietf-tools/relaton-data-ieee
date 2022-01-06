@@ -1,12 +1,12 @@
 ---
 id: IEEEP802-3ch/D-3.0.2019-11
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for Ethernet Physical Layer Specifications and Management
     Parameters for Greater Than 1 Gb/s Automotive Ethernet
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8910666
+- content: https://ieeexplore.ieee.org/document/8910666
   type: src
 type: standard
 docid:
@@ -23,42 +23,51 @@ date:
 - type: issued
   value: '2020-06-04'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-11-22'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This amendment to IEEE Std 802.3-2018 adds physical layer specifications
+- content: This amendment to IEEE Std 802.3-2018 adds physical layer specifications
     and management parameters for 2.5 Gb/s, 5 Gb/s, and 10 Gb/s operation on a single
     balanced pair of conductors suitable for automotive applications.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2019'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-3.2018
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Physical layer

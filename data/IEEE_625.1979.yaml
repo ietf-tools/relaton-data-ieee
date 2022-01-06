@@ -1,12 +1,12 @@
 ---
 id: IEEE625.1979
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practices to Improve Electrical Maintenance and Safety
     in the Cement Industry
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/21023
+- content: https://ieeexplore.ieee.org/document/21023
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1978-06-16'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Superseded by 625-1990. Assists in the effective application of relays
+- content: Superseded by 625-1990. Assists in the effective application of relays
     and other devices for the protection of shunt capacitors used in substations.
     It covers the protective considerations, along with recommended and alternate
     methods of protection for the most commonly used capacitor bank configurations.
@@ -45,22 +49,25 @@ abstract:
     of filter tanks and very large EHV capacitor banks, but does not include a discussion
     of pole-mounted capacitor banks on distribution circuits or application of capacitors
     connected to rotating apparatus.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1979'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 625.1990
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Cement industry
 - Generators
@@ -74,5 +81,5 @@ keyword:
 - maintenance
 - safety
 ics:
-  code: '13.260'
+- code: '13.260'
   text: Protection against electric shock. Live working

@@ -1,12 +1,12 @@
 ---
 id: IEEE421-5.1992
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for Excitation System Models for Power System
     Stability Studies
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/182869
+- content: https://ieeexplore.ieee.org/document/182869
   type: src
 type: standard
 docid:
@@ -25,41 +25,48 @@ date:
 - type: issued
   value: '1992-03-19'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Superseded by IEEE Std 421.5-2005. Excitation system models suitable for
+- content: Superseded by IEEE Std 421.5-2005. Excitation system models suitable for
     use in large scale system stability studies are presented. With these models,
     most of the excitation systems currently in widespread use on large, system-connected
     synchronous machines in North America can be represented. They include updates
     of models published in the IEEE Transactions on Power Apparatus and Systems in
     1981 as well as models for additional control features such as discontinuous excitation
     controls.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1992'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 421-5.2005
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Power system control
 - Power system stability
@@ -68,5 +75,5 @@ keyword:
 - excitation systems
 - power system stability
 ics:
-  code: 29.160.20
+- code: 29.160.20
   text: Generators

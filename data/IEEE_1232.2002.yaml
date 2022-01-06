@@ -1,12 +1,12 @@
 ---
 id: IEEE1232.2002
 title:
-  type: main
+- type: main
   content: "(Replaced) IEEE Standard for Artificial Intelligence Exchange and Service
     Tie to All Test Environments (AI- ESTATE)"
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1075984
+- content: https://ieeexplore.ieee.org/document/1075984
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '2002-06-13'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-19'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Superseded by IEC/IEEE 62243-2005 (SH/SS95359) AI-ESTATE is a set of specifications
+- content: Superseded by IEC/IEEE 62243-2005 (SH/SS95359) AI-ESTATE is a set of specifications
     for data interchange and for standard services forthe test and diagnostic environment.
     The purpose of AI-ESTATE is to standardize interfaces between functional elements
     of an intelligent diagnostic reasoner and representations of diagnostic knowledge
@@ -46,12 +50,15 @@ abstract:
     information between two reasoners, and also to provide a formal typing system
     for diagnostic services. This standard thendefines the services to manipulate
     diagnostic information and to control a diagnostic reasoner.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2002'
@@ -63,15 +70,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1232.2010
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Electronic data interchange

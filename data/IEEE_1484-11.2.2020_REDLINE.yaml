@@ -10,7 +10,7 @@ title:
     Interface for Content to Runtime Services Communication - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9360685
+- content: https://ieeexplore.ieee.org/document/9360685
   type: src
 type: standard
 docid:
@@ -27,19 +27,23 @@ date:
 - type: issued
   value: '2020-09-24'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-02-22'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: An ECMAScript application programming interface (API) for content-to-runtime-services
+- content: An ECMAScript application programming interface (API) for content-to-runtime-services
     communication is described in this standard. It is based on a current industry
     practice called “CMI--computer managed instruction.” This API enables the communication
     of information between content and a runtime service (RTS) typically provided
@@ -47,25 +51,30 @@ abstract:
     language. The purpose of this standard is to build consensus around, resolve ambiguities,
     and correct defects in existing specifications for an ECMA¬Script API for exchanging
     data between learning-related content and an LMS.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2020'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1484-11-2.2003
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -85,5 +94,5 @@ keyword:
 - runtime service
 - RTS
 ics:
-  code: 35.240.99
+- code: 35.240.99
   text: IT applications in other fields

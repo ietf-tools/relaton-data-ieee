@@ -10,7 +10,7 @@ title:
     Independent Services Framework - Redline'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8082798
+- content: https://ieeexplore.ieee.org/document/8082798
   type: src
 type: standard
 docid:
@@ -27,43 +27,52 @@ date:
 - type: issued
   value: '2017-02-14'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-25'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: An extensible IEEE 802(R) media access independent services framework (i.e.,
+- content: An extensible IEEE 802(R) media access independent services framework (i.e.,
     function and protocol) is defined that enables the optimization of services including
     handover and other services when performed between heterogeneous IEEE 802 networks.
     These services are facilitated by this standard when networking between IEEE 802
     networks and cellular networks. (The PDF of this standard is available at no cost
     compliments of the IEEE GET program http://ieeexplore.ieee.org/browse/standards/get-program/page/)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2017'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-21.2008
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -92,5 +101,5 @@ keyword:
 - security protection
 - service access authentication
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

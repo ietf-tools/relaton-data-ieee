@@ -1,12 +1,12 @@
 ---
 id: IEEE2413.2019
 title:
-  type: main
+- type: main
   content: IEEE Standard for an Architectural Framework for the Internet of Things
     (IoT)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9032420
+- content: https://ieeexplore.ieee.org/document/9032420
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2019-05-21'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-03-11'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: An architecture framework description for the Internet of Things (IoT)
     which conforms to the international standard ISO/IEC/IEEE 42010:2011 is defined.
@@ -46,8 +50,10 @@ abstract:
     Smart Grid, etc.). A conceptual basis for the notion of things in the IoT is provided
     and the shared concerns as a collection of architecture viewpoints is elaborated
     to form the body of the framework description.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: An architecture framework description for the Internet of Things (IoT)
     which conforms to the international standard ISO/IEC/IEEE 42010:2011 is defined.
@@ -56,12 +62,15 @@ abstract:
     Smart Grid, etc.). A conceptual basis for the notion of things in the IoT is provided
     and the shared concerns as a collection of architecture viewpoints is elaborated
     to form the body of the framework description.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2019'
@@ -73,5 +82,5 @@ keyword:
 - IEEE 2413
 - Internet of Things (IoT)
 ics:
-  code: 01.040.11
+- code: 01.040.11
   text: Health care technology (Vocabularies)

@@ -1,12 +1,12 @@
 ---
 id: ISO/IEC14536
 title:
-  type: main
+- type: main
   content: ISO/IEC 14536:1995 [ANSI/IEEE Std 896.5-1995] Information technology -
     Microprocessor systems - Futurebus+(R), Profile M (Military)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/4140852
+- content: https://ieeexplore.ieee.org/document/4140852
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1995'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-12-10'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This International Standard provides a set of tools with which to implement
+- content: 'This International Standard provides a set of tools with which to implement
     a Futurebus+¨ architecture. This high-performance bus-based system architecture
     provides a wide range of performance and cost scalability over time for multiple
     generations of single- and muliple-bus multiprocessor systems. This document,
@@ -49,12 +53,15 @@ abstract:
     Std 896.2a-1994, IEEE Std 896.3-1993, IEEE Std 896.4-1993, IEEE P896.4a, IEEE
     Std 896.9-1994, IEEE Std 1101.3-1993, IEEE Std 1101.4-1993, IEEE Std 1212-1991,
     IEEE Std 1194.1-1991, IEEE Std P1394, IEEE Std 1301-1991, and IEEE Std 1301.1-1991.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1995'
@@ -76,5 +83,5 @@ keyword:
 - serial bus
 - software debug
 ics:
-  code: '35.160'
+- code: '35.160'
   text: Microprocessor systems

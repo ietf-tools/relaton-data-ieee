@@ -1,12 +1,12 @@
 ---
 id: ISO/IEC/IEEE26512
 title:
-  type: main
+- type: main
   content: IEEE/ISO/IEC Systems and software engineering -- Requirements for acquirers
     and suppliers of user documentation
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5871663
+- content: https://ieeexplore.ieee.org/document/5871663
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2011-03-31'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-12-04'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: 'ISO/IEC/IEEE 26512:2011 was developed to assist users of ISO/IEC 15288:2008
     (IEEE Std 15288-2008) or ISO/IEC 12207:2008 (IEEE Std 12207 2008) to acquire or
@@ -58,8 +62,10 @@ abstract:
     be used to produce documentation, and applies to both printed documentation and
     on-screen documentation. Much of its guidance is applicable to user documentation
     for systems including hardware as well as software.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: 'ISO/IEC/IEEE 26512:2011 was developed to assist users of ISO/IEC 15288:2008
     (IEEE Std 15288-2008) or ISO/IEC 12207:2008 (IEEE Std 12207-2008) to acquire or
@@ -80,16 +86,21 @@ abstract:
     be used to produce documentation, and applies to both printed documentation and
     on-screen documentation. Much of its guidance is applicable to user documentation
     for systems including hardware as well as software.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
-  - name: IEC
+  - name:
+    - ISO
+  - name:
+    - IEC
   from: '2011'
 relation:
 - type: updates
@@ -99,15 +110,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: ISO/IEC/IEEE 26512.2017
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Software engineering
@@ -121,5 +134,5 @@ keyword:
 - statement of work
 - supply
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

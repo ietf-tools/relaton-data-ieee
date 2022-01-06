@@ -1,12 +1,12 @@
 ---
 id: ANSI/IEEEC37-90.1989
 title:
-  type: main
+- type: main
   content: IEEE Standard for Relays and Relay Systems Associated with Electric Power
     Apparatus
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/89887
+- content: https://ieeexplore.ieee.org/document/89887
   type: src
 type: standard
 docid:
@@ -25,28 +25,35 @@ date:
 - type: issued
   value: '1989-08-17'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Superseded by IEEE Std C37.90-2005. This standard applies to relay systems
+- content: Superseded by IEEE Std C37.90-2005. This standard applies to relay systems
     that protect and control apparatus that generate, and distribute and use electric
     power. This standard defines service conditions and specifies relay performance
     requirements and performance information that relay manufacturers shall provide.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1989'
@@ -58,20 +65,22 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE C37-90.2005
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Protective relaying
 - Standards
 - Testing
 - Protective relaying
 ics:
-  code: 29.120.70
+- code: 29.120.70
   text: Relays

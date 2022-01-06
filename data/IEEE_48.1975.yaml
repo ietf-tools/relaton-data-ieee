@@ -1,12 +1,12 @@
 ---
 id: IEEE48.1975
 title:
-  type: main
+- type: main
   content: IEEE Standard Test Procedures and Requirements for High-Voltage Alternating-Current
     Cable Terminations
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/27712
+- content: https://ieeexplore.ieee.org/document/27712
   type: src
 type: standard
 docid:
@@ -25,43 +25,50 @@ date:
 - type: issued
   value: '1974-12-20'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard covers all indoor and outdoor cable terminations used on
+- content: This standard covers all indoor and outdoor cable terminations used on
     alternating current cables having laminated or extruded insulation rated 2.5 kV
     through 500 kV, except seperable insulated connectors which are covered by [1].
     Cable terminations and component parts shall be capable of withstanding the test
     specified in this standard.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1975'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 48.1990
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Connectors
 - Power cables
 - Testing
 ics:
-  code: 29.240.20
+- code: 29.240.20
   text: Power transmission and distribution lines

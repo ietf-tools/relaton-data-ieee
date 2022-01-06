@@ -1,13 +1,13 @@
 ---
 id: IEEEP1901a/D-3.2018-12
 title:
-  type: main
+- type: main
   content: 'IEEE Draft Standard for Broadband over Power Line Networks: Medium Access
     Control and Physical Layer Specifications Amendment: Enhancement for Internet
     of Things applications'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8575222
+- content: https://ieeexplore.ieee.org/document/8575222
   type: src
 type: standard
 docid:
@@ -24,30 +24,37 @@ date:
 - type: issued
   value: '2019-03-21'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-12-13'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Physical (PHY) and media access control (MAC) layers of a broadband powerline
+- content: Physical (PHY) and media access control (MAC) layers of a broadband powerline
     communication technology called flexible channel wavelet PHY/MAC (FCW) for Internet
     of Things applications (IoTPLC) based on wavelet orthogonal frequency division
     multiplexing (wavelet OFDM) are specified in this amendment. Modes for operations
     in different channels (frequency bands) with different values of carrier spacing
     are defined.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2018'
@@ -59,8 +66,10 @@ relation:
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: updates
   bibitem:
@@ -69,10 +78,12 @@ relation:
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Internet of Things
@@ -90,5 +101,5 @@ keyword:
 - power line communication (PLC)
 - wavelet orthogonal frequency division multiplexing (wavelet OFDM)
 ics:
-  code: 33.040.60
+- code: 33.040.60
   text: Powerline telecommunications

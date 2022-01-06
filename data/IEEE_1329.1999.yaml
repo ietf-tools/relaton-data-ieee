@@ -1,12 +1,12 @@
 ---
 id: IEEE1329.1999
 title:
-  type: main
+- type: main
   content: IEEE Standard Method for Measuring Transmission Performance of Handsfree
     Telephone Sets
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/917586
+- content: https://ieeexplore.ieee.org/document/917586
   type: src
 type: standard
 docid:
@@ -25,17 +25,21 @@ date:
 - type: issued
   value: '1999-09-16'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: Techniques for objective measurement of electroacoustic and voice switching
     characteristics of analog and digital handsfree telephones (HFTs) are provided.
@@ -43,8 +47,10 @@ abstract:
     operate, not all of the test procedures in this standard are applicable to all
     HFTs. Application of the test procedures to atypical HFTs should be determined
     on an individual basis.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Techniques for objective measurement of electroacoustic and voice switching
     characteristics of analog and digital handsfree telephones (HFTs) are provided.
@@ -52,22 +58,25 @@ abstract:
     operate, not all of the test procedures in this standard are applicable to all
     HFTs. Application of the test procedures to a typical HFTs should be determined
     on an individual basis.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2000'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1329.2010
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Telephone sets
@@ -82,5 +91,5 @@ keyword:
 - voice switching characteristics
 - voice transmission characteristics
 ics:
-  code: 33.050.10
+- code: 33.050.10
   text: Telephone equipment

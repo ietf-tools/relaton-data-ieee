@@ -1,12 +1,12 @@
 ---
 id: IEEE1212-1.1993
 title:
-  type: main
+- type: main
   content: IEEE Standard for Communicating Among Processors and Peripherals Using
     Shared Memory (Direct Memory Access - DMA)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8686399
+- content: https://ieeexplore.ieee.org/document/8686399
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1993-06-17'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-10'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Administratively withdrawn January 2007 Primitive yet high-performance
+- content: Administratively withdrawn January 2007 Primitive yet high-performance
     means are defined for passing messages across the bus between the Processor and
     some form of intelligence in the I/O Unit's Function. This message-passing scheme
     makes minimal demands on the instruction set and hardware required. In addition,
@@ -46,12 +50,15 @@ abstract:
     detailed definition of application-dependent I/O Unit and Function interface standards.
     The algorithms and definitions themselves are useful in the design of integrated
     circuits for I/O.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1994'
@@ -66,5 +73,5 @@ keyword:
 - Direct memory access
 - DMA
 ics:
-  code: '35.200'
+- code: '35.200'
   text: Interface and interconnection equipment

@@ -1,12 +1,12 @@
 ---
 id: IEEE1351.1994
 title:
-  type: main
+- type: main
   content: IEEE Standard for Information Technology--ACSE and Presentation Layer Services--Application
     Program Interface (API) [C Language Independent]
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/469125
+- content: https://ieeexplore.ieee.org/document/469125
   type: src
 type: standard
 docid:
@@ -25,29 +25,36 @@ date:
 - type: issued
   value: '1994-09-22'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-26'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: A language-independent Application Program Interface (API) to the ACSE
+- content: A language-independent Application Program Interface (API) to the ACSE
     application service element of the OSI application layer and the connection-oriented
     services of the presentation layer are defined. The purpose of this API is to
     support portable implementations of application-specific OSI service elements
     and non-OSI applications.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1994'
@@ -66,5 +73,5 @@ keyword:
 - OSI
 - presentation layer
 ics:
-  code: 35.100.01
+- code: 35.100.01
   text: Open systems interconnection in general

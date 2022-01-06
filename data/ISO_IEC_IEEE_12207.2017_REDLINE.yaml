@@ -10,7 +10,7 @@ title:
     -- Software life cycle processes - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8392559
+- content: https://ieeexplore.ieee.org/document/8392559
   type: src
 type: standard
 docid:
@@ -27,35 +27,44 @@ date:
 - type: issued
   value: '2017-09-28'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-06-21'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
-  - name: IEC
+  - name:
+    - ISO
+  - name:
+    - IEC
   from: '2017'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 12207.2008
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -112,5 +121,5 @@ keyword:
 - validation
 - verification
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

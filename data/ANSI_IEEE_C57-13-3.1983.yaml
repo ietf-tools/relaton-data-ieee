@@ -1,12 +1,12 @@
 ---
 id: ANSI/IEEEC57-13-3.1983
 title:
-  type: main
+- type: main
   content: IEEE Guide for the Grounding of Instrument Transformer Secondary Circuits
     and Cases
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/27858
+- content: https://ieeexplore.ieee.org/document/27858
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1983-09-22'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Superseded by IEEE Std C57.13.3-2005 General and specific recommendations
+- content: Superseded by IEEE Std C57.13.3-2005 General and specific recommendations
     for grounding current and voltage transformer secondary circuits and cases of
     connected equipment are provided. The practices recommended apply to all transformers
     of this type, including capacitive voltage transformers and linear couplers, irrespective
@@ -46,22 +50,25 @@ abstract:
     as auxiliary current or voltage transformers. The primary emphasis is personnel
     safety and proper performance of relays at power-line frequencies. The grounding
     and shielding of cables and other grounding considerations are not addressed.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1988'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE C57-13-3.2005
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Grounding
 - Insulation testing
@@ -74,5 +81,5 @@ keyword:
 - secondary
 - circuits
 ics:
-  code: 29.100.99
+- code: 29.100.99
   text: Other components for electrical equipment

@@ -1,12 +1,12 @@
 ---
 id: ISO/IEC/IEEE26531.2015
 title:
-  type: main
+- type: main
   content: ISO/IEC/IEEE International Standard for Systems and software engineering
     -- Content management for product life-cycle, user, and service management documentation
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7106441
+- content: https://ieeexplore.ieee.org/document/7106441
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2015-03-26'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-05-13'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: This International Standard provides requirements for the management of
     the content used in product life cycle, software, and service management system
@@ -63,8 +67,10 @@ abstract:
     system. This International Standard is independent of the software tools and markup
     languages that may be used to manage documentation content, and applies to both
     printed documentation and on-screen documentation.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: This International Standard provides requirements for the management of
     the content used in product life cycle, software, and service management system
@@ -90,16 +96,21 @@ abstract:
     management system. This International Standard is independent of the software
     tools and markup languages that may be used to manage documentation content, and
     applies to both printed documentation and on-screen documentation.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
-  - name: IEC
+  - name:
+    - ISO
+  - name:
+    - IEC
   from: '2015'
 keyword:
 - IEEE Standards
@@ -114,5 +125,5 @@ keyword:
 - component content management system
 - single source documentation
 ics:
-  code: 01.040.11
+- code: 01.040.11
   text: Health care technology (Vocabularies)

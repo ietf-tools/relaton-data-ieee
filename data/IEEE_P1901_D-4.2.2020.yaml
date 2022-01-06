@@ -1,12 +1,12 @@
 ---
 id: IEEEP1901/D-4.2.2020
 title:
-  type: main
+- type: main
   content: 'IEEE Draft Standard for Broadband over Power Line Networks: Medium Access
     Control and Physical Layer Specifications'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9121856
+- content: https://ieeexplore.ieee.org/document/9121856
   type: src
 type: standard
 docid:
@@ -23,19 +23,23 @@ date:
 - type: issued
   value: '2020-09-24'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-06-19'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Physical (PHY) and media access control (MAC) layers of a broadband powerline
+- content: Physical (PHY) and media access control (MAC) layers of a broadband powerline
     communication technology for local area networks (LANs), Smart Energy, Smart Grid,
     Internet of Things, transportation platforms (vehicle) applications, and other
     data distribution are defined in this standard. The balanced and efficient use
@@ -45,12 +49,15 @@ abstract:
     and quality of service may be delivered. The necessary security questions are
     addressed to ensure the privacy of communications between users and to allow the
     use of BPL for security sensitive services.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2020'
@@ -62,8 +69,10 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: updates
   bibitem:
@@ -72,10 +81,12 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Broadband communication
@@ -105,5 +116,5 @@ keyword:
 - sine modulated filter banks
 - wavelet orthogonal frequency division multiplexing (wavelet OFDM)
 ics:
-  code: 33.040.60
+- code: 33.040.60
   text: Powerline telecommunications

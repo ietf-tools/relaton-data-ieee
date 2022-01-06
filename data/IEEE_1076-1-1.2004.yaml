@@ -1,12 +1,12 @@
 ---
 id: IEEE1076-1-1.2004
 title:
-  type: main
+- type: main
   content: IEEE Standard VHDL Analog and Mixed-Signal Extensions---Packages for Multiple
     Energy Domain Support
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1459160
+- content: https://ieeexplore.ieee.org/document/1459160
   type: src
 type: standard
 docid:
@@ -25,40 +25,47 @@ date:
 - type: issued
   value: '2004-12-16'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard defines a collection of VHDL 1076.1 packages, compatible
+- content: This standard defines a collection of VHDL 1076.1 packages, compatible
     with IEEE Std 1076.1TM-1999, along with recommendations for conforming use, in
     order to facilitate the interchange of simulation models of physical components
     and subsystems. The packages include the definition of standard types, subtypes,
     natures, and constants for modeling in multiple energy domains (electrical, fluidic,
     mechanical, etc.).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2005'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1076-1-1.2011
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Patents
@@ -79,5 +86,5 @@ keyword:
 - VHDL
 - VHDL-AMS
 ics:
-  code: '35.060'
+- code: '35.060'
   text: Languages used in information technology

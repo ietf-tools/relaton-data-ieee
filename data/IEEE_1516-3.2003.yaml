@@ -1,12 +1,12 @@
 ---
 id: IEEE1516-3.2003
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for High Level Architecture (HLA) Federation
     Development and Execution Process (FEDEP)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1196921
+- content: https://ieeexplore.ieee.org/document/1196921
   type: src
 type: standard
 docid:
@@ -25,17 +25,21 @@ date:
 - type: issued
   value: '2003-03-20'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The processes and procedures that should be followed by users of the High
     Level Architecture (HLA)to develop and execute federations are de .ned in this
@@ -43,8 +47,10 @@ abstract:
     management and systems engineering practices native to HLA user organizations,but
     is rather intended as a higher-level framework into which such practices can be
     integrated and tailored for specific uses.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: The processes and procedures that should be followed by users of the High
     Level Archi-tecture (HLA) to develop and execute federations are defined in this
@@ -52,22 +58,25 @@ abstract:
     management and systems engineeringpractices native to HLA user organizations,
     but is rather intended as a higher-level framework intowhich such practices can
     be integrated and tailored for specific uses.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2003'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1730.2010
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Modeling
@@ -83,5 +92,5 @@ keyword:
 - runtime infrastructure (RTI)
 - '1730'
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

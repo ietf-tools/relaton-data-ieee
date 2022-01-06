@@ -1,12 +1,12 @@
 ---
 id: IEEEP1904-1/D-3.1.2016-12
 title:
-  type: main
+- type: main
   content: IEEE Approved Draft Standard for Service Interoperability in Ethernet Passive
     Optical Networks (SIEPON)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7781578
+- content: https://ieeexplore.ieee.org/document/7781578
   type: src
 type: standard
 docid:
@@ -23,19 +23,23 @@ date:
 - type: issued
   value: '2017-02-14'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-12-12'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard describes the system-level requirements needed to ensure
+- content: This standard describes the system-level requirements needed to ensure
     service-level, multi-vendor interoperability of Ethernet Passive Optical Network
     (EPON) equipment. The specifications complement the existing IEEE 802.3 and IEEE
     802.1 standards, which ensure the interoperability at the Physical Layer (PHY)
@@ -44,12 +48,15 @@ abstract:
     and service-level quality of service/class of service (QoS/CoS) mechanisms;- Management
     specifications covering equipment management, service management, and EPON power&amp;#8208;saving
     mechanism.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2016'
@@ -70,5 +77,5 @@ keyword:
 - service interoperability
 - SIEPON
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

@@ -1,12 +1,12 @@
 ---
 id: IEEE48.1996
 title:
-  type: main
+- type: main
   content: IEEE Standard Test Procedures and Requirements for Alternating-Current
     Cable Terminations 2.5 kV Through 765 kV
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/502390
+- content: https://ieeexplore.ieee.org/document/502390
   type: src
 type: standard
 docid:
@@ -25,27 +25,34 @@ date:
 - type: issued
   value: '1996-05-02'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-02-21'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: All indoor and outdoor cable terminations used on alternating-current cables
+- content: All indoor and outdoor cable terminations used on alternating-current cables
     having laminated or extruded insulation rated 2.5 kV through 765 kV are covered,
     except for separable insulated connectors, which are covered by IEEE Std 386-1995.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1996'
@@ -57,15 +64,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 48.2009
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Power cable testing
 - accelerated contamination testing
@@ -79,5 +88,5 @@ keyword:
 - test requirements
 - ultraviolet light
 ics:
-  code: 29.240.20
+- code: 29.240.20
   text: Power transmission and distribution lines

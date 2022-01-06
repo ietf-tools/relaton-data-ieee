@@ -1,11 +1,11 @@
 ---
 id: IEC62050
 title:
-  type: main
+- type: main
   content: IEC/IEEE International Standard - VHDL Register Transfer Level (RTL) Synthesis
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8894298
+- content: https://ieeexplore.ieee.org/document/8894298
   type: src
 type: standard
 docid:
@@ -24,33 +24,41 @@ date:
 - type: issued
   value: '2005'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-11-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Replaces IEEE Std 1076.6-2004. This document specifies a standard for use
+- content: Replaces IEEE Std 1076.6-2004. This document specifies a standard for use
     of very high-speed integrated circuit hardware description language (VHDL) to
     model synthesizable register-transfer level digital logic. A standard syntax and
     semantics for VHDL register-transfer level synthesis is defined. The subset of
     the VHDL language, which is synthesizable, is described, and nonsynthesizable
     VHDL constructs are identified that should be ignored or flagged as errors.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: IEC
+  - name:
+    - IEC
   from: '2005'
 keyword:
 - IEEE Standards
@@ -62,5 +70,5 @@ keyword:
 - register transfer level (RTL)
 - very high speed integrated circuit hardware description language (VHDL)
 ics:
-  code: '35.060'
+- code: '35.060'
   text: Languages used in information technology

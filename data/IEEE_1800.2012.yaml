@@ -1,12 +1,12 @@
 ---
 id: IEEE1800.2012
 title:
-  type: main
+- type: main
   content: IEEE Standard for SystemVerilog--Unified Hardware Design, Specification,
     and Verification Language
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6469140
+- content: https://ieeexplore.ieee.org/document/6469140
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2012-12-05'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-02-22'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The definition of the language syntax and semantics for SystemVerilog,
     which is a unified hardware design, specification, and verification language,
@@ -46,8 +50,10 @@ abstract:
     testbenches using coverage, assertions, object-oriented programming, and constrained
     random verification. The standard also provides application programming interfaces
     (APIs) to foreign programming languages.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: The definition of the language syntax and semantics for SystemVerilog,
     which is a unified hardware design, specification, and verification language,
@@ -58,12 +64,15 @@ abstract:
     (APIs) to foreign programming languages. (Thanks to our sponsor, the PDF of this
     standard is provided to the public no charge. Visit GETIEEE program located at
     http://standards.ieee.org/about/get/index.html for details.)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2013'
@@ -75,15 +84,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1800.2017
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Programming
@@ -103,5 +114,5 @@ keyword:
 - Verilog&#174;
 - VPI
 ics:
-  code: '35.060'
+- code: '35.060'
   text: Languages used in information technology

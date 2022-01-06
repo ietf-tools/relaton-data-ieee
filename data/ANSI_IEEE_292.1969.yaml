@@ -1,12 +1,12 @@
 ---
 id: ANSI/IEEE292.1969
 title:
-  type: main
+- type: main
   content: IEEE Specification Format for Single-Degree-of-Freedom Spring-Restrained
     Rate Gyros
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9404074
+- content: https://ieeexplore.ieee.org/document/9404074
   type: src
 type: standard
 docid:
@@ -25,29 +25,36 @@ date:
 - type: issued
   value: '1969'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-04-13'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This specification defines the requirements for a single-degree-of-freedom
+- content: This specification defines the requirements for a single-degree-of-freedom
     spring-restrained rate gyro for [aircraft, missile, spacecraft,______] applications.
     The rate gyro shall be capable of providing [(dc, ac) voltage outputs proportional
     to angular rate inputs up to______ degrees per second, a switch closure(s) at
     angular rates (exceeding,less than)______ (+,-,±)______ degrees per second].
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1969'
@@ -61,5 +68,5 @@ keyword:
 - Optical switches
 - Gyroscopes
 ics:
-  code: '49.090'
+- code: '49.090'
   text: On-board equipment and instruments

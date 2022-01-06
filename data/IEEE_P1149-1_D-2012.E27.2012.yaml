@@ -1,11 +1,11 @@
 ---
 id: IEEEP1149-1/D-2012.e27.2012
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard Test Access Port and Boundary Scan Architecture
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6309992
+- content: https://ieeexplore.ieee.org/document/6309992
   type: src
 type: standard
 docid:
@@ -22,19 +22,23 @@ date:
 - type: issued
   value: '2012-10-24'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2012-09-21'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Circuitry that may be built into an integrated circuit to assist in the
+- content: Circuitry that may be built into an integrated circuit to assist in the
     test, maintenance and support of assembled printed circuit boards is defined.
     The circuitry includes a standard interface through which instructions and test
     data are communicated. A set of test features is defined, including a boundary-scan
@@ -42,27 +46,32 @@ abstract:
     designed to assist with testing of assembled printed circuit boards. Also, a language
     is defined that allows rigorous description of the component-specific aspects
     of such testability features.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2012'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1149-1.2001
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Integrated circuits

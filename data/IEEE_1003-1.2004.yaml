@@ -1,12 +1,12 @@
 ---
 id: IEEE1003-1.2004
 title:
-  type: main
+- type: main
   content: IEEE Standard for Information Technology - Portable Operating System Interface
     (POSIX(R)) - Base Definitions
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1309815
+- content: https://ieeexplore.ieee.org/document/1309815
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '2004'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-10-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This 2004 Edition includes IEEE Std 1003.1-2001/Cor 1-2002 and IEEE Std
+- content: 'This 2004 Edition includes IEEE Std 1003.1-2001/Cor 1-2002 and IEEE Std
     1003.1-2001/Cor 2-2004 incorporated into IEEE Std 1003.1-2001 (the base document).
     The two Corrigenda address problems discovered since the approval of IEEE Std
     1003.1-2001. These changes are mainly due to resolving integration issues raised
@@ -50,12 +54,15 @@ abstract:
     source code level. This standard is intended to be used by both applications developers
     and system implementors and comprises four major components (each in an associated
     volume)'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2004'
@@ -91,5 +98,5 @@ keyword:
 - thread
 - X/Open System Interface (XSI
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

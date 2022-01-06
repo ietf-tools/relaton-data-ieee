@@ -1,12 +1,12 @@
 ---
 id: ISO/IEC/IEEE24748-4
 title:
-  type: main
+- type: main
   content: 'ISO/IEC/IEEE International Standard for Systems and Software Engineering
     -- Life Cycle Management -- Part 4: Systems Engineering Planning'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7470727
+- content: https://ieeexplore.ieee.org/document/7470727
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2016-03-03'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-05-17'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The evolution of the harmonized set of ISO/IEC/IEEE 15288-12207 related
     standards and technical reports that are discussed in this International Standardprovides
@@ -50,8 +54,10 @@ abstract:
     the project's SEMP. Due to close alignment with the content of ISO/IEC 24748,
     ISO/IEC 26702 is now Part 4 of the multi-part International Standard, ISO/IEC
     24748 (Systems and software engineering -- Life cycle management).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: The evolution of the harmonized set of ISO/IEC/IEEE 15288-12207 related
     standards and technical reports that are discussed in this International Standard
@@ -64,27 +70,34 @@ abstract:
     effort and to develop the project's SEMP. Due to close alignment with the content
     of ISO/IEC 24748, ISO/IEC 26702 is now Part 4 of the multi-part International
     Standard, ISO/IEC 24748 (Systems and software engineering -- Life cycle management).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
-  - name: IEC
+  - name:
+    - ISO
+  - name:
+    - IEC
   from: '2016'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1220.2005
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -169,5 +182,5 @@ keyword:
 - PMP &#8211; SEMP relationships
 - SEMP outline.
 ics:
-  code: 35.240.01
+- code: 35.240.01
   text: Application of information technology in general

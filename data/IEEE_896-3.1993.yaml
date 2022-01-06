@@ -1,11 +1,11 @@
 ---
 id: IEEE896-3.1993
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for Futurebus+(R)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/392616
+- content: https://ieeexplore.ieee.org/document/392616
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1993-10-13'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-30'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'The system layer issues associated with bus-based computer systems are
+- content: 'The system layer issues associated with bus-based computer systems are
     described. It is intended to be a tool for Futurebus+ board and system designers.
     As such, the intent of this recommended practice is to characterize a variety
     of systems topics as they relate to Futurebus+. When used in conjunction with
@@ -46,12 +50,15 @@ abstract:
     are: ISO/IEC 10857:1994, IEEE Std 896.2-1991, IEEE Std 896.4-1993, IEEE Std 896.5-1993,
     IEEE Std 1149.1-1990, IEEE Std 1156.1-1993, IEEE Std 1194.1-1991, IEEE Std 1212-1991,
     IEEE Std 1212.1-1993, IEEE Std 1301.1-1991, and IEEE P1394/D6.8, March 1994.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1994'
@@ -67,5 +74,5 @@ keyword:
 - Shared memory systems
 - Multiprocessor systems
 ics:
-  code: '35.160'
+- code: '35.160'
   text: Microprocessor systems

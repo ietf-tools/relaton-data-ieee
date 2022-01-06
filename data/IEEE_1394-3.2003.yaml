@@ -1,12 +1,12 @@
 ---
 id: IEEE1394-3.2003
 title:
-  type: main
+- type: main
   content: IEEE Standard for a High Performance Serial Bus Peer-to-Peer Data Transport
     Protocol (PPDT)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1288537
+- content: https://ieeexplore.ieee.org/document/1288537
   type: src
 type: standard
 docid:
@@ -25,28 +25,35 @@ date:
 - type: issued
   value: '2003-09-11'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-10-25'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard defines a peer-to-peer data transport (PPDT) protocol between
+- content: This standard defines a peer-to-peer data transport (PPDT) protocol between
     Serial Bus devices that implement Serial Bus Protocol 2 (SBP-2). The facilities
     specified include device and service discovery, self-configurable (plug and play)
     binding, and connection management.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2004'
@@ -62,5 +69,5 @@ keyword:
 - SBP-2
 - transport protocol
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

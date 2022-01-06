@@ -1,11 +1,11 @@
 ---
 id: IEEEC37-103.2004
 title:
-  type: main
+- type: main
   content: IEEE Guide for Differential and Polarizing Relay Circuit Testing
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1490885
+- content: https://ieeexplore.ieee.org/document/1490885
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '2004-09-23'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-12-21'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The issues concerning testing and verification of the correctness of differential
     and polarizing circuits are described and discussed in this guide. The intention
@@ -45,8 +49,10 @@ abstract:
     to follow systematic testing procedures and record the observations in a proper
     organized manner. The records should include documentation of all measurements
     and a comparison with the desired results
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: This issues concerning testing and verification of the correctness of differential
     and polarizing circuits are described and discussed in this guide. The intention
@@ -55,22 +61,25 @@ abstract:
     to follow systematic testing procedures and record the observations in a proper
     organized manner. The records should include documentation of all measurements
     and a comparison with the desired results.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2004'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE C37-103.2015
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Relays
@@ -85,5 +94,5 @@ keyword:
 - relay testing
 - transformer protection
 ics:
-  code: 29.120.70
+- code: 29.120.70
   text: Relays

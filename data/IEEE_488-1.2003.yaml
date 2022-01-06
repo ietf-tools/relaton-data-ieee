@@ -1,12 +1,12 @@
 ---
 id: IEEE488-1.2003
 title:
-  type: main
+- type: main
   content: IEEE Standard For Higher Performance Protocol for the Standard Digital
     Interface for Programmable Instrumentation
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1258186
+- content: https://ieeexplore.ieee.org/document/1258186
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '2003-06-12'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-07-08'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard applies to interface systems used to interconnect both programmable
+- content: This standard applies to interface systems used to interconnect both programmable
     and nonprogrammable electronic measuring apparatus with other apparatus and accessories
     necessary to assemble instrumentation systems. It applies to the interface of
     instrumentation systems, or portions of them, in which the a) Data exchanged among
@@ -50,12 +54,15 @@ abstract:
     of these. Different electrical and mechanical specifications may be required (for
     example, symmetrical circuit configurations, high threshold logic, special connectors,
     or cable configurations) for these extended applications.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2003'
@@ -72,5 +79,5 @@ keyword:
 - three-wire handshake
 - SCPI
 ics:
-  code: '35.200'
+- code: '35.200'
   text: Interface and interconnection equipment

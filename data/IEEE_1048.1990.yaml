@@ -1,11 +1,11 @@
 ---
 id: IEEE1048.1990
 title:
-  type: main
+- type: main
   content: IEEE Guide for Protective Grounding of Power Lines
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/89799
+- content: https://ieeexplore.ieee.org/document/89799
   type: src
 type: standard
 docid:
@@ -24,39 +24,46 @@ date:
 - type: issued
   value: '1990-04-17'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Superseded by 1048-2003. IEEE Guide for Protective Grounding of Power Lines,
+- content: Superseded by 1048-2003. IEEE Guide for Protective Grounding of Power Lines,
     provides guidelines for safe protective grounding methods for persons engaged
     in de-energized overhead transmission and distribution line maintenance. This
     guide compiles state-of-the-art information on protective grounding practices
     employed by power utilities in North America
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1990'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1048.2003
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Grounding
 - Electric shock
@@ -70,5 +77,5 @@ keyword:
 - Grounding practices
 - Distribution lines
 ics:
-  code: 29.240.20
+- code: 29.240.20
   text: Power transmission and distribution lines

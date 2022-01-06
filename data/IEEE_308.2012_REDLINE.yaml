@@ -10,7 +10,7 @@ title:
     Stations - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6522435
+- content: https://ieeexplore.ieee.org/document/6522435
   type: src
 type: standard
 docid:
@@ -27,30 +27,37 @@ date:
 - type: issued
   value: '2012-12-05'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-05-31'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Class 1E portions of ac and dc power systems and I&amp;C power systems
+- content: Class 1E portions of ac and dc power systems and I&amp;C power systems
     in single-unit and multiunit nuclear power generating stations are covered in
     this standard. The provision of criteria for the determination of Class 1E power
     system design features, criteria for sharing Class 1E power systems in multiunit
     stations, the requirements for their testing and surveillance, and the requirements
     for documentation of the Class 1E power system is the intent of this standard.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2013'
@@ -62,15 +69,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 308.2020
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Power systems planning

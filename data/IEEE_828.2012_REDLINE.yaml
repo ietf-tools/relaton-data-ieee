@@ -9,7 +9,7 @@ title:
     - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6197683
+- content: https://ieeexplore.ieee.org/document/6197683
   type: src
 type: standard
 docid:
@@ -26,19 +26,23 @@ date:
 - type: issued
   value: '2012-02-06'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2012-05-09'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard establishes the minimum requirements for processes for Configuration
+- content: This standard establishes the minimum requirements for processes for Configuration
     Management (CM) in systems and software engineering. The application of this standard
     applies to any form, class, or type of software or system. This revision of the
     standard expands the previous version to explain CM, including identifying and
@@ -50,25 +54,30 @@ abstract:
     for a CM Plan. The standard supports ISO/IEC/IEEE 12207:2008 and ISO/IEC/IEEE
     15288:2008 and adheres to the terminology in ISO/IEC/IEEE Std 24765 and the information
     item requirements of IEEE Std 15939TM
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2012'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 828.2005
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE standards
@@ -85,5 +94,5 @@ keyword:
 - software configuration management
 - system configuration management
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

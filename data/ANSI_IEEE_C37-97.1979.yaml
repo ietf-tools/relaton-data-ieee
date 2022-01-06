@@ -1,11 +1,11 @@
 ---
 id: ANSI/IEEEC37-97.1979
 title:
-  type: main
+- type: main
   content: IEEE Guide for Protective Relay Applications to Power System Buses
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/30628
+- content: https://ieeexplore.ieee.org/document/30628
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1977-09-08'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-01-16'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The effective application of relays for protection of power system electrical
+- content: The effective application of relays for protection of power system electrical
     buses is addressed. Common bus arrangements and some special arrangements used
     in the United States are covered; not all bus protection systems or all possible
     bus arrangements are included. Factors that determine the need and type of bus
@@ -47,12 +51,15 @@ abstract:
     problems associated with switching and bypassing, auxiliary tripping relays, reclosing
     of breakers after a bus differential operation, testing of bus differential relaying,
     and bus backup protection.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1979'
@@ -68,5 +75,5 @@ keyword:
 - system
 - Protective relaying
 ics:
-  code: 29.120.70
+- code: 29.120.70
   text: Relays

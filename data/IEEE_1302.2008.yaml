@@ -1,12 +1,12 @@
 ---
 id: IEEE1302.2008
 title:
-  type: main
+- type: main
   content: IEEE Guide for the Electromagnetic Characterization of Conductive Gaskets
     in the Frequency Range of DC to 18 GHz
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/4783158
+- content: https://ieeexplore.ieee.org/document/4783158
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2008-11-10'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-02-28'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: Information to assist users of gaskets in evaluating gasket measurement
     techniques to determine which exhibit the properties critical to the intended
@@ -46,19 +50,24 @@ abstract:
     this guide. Emphasis is placed on those measurement techniques that have been
     adopted through incorporation into standards, both commercial and military, or
     that have been used extensively.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: The scope of the proposed project is to provide manufacturers of gaskets
     and designers of electronic systems appropriate methods for the characterization
     of gaskets. It will guide the user in the selection of the appropriate test method
     in order to determine the level of shielding provided in the intended application.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2009'
@@ -70,15 +79,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1302.2019
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Probability density function
@@ -97,5 +108,5 @@ keyword:
 - stirred mode
 - transfer impedance
 ics:
-  code: 33.100.01
+- code: 33.100.01
   text: Electromagnetic compatibility in general

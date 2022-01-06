@@ -1,12 +1,12 @@
 ---
 id: ISO/IEC/IEEECD2P15288.2013
 title:
-  type: main
+- type: main
   content: ISO/IEC/IEEE Draft Systems and software engineering -- System life cycle
     processes
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6601611
+- content: https://ieeexplore.ieee.org/document/6601611
   type: src
 type: standard
 docid:
@@ -23,48 +23,59 @@ date:
 - type: issued
   value: '2014-03-28'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-09-17'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This International Standard establishes a common process framework for
+- content: This International Standard establishes a common process framework for
     describing the lifecycle of man-made systems. It defines a set of processes and
     associated terminology for the full life cycle, including conception, development,
     production, utilization, support and retirement. This standard also supports the
     definition, control, assessment, and improvement of these processes. These processes
     can be applied concurrently, iteratively, and recursively to a system and its
     elements throughout the life cycle of a system.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
-  - name: IEC
+  - name:
+    - ISO
+  - name:
+    - IEC
   from: '2013'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 15288.2008
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Software engineering
@@ -116,5 +127,5 @@ keyword:
 - validation
 - verification
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

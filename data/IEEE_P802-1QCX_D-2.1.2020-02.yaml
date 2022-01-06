@@ -1,12 +1,12 @@
 ---
 id: IEEEP802-1Qcx/D-2.1.2020-02
 title:
-  type: main
+- type: main
   content: 'IEEE Approved Draft Standard for Local and Metropolitan Area Networks--Bridges
     and Bridged Networks Amendment: YANG Data Model for Connectivity Fault Management'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9001299
+- content: https://ieeexplore.ieee.org/document/9001299
   type: src
 type: standard
 docid:
@@ -23,44 +23,53 @@ date:
 - type: issued
   value: '2020-06-04'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-02-18'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: YANG data model that supports configuration, status reporting, and monitoring
+- content: YANG data model that supports configuration, status reporting, and monitoring
     for Connectivity Fault Management (CFM) for Two-Port MAC Relays, Customer VLAN
     Bridges, and Provider Bridges is further developed by this amendment to IEEE Std
     802.1Q&#8482;-2018. See also IEEE Std 802.1Qcp&#8482;-2018 for the introduction
     of this YANG data model.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2020'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-1Q.2018
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Local area networks
@@ -83,5 +92,5 @@ keyword:
 - virtual LANs
 - YANG
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

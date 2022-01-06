@@ -1,12 +1,12 @@
 ---
 id: ANSI/IEEE308.1980
 title:
-  type: main
+- type: main
   content: IEEE Standard Criteria for Class 1E Power Systems for Nuclear Power Generating
     Stations
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/26660
+- content: https://ieeexplore.ieee.org/document/26660
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1980-03-13'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Superseded by 308-1991. Class 1E portions of AC and DC power systems and
+- content: Superseded by 308-1991. Class 1E portions of AC and DC power systems and
     instrumentation and control power systems in single-unit and multiunit nuclear
     power generating stations are covered. Not included are the preferred power supply;
     unit generator(s) and their buses; generator breaker; step-up, auxiliary, and
@@ -46,22 +50,25 @@ abstract:
     determination of Class 1E power system design features, criteria for sharing Class
     1E power systems in multiunit stations, and the requirements for their testing
     and surveillance.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1980'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 308.1991
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Nuclear power generation
 - Power systems

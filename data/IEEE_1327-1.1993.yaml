@@ -1,12 +1,12 @@
 ---
 id: IEEE1327-1.1993
 title:
-  type: main
+- type: main
   content: IEEE Standard for Information Technology--X.400 Based Electronic Messaging
     C Language Interfaces--Binding for Application Program Interfaces (API)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/286092
+- content: https://ieeexplore.ieee.org/document/286092
   type: src
 type: standard
 docid:
@@ -25,29 +25,36 @@ date:
 - type: issued
   value: '1993-03-18'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-09'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: A C language binding to IEEE Std 1224.1-1993, IEEE Standard for Information
+- content: A C language binding to IEEE Std 1224.1-1993, IEEE Standard for Information
     Technology--X.400-Based Electronic Messaging--Application Program Interface (API)
     [Language Independent] is defined. This standard is intended for use by application
     developers, system implementors, test method writers, and users to support application
     portability at the source-code level.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1993'
@@ -64,5 +71,5 @@ keyword:
 - Application program interface
 - API
 ics:
-  code: 35.100.70
+- code: 35.100.70
   text: Application layer

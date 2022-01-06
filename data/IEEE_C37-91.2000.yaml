@@ -1,11 +1,11 @@
 ---
 id: IEEEC37-91.2000
 title:
-  type: main
+- type: main
   content: IEEE Guide for Protective Relay Applications to Power Transformers
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/875997
+- content: https://ieeexplore.ieee.org/document/875997
   type: src
 type: standard
 docid:
@@ -24,28 +24,35 @@ date:
 - type: issued
   value: '2000-03-08'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-02-11'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The protection of power transformers is covered;various electrical protection
+- content: The protection of power transformers is covered;various electrical protection
     schemes are explored;and guidelines are given for the application of these schemes
     to transformers. Alternative detection methods including mechanical,thermal,and
     gas analysis are discussed.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2000'
@@ -57,15 +64,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE C37-91.2008
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Protective relaying
@@ -77,5 +86,5 @@ keyword:
 - relaying
 - transformer
 ics:
-  code: 29.120.70
+- code: 29.120.70
   text: Relays

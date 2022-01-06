@@ -1,13 +1,13 @@
 ---
 id: IEEE1900-4.2009
 title:
-  type: main
+- type: main
   content: IEEE Standard for Architectural Building Blocks Enabling Network-Device
     Distributed Decision Making for Optimized Radio Resource Usage in Heterogeneous
     Wireless Access Networks
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/4798288
+- content: https://ieeexplore.ieee.org/document/4798288
   type: src
 type: standard
 docid:
@@ -28,17 +28,21 @@ date:
 - type: issued
   value: '2009-01-30'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-12-04'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The building blocks comprising (i) network resource managers, (ii) device
     resource managers, and (iii) the information to be exchanged between the building
@@ -48,8 +52,10 @@ abstract:
     limited to the architectural and functional definitions at a first stage. The
     corresponding protocols definition related to the information exchange will be
     addressed at a later stage.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: The standard defines the building blocks comprising (i) network resource
     managers, (ii) device resource managers, and (iii) the information to be exchanged
@@ -59,12 +65,15 @@ abstract:
     is limited to the architectural and functional definitions at a first stage. The
     corresponding protocols definition related to the information exchange will be
     addressed at a later stage.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2009'
@@ -82,5 +91,5 @@ keyword:
 - heterogeneous wireless networks
 - network-device distributed optimization of spectrum usage
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

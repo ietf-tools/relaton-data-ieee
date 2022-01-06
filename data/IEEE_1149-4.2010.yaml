@@ -1,11 +1,11 @@
 ---
 id: IEEE1149-4.2010
 title:
-  type: main
+- type: main
   content: IEEE Standard for a Mixed-Signal Test Bus
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5738198
+- content: https://ieeexplore.ieee.org/document/5738198
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '2010-12-08'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-04-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The testability structure for digital circuits described in IEEE Std 1149.1-2001
     has been extended to provide similar facilities for mixed-signal circuits. The
@@ -45,8 +49,10 @@ abstract:
     (which are not part of the standard) are included for illustration. Also, extensions
     to the standard BSDL are defined that allow description of key component-specific
     aspects of such testability features.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: The testability structure for digital circuits described in IEEE Std 1149.1-2001
     has been extended to provide similar facilities for mixed-signal circuits. The
@@ -55,12 +61,15 @@ abstract:
     (which are not part of the standard) are included for illustration. Also, extensions
     to the standard BSDL are defined that allow description of key component-specific
     aspects of such testability features.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2011'
@@ -77,5 +86,5 @@ keyword:
 - in-circuit test
 - mixed-signal test
 ics:
-  code: '31.180'
+- code: '31.180'
   text: Printed circuits and boards

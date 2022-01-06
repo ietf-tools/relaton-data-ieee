@@ -1,11 +1,11 @@
 ---
 id: IEEE1473.1999
 title:
-  type: main
+- type: main
   content: IEEE Standard for Communications Protocol Aboard Trains
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/789960
+- content: https://ieeexplore.ieee.org/document/789960
   type: src
 type: standard
 docid:
@@ -24,39 +24,46 @@ date:
 - type: issued
   value: '1999-03-22'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Communications protocols to be used for intercar and intracar serial data
+- content: Communications protocols to be used for intercar and intracar serial data
     communica-tions between subsystems aboard passenger trains are defined by this
     standard. Minimum accept-able parameters for a network that can simultaneously
     handle monitoring and control traffic from multiple systems are set forth. While
     the network is not vital, it is intended to be capable of carrying vital messages.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1999'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1473.2010
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - communications networks

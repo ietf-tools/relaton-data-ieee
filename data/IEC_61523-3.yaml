@@ -1,12 +1,12 @@
 ---
 id: IEC61523-3
 title:
-  type: main
+- type: main
   content: 'IEC 61523-3 Ed.1 (IEEE Std 1497(TM)-2001): Delay and Power Calculation
     Standards - Part 3: Standard Delay Format (SDF) for the Electronic Design Process'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7386825
+- content: https://ieeexplore.ieee.org/document/7386825
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2004'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-01-19'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The Standard Delay Format (SDF) is defined in this standard. SDF is a textual
     file format for representing the delay and timing information of electronic systems.
@@ -46,8 +50,10 @@ abstract:
     and of other tools requiring delay and timing information. The primary audience
     for this standard is the implementers of tools supporting the format, but anyone
     with a need to understand the formats contents will find it useful.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: The Standard Delay Format (SDF) is defined in this standard. SDF is a textual
     file format for representing the delay and timing information of electronic systems.
@@ -56,18 +62,22 @@ abstract:
     and of other tools requiring delay and timing information. The primary audience
     for this standard is the implementers of tools supporting the format, but anyone
     with a need to understand the format’s contents will find it useful.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: IEC
+  - name:
+    - IEC
   from: '2012'
 relation:
-  type: adoptedFrom
+- type: adoptedFrom
   bibitem:
     formattedref:
       content: IEEE 1497.2001
@@ -93,5 +103,5 @@ keyword:
 - timing backannotation
 - timing verification
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

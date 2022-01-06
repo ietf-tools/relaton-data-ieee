@@ -1,12 +1,12 @@
 ---
 id: ISO/IEC/IEEE29148.2011
 title:
-  type: main
+- type: main
   content: ISO/IEC/IEEE International Standard - Systems and software engineering
     -- Life cycle processes --Requirements engineering
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6146379
+- content: https://ieeexplore.ieee.org/document/6146379
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2011-10-31'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-02-21'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: ISO/IEC/IEEE 29148:2011 contains provisions for the processes and products
     related to the engineering of requirements for systems and software products and
@@ -50,8 +54,10 @@ abstract:
     and their content are defined. The content of ISO/IEC/IEEE 29148:2011 can be added
     to the existing set of requirements-related life cycle processes defined by ISO/IEC
     12207 or ISO/IEC 15288, or can be used independently.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: This standard replaces IEEE 830-1998, IEEE 1233-1998, IEEE 1362-1998. ISO/IEC/IEEE
     29148:2011 contains provisions for the processes and products related to the engineering
@@ -65,24 +71,29 @@ abstract:
     and their content are defined. The content of ISO/IEC/IEEE 29148:2011 can be added
     to the existing set of requirements-related life cycle processes defined by ISO/IEC
     12207 or ISO/IEC 15288, or can be used independently.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
-  - name: IEC
+  - name:
+    - ISO
+  - name:
+    - IEC
   from: '2011'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: ISO/IEC/IEEE 29148.2018
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Software engineering
@@ -106,5 +117,5 @@ keyword:
 - system
 - system requirements specification
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

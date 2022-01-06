@@ -1,11 +1,11 @@
 ---
 id: IEEE1633.2008
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice on Software Reliability
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/4554206
+- content: https://ieeexplore.ieee.org/document/4554206
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '2008-03-27'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-02-22'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The methods for assessing and predicting the reliability of software, based
     on a life-cycle approach to software reliability engineering, are prescribed in
@@ -45,8 +49,10 @@ abstract:
     consistent methods, and establishes the basic principle for collecting the data
     needed to assess and predict the reliability of software. The recommended practice
     prescribes how any user can participate in SR assessments and predictions.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Draft D12 This recommended practice prescribes the methods for assessing
     and predicting the reliability of software, based on a life cycle approach to
@@ -56,22 +62,25 @@ abstract:
     needed to assess and predict the reliability of software. The document prescribes
     how any user can participate in on going software reliability assessments and
     predictions.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2008'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1633.2016
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Software reliability
@@ -81,5 +90,5 @@ keyword:
 - 1633-2008
 - software reliability
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

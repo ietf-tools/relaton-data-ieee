@@ -1,7 +1,7 @@
 ---
 id: IEEEP802-22b/D-6.2015-05
 title:
-  type: main
+- type: main
   content: 'IEEE Approved Draft Standard for Information Technology--Telecommunications
     and information exchange between systems Wireless Regional Area Networks (WRAN)--Specific
     requirements Part 22: Cognitive Wireless RAN Medium Access Control (MAC) and Physical
@@ -9,7 +9,7 @@ title:
     Amendment: Enhancement for Broadband Services and Monitoring Applications'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7243276
+- content: https://ieeexplore.ieee.org/document/7243276
   type: src
 type: standard
 docid:
@@ -26,19 +26,23 @@ date:
 - type: issued
   value: '2015-09-03'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-09-04'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard specifies alternate Physical Layer (PHY) and necessary Medium
+- content: This standard specifies alternate Physical Layer (PHY) and necessary Medium
     Access Control Layer (MAC) enhancements to IEEE std. 802.22-2011 for operation
     in Very High Frequency (VHF)/ Ultra High Frequency (UHF) TV broadcast bands between
     54 MHz and 862 MHz to support enhanced broadband services and monitoring applications.
@@ -49,27 +53,32 @@ abstract:
     the devices and makes necessary amendments to the cognitive, security &amp; parameters
     and connection management clauses. This amendment supports mechanisms to enable
     coexistence with other 802 systems in the same band.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2015'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-22.2011
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Wireless  networks
@@ -85,5 +94,5 @@ keyword:
 - high capacity
 - WRAN standards
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

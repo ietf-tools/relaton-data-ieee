@@ -1,11 +1,11 @@
 ---
 id: IEEE1596.1992
 title:
-  type: main
+- type: main
   content: IEEE Standard for Scalable Coherent Interface (SCI)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8970105
+- content: https://ieeexplore.ieee.org/document/8970105
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1992-03-19'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-01-24'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The scalable coherent interface (SCI) provides computer-bus-like services
+- content: The scalable coherent interface (SCI) provides computer-bus-like services
     but, instead of a bus, uses a collection of fast point-to-point unidirectional
     links to provide the far higher throughput needed for high-performance multiprocessor
     systems. SCI supports distributed, shared memory with optional cache coherence
@@ -50,12 +54,15 @@ abstract:
     efficient and can recover from an arbitrary number of transmission failures. SCI
     protocols ensure forward progress despite multiprocessor conflicts (no deadlocks
     or starvation).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1992'
@@ -78,5 +85,5 @@ keyword:
 - switch
 - transaction set
 ics:
-  code: '35.200'
+- code: '35.200'
   text: Interface and interconnection equipment

@@ -1,12 +1,12 @@
 ---
 id: IEEEP802/D-1.7/R-
 title:
-  type: main
+- type: main
   content: 'IEEE Draft Standard for Local and Metropolitan Area Networks: Overview
     and Architecture'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6755436
+- content: https://ieeexplore.ieee.org/document/6755436
   type: src
 type: standard
 docid:
@@ -23,19 +23,23 @@ date:
 - type: issued
   value: '2014-03-28'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-03-04'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'IEEE Std 802-2001, IEEE Standard for Local and Metropolitan Area Networks:
+- content: 'IEEE Std 802-2001, IEEE Standard for Local and Metropolitan Area Networks:
     Overviewand Architecture, provides an overview to the family of IEEE 802 standards.
     It describes therelationship of IEEE 802 standards to the Open Systems Interconnection
     Basic Reference Model(ISO/IEC 7498-1:1994) and explains the relationship of these
@@ -44,12 +48,15 @@ abstract:
     prototype, and standard protocols; and it defines an object identifier hierarchy
     used within IEEE 802 for uniform allocation of object identifiers used in IEEE
     802 standards.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2014'
@@ -71,5 +78,5 @@ keyword:
 - protocol development
 - protocol types.
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

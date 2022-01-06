@@ -8,7 +8,7 @@ title:
   content: IEEE Standard for a High-Performance Serial Bus - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5978170
+- content: https://ieeexplore.ieee.org/document/5978170
   type: src
 type: standard
 docid:
@@ -27,19 +27,23 @@ date:
 - type: issued
   value: '2008-06-12'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-08-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard provides specifications for a high-speed serial bus that
+- content: This standard provides specifications for a high-speed serial bus that
     supports both asynchronous and isochronous communication and integrates well with
     most IEEE standard 32-bit and 64-bit parallel buses. It is intended to provide
     a low-cost interconnect between cards on the same backplane, cards on other backplanes,
@@ -47,12 +51,15 @@ abstract:
     as unshielded twisted pair (UTP), optical fiber, and plastic optical fiber (POF)]
     allow the interconnection to be extended throughout a local network. This standard
     follows the command and status register (CSR) architecture of IEEE Std 1212-2001.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2011'
@@ -76,5 +83,5 @@ keyword:
 - UTP
 - firewire (TM)
 ics:
-  code: '35.200'
+- code: '35.200'
   text: Interface and interconnection equipment

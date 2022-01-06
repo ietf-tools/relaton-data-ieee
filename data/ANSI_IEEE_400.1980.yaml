@@ -1,12 +1,12 @@
 ---
 id: ANSI/IEEE400.1980
 title:
-  type: main
+- type: main
   content: IEEE Guide for Making High-Direct-Voltage Tests on Power Cable Systems
     in the Field
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/27778
+- content: https://ieeexplore.ieee.org/document/27778
   type: src
 type: standard
 docid:
@@ -25,38 +25,45 @@ date:
 - type: issued
   value: '1978-12-14'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Superseded by 400-1991. This guide lists the various field test methods
+- content: Superseded by 400-1991. This guide lists the various field test methods
     that are currently available or under development with guidance on how to perform
     each test. The guide covers shielded, insulated power cable systems rated 5 kV
     through 500 kV unless these voltages are modified by the specific “point” document.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1980'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 400.1991
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Cable insulation
 - Maintenance
@@ -68,5 +75,5 @@ keyword:
 - cable
 - high voltage
 ics:
-  code: 29.240.01
+- code: 29.240.01
   text: Power transmission and distribution networks in general

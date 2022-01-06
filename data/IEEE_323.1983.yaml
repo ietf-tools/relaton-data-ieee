@@ -1,12 +1,12 @@
 ---
 id: IEEE323.1983
 title:
-  type: main
+- type: main
   content: IEEE Standard for Qualifying Class 1E Equipment for Nuclear Power Generating
     Stations
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/30666
+- content: https://ieeexplore.ieee.org/document/30666
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1983-06-23'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-02-06'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The basic requirements for qualifying Class 1E equipment with interfaces
+- content: The basic requirements for qualifying Class 1E equipment with interfaces
     that are to be used in nuclear power generating stations are described. The principles,
     procedures, and methods of qualification are covered. These qualification requirements,
     when met, will confirm the adequacy of the equipment design under normal, abnormal,
@@ -45,22 +49,25 @@ abstract:
     the performance of safety functions. The methods are to be used for qualifying
     equipment, extending qualification, and updating qualification if the equipment
     is modified.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1983'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 323.2003
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Nuclear power generation
 - Safety
@@ -71,5 +78,5 @@ keyword:
 - generating
 - Nuclear power generation protection
 ics:
-  code: 27.120.99
+- code: 27.120.99
   text: Other standards related to nuclear energy

@@ -1,12 +1,12 @@
 ---
 id: IEEEP1685/D-5.2014-04
 title:
-  type: main
+- type: main
   content: IEEE Approved Draft Standard for IP-XACT, Standard Structure for Packaging,
     Integrating, and Reusing IP within Tool Flows
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6809827
+- content: https://ieeexplore.ieee.org/document/6809827
   type: src
 type: standard
 docid:
@@ -23,19 +23,23 @@ date:
 - type: issued
   value: '2014-06-12'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-05-02'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'Conformance checks for eXtensible Markup Language (XML) data designed
+- content: 'Conformance checks for eXtensible Markup Language (XML) data designed
     to describeelectronic systems are formulated by this standard. The meta-data forms
     that are standardizedinclude: components, systems, bus interfaces and connections,
     abstractions of those buses, anddetails of the components including address maps,
@@ -47,27 +51,32 @@ abstract:
     of methodology-independentmeta-data and the tool-independent mechanism for accessing
     that data provides for portability ofdesign data, design methodologies, and environment
     implementations.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2014'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1685.2009
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Bus transfer
@@ -97,5 +106,5 @@ keyword:
 - XML design meta-data
 - XMLschema
 ics:
-  code: 35.240.99
+- code: 35.240.99
   text: IT applications in other fields

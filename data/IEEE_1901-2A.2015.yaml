@@ -1,12 +1,12 @@
 ---
 id: IEEE1901-2a.2015
 title:
-  type: main
+- type: main
   content: IEEE Standard for Low-Frequency (less than 500 kHz) Narrowband Power Line
     Communications for Smart Grid Applications - Amendment 1
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7286946
+- content: https://ieeexplore.ieee.org/document/7286946
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2015-09-03'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-10-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: Changes to clarify how and when to encrypt header and payload information
     elements, update the interleaver design in order to eliminate some drawbacks in
@@ -45,8 +49,10 @@ abstract:
     be obtained from the PHY, modification to the frame counter size for security
     to make it consistent with IEEE Std 802.15.4e(TM)-2012, and adding a beacon attribute
     and change the zero crossing detector text are addressed in this amendment.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Changes to clarify how and when to encrypt header and payload information
     elements, update the interleaver design in order to eliminate some drawbacks in
@@ -54,12 +60,15 @@ abstract:
     be obtained from the PHY, modification to the frame counter size for security
     to make it consistent with IEEE Std 802.15.4e(TM)-2012, and adding a beacon attribute
     and change the zero crossing detector text are addressed in thisamendment.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2015'
@@ -82,5 +91,5 @@ keyword:
 - power line communications
 - PRIME.
 ics:
-  code: 33.040.60
+- code: 33.040.60
   text: Powerline telecommunications

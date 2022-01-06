@@ -10,7 +10,7 @@ title:
     Content of life-cycle information items (documentation) - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7270964
+- content: https://ieeexplore.ieee.org/document/7270964
   type: src
 type: standard
 docid:
@@ -27,19 +27,23 @@ date:
 - type: issued
   value: '2015-03-26'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-09-17'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The purpose and content of all identified systems and software life cycle
+- content: The purpose and content of all identified systems and software life cycle
     and service management information items (documentation) are specified in this
     standard. The information item contents are defined according to generic document
     types, as presented in Clause 7, and the specific purpose of the document (Clause
@@ -56,16 +60,21 @@ abstract:
     the information from the life-cycle processes may overlap or may be created and
     revised at different times. In short, the analyzed references do not result in
     a logically complete list of information items.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
-  - name: IEC
+  - name:
+    - ISO
+  - name:
+    - IEC
   from: '2015'
 relation:
 - type: updates
@@ -75,15 +84,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: ISO/IEC/IEEE 15289.2017
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - IEC Standards
@@ -95,5 +106,5 @@ keyword:
 - life cycle process
 - software
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

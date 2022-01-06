@@ -1,12 +1,12 @@
 ---
 id: IEEE4-REVc/D-01.2015-10
 title:
-  type: main
+- type: main
   content: IEEE Approved Draft Standard for Low-Rate Wireless Personal Area Networks
     (WPANs)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7339650
+- content: https://ieeexplore.ieee.org/document/7339650
   type: src
 type: standard
 docid:
@@ -23,44 +23,53 @@ date:
 - type: issued
   value: '2015-12-05'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-11-30'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: IEEE Std 802.15.4-2015 defines the protocol and compatible interconnection
+- content: IEEE Std 802.15.4-2015 defines the protocol and compatible interconnection
     for data communication devices using low-data-rate, low-power, and low-complexity
     short-range radio frequency (RF) transmissions in a wireless personal area network
     (WPAN). A variety of physical layers (PHYs) have been defined that cover a wide
     variety of frequency bands.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2015'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-15-4.2011
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Wireless personal area networks
@@ -71,5 +80,5 @@ keyword:
 - Radio frequency
 - update:5788
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

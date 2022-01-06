@@ -1,11 +1,11 @@
 ---
 id: IEEE1118.1990
 title:
-  type: main
+- type: main
   content: IEEE Standard for Microcontroller System Serial Control Bus
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/159173
+- content: https://ieeexplore.ieee.org/document/159173
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1990-12-06'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-03-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: A serial control bus for interdevicehtrabuilding as well as intrasite interconnection
+- content: A serial control bus for interdevicehtrabuilding as well as intrasite interconnection
     of microcontrollers is described. The bus, which is defined for (but not limited
     to) microcontrollers and devices with limited reprogrammability, provides a multidrop
     bit-serial communication protocol that will allow the interconnection of distributed
@@ -47,12 +51,15 @@ abstract:
     upon BITBUS without making existing devices obsolete. System reliability has been
     enhanced by the addition of a system management layer, and generic bus services
     have been expanded.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1991'
@@ -65,5 +72,5 @@ keyword:
 - visual telephony
 - reconstruction loop
 ics:
-  code: '35.160'
+- code: '35.160'
   text: Microprocessor systems

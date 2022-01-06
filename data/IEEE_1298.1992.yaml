@@ -1,11 +1,11 @@
 ---
 id: IEEE1298.1992
 title:
-  type: main
+- type: main
   content: 'IEEE Standard Software Quality Management System Part 1: Requirements'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/213723
+- content: https://ieeexplore.ieee.org/document/213723
   type: src
 type: standard
 docid:
@@ -24,29 +24,36 @@ date:
 - type: issued
   value: '1992-12-03'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-05-03'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Requirements for a software developer's quality management system are established.
+- content: Requirements for a software developer's quality management system are established.
     Each of the elements of a quality management system to be designed, developed,
     and maintained by the developer are identified, with the objective of ensuring
     that the software will meet the requirements of a contract, purchase order, or
     other agreement (collectively referred to as a contract).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1993'
@@ -57,5 +64,5 @@ keyword:
 - software development
 - software quality management
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

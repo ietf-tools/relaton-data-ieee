@@ -1,11 +1,11 @@
 ---
 id: IEEE1057.2007
 title:
-  type: main
+- type: main
   content: IEEE Standard for Digitizing Waveform Recorders
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8291822
+- content: https://ieeexplore.ieee.org/document/8291822
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '2007-12-05'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-02-14'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Revision of IEEE Std 1057-1994. This standard defines specifications and
+- content: Revision of IEEE Std 1057-1994. This standard defines specifications and
     describes test methods for measuring the performance of electronic digitizing
     waveform recorders, waveform analyzers, and digitizing oscilloscopes with digital
     outputs. The standard is directed toward, but not restricted to, general-purpose
@@ -45,12 +49,15 @@ abstract:
     IEEE 1057 has many similarities to IEEE 1241 Standard for Terminology and Test
     Methods for Analog to Digital Converters (ADCs) . However, IEEE Std. 1057 shall
     be used for waveform recorders and IEEE Std. 1241 shall be used for ADCs.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2008'
@@ -62,15 +69,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1057.2017
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Harmonic analysis
@@ -89,5 +98,5 @@ keyword:
 - transitions levels
 - waveform recorders
 ics:
-  code: '17.160'
+- code: '17.160'
   text: Vibrations, shock and vibration measurements

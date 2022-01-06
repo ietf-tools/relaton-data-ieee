@@ -1,13 +1,13 @@
 ---
 id: IEEEP802-15-4u/D-3.2016-05
 title:
-  type: main
+- type: main
   content: 'IEEE Draft Standard for Local and Metropolitan Area Networks -Part 15.4:
     Low-Rate Wireless Personal Area Networks (LR-WPANs) Amendment for Use of the 865-867
     MHz Band in India'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7508553
+- content: https://ieeexplore.ieee.org/document/7508553
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '2016'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-07-08'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard covers certain mechanical requirements for liquid-immersed
+- content: This standard covers certain mechanical requirements for liquid-immersed
     distribution transformers in respect to tank strength as well as static and dynamic
     tank pressure mitigation. This standard can be applied to various tank configurations
     for distribution transformers. This standard does not cover the electrical and
@@ -46,27 +50,32 @@ abstract:
     under this standard. These requirements will provide a more standard design of
     transformer tank and associated components related with both static and dynamic
     pressure coordination.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2016'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-15-4.2011
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Wireless communication
@@ -91,5 +100,5 @@ keyword:
 - tank rupture
 - IEEE C57.12.39
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

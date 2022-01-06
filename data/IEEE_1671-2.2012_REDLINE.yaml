@@ -9,7 +9,7 @@ title:
     - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6522438
+- content: https://ieeexplore.ieee.org/document/6522438
   type: src
 type: standard
 docid:
@@ -26,40 +26,49 @@ date:
 - type: issued
   value: '2012-12-05'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-05-31'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: An exchange format is specified in this standard, using extensible markup
+- content: An exchange format is specified in this standard, using extensible markup
     language (XML), for identifying instrumentation that may be integrated in an automatic
     test system (ATS)that is to be used to test and diagnose a unit under test (UUT).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2013'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1671-2.2008
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE standards
@@ -77,5 +86,5 @@ keyword:
 - synthetic instrument
 - XML schema
 ics:
-  code: 35.240.30
+- code: 35.240.30
   text: IT applications in information, documentation and publishing

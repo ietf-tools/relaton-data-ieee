@@ -10,7 +10,7 @@ title:
     Detectors for Homeland Security - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7873210
+- content: https://ieeexplore.ieee.org/document/7873210
   type: src
 type: standard
 docid:
@@ -27,19 +27,23 @@ date:
 - type: issued
   value: '2017'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-03-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Minimum performance specifications and testing methods for the evaluation
+- content: Minimum performance specifications and testing methods for the evaluation
     of alarming personal radiation detectors, also known as PRDs, are contained in
     this standard. These detectors are pocket-sized and carried on the body. These
     instruments are primarily designed for the detection and location of radioactive
@@ -51,28 +55,34 @@ abstract:
     useful information and guidance in implementing this standard are also contained
     in this standard. (The PDF of this standard is available at no cost compliments
     of the Department of Homeland Security Domestic Nuclear Detection Office. https://ieeexplore.ieee.org/browse/standards/get-program/page)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: American National Standards Institute
+  - name:
+    - American National Standards Institute
     abbreviation: ANSI
     url: https://www.ansi.org
   from: '2017'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: ANSI N42-32.2006
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - ANSI Standards
@@ -95,5 +105,5 @@ keyword:
 - radiation detection instruments
 - radioactive material
 ics:
-  code: '17.240'
+- code: '17.240'
   text: Radiation measurements

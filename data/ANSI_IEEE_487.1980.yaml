@@ -1,12 +1,12 @@
 ---
 id: ANSI/IEEE487.1980
 title:
-  type: main
+- type: main
   content: IEEE Guide for the Protection of Wire-Line Communication Facilities Serving
     Electric Power Stations
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/18472
+- content: https://ieeexplore.ieee.org/document/18472
   type: src
 type: standard
 docid:
@@ -25,40 +25,47 @@ date:
 - type: issued
   value: '1979-06-07'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'Superseded by 487-1992. Workable methods for protecting wire-line communication
+- content: 'Superseded by 487-1992. Workable methods for protecting wire-line communication
     circuits entering power stations are presented. This document covers: the electric
     power station environment; protection apparatus; services types, reliability,
     service performance objective classifications, and transmission considerations;
     protection theory and philosophy; protection configurations; installation and
     inspection; and safety.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1980'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 487.1992
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Grounding
 - Power system protection

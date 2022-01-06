@@ -1,12 +1,12 @@
 ---
 id: IEEEP1800/D-5.2012-02
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for System Verilog--Unified Hardware Design, Specification,
     and Verification Language
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6156385
+- content: https://ieeexplore.ieee.org/document/6156385
   type: src
 type: standard
 docid:
@@ -21,30 +21,37 @@ date:
 - type: issued
   value: '2012-02-22'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
-language: en
-script: Latn
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This standard represents a merger of two previous standards: IEEE Std
+- content: 'This standard represents a merger of two previous standards: IEEE Std
     1364-2005 Verilog hardware description language (HDL) and IEEE Std 1800-2005 SystemVerilog
     unifiedhardware design, specification, and verification language. The 2005 SystemVerilog
     standard defines extensions to the 2005 Verilog standard. These two standards
     were designed to be usedas one language. Merging the base Verilog language and
     the SystemVerilog extensions into a single standard provides users with all information
     regarding syntax and semantics in a singledocument.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2012'
@@ -67,5 +74,5 @@ keyword:
 - Verilog
 - VPI
 ics:
-  code: '35.060'
+- code: '35.060'
   text: Languages used in information technology

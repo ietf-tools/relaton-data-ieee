@@ -1,12 +1,12 @@
 ---
 id: IEEEC37-012.2005
 title:
-  type: main
+- type: main
   content: IEEE Application Guide for Capacitance Current Switching for AC High-Voltage
     Circuit Breakers
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1560819
+- content: https://ieeexplore.ieee.org/document/1560819
   type: src
 type: standard
 docid:
@@ -25,30 +25,37 @@ date:
 - type: issued
   value: '2005-06-09'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-09-10'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Guidance for the application of ac high-voltage circuit breakers for capacitance
+- content: Guidance for the application of ac high-voltage circuit breakers for capacitance
     current switching is provided. The document addresses the general theory of capacitance
     current switching, the notion of restrike, reignition, NSDD and voltage factors
     are explained. Application of circuit breakers for different network conditions
     and different capacitive loads (lines, cables, capacitor and filter banks) is
     treated.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2005'
@@ -60,15 +67,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE C37-012.2014
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Patents
@@ -84,5 +93,5 @@ keyword:
 - NSDD
 - overvoltages
 ics:
-  code: 29.120.40
+- code: 29.120.40
   text: Switches

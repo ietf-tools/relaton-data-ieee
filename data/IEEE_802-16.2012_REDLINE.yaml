@@ -9,7 +9,7 @@ title:
     Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6522441
+- content: https://ieeexplore.ieee.org/document/6522441
   type: src
 type: standard
 docid:
@@ -26,19 +26,23 @@ date:
 - type: issued
   value: '2012-06-08'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-05-31'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard specifies the air interface, including the medium access
+- content: This standard specifies the air interface, including the medium access
     control layer (MAC) and physical layer (PHY), of combined fixed and mobile point-to-multipoint
     broadband wireless access (BWA) systems providing multiple services. The MAC is
     structured to support the WirelessMAN-SC, WirelessMAN-OFDM, and WirelessMAN-OFDMA
@@ -48,12 +52,15 @@ abstract:
     access by providing alternatives to wireline broadband access, encourages consistent
     worldwide spectrum allocation, and accelerates the commercialization of broadband
     wireless access systems.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2012'
@@ -65,15 +72,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 802-16.2017
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Broadband

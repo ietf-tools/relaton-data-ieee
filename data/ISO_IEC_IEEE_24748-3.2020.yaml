@@ -1,13 +1,13 @@
 ---
 id: ISO/IEC/IEEE24748-3.2020
 title:
-  type: main
+- type: main
   content: 'ISO/IEC/IEEE International Standard - Systems and software engineering--Life
     cycle management--Part 3: Guidelines for the application of ISO/IEC/IEEE 12207
     (software life cycle processes)'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9238526
+- content: https://ieeexplore.ieee.org/document/9238526
   type: src
 type: standard
 docid:
@@ -26,19 +26,23 @@ date:
 - type: issued
   value: '2020-09-24'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-10-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: ISO/IEC/IEEE 24748-3 provides guidance on the application of the software
+- content: ISO/IEC/IEEE 24748-3 provides guidance on the application of the software
     life cycle processes standard, ISO/IEC/IEEE 12207:2017. This document establishes
     guidance to implement a common framework for software life cycle processes, with
     well-defined terminology, that can be referenced by the software industry. This
@@ -53,27 +57,34 @@ abstract:
     and how they can be effectively used during the software life cycle. It is intended
     to be useful in a variety of software life cycle situations, including the use
     of agile methods.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
-  - name: IEC
+  - name:
+    - ISO
+  - name:
+    - IEC
   from: '2020'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 24748-3.2012
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - life cycle
@@ -84,5 +95,5 @@ keyword:
 - stage
 - software engineering
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

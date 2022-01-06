@@ -10,7 +10,7 @@ title:
     Power Generating Stations - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5953435
+- content: https://ieeexplore.ieee.org/document/5953435
   type: src
 type: standard
 docid:
@@ -29,30 +29,37 @@ date:
 - type: issued
   value: '2010-06-17'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-10-09'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Additional computer specific requirements to supplement the criteria and
+- content: Additional computer specific requirements to supplement the criteria and
     requirements of IEEE Std 603-2009 are specified. Within the context of this standard,
     the term computer is a system that includes computer hardware, software, firmware,
     and interfaces. The criteria contained herein, in conjunction with criteria in
     IEEE Std 603-2009, establish minimum functional and design requirements for computers
     used as components of a safety system.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2011'
@@ -64,15 +71,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 7-4-3-2.2016
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Nuclear power generation

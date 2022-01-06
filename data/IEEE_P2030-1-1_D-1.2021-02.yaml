@@ -1,12 +1,12 @@
 ---
 id: IEEEP2030-1-1/D-1.2021-02
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard Technical Specifications of a DC Quick and Bi-directional
     Charger for Use with Electric Vehicles
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9352661
+- content: https://ieeexplore.ieee.org/document/9352661
   type: src
 type: standard
 docid:
@@ -23,19 +23,23 @@ date:
 - type: issued
   value: '2021'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-02-10'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Direct-current (dc) charging is a method of charging that facilitates rapid
+- content: Direct-current (dc) charging is a method of charging that facilitates rapid
     energy transfer from the electric grid to plug-in vehicles. This method of charging
     allows significantly more current to be drawn by the vehicle versus lower rated
     alternating-current (ac) systems. A combination of vehicles that can accept high-current
@@ -54,25 +58,30 @@ abstract:
     now external to the vehicle and requires the vehicle engineers to control an external
     power device. For the reason of necessary interoperability, standards such as
     IEEE Std 2030.1.1 are provided to assist developers.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2021'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 2030-1-1.2015
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -95,5 +104,5 @@ keyword:
 - SAE J1772
 - SAE J2836/2
 ics:
-  code: '43.120'
+- code: '43.120'
   text: Electric road vehicles

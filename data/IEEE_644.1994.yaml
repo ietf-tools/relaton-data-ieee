@@ -1,12 +1,12 @@
 ---
 id: IEEE644.1994
 title:
-  type: main
+- type: main
   content: IEEE Standard Procedures for Measurement of Power Frequency Electric and
     Magnetic Fields from AC Power Lines
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9079749
+- content: https://ieeexplore.ieee.org/document/9079749
   type: src
 type: standard
 docid:
@@ -23,30 +23,37 @@ date:
 - type: issued
   value: '1994-12-13'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-04-27'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Uniform procedures for the measurement of power frequency electric and
+- content: Uniform procedures for the measurement of power frequency electric and
     magnetic fields from alternating current 9ac) overhead power lines and for the
     calibration of the meters used in these measurements are established. The procedures
     apply to the measurement of electric and magnetic fields close to ground level.
     The procedures can also be tentatively applied (with limitations, as specified
     in the standard) to electric fields near an energized conductor or structure.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1995'
@@ -58,8 +65,10 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
@@ -71,7 +80,7 @@ relation:
     formattedref:
       content: IEEE 644.2019
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Frequency measurement
@@ -83,5 +92,5 @@ keyword:
 - magnetic field
 - measurement
 ics:
-  code: 29.240.20
+- code: 29.240.20
   text: Power transmission and distribution lines

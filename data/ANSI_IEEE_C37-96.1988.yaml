@@ -1,11 +1,11 @@
 ---
 id: ANSI/IEEEC37-96.1988
 title:
-  type: main
+- type: main
   content: IEEE Guide for AC Motor Protection
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/26496
+- content: https://ieeexplore.ieee.org/document/26496
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1988-06-09'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-30'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Guidance in applying relay protection to squirrel-cage and wound-rotor
+- content: Guidance in applying relay protection to squirrel-cage and wound-rotor
     induction motors and synchronous motors is provided. The generally accepted forms
     of motor protection are reviewed, and the use of relays and devices, singly and
     in combination, is summarized so that the user can select the necessary equipment
@@ -45,12 +49,15 @@ abstract:
     where specifically indicated. It does not detail the protective requirements of
     all motors in every situation. The recommendations are of a general nature, designed
     to cover the usual or typical motor installations.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1989'
@@ -61,5 +68,5 @@ keyword:
 - AC
 - motor protection
 ics:
-  code: 29.160.30
+- code: 29.160.30
   text: Motors

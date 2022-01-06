@@ -1,11 +1,11 @@
 ---
 id: IEEE1100.1999
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for Powering and Grounding Electronic Equipment
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/798784
+- content: https://ieeexplore.ieee.org/document/798784
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1999-03-22'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-01-17'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'Superseded by IEEE Std 1100-2005 Abstract: Recommended design, installation,
+- content: 'Superseded by IEEE Std 1100-2005 Abstract: Recommended design, installation,
     and maintenance practices for electrical powerand grounding (including both power-
     related and signal-related noise control) of sensitive elec-tronic processing
     equipment used in commercial and industrial applications are presented. Themain
@@ -49,12 +53,15 @@ abstract:
     Instrumentation and procedures for conducting asurvey of the power distribution
     system are described. Site surveys and site power analysesare considered. Case
     histories are given to illustrate typical problems.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1999'
@@ -66,15 +73,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1100.2005
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - commercial applications
@@ -83,5 +92,5 @@ keyword:
 - industrial applications
 - sen-sitive equipment
 ics:
-  code: '31.020'
+- code: '31.020'
   text: Electronic components in general

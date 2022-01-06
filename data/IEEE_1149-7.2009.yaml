@@ -1,12 +1,12 @@
 ---
 id: IEEE1149-7.2009
 title:
-  type: main
+- type: main
   content: IEEE Standard for Reduced-Pin and Enhanced-Functionality Test Access Port
     and Boundary-Scan Architecture
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5412866
+- content: https://ieeexplore.ieee.org/document/5412866
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2009-12-14'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-07-13'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: This specification describes circuitry that may be added to an integrated
     circuit to provide access to on-chip test access ports (TAPs) specified by IEEE
@@ -57,8 +61,10 @@ abstract:
     scan, supports utilization of functions other than scan, and provides control
     of TAP.7 pins to custom debug technologies in a manner that ensures current and
     future interoperability.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: This specification describes circuitry that may be added to an integrated
     circuit to provide access to on-chip Test Access Ports (TAPs) specified by IEEE
@@ -78,12 +84,15 @@ abstract:
     scan, supports utilization of functions other than scan, and provides control
     of TAP.7 pins to custom debug technologies in a manner that ensures current and
     future interoperability.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2010'
@@ -272,5 +281,5 @@ keyword:
 - ZBS
 - zero bit scan
 ics:
-  code: '35.200'
+- code: '35.200'
   text: Interface and interconnection equipment

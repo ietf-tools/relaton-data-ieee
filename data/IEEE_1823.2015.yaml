@@ -1,11 +1,11 @@
 ---
 id: IEEE1823.2015
 title:
-  type: main
+- type: main
   content: IEEE Standard for Universal Power Adapter for Mobile Devices
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7106444
+- content: https://ieeexplore.ieee.org/document/7106444
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '2015-02-16'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-05-13'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: A power delivery connection between a power adapter and a power using device
     greater than 10 W and up to, but less than 240 W, is defined in this standard.
@@ -46,8 +50,10 @@ abstract:
     While intended for portable computing and entertainment devices, power adapters
     conforming to this standard may also be used with other devices (including simple
     devices, with no communications capabilities, up to 20 W).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: A power delivery connection between a power adapter and a power using devicegreater
     than 10 W and up to, but less than 240 W, is defined in this standard. A communicationslink
@@ -57,12 +63,15 @@ abstract:
     andentertainment devices, power adapters conforming to this standard may also
     be used with otherdevices (including simple devices, with no communications capabilities,
     up to 20 W).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2015'
@@ -85,5 +94,5 @@ keyword:
 - Universal Power Adapter for Mobile Devices
 - UPAMD
 ics:
-  code: 33.070.50
+- code: 33.070.50
   text: Global System for Mobile Communication (GSM)

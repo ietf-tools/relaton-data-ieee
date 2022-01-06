@@ -1,12 +1,12 @@
 ---
 id: ANSI/IEEE450.1980
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for Maintenance, Testing , and Replacement of
     Large Lead Storage Batteries for Generating Stations and Substations
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7419195
+- content: https://ieeexplore.ieee.org/document/7419195
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '1979-03-15'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-02-24'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: This recommended practice is limited to providing recommended practices
     of maintenance, test schedules, and testing procedures that can be used to optimize
@@ -53,8 +57,10 @@ abstract:
     the battery be connected to the system. Details for these tests will depend on
     the requirements of the dc system and are not within the scope of this recommended
     practice.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Large stationary lead storage batteries play an ever increasing role in
     substation and generating station control and power systems and in providing the
@@ -64,25 +70,29 @@ abstract:
     battery sizes. The installations considered herein are designed for full-float
     operation with a battery charger serving to maintain the battery in a charged
     condition as well as to supply the normal dc load.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: American National Standards Institute
+- owner:
+  - name:
+    - American National Standards Institute
     abbreviation: ANSI
     url: https://www.ansi.org
-  - name: Institute of Electrical and Electronics Engineers
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1980'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: ANSI/IEEE 450.1987
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - ANSI Standards
@@ -90,5 +100,5 @@ keyword:
 - Maintenance engineering
 - Substations
 ics:
-  code: 29.220.20
+- code: 29.220.20
   text: Acid secondary cells and batteries

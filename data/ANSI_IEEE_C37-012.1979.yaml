@@ -1,12 +1,12 @@
 ---
 id: ANSI/IEEEC37-012.1979
 title:
-  type: main
+- type: main
   content: IEEE Application Guide for Capacitance Current Switching for AC High-Voltage
     Circuit Breakers Rated on a Symmetrical Current Basis
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8684659
+- content: https://ieeexplore.ieee.org/document/8684659
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1977-06-02'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: AC high-voltage circuit breakers rated in accordance with ANSI/IEEE C37.04-1979,
+- content: AC high-voltage circuit breakers rated in accordance with ANSI/IEEE C37.04-1979,
     Rating Structure for AC High-Voltage Circuit Breakers, and listed in ANSI C37.06-1979,
     Schedules of Preferred Ratings and Related Required Capabilities for AC High-Voltage
     Circuit Breakers Rated on a Symmetrical Current Basis, are covered. Considerations
@@ -47,12 +51,15 @@ abstract:
     circuits, effect of load, effect of reclosing, resistor thermal limitations, and
     the current pause method. Capacitance currents and recovery voltages under fault
     conditions are also addressed.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1980'
@@ -67,7 +74,7 @@ relation:
     formattedref:
       content: IEEE C37-012.2005
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - current
 - switching
@@ -76,5 +83,5 @@ keyword:
 - symmetrical
 - Circuit breakers
 ics:
-  code: 29.120.40
+- code: 29.120.40
   text: Switches

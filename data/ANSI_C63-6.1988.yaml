@@ -1,12 +1,12 @@
 ---
 id: ANSIC63-6.1988
 title:
-  type: main
+- type: main
   content: American National Standard Guide for electromagnetic compatibility--open-area
     test site measurements--guide for the computation of errors
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/89637
+- content: https://ieeexplore.ieee.org/document/89637
   type: src
 type: standard
 docid:
@@ -25,36 +25,43 @@ date:
 - type: issued
   value: '1988'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The basis for the acceptability criterion of ±4 dB for the site attenuation
+- content: The basis for the acceptability criterion of ±4 dB for the site attenuation
     measurements required in ANSI C63.4-1992 is provided.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1988'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: ANSI C63-6.1996
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Attenuation measurement
 - Electromagnetic compatibility
@@ -65,5 +72,5 @@ keyword:
 - Test facilities
 - Electromagnetic interference
 ics:
-  code: 33.100.01
+- code: 33.100.01
   text: Electromagnetic compatibility (EMC) in general

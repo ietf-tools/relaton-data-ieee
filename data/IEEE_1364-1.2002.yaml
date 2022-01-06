@@ -1,11 +1,11 @@
 ---
 id: IEEE1364-1.2002
 title:
-  type: main
+- type: main
   content: IEEE Standard for Verilog Register Transfer Level Synthesis
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1146718
+- content: https://ieeexplore.ieee.org/document/1146718
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '2002-12-11'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Superseded by IEC/IEEE 62142-2005. To develop a standard syntax and semantics
+- content: Superseded by IEC/IEEE 62142-2005. To develop a standard syntax and semantics
     for Verilog RTL synthesis. This standard shall define the subset of IEEE 1364
     (Verilog HDL) which is suitable for RTL synthesis and shall define the semantics
     of that subset for the synthesis domain. This standard shall be based on the current
@@ -48,12 +52,15 @@ abstract:
     by making their design compliant with this developed standard. Standard syntax
     and semantics for Verilog &#174; HDL-based RTL synthesis are described inthis
     standard.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2002'
@@ -70,5 +77,5 @@ keyword:
 - synthesis
 - Verilog &#174;
 ics:
-  code: '35.060'
+- code: '35.060'
   text: Languages used in information technology

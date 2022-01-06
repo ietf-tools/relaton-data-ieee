@@ -1,11 +1,11 @@
 ---
 id: IEEE1159-3.2003
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for the Transfer of Power Quality Data
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1263328
+- content: https://ieeexplore.ieee.org/document/1263328
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '2003-03-20'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This recommended practice defines a file format suitable for exchanging
+- content: This recommended practice defines a file format suitable for exchanging
     power quality related measurement and simulation data in a vendor independent
     manner. The format is designed to represent all power quality phenomena identified
     in IEEE Std 1159 TM -1995, IEEE Recommended Practice on Monitoring Electric Power
@@ -45,12 +49,15 @@ abstract:
     scheme to minimize disk space and transmission times. The utilization of globally
     unique identifiers (GUID) to represent each element in the file permits the format
     to be extensible without the need for a central registration authority.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2004'
@@ -68,5 +75,5 @@ keyword:
 - power quality
 - power quality data interchange format (PQDIF)
 ics:
-  code: 29.240.01
+- code: 29.240.01
   text: Power transmission and distribution networks in general

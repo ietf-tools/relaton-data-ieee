@@ -1,12 +1,12 @@
 ---
 id: IEEE802-1v.2001
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Local and metropolitan area networks--Virtual Bridged
     Local Area Networks -- Amendment 2: VLAN Classification by Protocol and Port'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/943066
+- content: https://ieeexplore.ieee.org/document/943066
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '2001-03-17'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This amendment to IEEE Std 802.1Q,1998 Edition describes enhancements to
+- content: This amendment to IEEE Std 802.1Q,1998 Edition describes enhancements to
     allow for classification of incoming packets by methods other than source port.Specifically,
     it defines rules for classification based on data-link layer protocol identification.
     The document identifies proposed changes to the text of IEEE Std 802.1Q,1998 Edition
@@ -45,25 +49,30 @@ abstract:
     usual form for amendments to IEEE 802 standards; i.e., as an explicit set of editing
     instructions that,if correctly applied to the text of IEEE Std 802.1Q,1998 Edition,will
     create a corrected document.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2001'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-1Q.1998
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE standards

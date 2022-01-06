@@ -9,7 +9,7 @@ title:
     - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9456759
+- content: https://ieeexplore.ieee.org/document/9456759
   type: src
 type: standard
 docid:
@@ -26,41 +26,50 @@ date:
 - type: issued
   value: '2020-09-24'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-06-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Measurements of the electrical properties of naturally occurring solids
+- content: Measurements of the electrical properties of naturally occurring solids
     are covered in the scope of this guide. Not covered are methods that rely on mapping
     earth structure anomalies unless directly related to electrical properties. Coverage
     of numerical methods for forward/inverse modeling is limited.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2020'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 356.2010
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -74,5 +83,5 @@ keyword:
 - permittivity
 - resistivity
 ics:
-  code: 17.220.20
+- code: 17.220.20
   text: Measurement of electrical and magnetic quantities

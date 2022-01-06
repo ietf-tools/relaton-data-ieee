@@ -1,11 +1,11 @@
 ---
 id: ANSI/IEEE309.1970
 title:
-  type: main
+- type: main
   content: IEEE Standard Test Procedure for Geiger-Müller Counters
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8684586
+- content: https://ieeexplore.ieee.org/document/8684586
   type: src
 type: standard
 docid:
@@ -24,29 +24,36 @@ date:
 - type: issued
   value: '1969-05-28'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This publication presents standard test procedures for Geiger-Muller counter
+- content: This publication presents standard test procedures for Geiger-Muller counter
     radiation detectors. These detectors, originally announced by ?Geiger and Muller
     in 1928, represented a major step forward in the detection and counting of individual
     radioactive events. Standard test procedures are desirable so that measurements
     may have the same meaning to all manufacturers and users.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1970'
@@ -61,7 +68,7 @@ relation:
     formattedref:
       content: IEEE 309.1999
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - geiger
 - mueller
@@ -69,5 +76,5 @@ keyword:
 - radiation
 - nuclear
 ics:
-  code: '17.240'
+- code: '17.240'
   text: Radiation measurements

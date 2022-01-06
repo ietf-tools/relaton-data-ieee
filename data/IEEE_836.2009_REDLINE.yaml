@@ -9,7 +9,7 @@ title:
     - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5981345
+- content: https://ieeexplore.ieee.org/document/5981345
   type: src
 type: standard
 docid:
@@ -26,19 +26,23 @@ date:
 - type: issued
   value: '2009-06-17'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-08-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This recommended practice describes the conduct and analysis of precision
+- content: This recommended practice describes the conduct and analysis of precision
     tests that are to be performed on linear accelerometers using centrifuge techniques.
     The term “precision,” in this context, refers to tests that are conducted to evaluate
     accelerometer parameters, as opposed to those conducted to establish environmental
@@ -47,12 +51,15 @@ abstract:
     are most accurately determined by static multi-position tests. Alternatively,
     evaluation may only establish that the accelerometer output complies with specific
     error limit criteria.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2011'
@@ -67,5 +74,5 @@ keyword:
 - centrifuge
 - linear accelerometer
 ics:
-  code: '49.090'
+- code: '49.090'
   text: On-board equipment and instruments

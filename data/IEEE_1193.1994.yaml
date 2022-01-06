@@ -1,12 +1,12 @@
 ---
 id: IEEE1193.1994
 title:
-  type: main
+- type: main
   content: IEEE Guide for Measurement of Environmental Sensitivities of Standard Frequency
     Generators
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/467473
+- content: https://ieeexplore.ieee.org/document/467473
   type: src
 type: standard
 docid:
@@ -25,36 +25,43 @@ date:
 - type: issued
   value: '1994-07-25'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Standard frequency generators that include all atomic frequency standards
+- content: Standard frequency generators that include all atomic frequency standards
     and precision quartz crystal oscillators are addressed.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1995'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1193.2003
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Atomic clocks
 - Piezoelectric resonator oscillators
@@ -74,5 +81,5 @@ keyword:
 - atomic frequency standard
 - atomic clock
 ics:
-  code: 29.160.20
+- code: 29.160.20
   text: Generators

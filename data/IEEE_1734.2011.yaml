@@ -1,12 +1,12 @@
 ---
 id: IEEE1734.2011
 title:
-  type: main
+- type: main
   content: IEEE Standard for Quality of Electronic and Software Intellectual Property
     Used in System and System on Chip (SoC) Designs
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6035731
+- content: https://ieeexplore.ieee.org/document/6035731
   type: src
 type: standard
 docid:
@@ -25,16 +25,20 @@ date:
 - type: issued
   value: '2011-06-16'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
-language: en
-script: Latn
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
 abstract:
 - content: A standard XML format for representing electronic design intellectual property
     (IP) quality information, based on an information model for IP quality measurement,
@@ -46,8 +50,10 @@ abstract:
     is a term used in the electronic design community to refer to a reusable collection
     of design specifications that represent the behavior, properties, and/or representation
     of the design in various media.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: A standard XML format for representing electronic design intellectual property
     (IP) quality information, based on an information model for IP quality measurement,
@@ -59,12 +65,15 @@ abstract:
     is a term used in the electronic design community to refer to a reusable collection
     of design specifications that represent the behavior, properties, and/or representation
     of the design in various media.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2011'
@@ -99,5 +108,5 @@ keyword:
 - XML design meta data
 - XML schema
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

@@ -1,11 +1,11 @@
 ---
 id: IEEE982-1.1988
 title:
-  type: main
+- type: main
   content: IEEE Standard Dictionary of Measures to Produce Reliable Software
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/35033
+- content: https://ieeexplore.ieee.org/document/35033
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1988-06-09'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Superseded by IEEE Std 982.1-2005 A set of measures indicative of software
+- content: Superseded by IEEE Std 982.1-2005 A set of measures indicative of software
     reliability that can be applied to the software product as well as to the development
     and support processes is provided. The measures can be applied early in the development
     process to indicate the reliability of the delivered product. The aim is to provide
@@ -44,22 +48,25 @@ abstract:
     to occur, and that serves as the foundation on which researchers and practitioners
     can build consistent methods. The standard is designed to assist management in
     directing product development and support toward specific reliability goals.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1989'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 982-1.2005
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Software reliability
 - Standards

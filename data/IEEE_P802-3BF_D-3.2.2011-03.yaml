@@ -1,7 +1,7 @@
 ---
 id: IEEEP802-3bf/D-3.2.2011-03
 title:
-  type: main
+- type: main
   content: 'IEEE Draft Standard for Information technology--Telecommunications and
     information exchange between systems--Local and metropolitan area networks--Specific
     requirements Part 3: Carrier Sense Multiple Access with Collision Detection (CSMA/CD)
@@ -10,7 +10,7 @@ title:
     protocols'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5740645
+- content: https://ieeexplore.ieee.org/document/5740645
   type: src
 type: standard
 docid:
@@ -27,29 +27,36 @@ date:
 - type: issued
   value: '2011-03-28'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
-language: en
-script: Latn
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This amendment to IEEE Std 802.3 defines the Time Synchronization Service
+- content: This amendment to IEEE Std 802.3 defines the Time Synchronization Service
     Interface (TSSI) to indicate when the Start Frame Delimiter (SFD) crosses the
     generic Medium Independent Interface (xMII), together with management objects
     indicating transmit and receive data delay between the Medium Dependent Interface
     (MDI) and xMII for the given Physical Layer devices (PHY). Both features are required
     to support time synchronization protocols, e.g., IEEE P802.1AS or IEEE Std 1588.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2011'

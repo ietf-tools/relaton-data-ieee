@@ -1,12 +1,12 @@
 ---
 id: IEEEUnapprovedP1733/D-6.0.2009
 title:
-  type: main
+- type: main
   content: Draft Standard for Layer Transport Protocol for Time Sensitive Applications
     in Local Area Networks
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5325079
+- content: https://ieeexplore.ieee.org/document/5325079
   type: src
 type: standard
 docid:
@@ -16,32 +16,39 @@ docid:
   type: ISBN
 docnumber: IEEE Unapproved P1733/D-6.0.2009
 date:
-  type: created
+- type: created
   value: '2009'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
-language: en
-script: Latn
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard specifies the protocol, data encapsulations, connection management
+- content: This standard specifies the protocol, data encapsulations, connection management
     and presentation time procedures used to ensure interoperability between audio
     and video based end stations that use standard networking services provided by
     all IEEE 802 networks meeting QoS requirements for time-sensitive applications
     by leveraging the Real-time Transport Protocol (RTP) family of protocols and IEEE
     802.1 Audio/Video Bridging (AVB) protocols.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2009'
@@ -58,5 +65,5 @@ keyword:
 - bridged LAN
 - time synchronization
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

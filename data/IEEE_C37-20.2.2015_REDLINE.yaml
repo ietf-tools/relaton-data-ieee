@@ -8,7 +8,7 @@ title:
   content: IEEE Standard for Metal-Clad Switchgear - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7361690
+- content: https://ieeexplore.ieee.org/document/7361690
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2015-06-11'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-12-21'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: Metal-clad (MC) medium-voltage switchgear that contains drawout electrically
     operated circuit breakers is covered. MC switchgear is compartmentalized to isolate
@@ -49,8 +53,10 @@ abstract:
     conditions, ratings, temperature limitations and classification of insulating
     materials, insulation (dielectric) withstand voltage requirements, test procedures,
     and applications are discussed.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Metal-clad (MC) medium-voltage switchgear that contains drawout electrically
     operated circuit breakers is covered. MC switchgear is compartmentalized to isolate
@@ -62,25 +68,30 @@ abstract:
     conditions, ratings, temperature limitations and classification of insulating
     materials, insulation (dielectric) withstand voltage requirements, test procedures,
     and applications are discussed.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2015'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE C37-20-2.1999
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -107,5 +118,5 @@ keyword:
 - transformer accuracy
 - voltage transformers
 ics:
-  code: 29.130.99
+- code: 29.130.99
   text: Other switchgear and controlgear

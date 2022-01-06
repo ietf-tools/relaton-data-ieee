@@ -1,12 +1,12 @@
 ---
 id: IEEE1497.2001
 title:
-  type: main
+- type: main
   content: IEEE Standard for Standard Delay Format (SDF) for the Electronic Design
     Process
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/972829
+- content: https://ieeexplore.ieee.org/document/972829
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '2001-12-06'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-26'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'IEC 61523-3: 2004 Dual-logo document. Replaces IEEE Std 1497-2001. The
+- content: 'IEC 61523-3: 2004 Dual-logo document. Replaces IEEE Std 1497-2001. The
     Standard Delay Format (SDF) is defined in this standard. SDF is a textual file
     format for representing the delay and timing information of electronic systems.
     While both human and machine readable, in its most common usage it will be machine
@@ -45,12 +49,15 @@ abstract:
     and of other tools requiring delay and timing information. The primary audience
     for this standard is the implementors of tools supporting the format, but anyone
     with a need to understand the format’s contents will find it useful.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2001'
@@ -68,5 +75,5 @@ keyword:
 - timing back annotation
 - timing verification
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

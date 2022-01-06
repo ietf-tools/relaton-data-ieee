@@ -1,12 +1,12 @@
 ---
 id: IEEEP1377/D-8.2010-10
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for Utility Industry Metering Communication Protocol
     Application Layer (End Device Data Tables)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5606229
+- content: https://ieeexplore.ieee.org/document/5606229
   type: src
 type: standard
 docid:
@@ -21,18 +21,22 @@ date:
 - type: issued
   value: '2010-10-19'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
-language: en
-script: Latn
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard provides common structures for encoding data in communication
+- content: This standard provides common structures for encoding data in communication
     between End Devices (meters, home appliances, IEEE 1703 Nodes) and Utility enterprise
     collection and control systems using binary codes and XML content. The standard
     addresses the AMI and SmartGrid requirements as identified by the Office of Electricity
@@ -49,12 +53,15 @@ abstract:
     and Electric sensors and related appliances. It also provides Tables for network
     configuration and management by referencing its companion standard IEEE 1703.
     IEEE 1377 is co-published as ANSI C12.19 and MC12.19.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2010'
@@ -70,5 +77,5 @@ keyword:
 - End Device
 - Utility Tables
 ics:
-  code: 35.240.50
+- code: 35.240.50
   text: IT applications in industry

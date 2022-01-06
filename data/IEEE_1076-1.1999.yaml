@@ -1,11 +1,11 @@
 ---
 id: IEEE1076-1.1999
 title:
-  type: main
+- type: main
   content: IEEE Standard VHDL Analog and Mixed-Signal Extensions
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/808837
+- content: https://ieeexplore.ieee.org/document/808837
   type: src
 type: standard
 docid:
@@ -24,29 +24,36 @@ date:
 - type: issued
   value: '1999-03-18'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-10-20'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard defines the IEEE 1076.1 language, a hardware description
+- content: This standard defines the IEEE 1076.1 language, a hardware description
     language for the description and the simulation of analog, digital, and mixed-signal
     systems. The language, also informally known as VHDL-AMS, is built on IEEE Std
     1076-1993 (VHDL) and extends it with additions and changes to provide capabilities
     of writing and simulating analog and mixed-signal models.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1999'
@@ -59,5 +66,5 @@ keyword:
 - mixed-signal design
 - VHDL
 ics:
-  code: '35.060'
+- code: '35.060'
   text: Languages used in information technology

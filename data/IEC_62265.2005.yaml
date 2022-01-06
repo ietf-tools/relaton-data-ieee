@@ -1,12 +1,12 @@
 ---
 id: IEC62265.2005
 title:
-  type: main
+- type: main
   content: IEC/IEEE International Standard - Advanced Library Format (ALF) Describing
     Integrated Circuit (IC) Technology, Cells, and Blocks
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8894281
+- content: https://ieeexplore.ieee.org/document/8894281
   type: src
 type: standard
 docid:
@@ -25,30 +25,37 @@ date:
 - type: issued
   value: '2005'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-11-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Replaces IEEE Std 1603-2003. ALF is a modeling language for library elements
+- content: Replaces IEEE Std 1603-2003. ALF is a modeling language for library elements
     used in IC technology. ALF enables description of electrical, functional, and
     physical models in a formal language suitable for electronic design automation
     (EDA) application tools targeted for design and analysis of an IC. This standard
     provides rules that describe ALF and how tool developers, integrators, library
     creators, and library users should use it.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2005'
@@ -79,5 +86,5 @@ keyword:
 - technology
 - timing
 ics:
-  code: '31.200'
+- code: '31.200'
   text: Integrated circuits. Microelectronics

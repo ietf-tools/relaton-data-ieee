@@ -1,12 +1,12 @@
 ---
 id: IEEE1623.2004
 title:
-  type: main
+- type: main
   content: IEEE Guide for the Functional Specification of Medium Voltage (1 kV - 35
     kV) Electronic Shunt Devices for Dynamic Voltage Compensation
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1438744
+- content: https://ieeexplore.ieee.org/document/1438744
   type: src
 type: standard
 docid:
@@ -25,30 +25,37 @@ date:
 - type: issued
   value: '2004-11-15'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-08-04'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This document provides general guidelines for the preparation of a functional
+- content: 'This document provides general guidelines for the preparation of a functional
     specification for solid-state electronic shunt devices used mainly for compensation
     of voltage fluctuation. The guide covers devices rated to medium voltage (1 kV-35
     kV). This device contains in general: an inverter, rectifier or DC converter,
     energy storage device, and coupling transformer. The device typically is connected
     in parallel with the network using a coupling transformer.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2005'
@@ -62,5 +69,5 @@ keyword:
 - sensitive loads
 - voltage control
 ics:
-  code: 01.040.11
+- code: 01.040.11
   text: Health care technology (Vocabularies)

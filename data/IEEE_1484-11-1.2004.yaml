@@ -1,11 +1,11 @@
 ---
 id: IEEE1484-11-1.2004
 title:
-  type: main
+- type: main
   content: IEEE Standard for Learning Technology--Data Model for Content Object Communication
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5538201
+- content: https://ieeexplore.ieee.org/document/5538201
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '2004-09-23'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-11-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This Standard describes a data model to support the interchange of data
+- content: This Standard describes a data model to support the interchange of data
     elements and their values between a content object and a runtime service (RTS).
     It is based on a current industry practice called "computer managed instruction"
     (CMI). The work on which this Standard is based was developed to support a client/server
@@ -46,12 +50,15 @@ abstract:
     objectives, content-object entry, exit, and status information, time parameters,
     and scores. &lt;br&#x003E; Second Printing 24 June 2010. Errata incorporated 24
     June 2010&lt;/br&#x003E;
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2010'
@@ -68,5 +75,5 @@ keyword:
 - learning management system (LMS)
 - runtime service (RTS)
 ics:
-  code: 35.240.99
+- code: 35.240.99
   text: IT applications in other fields

@@ -1,12 +1,12 @@
 ---
 id: IEEEP1363-3/D-8.2013-04
 title:
-  type: main
+- type: main
   content: IEEE Approved Draft Standard for Identity-Based Cryptographic Techniques
     using Pairings
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6509387
+- content: https://ieeexplore.ieee.org/document/6509387
   type: src
 type: standard
 docid:
@@ -23,30 +23,37 @@ date:
 - type: issued
   value: '2013-08-27'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-04-26'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard specifies common identity-based public-key cryptographic
+- content: This standard specifies common identity-based public-key cryptographic
     techniques that use pairings, including mathematical primitives for secret value
     (key) derivation, public-key encryption, and digital signatures, and cryptographic
     schemes based on those primitives. It also specifies related cryptographic parameters,
     public keys and private keys. The purpose of this standard is to provide a reference
     for specifications of a variety of techniques from which applications may select.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2013'
@@ -62,5 +69,5 @@ keyword:
 - pairing-based encryption
 - pairing-based cryptography
 ics:
-  code: '35.040'
+- code: '35.040'
   text: Character sets and information coding

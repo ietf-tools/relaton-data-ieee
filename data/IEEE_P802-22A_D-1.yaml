@@ -1,7 +1,7 @@
 ---
 id: IEEEP802-22a/D-1
 title:
-  type: main
+- type: main
   content: 'IEEE Draft Standard for Information Technology--Telecommunications and
     information exchange between systems Wireless Regional Area Networks (WRAN)--Specific
     requirements Part 22: Cognitive Wireless RAN Medium Access Control (MAC) and Physical
@@ -10,7 +10,7 @@ title:
     to the Management Information Base (MIB)'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6595008
+- content: https://ieeexplore.ieee.org/document/6595008
   type: src
 type: standard
 docid:
@@ -27,43 +27,52 @@ date:
 - type: issued
   value: '2013-09-10'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-09-10'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This air interface, including the medium access control layer (MAC) and
+- content: This air interface, including the medium access control layer (MAC) and
     physical layer (PHY), of the fixed and portable point-to-multipoint wireless regional
     area networks operating in spectrum allocated to the Television Broadcasting Service
     in the frequency range 54 MHz to 862 MHz.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2013'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-22.2011
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Wireless networks
@@ -83,5 +92,5 @@ keyword:
 - radio spectrum sensing
 - WRAN standards
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

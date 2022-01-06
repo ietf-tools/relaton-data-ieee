@@ -1,12 +1,12 @@
 ---
 id: IEEEC37-111.2013
 title:
-  type: main
+- type: main
   content: 'IEEE/IEC Measuring relays and protection equipment &#8211; Part 24: Common
     format for transient data exchange (COMTRADE) for power systems'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6512503
+- content: https://ieeexplore.ieee.org/document/6512503
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2013-02-06'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-05-02'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: This standard defines a common format for the data files and exchange medium
     needed the interchange of various types of fault, test, and simulation data. The
@@ -51,8 +55,10 @@ abstract:
     of such data between applications. This will facilitate the use of proprietary
     data in diverse applications and allow users of one proprietary system to use
     digital data from other systems.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Also known as IEC 60255-24 Ed.2, this standard defines a format for files
     containing transient waveform and event data collected from power systems or power
@@ -60,26 +66,32 @@ abstract:
     for use in exchanging data. The standard is for files stored on currently used
     physical media such as portable external hard drives, USB drives, flash drives,
     CD, DVD. It is not a standard for transferring data files over communication networks.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: IEC
+  - name:
+    - IEC
   from: '2013'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE C37-111.1999
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE standards
@@ -89,5 +101,5 @@ keyword:
 - Data handling
 - Power systems planning
 ics:
-  code: 35.240.50
+- code: 35.240.50
   text: IT applications in industry

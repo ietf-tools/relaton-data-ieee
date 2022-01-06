@@ -1,11 +1,11 @@
 ---
 id: IEEE726.1979
 title:
-  type: main
+- type: main
   content: IEEE Standard Real-Time BASIC for CAMAC
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7435201
+- content: https://ieeexplore.ieee.org/document/7435201
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '1978-06-16'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-03-17'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: This standard deals with software for the CAMAC modular instrumentation
     and interface system of ANSI/IEEE Std 583-1975, Modular Instrumentation and Digital
@@ -51,8 +55,10 @@ abstract:
     The section on interrupt handling is not included. In particular, reference to
     the WHEN statement to link an event-name to an interrupt service routine has been
     deleted.(3) The capability of handling errors at run-time has been deleted.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: 'This standard deals with software for the CAMAC modular instrumentation
     and interface system of ANSI/IEEE Std 583-1975, Modular Instrumentation and Digital
@@ -67,22 +73,25 @@ abstract:
     The section on interrupt handling is not included. In particular, reference to
     the WHEN statement to link an event-name to an interrupt service routine has been
     deleted. (3) The capability of handling errors at run-time has been deleted.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1979'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: ANSI/IEEE 726.1982
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - BASIC programing

@@ -1,12 +1,12 @@
 ---
 id: ISO/IEC/IEEEP11073-10417/D-2.2015-01
 title:
-  type: main
+- type: main
   content: 'IEEE Draft Health Informatics - Personal Health Device Communication Part
     10417: Device Specialization - Glucose Meter'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7017977
+- content: https://ieeexplore.ieee.org/document/7017977
   type: src
 type: standard
 docid:
@@ -23,19 +23,23 @@ date:
 - type: issued
   value: '2015-03-11'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-01-22'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Within the context of the ISO/IEEE 11073 family of standards for devicecommunication,
+- content: Within the context of the ISO/IEEE 11073 family of standards for devicecommunication,
     a normative definition of communication between personal telehealth glucosemeter
     devices and compute engines (e.g., cell phones, personal computers, personal healthappliances,
     and set top boxes) is established by this standard in a manner that enables plug-andplayinteroperability.
@@ -45,29 +49,36 @@ abstract:
     environments restrictingoptionality in base frameworks in favor of interoperability
     are specified. A common core ofcommunication functionality for personal telehealth
     glucose meters is defined in this standard.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
-  - name: IEC
+  - name:
+    - ISO
+  - name:
+    - IEC
   from: '2015'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 11073-10417.2011
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Glucose

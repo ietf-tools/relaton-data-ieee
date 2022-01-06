@@ -1,11 +1,11 @@
 ---
 id: IEEE1476.2000
 title:
-  type: main
+- type: main
   content: IEEE Standard for Passenger Train Auxiliary Power Systems Interfaces
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/842120
+- content: https://ieeexplore.ieee.org/document/842120
   type: src
 type: standard
 docid:
@@ -24,30 +24,37 @@ date:
 - type: issued
   value: '2000-03-30'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-02-14'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The electrical interfaces among the components comprising the auxiliary
+- content: The electrical interfaces among the components comprising the auxiliary
     power systems and their electrical interface with other train-borne systems are
     described. As such, this standard treats the auxiliary power system components
     (e.g., static inverters and converters, low-voltage dc power supplies, back-up
     battery systems, and battery chargers) as black boxes and addresses only their
     interface requirements.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2000'
@@ -61,5 +68,5 @@ keyword:
 - rail-transit vehicles
 - static inverters and converters
 ics:
-  code: 45.060.01
+- code: 45.060.01
   text: Railway rolling stock in general

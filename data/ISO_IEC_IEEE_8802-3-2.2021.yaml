@@ -1,13 +1,13 @@
 ---
 id: ISO/IEC/IEEE8802-3-2.2021
 title:
-  type: main
+- type: main
   content: IEEE/ISO/IEC International Standard for Telecommunications and exchange
     between information technology systems--Requirements for local and metropolitan
     area networks--Part 3-2:Standard for Ethernet YANG data model definitions
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9641795
+- content: https://ieeexplore.ieee.org/document/9641795
   type: src
 type: standard
 docid:
@@ -26,33 +26,42 @@ date:
 - type: issued
   value: '2021'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-12-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: YANG models for IEEE Std 802.3 are defined in this standard. This standard
+- content: YANG models for IEEE Std 802.3 are defined in this standard. This standard
     also publishes these models in a machine-readable format.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
-  - name: IEC
+  - name:
+    - ISO
+  - name:
+    - IEC
   from: '2021'
 relation:
-  type: adoptedFrom
+- type: adoptedFrom
   bibitem:
     formattedref:
       content: IEEE 802-3-2.2019

@@ -1,11 +1,11 @@
 ---
 id: IEEE830.1998
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for Software Requirements Specifications
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/720574
+- content: https://ieeexplore.ieee.org/document/720574
   type: src
 type: standard
 docid:
@@ -24,43 +24,52 @@ date:
 - type: issued
   value: '1998-06-25'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-02-21'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Replaced by ISO/IEC/IEEE 29148:2011. The content and qualities of a good
+- content: Replaced by ISO/IEC/IEEE 29148:2011. The content and qualities of a good
     software requirements specification (SRS) are described and several sample SRS
     outlines are presented. This recommended practice is aimed at specifying requirements
     of software to be developed but also can be applied to assist in the selection
     of in-house and commercial software products. Guidelines for compliance with IEEE/
     EIA12207.1- 1997 are also provided.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1998'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 830.1993
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - Software requirements and specifications
@@ -71,5 +80,5 @@ keyword:
 - supplier
 - system requirements specifications
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

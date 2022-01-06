@@ -1,12 +1,12 @@
 ---
 id: IEEE1003-5.1992
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Information Technology--POSIX(R) Ada Language Interfaces--PART
     1: Binding for System Application Program Interface (API)'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7160863
+- content: https://ieeexplore.ieee.org/document/7160863
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '1992-06-18'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-07-16'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: This standard is part of the POSIX series of standards for applications
     and user interfaces to open systems. It defines the Ada language bindings as package
@@ -52,8 +56,10 @@ abstract:
     on application programs, so the interfaces in this document are not sufficient
     to implement an Ada compilation system or a POSIX shell, nor is this standard
     meant to be sufficient for real-time applications.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: This standard is part of the POSIX series of standards for applications
     and user interfaces to open systems. It defines the Ada language bindings as package
@@ -68,12 +74,15 @@ abstract:
     on application programs, so the interfaces in this document are not sufficient
     to implement an Ada compilation system or a POSIX shell, nor is this standard
     meant to be sufficient for real-time applications.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1992'

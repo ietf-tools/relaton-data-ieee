@@ -1,11 +1,11 @@
 ---
 id: IEEE1615.2019
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for Network Communication in Electric Power Substations
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8894229
+- content: https://ieeexplore.ieee.org/document/8894229
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '2019-09-05'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-11-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: Recommended practices for communication and interoperation of devices connected
     on an electric power substation Internet Protocol (IP) network are provided. An
@@ -45,8 +49,10 @@ abstract:
     new to IP networking. Direction and requirements to facilitate interoperable electric
     utility information networks are provided for equipment manufacturers and system
     integrators.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Recommended practices for communication and interoperation of devices connected
     on an electric power substation Internet Protocol (IP) network are provided. An
@@ -55,25 +61,30 @@ abstract:
     new to IP networking. Direction and requirements to facilitate interoperable electric
     utility information networks are provided for equipment manufacturers and system
     integrators.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2019'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1615.2007
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -106,5 +117,5 @@ keyword:
 - time synchronization
 - wireless network
 ics:
-  code: 29.130.01
+- code: 29.130.01
   text: Switchgear and controlgear in general

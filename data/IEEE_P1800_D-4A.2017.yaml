@@ -1,12 +1,12 @@
 ---
 id: IEEEP1800/D-4a.2017
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for SystemVerilog--Unified Hardware Design, Specification,
     and Verification Language
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8027223
+- content: https://ieeexplore.ieee.org/document/8027223
   type: src
 type: standard
 docid:
@@ -23,19 +23,23 @@ date:
 - type: issued
   value: '2017-12-06'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-09-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The definition of the language syntax and semantics for SystemVerilog,
+- content: The definition of the language syntax and semantics for SystemVerilog,
     which is a unified hardware design, specification, and verification language,
     is provided. This standard includes support for modeling hardware at the behavioral,
     register transfer level (RTL), and gate-level abstraction levels, and for writing
@@ -44,27 +48,32 @@ abstract:
     (APIs) to foreign programming languages. (The PDF of this standard is available
     at no cost at http://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=80
     compliments of Accellera Systems Initiative)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2017'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1800.2012
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Patents
@@ -84,5 +93,5 @@ keyword:
 - Verilog&#174;
 - VPI
 ics:
-  code: '35.060'
+- code: '35.060'
   text: Languages used in information technology

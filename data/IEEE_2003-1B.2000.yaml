@@ -1,13 +1,13 @@
 ---
 id: IEEE2003-1b.2000
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Information Technology - Test Methods Specifications
     for Measuring Conformance to POSIX(TM) - Part 1: System Application Program Interface
     (API) - Amendment 1: Realtime Extension [C Language]'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/888623
+- content: https://ieeexplore.ieee.org/document/888623
   type: src
 type: standard
 docid:
@@ -26,19 +26,23 @@ date:
 - type: issued
   value: '2000-03-30'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-03-08'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard defines the test method specifications for IEEE Std 1003.1b-1993
+- content: This standard defines the test method specifications for IEEE Std 1003.1b-1993
     (based on the document corresponding to the merger of IEEE Std 1003.1-1990 and
     IEEE Std 1003.1b-1993). The test method specifications consist of assertions to
     be tested and related test procedures. As an amendment to IEEE Std 1003.1-1990,
@@ -46,12 +50,15 @@ abstract:
     (the test method specification for IEEE Std 1003.1-1990) that correspond to the
     amended parts of IEEE Std 1003.1-1990. This standard is aimed primarily at providers
     of test methods for IEEE Std 1003.1b-1993 and at implementors of IEEE Std 1003.1b-1993.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2000'
@@ -67,5 +74,5 @@ keyword:
 - test method specification
 - test result code
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

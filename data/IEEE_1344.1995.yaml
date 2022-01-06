@@ -1,11 +1,11 @@
 ---
 id: IEEE1344.1995
 title:
-  type: main
+- type: main
   content: IEEE Standard for Synchrophasors for Power Systems
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8684605
+- content: https://ieeexplore.ieee.org/document/8684605
   type: src
 type: standard
 docid:
@@ -24,28 +24,35 @@ date:
 - type: issued
   value: '1995-12-12'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The synchronizing input and the data output for phasor measurements made
+- content: The synchronizing input and the data output for phasor measurements made
     by substation computer systems is discussed. Processes involved in computing phasors
     from sampled data, data-to-phasor conversions, and formats for timing imputs and
     phasor data output from a Phasor Measurement Unit (PMU) are also addressed.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1995'
@@ -60,7 +67,7 @@ relation:
     formattedref:
       content: IEEE C37-118.2005
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - anti-aliasing
 - digital computer based measurement
@@ -74,5 +81,5 @@ keyword:
 - synchronized phasor
 - time input
 ics:
-  code: 17.220.20
+- code: 17.220.20
   text: Measurement of electrical and magnetic quantities

@@ -10,7 +10,7 @@ title:
     -- Life cycle processes -- Requirements engineering - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9541319
+- content: https://ieeexplore.ieee.org/document/9541319
   type: src
 type: standard
 docid:
@@ -27,19 +27,23 @@ date:
 - type: issued
   value: '2018-10-23'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-20'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document contains provisions for the processes and products related
+- content: This document contains provisions for the processes and products related
     to the engineering of requirements for systems and software products and services
     throughout the life cycle. It defines the construct of a good requirement, provides
     attributes and characteristics of requirements, and discusses the iterative and
@@ -50,27 +54,34 @@ abstract:
     and their content are defined. The content of this document can be added to the
     existing set of requirements-related life cycle processes defined by ISO/IEC/IEEE
     12207 or ISO/IEC/IEEE 15288, or can be used independently.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
-  - name: IEC
+  - name:
+    - ISO
+  - name:
+    - IEC
   from: '2018'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: ISO/IEC/IEEE 29148.2011
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -91,5 +102,5 @@ keyword:
 - system requirements specification
 - SyRS
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

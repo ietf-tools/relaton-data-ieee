@@ -1,12 +1,12 @@
 ---
 id: IEEEP1484-12-3/D-1.2019-09
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for Extensible Markup Language (XML) Schema Definition
     Language Binding for Learning Object Metadata
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8844370
+- content: https://ieeexplore.ieee.org/document/8844370
   type: src
 type: standard
 docid:
@@ -23,46 +23,55 @@ date:
 - type: issued
   value: '2020-03-05'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-09-18'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This Standard defines a World Wide Web Consortium (W3C) Extensible Markup
+- content: This Standard defines a World Wide Web Consortium (W3C) Extensible Markup
     Language (XML) Schema definition language binding of the learning object metadata
     (LOM) data model defined in IEEE Std 1484.12.1TM&#8211;2002. The purpose of this
     Standard is to allow the creation of LOM instances in XML, which allows for interoperability
     and the exchange of LOM XML instances between various systems. This Standard uses
     the W3C XML Schema definition language to define the syntax and semantics of the
     XML encodings.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2019'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1484-12-3.2005
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - XML
@@ -78,5 +87,5 @@ keyword:
 - W3C XML Schema definition language
 - XML Schema definition (XSD)
 ics:
-  code: 35.240.99
+- code: 35.240.99
   text: IT applications in other fields

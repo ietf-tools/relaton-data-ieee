@@ -1,13 +1,13 @@
 ---
 id: IEEE802-3.2000
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Information Technology - LAN/MAN - Specific Requirements
     -Part 3: Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Access
     Method and Physical Layer Specifications'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/879000
+- content: https://ieeexplore.ieee.org/document/879000
   type: src
 type: standard
 docid:
@@ -26,19 +26,23 @@ date:
 - type: issued
   value: '2000'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-05-03'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Incoporating IEEE Std 802.3, 1998 Edition, IEEE Std 802.3ac-1998, IEEE
+- content: Incoporating IEEE Std 802.3, 1998 Edition, IEEE Std 802.3ac-1998, IEEE
     Std 802.3ab-1999, and IEEE Std 802.3ad-2000. Superseded by 802.3-2002 (802.3ag).
     The media access control characteristics for the Carrier Sense Multiple Access
     with Collision Detection (CSMA/CD) access method for shared medium local area
@@ -57,12 +61,15 @@ abstract:
     Local Area Networks (VLANs) as specified in IEEE P802.1Q are also provided. Also
     specified is an optional Link Aggregation sublayer which multiple physical links
     to be aggregated together to form a single logical link.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2000'
@@ -74,15 +81,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 802-3.2002
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE 802.3 Standard
 - EPON

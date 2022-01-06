@@ -1,12 +1,12 @@
 ---
 id: ISO/IEEE11073-30200.2004
 title:
-  type: main
+- type: main
   content: ISO/IEEE Standard for Health informatics - Point-of-care medical device
     communication - Transport profile - Cable connected
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1377857
+- content: https://ieeexplore.ieee.org/document/1377857
   type: src
 type: standard
 docid:
@@ -25,30 +25,37 @@ date:
 - type: issued
   value: '2000-01-30'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-10-30'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard replaces IEEE Std 1073.3.2-2000. A connection-oriented transport
+- content: This standard replaces IEEE Std 1073.3.2-2000. A connection-oriented transport
     profile and physical layer suitable for medical device communications in legacy
     devices is established. Communications services and protocols consistent with
     specifications of the Infrared Data Association are defined. These communication
     services and protocols are optimized for use in patient-connected badside medical
     devices.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2004'
@@ -69,5 +76,5 @@ keyword:
 - patient
 - SNTP
 ics:
-  code: 35.240.80
+- code: 35.240.80
   text: IT applications in health care technology

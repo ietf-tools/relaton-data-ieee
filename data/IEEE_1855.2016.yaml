@@ -1,11 +1,11 @@
 ---
 id: IEEE1855.2016
 title:
-  type: main
+- type: main
   content: IEEE Standard for Fuzzy Markup Language
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7479441
+- content: https://ieeexplore.ieee.org/document/7479441
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '2016-01-29'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-05-26'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: A new specification language, named Fuzzy Markup Language (FML), is presented
     in this standard, exploiting the benefits offered by eXtensible Markup Language
@@ -45,8 +49,10 @@ abstract:
     fuzzy systems are provided with a unified and high-level methodology for describing
     interoperable fuzzy systems. The W3C XML Schema definition language is used by
     this standard to define the syntax and semantics of the FML programs.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: A new specification language, named Fuzzy Markup Language (FML), is presented
     in this standard, exploiting the benefits offered by eXtensible Markup Language
@@ -55,12 +61,15 @@ abstract:
     fuzzy systems are provided with a unified and high-level methodology for describing
     interoperable fuzzy systems. The W3C XML Schema definition language is used by
     this standard to define the syntax and semantics of the FML programs.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2016'
@@ -83,5 +92,5 @@ keyword:
 - XML
 - XML Schema
 ics:
-  code: 01.040.11
+- code: 01.040.11
   text: Health care technology (Vocabularies)

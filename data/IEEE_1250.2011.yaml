@@ -1,11 +1,11 @@
 ---
 id: IEEE1250.2011
 title:
-  type: main
+- type: main
   content: IEEE Guide for Identifying and Improving Voltage Quality in Power Systems
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5744556
+- content: https://ieeexplore.ieee.org/document/5744556
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '2011-03-31'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-01-08'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The use of some electrical equipment attached to typical power systems
     creates voltage quality concerns. There is an increasing awareness that some equipment
@@ -46,8 +50,10 @@ abstract:
     concerns are addressed by this guide by documenting typical levels of these aspects
     of voltage quality and indicating how to improve them. Other documents that treat
     these subjects in more detail are referenced.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: The use of some electrical equipment attached to typical power systems
     creates voltage quality concerns. There is an increasing awareness that some equipment
@@ -57,12 +63,15 @@ abstract:
     concerns are addressed by this guide by documenting typical levels of these aspects
     of voltage quality and indicating how to improve them. Other documents that treat
     these subjects in more detail are referenced.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2011'
@@ -74,15 +83,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1250.2018
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Voltage fluctuations
@@ -106,5 +117,5 @@ keyword:
 - voltage fluctuation
 - voltage quality
 ics:
-  code: '29.200'
+- code: '29.200'
   text: Rectifiers. Converters. Stabilized power supply

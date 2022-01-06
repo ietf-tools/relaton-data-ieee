@@ -1,11 +1,11 @@
 ---
 id: IEEEC37-99.2000
 title:
-  type: main
+- type: main
   content: IEEE Guide for the Protection of Shunt Capacitor Banks
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1033175
+- content: https://ieeexplore.ieee.org/document/1033175
   type: src
 type: standard
 docid:
@@ -24,29 +24,36 @@ date:
 - type: issued
   value: '2000-01-30'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-06-06'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The protection of shunt power capacitor and filter banks are covered. Guidelines
+- content: The protection of shunt power capacitor and filter banks are covered. Guidelines
     forreliable applications of protection methods intended for use in many shunt
     capacitor applicationsand designs are included. The protection of pole-mounted
     capacitor banks on distribution circuitsand the application of capacitors connected
     directly to routing apparatus are not included.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2000'
@@ -58,15 +65,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE C37-99.2012
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Capacitors
 - IEEE Standards
@@ -82,5 +91,5 @@ keyword:
 - shunt
 - unbalance protection
 ics:
-  code: 31.060.99
+- code: 31.060.99
   text: Other capacitors

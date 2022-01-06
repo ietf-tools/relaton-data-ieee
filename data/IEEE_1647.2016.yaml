@@ -1,11 +1,11 @@
 ---
 id: IEEE1647.2016
 title:
-  type: main
+- type: main
   content: IEEE Standard for the Functional Verification Language e
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7805158
+- content: https://ieeexplore.ieee.org/document/7805158
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '2016-06-30'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-01-04'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The e functional verification language is an application-specific programming
     language, aimed at automating the task of verifying a hardware or software design
@@ -50,8 +54,10 @@ abstract:
     used throughout the design cycle, from a high-level architectural model to a fully
     realized system. A definition of the e language syntax and semantics and how tool
     developers and verification engineers should use them are contained in this standard.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: The e functional verification language is an application-specific programming
     language, aimed at automating the task of verifying a hardware or software design
@@ -65,12 +71,15 @@ abstract:
     used throughout the design cycle, from a high-level architectural model to a fully
     realized system. A definition of the e language syntax and semantics and how tool
     developers and verification engineers should use them are contained in this standard.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2016'
@@ -87,15 +96,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1647.2019
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Concurrent programming
@@ -114,5 +125,5 @@ keyword:
 - temporal logic
 - test generation
 ics:
-  code: '35.060'
+- code: '35.060'
   text: Languages used in information technology

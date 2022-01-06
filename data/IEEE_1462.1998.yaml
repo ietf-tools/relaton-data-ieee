@@ -1,12 +1,12 @@
 ---
 id: IEEE1462.1998
 title:
-  type: main
+- type: main
   content: 1462-1998 IEEE Adoption of ISO/IEC 14102:1995 Information Technology -
     Guideline for the Evaluation and Selection of CASE Tools
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/809559
+- content: https://ieeexplore.ieee.org/document/809559
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1998-03-19'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This standard defines a process for evaluating and selecting a Computer
+- content: 'This standard defines a process for evaluating and selecting a Computer
     Aided Software Engineering (CASE) tool for a software development or maintenance
     activity. The standard addresses the evaluation and selection of tools supporting
     software engineering processes including: project management processes, development
@@ -45,22 +49,25 @@ abstract:
     14402 are organizations that intend to adopt CASE tools to support their software
     life cycle processes. CASE tool suppliers may also use 14402 to describe the characteristics
     of their CASE tools.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1998'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 14102.2010
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - CASE tools
@@ -69,5 +76,5 @@ keyword:
 - computersoftware
 - software engineering
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

@@ -1,13 +1,13 @@
 ---
 id: IEEEC37-115.2003
 title:
-  type: main
+- type: main
   content: IEEE Standard Test Method for Use in the Evaluation of Message Communications
     Between Intelligent Electronic Devices in an Integrated Substation Protection,
     Control and Data Acquisition System
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1309813
+- content: https://ieeexplore.ieee.org/document/1309813
   type: src
 type: standard
 docid:
@@ -26,31 +26,38 @@ date:
 - type: issued
   value: '2003-11-10'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-01-25'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: A standard test method, including evaluation criteria and performance measures,
+- content: A standard test method, including evaluation criteria and performance measures,
     test scenarios for communication between intelligent electronic devices (IEDs)
     that implement substation integrated protection, control, and data acquisition
     is defined. Test scenarios are used to describe what data is exchanged between
     IEDs to perform a specified function that may be distributed between IEDs. All
     test scenarios use a standard Unified Modeling Language (UML) and a core reference
     model to build out an implementation.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2004'
@@ -76,5 +83,5 @@ keyword:
 - test scenario
 - UML
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

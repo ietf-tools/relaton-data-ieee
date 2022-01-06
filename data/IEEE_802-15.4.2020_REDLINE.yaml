@@ -8,7 +8,7 @@ title:
   content: IEEE Standard for Low-Rate Wireless Networks - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9175063
+- content: https://ieeexplore.ieee.org/document/9175063
   type: src
 type: standard
 docid:
@@ -27,50 +27,61 @@ date:
 - type: issued
   value: '2020-05-06'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-08-24'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The physical layer (PHY) and medium access control (MAC) sublayer specifications
     for low-data-rate wireless connectivity with fixed, portable, and moving devices
     with no battery or very limited battery consumption requirements are defined in
     this standard. In addition, the standard provides modes that allow for precision
     ranging. PHYs are defined for devices operating in a variety of geographic regions.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: The physical layer (PHY) and medium access control (MAC) sublayer specifications
     for low-data-rate wireless connectivity with fixed, portable, and moving devices
     with no battery or very limited battery consumption requirements are defined in
     this standard. In addition, the standard provides modes that allow for precision
     ranging. PHYs are defined for devices operating in a variety of geographic regions.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2020'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-15-4.2015
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -97,5 +108,5 @@ keyword:
 - wireless personal area network
 - WPAN
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

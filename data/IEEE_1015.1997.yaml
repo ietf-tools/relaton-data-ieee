@@ -1,12 +1,12 @@
 ---
 id: IEEE1015.1997
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for Applying Low-Voltage Circuit Breakers Used
     in Industrial and Commercial Power Systems
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/648097
+- content: https://ieeexplore.ieee.org/document/648097
   type: src
 type: standard
 docid:
@@ -25,17 +25,21 @@ date:
 - type: issued
   value: '1997-02-10'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: Information is provided for selecting the proper circuit breaker for a
     particular application. This recommended practice helps the application engineer
@@ -45,8 +49,10 @@ abstract:
     information for applying circuit breakers at different locations in the power
     system, and for protecting specific components. Guidelines are also given for
     coordinating combinations of line-side and load-side devices.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Superseded by IEEE Std 1015-2006 Information is provided for selecting
     the proper circuit breaker for a particular application. This recommended practice
@@ -57,22 +63,25 @@ abstract:
     at different locations in the power system, and for protecting specific components.
     Guidelines are also given for coordinating combinations of line-side and load-side
     devices.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1997'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1015.2006
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Circuit breakers
@@ -93,5 +102,5 @@ keyword:
 - rating
 - testing
 ics:
-  code: 29.060.20
+- code: 29.060.20
   text: Cables

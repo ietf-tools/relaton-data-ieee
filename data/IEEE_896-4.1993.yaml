@@ -1,11 +1,11 @@
 ---
 id: IEEE896-4.1993
 title:
-  type: main
+- type: main
   content: IEEE Standard for Conformance Test Requirements for Futurebus+(R)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/392558
+- content: https://ieeexplore.ieee.org/document/392558
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1993-09-15'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-09'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: A suite of abstract test cases for verifying the conformance of products
+- content: A suite of abstract test cases for verifying the conformance of products
     based on the Futurebus+ family of standards and a means of selecting the exact
     set of test cases necessary for testing any given product are provided. The test
     suite is abstract in that it was not created with a specific test environment
@@ -46,12 +50,15 @@ abstract:
     and users and by independent test labs. Consistent use of this standard should
     promote comparability and, therefore, mutual recognition of test results produced
     by different testers.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1994'
@@ -67,5 +74,5 @@ keyword:
 - BICS proforma
 - Application environment profile
 ics:
-  code: '35.160'
+- code: '35.160'
   text: Microprocessor systems

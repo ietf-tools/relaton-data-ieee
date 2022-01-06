@@ -1,12 +1,12 @@
 ---
 id: ISO/IEC/IEEEDISP29119-3/E-2.2020-04
 title:
-  type: main
+- type: main
   content: 'ISO/IEC/IEEE Draft International Standard - Software and systems engineering
     -- Software testing --Part 3: Test documentation'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9151326
+- content: https://ieeexplore.ieee.org/document/9151326
   type: src
 type: standard
 docid:
@@ -23,19 +23,23 @@ date:
 - type: issued
   value: '2021-09-23'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-07-28'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The purpose of the ISO/IEC/IEEE 29119 series of software testing standards
+- content: The purpose of the ISO/IEC/IEEE 29119 series of software testing standards
     is to define an internationally-agreed set of standards for software testing that
     can be used by any organization when performing any form of software testing.
     ISO/IEC/IEEE 29119-3 includes templates and examples of test documentation. The
@@ -50,16 +54,21 @@ abstract:
     and non-functional testing, manual and automated testing, and scripted and unscripted
     testing. The documentation templates defined in ISO/IEC/IEEE 29119-3 can be used
     in conjunction with any software development lifecycle model.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
-  - name: IEC
+  - name:
+    - ISO
+  - name:
+    - IEC
   from: '2020'
 relation:
 - type: updates
@@ -69,8 +78,10 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: updates
   bibitem:
@@ -79,10 +90,12 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - ISO Standards
@@ -97,5 +110,5 @@ keyword:
 - Test Plan
 - verification and validation.
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

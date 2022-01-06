@@ -1,12 +1,12 @@
 ---
 id: IEEE802-1Q.2014
 title:
-  type: main
+- type: main
   content: IEEE Standard for Local and metropolitan area networks--Bridges and Bridged
     Networks
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6991462
+- content: https://ieeexplore.ieee.org/document/6991462
   type: src
 type: standard
 docid:
@@ -27,23 +27,29 @@ date:
 - type: issued
   value: '2014-11-03'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-12-18'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: This standard specifies how the Media Access Control (MAC) Service is supported
     by Bridged Networks, the principles of operation of those networks, and the operation
     of MAC Bridges and VLAN Bridges, including management, protocols, and algorithms
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: 'This standard specifies how the Media Access Control (MAC) Service is
     supported by Bridged Networks, the principles of operation of those networks,
@@ -52,25 +58,30 @@ abstract:
     IEEE 802.1Qbe-2011 IEEE 802.1Qbc-2011 IEEE 802.1Qbb-2011 IEEE 802.1Qaz-2011 IEEE
     802.1Qbf-2011 IEEE 802.1Qbg-2012 IEEE 802.1aq-2012 IEEE 802.1Q-2011/Cor 2-2012
     IEEE 802.1Qbp-2014./index.html. It also supersedes IEEE 802.1D-2004.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2014'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-1Q.2011
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE standards
@@ -98,5 +109,5 @@ keyword:
 - virtual LAN
 - VLAN Bridge
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

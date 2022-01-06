@@ -1,12 +1,12 @@
 ---
 id: IEEE43.2000
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for Testing Insulation Resistance of Rotating
     Machinery
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/836297
+- content: https://ieeexplore.ieee.org/document/836297
   type: src
 type: standard
 docid:
@@ -25,31 +25,38 @@ date:
 - type: issued
   value: '2000-03-06'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-06-22'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document describes the recommended procedure for measuring insulation
+- content: This document describes the recommended procedure for measuring insulation
     resis-tance of armature and field windings in rotating machines rated 1 hp, 750
     W or greater. It applies to synchronous machines, induction machines, dc machines,
     and synchronous condensers. Con-tained within this document is the general theory
     of insulation resistance (IR) and polarization index (P.I.), as well as factors
     affecting the results, test procedures, methods of interpretation, test limita-tions,
     and recommended minimum values.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2000'
@@ -61,15 +68,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 43.2013
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - absorption current
@@ -80,5 +89,5 @@ keyword:
 - polarization index
 - surface leakage current
 ics:
-  code: 29.160.30
+- code: 29.160.30
   text: Motors

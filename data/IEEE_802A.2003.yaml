@@ -1,12 +1,12 @@
 ---
 id: IEEE802a.2003
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Local and Metropolitan Area Networks: Overview and Architecture
     - Amendment 1: Ethertypes for Prototype and Vendor-Specific Protocol Development'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1237561
+- content: https://ieeexplore.ieee.org/document/1237561
   type: src
 type: standard
 docid:
@@ -25,41 +25,50 @@ date:
 - type: issued
   value: '2003-06-12'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-01-14'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'IEEE Std 802-2001, IEEE Local and Metropolitan Area Networks: Overview
+- content: 'IEEE Std 802-2001, IEEE Local and Metropolitan Area Networks: Overview
     and Architecture, provides an overview to the family of IEEE 802 Standards. This
     amendment to IEEE Std 802 identifies a set of Ethertypes that may be used for
     prototype and vendor specific use, and defines how the ethertypes should be used.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2003'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802.2001
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -76,5 +85,5 @@ keyword:
 - protocol identifier
 - protocol type
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

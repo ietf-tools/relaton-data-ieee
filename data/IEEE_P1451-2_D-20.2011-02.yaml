@@ -1,13 +1,13 @@
 ---
 id: IEEEP1451-2/D-20.2011-02
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for a Smart Transducer Interface for Sensors and Actuators
     - Transducer to Microprocessor Communication Protocols and Transducer Electronic
     Data Sheet (TEDS) Formats
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5738192
+- content: https://ieeexplore.ieee.org/document/5738192
   type: src
 type: standard
 docid:
@@ -24,29 +24,36 @@ date:
 - type: issued
   value: '2012'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
-language: en
-script: Latn
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
 abstract:
-  content: IEEE P1451.2 defines a wired point-to-point interface standard for sensors,
+- content: IEEE P1451.2 defines a wired point-to-point interface standard for sensors,
     specifically connectors and communication protocols for SPI, I2C, UART and RS-232-C
     interfaces together with the corresponding TEDS. This specification focuses on
     the Communication Modules that connect the TIM and NCAP using the IEEE Std 1451.0-2007
     basic standard with brevity as a goal. The purpose of this revision is to make
     IEEE-1451.2-1997 more usable to a wider set of applications.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2011'
@@ -58,8 +65,10 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: updates
   bibitem:
@@ -68,8 +77,10 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: updates
   bibitem:
@@ -78,10 +89,12 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Transducers

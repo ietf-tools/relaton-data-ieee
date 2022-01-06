@@ -1,12 +1,12 @@
 ---
 id: IEC/IEEE61588.2021
 title:
-  type: main
+- type: main
   content: IEC/IEEE International Standard - Precision Clock Synchronization Protocol
     for Networked Measurement and Control Systems
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9456762
+- content: https://ieeexplore.ieee.org/document/9456762
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '2021'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-06-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: In this standard, a protocol is defined that provides precise synchronization
+- content: In this standard, a protocol is defined that provides precise synchronization
     of clocks in packet-based networked systems. Synchronization of clocks can be
     achieved in heterogeneous systems that include clocks of different inherent precision,
     resolution, and stability. The protocol supports synchronization accuracy and
@@ -46,18 +50,22 @@ abstract:
     default profiles that permit simple systems to be installed and operated without
     the need for user management. Sub-nanosecond time transfer accuracy can be achieved
     in a properly designed network.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: IEC
+  - name:
+    - IEC
   from: '2021'
 relation:
-  type: adoptedFrom
+- type: adoptedFrom
   bibitem:
     formattedref:
       content: IEEE 1588.2019
@@ -81,5 +89,5 @@ keyword:
 - synchronization
 - Transparent Clock
 ics:
-  code: 39.040.99
+- code: 39.040.99
   text: Other time-measuring instruments

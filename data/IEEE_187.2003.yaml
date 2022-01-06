@@ -1,12 +1,12 @@
 ---
 id: IEEE187.2003
 title:
-  type: main
+- type: main
   content: IEEE Standard Measurement Methods of Emissions from FM and Television Broadcast
     Receivers in the Frequency Range of 9kHz to 40GHz
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1299309
+- content: https://ieeexplore.ieee.org/document/1299309
   type: src
 type: standard
 docid:
@@ -25,29 +25,36 @@ date:
 - type: issued
   value: '2003-12-10'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-05-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: "(Revision of IEEE Std 187-1990) Abstract: Spurious radiation from sound
+- content: "(Revision of IEEE Std 187-1990) Abstract: Spurious radiation from sound
     and television broadcast receivers of the superheterodyne type are possible sources
     of interference with other radio services. This standard describes the potential
     sources of spurious radiation from receivers intended for the reception of sound
     and television broadcast, and the measurement methods for them."
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2004'
@@ -59,15 +66,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 187.2018
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - TV broadcasting
 - TV interference
@@ -83,5 +92,5 @@ keyword:
 - spurious emissions
 - television broadcast receivers
 ics:
-  code: 33.100.10
+- code: 33.100.10
   text: Emission

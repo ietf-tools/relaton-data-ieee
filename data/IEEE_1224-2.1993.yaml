@@ -1,12 +1,12 @@
 ---
 id: IEEE1224-2.1993
 title:
-  type: main
+- type: main
   content: IEEE Standard for Information Technology--Directory Services--Application
     Programming Interface (API) [Language Independent]
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/318499
+- content: https://ieeexplore.ieee.org/document/318499
   type: src
 type: standard
 docid:
@@ -25,29 +25,36 @@ date:
 - type: issued
   value: '1993-03-18'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-30'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Withdrawn Standard. A application program interface (API) to OSI directory
+- content: Withdrawn Standard. A application program interface (API) to OSI directory
     services is defined in terms that are independent of any particular programming
     language. The interface, which supports applications portability at the source-code
     level, is intended to be used by both applications developers and directory service
     implementors.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1994'
@@ -66,5 +73,5 @@ keyword:
 - ASN.1
 - API
 ics:
-  code: 35.100.70
+- code: 35.100.70
   text: Application layer

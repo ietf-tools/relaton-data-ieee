@@ -1,12 +1,12 @@
 ---
 id: ISO/IEC/IEEEP29119-3_FDIS.2021-06
 title:
-  type: main
+- type: main
   content: 'IEEE/ISO/IEC Approved Draft International Standard - Software and systems
     engineering -- Software testing -- Part 3: Test documentation'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9495333
+- content: https://ieeexplore.ieee.org/document/9495333
   type: src
 type: standard
 docid:
@@ -23,19 +23,23 @@ date:
 - type: issued
   value: '2021-09-23'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-07-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The purpose of the ISO/IEC/IEEE 29119 series of software testing standards
+- content: The purpose of the ISO/IEC/IEEE 29119 series of software testing standards
     is to define an internationally-agreed set of standards for software testing that
     can be used by any organization when performing any form of software testing.
     ISO/IEC/IEEE 29119-3 includes templates and examples of test documentation. The
@@ -50,27 +54,34 @@ abstract:
     and non-functional testing, manual and automated testing, and scripted and unscripted
     testing. The documentation templates defined in ISO/IEC/IEEE 29119-3 can be used
     in conjunction with any software development lifecycle model.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
-  - name: IEC
+  - name:
+    - ISO
+  - name:
+    - IEC
   from: '2021'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: ISO/IEC/IEEE 29119-3.2013
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -87,5 +98,5 @@ keyword:
 - Test Plan
 - verification and validation.
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

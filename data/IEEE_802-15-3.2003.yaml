@@ -1,14 +1,14 @@
 ---
 id: IEEE802-15-3.2003
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Information technology-- Local and metropolitan area
     networks-- Specific requirements-- Part 15.3: Wireless Medium Access Control (MAC)
     and Physical Layer (PHY) Specifications for High Rate Wireless Personal Area Networks
     (WPAN)'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1245785
+- content: https://ieeexplore.ieee.org/document/1245785
   type: src
 type: standard
 docid:
@@ -27,39 +27,46 @@ date:
 - type: issued
   value: '2003-06-12'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-11-10'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The protocol and compatible interconnection of data and multimedia communication
+- content: The protocol and compatible interconnection of data and multimedia communication
     equipment via 2.4 GHz radio transmissions in a Wireless Personal Area Network
     (WPAN) using low power and multiple modulation formats to support scalable data
     rates is defined in this standard. The Medium Access Control (MAC) sublayer protocol
     supports both isochronous and asynchronous data types
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2003'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 802-15-3.2016
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE 802.15 Standard
 - Wireless personal area networks
@@ -80,5 +87,5 @@ keyword:
 - OFDM
 - Orthogonal Frequency Division Multiplexing
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

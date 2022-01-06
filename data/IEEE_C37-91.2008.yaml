@@ -1,11 +1,11 @@
 ---
 id: IEEEC37-91.2008
 title:
-  type: main
+- type: main
   content: IEEE Guide for Protecting Power Transformers
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/4534870
+- content: https://ieeexplore.ieee.org/document/4534870
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '2008-01-31'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-01-27'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: This guide is intended to provide protection engineers and other readers
     with guidelines for protecting three-phase power transformers of more than 5 MVA
@@ -51,8 +55,10 @@ abstract:
     problems with the protection systems, including the behavior of current transformers
     during system faults, are discussed. Associated problems, such as fault clearing
     and reenergization, are discussed as well.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Revision of IEEE Std C37.91-2000. This guide is intended to provide protection
     engineers and other readers with guidelines for protecting three-phase power transformers
@@ -67,12 +73,15 @@ abstract:
     Technical problems with the protection systems, including the behavior of current
     transformers (CTs) during system faults, are discussed. Associated problems, such
     as fault clearing and re-energization, are discussed as well.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2008'
@@ -89,8 +98,10 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -110,5 +121,5 @@ keyword:
 - protection of transformers
 - volts per hertz protection
 ics:
-  code: 29.120.70
+- code: 29.120.70
   text: Relays

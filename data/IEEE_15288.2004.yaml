@@ -1,11 +1,11 @@
 ---
 id: IEEE15288.2004
 title:
-  type: main
+- type: main
   content: Adoption of ISO/IEC 15288:2002, Systems Engineering-System Life Cycle Processes
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1490129
+- content: https://ieeexplore.ieee.org/document/1490129
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '2004-12-08'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-05-02'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: This standard establishes a common framework for describing the life cycle
     of systems created by humans. It defines a set of processes and associated terminology.
@@ -47,8 +51,10 @@ abstract:
     customer satisfaction. This standard is identical with ISO/IEC 15288:2002 but
     contains an additional informative annex, Annex E, explaining the relationship
     of this standard to other IEEE standards
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: 'Superseded by ISO/IEC/15288:2008(E) (IEEE Std 15288-2008). IEEE adoption
     of ISO/IEC Std 15288-2002. This standard establishes a common framework for describing
@@ -60,17 +66,20 @@ abstract:
     ultimate goal of achieving customer satisfaction. This standard is identical with
     ISO/IEC 15288: 2002 but contains an additional informative annex, Annex E, explaining
     the relationship of this standard to other IEEE standards.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2005'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE Unapproved P15288/D-FDIS.2007
@@ -87,5 +96,5 @@ keyword:
 - life cycle processes
 - systems engineering
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

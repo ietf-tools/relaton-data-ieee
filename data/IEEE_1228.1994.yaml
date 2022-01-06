@@ -1,11 +1,11 @@
 ---
 id: IEEE1228.1994
 title:
-  type: main
+- type: main
   content: IEEE Standard for Software Safety Plans
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9097571
+- content: https://ieeexplore.ieee.org/document/9097571
   type: src
 type: standard
 docid:
@@ -24,31 +24,38 @@ date:
 - type: issued
   value: '1994-03-17'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-05-20'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The minimum acceptable requirements for the content of a software safety
+- content: The minimum acceptable requirements for the content of a software safety
     plan are established. This standard applies to the software safety plan used for
     the development, procurement, maintenance, and retirement of safety-critical software.
     This standard requires that the plan be prepared within the context of the system
     safety program. Only the safety aspects of the software are included. This standard
     does not contain special provisions required for software used in distributed
     systems or in parallel processors.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1994'
@@ -61,5 +68,5 @@ keyword:
 - Safety-critical software
 - Safety requirements
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

@@ -1,12 +1,12 @@
 ---
 id: IEEE382.2006
 title:
-  type: main
+- type: main
   content: IEEE Standard for Qualification of Safety-Related Actuators for Nuclear
     Power Generating Stations
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/4135881
+- content: https://ieeexplore.ieee.org/document/4135881
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2006-12-06'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-11-22'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: Direction for the implementation of the requirements of IEEE Std 323trade-2003
     as they apply to the specific features of safety-related actuator qualification
@@ -45,8 +49,10 @@ abstract:
     actuators, and actuator components, in Nuclear Power Generating Stations in order
     to demonstrate their ability to perform their intended safety functions under
     all required conditions.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Revision of IEEE Std 382-1996 Direction for the implementation of the requirements
     of IEEE Std 323TM-2003 as they apply to the specific features of safety-related
@@ -54,22 +60,25 @@ abstract:
     of safety-related actuators, and actuator components, in Nuclear Power Generating
     Stations in order to demonstrate their ability to perform their intended safety
     functions under all required conditions.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2007'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 382.2019
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Actuators
@@ -85,5 +94,5 @@ keyword:
 - safety-related actuators
 - SOV
 ics:
-  code: 27.120.10
+- code: 27.120.10
   text: Reactor engineering

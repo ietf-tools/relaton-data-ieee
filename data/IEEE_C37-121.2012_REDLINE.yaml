@@ -8,7 +8,7 @@ title:
   content: IEEE Guide for Switchgear - Unit Substation - Requirements - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6522444
+- content: https://ieeexplore.ieee.org/document/6522444
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '2012-12-05'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-05-31'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The basis for the coordination of equipment in unit substations by assisting
+- content: The basis for the coordination of equipment in unit substations by assisting
     in the selection of components is intended as the use of this guide. A variety
     of designs for unit substations are possible using various combinations of incoming
     sections, transformer sections, outgoing sections, and transition sections. It
@@ -46,25 +50,30 @@ abstract:
     standards for those sections. This guide covers three-phase unit substations for
     stepdown operation in the range of 112.5 kVA or greater at primary voltages of
     601 V through 38 kV.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2013'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: ANSI C37-121.1989
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE standards
@@ -100,5 +109,5 @@ keyword:
 - transition section
 - unit substation
 ics:
-  code: 29.130.10
+- code: 29.130.10
   text: High voltage switchgear and controlgear

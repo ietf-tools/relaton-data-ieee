@@ -1,12 +1,12 @@
 ---
 id: IEEE1547.2003
 title:
-  type: main
+- type: main
   content: IEEE Standard for Interconnecting Distributed Resources with Electric Power
     Systems
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1225051
+- content: https://ieeexplore.ieee.org/document/1225051
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '2003-06-12'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-03-25'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard is the first in the 1547 series of interconnection standards
+- content: This standard is the first in the 1547 series of interconnection standards
     and is a benchmark milestone demonstrating the open consensus process for standards
     development. Traditionally, utility electric power systems (EPS--grid or utility
     grid) were not designed to accommodate active generation and storage at the distribution
@@ -60,22 +64,25 @@ abstract:
     The stated requirements are universally needed for interconnection of distributed
     resources (DR), including synchronous machines, induction machines, or power inverters/converters
     and will be sufficient for most installations.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2003'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1547.2018
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Power systems
@@ -100,5 +107,5 @@ keyword:
 - regional
 - state standards synchronous machines testing utilities wind energy systems
 ics:
-  code: '27.100'
+- code: '27.100'
   text: Power stations in general

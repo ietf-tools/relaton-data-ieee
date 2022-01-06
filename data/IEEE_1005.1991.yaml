@@ -1,12 +1,12 @@
 ---
 id: IEEE1005.1991
 title:
-  type: main
+- type: main
   content: IEEE Standard Definitions and Characterization of Floating Gate Semiconductor
     Arrays
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/159369
+- content: https://ieeexplore.ieee.org/document/159369
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1991-06-27'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-11-13'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: An introduction to the physics unique to this type of memory and an overview
+- content: An introduction to the physics unique to this type of memory and an overview
     of typical array architectures are presented. The variations on the basic floating
     gate nonvolatile cell structure that have been used in commercially available
     devices are described. The various reliability considerations involved in these
@@ -51,12 +55,15 @@ abstract:
     effects that various forms of ionizing radiation may have on floating gate arrays
     and approaches to test for these effects are covered. The use of floating gate
     cells in nonmemory applications is briefly considered.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1991'
@@ -70,5 +77,5 @@ keyword:
 - Nonvolatile memory
 - Floating gate
 ics:
-  code: 31.080.30
+- code: 31.080.30
   text: Transistors

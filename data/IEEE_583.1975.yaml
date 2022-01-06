@@ -1,11 +1,11 @@
 ---
 id: IEEE583.1975
 title:
-  type: main
+- type: main
   content: IEEE Standard Modular Instrumentation and Digital Interface System (CAMAC)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7431915
+- content: https://ieeexplore.ieee.org/document/7431915
   type: src
 type: standard
 docid:
@@ -26,39 +26,46 @@ date:
 - type: issued
   value: '1975-02-27'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-03-11'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard is intended to serve as a basis for a range of modular instrumentation
+- content: This standard is intended to serve as a basis for a range of modular instrumentation
     capable of interfacing transducers and other devices to digital controllers for
     data and control. It consists of mechanical standards and signal standards that
     are sufficient to ensure physical and operational compatibility between units
     regardless of source.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1975'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: ANSI/IEEE 583.1982
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Instrumentation

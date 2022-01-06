@@ -1,11 +1,11 @@
 ---
 id: IEEEP1788-1/D-9.9.2017-06
 title:
-  type: main
+- type: main
   content: IEEE Approved Draft Standard for Interval Arithmetic (Simplified)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7987842
+- content: https://ieeexplore.ieee.org/document/7987842
   type: src
 type: standard
 docid:
@@ -22,19 +22,23 @@ date:
 - type: issued
   value: '2017-12-06'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-07-21'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard is a simplified version and a subset of the IEEE Std 1788TM-2015
+- content: This standard is a simplified version and a subset of the IEEE Std 1788TM-2015
     for Interval Arithmetic and includes those operations and features of the latter
     that in the the editors view are most commonly used in practice. IEEE Std 1788.1-2017
     specifies interval arithmetic operations based on intervals whose endpoints are
@@ -46,12 +50,15 @@ abstract:
     this standard aims to be minimalistic, yet to cover much of the functionality
     needed for interval computations. As such, it is more accessible and will be much
     easier to implement, and thus will speed up production of implementations.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2017'

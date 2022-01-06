@@ -1,11 +1,11 @@
 ---
 id: IEEEP2302/D-3.2021-10
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for Intercloud Interoperability and Federation (SIIF)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9574119
+- content: https://ieeexplore.ieee.org/document/9574119
   type: src
 type: standard
 docid:
@@ -22,29 +22,36 @@ date:
 - type: issued
   value: '2021'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-10-14'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard defines a functional model for federation based on the NIST
+- content: This standard defines a functional model for federation based on the NIST
     Cloud Federation Reference Architecture. This model allows a range of deployment
     topologies and governance. As a general federation model, it can be applied to
     many application domains using different implementation approaches. As such, it
     includes cloud-to-cloud federation and interoperability.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2021'
@@ -68,5 +75,5 @@ keyword:
 - Cloud Architecture
 - Information Sharing
 ics:
-  code: 01.040.11
+- code: 01.040.11
   text: Health care technology (Vocabularies)

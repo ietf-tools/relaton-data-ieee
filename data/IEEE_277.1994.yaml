@@ -1,11 +1,11 @@
 ---
 id: IEEE277.1994
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for Cement Plant Power Distribution
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/467461
+- content: https://ieeexplore.ieee.org/document/467461
   type: src
 type: standard
 docid:
@@ -24,29 +24,36 @@ date:
 - type: issued
   value: '1994-09-22'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'Electrical distribution systems in cement plants that would result in
+- content: 'Electrical distribution systems in cement plants that would result in
     satisfactory equipment utilization, reliability, performance, safety, and low
     maintenance-all at a reasonable cost are recommended in this IEEE standard. Power
     distribution for a new plant and for a plant extension are covered, as is distribution
     in quarries. Remarks: Superseded by IEEE Std 277-2007'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1994'
@@ -58,15 +65,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 277.2007
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Cement industry
 - IEEE standards
@@ -86,5 +95,5 @@ keyword:
 - primary distribution voltage
 - alternate power source
 ics:
-  code: 91.100.10
+- code: 91.100.10
   text: Cement. Gypsum. Lime. Mortar

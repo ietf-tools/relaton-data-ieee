@@ -1,12 +1,12 @@
 ---
 id: IEEE802-1AEbw.2013
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Local and metropolitan area networks&#8212;Media Access
     Control (MAC) Security Amendment 2: Extended Packet Numbering'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6461376
+- content: https://ieeexplore.ieee.org/document/6461376
   type: src
 type: standard
 docid:
@@ -27,46 +27,57 @@ date:
 - type: issued
   value: '2013-02-06'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-02-13'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The optional use of Cipher Suites that make use of a 64-bit (PN) to allow
     more than 232 MACsec protected frames to be sent with a single Secure Association
     Key are specified by this amendment.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: The optional use of Cipher Suites that make use of a 64-bit (PN) to allow
     more than 232 MACsec protected frames to be sent with a single Secure Association
     Key are specified by this amendment.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2013'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-1AE.2006
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE standards
@@ -93,5 +104,5 @@ keyword:
 - security
 - transparent bridging
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

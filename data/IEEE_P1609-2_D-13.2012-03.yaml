@@ -1,12 +1,12 @@
 ---
 id: IEEEP1609-2/D-13.2012-03
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for Wireless Access in Vehicular Environments - Security
     Services for Applications and Management Messages
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6172703
+- content: https://ieeexplore.ieee.org/document/6172703
   type: src
 type: standard
 docid:
@@ -21,43 +21,52 @@ date:
 - type: issued
   value: '2012-03-23'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
-language: en
-script: Latn
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard defines secure message formats and processing for use by
+- content: This standard defines secure message formats and processing for use by
     Wireless Access in Vehicular Environments (WAVE) devices, including methods to
     secure WAVE management messages and methods to secure application messages. It
     also describes administrative functions necessary to support the core security
     functions.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2012'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1609-2.2006
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Cryptography
@@ -69,5 +78,5 @@ keyword:
 - cryptography
 - wireless access in vehicular environments (WAVE)
 ics:
-  code: 35.240.60
+- code: 35.240.60
   text: IT applications in transport and trade

@@ -8,7 +8,7 @@ title:
   content: IEEE Guide for Differential and Polarizing Relay Circuit Testing - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7492158
+- content: https://ieeexplore.ieee.org/document/7492158
   type: src
 type: standard
 docid:
@@ -25,44 +25,53 @@ date:
 - type: issued
   value: '2015-09-03'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-06-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The issues concerning testing and verification of the correctness of differential
+- content: The issues concerning testing and verification of the correctness of differential
     and polarizing circuits are described and discussed in this guide. The intention
     of this guide is to help the reader to detect errors in the wiring of protective
     relays that might cause erroneous operations of protection systems. It is essential
     to follow systematic testing procedures and record the observations in a proper
     organized manner. The records should include documentation of all measurements
     and a comparison with the desired results.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2016'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE C37-103.2004
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -82,5 +91,5 @@ keyword:
 - relay testing
 - transformer protection
 ics:
-  code: 29.120.70
+- code: 29.120.70
   text: Relays

@@ -9,7 +9,7 @@ title:
     Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7484241
+- content: https://ieeexplore.ieee.org/document/7484241
   type: src
 type: standard
 docid:
@@ -26,40 +26,49 @@ date:
 - type: issued
   value: '2015-12-05'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-06-02'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: IEEE Std 1149.1(TM) is augmented by this standard to improve the ability
+- content: IEEE Std 1149.1(TM) is augmented by this standard to improve the ability
     for testing differential and/or ac-coupled interconnections between integrated
     circuits on circuit boards and systems.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2016'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1149-6.2003
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -79,5 +88,5 @@ keyword:
 - printed circuit boards
 - test
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

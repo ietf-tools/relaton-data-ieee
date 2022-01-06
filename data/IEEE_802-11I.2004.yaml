@@ -1,14 +1,14 @@
 ---
 id: IEEE802-11i.2004
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for information technology-Telecommunications and information
     exchange between systems-Local and metropolitan area networks-Specific requirements-Part
     11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications:
     Amendment 6: Medium Access Control (MAC) Security Enhancements'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1318903
+- content: https://ieeexplore.ieee.org/document/1318903
   type: src
 type: standard
 docid:
@@ -27,19 +27,23 @@ date:
 - type: issued
   value: '2004-06-24'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-12-08'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This amendment defines security mechanisms for IEEE 802.11. It includes
+- content: This amendment defines security mechanisms for IEEE 802.11. It includes
     a definition of WEP for backward compatibility with the original standard, IEEE
     Std 802.11, 1999 Edition. It defines TKIP and CCMP, which provide more robust
     data protection mechanisms than WEP affords. This amendment introduces the concept
@@ -47,25 +51,30 @@ abstract:
     protocols called the 4-Way Handshake and the Group Key Handshake. Finally, it
     specifies how IEEE 802.1X may be utilized by IEEE 802.11 LANs to effect authentication.
     An Interpretation is available at http://standards.ieee.org/findstds/interps/802.11i-2004.html
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2004'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: ANSI/IEEE 802-11.1999
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - Patents

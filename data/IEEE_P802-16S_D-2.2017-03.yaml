@@ -1,13 +1,13 @@
 ---
 id: IEEEP802-16s/D-2.2017-03
 title:
-  type: main
+- type: main
   content: 'IEEE Draft Standard for Air Interface for Broadband Wireless Access Systems
     - Draft Amendment 1 to IEEE Std 802.16-9 20xx: Fixed and Mobile Wireless Access
     in Channel Bandwidth up to 1.25 MHz'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7900318
+- content: https://ieeexplore.ieee.org/document/7900318
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '2017-09-28'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-04-14'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: WirelessMAN-OFDMA TDD operation in exclusively licensed spectrum with channel
+- content: WirelessMAN-OFDMA TDD operation in exclusively licensed spectrum with channel
     bandwidth from 100 kHz up to 1.25 MHz, including 1 MHz explicitly, is specified.
     This amendment targets operation in the 700 MHz band but also supports operation
     in other VHF/UHF bands. The project amends Clause 12 of IEEE Std 802.16-2012,
@@ -44,27 +48,32 @@ abstract:
     the narrower channel widths. The range and data rate supported by the added profile
     are commensurate with those of the base standard, as scaled by the reduced channel
     bandwidth.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2017'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-16.2012
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Wireless LAN
@@ -86,5 +95,5 @@ keyword:
 - VHF/UHF bands
 - WirelessMAN(R)
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

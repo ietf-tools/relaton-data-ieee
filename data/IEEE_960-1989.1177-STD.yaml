@@ -1,12 +1,12 @@
 ---
 id: IEEE960-1989.1177-Std
 title:
-  type: main
+- type: main
   content: IEEE Standard FASTBUS Modular High-Speed Data Acquisition and Control System
     and IEEE FASTBUS Standard Routines
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/91628
+- content: https://ieeexplore.ieee.org/document/91628
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1989-08-10'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-07-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: In IEEE Std 960-1989, IEEE Standard FASTBUS Modular High-speed Data Acquisition
+- content: In IEEE Std 960-1989, IEEE Standard FASTBUS Modular High-speed Data Acquisition
     and Control System, mechanical, signal, electrical, and protocol specifications
     are given for a modular data bus system, which, while allowing equipment designers
     a wide choice of solutions, ensure compatibility of all designs that obey the
@@ -46,25 +50,30 @@ abstract:
     normally in association with computers or other automatic data processors. IEEE
     Std 1177-1989, ZEEE FASTBUS Standard Routines, defines standard software routines
     for use with the system defined in IEEE Std 960-1989.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1990'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: ANSI/IEEE 960.1986
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - Computer interfaces
@@ -72,5 +81,5 @@ keyword:
 - data acquisition
 - FASTBUS
 ics:
-  code: '35.160'
+- code: '35.160'
   text: Microprocessor systems

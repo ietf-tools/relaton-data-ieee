@@ -10,7 +10,7 @@ title:
     Lines - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7342864
+- content: https://ieeexplore.ieee.org/document/7342864
   type: src
 type: standard
 docid:
@@ -27,19 +27,23 @@ date:
 - type: issued
   value: '2014-12-10'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-12-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'Electrical faults on transmission and distribution lines are detected
+- content: 'Electrical faults on transmission and distribution lines are detected
     and isolated by system protective devices. Once the fault has been cleared, outage
     times can be reduced if the location of the fault can be determined more quickly.
     The techniques and application considerations for determining the location of
@@ -50,25 +54,30 @@ abstract:
     lines, parallel lines, untransposed lines, underground cables, fault resistance
     effects, and other power system conditions, including those unique to distribution
     systems.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2015'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE C37-114.2004
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -85,5 +94,5 @@ keyword:
 - system protection
 - travelling waves
 ics:
-  code: 29.240.20
+- code: 29.240.20
   text: Power transmission and distribution lines

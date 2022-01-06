@@ -1,11 +1,11 @@
 ---
 id: ANSI/IEEE1000.1987
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for an 8-Bit Backplane Interface: STEbus'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1388025
+- content: https://ieeexplore.ieee.org/document/1388025
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1987-12-10'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-03-04'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'Methods are established for performance testing, calibration, and use
+- content: 'Methods are established for performance testing, calibration, and use
     of sodium iodide detector systems for the measurement of gamma-ray emission rates
     of radionuclides, assay for radioactivity, and the determination of gamma-ray
     energies. Both energy calibration and efficiency calibration are covered. Three
@@ -45,12 +49,15 @@ abstract:
     which employs a system with a counting window that establishes upper and lower
     energy boundaries; and multichannel analyzer counting, which employs a system
     utilizing multiple counting windows.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1988'
@@ -61,5 +68,5 @@ keyword:
 - Microcomputer interfaces
 - Data buses
 ics:
-  code: '35.160'
+- code: '35.160'
   text: Microprocessor systems

@@ -8,7 +8,7 @@ title:
   content: IEEE Standard for Test Access Port and Boundary-Scan Architecture - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6759738
+- content: https://ieeexplore.ieee.org/document/6759738
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '2013-02-06'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-03-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Circuitry that may be built into an integrated circuit to assist in the
+- content: Circuitry that may be built into an integrated circuit to assist in the
     test, maintenance and support of assembled printed circuit boards and the test
     of internal circuits is defined. The circuitry includes a standard interface through
     which instructions and test data are communicated. A set of test features is defined,
@@ -52,25 +56,30 @@ abstract:
     of the component-specific aspects of such testability features, and a second language
     is defined that allows rigorous procedural description of how the testability
     features may be used.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2013'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1149-1.2001
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE standards

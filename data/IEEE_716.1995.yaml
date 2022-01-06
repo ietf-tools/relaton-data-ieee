@@ -1,12 +1,12 @@
 ---
 id: IEEE716.1995
 title:
-  type: main
+- type: main
   content: IEEE Standard Test Language for All Systems - Common/Abbreviated Test Language
     for All Systems (C/ATLAS)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1582053
+- content: https://ieeexplore.ieee.org/document/1582053
   type: src
 type: standard
 docid:
@@ -25,40 +25,49 @@ date:
 - type: issued
   value: '1995-03-16'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-03-14'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: A high order language for testing is defined. This language is designed
+- content: A high order language for testing is defined. This language is designed
     to describe tests in terms that are independent of any specific test system, and
     has been constrained to ensure that it can be implemented on automatic test equipement.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1995'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 716.1989
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - abbreviated
@@ -68,5 +77,5 @@ keyword:
 - unit under test
 - UUT
 ics:
-  code: '35.060'
+- code: '35.060'
   text: Languages used in information technology

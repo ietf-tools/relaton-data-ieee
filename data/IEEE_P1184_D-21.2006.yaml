@@ -1,11 +1,11 @@
 ---
 id: IEEEP1184/D-21.2006
 title:
-  type: main
+- type: main
   content: IEEE Draft Guide for Batteries for Uninterruptible Power Supply Systems
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/4152618
+- content: https://ieeexplore.ieee.org/document/4152618
   type: src
 type: standard
 docid:
@@ -22,46 +22,55 @@ date:
 - type: issued
   value: '2006-03-30'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-07-24'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Various battery systems are discussed so that the user can make informed
+- content: Various battery systems are discussed so that the user can make informed
     decisions on selection, installation design, installation, maintenance, and testing
     of stationary standby batteries used in uninterruptible power supply (UPS) systems.
     This guide describes how the UPS battery charging and converter components can
     relate to the selection of the battery systems. Design requirements of the UPS
     components are beyond the scope of this document. Battery back-up systems for
     dc-output rectifiers are also beyond the scope of this document.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2006'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1184.1994
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Uninterruptible power systems
@@ -75,5 +84,5 @@ keyword:
 - valve-regulated leadacid (VRLA)
 - vented lead-acid batteries (VLA)
 ics:
-  code: 29.160.20
+- code: 29.160.20
   text: Generators

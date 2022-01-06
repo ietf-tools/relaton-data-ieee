@@ -1,12 +1,12 @@
 ---
 id: IEEE1410.2004
 title:
-  type: main
+- type: main
   content: IEEE Guide for Improving the Lightning Performance of Electric Power Overhead
     Distribution Lines
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1315281
+- content: https://ieeexplore.ieee.org/document/1315281
   type: src
 type: standard
 docid:
@@ -25,26 +25,33 @@ date:
 - type: issued
   value: '2004-02-09'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-12-04'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Measures for improving the lightning protection performance of schemes
+- content: Measures for improving the lightning protection performance of schemes
     applied to overhead power distribution lines are discussed in this guide.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2004'
@@ -56,15 +63,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1410.2010
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Grounding
@@ -80,5 +89,5 @@ keyword:
 - power system protection
 - protection performance improvement
 ics:
-  code: 29.240.20
+- code: 29.240.20
   text: Power transmission and distribution lines

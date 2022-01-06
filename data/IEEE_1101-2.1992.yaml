@@ -1,12 +1,12 @@
 ---
 id: IEEE1101-2.1992
 title:
-  type: main
+- type: main
   content: IEEE Standard for Mechanical Core Specifications for Conduction-Cooled
     Eurocards
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8960258
+- content: https://ieeexplore.ieee.org/document/8960258
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1992-06-18'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-01-14'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Mechanical characteristics of conduction-cooled versions of Eurocard-based
+- content: Mechanical characteristics of conduction-cooled versions of Eurocard-based
     circuit card assemblies are described. This specification is applicable to, but
     not limited to, the VMEbus standard, an internal interconnect (backplane) bus
     intended for connecting processing elements to their immediate fundamental resources.
@@ -45,12 +49,15 @@ abstract:
     card assemblies in a format suitable for military and rugged applications and
     to ensure their compatibility with commercial, double-height 16 mm, Eurocard chassis.
     Reaffirmed 2001
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1992'
@@ -62,5 +69,5 @@ keyword:
 - Circuit card assemblies
 - Card slot requirements
 ics:
-  code: '35.160'
+- code: '35.160'
   text: Microprocessor systems

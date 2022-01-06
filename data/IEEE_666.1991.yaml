@@ -1,11 +1,11 @@
 ---
 id: IEEE666.1991
 title:
-  type: main
+- type: main
   content: IEEE Design Guide for Electric Power Service Systems for Generating Stations
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/239615
+- content: https://ieeexplore.ieee.org/document/239615
   type: src
 type: standard
 docid:
@@ -24,41 +24,48 @@ date:
 - type: issued
   value: '1991-06-27'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-07-22'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This guide applies to station service systems that supply electric power
+- content: This guide applies to station service systems that supply electric power
     to auxiliary loads for electric power generating stations. The discussions and
     recommendations contained herein provide the practices, criteria, and range of
     system parameters that relate to the service system requirements and assist in
     the application of existing engineering documents. This guide is not a handbook
     of design data; however, it explains what is good practice for the many different
     types of electric power service systems for generating stations.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1993'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 666.2007
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Power supplies
 - Standards
@@ -70,5 +77,5 @@ keyword:
 - Short circuit
 - Auxiliary systems
 ics:
-  code: '27.100'
+- code: '27.100'
   text: Power stations in general

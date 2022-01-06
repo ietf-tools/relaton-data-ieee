@@ -1,12 +1,12 @@
 ---
 id: IEC62032.2005
 title:
-  type: main
+- type: main
   content: 'IEC 62032 Ed.1 (IEEE Std C57.135(TM)-2001): Guide for the Application,
     Specification and Testing of Phase-Shifting Transformers'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/4140771
+- content: https://ieeexplore.ieee.org/document/4140771
   type: src
 type: standard
 docid:
@@ -25,39 +25,46 @@ date:
 - type: issued
   value: '2012'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2012-07-12'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Theory, application of phase-shifting transformers, and the difference
+- content: Theory, application of phase-shifting transformers, and the difference
     of specification and testing to standard system transformers are described. Various
     types of phase-shifting transformers and how to select the optimal design to achieve
     required control of power flow are covered. An understanding of the terminology,
     types, construction, and testing specifical to phaseshifting transformers is provided.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2005'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEC 62032.2012
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEC Standards
 - IEC
@@ -77,5 +84,5 @@ keyword:
 - special tests You will receive an email from Customer Service with the URL needed
   to access
 ics:
-  code: '29.180'
+- code: '29.180'
   text: Transformers. Reactors

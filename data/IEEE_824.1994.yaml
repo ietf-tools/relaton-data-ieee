@@ -1,11 +1,11 @@
 ---
 id: IEEE824.1994
 title:
-  type: main
+- type: main
   content: IEEE Standard for Series Capacitors in Power Systems
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/392631
+- content: https://ieeexplore.ieee.org/document/392631
   type: src
 type: standard
 docid:
@@ -24,31 +24,38 @@ date:
 - type: issued
   value: '1994-06-14'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Capacitors and assemblies of capacitors, insulation means, switching, protective
+- content: Capacitors and assemblies of capacitors, insulation means, switching, protective
     equipment, and control accessories that form a complete bank for inserting in
     series with a transmission line are applied. Included are requirements for safety
     rating, and protective device levels. Functional requirements for alarm devices,
     maintenance, design and production tests, and a guide for operation are included.
     Functional requirements for protective devices are addressed, including varistors
     and bypass gaps.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1994'
@@ -60,15 +67,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 824.2004
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Capacitors
@@ -82,5 +91,5 @@ keyword:
 - Self-triggered gap
 - Force-triggered gap
 ics:
-  code: 31.060.99
+- code: 31.060.99
   text: Other capacitors

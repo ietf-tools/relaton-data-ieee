@@ -1,12 +1,12 @@
 ---
 id: IEEEC37-90-2.1995
 title:
-  type: main
+- type: main
   content: IEEE Standard for Withstand Capability of Relay Systems to Radiated Electromagnetic
     Interference from Transceivers
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8684481
+- content: https://ieeexplore.ieee.org/document/8684481
   type: src
 type: standard
 docid:
@@ -25,27 +25,34 @@ date:
 - type: issued
   value: '1995-03-16'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: A design test to evaluate the susceptibility of protective relays to single-frequency
+- content: A design test to evaluate the susceptibility of protective relays to single-frequency
     electromagnetic fields in the radio frequency domain, such as those generated
     by portable or mobile radio transceivers is established.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1995'
@@ -57,8 +64,10 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
@@ -70,7 +79,7 @@ relation:
     formattedref:
       content: IEEE C37-90-2.2004
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - electromagnetic compatibility
 - protective relays
@@ -79,5 +88,5 @@ keyword:
 - relay systems
 - transceivers
 ics:
-  code: 29.120.70
+- code: 29.120.70
   text: Relays

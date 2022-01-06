@@ -1,11 +1,11 @@
 ---
 id: ANSI/IEEE759.1984
 title:
-  type: main
+- type: main
   content: IEEE Standard Test Procedures for Semiconductor X-Ray Energy Spectrometers
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/576895
+- content: https://ieeexplore.ieee.org/document/576895
   type: src
 type: standard
 docid:
@@ -24,30 +24,37 @@ date:
 - type: issued
   value: '1981-12-17'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-02-26'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Test procedures for X-ray spectrometers consisting of a semiconductor radiation
+- content: Test procedures for X-ray spectrometers consisting of a semiconductor radiation
     detector assembly and signal processing electronics interfaced to a pulse-height
     analyzer/computer are presented. Energy resolution, spectral distortion, pulse-height
     linearity, counting rate effects, overload effects, pulse-height stability, and
     efficiency are covered. Test procedures for pulse-height analyzers and computers
     are not covered.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1984'
@@ -64,5 +71,5 @@ keyword:
 - dectectors
 - X-ray spectroscopy
 ics:
-  code: '17.240'
+- code: '17.240'
   text: Radiation measurements

@@ -1,13 +1,13 @@
 ---
 id: ISO/IEEE11073-20702.2018
 title:
-  type: main
+- type: main
   content: 'ISO/IEEE International Standard for Health informatics -- Point-of-care
     medical device communication -- Part 20702: Medical devices communication profile
     for web services'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8472336
+- content: https://ieeexplore.ieee.org/document/8472336
   type: src
 type: standard
 docid:
@@ -28,17 +28,21 @@ date:
 - type: issued
   value: '2018'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-09-25'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: Within the context of the ISO/IEEE 11073 family of standards for point-of-care
     (PoC)medical device communication, a communication protocol specification for
@@ -46,8 +50,10 @@ abstract:
     exchange data, or safely control networked PoC medical devices by profiling Web
     Service specifications, is defined by this standard. Additional Web Service specifications
     are part of this standard.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Within the context of the ISO/IEEE 11073 family of standards for point-of-care
     (PoC)medical device communication, a communication protocol specification for
@@ -55,18 +61,22 @@ abstract:
     exchange data, or safely control networked PoC medical devices by profiling Web
     Service specifications, is defined by this standard. Additional Web Service specifications
     are part of this standard.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
+  - name:
+    - ISO
   from: '2018'
 relation:
-  type: adoptedFrom
+- type: adoptedFrom
   bibitem:
     formattedref:
       content: IEEE 11073-20702.2016
@@ -96,5 +106,5 @@ keyword:
 - Streaming Web Services
 - WS-Discovery
 ics:
-  code: 35.240.80
+- code: 35.240.80
   text: IT applications in health care technology

@@ -1,11 +1,11 @@
 ---
 id: IEEEP2410/D-4.2019-01
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for Biometric Open Protocol
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8610445
+- content: https://ieeexplore.ieee.org/document/8610445
   type: src
 type: standard
 docid:
@@ -22,19 +22,23 @@ date:
 - type: issued
   value: '2019-03-21'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-01-11'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Identity assertion, role gathering, multilevel access control, assurance,
+- content: Identity assertion, role gathering, multilevel access control, assurance,
     and auditing are provided by the Biometric Open Protocol Standard (BOPS). An implementation
     of the BOPS III spec is described, which includes both the software running on
     the client device as well as the server. Pluggable components are allowed to replace
@@ -43,27 +47,32 @@ abstract:
     appropriate security to both development and production systems is offered through
     the BOPS implementation functionality. Homomorphic encryption and a tremendous
     simplification of the API are also described.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2019'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 2410.2017
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Biometrics (access control)
@@ -74,5 +83,5 @@ keyword:
 - identification
 - and liveness.
 ics:
-  code: 35.240.15
+- code: 35.240.15
   text: Identification cards. Chip cards. Biometrics

@@ -1,12 +1,12 @@
 ---
 id: IEEEC37-04.2018
 title:
-  type: main
+- type: main
   content: IEEE Standard for Ratings and Requirements for AC High-Voltage Circuit
     Breakers with Rated Maximum Voltage Above 1000 V
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8726456
+- content: https://ieeexplore.ieee.org/document/8726456
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2018-12-05'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-05-30'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The rating structure for all high-voltage circuit breakers, which include
     all voltage ratings above 1000 V ac and comprise both indoor and outdoor types,
@@ -50,8 +54,10 @@ abstract:
     current, transient recovery voltage, and capacitor switching, plus associated
     capabilities such as mechanical endurance, load current, and out-of-phase switching.
     Generator circuit breakers are covered by IEC/IEEE Std 62271-37-013.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: The rating structure for all high-voltage circuit breakers, which include
     all voltage ratings above 1000 V ac and comprise both indoor and outdoor types,
@@ -64,25 +70,30 @@ abstract:
     current, transient recovery voltage, and capacitor switching, plus associated
     capabilities such as mechanical endurance, load current, and out-of-phase switching.
     Generator circuit breakers are covered by IEC/IEEE Std 62271-37-013.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2018'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE C37-04.1999
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -106,5 +117,5 @@ keyword:
 - short-line fault
 - transient recovery voltage
 ics:
-  code: 29.130.10
+- code: 29.130.10
   text: High voltage switchgear and controlgear

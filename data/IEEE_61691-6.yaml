@@ -1,12 +1,12 @@
 ---
 id: IEEE61691-6
 title:
-  type: main
+- type: main
   content: 'IEC/IEEE International Standard - Behavioural languages - Part 6: VHDL
     Analog and Mixed-Signal Extensions'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6489996
+- content: https://ieeexplore.ieee.org/document/6489996
   type: src
 type: standard
 docid:
@@ -25,35 +25,43 @@ date:
 - type: issued
   value: '2009'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-03-28'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard defines the IEEE 1076.1 language, a hardware description
+- content: This standard defines the IEEE 1076.1 language, a hardware description
     language for the description and the simulation of analog, digital, and mixed-signal
     systems. The language, also informally known as VHDL-AMS, is built on IEEE Std
     1076(TM)-2002 (VHDL) and extends it with additions and changes to provide capabilities
     of writing and simulating analog and mixed-signal models.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: IEC
+  - name:
+    - IEC
   from: '2009'
 relation:
-  type: adoptedFrom
+- type: adoptedFrom
   bibitem:
     formattedref:
       content: IEEE 1076-1.2007

@@ -1,11 +1,11 @@
 ---
 id: IEEE960.1993
 title:
-  type: main
+- type: main
   content: 12. Signal Characteristics
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/476770
+- content: https://ieeexplore.ieee.org/document/476770
   type: src
 type: standard
 docid:
@@ -22,19 +22,24 @@ date:
 - type: issued
   value: '1993-12-02'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
-language: en
-script: Latn
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1994'
@@ -46,8 +51,10 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
@@ -55,5 +62,5 @@ relation:
       content: IEEE 960/1177.1993
       format: text/plain
 ics:
-  code: '35.200'
+- code: '35.200'
   text: Interface and interconnection equipment

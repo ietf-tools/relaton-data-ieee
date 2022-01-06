@@ -1,12 +1,12 @@
 ---
 id: IEEE1110.2002
 title:
-  type: main
+- type: main
   content: IEEE Guide for Synchronous Generator Modeling Practices and Applications
     in Power System Stability Analyses
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1251520
+- content: https://ieeexplore.ieee.org/document/1251520
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '2002-11-11'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-03-03'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Revision of IEEE Std 1110-1991. Reaffirmed September 2007. Categorizes
+- content: Revision of IEEE Std 1110-1991. Reaffirmed September 2007. Categorizes
     three direct-axis and four quadrature-axis models, along with the basic transient
     reactance model. Discusses some of the assumptions made in using various models
     and presents the fundamental equations and concepts involved in generator/system
@@ -57,30 +61,35 @@ abstract:
     another for correct generator/excitation system interface modeling, Suggestions
     for modeling of negative field currents and other field circuit discontinuities
     are included.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2003'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1110.1991
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - modeling practices
 - saturation practices
 - stability data determination and application
 ics:
-  code: 29.160.20
+- code: 29.160.20
   text: Generators

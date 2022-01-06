@@ -1,11 +1,11 @@
 ---
 id: IEEE1616.2021
 title:
-  type: main
+- type: main
   content: IEEE Standard for Motor Vehicle Event Data Recorder (MVEDR)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9654153
+- content: https://ieeexplore.ieee.org/document/9654153
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '2021-09-23'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-12-16'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Export data related to motor vehicle pre-defined events in usage history
+- content: Export data related to motor vehicle pre-defined events in usage history
     is collected, recorded, stored, and exported by motor vehicle event data recorders
     (MVEDRs). A protocol for MVEDR output data compatibility and export protocols
     of MVEDR data elements is defined by this standard. A motor vehicle event data
@@ -46,25 +50,30 @@ abstract:
     establishing a chain of custody link. This standard is without prejudice to requirements
     of national or regional laws related to privacy, data protection, and personal
     data processing.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2021'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1616.2004
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -110,5 +119,5 @@ keyword:
 - vehicle identification number (VIN) tampering
 - vehicle identification number (VIN) theft.
 ics:
-  code: 43.040.15
+- code: 43.040.15
   text: Car informatics. On board computer systems

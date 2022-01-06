@@ -1,12 +1,12 @@
 ---
 id: ANSI/IEEE37-011.1979
 title:
-  type: main
+- type: main
   content: IEEE Application Guide for Transient Recovery Voltage for AC High-Voltage
     Circuit Breakers Rated on a Symmetrical Current Basis
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/573174
+- content: https://ieeexplore.ieee.org/document/573174
   type: src
 type: standard
 docid:
@@ -25,41 +25,48 @@ date:
 - type: issued
   value: '1977-06-02'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Superseded by C37.011-1994. Transient recovery voltage requirements for
+- content: Superseded by C37.011-1994. Transient recovery voltage requirements for
     AC high-voltage circuit breakers rated above 1000 V and on a symmetrical current
     basis are addressed. The effect of circuit parameters and the circuit breaker
     on the transient recovery voltage is considered, and transient recovery voltage
     tests are specified. Circuit breaker rating and application, calculation of transient
     recovery voltages, a short method of calculating TRV limits, and typical values
     of capacitance and its calculation for various equipment are covered.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1980'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE C37-011.1994
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Circuit breakers
 - ANSI
@@ -69,5 +76,5 @@ keyword:
 - Voltage measurement
 - C37.011
 ics:
-  code: 29.120.40
+- code: 29.120.40
   text: Switches

@@ -1,12 +1,12 @@
 ---
 id: ISO/IEC/IEEECDP26513/D-1.2015
 title:
-  type: main
+- type: main
   content: ISO/IEC/IEEE International Draft Standard - Systems and Software Engineering
     -- Requirements for Testers and Reviewers of User Documentation
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7243267
+- content: https://ieeexplore.ieee.org/document/7243267
   type: src
 type: standard
 docid:
@@ -23,19 +23,23 @@ date:
 - type: issued
   value: '2017-06-15'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-09-04'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document supports the need for software users to receive consistent,
+- content: This document supports the need for software users to receive consistent,
     complete, accurate, and usable documentation. This document was developed to assist
     those who review, assess, and test software user documentation as part of the
     software lifecycle process. It is not limited to the review and test phase of
@@ -49,29 +53,36 @@ abstract:
     use by all types of organizations, whether or not a dedicated documentation department
     is present. Readers are assumed to have experience with or general knowledge of
     reviewing and testing processes.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
-  - name: IEC
+  - name:
+    - ISO
+  - name:
+    - IEC
   from: '2015'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 26513.2010
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - ISO Standards
@@ -84,5 +95,5 @@ keyword:
 - testing and reviewing user documentation
 - usability testing
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

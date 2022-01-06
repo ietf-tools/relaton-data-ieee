@@ -1,7 +1,7 @@
 ---
 id: IEEE802-3ab.1999
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Information Technology - Telecommunications and information
     exchange between systems - Local and Metropolitan Area Networks - Part 3: Carrier
     Sense Multiple Access with Collision Detection (CSMA/CD) Access Method and Physical
@@ -9,7 +9,7 @@ title:
     Operation over 4 pair of Category 5 Balanced Copper Cabling, Type 1000BASE-T'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/798775
+- content: https://ieeexplore.ieee.org/document/798775
   type: src
 type: standard
 docid:
@@ -28,43 +28,52 @@ date:
 - type: issued
   value: '1999-06-26'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-06-22'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'Superseded by IEEE Std 802.3-2002. This IEEE Standards product is part
+- content: 'Superseded by IEEE Std 802.3-2002. This IEEE Standards product is part
     of the 802 Family on LAN/MAN. Abstract: Type 1000BASE-T PCS, type 1000BASE-T PMA
     sublayer, and type 1000BASE-T Medium Dependent Interface (MDI) are defined. This
     supplement provides fully functional, electrical and mechanical specifications
     for the type 1000BASE-T PCS, PMA, and MDI. This supplement also specifies the
     baseband medium used with 1000BASE-T.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1999'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: ANSI/IEEE 802-3.1985
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE standards

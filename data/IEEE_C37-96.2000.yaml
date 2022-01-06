@@ -1,11 +1,11 @@
 ---
 id: IEEEC37-96.2000
 title:
-  type: main
+- type: main
   content: IEEE Guide for AC Motor Protection
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/868607
+- content: https://ieeexplore.ieee.org/document/868607
   type: src
 type: standard
 docid:
@@ -24,28 +24,35 @@ date:
 - type: issued
   value: '2000-03-30'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-02-21'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Generally accepted methods of protection for ac motors are provided. This
+- content: Generally accepted methods of protection for ac motors are provided. This
     guide identi-fies and summarizes the functions necessary for adequate protection
     of motors based on type, size,and application. This guide does not purport to
     detail the protective requirements of all motors inevery situation.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2000'
@@ -57,15 +64,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE C37-96.2012
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - AC motors
 - ac motor protection
@@ -76,5 +85,5 @@ keyword:
 - synchronous motor protection
 - wound rotor motor protection
 ics:
-  code: 29.160.30
+- code: 29.160.30
   text: Motors

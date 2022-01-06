@@ -1,12 +1,12 @@
 ---
 id: IEEEP802-1Qcz/D-2.0.2021-01
 title:
-  type: main
+- type: main
   content: 'IEEE Draft Standard for Local and Metropolitan Area Networks--Bridges
     and Bridged Networks Amendment: Congestion Isolation'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9334485
+- content: https://ieeexplore.ieee.org/document/9334485
   type: src
 type: standard
 docid:
@@ -23,40 +23,49 @@ date:
 - type: issued
   value: '2021'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-01-22'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This amendment to IEEE Std 802.1Q&#8482;-2018 specifies protocols, procedures
+- content: This amendment to IEEE Std 802.1Q&#8482;-2018 specifies protocols, procedures
     and managed objects that support the isolation of congesting data flows within
     data center environments.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2021'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-1Q.2018
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -76,5 +85,5 @@ keyword:
 - congestion
 - congestion isolation.
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

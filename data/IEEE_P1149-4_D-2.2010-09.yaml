@@ -1,11 +1,11 @@
 ---
 id: IEEEP1149-4/D-2.2010-09
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for a Mixed-Signal Test Bus
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5598762
+- content: https://ieeexplore.ieee.org/document/5598762
   type: src
 type: standard
 docid:
@@ -20,30 +20,37 @@ date:
 - type: issued
   value: '2010-10-07'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
-language: en
-script: Latn
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The testability structure for digital circuits described in IEEE Std 1149.1
+- content: The testability structure for digital circuits described in IEEE Std 1149.1
     has been extended to provide similar facilities for mixed-signal circuits. The
     architecture is described, together with the means of control of and access to
     both analog and digital test data. Sample implementation and application details
     (which are not part of the standard) are included for illustration. Also, extensions
     to the standard BSDL are defined that allow description of key component-specific
     aspects of such testability features.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2010'
@@ -59,5 +66,5 @@ keyword:
 - in-circuit test
 - mixed-signal test
 ics:
-  code: '31.180'
+- code: '31.180'
   text: Printed circuits and boards

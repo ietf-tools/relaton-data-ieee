@@ -1,11 +1,11 @@
 ---
 id: IEEE896-9.1994
 title:
-  type: main
+- type: main
   content: IEEE Standard for Fault Tolerant Extensions to the Futurebus+(R) Architecture
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/476640
+- content: https://ieeexplore.ieee.org/document/476640
   type: src
 type: standard
 docid:
@@ -26,19 +26,23 @@ date:
 - type: issued
   value: '1994-12-13'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-10-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard is one in a family of Futurebus+TM standards. The Futurebus+
+- content: This standard is one in a family of Futurebus+TM standards. The Futurebus+
     standards provide a set of tools with which to implement a bus architecture with
     performance and cost scalability over time for multiple generations of single-
     and multiple-bus multiprocessor systems. This standard provides fault tolerant
@@ -47,12 +51,15 @@ abstract:
     When used in conjunction with other IEEE standards, the details to develop modular,
     open-architecture-based systems fulfilling user needs across a wide computing
     spectrum are available.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1995'
@@ -68,5 +75,5 @@ keyword:
 - Futurebus+
 - Multiprocessor systems
 ics:
-  code: '35.160'
+- code: '35.160'
   text: Microprocessor systems

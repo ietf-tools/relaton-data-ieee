@@ -8,7 +8,7 @@ title:
   content: IEEE Standard for Software Quality Assurance Processes - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6894541
+- content: https://ieeexplore.ieee.org/document/6894541
   type: src
 type: standard
 docid:
@@ -25,42 +25,51 @@ date:
 - type: issued
   value: '2014-03-27'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-09-09'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Requirements for initiating, planning, controlling, and executing the Software
+- content: Requirements for initiating, planning, controlling, and executing the Software
     Quality Assurance processes of a software development or maintenance project are
     established in this standard. This standard is harmonized with the software life
     cycle process of ISO/IEC/IEEE 12207:2008 and the information content requirements
     of ISO/IEC/IEEE 15289:2011.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2014'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 730.2002
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE standards
@@ -80,5 +89,5 @@ keyword:
 - SQA
 - standard
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

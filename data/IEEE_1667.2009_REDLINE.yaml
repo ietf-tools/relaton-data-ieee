@@ -10,7 +10,7 @@ title:
     Devices - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5953417
+- content: https://ieeexplore.ieee.org/document/5953417
   type: src
 type: standard
 docid:
@@ -29,19 +29,23 @@ date:
 - type: issued
   value: '2009-11-09'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-08-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This project defines a standard protocol for secure authentication and
+- content: This project defines a standard protocol for secure authentication and
     creation of trust between a secure host and a directly attached Transient and
     other Storage Devices, such as a USB flash drive, portable hard drive, or cellular
     phone. The protocol has only an indirect relationship with data integrity/security,
@@ -49,12 +53,15 @@ abstract:
     also does not address devices that are attached using a network connection. However,
     a device that uses a point-to-point wireless connection such as WUSB may comply
     with this protocol.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2011'
@@ -66,15 +73,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1667.2015
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Storage automation

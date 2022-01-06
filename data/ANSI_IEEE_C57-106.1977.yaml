@@ -1,11 +1,11 @@
 ---
 id: ANSI/IEEEC57-106.1977
 title:
-  type: main
+- type: main
   content: IEEE Guide for Acceptance and Maintenance of Insulating Oil in Equipment
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/19487
+- content: https://ieeexplore.ieee.org/document/19487
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1976-09-09'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-03-16'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Recommendations are made regarding oil tests and evaluation procedures;
+- content: Recommendations are made regarding oil tests and evaluation procedures;
     methods of reconditioning and reclaiming conventional petroleum (mineral) dielectric
     oils; the levels at which these methods become necessary; and the routines for
     restoring oxidation resistance, where required, by the addition of inhibitors.
@@ -46,22 +50,25 @@ abstract:
     and to assist the operator in maintaining his oil in serviceable condition. The
     mineral oil covered is used in transformers, switchgear, reactors, and current
     breakers.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1977'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE C57-106.1991
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Oil insulation
 - Maintenance
@@ -71,5 +78,5 @@ keyword:
 - dielectric oils
 - petroleum
 ics:
-  code: 29.040.10
+- code: 29.040.10
   text: Insulating oils

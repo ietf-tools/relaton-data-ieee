@@ -1,11 +1,11 @@
 ---
 id: IEEE45.1998
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for Electric Installations on Shipboard
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/828088
+- content: https://ieeexplore.ieee.org/document/828088
   type: src
 type: standard
 docid:
@@ -24,27 +24,34 @@ date:
 - type: issued
   value: '1998-09-16'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-06-12'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Recommendations for the selection and installation of equipment on merchant
+- content: Recommendations for the selection and installation of equipment on merchant
     vessels with electric apparatus for lighting, signaling, communication, power,
     and propulsion are provided.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1998'
@@ -56,15 +63,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 45.2002
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - marine electrical engineering
@@ -72,5 +81,5 @@ keyword:
 - shipboard systems
 - ships
 ics:
-  code: 47.020.60
+- code: 47.020.60
   text: Electrical equipment for ships or marine structures

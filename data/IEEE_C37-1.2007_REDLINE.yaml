@@ -8,7 +8,7 @@ title:
   content: IEEE Standard for SCADA and Automation Systems - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6581844
+- content: https://ieeexplore.ieee.org/document/6581844
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2007-12-05'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-08-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The requirements for SCADA and automation systems in substations are defined.
     This standard defines the process of substation integration as the design process
@@ -45,8 +49,10 @@ abstract:
     requirements are provided for all IEDs located in the system. Tutorial material
     is included in the annexes to address common issues with systems without introducing
     requirements. Information is also presented in the annexes regarding SCADA masters.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: The requirements for SCADA and automation systems in substations are defined.
     This standard defines the process of substation integration as the design process
@@ -54,12 +60,15 @@ abstract:
     requirements are provided for all IEDs located in the system. Tutorial material
     is included in the annexes to address common issues with systems without introducing
     requirements. Information is also presented in the annexes regarding SCADA masters.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2011'
@@ -79,5 +88,5 @@ keyword:
 - substation automation
 - supervisory control
 ics:
-  code: 35.240.50
+- code: 35.240.50
   text: IT applications in industry

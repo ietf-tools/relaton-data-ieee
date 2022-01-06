@@ -1,11 +1,11 @@
 ---
 id: IEEEP1076/D-6.2018-06
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for VHDL Language Reference Manual
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8410188
+- content: https://ieeexplore.ieee.org/document/8410188
   type: src
 type: standard
 docid:
@@ -22,19 +22,23 @@ date:
 - type: issued
   value: '2019-09-05'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-07-11'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: VHSIC Hardware Description Language (VHDL) is defined. VHDL is a formal
+- content: VHSIC Hardware Description Language (VHDL) is defined. VHDL is a formal
     notation intended for use in all phases of the creation of electronic systems.
     Because it is both machine readable and human readable, it supports the development,
     verification, synthesis, and testing of hardware designs; the communication of
@@ -42,27 +46,32 @@ abstract:
     Its primary audiences are the implementors of tools supporting the language and
     the advanced users of the language. (This standard incorporates open source. See
     https://opensource.ieee.org/vasg/Packages)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2018'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1076.2008
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Hardware design languages
@@ -76,5 +85,5 @@ keyword:
 - IEEE 1076(TM)
 - VHDL
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

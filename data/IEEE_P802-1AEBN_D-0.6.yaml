@@ -1,13 +1,13 @@
 ---
 id: IEEEP802-1AEbn/D-0.6
 title:
-  type: main
+- type: main
   content: 'IEEE Draft Standard for Local and Metropolitan Area Networks: Media Access
     Control (MAC) Security Amendment 1: Galois Counter Mode-Advanced Encryption Standard-256
     (GCM-AES-256) Cipher Suite'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5751812
+- content: https://ieeexplore.ieee.org/document/5751812
   type: src
 type: standard
 docid:
@@ -24,25 +24,32 @@ date:
 - type: issued
   value: '2011-04-14'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
-language: en
-script: Latn
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This amendment specifies the GCM-AES-256 Cipher Suite as an option in addition
+- content: This amendment specifies the GCM-AES-256 Cipher Suite as an option in addition
     to the existing mandatory to implement Default Cipher Suite, GCM-AES-128.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2011'
@@ -68,5 +75,5 @@ keyword:
 - security
 - transparent bridging
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

@@ -1,14 +1,14 @@
 ---
 id: ISO/IEC/IEEE8802-11/Amd2.2018
 title:
-  type: main
+- type: main
   content: 'ISO/IEC/IEEE International Standard - Information technology--Telecommunications
     and information exchange between systems - Local and metropolitan area networks--Specific
     requirements - Part 11: Wireless LAN Medium Access Control (MAC) and Physical
     Layer (PHY) Specifications Amendment 2: Sub 1 GHz License Exempt Operation'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8694176
+- content: https://ieeexplore.ieee.org/document/8694176
   type: src
 type: standard
 docid:
@@ -27,36 +27,45 @@ date:
 - type: issued
   value: '2019'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-19'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Modifications to both the IEEE 802.11(TM) physical layer (PHY) and the
+- content: Modifications to both the IEEE 802.11(TM) physical layer (PHY) and the
     medium access control (MAC) sublayer to enable operation of license-exempt IEEE
     802.11 wireless networks in frequency bands below 1 GHz, excluding the television
     (TV) White Space bands, with a transmission range up to 1 km and a minimum data
     rate of at least 100 Kb/s are defined in this amendment.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
-  - name: IEC
+  - name:
+    - ISO
+  - name:
+    - IEC
   from: '2019'
 relation:
-  type: adoptedFrom
+- type: adoptedFrom
   bibitem:
     formattedref:
       content: IEEE 802-11ah.2016

@@ -1,13 +1,13 @@
 ---
 id: ANSIC63-4.2009
 title:
-  type: main
+- type: main
   content: American National Standard for Methods of Measurement of Radio-Noise Emissions
     from Low-Voltage Electrical and Electronic Equipment in the Range of 9 kHz to
     40 GHz
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5246989
+- content: https://ieeexplore.ieee.org/document/5246989
   type: src
 type: standard
 docid:
@@ -28,17 +28,21 @@ date:
 - type: issued
   value: '2009'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-01-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: U.S. consensus standard methods, instrumentation, and facilities for measurement
     of radio-frequency (RF) signals and noise emitted from electrical and electronic
@@ -46,8 +50,10 @@ abstract:
     not include generic nor product-specific emission limits. Where possible, the
     specifications herein are harmonized with other national and international standards
     used for similar purposes.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: U.S. consensus standard methods, instrumentation, and facilities for measurement
     of radio-frequency (RF) signals and noise emitted from electrical and electronic
@@ -55,12 +61,15 @@ abstract:
     not include generic nor product-specific emission limits. Where possible, the
     specifications herein are harmonized with other national and international standards
     used for similar purposes.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2009'
@@ -72,15 +81,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: ANSI C63-4.2014
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Consumer electronics
 - Electric variables measurement
@@ -105,5 +116,5 @@ keyword:
 - site attenuation
 - unintentional radiators
 ics:
-  code: 33.100.20
+- code: 33.100.20
   text: Immunity

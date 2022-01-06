@@ -1,12 +1,12 @@
 ---
 id: IEEEC57-12-00.2000
 title:
-  type: main
+- type: main
   content: IEEE Standard General Requirements for Liquid-Immersed Distribution, Power,
     and Regulating Transformers
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/857981
+- content: https://ieeexplore.ieee.org/document/857981
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '2000-06-21'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'Superseded by IEEE Std C57.12.00-2006 Electrical,mechanical,and safety
+- content: 'Superseded by IEEE Std C57.12.00-2006 Electrical,mechanical,and safety
     requirements are set forth for liquid-immersed distribution and power transformers,and
     autotransformers and regulating transformers; single and polyphase, with voltages
     of 601 V or higher in the highest voltage winding. This standard is a basis for
@@ -48,12 +52,15 @@ abstract:
     transformers, step-voltage and induction voltage regulators, arc furnace transformers,
     rectifier transformers, specialty transformers, grounding transformers, mobile
     transformers, and mine transformers.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2000'
@@ -65,15 +72,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE C57-12-00.2006
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Instrument transformers
@@ -88,5 +97,5 @@ keyword:
 - regulating transformers
 - safety requirements
 ics:
-  code: '29.180'
+- code: '29.180'
   text: Transformers. Reactors

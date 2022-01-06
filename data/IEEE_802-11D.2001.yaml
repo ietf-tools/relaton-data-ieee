@@ -1,14 +1,14 @@
 ---
 id: IEEE802-11d.2001
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Information technology-- Local and metropolitan area
     networks-- Specific requirements-- Part 11: Wireless Medium Access Control (MAC)
     and Physical Layer (PHY) Specifications Amendment 3: Specification for operation
     in additional regulatory domains'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/946610
+- content: https://ieeexplore.ieee.org/document/946610
   type: src
 type: standard
 docid:
@@ -27,19 +27,23 @@ date:
 - type: issued
   value: '2001-06-14'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This amendment specifies the extensions to IEEE Std 802.11 ¤ for Wireless
+- content: This amendment specifies the extensions to IEEE Std 802.11 ¤ for Wireless
     Local AreaNetworks providing specifications for conformant operation beyond the
     original six regulatory domains of that standard. These extensions provide a mechanism
     for an IEEE Std 802.11 access point to deliver the required radio transmitter
@@ -48,25 +52,30 @@ abstract:
     subdivision. This mechanism is applicable to all IEEE Std 802.11 PHYtypes. A secondary
     benefit of the mechanism described in this amendment is the ability for anIEEE
     Std 802.11 moble station to roam between regulatory domains
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2001'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: ANSI/IEEE 802-11.1999
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE standards

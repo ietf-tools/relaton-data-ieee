@@ -1,12 +1,12 @@
 ---
 id: ANSI/IEEE930.1987
 title:
-  type: main
+- type: main
   content: IEEE Guide for the Statistical Analysis of Electrical Insulation Voltage
     Endurance Data
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/35060
+- content: https://ieeexplore.ieee.org/document/35060
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1986-06-19'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Replaced by 930-2004. This guide describes, with examples, statistical
+- content: Replaced by 930-2004. This guide describes, with examples, statistical
     methods to analyze the data for time-to-failure from constant-stress voltage endurance
     tests or breakdown voltage from progressive-stress tests on specimens or systems
     of electrical insulation. Methods to compare test data are also given. The methods
@@ -50,22 +54,25 @@ abstract:
     voltage of an insulation system are not presented in this guide. The mathematical
     techniques contained in this guide may not directly apply to the estimation of
     equipment life.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1987'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 930.2004
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Aging
 - Failure analysis
@@ -77,5 +84,5 @@ keyword:
 - voltage
 - endurance data
 ics:
-  code: 29.040.20
+- code: 29.040.20
   text: Insulating gases

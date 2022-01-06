@@ -1,13 +1,13 @@
 ---
 id: IEEE1505-1.2008
 title:
-  type: main
+- type: main
   content: IEEE Trial-Use Standard for the Common Test Interface Pin Map Configuration
     for High-Density, Single-Tier Electronics Test Requirements Utilizing IEEE Std
     1505
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/4689504
+- content: https://ieeexplore.ieee.org/document/4689504
   type: src
 type: standard
 docid:
@@ -28,17 +28,21 @@ date:
 - type: issued
   value: '2008-09-26'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-08-28'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: 'This trial-use standard represents an extension to the IEEE 1505 receiver
     fixture interface (RFI) standard specification. Particular emphasis is placed
@@ -48,8 +52,10 @@ abstract:
     and (e) legacy automatic test equipment (ATE) transitional devices. This is intentionally
     done to standardize the footprint and assure mechanical and electrical interoperability
     between past and future automatic test systems (ATS).'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: 'This trial-use standard represents an extension to the IEEE 1505 receiver
     fixture interface (RFI) standard specification. Particular emphasis is placed
@@ -59,12 +65,15 @@ abstract:
     and (e) legacy automatic test equipment (ATE)transitional devices. This is intentionally
     done to standardize the footprint and assure mechanical and electrical Interoperability
     between past and future automatic test systems (ATS).'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2008'
@@ -82,5 +91,5 @@ keyword:
 - TPS
 - UUT
 ics:
-  code: 31.220.10
+- code: 31.220.10
   text: Plug-and-socket devices

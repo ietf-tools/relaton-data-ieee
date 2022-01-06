@@ -9,7 +9,7 @@ title:
     - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6747946
+- content: https://ieeexplore.ieee.org/document/6747946
   type: src
 type: standard
 docid:
@@ -26,43 +26,52 @@ date:
 - type: issued
   value: '2013-12-11'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-02-25'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The functions and features to be provided in intelligent electronic devices
+- content: The functions and features to be provided in intelligent electronic devices
     (IEDs) to accommodate critical infrastructure protection programs are defined
     in this standard. Security regarding the access, operation, configuration, firmware
     revision and data retrieval from an IED are addressed. Communications for the
     purpose of power system protection (teleprotection) are not addressed in this
     standard.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2013'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1686.2007
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE standards
@@ -79,5 +88,5 @@ keyword:
 - security
 - substation.
 ics:
-  code: 35.240.99
+- code: 35.240.99
   text: IT applications in other fields

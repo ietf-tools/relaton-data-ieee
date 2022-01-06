@@ -1,12 +1,12 @@
 ---
 id: IEEE1588.2019
 title:
-  type: main
+- type: main
   content: IEEE Standard for a Precision Clock Synchronization Protocol for Networked
     Measurement and Control Systems
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9120376
+- content: https://ieeexplore.ieee.org/document/9120376
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2019-11-07'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-06-18'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: In this standard, a protocol is defined that provides precise synchronization
     of clocks in packet-based networked systems. Synchronization of clocks can be
@@ -48,8 +52,10 @@ abstract:
     default profiles that permit simple systems to be installed and operated without
     the need for user management. Sub-nanosecond time transfer accuracy can be achieved
     in a properly designed network.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: In this standard, a protocol is defined that provides precise synchronization
     of clocks in packet-based networked systems. Synchronization of clocks can be
@@ -60,25 +66,30 @@ abstract:
     default profiles that permit simple systems to be installed and operated without
     the need for user management. Sub-nanosecond time transfer accuracy can be achieved
     in a properly designed network.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2020'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1588.2008
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -95,5 +106,5 @@ keyword:
 - synchronization
 - Transparent Clock
 ics:
-  code: 39.040.99
+- code: 39.040.99
   text: Other time-measuring instruments

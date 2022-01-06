@@ -1,11 +1,11 @@
 ---
 id: IEEE3006HistoricalData.2012
 title:
-  type: main
+- type: main
   content: 'Historical Reliability Data for IEEE 3006 Standards: Power Systems Reliability'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6745993
+- content: https://ieeexplore.ieee.org/document/6745993
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '2014-02-20'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-02-20'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: Reliability data gathered from equipment reliability surveys and analyses
     over a period of 35 years or more is summarized in this collection. Equipment
@@ -44,19 +48,24 @@ abstract:
     efforts, and extensive lists of references on equipment reliability are presented.
     The collection provides the analyst with options for determining reliability parameters
     for older electrical systems.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: An IEEE sponsored survey of Electrical Equipment reliability in industrial
     plants was completed during 1972. The results are reported from this survey which
     included a total of 1982 equipment failures that were reported by 30 companies
     covering 68 plants in nine industries in the United States and Canada.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2012'
@@ -78,5 +87,5 @@ keyword:
 - reliability analysis
 - reliability survey
 ics:
-  code: '27.100'
+- code: '27.100'
   text: Power stations in general

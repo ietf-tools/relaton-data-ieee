@@ -8,7 +8,7 @@ title:
   content: IEEE Standard Classification for Software Anomalies - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5953441
+- content: https://ieeexplore.ieee.org/document/5953441
   type: src
 type: standard
 docid:
@@ -27,30 +27,37 @@ date:
 - type: issued
   value: '2009-11-09'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-04-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard provides a uniform approach to the classification of software
+- content: This standard provides a uniform approach to the classification of software
     anomalies, regardless of when they originate or when they are encountered within
     the project, product, or system lifecycle. Classification data can be used for
     a variety of purposes, including defect causal analysis, project management, and
     software process improvement (e.g., to reduce the likelihood of defect insertion
     and/or increase the likelihood of early defect detection).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2011'
@@ -69,5 +76,5 @@ keyword:
 - fault
 - problem
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

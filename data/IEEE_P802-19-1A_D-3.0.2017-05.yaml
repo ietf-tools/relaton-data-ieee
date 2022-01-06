@@ -1,14 +1,14 @@
 ---
 id: IEEEP802-19-1a/D-3.0.2017-05
 title:
-  type: main
+- type: main
   content: 'IEEE Draft Standard for Information Technology - Telecommunications and
     Information Exchange Between Systems - Local and Metropolitan Area Networks -
     Specific Requirements - Part 19: TV White Space Coexistence Methods Amendment:
     Coexistence Methods for Geo-Location Capable Devices Operating Under General Authorization'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7932235
+- content: https://ieeexplore.ieee.org/document/7932235
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '2017-09-28'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-05-19'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The network-based coexistence information exchange among networks and devices
+- content: The network-based coexistence information exchange among networks and devices
     to enable network-based coexistence management is defined in this amendment to
     IEEE 802.19.1-2014. This amendment specifies procedures and protocols for collection
     and exchange of coexistence information of heterogeneous networks, spectrum resource
@@ -45,27 +49,32 @@ abstract:
     etc., and information elements and data structures to capture coexistence information.
     (The PDF of this standard is available at no cost to you compliments of the IEEE
     GET Program at http://ieeexplore.ieee.org/servlet/opac?punumber=8207797)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2017'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-19-1.2014
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - White space
@@ -84,5 +93,5 @@ keyword:
 - spectrum management
 - TV band white spaces
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

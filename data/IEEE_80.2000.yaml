@@ -1,11 +1,11 @@
 ---
 id: IEEE80.2000
 title:
-  type: main
+- type: main
   content: IEEE Guide for Safety in AC Substation Grounding
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/861340
+- content: https://ieeexplore.ieee.org/document/861340
   type: src
 type: standard
 docid:
@@ -24,31 +24,38 @@ date:
 - type: issued
   value: '2000-01-30'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-02-25'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Outdoor ac substations, either conventional or gas-insulated, are covered
+- content: Outdoor ac substations, either conventional or gas-insulated, are covered
     in this guide. Distribution, transmission, and generating plant substations are
     also included. With proper caution,the methods described herein are also applicable
     to indoor portions of such substations, or to sub-stations that are wholly indoors.
     No attempt is made to cover the grounding problems peculiar to dc substations.
     A quantitative analysis of the effects of lightning surges is also beyond the
     scope of this guide.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2000'
@@ -60,15 +67,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 80.2013
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - AC machines
@@ -82,5 +91,5 @@ keyword:
 - substation design
 - substation grounding
 ics:
-  code: 29.120.50
+- code: 29.120.50
   text: Fuses and other overcurrent protection devices

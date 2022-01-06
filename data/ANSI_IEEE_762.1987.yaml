@@ -1,12 +1,12 @@
 ---
 id: ANSI/IEEE762.1987
 title:
-  type: main
+- type: main
   content: IEEE Standard Definitions for Use in Reporting Electric Generating Unit
     Reliability, Availability, and Productivity
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/27828
+- content: https://ieeexplore.ieee.org/document/27828
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1985-09-19'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-03-21'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This standard is intended to aid the electric power industry in reporting
+- content: 'This standard is intended to aid the electric power industry in reporting
     and evaluating electric generating unit reliability, availability, and productivity.
     It was developed to overcome present difficulties in the interpretation of electric
     generating unit performance data from various systems and to facilitate comparisons
@@ -57,22 +61,25 @@ abstract:
     cases. There are some exceptions, however, such as the definition of in service,
     which applies only at the unit level. Because of these exceptions, care should
     be taken when using this standard below the unit level.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1987'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 762.2006
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Generators
 - Reliability

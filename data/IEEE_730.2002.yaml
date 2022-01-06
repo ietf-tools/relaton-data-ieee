@@ -1,11 +1,11 @@
 ---
 id: IEEE730.2002
 title:
-  type: main
+- type: main
   content: IEEE Standard for Software Quality Assurance Plans
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1040117
+- content: https://ieeexplore.ieee.org/document/1040117
   type: src
 type: standard
 docid:
@@ -24,26 +24,33 @@ date:
 - type: issued
   value: '2002-09-12'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-09-02'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The standard specifies the format and content of software quality assurance
+- content: The standard specifies the format and content of software quality assurance
     plans. It meets the IEEE/EIA 12207.1 requirements for such plans.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2002'
@@ -55,15 +62,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 730.2014
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Software quality
@@ -74,5 +83,5 @@ keyword:
 - quality
 - software quality
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

@@ -1,11 +1,11 @@
 ---
 id: IEEE716.1989
 title:
-  type: main
+- type: main
   content: IEEE Standard C/ATLAS Test Language
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/159357
+- content: https://ieeexplore.ieee.org/document/159357
   type: src
 type: standard
 docid:
@@ -22,18 +22,22 @@ date:
 - type: issued
   value: '1989-03-08'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
-language: en
-script: Latn
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
 abstract:
-  content: IEEE Std 716-1989 defines IEEE Common ATLAS (C/ATLAS), a high-order language
+- content: IEEE Std 716-1989 defines IEEE Common ATLAS (C/ATLAS), a high-order language
     for testing on Automatic Test Equipment (ATE). C/ATLAS is a widely acceptable
     programming language. Its single and unique construct expresses each language
     facility selected, to support structured programming equipment. The C/ATLAS language
@@ -46,12 +50,15 @@ abstract:
     can operate on various makes and models of ATE, IEEE Std 716-1989 includes the
     required portion that forms the common basis of all ATLAS subsets, and the optional
     elements, such as nouns, noun modifiers, and units.<<ETX>>
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1989'
@@ -66,11 +73,11 @@ relation:
     formattedref:
       content: IEEE 716.1995
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - High-level languages
 - Automatic test equipment
 ics:
-  code: '35.060'
+- code: '35.060'
   text: Languages used in information technology

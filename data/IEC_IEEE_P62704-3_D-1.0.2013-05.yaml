@@ -1,14 +1,14 @@
 ---
 id: IEC/IEEEP62704-3/D-1.0.2013-05
 title:
-  type: main
+- type: main
   content: 'IEC/IEEE Draft Standard for Determining the Peak Spatial-Average Specific
     Absorption Rate (SAR) in the Human Body from Wireless Communications Devices,
     30 MHz - 6 GHz. Part 3: Specific Requirements for Finite Difference Time Domain
     (FDTD) Modeling of Mobile Phones/Personal Wireless Devices'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6562737
+- content: https://ieeexplore.ieee.org/document/6562737
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '2013'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-07-17'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This International Standard IEC/IEEE 62704-3 describes the concepts, techniques,
+- content: This International Standard IEC/IEEE 62704-3 describes the concepts, techniques,
     phone models, validation procedures, uncertainties and limitations of the finite
     difference time domain (FDTD) technique when used for determining the peak spatial-average
     specific absorption rate (SAR) in standardized human anatomical models exposed
@@ -49,15 +53,19 @@ abstract:
     on meshing and test positions of the anatomical models. This document will not
     recommend specific SAR limits since these are found in other documents, e.g.,
     IEEE C95.1-2005 and ICNIRP.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: IEC
+  - name:
+    - IEC
   from: '2013'
 keyword:
 - IEEE standards
@@ -72,5 +80,5 @@ keyword:
 - human body
 - wireless communication
 ics:
-  code: 33.100.10
+- code: 33.100.10
   text: Emission

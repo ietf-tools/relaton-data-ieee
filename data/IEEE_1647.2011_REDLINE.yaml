@@ -8,7 +8,7 @@ title:
   content: IEEE Standard for the Functional Verification Language e - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6365304
+- content: https://ieeexplore.ieee.org/document/6365304
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '2011-06-16'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2012-11-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The e functional verification language is an application-specific programming
+- content: The e functional verification language is an application-specific programming
     language, aimed at automating the task of verifying a hardware or software design
     with respect to its specification. Verification environments written in e provide
     a model of the environment in which the design is expected to function, including
@@ -49,12 +53,15 @@ abstract:
     used throughout the design cycle, from a high-level architectural model to a fully
     realized system. A definition of the e language syntax and semantics and how tool
     developers and verification engineers should use them are contained in this standard.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2011'
@@ -66,15 +73,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1647.2016
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Formal verification
@@ -93,5 +102,5 @@ keyword:
 - temporal logic
 - test generation
 ics:
-  code: '35.060'
+- code: '35.060'
   text: Languages used in information technology

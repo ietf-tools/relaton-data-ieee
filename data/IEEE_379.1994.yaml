@@ -1,12 +1,12 @@
 ---
 id: IEEE379.1994
 title:
-  type: main
+- type: main
   content: IEEE Standard Application of the Single-Failure Criterion to Nuclear Power
     Generating Station Safety Systems
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/476713
+- content: https://ieeexplore.ieee.org/document/476713
   type: src
 type: standard
 docid:
@@ -25,30 +25,37 @@ date:
 - type: issued
   value: '1994-09-22'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The application of the single-failure criterion to the electrical power,
+- content: The application of the single-failure criterion to the electrical power,
     instrumentaion, and control portions of nuclear power generating station safety
     systems is covered. Conformance with the requirements of IEEE Std 603-1991 and
     the single-failure criterion as stated in that document is established. Interpretation
     and guidance in the application of the single-failure criterion, a discussion
     of the failures, and an acceptable method of single-failure analysis are presented.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1994'
@@ -60,15 +67,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 379.2000
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Failure analysis
 - Fission reactor control and monitoring
@@ -82,5 +91,5 @@ keyword:
 - single-failure criterion
 - Nuclear power generating station
 ics:
-  code: 27.120.20
+- code: 27.120.20
   text: Nuclear power plants. Safety

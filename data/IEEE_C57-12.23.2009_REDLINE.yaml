@@ -10,7 +10,7 @@ title:
     High Voltage 25 000 V and Below; Low Voltage 600 V and Below - Redline'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6157587
+- content: https://ieeexplore.ieee.org/document/6157587
   type: src
 type: standard
 docid:
@@ -27,28 +27,35 @@ date:
 - type: issued
   value: '2009-03-19'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-08-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard covers certain electrical, dimensional, and mechanical characteristics
+- content: This standard covers certain electrical, dimensional, and mechanical characteristics
     and takes into consideration certain safety features of single-phase, 60 Hz, liquid-immersed,
     self-cooled, submersible distribution transformers with separable insulated high-voltage
     connectors.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2011'
@@ -60,15 +67,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE C57-12-23.2018
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Transformers
@@ -85,5 +94,5 @@ keyword:
 - transformer
 - underground
 ics:
-  code: '29.180'
+- code: '29.180'
   text: Transformers. Reactors

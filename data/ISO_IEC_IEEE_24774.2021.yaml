@@ -1,12 +1,12 @@
 ---
 id: ISO/IEC/IEEE24774.2021
 title:
-  type: main
+- type: main
   content: ISO/IEC/IEEE International Standard -Systems and software engineering -
     Life cycle management--Specification for process description
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9442426
+- content: https://ieeexplore.ieee.org/document/9442426
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '2021-03-25'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-05-26'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: A number of international, national and industry standards describe processes
+- content: A number of international, national and industry standards describe processes
     and process models. Process models are developed for a range of purposes including
     process implementation and assessment. In order for users of standards to select
     the appropriate forms of process description and apply them in a consistent fashion,
@@ -48,27 +52,34 @@ abstract:
     “Required” or “Optional”. Although developed within ISO/IEC/JTC1/SC7 &#8211; Systems
     and software engineering, the requirements of this document can be applied to
     any process model or description developed for any purpose.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
-  - name: IEC
+  - name:
+    - ISO
+  - name:
+    - IEC
   from: '2021'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 24774.2012
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standard
@@ -78,5 +89,5 @@ keyword:
 - System analysis and design
 - Product life cycle management
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

@@ -10,7 +10,7 @@ title:
     Cases - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7114161
+- content: https://ieeexplore.ieee.org/document/7114161
   type: src
 type: standard
 docid:
@@ -27,44 +27,53 @@ date:
 - type: issued
   value: '2014-12-10'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-05-28'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: General and specific recommendations for grounding current and voltage
+- content: General and specific recommendations for grounding current and voltage
     transformer secondary circuits and cases of connected equipment are covered in
     this guide. Although most diagrams included in this guide show relaying applications,
     the recommended practices applyequally to metering and other areas where instrument
     transformers are used. Grounding practices presently used, and practices that
     were not previously reported, are included in this guide. Specifically, a review
     of other than North American grounding practices is included.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2015'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE C57-13-3.2005
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -88,5 +97,5 @@ keyword:
 - resistive voltage transformer
 - voltage transformer.
 ics:
-  code: 29.100.99
+- code: 29.100.99
   text: Other components for electrical equipment

@@ -1,11 +1,11 @@
 ---
 id: IEEE802-3-2.2019
 title:
-  type: main
+- type: main
   content: IEEE Standard for Ethernet - YANG Data Model Definitions
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8737019
+- content: https://ieeexplore.ieee.org/document/8737019
   type: src
 type: standard
 docid:
@@ -26,35 +26,44 @@ date:
 - type: issued
   value: '2019-03-21'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-06-14'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: This standard defines YANG modules for various Ethernet devices specified
     in IEEE Std 802.3. This includes half-duplex and full-duplex data terminal equipment
     (DTE) using either Carrier Sense Multiple Access / Collision Detection (CSMA/CD)
     or Multipoint Control Protocol (MPCP), and Power Sourcing Equipment (PSE).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: This standard defines YANG modules for various Ethernet devices specified
     in IEEE Std 802.3. This includes half-duplex and full-duplex data terminal equipment
     (DTE) using either Carrier Sense Multiple Access / Collision Detection (CSMA/CD)
     or Multipoint Control Protocol (MPCP), and Power Sourcing Equipment (PSE).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2019'

@@ -1,12 +1,12 @@
 ---
 id: IEEE1293.1998
 title:
-  type: main
+- type: main
   content: IEEE Standard Specification Format Guide and Test Procedure for Linear,
     Single-Axis, Non-Gyroscopic Accelerometers
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/782464
+- content: https://ieeexplore.ieee.org/document/782464
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1998-09-25'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The specification and test requirements for a linear, single-axis, nongyroscopic
+- content: The specification and test requirements for a linear, single-axis, nongyroscopic
     accelerometer for use in internal navigation, guidance, and leveling systems are
     defined. A standard specification guide and a compilation of recommended test
     procedures for such accelerometers are provide. Informative annexes are given
@@ -47,12 +51,15 @@ abstract:
     and modeling techniques (multipoint tumble analysis, vibration and shock test
     analyses, and geophysical effects in inertial instrument testing). IEEE 1293 is
     revision combining IEEE Stds 337 and 530.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1999'
@@ -64,15 +71,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1293.2018
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Acceleration measurement
 - accelerometer
@@ -88,5 +97,5 @@ keyword:
 - testing
 - IEEE 1293
 ics:
-  code: '17.080'
+- code: '17.080'
   text: Measurement of time, velocity, acceleration, angular velocity

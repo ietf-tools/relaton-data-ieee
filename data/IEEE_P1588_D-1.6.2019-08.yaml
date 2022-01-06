@@ -1,12 +1,12 @@
 ---
 id: IEEEP1588/D-1.6.2019-08
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for a Precision Clock Synchronization Protocol for
     Networked Measurement and Control Systems
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8809974
+- content: https://ieeexplore.ieee.org/document/8809974
   type: src
 type: standard
 docid:
@@ -23,19 +23,23 @@ date:
 - type: issued
   value: '2019-11-07'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-08-22'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: In this standard, a protocol is defined that provides precise synchronization
+- content: In this standard, a protocol is defined that provides precise synchronization
     of clocks in packet-based networked systems. Synchronization of clocks can be
     achieved in heterogeneous systems that include clocks of different inherent precision,
     resolution, and stability. The protocol supports synchronization accuracy and
@@ -44,12 +48,15 @@ abstract:
     default profiles that permit simple systems to be installed and operated without
     the need for user management. Sub-nanosecond time transfer accuracy can be achieved
     in a properly designed network.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2019'
@@ -61,8 +68,10 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: updates
   bibitem:
@@ -71,10 +80,12 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Timing
@@ -91,5 +102,5 @@ keyword:
 - synchronization
 - Transparent Clock
 ics:
-  code: 39.040.99
+- code: 39.040.99
   text: Other time-measuring instruments

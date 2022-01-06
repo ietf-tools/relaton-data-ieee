@@ -1,11 +1,11 @@
 ---
 id: ANSI/IEEE643.1980
 title:
-  type: main
+- type: main
   content: IEEE Guide for Power-Line Carrier Applications
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/27873
+- content: https://ieeexplore.ieee.org/document/27873
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1979-03-15'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The purpose of this guide is to provide application information to users
+- content: The purpose of this guide is to provide application information to users
     of carrier equipment as applied on power transmission lines. It is hoped that
     this guide will be useful to the initial user of power line carriers as well as
     to the experienced application engineer. Detailed references have been provided
@@ -46,22 +50,25 @@ abstract:
     performance are given. Major coupling components considered are line traps, coupling
     capacitors, line tuners, coaxial cables, hybrids, and filters. Frequency selection
     practices and future trends are also discussed
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1981'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 643.2004
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Standards
 - guide
@@ -72,5 +79,5 @@ keyword:
 - Power distribution communication
 - Couplers
 ics:
-  code: 29.240.20
+- code: 29.240.20
   text: Power transmission and distribution lines

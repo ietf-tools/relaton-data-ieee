@@ -1,12 +1,12 @@
 ---
 id: IEEEC62-36.1994
 title:
-  type: main
+- type: main
   content: IEEE Standard Test Methods for Surge Protectors Used in Low-Voltage Data,
     Communications, and Signaling Circuits
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/476702
+- content: https://ieeexplore.ieee.org/document/476702
   type: src
 type: standard
 docid:
@@ -27,19 +27,23 @@ date:
 - type: issued
   value: '1994-09-22'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-10-13'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Methods are established for testing and measuring the characteristics of
+- content: Methods are established for testing and measuring the characteristics of
     surge protectors used in low-voltage data, communications, and signaling circuits
     with voltages less than or equal to 1000 V rms or 1200 Vdc. The surge protectors
     are designed to limit voltage surges, current surges, or both. The surge protectors
@@ -48,22 +52,25 @@ abstract:
     capabilities, and surge lifetime. Packaged single gas-tube, air-gap, varistor,
     or avalanche junction surge-protective devices are not covered, nor are test methods
     for low-voltage power circuit applications.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1995'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE C62-36.2000
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Arresters
@@ -77,5 +84,5 @@ keyword:
 - surge protective devices
 - voltage limiters
 ics:
-  code: 29.120.50
+- code: 29.120.50
   text: Fuses and other overcurrent protection devices

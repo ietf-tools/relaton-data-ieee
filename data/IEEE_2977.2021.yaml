@@ -1,12 +1,12 @@
 ---
 id: IEEE2977.2021
 title:
-  type: main
+- type: main
   content: IEEE Standard for Adoption of MIPI Alliance Specification for A-PHY Interface
     (A-PHY) Version 1.0
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9464282
+- content: https://ieeexplore.ieee.org/document/9464282
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '2021-06-16'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-06-24'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard adopts MIPI Alliance--MIPI A-PHY Specification Version 1.0
+- content: This standard adopts MIPI Alliance--MIPI A-PHY Specification Version 1.0
     as an IEEE Standard. The adopted standard provides an asymmetric data link in
     a point-to-point or daisy-chain topology, with high-speed unidirectional data,
     embedded bidirectional control data and optional power delivery over a single
@@ -45,12 +49,15 @@ abstract:
     data and optional power share the same physical wiring. For integration with existing
     network backbones, it complements Ethernet, Controller Area Network (CAN), FlexRay,
     and other interfaces.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2021'

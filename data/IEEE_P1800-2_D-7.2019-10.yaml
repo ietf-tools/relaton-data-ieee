@@ -1,12 +1,12 @@
 ---
 id: IEEEP1800-2/D-7.2019-10
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for Universal Verification Methodology Language Reference
     Manual
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8922964
+- content: https://ieeexplore.ieee.org/document/8922964
   type: src
 type: standard
 docid:
@@ -23,46 +23,55 @@ date:
 - type: issued
   value: '2020-06-04'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-12-04'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The Universal Verification Methodology (UVM) that can improve interoperability,
+- content: The Universal Verification Methodology (UVM) that can improve interoperability,
     reduce the cost of using intellectual property (IP) for new projects or electronic
     design automation (EDA) tools, and make it easier to reuse verification components
     is provided. Overall, using this standard will lower verification costs and improve
     design quality throughout the industry. The primary audiences for this standard
     are the implementors of the UVM base class library, the implementors of tools
     supporting the UVM base class library, and the users of the UVM base class library.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2019'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1800-2.2017
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Formal verification
@@ -94,5 +103,5 @@ keyword:
 - transaction level modeling
 - verification methodology
 ics:
-  code: '35.060'
+- code: '35.060'
   text: Languages used in information technology

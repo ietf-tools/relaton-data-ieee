@@ -1,12 +1,12 @@
 ---
 id: ANSI/IEEEC37-90-2
 title:
-  type: main
+- type: main
   content: IEEE Trial-Use Standard Withstand Capability of Relay Systems to Radiated
     Electromagnetic Interference from Transceivers
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/26623
+- content: https://ieeexplore.ieee.org/document/26623
   type: src
 type: standard
 docid:
@@ -25,37 +25,44 @@ date:
 - type: issued
   value: '1985-12-12'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-01-16'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: A design test to evaluate the susceptibility of protective relays to single-frequency
+- content: A design test to evaluate the susceptibility of protective relays to single-frequency
     electromagnetic fields in the radio frequency domain, such as those generated
     by portable or mobile radio transceivers is established.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1987'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE C37-90-2.1995
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Electromagnetic interference
 - Electronic equipment testing
@@ -68,5 +75,5 @@ keyword:
 - interference
 - relay
 ics:
-  code: 29.120.70
+- code: 29.120.70
   text: Relays

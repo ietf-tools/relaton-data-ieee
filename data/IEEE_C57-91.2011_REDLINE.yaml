@@ -10,7 +10,7 @@ title:
     Regulators - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6197686
+- content: https://ieeexplore.ieee.org/document/6197686
   type: src
 type: standard
 docid:
@@ -27,19 +27,23 @@ date:
 - type: issued
   value: '2011-12-07'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2012-05-09'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This guide provides recommendations for loading mineral-oil-immersed transformers
+- content: This guide provides recommendations for loading mineral-oil-immersed transformers
     and step-voltage regulators with insulation systems rated for a 65 &#176;C average
     winding temperature rise at rated load. This guide applies to transformers manufactured
     in accordance with IEEE Std C57.12.001 and tested in accordance with IEEE Std
@@ -48,25 +52,30 @@ abstract:
     regulators with insulation systems rated for 55 &#176;C average winding temperature
     rise at rated load are still in service, recommendations that are specific to
     this equipment are also included.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2012'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE C57-91.1995
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE standards
@@ -80,5 +89,5 @@ keyword:
 - mineral-oil-immersed
 - power transformer
 ics:
-  code: '29.180'
+- code: '29.180'
   text: Transformers. Reactors

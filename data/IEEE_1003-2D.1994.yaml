@@ -1,12 +1,12 @@
 ---
 id: IEEE1003-2d.1994
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Information Technology--Portable Operating System Interface
     (POSIX(TM))--Part 2: Shell and Utilities--Amendment 1: Batch Environment'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7379697
+- content: https://ieeexplore.ieee.org/document/7379697
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '1994-12-13'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-01-12'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: This amendment is part of the POSIX series of standards for applications
     and user interfaces to open systems. It is a supplement to IEEE Std 1003.2-1992,
@@ -45,8 +49,10 @@ abstract:
     of utility programs for complex data manipulation. This supplement defines the
     user interface to a distributed batch queuing environment and includes application
     environments..
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: This amendment is part of the POSIX series of standards for applications
     and user interfaces to open systems. It is a supplement to IEEE Std 1003.2-1992,
@@ -54,25 +60,30 @@ abstract:
     of utility programs for complex data manipulation. This supplement defines the
     user interface to a distributed batch queuing environment and includes application
     environments.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1994'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1003-2.1994-12
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards

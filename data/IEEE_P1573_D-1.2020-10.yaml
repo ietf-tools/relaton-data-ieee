@@ -1,12 +1,12 @@
 ---
 id: IEEEP1573/D-1.2020-10
 title:
-  type: main
+- type: main
   content: 'IEEE Draft Recommended Practice for Electronic Power Subsystems: Parameters,
     Interfaces, Elements, and Performance'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9246988
+- content: https://ieeexplore.ieee.org/document/9246988
   type: src
 type: standard
 docid:
@@ -23,19 +23,23 @@ date:
 - type: issued
   value: '2020'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-11-02'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This recommended practice provides a technical basis for implementation
+- content: This recommended practice provides a technical basis for implementation
     of electronic power subsystems. It is intended for electronic systems engineers
     and integrators, electronic power subsystem designers and integrators, as well
     as power element manufacturers and suppliers. It addresses system- level issues
@@ -48,25 +52,30 @@ abstract:
     kHz. Internal operating frequencies within elements or subsystems may be much
     higher than 1 kHz. This recommended practice may be used outside the range where
     applicable. This recommended practice builds on and supplements IEEE Std 1515-2000.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2020'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1573.2003
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -76,5 +85,5 @@ keyword:
 - Electronic Power Subsystems
 - Power Electronics
 ics:
-  code: '31.020'
+- code: '31.020'
   text: Electronic components in general

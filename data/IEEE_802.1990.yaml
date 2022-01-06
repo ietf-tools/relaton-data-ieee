@@ -1,11 +1,11 @@
 ---
 id: IEEE802.1990
 title:
-  type: main
+- type: main
   content: 'Local and Metropolitan Area Networks: IEEE Standard: Overview and Architecture'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/467387
+- content: https://ieeexplore.ieee.org/document/467387
   type: src
 type: standard
 docid:
@@ -24,41 +24,48 @@ date:
 - type: issued
   value: '1990-05-31'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Superseded by IEEE Std 802-2001 This IEEE Standards product is part of
+- content: Superseded by IEEE Std 802-2001 This IEEE Standards product is part of
     the 802 family on LAN/MAN. This document provides an overview to the family of
     IEEE 802 Standards, defines compliance with the family of IEEE 802 Standards,
     describes the relationship of the IEEE 802 Standards to the Open Systems Interconnections
     Basic Reference Model [ISO 7498:1984] and explains the relationship of these standards
     to the higher layer protocols, and provides a standard for identification of public,
     private, and standard protocols.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1990'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 802.2001
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Computer networks
 - LAN
@@ -69,5 +76,5 @@ keyword:
 - Metropolitan area networks
 - Local area networks
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

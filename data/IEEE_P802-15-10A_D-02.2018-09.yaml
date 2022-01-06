@@ -1,13 +1,13 @@
 ---
 id: IEEEP802-15-10a/D-02.2018-09
 title:
-  type: main
+- type: main
   content: IEEE Draft Recommended Practice for Routing Packets in IEEE 802.15.4 Dynamically
     Changing Wireless Networks Amendment to fully define use of addressing and route
     information currently in the standard - Amendment A
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8509659
+- content: https://ieeexplore.ieee.org/document/8509659
   type: src
 type: standard
 docid:
@@ -24,46 +24,55 @@ date:
 - type: issued
   value: '2019-02-08'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-10-25'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This amendment to IEEE Std 802.15.10 fully defines how the addressing
+- content: 'This amendment to IEEE Std 802.15.10 fully defines how the addressing
     and route information (already defined in the recommended practice) are to be
     used by the routing modes (also currently defined in the recommended practice),
     including at least the following: end-to-end (E2E) acknowledgment from mesh route
     in non-storing mode; peer-to-peer (P2P) routing using a combination of up/down
     routing in non-storing mode; on-demand P2P routing for E2E acknowledgment in non-storing
     mode; on-demand path storing when sending unicast in non-storing mode.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2018'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-15-10.2017
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Routing protocols
@@ -85,5 +94,5 @@ keyword:
 - support for broadcast
 - support for multicast
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

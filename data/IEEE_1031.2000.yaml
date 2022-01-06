@@ -1,12 +1,12 @@
 ---
 id: IEEE1031.2000
 title:
-  type: main
+- type: main
   content: IEEE Guide for the Functional Specification of Transmission Static Var
     Compensators
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1277892
+- content: https://ieeexplore.ieee.org/document/1277892
   type: src
 type: standard
 docid:
@@ -25,41 +25,50 @@ date:
 - type: issued
   value: '2000-01-30'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This guide documents an approach to preparing a specification for a transmission
+- content: This guide documents an approach to preparing a specification for a transmission
     static var compensator. The document is intended to serve as a base specification
     with an informative annex provided to allow users to modify or develop specific
     clauses to meet a particular application.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2000'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1031.1991
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -77,5 +86,5 @@ keyword:
 - TSC
 - TSR
 ics:
-  code: 31.060.60
+- code: 31.060.60
   text: Variable capacitors

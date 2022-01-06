@@ -1,11 +1,11 @@
 ---
 id: IEEE2700.2017
 title:
-  type: main
+- type: main
   content: IEEE Standard for Sensor Performance Parameter Definitions
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8277147
+- content: https://ieeexplore.ieee.org/document/8277147
   type: src
 type: standard
 docid:
@@ -24,29 +24,36 @@ date:
 - type: issued
   value: '2017-06-15'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-01-31'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: A common framework for sensor performance specification terminology, units,
+- content: A common framework for sensor performance specification terminology, units,
     conditions, and limits is provided. Specifically, the accelerometer, magnetometer,
     gyrometer/gyroscope, accelerometer/magnetometer/gyroscope combination sensors,
     barometer/pressure sensors, hygrometer/humidity sensors, temperature sensors,
     light sensors (ambient and RGB), and proximity sensors are discussed.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2017'
@@ -75,5 +82,5 @@ keyword:
 - temperature
 - terminology
 ics:
-  code: 31.220.01
+- code: 31.220.01
   text: Electromechanical components in general

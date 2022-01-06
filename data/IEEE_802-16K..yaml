@@ -1,12 +1,12 @@
 ---
 id: IEEE802-16k.
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Local and Metropolitan Area Networks: Media Access Control
     (MAC) Bridges - Amendment 2: Bridging of IEEE 802.16'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/4293121
+- content: https://ieeexplore.ieee.org/document/4293121
   type: src
 type: standard
 docid:
@@ -25,39 +25,48 @@ date:
 - type: issued
   value: '2007-03-22'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-03-13'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document amends IEEE Std 802.1D, as previously amended by IEEE Std
+- content: This document amends IEEE Std 802.1D, as previously amended by IEEE Std
     802.17a(TM)-2004, to support the bridging of the IEEE 802.16 medium access control.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2007'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-1D.2004
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -73,5 +82,5 @@ keyword:
 - wireless metropolitan area networks
 - WMAN
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

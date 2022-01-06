@@ -1,12 +1,12 @@
 ---
 id: IEEEC37-26.2003
 title:
-  type: main
+- type: main
   content: IEEE Guide for Methods of Power-Factor Measurement for Low-Voltage Inductive
     Test Circuits
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1270352
+- content: https://ieeexplore.ieee.org/document/1270352
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '2003-09-11'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-10-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This guide provides methods for determining the value of power factor for
+- content: This guide provides methods for determining the value of power factor for
     inductive low-voltage (1000 volts ac and below) test circuits. These methods are
     used in determining power factor during short-circuit current tests in high power
     laboratories. It is preferred that these methods be used during short-circuit
@@ -46,12 +50,15 @@ abstract:
     as producing results equivalent to those obtained using the methods in this guide.
     The methods described are intended for use in low-voltage test circuits (under
     1000 volts ac), but may also be used for higher voltages.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2004'
@@ -63,15 +70,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE C37-26.2014
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Reactive power
@@ -82,5 +91,5 @@ keyword:
 - inductive test circuits
 - power factor
 ics:
-  code: 29.130.20
+- code: 29.130.20
   text: Low voltage switchgear and controlgear

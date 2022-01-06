@@ -1,12 +1,12 @@
 ---
 id: IEEE1313-1.1996
 title:
-  type: main
+- type: main
   content: IEEE Standard for Insulation Coordination - Definitions, Principles and
     Rules
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8684657
+- content: https://ieeexplore.ieee.org/document/8684657
   type: src
 type: standard
 docid:
@@ -25,28 +25,35 @@ date:
 - type: issued
   value: '1996-07-18'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The procedure for selection of the withstand voltages for equipment phase-to-ground
+- content: The procedure for selection of the withstand voltages for equipment phase-to-ground
     and phase-to-phase insulation systems is specified. A list of standard insulation
     levels, based on the voltage stress to which the equipment is being exposed, is
     also identified. This standard applies to three-phase ac systems above 1 kV.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1996'
@@ -58,8 +65,10 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
@@ -76,7 +85,7 @@ relation:
     formattedref:
       content: IEEE C62-82-1.2010
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - atmospheric correction
 - correction factor
@@ -97,5 +106,5 @@ keyword:
 - standard withstand voltages
 - voltage stress
 ics:
-  code: 29.080.01
+- code: 29.080.01
   text: Electrical insulation in general

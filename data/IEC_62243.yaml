@@ -1,12 +1,12 @@
 ---
 id: IEC62243
 title:
-  type: main
+- type: main
   content: 'IEC 62243 Ed. 1 (IEEE Std 1232(TM)-2002): Standard for Artificial Intelligence
     Exchange and Service Tie to All Test Environments (AI- ESTATE)'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8684709
+- content: https://ieeexplore.ieee.org/document/8684709
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '2002-06-13'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: AI-ESTATE is a set of specifications for data interchange and for standard
+- content: AI-ESTATE is a set of specifications for data interchange and for standard
     services for the test and diagnostic environment. The purpose of AI-ESTATE is
     to standardize interfaces between functional elements of an intelligent diagnostic
     reasoner and representations of diagnostic knowledge and data for use by such
@@ -46,12 +50,15 @@ abstract:
     two reasoners, and also to provide a formal typing system for diagnostic services.
     This standard then defines the services to manipulate diagnostic information and
     to control a diagnostic reasoner.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2005'

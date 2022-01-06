@@ -1,12 +1,12 @@
 ---
 id: IEEE1175-4.2008
 title:
-  type: main
+- type: main
   content: IEEE Standard for CASE Tool Interconnections--Reference Model for Specifying
     System Behavior
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/4839189
+- content: https://ieeexplore.ieee.org/document/4839189
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '2008-12-10'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-02-14'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The reference model that provides a common interpretation basis by which
+- content: The reference model that provides a common interpretation basis by which
     tools can express and communicate the observable features of system/software behavior
     to users and to other tools is presented in this standard. This standard specifies
     a conceptual metamodel for understanding and describing the causal behavior for
@@ -51,12 +55,15 @@ abstract:
     or mixed system components, and it allows these different types of components
     to be treated in a consistent manner, providing a basis for representing a wide
     variety of systems.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2009'
@@ -74,5 +81,5 @@ keyword:
 - system
 - system testing
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

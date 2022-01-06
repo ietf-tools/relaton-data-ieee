@@ -1,12 +1,12 @@
 ---
 id: IEEE1471.2000
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for Architectural Description for Software-Intensive
     Systems
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/875998
+- content: https://ieeexplore.ieee.org/document/875998
   type: src
 type: standard
 docid:
@@ -25,36 +25,43 @@ date:
 - type: issued
   value: '2000-09-21'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: '" This recommended practice addresses the activities of the creation,
+- content: '" This recommended practice addresses the activities of the creation,
     analysis, and sus-tainment of architectures of software-intensive systems, and
     the recording of such architectures interms of architectural descriptions . A
     conceptual framework for architectural description is estab-lished. The content
     of an architectural description is defined. Annexes provide the rationale for
     keyconcepts and terminology, the relationships to other standards, and examples
     of usage. "'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2000'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE Unapproved P42010/D-6.2009
@@ -74,5 +81,5 @@ keyword:
 - view
 - viewpoint
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

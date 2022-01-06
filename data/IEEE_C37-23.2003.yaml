@@ -1,11 +1,11 @@
 ---
 id: IEEEC37-23.2003
 title:
-  type: main
+- type: main
   content: IEEE Standard for Metal-Enclosed Bus
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1295382
+- content: https://ieeexplore.ieee.org/document/1295382
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '2003-09-11'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-07-08'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Metal-enclosed (ME) bus assemblies for indoor and outdoor use are covered
+- content: Metal-enclosed (ME) bus assemblies for indoor and outdoor use are covered
     in this standard. The types of assemblies covered are nonsegregated-phase bus,
     segregated-phase bus, and isolated-phase bus. Rated maximum voltages of ac ME
     bus assemblies range from 0.635 kV through 38 kV with continuous current ratings
@@ -47,25 +51,30 @@ abstract:
     of insulating materials, insulation (dielectric) withstand voltage requirements,
     test procedures, and application are discussed. A guide for calculating losses
     in isolated-phase bus is included.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2004'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: ANSI/IEEE C37-23.1987
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -79,5 +88,5 @@ keyword:
 - nonsegregated-phase bus
 - segregated-phase bus
 ics:
-  code: 29.060.10
+- code: 29.060.10
   text: Wires

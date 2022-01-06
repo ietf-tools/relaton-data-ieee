@@ -1,12 +1,12 @@
 ---
 id: IEEE269.2002
 title:
-  type: main
+- type: main
   content: IEEE Standard Methods for Measuring Transmission Performance of Analog
     and Digital Telephone Sets, Handsets, and Headsets
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1196299
+- content: https://ieeexplore.ieee.org/document/1196299
   type: src
 type: standard
 docid:
@@ -25,30 +25,37 @@ date:
 - type: issued
   value: '2002-11-11'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Practical methods for making laboratory measurements of electroacoustic
+- content: Practical methods for making laboratory measurements of electroacoustic
     characteristics of analog and digital telephones, handsets, and headsets are provided
     in this revised standard. The methods may also be applicable to a wide variety
     of other communications equipment, including cordless, wireless, and mobile communications
     devices. Measurement results may be used to evaluate these devices on a standardized
     basis. Application is in the frequency range 100&#8211;8500 Hz.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2003'
@@ -60,15 +67,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 269.2010
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Communication equipment testing
@@ -85,5 +94,5 @@ keyword:
 - telephony
 - voice transmission performance
 ics:
-  code: 33.050.10
+- code: 33.050.10
   text: Telephone equipment

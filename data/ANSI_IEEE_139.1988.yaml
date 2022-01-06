@@ -1,12 +1,12 @@
 ---
 id: ANSI/IEEE139.1988
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for the Measurement of Radio Frequency Emission
     from Industrial, Scientific, and Medical (ISM) Equipment Installed on User's Premises
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/26500
+- content: https://ieeexplore.ieee.org/document/26500
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1988-06-09'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-01-03'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document describes equipment inspection and radio frequency (rf) electromagnetic
+- content: This document describes equipment inspection and radio frequency (rf) electromagnetic
     field measurement procedures for evaluation of rf industrial, scientific, and
     medical (ISM) equipment installed in the user's facility. The term, ISM equipment,
     as used here, includes equipment that generates rf energy for purposes other than
@@ -55,12 +59,15 @@ abstract:
     of causing interference. 4) ISM equipment has been modified in a way that could
     affect its rf emissions. 5) As the equipment ages, there is a question about its
     continued compliance. Etc.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1988'
@@ -74,5 +81,5 @@ keyword:
 - rf energy
 - field-strength measurement
 ics:
-  code: 33.100.10
+- code: 33.100.10
   text: Emission

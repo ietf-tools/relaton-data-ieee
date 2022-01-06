@@ -1,11 +1,11 @@
 ---
 id: ANSI/IEEEC37-14.1979
 title:
-  type: main
+- type: main
   content: IEEE Standard for Low-Voltage DC Power Circuit Breakers Used in Enclosures
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/598848
+- content: https://ieeexplore.ieee.org/document/598848
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1976-12-09'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-12-24'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard covers enclosed low-voltage DC power circuit breakers of
+- content: This standard covers enclosed low-voltage DC power circuit breakers of
     the stationary or drawout type of single- or two-pole construction with one or
     more rated maximum voltages of 300 V, 325 V, 800 V, 1000 V, 1600 V, or 3200 V
     for applications on dc systems having nominal voltages of 250 V, 275 V, 750 V,
@@ -45,22 +49,25 @@ abstract:
     or solid-state trip devices. It deals with service conditions, ratings, functional
     components, temperature limitations and classification of insulating materials,
     insulation (dielectric) withstand voltage requirements, test procedures, and application.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1979'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE C37-14.1992
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Circuit breakers
 - IEEE Standards
@@ -69,5 +76,5 @@ keyword:
 - Personnel
 - C37.14
 ics:
-  code: 29.130.20
+- code: 29.130.20
   text: Low voltage switchgear and controlgear

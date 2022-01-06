@@ -12,7 +12,7 @@ title:
     eXtensible Markup Language (XML) - Redline'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6759735
+- content: https://ieeexplore.ieee.org/document/6759735
   type: src
 type: standard
 docid:
@@ -29,40 +29,47 @@ date:
 - type: issued
   value: '2013-08-23'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-03-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard is intended to promote and facilitate interoperability between
+- content: This standard is intended to promote and facilitate interoperability between
     components of automatic test systems where test results need to be shared. The
     standard thus facilitates the capture of test results data in storage devices
     and databases, facilitating online and offline analysis. The test results schema
     becomes a class of information that can be used within the SIMICA family of standards.
     The exchange format utilizes the XML formats.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2013'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1636-1.2018
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Software maintenance
@@ -79,5 +86,5 @@ keyword:
 - test results
 - XML schema
 ics:
-  code: '35.040'
+- code: '35.040'
   text: Information coding

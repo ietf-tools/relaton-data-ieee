@@ -1,13 +1,13 @@
 ---
 id: IEEEP802-15-4q/D-5.0
 title:
-  type: main
+- type: main
   content: 'IEEE Draft Standard for Local and metropolitan area networks--Part 15.4:
     Low-Rate Wireless Personal Area Networks (LR-WPANs) Amendment for an Ultra Low
     Power Physical Layer'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7138555
+- content: https://ieeexplore.ieee.org/document/7138555
   type: src
 type: standard
 docid:
@@ -24,44 +24,53 @@ date:
 - type: issued
   value: '2015-01-01'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-06-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This amendment specifies two alternate PHYs, TASK and RS-GFSK, in addition
+- content: This amendment specifies two alternate PHYs, TASK and RS-GFSK, in addition
     to those of IEEE Std 802.15.4-2011. The amendment also defines those MAC modifications
     needed to support their implementation. The alternate PHYs enable low cost, ultra-low
     power consumption, and extended battery life, in various frequency bands and geographical
     regions under multiple regulatory domains.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2015'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-15-4.2011
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Personal area networks

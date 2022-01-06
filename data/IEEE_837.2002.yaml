@@ -1,11 +1,11 @@
 ---
 id: IEEE837.2002
 title:
-  type: main
+- type: main
   content: IEEE Standard for Qualifying Permanent Connections Used in Substation Grounding
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1203094
+- content: https://ieeexplore.ieee.org/document/1203094
   type: src
 type: standard
 docid:
@@ -24,29 +24,36 @@ date:
 - type: issued
   value: '2002-11-11'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-10-16'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Direction and methods for qualifying permanent connections used for substation
+- content: Direction and methods for qualifying permanent connections used for substation
     grounding are provided in this standard. This standard particularly addresses
     the connection used within the grid system, the connection used to join ground
     leads to the grid system, and the connection used to join the ground leads to
     equipment and structures.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2003'
@@ -58,15 +65,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 837.2014
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Substations
@@ -81,5 +90,5 @@ keyword:
 - grid system
 - permanent connection
 ics:
-  code: 29.120.50
+- code: 29.120.50
   text: Fuses and other overcurrent protection devices

@@ -1,12 +1,12 @@
 ---
 id: IEEE1450-3.2007
 title:
-  type: main
+- type: main
   content: IEEE Standard for Extensions to Standard Test Interface Language (STIL)
     (IEEE Std. 1450-1999) for Tester Target Specification
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/4301375
+- content: https://ieeexplore.ieee.org/document/4301375
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2007-03-08'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-02-03'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The STIL environment supports transferring tester-independent test programs
     to a specific automated testing equipment (ATE) system. Although native STIL data
@@ -47,8 +51,10 @@ abstract:
     TRC (which stands for either tester resource constraints or tester rules checking,
     depending on the usage) is an extension to the STIL language to facilitate this
     operation.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: The STIL environment supports transferring tester-independent test programs
     to a specific ATE system. Although native STIL data are tester independent, the
@@ -57,12 +63,15 @@ abstract:
     STIL programs and patterns are mapped onto the tester resources. TRC (which stands
     for either tester resource constraints or tester rules checking, depending on
     the usage) is an extension to the STIL language to facilitate this operation.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2007'
@@ -72,5 +81,5 @@ keyword:
 - tester resource targeting
 - tester resource loading
 ics:
-  code: '35.060'
+- code: '35.060'
   text: Languages used in information technology

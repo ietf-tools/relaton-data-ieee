@@ -1,12 +1,12 @@
 ---
 id: IEEE122.1991
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for Functional and Performance Characteristics
     of Control Systems for Steam Turbine-Generator Units
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/159442
+- content: https://ieeexplore.ieee.org/document/159442
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1991-12-05'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-30'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'Minimum functional and performance characteristics related to speed/load-control
+- content: 'Minimum functional and performance characteristics related to speed/load-control
     systems for steam turbine-generator units that may be interconnected on a power
     system are recommended. The recommendations apply to the following types of steam
     turbines, rated at 500 kW and larger, intended to drive electric generators at
@@ -49,12 +53,15 @@ abstract:
     reheat, regenerative feedwater heaters, or both; (3) automatic extraction and/or
     induction and mixed-pressure turbines. Emergency governors, other overspeed control
     devices, and, in general, devices that are not responsive to speed, are not covered.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1992'
@@ -75,5 +82,5 @@ keyword:
 - Automatic induction turbines
 - Automatic extraction turbines
 ics:
-  code: 29.160.20
+- code: 29.160.20
   text: Generators

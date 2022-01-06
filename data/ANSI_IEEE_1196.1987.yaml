@@ -1,11 +1,11 @@
 ---
 id: ANSI/IEEE1196.1987
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for a Simple 32-Bit Backplane Bus: NuBus'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/26492
+- content: https://ieeexplore.ieee.org/document/26492
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1987-06-11'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'Withdrawn Standard. Withdrawn Date: Mar 06, 2000. No longer endorsed by
+- content: 'Withdrawn Standard. Withdrawn Date: Mar 06, 2000. No longer endorsed by
     the IEEE. A simple, high-performance (37.5 Mbyte/s) backplane bus that provides
     the functions required by multiprocessor systems is defined. NuBus is a synchronous
     (10 MHz), multiplexed, multimaster bus that provides a fair arbitration mechanism.
@@ -51,12 +55,15 @@ abstract:
     a general understanding of the NuBus specification, covering bus lines and bus
     operation, are included. This document also contains ANSI/IEEE Std 1101-1987,
     IEEE Standard for Mechanical Core Specifications for Microcomputers.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1988'
@@ -75,5 +82,5 @@ keyword:
 - Data buses
 - transport
 ics:
-  code: '35.160'
+- code: '35.160'
   text: Microprocessor systems

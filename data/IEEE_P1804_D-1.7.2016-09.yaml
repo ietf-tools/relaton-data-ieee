@@ -1,12 +1,12 @@
 ---
 id: IEEEP1804/D-1.7.2016-09
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for Fault Accounting and Coverage Reporting to Digital
     Modules (FACR)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7586244
+- content: https://ieeexplore.ieee.org/document/7586244
   type: src
 type: standard
 docid:
@@ -23,19 +23,23 @@ date:
 - type: issued
   value: '2017-12-06'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-10-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Aspects of fault models as they are relevant to the generation of test
+- content: Aspects of fault models as they are relevant to the generation of test
     patterns for digital circuits are formalized in this standard. Fault counting,
     fault classification, and fault coverage reporting across different automatic
     test pattern generation (ATPG) tools, for the single stuck-at fault model are
@@ -44,12 +48,15 @@ abstract:
     of a uniform coverage (and, hence, a uniform test quality) metric for large chips
     [including systems-on-chips (SOCs)] with different cores and modules for which
     test patterns have been independently generated will be facilitated by this standard.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2016'

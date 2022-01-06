@@ -1,7 +1,7 @@
 ---
 id: IEEEP802-11aj/D-6.0.2017-06
 title:
-  type: main
+- type: main
   content: 'IEEE Draft Standard for Information Technology--Telecommunications and
     information exchange between systems Local and metropolitan area networks--Specific
     requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer
@@ -9,7 +9,7 @@ title:
     Chinese Millimeter Wave Frequency Bands(60 GHz and 45 GHz).'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7953591
+- content: https://ieeexplore.ieee.org/document/7953591
   type: src
 type: standard
 docid:
@@ -26,45 +26,54 @@ date:
 - type: issued
   value: '2018-02-15'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-06-17'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The IEEE 802.11(TM) directional multi-gigabit (DMG) physical layer (PHY)
+- content: The IEEE 802.11(TM) directional multi-gigabit (DMG) physical layer (PHY)
     and the medium access control (MAC) layer are modified by this amendment to IEEE
     Std 802.11(TM)-2016 to enable operation in the Chinese millimeter wave frequency
     band around 60 GHz. This amendment also defines modifications to the IEEE 802.11
     PHY and MAC layer to enable operation in the Chinese millimeter wave frequency
     band around 45 GHz.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2017'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-11.2012 Redline
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Information technology

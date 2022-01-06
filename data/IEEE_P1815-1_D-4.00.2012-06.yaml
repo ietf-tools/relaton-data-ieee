@@ -1,12 +1,12 @@
 ---
 id: IEEEP1815-1/D-4.00.2012-06
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for Exchanging Information Between Networks Implementing
     IEC 61850 and IEEE Std 1815 (Distributed Network Protocol - DNP3)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6218722
+- content: https://ieeexplore.ieee.org/document/6218722
   type: src
 type: standard
 docid:
@@ -23,19 +23,23 @@ date:
 - type: issued
   value: '2012'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2012-06-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This document specifies the standard approach for mapping between IEEE
+- content: 'This document specifies the standard approach for mapping between IEEE
     Std 1815 (Distributed Network Protocol (DNP3)) and IEC 61850 (Communications Networks
     and Systems for Power Utility Automation). Two primary use cases are addressed;
     A) Mapping between an IEEE Std 1815 based master and an IEC 61850 based remote
@@ -47,12 +51,15 @@ abstract:
     for embedding mapping configuration information into IEC 61850 System Configuration
     Language (SCL) and DNP3 Device Profile. This specification addresses a selection
     of features, data classes and services of the two standards.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2012'

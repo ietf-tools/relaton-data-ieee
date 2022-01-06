@@ -1,11 +1,11 @@
 ---
 id: IEEE1219.1998
 title:
-  type: main
+- type: main
   content: IEEE Standard for Software Maintenance
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/720567
+- content: https://ieeexplore.ieee.org/document/720567
   type: src
 type: standard
 docid:
@@ -24,26 +24,33 @@ date:
 - type: issued
   value: '1998-06-25'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-11-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'Replaced by ISO/IEC 14764: 2006. The process for managing and executing
+- content: 'Replaced by ISO/IEC 14764: 2006. The process for managing and executing
     software maintenance activities is described.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1998'
@@ -55,15 +62,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: ISO/IEC 14764.2006
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Software maintenance
 - life cycle
@@ -71,5 +80,5 @@ keyword:
 - software
 - software maintenance
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

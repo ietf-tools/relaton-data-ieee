@@ -1,11 +1,11 @@
 ---
 id: IEEE1076.2008
 title:
-  type: main
+- type: main
   content: IEEE Standard VHDL Language Reference Manual
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/4772740
+- content: https://ieeexplore.ieee.org/document/4772740
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '2008-09-26'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-12-20'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: VHSIC hardware description language (VHDL) is defined. VHDL is a formal
     notation intended for use in all phases of the creation of electronic systems.
@@ -45,8 +49,10 @@ abstract:
     hardware design data; and the maintenance, modification, and procurement of hardware.
     Its primary audiences are the implementors of tools supporting the language and
     the advanced users of the language.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: VHSIC Hardware Description Language (VHDL) is defined. VHDL is a formal
     notation intended for use in all phases of the creation of electronic systems.
@@ -56,12 +62,15 @@ abstract:
     Its primary audiences are the implementors of tools supporting the language and
     the advanced users of the language. (Additional downloads are available for this
     standard at https://standards.ieee.org/content/dam/ieee-standards/standards/web/download/1076-2008_downloads.zip)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2009'
@@ -78,15 +87,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1076.2019
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Hardware design languages
@@ -98,5 +109,5 @@ keyword:
 - hardware design
 - VHDL
 ics:
-  code: '35.060'
+- code: '35.060'
   text: Languages used in information technology

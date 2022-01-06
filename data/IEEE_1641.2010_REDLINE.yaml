@@ -8,7 +8,7 @@ title:
   content: IEEE Standard for Signal and Test Definition - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5953414
+- content: https://ieeexplore.ieee.org/document/5953414
   type: src
 type: standard
 docid:
@@ -27,41 +27,50 @@ date:
 - type: issued
   value: '2010-06-17'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-08-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard provides the means to define and describe signals used in
+- content: This standard provides the means to define and describe signals used in
     testing. It also provides a set of common basic signals, built upon formal mathematical
     specifications so that signals can be combined to form complex signals usable
     across all test platforms. This standard contains additional downloads at http://standards.ieee.org/downloads/1641/1641-2010
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2011'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1641.2004
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE standards

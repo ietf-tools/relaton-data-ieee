@@ -1,12 +1,12 @@
 ---
 id: IEEE1293.2008
 title:
-  type: main
+- type: main
   content: 'IEEE Standard Specification Format Guide and Test Procedure for Linear,Single-Axis,
     Nongyroscopic Accelerometers Corrigendum 1: Changes to Annex K and Annex L'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/4690904
+- content: https://ieeexplore.ieee.org/document/4690904
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2008-09-26'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-02-26'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: Specification and test requirements for linear, single-axis, nongyroscopic
     accelerometers for use as a sensor in attitude control systems, linear displacement
@@ -46,8 +50,10 @@ abstract:
     (pendulous or translational proof mass), vibrating beam accelerometers (VBAs),
     and micromechanical accelerometers that range from lesser accuracy to high accuracy
     devices.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Corrigendum to IEEE Std 1293-1998. Specification and test requirements
     for linear, single-axis, nongyroscopic accelerometers for use as a sensor in attitude
@@ -56,12 +62,15 @@ abstract:
     applies to force-rebalance accelerometers (pendulous or translational proof mass),
     vibrating beam accelerometers (VBAs), and micromechanical accelerometers that
     range from lesser accuracy to high accuracy devices.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2008'
@@ -85,5 +94,5 @@ keyword:
 - ratiometric output
 - VBA
 ics:
-  code: '17.080'
+- code: '17.080'
   text: Measurement of time, velocity, acceleration, angular velocity

@@ -1,12 +1,12 @@
 ---
 id: IEEE804.1983
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for Implementation of Unique Identification System
     in Power Plants and Related Facilities
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/30670
+- content: https://ieeexplore.ieee.org/document/30670
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1983-06-23'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-01-12'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This recommended practice provides a single source of implementation instructions
+- content: This recommended practice provides a single source of implementation instructions
     that, when used with related recommended practices concerning unique identification
     principles and definitions, component function identifiers, and system descriptions,
     provide a basis for uniquely identifying systems, structures, and components of
@@ -50,12 +54,15 @@ abstract:
     comparison, or general communication. A significant feature of this concept is
     that the unique identification code identifies the function at the component level
     and not the hardware itself.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1983'
@@ -69,5 +76,5 @@ keyword:
 - Power generation
 - Nuclear power generation
 ics:
-  code: '27.100'
+- code: '27.100'
   text: Power stations in general

@@ -1,13 +1,13 @@
 ---
 id: IEEEP1636-1/D-6.2013-05
 title:
-  type: main
+- type: main
   content: 'IEEE Approved Draft Standard for Software Interface for Maintenance Information
     Collection and Analysis (SIMICA): Exchanging Test Results and Session Information
     via the eXtensible Markup Language(XML)'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6523056
+- content: https://ieeexplore.ieee.org/document/6523056
   type: src
 type: standard
 docid:
@@ -24,30 +24,37 @@ date:
 - type: issued
   value: '2013-08-27'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-06-04'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard is intended to promote and facilitate interoperability between
+- content: This standard is intended to promote and facilitate interoperability between
     components of automatic test systems where test results need to be shared. The
     standard thus facilitates the capture of test results data in storage devices
     and databases, facilitating online and offline analysis. The test results schema
     becomes a class of information that can be used within the SIMICA family of standards.
     The exchange format utilizes the XML formats.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2013'
@@ -66,5 +73,5 @@ keyword:
 - session information
 - XML schema
 ics:
-  code: '35.040'
+- code: '35.040'
   text: Character sets and information coding

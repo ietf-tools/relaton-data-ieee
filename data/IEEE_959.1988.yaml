@@ -1,11 +1,11 @@
 ---
 id: IEEE959.1988
 title:
-  type: main
+- type: main
   content: 'IEEE Standard Specifications for an I/O Expansion Bus: SBX Bus'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/26635
+- content: https://ieeexplore.ieee.org/document/26635
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1988-06-09'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-26'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: An I/O expansion bus for microcomputers that is independent of processor
+- content: An I/O expansion bus for microcomputers that is independent of processor
     or board type is specified. Each expansion interface supports up to 16 8-bit I/O
     ports directly. Enhanced addressing capability is available using slave processors
     or FIFO devices. In addition, each expansion interface may optionally support
@@ -47,12 +51,15 @@ abstract:
     is covered in detail. The intent of the specification is to guarantee compatibility
     between baseboards and expansion modules while not restricting the actual designs
     any more than necessary.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1988'
@@ -64,5 +71,5 @@ keyword:
 - bus
 - sbx
 ics:
-  code: '35.160'
+- code: '35.160'
   text: Microprocessor systems

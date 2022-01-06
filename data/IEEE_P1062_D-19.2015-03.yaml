@@ -1,11 +1,11 @@
 ---
 id: IEEEP1062/D-19.2015-03
 title:
-  type: main
+- type: main
   content: IEEE Draft Recommended Practice for Software Acquisition
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7058319
+- content: https://ieeexplore.ieee.org/document/7058319
   type: src
 type: standard
 docid:
@@ -22,19 +22,23 @@ date:
 - type: issued
   value: '2015-01-01'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-03-11'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This recommended practice describes a set of useful quality considerations
+- content: This recommended practice describes a set of useful quality considerations
     that can be selected and applied during one or more steps in a software acquisition
     process. The recommended practices can be applied to software that runs on any
     computer system regardless of the size, complexity, or criticality of the software.
@@ -42,27 +46,32 @@ abstract:
     or open source software. Each organization or individual using this recommended
     practice will need to identify the specific quality and activities that need to
     be included within its acquisition process.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2015'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1062.1998
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Software development
@@ -78,5 +87,5 @@ keyword:
 - software-as-a-service
 - supplier
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

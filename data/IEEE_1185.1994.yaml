@@ -1,11 +1,11 @@
 ---
 id: IEEE1185.1994
 title:
-  type: main
+- type: main
   content: IEEE Guide for Installation Methods for Generating Station Cables
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/392571
+- content: https://ieeexplore.ieee.org/document/392571
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1994-06-14'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Installation methods to improve cable installation practices in generating
+- content: Installation methods to improve cable installation practices in generating
     stations are provided. These include cable lubrication methods, conduit-cable
     pulling charts, pull rope selection criteria, pulling attachment methods, and
     alternative methods to traditional cable pulling tension monitoring. This guide
@@ -44,22 +48,25 @@ abstract:
     installation limits. This guide may also be of benefit to cable pulling crews
     in commercial and industrial facilities when similar cable types and raceways
     are used.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1994'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1185.2010
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Power cables
@@ -79,5 +86,5 @@ keyword:
 - Conduit-cable pulling charts
 - Cable lubrication techniques
 ics:
-  code: 29.060.20
+- code: 29.060.20
   text: Cables

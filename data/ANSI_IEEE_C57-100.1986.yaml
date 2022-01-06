@@ -1,12 +1,12 @@
 ---
 id: ANSI/IEEEC57-100.1986
 title:
-  type: main
+- type: main
   content: IEEE Standard Test Procedure for Thermal Evaluation of Oil-Immersed Distribution
     Transformers
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/29102
+- content: https://ieeexplore.ieee.org/document/29102
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1983-09-22'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The object of this test procedure is to establish a uniform method for
+- content: The object of this test procedure is to establish a uniform method for
     investigating the effect of operating temperature on the life expectancy of oil-immersed
     distribution transformers. It is intended to give a direct evaluation of the composite
     insulation system of an oil-immersed distribution transformer, tested as an integral
@@ -47,22 +51,25 @@ abstract:
     test under conditions that are, as nearly as possible, the same as those that
     it would encounter in service. Thus, it is intended that each component be evaluated
     in accordance with its actual function.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1986'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE C57-100.1999
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Oil insulation
 - Insulation testing
@@ -79,5 +86,5 @@ keyword:
 - Power transformer insulation
 - Insulation life
 ics:
-  code: '29.180'
+- code: '29.180'
   text: Transformers. Reactors

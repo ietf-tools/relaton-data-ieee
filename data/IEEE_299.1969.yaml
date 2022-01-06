@@ -1,12 +1,12 @@
 ---
 id: IEEE299.1969
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for Measurement of Shielding Effectiveness of
     High-Performance Shielding Enclosures
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/20957
+- content: https://ieeexplore.ieee.org/document/20957
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1969'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Uniform measurement procedures and techniques are provided for determining
+- content: Uniform measurement procedures and techniques are provided for determining
     the effectiveness of room-sized, high-performance electromagnetic shielding enclosures
     at frequencies from 14 kHz to 18 GHz (extendable to 50 Hz and 100 GHz, respectively).
     The types of enclosures covered include single-shield or double-shield structures
@@ -46,22 +50,25 @@ abstract:
     screening hardware cloth, or metal foil. The intent is to reflect current practice
     and to provide a common reference for suppliers and users on the performance of
     shielding enclosures.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1969'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 299.1991
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Electromagnetic fields
 - Magnetic shielding
@@ -72,5 +79,5 @@ keyword:
 - performance
 - measurement
 ics:
-  code: 33.100.10
+- code: 33.100.10
   text: Emission

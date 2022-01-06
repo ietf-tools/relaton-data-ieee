@@ -1,12 +1,12 @@
 ---
 id: IEEE1516-1.2000
 title:
-  type: main
+- type: main
   content: IEEE Standard for Modeling and Simulation (M&amp;S) High Level Architecture
     (HLA) Federate Interface Specification
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/914368
+- content: https://ieeexplore.ieee.org/document/914368
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '2000-09-21'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The high level architecture (HLA) has been developed to provide a common
+- content: The high level architecture (HLA) has been developed to provide a common
     architecture for distributed modeling and simulation. The HLA defines an integrated
     approach that provides a common framework for the interconnection of interacting
     simulations. This document, the second in a family of three related HLA documents,
@@ -46,22 +50,25 @@ abstract:
     exchange of information when they participate in a distributed federation. The
     standards contained in this architecture are interrelated and need to be considered
     as a product set, when changes are made. They each have value independently.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2001'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1516-1.2010
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Computer architecture
@@ -82,5 +89,5 @@ keyword:
 - interaction class
 - object class
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

@@ -1,12 +1,12 @@
 ---
 id: IEEE1801.2015
 title:
-  type: main
+- type: main
   content: IEEE Standard for Design and Verification of Low-Power, Energy-Aware Electronic
     Systems
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7445797
+- content: https://ieeexplore.ieee.org/document/7445797
   type: src
 type: standard
 docid:
@@ -27,37 +27,46 @@ date:
 - type: issued
   value: '2015-12-05'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-04-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: A method is provided for specifying power intent for an electronic design,
     for use in verification of the structure and behavior of the design in the context
     of a given power management architecture, and for driving implementation of that
     power-management architecture. The method supports incremental refinement of power-intent
     specifications required for IP-based design flows.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: A method is provided for specifying power intent for an electronic design,
     for use in verification of the structure and behavior of the design in the context
     of a given power management architecture, and for driving implementation of that
     power-management architecture. The method supports incremental refinement of power-intent
     specifications required for IP-based design flows.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2015'
@@ -74,8 +83,10 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -103,5 +114,5 @@ keyword:
 - retention
 - Unified Power Format (UPF)
 ics:
-  code: '31.200'
+- code: '31.200'
   text: Integrated circuits. Microelectronics

@@ -1,12 +1,12 @@
 ---
 id: IEEEP11073-40101/D-5.2020-07
 title:
-  type: main
+- type: main
   content: 'IEEE Approved Draft Standard - Health informatics - Device interoperability
     - Part 40101: Cybersecurity - Processes for vulnerability assessment'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9154807
+- content: https://ieeexplore.ieee.org/document/9154807
   type: src
 type: standard
 docid:
@@ -23,19 +23,23 @@ date:
 - type: issued
   value: '2020'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-08-03'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard defines for Personal Health Devices (PHDs) and Point-of-Care
+- content: This standard defines for Personal Health Devices (PHDs) and Point-of-Care
     Devices (PoCDs) an iterative, systematic, scalable, and auditable approach to
     identification of cybersecurity vulnerabilities and estimation of risk. The standard
     presents one approach to iterative vulnerability assessment using the Spoofing,
@@ -44,12 +48,15 @@ abstract:
     includes system context, system decomposition, pre-mitigation scoring, mitigation,
     post-mitigation score and iterates until the remaining vulnerabilities are reduced
     to an acceptable level of risk.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2020'
@@ -69,5 +76,5 @@ keyword:
 - STRIDE
 - embedded Common Vulnerability Scoring System
 ics:
-  code: 01.040.11
+- code: 01.040.11
   text: Health care technology (Vocabularies)

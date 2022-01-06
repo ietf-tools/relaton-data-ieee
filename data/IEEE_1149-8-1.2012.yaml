@@ -1,12 +1,12 @@
 ---
 id: IEEE1149-8-1.2012
 title:
-  type: main
+- type: main
   content: IEEE Standard for Boundary-Scan-Based Stimulus of Interconnections to Passive
     and/or Active Components
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6259815
+- content: https://ieeexplore.ieee.org/document/6259815
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2012-06-08'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2012-08-03'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: Extensions to IEEE Std 1149.1TM that define the boundary-scan structures
     and methods required to facilitate boundary-scan-based stimulus of interconnections
@@ -50,8 +54,10 @@ abstract:
     IEEE Std 1149.1. This standard also specifies Boundary-Scan Description Language
     (BSDL) extensions to IEEE Std 1149.1 required to describe and support the new
     structures and methods.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Extensions to IEEE Std 1149.1&#8482; that define the boundary-scan structures
     and methods required to facilitate boundary-scan-based stimulus of interconnections
@@ -64,12 +70,15 @@ abstract:
     IEEE Std 1149.1. This standard also specifies Boundary-Scan Description Language
     (BSDL) extensions to IEEE Std 1149.1 required to describe and support the new
     structures and methods.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2012'
@@ -87,5 +96,5 @@ keyword:
 - loaded board testing
 - manufacturing defects
 ics:
-  code: 01.040.11
+- code: 01.040.11
   text: Health care technology (Vocabularies)

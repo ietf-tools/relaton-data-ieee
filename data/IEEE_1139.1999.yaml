@@ -1,12 +1,12 @@
 ---
 id: IEEE1139.1999
 title:
-  type: main
+- type: main
   content: IEEE Standard Definitions of Physical Quantities for Fundamental Frequency
     and Time Metrology-Random Instabilities
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/807679
+- content: https://ieeexplore.ieee.org/document/807679
   type: src
 type: standard
 docid:
@@ -25,41 +25,48 @@ date:
 - type: issued
   value: '1999-06-26'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-24'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Methods of describing random instabilities of importance to frequency and
+- content: Methods of describing random instabilities of importance to frequency and
     time metrology is covered in this standard. Quantities covered include frequency,
     amplitude, and phase instabilities; spectral densities of frequency, amplitude,
     and phase fluctuations; and time-domain variances of frequency fluctuations. In
     addition, recommendations are made for the reporting of measurements of frequency,
     amplitude and phase instabilities, especially as regards the recording of experimental
     parameters, experimental conditions, and calculation techniques.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1999'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE Std
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - AM noise
@@ -77,5 +84,5 @@ keyword:
 - time domain
 - time metrology
 ics:
-  code: '17.080'
+- code: '17.080'
   text: Measurement of time, velocity, acceleration, angular velocity

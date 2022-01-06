@@ -1,12 +1,12 @@
 ---
 id: IEEE1232.1995
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Artificial Intelligence and Expert System Tie to Automatic
     Test Equipment (AI-ESTATE): Overview and Architecture'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/499685
+- content: https://ieeexplore.ieee.org/document/499685
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1995-09-21'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-01-12'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: SUPERSEDED BY IEEE STD 1232-2002 This document is the base standard for
+- content: SUPERSEDED BY IEEE STD 1232-2002 This document is the base standard for
     the AI-ESTATE set of standards. The overall concept of AIESTATE, which is a set
     of specifications for data interchange and for standard services for the test
     and diagnostic environment, is defined; mandatory requirements for implementing
@@ -47,22 +51,25 @@ abstract:
     is defined. The purpose of the AI-ESTATE set of standards is to standardize interfaces
     between functional elements of an intelligent test environment and representations
     of knowledge and data for the functional elements of the intelligent test environment.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1996'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1232.2002
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Automatic testing
 - Expert systems

@@ -1,12 +1,12 @@
 ---
 id: IEEE1AB-REV/D-1.0.2015-08
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for Local and Metropolitan Area Networks - Station
     and Media Access Control Connectivity Discovery
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7203310
+- content: https://ieeexplore.ieee.org/document/7203310
   type: src
 type: standard
 docid:
@@ -23,42 +23,51 @@ date:
 - type: issued
   value: '2015-01-01'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-08-14'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document defines a protocol and a set of managed objects that can
+- content: This document defines a protocol and a set of managed objects that can
     be used for discovering the physical topology from adjacent stations in IEEE 802
     LANs.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2015'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-1AB.2009
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Topology

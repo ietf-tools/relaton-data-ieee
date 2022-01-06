@@ -10,7 +10,7 @@ title:
     Optical Wireless Communications - Redline'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8751172
+- content: https://ieeexplore.ieee.org/document/8751172
   type: src
 type: standard
 docid:
@@ -27,19 +27,23 @@ date:
 - type: issued
   value: '2018-12-05'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-06-28'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: A physical layer (PHY) and medium access control (MAC) sublayer for short-range
+- content: A physical layer (PHY) and medium access control (MAC) sublayer for short-range
     optical wireless communications (OWC) in optically transparent media using light
     wavelengths from 10 000 nm to 190 nm are defined. The standard is capable of delivering
     data rates sufficient to support audio and video multimedia services and also
@@ -50,25 +54,30 @@ abstract:
     for cameras where transmitting devices incorporate light-emitting sources and
     receivers are digital cameras with a lens and image sensor. The standard adheres
     to applicable eye safety regulations.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2018'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-15-7.2011
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -90,5 +99,5 @@ keyword:
 - visible-light communication
 - VLC
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

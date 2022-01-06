@@ -1,11 +1,11 @@
 ---
 id: IEEE1540.2001
 title:
-  type: main
+- type: main
   content: IEEE Standard for Software Life Cycle Processes - Risk Management
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/914365
+- content: https://ieeexplore.ieee.org/document/914365
   type: src
 type: standard
 docid:
@@ -24,37 +24,44 @@ date:
 - type: issued
   value: '2001-03-17'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-06-12'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: A process for the management of risk in the life cycle of software is defined.
+- content: A process for the management of risk in the life cycle of software is defined.
     It can be added to the existing set of software life cycle processes defined by
     the IEEE/EIA 12207 series of standards, or it can be used independently.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2001'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: ISO/IEC 16085.2004
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Software
 - IEEE Standards
@@ -69,5 +76,5 @@ keyword:
 - risk management
 - risk treatment
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

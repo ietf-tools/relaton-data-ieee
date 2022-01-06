@@ -1,12 +1,12 @@
 ---
 id: IEEE1901.2010
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Broadband over Power Line Networks: Medium Access Control
     and Physical Layer Specifications'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5678772
+- content: https://ieeexplore.ieee.org/document/5678772
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2010-09-30'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-12-10'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: A standard for high-speed communication devices via electric power lines,
     so called broadband over power line (BPL) devices, is defined. Transmission frequencies
@@ -51,8 +55,10 @@ abstract:
     devices, and ensuring that desired bandwidth and quality of service may be delivered.
     The necessary security questions are addressed to ensure the privacy of communications
     between users and to allow the use of BPL for security sensitive services.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: A standard for high-speed communication devices via electric power lines,
     so called broadband over power line (BPL) devices, is defined. Transmission frequencies
@@ -66,12 +72,15 @@ abstract:
     devices, and ensuring that desired bandwidth and quality of service may be delivered.
     The necessary security questions are addressed to ensure the privacy of communications
     between users and to allow the use of BPL for security sensitive services.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2010'
@@ -101,5 +110,5 @@ keyword:
 - sine modulated filter banks
 - wavelet orthogonal frequency division multiplexing (OFDM)
 ics:
-  code: 33.040.60
+- code: 33.040.60
   text: Powerline telecommunications

@@ -1,12 +1,12 @@
 ---
 id: IEEEUnapprovedP802-1AS/D-2.0.2008-02
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for Local and Metropolitan Area Networks--Timing and
     Synchronization for Time-Sensitive Applications in Bridged Local Area Networks
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/4489700
+- content: https://ieeexplore.ieee.org/document/4489700
   type: src
 type: standard
 docid:
@@ -16,21 +16,25 @@ docid:
   type: ISBN
 docnumber: IEEE Unapproved P802-1AS/D-2.0.2008-02
 date:
-  type: created
+- type: created
   value: '2008'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
-language: en
-script: Latn
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard specifies the protocol and procedures used to ensure that
+- content: This standard specifies the protocol and procedures used to ensure that
     the synchronization requirements are met for time sensitive applications, such
     as audio and video, across Bridged and Virtual Bridged Local Area Networks consisting
     of LAN media where the transmission delays are fixed and symmetrical; for example,
@@ -40,15 +44,18 @@ abstract:
     where applicable in the context of IEEE Stds 802.1D and 802.1Q. Synchronization
     to an externally provided timing signal (e.g., a recognized timing standard such
     as UTC or TAI) is not part of this standard but is not precluded
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2008'
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

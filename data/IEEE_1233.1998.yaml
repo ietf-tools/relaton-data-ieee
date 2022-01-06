@@ -1,11 +1,11 @@
 ---
 id: IEEE1233.1998
 title:
-  type: main
+- type: main
   content: IEEE Guide for Developing System Requirements Specifications
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/741940
+- content: https://ieeexplore.ieee.org/document/741940
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1998-12-08'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-02-21'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Replaced by ISO/IEC/IEEE 29148:2011. Guidance for the development of the
+- content: Replaced by ISO/IEC/IEEE 29148:2011. Guidance for the development of the
     set of requirements, System Requirements Specification (SyRS), that will satisfy
     an expressed need is provided. Developing an SyRS includes the identification,
     organization, presentation, and modification of the requirements. Also addressed
@@ -44,25 +48,30 @@ abstract:
     and design configuration requirements into the specification. This guide also
     covers the necessary characteristics and qualities of individual requirements
     and the set of all requirements.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1998'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1233.1996
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - System analysis and design
@@ -71,5 +80,5 @@ keyword:
 - system
 - system requirements specification
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

@@ -1,13 +1,13 @@
 ---
 id: ISO/IEC/IEEE8802-1X.2013
 title:
-  type: main
+- type: main
   content: 'IEEE/ISO/IEC Information technology -- Telecommunications and information
     exchange between systems -- Local and metropolitan area networks -- Part 1X: Port-based
     network access control'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6679204
+- content: https://ieeexplore.ieee.org/document/6679204
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '2013'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-12-06'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: Port-based network access control allows a network administrator to restrict
     the use of IEEE 802(R) LAN service access points (ports) to secure communication
@@ -46,8 +50,10 @@ abstract:
     between the ports, including the media access method independent protocols that
     are used to discover and establish the security associations used by IEEE 802.1AE(TM)
     MAC Security.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Port-based network access control allows a network administrator to restrict
     the use of IEEE 802(R) LAN service access points (ports) to secure communication
@@ -57,19 +63,24 @@ abstract:
     between the ports, including the media access method independent protocols that
     are used to discover and establish the security associations used by IEEE 802.1AE(TM)
     MAC Security.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
-  - name: IEC
+  - name:
+    - ISO
+  - name:
+    - IEC
   from: '2013'
 relation:
-  type: adoptedFrom
+- type: adoptedFrom
   bibitem:
     formattedref:
       content: IEEE 802-1X.2010
@@ -101,5 +112,5 @@ keyword:
 - service access point
 - uncontrolled port
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

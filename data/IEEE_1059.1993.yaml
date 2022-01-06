@@ -1,11 +1,11 @@
 ---
 id: IEEE1059.1993
 title:
-  type: main
+- type: main
   content: IEEE Guide for Software Verification and Validation Plans
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/838043
+- content: https://ieeexplore.ieee.org/document/838043
   type: src
 type: standard
 docid:
@@ -24,29 +24,36 @@ date:
 - type: issued
   value: '1993-12-02'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-30'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Guidance in preparing Software Verification and Validation Plans (SVVPs)
+- content: Guidance in preparing Software Verification and Validation Plans (SVVPs)
     that comply with IEEE Std 1012-1986 are provided. IEEE Std 1012-1986 specifies
     the required content for an SVVP. This guide recommends approaches to Verification
     and Validation (V &amp; V) planning. This guide does not present requirements
     beyond those stated in IEEE Std 1012-1986.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1994'
@@ -65,5 +72,5 @@ keyword:
 - Life cycle phases
 - Baseline change assessment
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

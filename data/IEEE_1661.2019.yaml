@@ -1,12 +1,12 @@
 ---
 id: IEEE1661.2019
 title:
-  type: main
+- type: main
   content: IEEE Guide for Test and Evaluation of Lead-Acid Batteries Used in Photovoltaic
     (PV) Hybrid Power Systems
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8796480
+- content: https://ieeexplore.ieee.org/document/8796480
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2019-06-13'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-08-13'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: This guide is specifically prepared for a PV/engine generator hybrid power
     system, but may also be applicable to all hybrid power systems where there is
@@ -48,8 +52,10 @@ abstract:
     and capacity measurements. Finally, a process to review test results and make
     appropriate decisions regarding the battery is provided. No cycle-life predictions
     are made.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: This guide is specifically prepared for a PV/engine generator hybrid power
     system, but may also be applicable to all hybrid power systems where there is
@@ -60,25 +66,30 @@ abstract:
     and capacity measurements. Finally, a process to review test results and make
     appropriate decisions regarding the battery is provided. No cycle-life predictions
     are made.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2019'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1661.2007
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -93,5 +104,5 @@ keyword:
 - PV hybrid battery test
 - PV system testing
 ics:
-  code: 29.220.20
+- code: 29.220.20
   text: Acid secondary cells and batteries

@@ -1,12 +1,12 @@
 ---
 id: IEEEP1671-5/D-8.2014-07
 title:
-  type: main
+- type: main
   content: IEEE Approved Draft Standard for Automatic Test Markup Language (ATML)
     Test Adaptor Description
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7028994
+- content: https://ieeexplore.ieee.org/document/7028994
   type: src
 type: standard
 docid:
@@ -23,28 +23,35 @@ date:
 - type: issued
   value: '2015-03-26'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-02-02'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: An exchange format, using extensible markup language (XML), for identifying
+- content: An exchange format, using extensible markup language (XML), for identifying
     all of the hardware, software, and documentation associated with a test adapter
     is specified in this document. This test adapter may be used as a component of
     a test program set to test and diagnose a unit under test.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2014'
@@ -63,5 +70,5 @@ keyword:
 - test fixture
 - XML schema
 ics:
-  code: 35.240.30
+- code: 35.240.30
   text: IT applications in information, documentation and publishing

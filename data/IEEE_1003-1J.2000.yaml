@@ -1,13 +1,13 @@
 ---
 id: IEEE1003-1j.2000
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Information Technology--Portable Operating System Interface
     (POSIX(TM))--Part 1: System Application Program Interface (API)--Amendment 5:
     Advanced Realtime Extensions [C Language]'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/859471
+- content: https://ieeexplore.ieee.org/document/859471
   type: src
 type: standard
 docid:
@@ -26,28 +26,35 @@ date:
 - type: issued
   value: '2000-01-30'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard is part of the POSIX series of standards for applications
+- content: This standard is part of the POSIX series of standards for applications
     and user interfaces to open systems. It defines the applications interface to
     system services for synchronization, memory management, time management, and thread
     management. This standard is stated interms of its C language binding.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2000'

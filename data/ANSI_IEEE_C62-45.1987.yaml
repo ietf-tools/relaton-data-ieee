@@ -1,12 +1,12 @@
 ---
 id: ANSI/IEEEC62-45.1987
 title:
-  type: main
+- type: main
   content: IEEE Guide on Surge Testing for Equipment Connected to Low-Voltage AC Power
     Circuits
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/27824
+- content: https://ieeexplore.ieee.org/document/27824
   type: src
 type: standard
 docid:
@@ -25,30 +25,37 @@ date:
 - type: issued
   value: '1985-09-19'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Guidance is provided for applying surge testing to AC power interfaces
+- content: Guidance is provided for applying surge testing to AC power interfaces
     of equipment connected to low-voltage ac power circuits that are subject to transient
     overvoltages. Signal and data lines are not addressed in this document, nor are
     any specifications stated on the withstand levels that might be assigned to specific
     equipments. An important objective of the document is to call attention to the
     safety aspects of surge testing.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1987'
@@ -60,15 +67,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE C62-45.1992
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Safety
 - Standards
@@ -76,5 +85,5 @@ keyword:
 - Testing
 - C62.45
 ics:
-  code: 29.120.50
+- code: 29.120.50
   text: Fuses and other overcurrent protection devices

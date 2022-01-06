@@ -1,14 +1,14 @@
 ---
 id: IEC/IEEE62704-2.2017
 title:
-  type: main
+- type: main
   content: 'IEEE/IEC International Standard -- Determining the peak spatial-average
     specific absorption rate (SAR) in the human body from wireless communications
     devices, 30 MHz to 6 GHz -- Part 2: Specific requirements for finite difference
     time domain (FDTD) modelling of exposure from vehicle mounted antennas'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7964816
+- content: https://ieeexplore.ieee.org/document/7964816
   type: src
 type: standard
 docid:
@@ -29,19 +29,23 @@ date:
 - type: issued
   value: '2017-05-18'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-06-30'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This part of IEC/IEEE 62704 establishes the concepts, techniques, validation
+- content: This part of IEC/IEEE 62704 establishes the concepts, techniques, validation
     procedures, uncertainties and limitations of the finite difference time domain
     technique (FDTD) when used for determining the peak spatial-average and whole-body
     average specific absorption rate (SAR) in a standardized human anatomical model
@@ -55,15 +59,19 @@ abstract:
     revisions of this document. This document does not recommend specific peak spatial-average
     and wholebody average SAR limits since these are found in other documents, e.g.
     IEEE C95.1-2005, ICNIRP (1998).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: IEC
+  - name:
+    - IEC
   from: '2017'
 keyword:
 - IEEE Standards
@@ -76,5 +84,5 @@ keyword:
 - Antennas
 - Vehicles
 ics:
-  code: 01.040.11
+- code: 01.040.11
   text: Health care technology (Vocabularies)

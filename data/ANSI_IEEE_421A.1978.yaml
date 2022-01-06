@@ -1,12 +1,12 @@
 ---
 id: ANSI/IEEE421A.1978
 title:
-  type: main
+- type: main
   content: IEEE Guide for Identification, Testing, and Evaluation of the Dynamic Performance
     of Excitation Control Systems
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/27751
+- content: https://ieeexplore.ieee.org/document/27751
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1976-12-09'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Superseded by 421.2-1990. This guide includes criteria, definitions, and
+- content: Superseded by 421.2-1990. This guide includes criteria, definitions, and
     test procedures for evaluating the dynamic performance of excitation control systems
     as applied by electric utilities. Primary purposes are to provide a basis for
     evaluating closed-loop performance of excitation control systems (including both
@@ -48,22 +52,25 @@ abstract:
     system specifications and additional standards. Portions of this guide will also
     serve as an educational means for people becoming acquainted with excitation control
     systems.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1978'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 421-2.1990
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Control systems
 - Power systems
@@ -71,5 +78,5 @@ keyword:
 - Testing
 - '421.2'
 ics:
-  code: 29.160.10
+- code: 29.160.10
   text: Components for rotating machinery

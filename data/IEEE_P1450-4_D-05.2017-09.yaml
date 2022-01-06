@@ -1,12 +1,12 @@
 ---
 id: IEEEP1450-4/D-05.2017-09
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for Extensions to Standard Test Interface Language
     (STIL) (IEEE Std. 1450-1999) for Test Flow Specification
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8057607
+- content: https://ieeexplore.ieee.org/document/8057607
   type: src
 type: standard
 docid:
@@ -23,19 +23,23 @@ date:
 - type: issued
   value: '2017-12-06'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-03'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard extends IEEE Std 1450-1999 (STIL) to 39 provide an interface
+- content: This standard extends IEEE Std 1450-1999 (STIL) to 39 provide an interface
     between test generation tools and test equipment with regard to the specification
     of the flow of execution of test program components. It defines structures such
     that test flows, sub-flows, and binning may be described in a manner that facilitates
@@ -48,12 +52,15 @@ abstract:
     that support automatic test program generation (ATPRG) and translation, and running
     it natively as an ATE programming language. As an adjunct, IEEE Std 1450.3-2007,
     may be used by ATPRG for tester rules checking.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2017'

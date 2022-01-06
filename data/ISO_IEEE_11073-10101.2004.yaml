@@ -1,12 +1,12 @@
 ---
 id: ISO/IEEE11073-10101.2004
 title:
-  type: main
+- type: main
   content: 'ISO/IEEE Health informatics -- Point-of-care medical device communication
     -- Part 10101: Nomenclature'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1389298
+- content: https://ieeexplore.ieee.org/document/1389298
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '2004-06-24'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-10'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Replaces the IEEE Std 1073.1.1.1-2004. Within the context of the ISO/IEEE
+- content: Replaces the IEEE Std 1073.1.1.1-2004. Within the context of the ISO/IEEE
     11073 family of standards for point-of-care(POC) medical device communication
     (MCD), this standard provides the nomenclature that supports both the domain information
     model and service model components of the standards family, as well as the semantic
@@ -48,22 +52,25 @@ abstract:
     unit of measurement, general device events, alarms, and body sites. The standard
     defines both the architecture and major components of the nomenclature, along
     with extensive definitions for each conceptual area.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2004'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 11073-10101.2019
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - ISO Standards

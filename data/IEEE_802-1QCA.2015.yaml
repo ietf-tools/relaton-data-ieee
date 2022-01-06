@@ -1,12 +1,12 @@
 ---
 id: IEEE802-1Qca.2015
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Local and metropolitan area networks--- Bridges and
     Bridged Networks - Amendment 24: Path Control and Reservation'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7434544
+- content: https://ieeexplore.ieee.org/document/7434544
   type: src
 type: standard
 docid:
@@ -27,31 +27,40 @@ date:
 - type: issued
   value: '2015-09-03'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-03-16'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: Explicit path control, bandwidth reservation, and redundancy (protection,
     restoration) for data flows are specified in this amendment to IEEE Std 802.1Q-2014.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Explicit path control, bandwidth reservation, and redundancy (protection,
     restoration) for data flows are specified in this amendment to IEEE Std 802.1Q-2014.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2016'
@@ -63,15 +72,17 @@ relation:
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: ISO/IEC/IEEE 8802-1Q/Amd1.2016
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Bridged circuits
@@ -91,5 +102,5 @@ keyword:
 - Virtual Bridged Local Area Network
 - virtual LAN
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

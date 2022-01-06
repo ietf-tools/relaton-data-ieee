@@ -1,12 +1,12 @@
 ---
 id: IEEE1547.2018
 title:
-  type: main
+- type: main
   content: IEEE Standard for Interconnection and Interoperability of Distributed Energy
     Resources with Associated Electric Power Systems Interfaces
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8332112
+- content: https://ieeexplore.ieee.org/document/8332112
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '2018-02-15'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The technical specifications for, and testing of, the interconnection and
+- content: The technical specifications for, and testing of, the interconnection and
     interoperability between utility electric power systems (EPSs) and distributed
     energy resources (DERs) are the focus of this standard. It provides requirements
     relevant to the performance, operation, testing, safety considerations, and maintenance
@@ -52,25 +56,30 @@ abstract:
     systems is the main emphasis of this document, although installation of DERs on
     primary and secondary network distribution systems is considered. This standard
     is written considering that the DER is a 60 Hz source.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2018'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1547.2003
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -138,5 +147,5 @@ keyword:
 - voltage regulation
 - wind energy systems
 ics:
-  code: '27.100'
+- code: '27.100'
   text: Power stations in general

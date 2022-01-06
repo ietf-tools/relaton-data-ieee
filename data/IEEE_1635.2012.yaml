@@ -1,12 +1,12 @@
 ---
 id: IEEE1635.2012
 title:
-  type: main
+- type: main
   content: IEEE/ASHRAE Guide for the Ventilation and Thermal Management of Batteries
     for Stationary Applications
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6338983
+- content: https://ieeexplore.ieee.org/document/6338983
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2012-08-30'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2012-10-24'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: Vented lead-acid (VLA), valve-regulated lead-acid (VRLA), and nickel-cadmium
     (NiCd) stationary battery installations are discussed in this guide, written to
@@ -47,8 +51,10 @@ abstract:
     hydrogen production. This guide describes battery operating modes and the hazards
     associated with each. It provides the HVAC designer with the information to provide
     a cost effective ventilation solution.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Vented lead-acid (VLA), valve-regulated lead-acid (VRLA), and nickel-cadmium
     (NiCd) stationary battery installations are discussed in this guide, written to
@@ -58,22 +64,25 @@ abstract:
     hydrogen production. This guide describes battery operating modes and the hazards
     associated with each. It provides the HVAC designer with the information to provide
     a cost effective ventilation solution.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2012'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1635.2018
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Batteries
@@ -95,5 +104,5 @@ keyword:
 - ventilation
 - ventilation system maintenance
 ics:
-  code: 29.220.01
+- code: 29.220.01
   text: Galvanic cells and batteries in general

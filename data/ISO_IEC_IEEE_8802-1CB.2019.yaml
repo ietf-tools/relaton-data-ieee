@@ -1,13 +1,13 @@
 ---
 id: ISO/IEC/IEEE8802-1CB.2019
 title:
-  type: main
+- type: main
   content: 'IEEE/ISO/IEC International Standard-Information technology - Telecommunications
     and information exchange between systems - Local and metropolitan area networks
     - Specific requirements - Part 1CB: Frame replication and elimination for reliability'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8661795
+- content: https://ieeexplore.ieee.org/document/8661795
   type: src
 type: standard
 docid:
@@ -28,44 +28,55 @@ date:
 - type: issued
   value: '2019'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-03-06'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: This standard specifies procedures, managed objects, and protocols for
     bridges and end systems that provide identification and replication of packets
     for redundant transmission, identification of duplicate packets, and elimination
     of duplicate packets. It is not concerned with the creation of the multiple paths
     over which the duplicates are transmitted.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: This standard specifies procedures, managed objects, and protocols for
     bridges and end systems that provide identification and replication of packets
     for redundant transmission, identification of duplicate packets, and elimination
     of duplicate packets. It is not concerned with the creation of the multiple paths
     over which the duplicates are transmitted.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
-  - name: IEC
+  - name:
+    - ISO
+  - name:
+    - IEC
   from: '2019'
 relation:
-  type: adoptedFrom
+- type: adoptedFrom
   bibitem:
     formattedref:
       content: IEEE 802-1CB.2017

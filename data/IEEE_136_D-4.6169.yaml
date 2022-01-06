@@ -1,12 +1,12 @@
 ---
 id: IEEE136/D-4.6169
 title:
-  type: main
+- type: main
   content: 'IEC 61691-4 Ed.1 (IEEE Std 1364(TM)-2001): Behavioural Languages - Part
     4: Verilog(C) Hardware Description Language'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1406532
+- content: https://ieeexplore.ieee.org/document/1406532
   type: src
 type: standard
 docid:
@@ -25,31 +25,38 @@ date:
 - type: issued
   value: '2004'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-11-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The Verilog(R) Hardware Description Language (HDL) is defined in this standard.
+- content: The Verilog(R) Hardware Description Language (HDL) is defined in this standard.
     Verilog HDL is a formal notation intended for use in all phases of the creation
     of electronic systems. Because it is both machine readable and human readable,
     it supports the development, verification, synthesis, and testing of hardware
     designs; the communication of hardware design data; and the maintenance, modification,
     and procurement of hardware. The primary audiences for this standard are the implementors
     of tools supporting the language and advanced users of the language.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2004'
@@ -72,5 +79,5 @@ keyword:
 - Verilog PLI
 - Verilog
 ics:
-  code: '35.060'
+- code: '35.060'
   text: Languages used in information technology

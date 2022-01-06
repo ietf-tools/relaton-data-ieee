@@ -1,12 +1,12 @@
 ---
 id: IEEEP1900-6/D-2.2010-07
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for Spectrum Sensing Interfaces and Data Structures
     for Dynamic Spectrum Access and other Advanced Radio Communication Systems
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5570095
+- content: https://ieeexplore.ieee.org/document/5570095
   type: src
 type: standard
 docid:
@@ -21,18 +21,22 @@ date:
 - type: issued
   value: '2010-09-09'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
-language: en
-script: Latn
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard defines the interfaces and data structures required to exchange
+- content: This standard defines the interfaces and data structures required to exchange
     sensing related information in order to increase interoperability between sensors
     and their clients developed by different manufacturers. The logical interface
     and supporting data structures are defined abstractly without constraining the
@@ -40,12 +44,15 @@ abstract:
     standard defines the entities involved and parameters exchanged in this process.
     It further elaborates on the service access points, service primitives, as well
     as generic procedures used to realize this information exchange.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2010'
@@ -62,5 +69,5 @@ keyword:
 - cognitive radio
 - dynamic spectrum access
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

@@ -1,13 +1,13 @@
 ---
 id: IEEEApprovedP802-1Qbg/D-2.2.2012-02
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Local and metropolitan area networks--Media Access Control
     (MAC) Bridges and Virtual Bridged Local Area Networks--Amendment 21: Edge Virtual
     Bridging'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6200814
+- content: https://ieeexplore.ieee.org/document/6200814
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '2012-05-14'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2012-05-16'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This amendment to IEEE Std 802.1Q-2011 specifies protocols, procedures,
+- content: This amendment to IEEE Std 802.1Q-2011 specifies protocols, procedures,
     and managed objects that-- Provide for the discovery, configuration, and control
     of a pair of direct-attached limited-function Service VLAN (S-VLAN) components
     to extend the services of a customer bridge to remote ports and enable coexistence
@@ -45,27 +49,32 @@ abstract:
     bridge port.-- Provide for discovery of, and coordinated configuration of, edge
     relays (ERs) and other devices that utilize the reflective relay service.-- Provide
     for dynamic profile-driven port configuration.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2012'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-1Q.2011
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Local area networks

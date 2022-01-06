@@ -1,13 +1,13 @@
 ---
 id: IEEE802-3bz.2016
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Ethernet Amendment 7: Media Access Control Parameters,
     Physical Layers, and Management Parameters for 2.5 Gb/s and 5 Gb/s Operation,
     Types 2.5GBASE-T and 5GBASE-T'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8894759
+- content: https://ieeexplore.ieee.org/document/8894759
   type: src
 type: standard
 docid:
@@ -26,28 +26,35 @@ date:
 - type: issued
   value: '2016-09-22'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-11-08'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Ethernet Media Access Control (MAC) parameters, Physical Layer specifications,
+- content: Ethernet Media Access Control (MAC) parameters, Physical Layer specifications,
     and management objects for the transfer of Ethernet format frames at 2.5 Gb/s
     and 5 Gb/s over balanced twisted-pair transmission media used in structured cabling
     are defined in this amendment to IEEE Std 802.3-2015.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2016'
@@ -59,15 +66,17 @@ relation:
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: ISO/IEC/IEEE 8802-3/Amd7.2017
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Media Access Protocol

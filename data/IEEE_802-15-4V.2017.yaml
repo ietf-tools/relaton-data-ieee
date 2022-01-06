@@ -1,12 +1,12 @@
 ---
 id: IEEE802-15-4v.2017
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Low-Rate Wireless Networks - Amendment 5: Enabling/Updating
     the Use of Regional Sub-GHz Bands'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7964803
+- content: https://ieeexplore.ieee.org/document/7964803
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2017-05-18'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-06-30'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The smart utility network (SUN) physical layers (PHYs) in IEEE Std 802.15.4(TM)-2015
     are changed by this amendment to enable the use of the 870--876 MHz and 915--921
@@ -50,8 +54,10 @@ abstract:
     Europe and aligns these channel parameters with regional requirements. The amendment
     includes channel access and/or timing changes to the medium access control (MAC)
     necessary for conformance to regional requirements for these bands.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: The smart utility network (SUN) physical layers (PHYs) in IEEE Std 802.15.4(TM)-2015
     are changed by this amendment to enable the use of the 870--876 MHz and 915--921
@@ -64,25 +70,30 @@ abstract:
     band in Europe and aligns these channel parameters with regional requirements.
     The amendment includes channel access and/or timing changes to the medium access
     control (MAC) necessary for conformance to regional requirements for these bands.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2017'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-15-4.2015
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -103,5 +114,5 @@ keyword:
 - wireless personal area network
 - WPAN
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

@@ -1,12 +1,12 @@
 ---
 id: IEEE802-3k.1992
 title:
-  type: main
+- type: main
   content: Supplement to 802.3 - Layer Management for 10 Mb/s Baseband Repeaters (Section
     19)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/239576
+- content: https://ieeexplore.ieee.org/document/239576
   type: src
 type: standard
 docid:
@@ -25,41 +25,50 @@ date:
 - type: issued
   value: '1992-09-17'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'The supplement to ISO/IEC 8802-3: 1992 [ANSI/IEEE Std 802.3, 1992 Edition]
+- content: 'The supplement to ISO/IEC 8802-3: 1992 [ANSI/IEEE Std 802.3, 1992 Edition]
     defines a set of mechanisms that enable management of ISO/IEC 8802-3 10 Mb/s baseband
     repeater units. The managed objects are defined in accordance with IEEE 802.1
     and ISO/IEC standards for network management.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1992'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: ANSI/IEEE 802-3.1985
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - Carrier sense multiaccess

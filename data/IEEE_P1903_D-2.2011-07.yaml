@@ -1,11 +1,11 @@
 ---
 id: IEEEP1903/D-2.2011-07
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for a Next Generation Service Overlay Network
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5976962
+- content: https://ieeexplore.ieee.org/document/5976962
   type: src
 type: standard
 docid:
@@ -22,18 +22,22 @@ date:
 - type: issued
   value: '2011-08-04'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
-language: en
-script: Latn
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This Next Generation Service Overlay Network (NGSON) standard describes
+- content: This Next Generation Service Overlay Network (NGSON) standard describes
     a framework of Internet Protocol(IP)-based service overlay networks and specifies
     context-aware (e.g., such as required Quality of Service (QoS) level, type of
     service such as real-time vs. data, nature of data stream such as Iframe vs. B-frame,
@@ -52,12 +56,15 @@ abstract:
     such as IMS, NGN, P2P overlay or Web to transmit NGSON signaling messages and/or
     media among its users and services. Specifications of underlying networks are
     outside scope of this standard.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2011'
@@ -77,5 +84,5 @@ keyword:
 - content delivery
 - service discovery and negotiation
 ics:
-  code: 35.240.99
+- code: 35.240.99
   text: IT applications in other fields

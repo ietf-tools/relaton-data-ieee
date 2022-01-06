@@ -1,11 +1,11 @@
 ---
 id: IEEEP2410/D-4.2014-09
 title:
-  type: main
+- type: main
   content: IEEE Draft Biometrics Open Protocol Standard
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6985516
+- content: https://ieeexplore.ieee.org/document/6985516
   type: src
 type: standard
 docid:
@@ -22,19 +22,23 @@ date:
 - type: issued
   value: '2015-09-03'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-12-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Biometric Open Protocol Standard (BOPS) provides Identity Assertion, Role
+- content: Biometric Open Protocol Standard (BOPS) provides Identity Assertion, Role
     Gathering, Multi-Level Access Control, Assurance, and Auditing. The BOPS includes
     software running on a client device (Android, iPhone, etc.), a trusted BOPS Server,
     and an Intrusion Detection(IDS) system. The BOPS allows pluggable components to
@@ -51,12 +55,15 @@ abstract:
     interface. The architecture is built on the servlet specification, open secure
     socket layers, Java, JSON, REST and Apache Solr. Each and every tool adheres to
     the open standards allowing maximum interoperability.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2014'
@@ -82,5 +89,5 @@ keyword:
 - user
 - user device
 ics:
-  code: 35.240.80
+- code: 35.240.80
   text: IT applications in health care technology

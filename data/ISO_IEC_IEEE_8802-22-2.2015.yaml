@@ -1,7 +1,7 @@
 ---
 id: ISO/IEC/IEEE8802-22-2.2015
 title:
-  type: main
+- type: main
   content: 'ISO/IEC/IEEE International Standard - Information technology -- Telecommunications
     and information exchange between systems -- Local and metropolitan area networks
     -- Specific requirements -- Part 22: Cognitive Wireless RAN Medium Access Control
@@ -10,7 +10,7 @@ title:
     applications'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8318948
+- content: https://ieeexplore.ieee.org/document/8318948
   type: src
 type: standard
 docid:
@@ -29,19 +29,23 @@ date:
 - type: issued
   value: '2018'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-03-16'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Alternate physical layer (PHY) and necessary medium access control layer
+- content: Alternate physical layer (PHY) and necessary medium access control layer
     (MAC) enhancements to IEEE Std 802.22-2011 are specified in this amendment for
     operation in very high frequency/ultra-high frequency (VHF/UHF) television broadcast
     bands between 54 MHz and 862 MHz to support enhanced broadband services and monitoring
@@ -52,16 +56,21 @@ abstract:
     communications among the devices and makes necessary amendments to the cognitive,
     security, and parameters and connection management clauses. This amendment supports
     mechanisms to enable coexistence with other IEEE 802(R) systems in the same band.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
-  - name: IEC
+  - name:
+    - ISO
+  - name:
+    - IEC
   from: '2018'
 keyword:
 - IEEE Standards
@@ -80,5 +89,5 @@ keyword:
 - monitoring applications
 - WRAN standard
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

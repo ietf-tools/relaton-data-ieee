@@ -1,12 +1,12 @@
 ---
 id: IEEE142.1991
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for Grounding of Industrial and Commercial Power
     Systems
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/469115
+- content: https://ieeexplore.ieee.org/document/469115
   type: src
 type: standard
 docid:
@@ -25,28 +25,35 @@ date:
 - type: issued
   value: '1991-06-27'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-01-10'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Superseded by IEEE Std 142-2007 (Green Book). This IEEE Standars product
+- content: Superseded by IEEE Std 142-2007 (Green Book). This IEEE Standars product
     is part of the Color Books family. The problems of system grounding, that is,
     connection to ground of neutral, of the corner of the delta, or of the midtap
     of one phase, are covered.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1992'
@@ -58,15 +65,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 142.2007
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Grounding
 - system
@@ -83,5 +92,5 @@ keyword:
 - Sensitive electronic equipment
 - Equipment grounding
 ics:
-  code: 29.120.50
+- code: 29.120.50
   text: Fuses and other overcurrent protection devices

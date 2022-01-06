@@ -1,11 +1,11 @@
 ---
 id: IEEE1250.2018
 title:
-  type: main
+- type: main
   content: IEEE Guide for Identifying and Improving Voltage Quality in Power Systems
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8532376
+- content: https://ieeexplore.ieee.org/document/8532376
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '2018-09-27'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-11-12'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The use of some electrical equipment attached to typical power systems
     creates power quality concerns. There is an increasing awareness that some equipment
@@ -46,8 +50,10 @@ abstract:
     concerns are addressed by this guide by documenting typical levels of these aspects
     of power quality and indicating how to improve them. Other documents that treat
     these subjects in more detail are referenced.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: The use of some electrical equipment attached to typical power systems
     creates power quality concerns. There is an increasing awareness that some equipment
@@ -57,25 +63,30 @@ abstract:
     concerns are addressed by this guide by documenting typical levels of these aspects
     of power quality and indicating how to improve them. Other documents that treat
     these subjects in more detail are referenced.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2018'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1250.2011
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -108,5 +119,5 @@ keyword:
 - voltage fluctuation
 - voltage quality
 ics:
-  code: 29.240.01
+- code: 29.240.01
   text: Power transmission and distribution networks in general

@@ -1,14 +1,14 @@
 ---
 id: ISO/IEC/IEEE8802-1AC/Cor1.2020
 title:
-  type: main
+- type: main
   content: 'ISO/IEC/IEEE International Standard for Telecommunications and exchange
     between information technology systems &#8212; Requirements for local and metropolitan
     area networks -- Part 1AC:Media access control (MAC) service definition -- TECHNICAL
     CORRIGENDUM 1: Logical Link Control (LLC) Encpsulation EtherType'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9039950
+- content: https://ieeexplore.ieee.org/document/9039950
   type: src
 type: standard
 docid:
@@ -29,38 +29,49 @@ date:
 - type: issued
   value: '2020'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-03-17'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: This corrigendum to IEEE Std 802.1AC-2016 corrects the value of the LLC
     Encapsulation EtherType.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: This corrigendum to IEEE Std 802.1AC-2016 corrects the value of the LLC
     Encapsulation EtherType.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
-  - name: IEC
+  - name:
+    - ISO
+  - name:
+    - IEC
   from: '2020'
 relation:
-  type: adoptedFrom
+- type: adoptedFrom
   bibitem:
     formattedref:
       content: IEEE 802-1AC/Cor1.2018
@@ -82,5 +93,5 @@ keyword:
 - MAN
 - metropolitan area network
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

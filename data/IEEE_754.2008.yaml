@@ -1,11 +1,11 @@
 ---
 id: IEEE754.2008
 title:
-  type: main
+- type: main
   content: IEEE Standard for Floating-Point Arithmetic
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/4610935
+- content: https://ieeexplore.ieee.org/document/4610935
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '2008-06-12'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-08-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: This standard specifies interchange and arithmetic formats and methods
     for binary and decimal floating-point arithmetic in computer programming environments.
@@ -46,19 +50,24 @@ abstract:
     For operations specified in the normative part of this standard, numerical results
     and exceptions are uniquely determined by the values of the input data, sequence
     of operations, and destination formats, all under user control.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: 'This standard specifies formats and methods for floating-point arithmetic
     in computer systems: standard and extended functions with single, double, extended,
     and extendable precision, and recommends formats for data interchange. Exception
     conditions are defined and standard handling of these conditions is specified.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2008'
@@ -75,15 +84,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 754.2019
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Floating-point arithmetic

@@ -1,11 +1,11 @@
 ---
 id: IEEENo-272
 title:
-  type: main
+- type: main
   content: IEEE Standard for Computer-Type (Square-Loop) Pulse Transformers
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/19465
+- content: https://ieeexplore.ieee.org/document/19465
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1969-09-11'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-01-18'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard pertains to computer-type pulse transformers. These pulse
+- content: This standard pertains to computer-type pulse transformers. These pulse
     transformers are characterized by their use of a square loop core material as
     defined below with normal operation into the saturation flux density regions and
     with typical operation using a specifically defined current input pulse. These
@@ -49,12 +53,15 @@ abstract:
     Appendix I contains a core analysis, transformer equivalent circuit, and definitions
     of associated terms. Appendix II contains definitions pertaining mainly to characteristic
     testing of computer-type pulse transformers.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1970'
@@ -67,5 +74,5 @@ keyword:
 - square
 - loop
 ics:
-  code: '29.180'
+- code: '29.180'
   text: Transformers. Reactors

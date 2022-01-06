@@ -1,12 +1,12 @@
 ---
 id: IEEEP1110/D-06.2018-12
 title:
-  type: main
+- type: main
   content: IEEE Draft Guide for Synchronous Generator Modeling Practices and Parameter
     Verification with Applications in Power System Stability Analyses
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8641519
+- content: https://ieeexplore.ieee.org/document/8641519
   type: src
 type: standard
 docid:
@@ -23,19 +23,23 @@ date:
 - type: issued
   value: '2019-11-07'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-02-13'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Categorized in this guide are three direct-axis and four quadrature-axis
+- content: Categorized in this guide are three direct-axis and four quadrature-axis
     models, along with the basic transient reactance model. Also discussed are some
     of the assumptions made in using various models. The fundamental equations and
     concepts involved in generator/system interfacing are presented. Covered, generally,
@@ -54,27 +58,32 @@ abstract:
     factors are given for transferring field parameters from one base to another for
     correct generator/excitation system interface modeling, Suggestions for modeling
     of negative field currents and other field circuit discontinuities are included.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2019'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1110.2002
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Synchronous motors
@@ -88,5 +97,5 @@ keyword:
 - stability data determination and application
 - synchronous generator stability models
 ics:
-  code: 29.160.20
+- code: 29.160.20
   text: Generators

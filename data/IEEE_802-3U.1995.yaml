@@ -1,13 +1,13 @@
 ---
 id: IEEE802-3u.1995
 title:
-  type: main
+- type: main
   content: 'IEEE Standards for Local and Metropolitan Area Networks: Supplement -
     Media Access Control (MAC) Parameters, Physical Layer, Medium Attachment Units,
     and Repeater for 100Mb/s Operation, Type 100BASE-T (Clauses 21-30)'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7974916
+- content: https://ieeexplore.ieee.org/document/7974916
   type: src
 type: standard
 docid:
@@ -26,19 +26,23 @@ date:
 - type: issued
   value: '1995-06-14'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-07-11'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'Superseded by 802.3aa-1998. The ISO/IEC CSMA/CD Media Access Control (MAC)
+- content: 'Superseded by 802.3aa-1998. The ISO/IEC CSMA/CD Media Access Control (MAC)
     is coupled with a family of new Physical Layer specifications to achieve 100 Mb/s
     operation. Known collectively as 100BASE-T, this family of Physical Layer specifications
     includes 100BASE-T4, which uses four pairs of ISO/IEC 11801: 1995 Category 3,
@@ -47,25 +51,30 @@ abstract:
     fibers. The two 100BASE-X specifications (100BASE-TX and 100BASE-FX) reused portions
     of the 100 Mb/s physical signaling specifications originally developed for Fibre
     Distributed Data Interface (FDDI).'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1995'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: ANSI/IEEE 802-3.1985
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards

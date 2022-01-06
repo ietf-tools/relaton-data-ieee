@@ -1,11 +1,11 @@
 ---
 id: ANSI/IEEE399.1980
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for Power System Analysis (IEEE Brown Book)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/18478
+- content: https://ieeexplore.ieee.org/document/18478
   type: src
 type: standard
 docid:
@@ -24,41 +24,48 @@ date:
 - type: issued
   value: '1979-12-20'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-01-16'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'Superseded by 399-1990. This recommended practice is a reference source
+- content: 'Superseded by 399-1990. This recommended practice is a reference source
     for engineers involved in industrial and commercial power systems analysis. It
     contains a thorough analysis of the power system data required, and the techniques
     most commonly used in computer-aided analysis, in order to perform specific power
     system studies of the following: short-circuit, load flow, motorstarting, cable
     ampacity, stability, harmonic analysis, switching transient, reliability, ground
     mat, protective coordination, DC auxiliary power system, and power system modeling.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1980'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 399.1990
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Power systems
 - Standards
@@ -67,5 +74,5 @@ keyword:
 - analysis
 - brown
 ics:
-  code: 29.240.01
+- code: 29.240.01
   text: Power transmission and distribution networks in general

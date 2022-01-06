@@ -1,12 +1,12 @@
 ---
 id: ANSI/IEEE519.1981
 title:
-  type: main
+- type: main
   content: IEEE Guide for Harmonic Control and Reactive Compensation of Static Power
     Convertors
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/27808
+- content: https://ieeexplore.ieee.org/document/27808
   type: src
 type: standard
 docid:
@@ -25,40 +25,47 @@ date:
 - type: issued
   value: '1979-12-20'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-11-12'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This guide applies to all types of static power converters used in industrial
+- content: This guide applies to all types of static power converters used in industrial
     and commercial power systems. The problems involved in the harmonic control and
     reactive compensation of such converters are addressed, and an application guide
     is provided. Limits of disturbances to the AC power distribution system that affect
     other equipment and communications are recommended. This guide is not intended
     to cover the effect of radio frequency interference.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1981'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 519.1992
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Harmonic analysis
 - Power conversion
@@ -66,5 +73,5 @@ keyword:
 - Reactive power
 - Standards
 ics:
-  code: '29.200'
+- code: '29.200'
   text: Rectifiers. Converters. Stabilized power supply

@@ -1,12 +1,12 @@
 ---
 id: IEEE802-1D.1990
 title:
-  type: main
+- type: main
   content: 'Standard for Local and Metropolitan Area Networks: Media Access Control
     (MAC) Bridges'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/159274
+- content: https://ieeexplore.ieee.org/document/159274
   type: src
 type: standard
 docid:
@@ -25,40 +25,47 @@ date:
 - type: issued
   value: '1990-05-31'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Superseded by IEEE Std 802.1D-1998 An architecture for the interconnection
+- content: Superseded by IEEE Std 802.1D-1998 An architecture for the interconnection
     of IEEE 802&#174; Local Area Networks (LANs) below the MAC Service boundary is
     defined. MAC Bridges, as specified by this standard, allow communications between
     end stations attached to separate LANs, each with its own separate MAC, to be
     transparent to logical link control (LLC) and network layer protocols, just as
     if the stations were attached to the same LAN.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1991'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: ANSI/IEEE 802-1D.1998
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Computer networks
 - Local area networks

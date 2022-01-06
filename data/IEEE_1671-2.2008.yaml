@@ -1,13 +1,13 @@
 ---
 id: IEEE1671-2.2008
 title:
-  type: main
+- type: main
   content: 'IEEE Trial-Use Standard for Automatic Test Markup Language (ATML) for
     Exchanging Automatic Test Equipment and Test Information via XML: Exchanging Instrument
     Descriptions'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/4723953
+- content: https://ieeexplore.ieee.org/document/4723953
   type: src
 type: standard
 docid:
@@ -26,38 +26,45 @@ date:
 - type: issued
   value: '2008-09-26'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This trial-use standard specifies an exchange format, using eXtensible
+- content: This trial-use standard specifies an exchange format, using eXtensible
     Markup Language (XML), for identifying instrumentation that may be integrated
     in an automatic test system (ATS) that is to be used to test and diagnose a unit
     under test (UUT).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2008'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1671-2.2012
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Trademarks

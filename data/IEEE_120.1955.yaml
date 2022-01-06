@@ -1,12 +1,12 @@
 ---
 id: IEEE120.1955
 title:
-  type: main
+- type: main
   content: IEEE Standard for Master Test Code for Electrical Measurements in Power
     Circuits
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/18444
+- content: https://ieeexplore.ieee.org/document/18444
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1955'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-10-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The methods given here include measurements, as made with either indicating
+- content: The methods given here include measurements, as made with either indicating
     or integrating instruments, of power, voltage and current in direct current and
     alternating-current single-phase and polyphase rotating machinery, transformers,
     induction apparatus, arc and resistance heating equipment and mercury rectifiers.
@@ -47,22 +51,25 @@ abstract:
     machinery. Instruments for these latter measurements will be found in the specific
     codes dealing with the particular measurement; such as AIEE Master Test Code for
     Temperature Measurement, No. 551.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1955'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: ANSI/IEEE 120.1989
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Current measurement
 - Furnaces
@@ -76,5 +83,5 @@ keyword:
 - power
 - circuits
 ics:
-  code: 17.220.20
+- code: 17.220.20
   text: Measurement of electrical and magnetic quantities

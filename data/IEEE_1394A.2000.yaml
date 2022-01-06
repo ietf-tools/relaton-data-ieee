@@ -1,11 +1,11 @@
 ---
 id: IEEE1394a.2000
 title:
-  type: main
+- type: main
   content: IEEE Standard for a High Performance Serial Bus (Amendment)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/853984
+- content: https://ieeexplore.ieee.org/document/853984
   type: src
 type: standard
 docid:
@@ -24,42 +24,51 @@ date:
 - type: issued
   value: '2000-03-30'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Amended information for a high-speed Serial Bus that integrates well with
+- content: Amended information for a high-speed Serial Bus that integrates well with
     most IEEE stan-dard 32-bit and 64-bit parallel buses is specified. This amendment
     is intended to extend the usefulness of a low-cost interconnect between external
     peripherals, as described in IEEE Std 1394-1995. This amendment to IEEE Std 1394-1995
     follows the ISO/IEC 13213:1994 Command and Status Register (CSR) Architecture.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2000'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1394.1995
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE standards
@@ -68,5 +77,5 @@ keyword:
 - high-speed Serial Bus
 - interconnect
 ics:
-  code: '35.200'
+- code: '35.200'
   text: Interface and interconnection equipment

@@ -1,12 +1,12 @@
 ---
 id: IEEE802-16.2009
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Local and metropolitan area networks Part 16: Air Interface
     for Broadband Wireless Access Systems'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5062485
+- content: https://ieeexplore.ieee.org/document/5062485
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2009-05-13'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2012-08-17'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: This standard specifies the air interface, including the medium access
     control layer (MAC) and physical layer (PHY), of combined fixed and mobile point-to-multipoint
@@ -54,8 +58,10 @@ abstract:
     with additional maintenance items and enhancements to the management information
     base specifications. This revision supersedes and makes obsolete IEEE Std 802.16-2004
     and all of its subsequent amendments and corrigenda.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: This standard specifies the air interface, including the medium access
     control layer (MAC) and physical layer (PHY), of combined fixed and mobile point-to-multipoint
@@ -71,12 +77,15 @@ abstract:
     and IEEE 802.16gTM-2007, along with additional maintenance items and enhancements
     to the management information base specifications. This revision supersedes and
     makes obsolete IEEE Std 802.16-2004 and all of its subsequent amendments and corrigenda.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2009'
@@ -88,15 +97,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 802-16.2012
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE 802.16 Standard
 - Broadband communication

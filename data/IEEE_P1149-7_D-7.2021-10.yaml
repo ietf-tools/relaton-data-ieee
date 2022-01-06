@@ -1,12 +1,12 @@
 ---
 id: IEEEP1149-7/D-7.2021-10
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for Reduced-Pin and Enhanced-Functionality Test Access
     Port and Boundary-Scan Architecture
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9599631
+- content: https://ieeexplore.ieee.org/document/9599631
   type: src
 type: standard
 docid:
@@ -23,19 +23,23 @@ date:
 - type: issued
   value: '2021'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-11-02'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This specification describes circuitry that may be added to an integrated
+- content: This specification describes circuitry that may be added to an integrated
     circuit to provide access to on-chip Test Access Ports (TAPs) specified by IEEE
     Std 1149.1. The circuitry uses IEEE Std 1149.1 as its foundation, providing complete
     backward compatibility, while aggressively adding features to support test and
@@ -53,25 +57,30 @@ abstract:
     with scan, supports utilization of functions other than scan, and provides control
     of TAP.7 pins to custom debug technologies in a manner that ensures current and
     future interoperability.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2021'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1149-7.2009
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -164,5 +173,5 @@ keyword:
 - OScan6
 - OScan7
 ics:
-  code: '35.200'
+- code: '35.200'
   text: Interface and interconnection equipment

@@ -1,12 +1,12 @@
 ---
 id: IEEE1453.2015
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for the Analysis of Fluctuating Installations
     on Power Systems
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7317469
+- content: https://ieeexplore.ieee.org/document/7317469
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2015-09-03'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-11-03'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: Background on light flicker caused by fluctuations in power demands of
     variable loads is presented in this recommended practice. A flicker measurement
@@ -47,8 +51,10 @@ abstract:
     An assessment procedure for evaluating flicker compliance against emission limits
     is described. Methodologies to analyze background flicker to identify the flicker
     contribution of single loads are also presented.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Background on light flicker caused by fluctuations in power demands of
     variable loads is presented in this recommended practice. A flicker measurement
@@ -58,25 +64,30 @@ abstract:
     An assessment procedure for evaluating flicker compliance against emission limits
     is described. Methodologies to analyze background flicker to identify the flicker
     contribution of single loads are also presented.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2015'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1453.2011
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -90,5 +101,5 @@ keyword:
 - IEEE 1453
 - power systems
 ics:
-  code: 33.100.10
+- code: 33.100.10
   text: Emission

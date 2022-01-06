@@ -1,11 +1,11 @@
 ---
 id: IEEE1110.1991
 title:
-  type: main
+- type: main
   content: IEEE Guide for Synchronous Generator Modeling Practices in Stability Analyses
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/159388
+- content: https://ieeexplore.ieee.org/document/159388
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1991-03-21'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Superseded by 1110-2002. Three direct-axis and four quadrature-axis models
+- content: Superseded by 1110-2002. Three direct-axis and four quadrature-axis models
     are categorized, along with the basic transient reactance model. Some of the assumptions
     made in using various models, including the basic model, are discussed, and the
     fundamental equations and concepts involved in generator/system interfacing are
@@ -56,22 +60,25 @@ abstract:
     field parameters from one base to another for correct generator/excitation system
     interface modeling. Suggestions for modeling of negative field currents and other
     field circuit discontinuities are included.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1991'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1110.2002
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Power systems
 - Stability
@@ -84,5 +91,5 @@ keyword:
 - Saturation practices
 - Modeling practices
 ics:
-  code: 29.160.20
+- code: 29.160.20
   text: Generators

@@ -1,11 +1,11 @@
 ---
 id: ANSI/IEEE854.1987
 title:
-  type: main
+- type: main
   content: IEEE Standard for Radix-Independent Floating-Point Arithmetic
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/27840
+- content: https://ieeexplore.ieee.org/document/27840
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1987-03-12'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-01-21'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: A family of commercially feasible ways for new systems to perform floating-point
+- content: A family of commercially feasible ways for new systems to perform floating-point
     arithmetic is defined. This standard specifies constraints on parameters defining
     values of basic and extended floating-point numbers; add, subtract, multiply,
     divide, square root, remainder, and compare operations; conversions between integers
@@ -46,12 +50,15 @@ abstract:
     intended that an implementation of a floating-point system conforming to this
     standard can be realized entirely in software, entirely in hardware, or in any
     combination of software and hardware. Retrofitting issues are not considered.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1987'
@@ -62,5 +69,5 @@ keyword:
 - independent
 - Floating-point arithmetic
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

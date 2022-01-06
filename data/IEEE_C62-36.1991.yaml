@@ -1,12 +1,12 @@
 ---
 id: IEEEC62-36.1991
 title:
-  type: main
+- type: main
   content: IEEE Standard Test Methods for Surge Protectors Used in Low-Voltage Data,
     Communications, and Signaling Circuits
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/159439
+- content: https://ieeexplore.ieee.org/document/159439
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1991-06-27'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Superseded by C62.36-1994. Methods for testing and measuring the characteristics
+- content: Superseded by C62.36-1994. Methods for testing and measuring the characteristics
     of surge protectors used in low voltage data, communications, and signaling circuits
     with voltages less than or equal to 1000 V rms or 1200 V dc are established. The
     surge protectors are designed to limit voltage surges, current surges, or both.
@@ -46,22 +50,25 @@ abstract:
     performance, surge-limiting capabilities, and surge lifetime. Packaged single
     gas-tube, air-gap, varistor, or avalanche junction surge-protective devices are
     not covered, nor are test methods for low-voltage power circuit applications.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1992'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE C62-36.1994
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Standards
 - Surge protection
@@ -85,5 +92,5 @@ keyword:
 - Data circuits
 - Communications circuits
 ics:
-  code: 29.120.50
+- code: 29.120.50
   text: Fuses and other overcurrent protection devices

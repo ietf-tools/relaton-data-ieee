@@ -1,11 +1,11 @@
 ---
 id: IEEE836.1991
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for Precision Centrifuge Testing of Linear Accelerometers
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/239582
+- content: https://ieeexplore.ieee.org/document/239582
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1991-09-26'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Superseded by 836-2001. A guide to the conduct and analysis of precision
+- content: Superseded by 836-2001. A guide to the conduct and analysis of precision
     centrifuge tests of linear accelerometers is provided, covering each phase of
     the tests beginning with the planning. Possible error sources and typical methods
     of data analysis are addressed. The intent is to provide those involved in centrifuge
@@ -47,22 +51,25 @@ abstract:
     the various identified characteristics and error sources in each. A new iterative
     matrix equation solution for deriving from the centrifuge test data the various
     model equation coefficeints for the accelerometer under test is presented.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1992'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 836.2001
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Acceleration measurement
 - Measurement errors
@@ -70,5 +77,5 @@ keyword:
 - accelerometer test
 - Linear accelerometer
 ics:
-  code: '49.090'
+- code: '49.090'
   text: On-board equipment and instruments

@@ -1,12 +1,12 @@
 ---
 id: IEEE776.2018
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for Inductive Coordination of Electric Supply
     and Communication Lines
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8672655
+- content: https://ieeexplore.ieee.org/document/8672655
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2018-12-05'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-03-21'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The inductive environment that exists in the vicinity of electric power
     and wire-line telecommunications systems and the interfering effects that may
@@ -45,8 +49,10 @@ abstract:
     to involve the otherre, to verify the induction at the interface by use of a probe
     wire is presented. This recommended practice does not apply to railway signal
     circuits.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: The inductive environment that exists in the vicinity of electric power
     and wire-line telecommunications systems and the interfering effects that may
@@ -54,25 +60,30 @@ abstract:
     to involve the otherre, to verify the induction at the interface by use of a probe
     wire is presented. This recommended practice does not apply to railway signal
     circuits.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2018'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 776.1992
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -85,5 +96,5 @@ keyword:
 - IEEE 776
 - inductive coordination
 ics:
-  code: '33.020'
+- code: '33.020'
   text: Telecommunications in general

@@ -1,12 +1,12 @@
 ---
 id: IEEEP802-1CS/D-3.1.2020-08
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for Local and Metropolitan Area Networks -- Link-local
     Registration Protocol
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9165991
+- content: https://ieeexplore.ieee.org/document/9165991
   type: src
 type: standard
 docid:
@@ -23,30 +23,37 @@ date:
 - type: issued
   value: '2020-12-03'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-08-12'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Protocols, procedures, and managed objects for a Link-local Registration
+- content: Protocols, procedures, and managed objects for a Link-local Registration
     Protocol (LRP) to replicate a registration database from one end to the other
     of a point-to-point link and to replicate changes to parts of that database are
     specified in this standard. A facility is provided to purge the replicated database
     if the source becomes unresponsive. LRP is optimized for databases on the order
     of 1 Mbyte.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2020'
@@ -70,5 +77,5 @@ keyword:
 - TSN
 - Virtual Bridged Local Area Networks (virtual LANs)
 ics:
-  code: 01.040.11
+- code: 01.040.11
   text: Health care technology (Vocabularies)

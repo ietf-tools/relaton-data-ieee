@@ -1,11 +1,11 @@
 ---
 id: IEEEC57-120.1991
 title:
-  type: main
+- type: main
   content: IEEE Loss Evaluation Guide for Power Transformers and Reactors
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/211017
+- content: https://ieeexplore.ieee.org/document/211017
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1991-09-16'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-11-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: A method for establishing the dollar value of the electric power needed
+- content: A method for establishing the dollar value of the electric power needed
     to supply the losses of a transformer or reactor is provided. Users can use this
     loss evaluation to determine the relative economic benefit of a high-first-cost,
     low-loss unit versus one with a lower first cost and higher losses, and to compare
@@ -44,22 +48,25 @@ abstract:
     choice. Manufacturers can use the evaluation to optimize the design and provide
     the most economically unit to bid and manufacture. The various types of losses
     are reviewed.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1992'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE C57-120.2017
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Economics
 - Losses
@@ -71,5 +78,5 @@ keyword:
 - transformers
 - Loss evaluation
 ics:
-  code: '29.180'
+- code: '29.180'
   text: Transformers. Reactors

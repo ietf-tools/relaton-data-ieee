@@ -1,12 +1,12 @@
 ---
 id: IEEE1722.2011
 title:
-  type: main
+- type: main
   content: IEEE Standard for Layer 2 Transport Protocol for Time Sensitive Applications
     in a Bridged Local Area Network
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5764875
+- content: https://ieeexplore.ieee.org/document/5764875
   type: src
 type: standard
 docid:
@@ -27,47 +27,56 @@ date:
 - type: issued
   value: '2011-02-10'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-01-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The protocol, data encapsulations, and presentation time procedures used
     to ensure interoperability between audio- and video-based end stations that use
     standard networking services provided by all IEEE 802 networks meeting quality-of-service
     requirements for time sensitive applications by leveraging concepts of IEC 61883
     are specified in this standard.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: The protocol, data encapsulations, and presentation time procedures used
     to ensure interoperability between audio- and video-based end stations that use
     standard networking services provided by all IEEE 802 networks meeting quality-of-service
     requirements for time-sensitive applications by leveraging concepts of IEC 61883
     are specified in this standard.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2011'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1722.2016
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Time factors
@@ -87,5 +96,5 @@ keyword:
 - timesensitive media streaming
 - time synchronization
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

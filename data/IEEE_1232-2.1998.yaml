@@ -1,12 +1,12 @@
 ---
 id: IEEE1232-2.1998
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Artificial Intelligence Exchange and Service Tie to
     All Test Environments (AI-ESTATE): Service Specification'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/749036
+- content: https://ieeexplore.ieee.org/document/749036
   type: src
 type: standard
 docid:
@@ -25,30 +25,37 @@ date:
 - type: issued
   value: '1998-09-16'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Formal software interfaces to system diagnosis tools and applications are
+- content: Formal software interfaces to system diagnosis tools and applications are
     defined. As part of the AI-ESTATE set of standards, this standard defines services
     to manipulate information models as defined in IEEE Std 1232.1-1997 and to control
     a diagnostic reasoner. This standard includes a new information model to manipulate
     dynamic information obtained during the process of system diagnosis. Service bindings
     to ANSI C and ANSI Ada are also provided.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1999'

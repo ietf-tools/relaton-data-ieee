@@ -1,13 +1,13 @@
 ---
 id: ISO/IEC10038.1993
 title:
-  type: main
+- type: main
   content: ISO/IEC/IEEE International Standard for Information technology-Telecommunications
     and information exchange between systems - Local area networks - Media access
     control (MAC) bridges
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6887403
+- content: https://ieeexplore.ieee.org/document/6887403
   type: src
 type: standard
 docid:
@@ -26,19 +26,23 @@ date:
 - type: issued
   value: '2014-08-28'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-08-28'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: An architecture for the interconnection of IEEE 802 Local Area Networks
+- content: An architecture for the interconnection of IEEE 802 Local Area Networks
     (LANs) below the level of the MAC Service, which is transparent to logical link
     control (LLC) and higher layer protocols, is defined. Transparent Bridging between
     Fibre Distributed Data Interface (FDDI) LANs and between FDDI LANs and IEEE 802
@@ -48,16 +52,21 @@ abstract:
     additional MAC-specific Bridging methods are defined. Source-Routing Transparent
     (SRT) Bridges are defined in an annex, and the protocols for the operation of
     source routing in an SRT Bridge are specified.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
-  - name: IEC
+  - name:
+    - ISO
+  - name:
+    - IEC
   from: '1993'
 keyword:
 - IEEE standards
@@ -82,5 +91,5 @@ keyword:
 - Source-Routing Transparent
 - SRT Bridge
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

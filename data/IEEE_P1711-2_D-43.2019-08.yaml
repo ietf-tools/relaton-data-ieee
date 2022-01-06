@@ -1,11 +1,11 @@
 ---
 id: IEEEP1711-2/D-43.2019-08
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for Secure SCADA Communications Protocol (SSCP)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8824260
+- content: https://ieeexplore.ieee.org/document/8824260
   type: src
 type: standard
 docid:
@@ -22,19 +22,23 @@ date:
 - type: issued
   value: '2019-11-07'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-09-04'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: A cryptographic protocol to provide integrity with optional confidentiality
+- content: A cryptographic protocol to provide integrity with optional confidentiality
     for cyber security of substation serial links is defined in this standard. It
     does not address specific applications or hardware implementations and is independent
     of the underlying communications protocol.The elevated concern of cyber security
@@ -50,12 +54,15 @@ abstract:
     line carrier, fiber optic, etc. SSCP is suitable for implementation in new equipment
     or for deployment in bump-in-the-wire devices retrofitting protection to existing
     systems.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2019'

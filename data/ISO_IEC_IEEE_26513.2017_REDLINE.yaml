@@ -10,7 +10,7 @@ title:
     -- Requirements for testers and reviewers of information for users - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8372831
+- content: https://ieeexplore.ieee.org/document/8372831
   type: src
 type: standard
 docid:
@@ -27,19 +27,23 @@ date:
 - type: issued
   value: '2017-06-15'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-06-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This document supports the need for software users to receive consistent,
+- content: This document supports the need for software users to receive consistent,
     complete, accurate, and usable documentation. This document was developed to assist
     those who review, assess, and test software user documentation as part of the
     software lifecycle process. It is not limited to the review and test phase of
@@ -53,16 +57,21 @@ abstract:
     use by all types of organizations, whether or not a dedicated documentation department
     is present. Readers are assumed to have experience with or general knowledge of
     reviewing and testing processes.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
-  - name: IEC
+  - name:
+    - ISO
+  - name:
+    - IEC
   from: '2018'
 keyword:
 - IEEE Standards
@@ -78,5 +87,5 @@ keyword:
 - testing and reviewing user documentation
 - usability testing
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

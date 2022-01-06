@@ -1,11 +1,11 @@
 ---
 id: IEEEPC37-91/D-17.2020-09
 title:
-  type: main
+- type: main
   content: IEEE Approved Draft Guide for Protecting Power Transformers
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9390489
+- content: https://ieeexplore.ieee.org/document/9390489
   type: src
 type: standard
 docid:
@@ -22,19 +22,23 @@ date:
 - type: issued
   value: '2021-03-25'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-03-30'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Guidelines for protecting three-phase power transformers of more than 5
+- content: Guidelines for protecting three-phase power transformers of more than 5
     MVA rated capacity and operating at voltages exceeding 10 kV is provided to protection
     engineers and other readers in this guide. In some cases, a user may apply the
     techniques described in this guide for protecting transformers of less than 5
@@ -46,12 +50,15 @@ abstract:
     faults in transformers are described. Technical problems with the protection systems,
     including the behavior of current transformers during system faults, are discussed,
     as well as associated problems, such as fault clearing and post trip reenergization.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2020'
@@ -63,8 +70,10 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: updates
   bibitem:
@@ -73,10 +82,12 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Power transformers
@@ -99,5 +110,5 @@ keyword:
 - transformer protection
 - volts-per-hertz protection
 ics:
-  code: 29.120.70
+- code: 29.120.70
   text: Relays

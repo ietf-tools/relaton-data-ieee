@@ -1,13 +1,13 @@
 ---
 id: IEEEP1901b/D-1.1.2021-08
 title:
-  type: main
+- type: main
   content: 'IEEE Approved Draft Standard for Broadband over Power Line Networks: Medium
     Access Control and Physical Layer Specifications Amendment 2: Enhancements for
     Authentication and Authorization'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9530471
+- content: https://ieeexplore.ieee.org/document/9530471
   type: src
 type: standard
 docid:
@@ -24,41 +24,50 @@ date:
 - type: issued
   value: '2021'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-06'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This amendment integrates state-of-the-art authentication and authorization
+- content: This amendment integrates state-of-the-art authentication and authorization
     mechanisms for networks, especially for IoT and Access Devices. It specifies how
     IEEE Std 802.1X may be utilized for authentication and authorization by IEEE 1901
     networks.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2021'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1901.2010
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -86,5 +95,5 @@ keyword:
 - fast Fourier transform orthogonal frequency division multiplexing (FFT OFDM)
 - medium access control (MAC)
 ics:
-  code: 33.040.60
+- code: 33.040.60
   text: Powerline telecommunications

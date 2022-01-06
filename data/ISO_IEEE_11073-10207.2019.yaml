@@ -1,13 +1,13 @@
 ---
 id: ISO/IEEE11073-10207.2019
 title:
-  type: main
+- type: main
   content: 'ISO/IEC/IEEE Health informatics--Point-of-care medical device communication
     Part 10207: Domain Information and Service Model for Service-Oriented Point-of-Care
     Medical Device Communication'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8675788
+- content: https://ieeexplore.ieee.org/document/8675788
   type: src
 type: standard
 docid:
@@ -26,19 +26,23 @@ date:
 - type: issued
   value: '2019'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-03-27'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Within the context of the ISO/IEEE 11073&#8482; family of standards for
+- content: Within the context of the ISO/IEEE 11073&#8482; family of standards for
     point-of-care medical device communication, a Participant Model derived from the
     ISO/IEEE11073-10201 Domain Information Model is provided in this standard. The
     Participant Model specifies the structure of medical information objects. This
@@ -49,18 +53,22 @@ abstract:
     systems, contextual information (e.g., patient demographics and location information),
     remote control, and archival information. Model extensibility is provided inherently
     through the use of XML Schema.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
+  - name:
+    - ISO
   from: '2019'
 relation:
-  type: adoptedFrom
+- type: adoptedFrom
   bibitem:
     formattedref:
       content: IEEE 11073-10207.2017
@@ -83,5 +91,5 @@ keyword:
 - service-oriented architecture
 - XML Schema
 ics:
-  code: 35.240.80
+- code: 35.240.80
   text: IT applications in health care technology

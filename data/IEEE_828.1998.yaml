@@ -1,11 +1,11 @@
 ---
 id: IEEE828.1998
 title:
-  type: main
+- type: main
   content: IEEE Standard for Software Configuration Management Plans
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/720569
+- content: https://ieeexplore.ieee.org/document/720569
   type: src
 type: standard
 docid:
@@ -24,34 +24,43 @@ date:
 - type: issued
   value: '1998-06-25'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The minimum required contents of a Software Configuration Management Plan
     (SCMP) are established, and the specific activities to be addressed and their
     requirements for any portion of a software product's life cycle are defined.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Superseded by 828-2005 (SH/SS95326) The minimum required contents of a
     Software Configuration Management Plan (SCMP) areestablished, and the specific
     activities to be addressed and their requirements for any portion of a software
     product's life cycle are defined.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1998'
@@ -63,20 +72,22 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 828.2005
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - configuration control board
 - configuration items
 - software configuration management
 - software configuration management activities
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

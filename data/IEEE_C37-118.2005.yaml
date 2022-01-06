@@ -1,11 +1,11 @@
 ---
 id: IEEEC37-118.2005
 title:
-  type: main
+- type: main
   content: IEEE Standard for Synchrophasors for Power Systems
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1611105
+- content: https://ieeexplore.ieee.org/document/1611105
   type: src
 type: standard
 docid:
@@ -24,43 +24,52 @@ date:
 - type: issued
   value: '2005-10-21'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard defines synchronized phasor measurements used in power system
+- content: This standard defines synchronized phasor measurements used in power system
     applications. It provides a method to quantify the measurement, tests to be sure
     the measurement conforms to the definition, and error limits for the test. It
     also defines a data communication protocol including message formats for communicating
     this data in a real-time system. Explanation, examples, and supporting information
     are also provided.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2006'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1344.1995
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -82,5 +91,5 @@ keyword:
 - TVE
 - IRIG
 ics:
-  code: 17.220.20
+- code: 17.220.20
   text: Measurement of electrical and magnetic quantities

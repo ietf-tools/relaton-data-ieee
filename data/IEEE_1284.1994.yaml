@@ -1,12 +1,12 @@
 ---
 id: IEEE1284.1994
 title:
-  type: main
+- type: main
   content: IEEE Standard Signaling Method for a Bidirectional Parallel Peripheral
     Interface for Personal Computers
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8684588
+- content: https://ieeexplore.ieee.org/document/8684588
   type: src
 type: standard
 docid:
@@ -25,29 +25,36 @@ date:
 - type: issued
   value: '1994-03-30'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Superseded by IEEE Std 1284, 2000 Edition A signaling method for asynchronous,
+- content: Superseded by IEEE Std 1284, 2000 Edition A signaling method for asynchronous,
     fully interlocked, bidirectional parallel communications between hosts and printers
     or other peripherals is defined. A format for a peripheral identification string
     and a method of returning this string to the host outside of the bidirectional
     data stream is also specified.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1994'
@@ -59,5 +66,5 @@ keyword:
 - personal computers
 - printers
 ics:
-  code: '35.200'
+- code: '35.200'
   text: Interface and interconnection equipment

@@ -10,7 +10,7 @@ title:
     Devices - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5982066
+- content: https://ieeexplore.ieee.org/document/5982066
   type: src
 type: standard
 docid:
@@ -27,19 +27,23 @@ date:
 - type: issued
   value: '2008-09-26'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-08-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This standard establishes criteria for design analysis for qualification,
+- content: 'This standard establishes criteria for design analysis for qualification,
     quality, and reliability of rechargeable battery systems for multi-cell mobile
     computing devices. It also provides methods for quantifying the operational performance
     of these batteries and their associated management and control systems including
@@ -53,12 +57,15 @@ abstract:
     levels of management and control in the battery systems; and current and planned
     lithium-based battery chemistries, packaging technologies, and considerations
     for end-user notification.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2011'
@@ -84,5 +91,5 @@ keyword:
 - rechargeable battery
 - rechargeable battery packs
 ics:
-  code: 29.220.30
+- code: 29.220.30
   text: Alkaline secondary cells and batteries

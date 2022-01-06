@@ -1,13 +1,13 @@
 ---
 id: IEEE802-3i.1990
 title:
-  type: main
+- type: main
   content: IEEE Standard for Local and Metropolitan Area Networks - System Considerations
     for Multi-segment 10 Mb/S Baseband Networks (Section 13) and Twisted-Pair Medium
     Attachment Unit (MAU) and Baseband Medium, Type 10BASE-T (Section 14)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7508548
+- content: https://ieeexplore.ieee.org/document/7508548
   type: src
 type: standard
 docid:
@@ -26,42 +26,51 @@ date:
 - type: issued
   value: '1990-09-28'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-07-08'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This Local Area Network (LAN)standard specifies the Type 10BASE-T Medium
+- content: This Local Area Network (LAN)standard specifies the Type 10BASE-T Medium
     Attachment Unit (MAU) and one specific unshielded twisted-pair medium for use
     with the MAU. This MAU is specified for use in a 10 Mb/s baseband CSMA/CD LAN.
     Guidelines for its application in a repeatered multisegment heterogeneous CSMA/CD
     network are included.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1990'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: ANSI/IEEE 802-3.1985
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards

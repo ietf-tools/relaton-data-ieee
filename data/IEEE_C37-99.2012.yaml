@@ -1,11 +1,11 @@
 ---
 id: IEEEC37-99.2012
 title:
-  type: main
+- type: main
   content: IEEE Guide for the Protection of Shunt Capacitor Banks
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6482148
+- content: https://ieeexplore.ieee.org/document/6482148
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '2012-12-05'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-03-19'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The protection of shunt power capacitor banks and filter capacitor banks
     are discussed in this guide. The guidelines for reliable application of protection
@@ -45,33 +49,40 @@ abstract:
     Discussions on the protection of pole-mounted capacitor banks on distribution
     circuits or capacitors connected to the terminals of rotating machines are not
     included as they are outside the scope of this standard.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: This guide applies to the protection of shunt power capacitor banks and
     filter capacitor banks. Included are guidelines for reliable applications of protection
     methods intended for use in many shunt capacitor applications and designs. The
     guide does not include the protection of pole mounted capacitor banks on distribution
     circuits or capacitors connected to rotating machines.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2013'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE C37-99.2000
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE standards
@@ -91,5 +102,5 @@ keyword:
 - overvoltage
 - overcurrent.
 ics:
-  code: 31.060.70
+- code: 31.060.70
   text: Power capacitors

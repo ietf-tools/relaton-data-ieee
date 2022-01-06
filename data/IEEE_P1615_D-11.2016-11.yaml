@@ -1,12 +1,12 @@
 ---
 id: IEEEP1615/D-11.2016-11
 title:
-  type: main
+- type: main
   content: IEEE Draft Recommended Practice for Network Communication in Electric Power
     Substations
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7748415
+- content: https://ieeexplore.ieee.org/document/7748415
   type: src
 type: standard
 docid:
@@ -23,46 +23,55 @@ date:
 - type: issued
   value: '2019-09-05'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-11-18'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Recommended practices for communication and interoperation of devices connected
+- content: Recommended practices for communication and interoperation of devices connected
     on an electric power substation Internet Protocol (IP) network are provided. An
     introduction to the concepts that need to be mastered as well as specific recommendations
     to follow when deploying the technologies are provided for the power engineer
     new to IP networking. Direction and requirements to facilitate interoperable electric
     utility information networks are provided for equipment manufacturers and system
     integrators.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2016'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1615.2007
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Substations
@@ -90,5 +99,5 @@ keyword:
 - time synchronization
 - wireless network
 ics:
-  code: 29.130.01
+- code: 29.130.01
   text: Switchgear and controlgear in general

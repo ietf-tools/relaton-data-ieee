@@ -1,12 +1,12 @@
 ---
 id: IEEEP1722/D-14.2015-08
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for a Transport Protocol for Time Sensitive Applications
     in a Bridged Local Area Network
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7229233
+- content: https://ieeexplore.ieee.org/document/7229233
   type: src
 type: standard
 docid:
@@ -23,43 +23,52 @@ date:
 - type: issued
   value: '2015'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-08-28'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard specifies the protocol, device discovery, connection management
+- content: This standard specifies the protocol, device discovery, connection management
     and device control procedures used to facilitate interoperability between audio
     and video based end stations that use IEEE 1722 based streams on IEEE 802 based
     networks
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2015'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1722.2011
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Local area networks
@@ -89,5 +98,5 @@ keyword:
 - SDI
 - clock recovery
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

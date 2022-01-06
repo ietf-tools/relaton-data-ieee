@@ -1,11 +1,11 @@
 ---
 id: ANSI/IEEE716.1985
 title:
-  type: main
+- type: main
   content: IEEE Standard C/ATLAS Test Language
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/35069
+- content: https://ieeexplore.ieee.org/document/35069
   type: src
 type: standard
 docid:
@@ -22,18 +22,22 @@ date:
 - type: issued
   value: '1989-03-08'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
-language: en
-script: Latn
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
 abstract:
-  content: ANSI/IEEE Std 716-1985, Standard C/ATLAS, is an editorial revision and
+- content: ANSI/IEEE Std 716-1985, Standard C/ATLAS, is an editorial revision and
     consolidation of C/ATLAS Test Language and C/ATLAS Syntax. C/ATLAS is a programming/programmable
     language which is a subset of IEEE Standard ATLAS Test Language with a specific
     and unique purpose. It has been developed to serve as the minimum ATLAS program
@@ -47,12 +51,15 @@ abstract:
     in alphabetical order, of syntax variables and symbols providing quick and easy
     reference to the different lexical symbols, rule names and literals which occur
     within the production rules.<<ETX>>
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1985'
@@ -67,11 +74,11 @@ relation:
     formattedref:
       content: IEEE 716.1995
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Automatic test equipment
 - High-level languages
 - Standards
 ics:
-  code: '35.060'
+- code: '35.060'
   text: Languages used in information technology

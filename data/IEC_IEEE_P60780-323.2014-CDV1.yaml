@@ -1,12 +1,12 @@
 ---
 id: IEC/IEEEP60780-323.2014-CDV1
 title:
-  type: main
+- type: main
   content: IEC/IEEE Draft International Standard - Nuclear Facilities - Electrical
     Equipment Important to Safety -Qualification
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6960012
+- content: https://ieeexplore.ieee.org/document/6960012
   type: src
 type: standard
 docid:
@@ -23,19 +23,23 @@ date:
 - type: issued
   value: '2014'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-11-17'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard is applicable to electrical equipment important to safety
+- content: This standard is applicable to electrical equipment important to safety
     and its interfaces thatare necessary to perform a safety function, or whose failure
     could adversely affect, the safetyfunctions of other equipment.Electrical equipment
     in nuclear facilities shall meet its safety functional requirements throughout
@@ -45,28 +49,34 @@ abstract:
     specifically focuses on qualification.Other aspects, relating to quality assurance,
     reliability, selection and use of electronic devices, design and modification
     of digital systems including V&amp;V activities are not part of this standard.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: IEC
+  - name:
+    - IEC
   from: '2014'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 323.2003
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Nuclear power generation
@@ -89,5 +99,5 @@ keyword:
 - significant aging mechanism
 - test plan
 ics:
-  code: 27.120.99
+- code: 27.120.99
   text: Other standards related to nuclear energy

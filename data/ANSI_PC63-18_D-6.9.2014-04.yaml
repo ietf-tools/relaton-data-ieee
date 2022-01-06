@@ -1,13 +1,13 @@
 ---
 id: ANSIPC63-18/D-6.9.2014-04
 title:
-  type: main
+- type: main
   content: American National Standard Recommended Practice for an On-Site, Ad Hoc
     Test Method for Estimating Electromagnetic Immunity of Medical Devices to Radiated
     Radio-Frequency (RF) Emissions from RF Transmitters
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6814261
+- content: https://ieeexplore.ieee.org/document/6814261
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '2014-06-19'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-05-12'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'The purpose of this recommended practice is to provide an ad hoc test
+- content: 'The purpose of this recommended practice is to provide an ad hoc test
     method to estimate the electromagnetic immunity of medical devices and help identify
     interference issues that might exist with critical medical devices as a result
     of emissions from RF transmitters increasingly used in health-care facilities,
@@ -85,30 +89,36 @@ abstract:
     conform to voluntary EMC immunity standards can provide some information, although
     many RF transmitters are able to exceed these immunity levels greatly when held
     close to a medical device.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: American National Standards Institute
+  - name:
+    - American National Standards Institute
     abbreviation: ANSI
     url: https://www.ansi.org
   from: '2014'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: ANSI C63-18.1997
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - ANSI standards
 - Medical devices
@@ -135,5 +145,5 @@ keyword:
 - test procedure
 - wireless
 ics:
-  code: 33.100.20
+- code: 33.100.20
   text: Immunity

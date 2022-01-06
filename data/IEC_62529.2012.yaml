@@ -1,11 +1,11 @@
 ---
 id: IEC62529.2012
 title:
-  type: main
+- type: main
   content: IEC 62529:2012(E) Standard for Signal and Test Definition
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6228489
+- content: https://ieeexplore.ieee.org/document/6228489
   type: src
 type: standard
 docid:
@@ -24,42 +24,52 @@ date:
 - type: issued
   value: '2013-12-10'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2012-06-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Adoption of IEEE Std 1641-2010. This standard provides the means to define
+- content: Adoption of IEEE Std 1641-2010. This standard provides the means to define
     and describe signals used in testing. It also provides a set of common basic signals,
     built upon formal mathematical specifications so that signals can be combined
     to form complex signals usable across all test platforms.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: IEC
+  - name:
+    - IEC
   from: '2012'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEC 62529.2007
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE standards

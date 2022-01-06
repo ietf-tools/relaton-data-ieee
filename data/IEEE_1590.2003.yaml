@@ -1,12 +1,12 @@
 ---
 id: IEEE1590.2003
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for the Electrical Protection of Optical Fiber
     Communication Facilities Serving, or Connected to, Electrical Supply Locations
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1299650
+- content: https://ieeexplore.ieee.org/document/1299650
   type: src
 type: standard
 docid:
@@ -27,25 +27,31 @@ date:
 - type: issued
   value: '2003-12-10'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-10-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The main emphasis of this recommended practice is the engineering design
     of optical fiber communication facilities serving, or connected to, electrical
     supply locations. This document includes methods for providing telecommunication
     facilities serving electrical supply locations using optical fiber cables extending
     across the zone of influence (ZOI)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: 'This Recommended Practice presents engineering design procedures for the
     electrical protection of optical fiber communication facilities serving, or connected
@@ -53,22 +59,25 @@ abstract:
     and cable with metallic members are excluded from this document. Project purpose:
     This Recommended Practice presents safe and reliable methods for providing telecommunication
     facilities serving electrical supply locations using optical fiber.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2004'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1590.2009
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Communication standards
@@ -81,5 +90,5 @@ keyword:
 - ground potential rise
 - high-volt-age environment
 ics:
-  code: 33.180.01
+- code: 33.180.01
   text: Fibre optic systems in general

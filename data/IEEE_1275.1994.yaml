@@ -1,12 +1,12 @@
 ---
 id: IEEE1275.1994
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Boot (Initialization Configuration) Firmware: Core Requirements
     and Practices'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/763383
+- content: https://ieeexplore.ieee.org/document/763383
   type: src
 type: standard
 docid:
@@ -25,17 +25,21 @@ date:
 - type: issued
   value: '1994-03-17'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-10-30'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: 'Firmware is the read-only-memory (ROM)-based software that controls a
     computer be tween the time it is turned on and the time the primary operating
@@ -48,8 +52,10 @@ abstract:
     stored in nonvolatile memory; a "call back" interface allowing other programs
     to make use of Open Firmware services; and debugging tools for hardware, firmware,
     firmware drivers, and system software.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: 'Firmware is the read-only-memory (ROM)-based software that controls a
     computer between the time it is turned on and the time the primary operating system
@@ -62,12 +68,15 @@ abstract:
     stored in nonvolatile memory; a call back interface allowing other programs to
     make use of Open Firmware services; and debugging tools for hardware, firmware,
     firmware drivers, and system software.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1994'
@@ -88,5 +97,5 @@ keyword:
 - Configuration
 - Boot
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

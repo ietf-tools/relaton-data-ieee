@@ -10,7 +10,7 @@ title:
     (HLA)-- Object Model Template (OMT) Specification - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5953408
+- content: https://ieeexplore.ieee.org/document/5953408
   type: src
 type: standard
 docid:
@@ -29,19 +29,23 @@ date:
 - type: issued
   value: '2010-03-25'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-08-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The High Level Architecture (HLA)&#8212;Object Model Template (OMT) specification
+- content: The High Level Architecture (HLA)&#8212;Object Model Template (OMT) specification
     defines the format and syntax (but not content) of HLA object models. Simulations
     are abstractions of the real world, and no one simulation can solve all of the
     functional needs for the modeling and simulation community. It is anticipated
@@ -51,12 +55,15 @@ abstract:
     as a change in one is likely to have an impact on the others. As such, the HLA
     is an integrated approach that has been developed to provide a common architecture
     for simulation.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2011'
@@ -89,5 +96,5 @@ keyword:
 - time-constrained
 - time-regulating
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

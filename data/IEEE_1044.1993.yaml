@@ -1,11 +1,11 @@
 ---
 id: IEEE1044.1993
 title:
-  type: main
+- type: main
   content: IEEE Standard Classification for Software Anomalies
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8684689
+- content: https://ieeexplore.ieee.org/document/8684689
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1993-12-02'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: A uniform approach to the classification of anomalies found in software
+- content: A uniform approach to the classification of anomalies found in software
     and its documentation is provided. The processing of anomalies discovered during
     any software life cycle phase are described, and comprehensive lists of software
     anomaly classifications and related data items that are helpful to identify and
@@ -44,12 +48,15 @@ abstract:
     or format requirements for using the classification scheme. It does identify some
     classification measures and does not attempt to define all the data supporting
     the analysis of an anomaly.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1994'
@@ -64,7 +71,7 @@ relation:
     formattedref:
       content: IEEE 1044.2009
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - software
 - anomalies
@@ -75,5 +82,5 @@ keyword:
 - Category
 - Anomaly
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

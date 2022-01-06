@@ -1,12 +1,12 @@
 ---
 id: IEEE382.1985
 title:
-  type: main
+- type: main
   content: IEEE Standard for Qualification of Actuators for Power Operated Valve Assemblies
     with Safety-Related Functions for Nuclear Power Plants
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/29067
+- content: https://ieeexplore.ieee.org/document/29067
   type: src
 type: standard
 docid:
@@ -25,40 +25,47 @@ date:
 - type: issued
   value: '1984-06-14'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-09'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The qualification of all types of power-driven valve actuators, including
+- content: The qualification of all types of power-driven valve actuators, including
     damper actuators, for safety-related functions in nuclear power generating stations,
     is described. This standard may also be used to separately qualify actuator components.
     The minimum requirements for, and guidance regarding, the methods and procedures
     for qualification of power-driven valve actuators with safety-related functions
     are provided.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1985'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 382.1996
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Actuators
 - Nuclear power generation
@@ -71,5 +78,5 @@ keyword:
 - nuclear
 - actuators
 ics:
-  code: 27.120.10
+- code: 27.120.10
   text: Reactor engineering

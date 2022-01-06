@@ -1,12 +1,12 @@
 ---
 id: IEEE1733.2011
 title:
-  type: main
+- type: main
   content: IEEE Standard for Layer 3 Transport Protocol for Time-Sensitive Applications
     in Local Area Networks
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5762653
+- content: https://ieeexplore.ieee.org/document/5762653
   type: src
 type: standard
 docid:
@@ -25,16 +25,20 @@ date:
 - type: issued
   value: '2011-03-31'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
-language: en
-script: Latn
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
 abstract:
 - content: Protocol, data encapsulations, connection management, and presentation
     time procedures used to ensure interoperability between audio and video-based
@@ -42,8 +46,10 @@ abstract:
     meeting QoS requirements for time-sensitive applications by leveraging the Real-time
     Transport Protocol (RTP) family of protocols and IEEE 802.1 Audio/Video Bridging
     (AVB) protocols is specified in this standard.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Protocol, data encapsulations, connection management, and presentation
     time procedures used to ensure interoperability between audio and video-based
@@ -51,12 +57,15 @@ abstract:
     meeting QoS requirements for time-sensitive applications by leveraging the Real-time
     Transport Protocol (RTP) family of protocols and IEEE 802.1 Audio/Video Bridging
     (AVB) protocols is specified in this standard.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2011'
@@ -77,5 +86,5 @@ keyword:
 - time-sensitive media streaming
 - timesynchronization
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

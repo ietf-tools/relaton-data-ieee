@@ -1,11 +1,11 @@
 ---
 id: ANSI/IEEEC57-13-1.1981
 title:
-  type: main
+- type: main
   content: IEEE Guide for Field Testing of Relaying Current Transformers
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8704479
+- content: https://ieeexplore.ieee.org/document/8704479
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1978-03-09'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: A description is given of field-test methods that will ensure that the
+- content: A description is given of field-test methods that will ensure that the
     current transformers used as a source of relay input current are connected properly,
     are of marked ratio and polarity, and are in condition to perform as designed
     both initially and after a period of service. The standard covers safety considerations;
@@ -44,12 +48,15 @@ abstract:
     insulation resistance tests; ratio tests; polarity check; winding and lead resistance
     (internal resistance); excitation tests; burden measurements; and specialized
     situations.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1981'
@@ -64,7 +71,7 @@ relation:
     formattedref:
       content: IEEE C57-13-1.2006
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Power transformers
@@ -77,5 +84,5 @@ keyword:
 - Power distribution testing
 - Current transformers
 ics:
-  code: '29.200'
+- code: '29.200'
   text: Rectifiers. Converters. Stabilized power supply

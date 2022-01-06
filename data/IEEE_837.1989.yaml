@@ -1,11 +1,11 @@
 ---
 id: IEEE837.1989
 title:
-  type: main
+- type: main
   content: IEEE Standard for Qualifying Permanent Connections Used in Substation Grounding
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/89617
+- content: https://ieeexplore.ieee.org/document/89617
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1989-01-03'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-12'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Directions and methods for qualifying permanent connections used for substation
+- content: Directions and methods for qualifying permanent connections used for substation
     grounding are provided. Particular attention is given to the connectors used within
     the grid system, connectors used to join ground leads to the grid system, and
     connectors used to join the ground leads to equipment and structures. The purpose
@@ -48,12 +52,15 @@ abstract:
     and stainless-clad steel are addressed. Performance criteria are established,
     test procedures are provided, and mechanical, current--temperature cycling, freeze--thaw,
     corrosion, and fault-current tests are specified.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1989'
@@ -65,15 +72,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 837.2002
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Grounding
 - Connectors
@@ -85,5 +94,5 @@ keyword:
 - Power distribution testing
 - Connectors
 ics:
-  code: 29.240.10
+- code: 29.240.10
   text: Substations. Surge arresters

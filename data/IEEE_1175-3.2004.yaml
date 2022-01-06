@@ -1,12 +1,12 @@
 ---
 id: IEEE1175-3.2004
 title:
-  type: main
+- type: main
   content: IEEE Standard for CASE Tool Interconnections - Reference Model for Specifying
     Software Behavior
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1350464
+- content: https://ieeexplore.ieee.org/document/1350464
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '2004-03-25'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-10-30'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Computer-Aided Software Engineering (CASE) tools are used to describe the
+- content: Computer-Aided Software Engineering (CASE) tools are used to describe the
     behavior of software using a variety of different design notations. These may
     be graphical or textual in nature, or may be a combination. This standard provides
     a reference model of fundamental software concepts that form the building blocks
@@ -50,12 +54,15 @@ abstract:
     to read and write. This reference model and transfer syntax may be used for directly
     recording, storing, and analyzing a software behavior description, as well as
     for transferring elements of a software behavior description between CASE tools.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2004'
@@ -71,5 +78,5 @@ keyword:
 - software behavior concept
 - transfer syntax
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

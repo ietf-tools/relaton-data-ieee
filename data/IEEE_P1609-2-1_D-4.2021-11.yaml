@@ -1,12 +1,12 @@
 ---
 id: IEEEP1609-2-1/D-4.2021-11
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for Wireless Access in Vehicular Environments (WAVE)
     - Certificate Management Interfaces for End Entities
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9632531
+- content: https://ieeexplore.ieee.org/document/9632531
   type: src
 type: standard
 docid:
@@ -23,41 +23,50 @@ date:
 - type: issued
   value: '2021'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-12-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Certificate management protocols are specified in this document to support
+- content: Certificate management protocols are specified in this document to support
     provisioning and management of digital certificates, as specified in IEEE Std
     1609.2(TM), to end entities, that is, an actor that uses digital certificates
     to authorize application activities
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2021'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1609-2-1.2020
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - authorization
@@ -69,5 +78,5 @@ keyword:
 - interface
 - Security Credential Management System (SCMS)
 ics:
-  code: 35.240.60
+- code: 35.240.60
   text: IT applications in transport

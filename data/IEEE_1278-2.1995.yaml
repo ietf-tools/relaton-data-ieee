@@ -1,12 +1,12 @@
 ---
 id: IEEE1278-2.1995
 title:
-  type: main
+- type: main
   content: IEEE Standard for Distributed Interactive Simulation - Communication Services
     and Profiles
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8684426
+- content: https://ieeexplore.ieee.org/document/8684426
   type: src
 type: standard
 docid:
@@ -25,29 +25,36 @@ date:
 - type: issued
   value: '1995-09-21'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Communication services to support information exchange between simulation
+- content: Communication services to support information exchange between simulation
     applications participating in the Distributed Interactive Simulation (DIS) environment
     are defined. These communication services describe a connectionless information
     transfer that supports real-time, as well as non-real-time, exchange. Several
     communication profiles specifying communication services are provided.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1996'
@@ -59,5 +66,5 @@ keyword:
 - PDU
 - multicast
 ics:
-  code: '35.020'
+- code: '35.020'
   text: Information technology in general

@@ -1,11 +1,11 @@
 ---
 id: IEEE521.1984
 title:
-  type: main
+- type: main
   content: IEEE Standard Letter Designations for Radar-Frequency Bands
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/29086
+- content: https://ieeexplore.ieee.org/document/29086
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1984-03-22'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-02-20'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Since World War II, radar systems engineers have used letter designations
+- content: Since World War II, radar systems engineers have used letter designations
     as a short notation for describing the frequency band of operation. This usage
     has continued throughout the years and is now an accepted practice of radar engineers.
     Radar-frequency letter designations are used for given reasons. The radar letter
@@ -45,22 +49,25 @@ abstract:
     (VHF) definitions are identical in the two systems. The essence of the radar nomenclature
     is to subdivide the existing ITU bands, in accordance with radar practice, without
     conflict or ambiguity.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1984'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 521.2002
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Terminology
 - Radar

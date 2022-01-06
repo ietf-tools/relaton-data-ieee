@@ -1,12 +1,12 @@
 ---
 id: IEEEP1671-2/D-15.2012-09
 title:
-  type: main
+- type: main
   content: IEEE Approved Draft Standard for Automatic Test Markup Language (ATML)
     Instrument Description
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8734166
+- content: https://ieeexplore.ieee.org/document/8734166
   type: src
 type: standard
 docid:
@@ -23,27 +23,34 @@ date:
 - type: issued
   value: '2012-12-05'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-06-10'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: An exchange format is specified in this standard, using extensible markup
+- content: An exchange format is specified in this standard, using extensible markup
     language (XML), for identifying instrumentation that may be integrated in an automatic
     test system (ATS) that is to be used to test and diagnose a unit under test (UUT).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2012'
@@ -55,8 +62,10 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: updates
   bibitem:
@@ -65,10 +74,12 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Automatic test equipment
@@ -86,5 +97,5 @@ keyword:
 - synthetic instrument
 - XML schema
 ics:
-  code: 35.240.30
+- code: 35.240.30
   text: IT applications in information, documentation and publishing

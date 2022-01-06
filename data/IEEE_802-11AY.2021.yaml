@@ -1,7 +1,7 @@
 ---
 id: IEEE802-11ay.2021
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Information Technology--Telecommunications and Information
     Exchange between Systems Local and Metropolitan Area Networks--Specific Requirements
     Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications
@@ -9,7 +9,7 @@ title:
     GHz'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9502046
+- content: https://ieeexplore.ieee.org/document/9502046
   type: src
 type: standard
 docid:
@@ -28,43 +28,52 @@ date:
 - type: issued
   value: '2021-03-25'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-07-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: In this amendment to IEEE Std 802.11-2020, standardized modifications to
+- content: In this amendment to IEEE Std 802.11-2020, standardized modifications to
     both the IEEE 802.11 physical layer (PHY) and the IEEE 802.11 medium access control
     (MAC) sublayer are defined to enable at least one mode of operation capable of
     supporting a maximum throughput of at least 20 gigabits per second (measured at
     the MAC data service access point), while maintaining or improving the power efficiency
     per station.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2021'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-11.2020
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -87,5 +96,5 @@ keyword:
 - multiple input multiple output
 - variable channel widths
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

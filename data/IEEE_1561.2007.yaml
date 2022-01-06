@@ -1,12 +1,12 @@
 ---
 id: IEEE1561.2007
 title:
-  type: main
+- type: main
   content: IEEE Guide for Optimizing the Performance and Life of Lead-Acid Batteries
     in Remote Hybrid Power Systems
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/4522641
+- content: https://ieeexplore.ieee.org/document/4522641
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '2007-12-05'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-06-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This guide is applicable to lead-acid batteries that are used as the energy
+- content: This guide is applicable to lead-acid batteries that are used as the energy
     storage component in remote hybrid power supplies. The remote hybrid application,
     with its dual generator option, i.e., both renewable and dispatchable generation,
     is advantageous in that the battery can usually be charged at will and under circumstances
@@ -47,22 +51,25 @@ abstract:
     charging, and the effect of temperature and charge-discharge rates on performances
     such as life and capacity. An informative annex discusses the several lead-acid
     technologies.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2008'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1561.2019
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Lead acid batteries
@@ -76,5 +83,5 @@ keyword:
 - valve-regulated lead-acid (VRLA) batteries
 - vented lead-acid batteries
 ics:
-  code: 29.220.20
+- code: 29.220.20
   text: Acid secondary cells and batteries

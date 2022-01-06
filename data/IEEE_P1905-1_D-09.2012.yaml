@@ -1,12 +1,12 @@
 ---
 id: IEEEP1905-1/D-09.2012
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for a Convergent Digital Home Network for Heterogeneous
     Technologies
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6417932
+- content: https://ieeexplore.ieee.org/document/6417932
   type: src
 type: standard
 docid:
@@ -23,19 +23,23 @@ date:
 - type: issued
   value: '2013-03-06'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-01-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'An abstraction layer for multiple home networking technologies that provides
+- content: 'An abstraction layer for multiple home networking technologies that provides
     a common interface to widely deployed home networking technologies is defined
     in this standard: IEEE 1901 over power lines, IEEE 802.11 for wireless, Ethernet
     over twisted pair cable, and MoCA 1.1 over coax. Connectivity selection for transmission
@@ -50,12 +54,15 @@ abstract:
     connections, extending network coverage, and facilitating advanced network management
     features including discovery, path selection, autoconfiguration, and quality of
     service (QoS) negotiation.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2012'
@@ -80,5 +87,5 @@ keyword:
 - topology discovery protocol
 - wireless fidelity (Wi-Fi)
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

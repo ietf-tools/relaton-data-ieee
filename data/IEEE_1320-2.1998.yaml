@@ -1,12 +1,12 @@
 ---
 id: IEEE1320-2.1998
 title:
-  type: main
+- type: main
   content: IEEE Standard for Conceptual Modeling Language - Syntax and Semantics for
     IDEF1X97 (IDEFobject)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8883275
+- content: https://ieeexplore.ieee.org/document/8883275
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1998-06-25'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-10-25'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'IDEF1X97 consists of two conceptual modeling languages. The key-style
+- content: 'IDEF1X97 consists of two conceptual modeling languages. The key-style
     language supports data/information modeling and is downward compatible with the
     US government’s 1993 standard, FIPS PUB 184. The identity-style language is based
     on the object model with declarative rules and constraints.IDEF1X97 identity style
@@ -50,12 +54,15 @@ abstract:
     logic. A procedure is given whereby any valid IDEF1X97 model can be transformed
     into an equivalent theory in first order logic. That procedure is then applied
     to a meta model of IDEF1X97 to define the valid set of IDEF1X97 models.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1998'
@@ -75,5 +82,5 @@ keyword:
 - key style
 - object model
 ics:
-  code: '35.060'
+- code: '35.060'
   text: Languages used in information technology

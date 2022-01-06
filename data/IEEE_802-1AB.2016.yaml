@@ -1,12 +1,12 @@
 ---
 id: IEEE802-1AB.2016
 title:
-  type: main
+- type: main
   content: IEEE Standard for Local and metropolitan area networks - Station and Media
     Access Control Connectivity Discovery
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7433915
+- content: https://ieeexplore.ieee.org/document/7433915
   type: src
 type: standard
 docid:
@@ -27,48 +27,59 @@ date:
 - type: issued
   value: '2016-01-29'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-03-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: This document defines a protocol and a set of managed objects that can
     be used for discovering the physical topology from adjacent stations in IEEE 802(R)
     LANs.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: This document defines a protocol and a set of managed objects that can
     be used for discovering the physical topology from adjacent stations in IEEE 802(R)
     LANs. (The PDF of this standard is available at no cost compliments of the IEEE
     GET program. http://ieeexplore.ieee.org/document/7433915. Additional downloads
     are attached or can be downloaded at http://standards.ieee.org/downloads/802.1/index.html)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2016'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-1AB.2009
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -83,5 +94,5 @@ keyword:
 - topology discovery
 - topology information
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

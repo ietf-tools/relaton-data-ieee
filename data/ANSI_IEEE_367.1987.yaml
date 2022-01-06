@@ -1,12 +1,12 @@
 ---
 id: ANSI/IEEE367.1987
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for Determining the Electric Power Station Ground
     Potential Rise and Induced Voltage from a Power Fault
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/19522
+- content: https://ieeexplore.ieee.org/document/19522
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1987-06-11'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-02-17'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Guidance is provided for the calculation of interfering voltages and their
+- content: Guidance is provided for the calculation of interfering voltages and their
     appropriate reduction from worst-case values for use in wire-line telecommunication
     protection design. Information is also included for the determination of the fault
     current and earth-return current levels; their probability, waveform, and duration;
@@ -48,22 +52,25 @@ abstract:
     the channel time requirements for wire-line telecommunication facilities where
     noninterruptible channels are required for protective relaying and other purposes
     are covered.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1988'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 367.1996
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Grounding
 - Standards
@@ -76,5 +83,5 @@ keyword:
 - Voltage measurement
 - Power system faults
 ics:
-  code: '27.100'
+- code: '27.100'
   text: Power stations in general

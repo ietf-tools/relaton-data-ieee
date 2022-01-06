@@ -1,12 +1,12 @@
 ---
 id: IEEE48.1990
 title:
-  type: main
+- type: main
   content: IEEE Standard Test Procedures and Requirements for High-Voltage Alternating-Current
     Cable Terminations
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/89660
+- content: https://ieeexplore.ieee.org/document/89660
   type: src
 type: standard
 docid:
@@ -25,27 +25,34 @@ date:
 - type: issued
   value: '1990-01-25'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard applies to all indoor and outdoor cable terminations used
+- content: This standard applies to all indoor and outdoor cable terminations used
     on ac cables having laminated or extruded insulation rated 2.5 kV through 500
     kV except separable insulated connectors.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1990'
@@ -57,15 +64,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 48.1996
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Power cables
 - Standards
@@ -73,5 +82,5 @@ keyword:
 - cable terminators
 - alternating currents
 ics:
-  code: 29.240.20
+- code: 29.240.20
   text: Power transmission and distribution lines

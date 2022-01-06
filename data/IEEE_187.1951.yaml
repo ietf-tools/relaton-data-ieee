@@ -1,12 +1,12 @@
 ---
 id: IEEE187.1951
 title:
-  type: main
+- type: main
   content: 'IEEE Standards on Radio Receivers: Open Field Method of Measurement of
     Spurious Radiation from Frequency Modulation and Television Broadcast Receivers'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8699143
+- content: https://ieeexplore.ieee.org/document/8699143
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1951'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-25'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Modern broadcast radio receivers of the super-heterodyne type are frequently
+- content: Modern broadcast radio receivers of the super-heterodyne type are frequently
     sources of spurious radiation from the local oscillator, which radiation may cause
     severe interference with other services. In addition, in the case of television
     broadcast receivers, there may be radiation of power from other sources beside
@@ -46,12 +50,15 @@ abstract:
     up methods of measurement whereby the strength of some of these radiations may
     be determined. Where the method for the two classes of receivers differ, the specifications
     for each are outlined
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1951'
@@ -66,7 +73,7 @@ relation:
     formattedref:
       content: IEEE 187.1990
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Frequency measurement
@@ -80,5 +87,5 @@ keyword:
 - tv
 - spurious
 ics:
-  code: 33.100.10
+- code: 33.100.10
   text: Emission

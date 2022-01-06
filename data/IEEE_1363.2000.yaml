@@ -1,11 +1,11 @@
 ---
 id: IEEE1363.2000
 title:
-  type: main
+- type: main
   content: IEEE Standard Specifications for Public-Key Cryptography
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/891000
+- content: https://ieeexplore.ieee.org/document/891000
   type: src
 type: standard
 docid:
@@ -24,30 +24,37 @@ date:
 - type: issued
   value: '2000-01-30'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-08-08'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard specifies common public-key cryptographic techniques, including
+- content: This standard specifies common public-key cryptographic techniques, including
     mathematical primitives for secret value (key) derivation, public-key encryption,
     and digital signatures, and cryptographic schemes based on those primitives. It
     also specifies related cryptographic parameters, public keys, and private keys.
     The purpose of this standard is to provide a reference for specifications on a
     variety of techniques from which applications may select.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2000'
@@ -58,5 +65,5 @@ keyword:
 - key agreement
 - public-key cryptography
 ics:
-  code: '35.040'
+- code: '35.040'
   text: Character sets and information coding

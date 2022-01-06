@@ -1,13 +1,13 @@
 ---
 id: IEEE802-1Qbe.2011
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Local and metropolitan area networks--Media Access Control
     (MAC) Bridges and Virtual Bridged Local Area Networks-- Amendment 15: Multiple
     I-SID Registration Protocol'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6024411
+- content: https://ieeexplore.ieee.org/document/6024411
   type: src
 type: standard
 docid:
@@ -28,50 +28,61 @@ date:
 - type: issued
   value: '2011-06-16'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2012-05-31'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: This amendment to IEEE Std 802.1Q-2011 specifies protocols, procedures,
     and managed objects to support topology change signaling to alter the binding
     (held in an l-Component) of Customer addresses to Backbone addresses on a per-l-SID
     basis. This is accomplished by extending the use of the Multiple Registration
     Protocol (MRP).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: This amendment to IEEE Std 802.1Q-2011 specifies protocols, procedures,
     and managed objects to support topology change signaling to alter the binding
     (held in an I-Component) of Customer addresses to Backbone addresses on a per-I-SID
     basis. This is accomplished by extending the use of the Multiple Registration
     Protocol (MRP).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2011'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-1Q.2011
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE standards
@@ -93,5 +104,5 @@ keyword:
 - Virtual Bridged Local Area Networks
 - virtual LANs
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

@@ -1,11 +1,11 @@
 ---
 id: IEEE1233.1996
 title:
-  type: main
+- type: main
   content: IEEE Guide for Developing System Requirements Specifications
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/502838
+- content: https://ieeexplore.ieee.org/document/502838
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1996-04-17'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-24'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This IEEE Standards product is part of the family on Software Engineering.
+- content: This IEEE Standards product is part of the family on Software Engineering.
     Guidance for the development of the set of requirements, System Requirements Specification
     (SyRS), that will satisfy an expressed need is provided. Developing a SyRS includes
     the identification, organization, presentation, and modification of the requirements.
@@ -44,22 +48,25 @@ abstract:
     constaints, and design confiquration requirements into the specification. This
     guide also covers the necessary characteristics and qualities of individual requirements
     and the set of all requirements.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1996'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1233.1998
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Software requirements and specifications
 - IEEE standards
@@ -68,5 +75,5 @@ keyword:
 - requirement
 - system
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

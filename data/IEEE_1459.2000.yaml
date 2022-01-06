@@ -1,12 +1,12 @@
 ---
 id: IEEE1459.2000
 title:
-  type: main
+- type: main
   content: IEEE Standard Definitions for the Measurement of Electric Power Quantities
     under Sinusoidal, Non-Sinusoidal, Balanced, or Unbalanced Conditions
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/985671
+- content: https://ieeexplore.ieee.org/document/985671
   type: src
 type: standard
 docid:
@@ -25,38 +25,45 @@ date:
 - type: issued
   value: '2000-01-30'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This is a standard for definitions used for measurement of electric power
+- content: This is a standard for definitions used for measurement of electric power
     quantities under sinusoidal, non-sinusoidal, balanced, or unbalanced conditions.
     It lists the mathematical expressions that were used in the past, as well as new
     expressions, and explains the features of the new definitions.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2000'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1459.2010
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Reactive power

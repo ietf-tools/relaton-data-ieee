@@ -1,11 +1,11 @@
 ---
 id: IEEE1241.2000
 title:
-  type: main
+- type: main
   content: IEEE Standard for Terminology and Test Methods for Analog-to-Digital Converters
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/929859
+- content: https://ieeexplore.ieee.org/document/929859
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '2000-12-07'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: IEEE Std 1241-2000 identifies analog-to-digital converter (ADC) error sources
+- content: IEEE Std 1241-2000 identifies analog-to-digital converter (ADC) error sources
     and provides test methods with which to perform the required error measurements.
     The information in this standard is useful both to manufacturers and to users
     of ADCs in that it provides a basis for evaluating and comparing existing devices,
@@ -45,22 +49,25 @@ abstract:
     in this standard can be used to correct ADC errors, e.g., correction for gain
     and offset errors. This standard also presents terminology and definitions to
     aid the user in defining and testing ADCs.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2001'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1241.2010
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - ADC
@@ -70,5 +77,5 @@ keyword:
 - terminology
 - test methods
 ics:
-  code: '31.200'
+- code: '31.200'
   text: Integrated circuits. Microelectronics

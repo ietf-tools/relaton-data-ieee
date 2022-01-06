@@ -1,12 +1,12 @@
 ---
 id: IEEE1512-2.2004
 title:
-  type: main
+- type: main
   content: IEEE Standard for Public Safety Traffic Incident Management Message Sets
     for Use By Emergency Management Centers
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1470008
+- content: https://ieeexplore.ieee.org/document/1470008
   type: src
 type: standard
 docid:
@@ -25,31 +25,38 @@ date:
 - type: issued
   value: '2004-09-23'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-03-18'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard addresses the exchange of vital data about public safety
+- content: This standard addresses the exchange of vital data about public safety
     issues involved in transportation-related events, through common incident management
     message sets. Message sets specified are consistent with the National Intelligent
     Transportation Systems Architecture and are described using Abstract Syntax Notation
     One (ASN.1 or ASN) syntax. This standard comprises one companion standard of the
     family of incident management standards centered around a base standard, IEEE
     Std 1512-2000.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2004'
@@ -85,5 +92,5 @@ keyword:
 - traffic management
 - transportation management system
 ics:
-  code: 35.240.60
+- code: 35.240.60
   text: IT applications in transport and trade

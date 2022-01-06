@@ -1,12 +1,12 @@
 ---
 id: IEEE1603.2003
 title:
-  type: main
+- type: main
   content: IEEE Standard for an Advanced Library Format (ALF) Describing Integrated
     Circuit (IC) Technology, Cells, and Blocks
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1269678
+- content: https://ieeexplore.ieee.org/document/1269678
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '2003-09-11'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Superseded by IEC/IEEE 62265-2005. ALF shall serve as the data specification
+- content: Superseded by IEC/IEEE 62265-2005. ALF shall serve as the data specification
     language of library elements for design applications used to implement integrated
     circuits. The range of abstraction shall include from the register-transfer level
     (RTL) to the physical level. The language shall model behavior, timing, power,
@@ -51,12 +55,15 @@ abstract:
     multiple descriptions for similar library aspects. Therefore a standard is proposed
     to create a consistent library view suitable as a reference for all design implementation
     applications.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2004'
@@ -87,5 +94,5 @@ keyword:
 - technology
 - timing
 ics:
-  code: '31.200'
+- code: '31.200'
   text: Integrated circuits. Microelectronics

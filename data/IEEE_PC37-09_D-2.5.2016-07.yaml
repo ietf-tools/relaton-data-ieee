@@ -1,12 +1,12 @@
 ---
 id: IEEEPC37-09/D-2.5.2016-07
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard Test Procedures for AC High-Voltage Circuit Breakers
     with Rated Maximum Voltage above 1000V
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7524653
+- content: https://ieeexplore.ieee.org/document/7524653
   type: src
 type: standard
 docid:
@@ -23,19 +23,23 @@ date:
 - type: issued
   value: '2018-12-05'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-07-28'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'The testing procedures for all high-voltage circuit breakers that include
+- content: 'The testing procedures for all high-voltage circuit breakers that include
     voltage ratings above 1000 V ac and comprise both indoor and outdoor types having
     the preferred ratings as listed in IEEE Std C37.04(TM) are covered. Typical circuit
     breakers covered by these standards have maximum voltage ratings from 4.76 kV
@@ -49,27 +53,32 @@ abstract:
     C37.09-2018 requires the use of a color monitor (and color printer) to view many
     of the graphics contained in this standard. Color is essential to the understanding
     of the graphics.)'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2016'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE C37-09.1999
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Voltage measurement
@@ -95,5 +104,5 @@ keyword:
 - transient recovery voltage
 - unit test
 ics:
-  code: 29.120.40
+- code: 29.120.40
   text: Switches

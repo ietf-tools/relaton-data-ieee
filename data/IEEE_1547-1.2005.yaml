@@ -1,12 +1,12 @@
 ---
 id: IEEE1547-1.2005
 title:
-  type: main
+- type: main
   content: IEEE Standard Conformance Test Procedures for Equipment Interconnecting
     Distributed Resources with Electric Power Systems
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1490131
+- content: https://ieeexplore.ieee.org/document/1490131
   type: src
 type: standard
 docid:
@@ -27,43 +27,52 @@ date:
 - type: issued
   value: '2005-06-09'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-07-02'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: This standard specifies the type, production, and commissioning tests that
     shall be performed to demonstrate that the interconnection functions and equipment
     of the distributed resources (DR) conform to IEEE Std 1547
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: This standard specifies the type, production, and commissioning tests that
     shall be performed to demonstrate that the interconnection functions and equipment
     of the distributed resources (DR) conform to IEEE Std 1547(TM). https://standards.ieee.org/content/dam/ieee-standards/standards/web/documents/interpretations/1547.1-2005_interp.pdf
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2005'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1547-1.2020
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Power systems
@@ -74,5 +83,5 @@ keyword:
 - interconnection
 - test procedures
 ics:
-  code: '27.100'
+- code: '27.100'
   text: Power stations in general

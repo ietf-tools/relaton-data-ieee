@@ -1,12 +1,12 @@
 ---
 id: IEEE421-5.2005
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for Excitation System Models for Power System
     Stability Studies
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1626480
+- content: https://ieeexplore.ieee.org/document/1626480
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '2005-10-25'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-07-08'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Excitation system models suitable for use in large-scale system stability
+- content: Excitation system models suitable for use in large-scale system stability
     studies are presented. Important limiters and supplementary controls are also
     included. The model structures presented are intended to facilitate the use of
     field test data as a means of obtaining model parameters. The models are, however,
@@ -48,12 +52,15 @@ abstract:
     problems. Delayed protective and control features that may come into play in long
     term dynamic performance studies are not represented. A sample set of data for
     each of the models, for at least one particular application, is provided.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2006'
@@ -65,15 +72,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 421-5.2016
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Patents
@@ -85,5 +94,5 @@ keyword:
 - excitation systems
 - power system stability
 ics:
-  code: 29.160.20
+- code: 29.160.20
   text: Generators

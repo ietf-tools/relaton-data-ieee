@@ -1,11 +1,11 @@
 ---
 id: IEEE1156-1.1993
 title:
-  type: main
+- type: main
   content: IEEE Standard Microcomputer Environmental Specifications for Computer Modules
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8960256
+- content: https://ieeexplore.ieee.org/document/8960256
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1993-06-17'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-01-14'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Fundamental information on minimum environmental withstand conditions is
+- content: Fundamental information on minimum environmental withstand conditions is
     provided. The information is intended to be used in those cases in which a generic
     or detail specification for a certain module has been prepared. The intent is
     to achieve uniformity and reproducibility in the test conditions for all modules
@@ -44,12 +48,15 @@ abstract:
     performance level. The specifications pertain to both the natural and artificial
     environments to which modules may be exposed. These conditions include, but are
     not limited to, thermal, mechanical, electrical, and atmospheric stresses.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1993'
@@ -57,5 +64,5 @@ keyword:
 - Performance level qualification
 - Environmental withstand conditions
 ics:
-  code: '35.160'
+- code: '35.160'
   text: Microprocessor systems

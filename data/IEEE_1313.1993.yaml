@@ -1,11 +1,11 @@
 ---
 id: IEEE1313.1993
 title:
-  type: main
+- type: main
   content: IEEE Standard for Power Systems - Insulation Coordination
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8684578
+- content: https://ieeexplore.ieee.org/document/8684578
   type: src
 type: standard
 docid:
@@ -24,29 +24,36 @@ date:
 - type: issued
   value: '1993'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Equipment for three-phase alternating-current (ac) systems having a system
+- content: Equipment for three-phase alternating-current (ac) systems having a system
     voltage above 1 kV nominal is discussed. Except for some definitions, this standard
     includes only phase-to-ground insulation. The object of this standard is to guide
     the preparation of specifications for insulation of the various items of equipment
     in a given installation.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1993'
@@ -61,7 +68,7 @@ relation:
     formattedref:
       content: IEEE 1313-1.1996
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - atmospheric correction
 - correction factor
@@ -78,5 +85,5 @@ keyword:
 - insulation configuration
 - phase to phase
 ics:
-  code: 29.080.01
+- code: 29.080.01
   text: Insulation in general

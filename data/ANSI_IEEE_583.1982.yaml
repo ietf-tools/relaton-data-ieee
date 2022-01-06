@@ -1,12 +1,12 @@
 ---
 id: ANSI/IEEE583.1982
 title:
-  type: main
+- type: main
   content: IEEE Standard Modular Instrumentation and Digital Interface System (CAMAC)
     (Computer Automated Measurement and Control)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/30633
+- content: https://ieeexplore.ieee.org/document/30633
   type: src
 type: standard
 docid:
@@ -25,31 +25,38 @@ date:
 - type: issued
   value: '1981-09-17'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-03-11'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard is intended to serve as a basis for a range of modular instrumentation
+- content: This standard is intended to serve as a basis for a range of modular instrumentation
     capable of interfacing transducers and other devices to digital controllers for
     data and control. It consists of mechanical standards and signal standards that
     are sufficient to ensure physical and operational compatibility between units
     regardless of source. The standard fully specifies a data bus (Dataway) by means
     of which instruments and other functional modules can communicate with each other,
     with peripherals, with computers, and with other external controllers.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1982'

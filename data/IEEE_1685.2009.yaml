@@ -1,12 +1,12 @@
 ---
 id: IEEE1685.2009
 title:
-  type: main
+- type: main
   content: IEEE Standard for IP-XACT, Standard Structure for Packaging, Integrating,
     and Reusing IP within Tool Flows
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5417309
+- content: https://ieeexplore.ieee.org/document/5417309
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '2009-12-09'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-09-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'Conformance checks for extensible Markup Language (XML) data designed
+- content: 'Conformance checks for extensible Markup Language (XML) data designed
     to describe electronic systems are formulated by this standard. The meta-data
     forms that are standardized include: components, systems, bus interfaces and connections,
     abstractions of those buses, and details of the components including address maps,
@@ -49,12 +53,15 @@ abstract:
     of methodology-independent meta-data and the tool-independent mechanism for accessing
     that data provides for portability of design data, design methodologies, and environment
     implementations.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2010'
@@ -83,5 +90,5 @@ keyword:
 - XML design meta-data
 - XML schema
 ics:
-  code: 35.240.99
+- code: 35.240.99
   text: IT applications in other fields

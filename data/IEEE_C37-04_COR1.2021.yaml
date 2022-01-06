@@ -1,12 +1,12 @@
 ---
 id: IEEEC37-04/Cor1.2021
 title:
-  type: main
+- type: main
   content: IEEE Standard for Ratings and Requirements for AC High-Voltage Circuit
     Breakers with Rated Maximum Voltage Above 1000 V - Corrigendum 1
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9547240
+- content: https://ieeexplore.ieee.org/document/9547240
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '2021-06-16'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard covers the rating structure for all high-voltage circuit
+- content: This standard covers the rating structure for all high-voltage circuit
     breakers, which include all voltage ratings above 1000 V ac and comprise both
     indoor and outdoor types. Preferred ratings are also provided. Typical circuit
     breakers covered by these standards have maximum voltage ratings ranging from
@@ -49,25 +53,30 @@ abstract:
     capabilities such as mechanical endurance, load current, and out-of-phase switching.
     This standard does not cover generator circuit breakers, which are covered by
     IEC/IEEE Std 62271-37-013(TM).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2021'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE C37-04.2018
       format: text/plain
   description:
     content: corrects
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -91,5 +100,5 @@ keyword:
 - short-line fault
 - transient recovery voltage
 ics:
-  code: 29.130.10
+- code: 29.130.10
   text: High voltage switchgear and controlgear

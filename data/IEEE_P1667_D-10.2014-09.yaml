@@ -1,12 +1,12 @@
 ---
 id: IEEEP1667/D-10.2014-09
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for Discovery, Authentication, and Authorization in
     Host Attachments of Storage Devices
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6974958
+- content: https://ieeexplore.ieee.org/document/6974958
   type: src
 type: standard
 docid:
@@ -23,43 +23,52 @@ date:
 - type: issued
   value: '2015-03-05'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-12-04'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard defines discovery, authentication, and authorization protocols
+- content: This standard defines discovery, authentication, and authorization protocols
     between hosts and storage devices over multiple transports. This standard specifies
     a new silo Type Identifier (STID) allocation process that uses the IEEE Registration
     Authority.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2014'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1667.2009
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Storage automation

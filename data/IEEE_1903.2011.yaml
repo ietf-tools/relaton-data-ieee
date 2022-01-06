@@ -1,12 +1,12 @@
 ---
 id: IEEE1903.2011
 title:
-  type: main
+- type: main
   content: IEEE Standard for the Functional Architecture of Next Generation Service
     Overlay Networks
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6044687
+- content: https://ieeexplore.ieee.org/document/6044687
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2011-09-10'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-10-24'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: A framework of Internet Protocol (IP)-based service overlay networks is
     described and context-aware [e.g., such as required Quality of Service (QoS) level;
@@ -59,8 +63,10 @@ abstract:
     (NGN), peer-to-peer (P2P) overlay, or Web to transmit NGSON signaling messages
     and/or media among its users and services. Specifications of underlying networks
     are outside scope of this standard.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: A framework of Internet Protocol (IP)-based service overlay networks is
     described and context-aware [e.g., such as required Quality of Service (QoS) level;
@@ -82,12 +88,15 @@ abstract:
     (NGN), peer-to-peer (P2P) overlay, or Web to transmit NGSON signaling messages
     and/or media among its users and services. Specifications of underlying networks
     are outside scope of this standard.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2011'
@@ -108,5 +117,5 @@ keyword:
 - service overlay network
 - service routing
 ics:
-  code: 35.240.99
+- code: 35.240.99
   text: IT applications in other fields

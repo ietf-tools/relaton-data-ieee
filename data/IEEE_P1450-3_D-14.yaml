@@ -1,12 +1,12 @@
 ---
 id: IEEEP1450-3/D-14
 title:
-  type: main
+- type: main
   content: Unapproved IEEE Draft for Extensions to Standard Test Interface Language
     (STIL) (IEEE Std. 1450-1999) for DC Level Specification
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/4040240
+- content: https://ieeexplore.ieee.org/document/4040240
   type: src
 type: standard
 docid:
@@ -16,21 +16,25 @@ docid:
   type: ISBN
 docnumber: IEEE P1450-3/D-14
 date:
-  type: created
+- type: created
   value: '2006'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
-language: en
-script: Latn
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Define structures in STIL for the specification of resource mapping of
+- content: Define structures in STIL for the specification of resource mapping of
     ATE hardware architectures. An example of resource mapping is the assignment of
     tester resources to waveform characters that are used in STIL-vectors. Define
     structures in STIL for including ATE specific instructions in-line with the STIL
@@ -41,15 +45,18 @@ abstract:
     resources on one or more ATE systems. Define structures in STIL for the specification
     of the resources required for the execution of a set of STIL files on a given
     ATE system.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2006'
 ics:
-  code: '35.060'
+- code: '35.060'
   text: Languages used in information technology

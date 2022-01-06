@@ -1,12 +1,12 @@
 ---
 id: ANSI/IEEE367.1979
 title:
-  type: main
+- type: main
   content: IEEE Guide for Determining the Electric Power Station Ground Potential
     Rise and Induced Voltage from a Power Fault
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7409903
+- content: https://ieeexplore.ieee.org/document/7409903
   type: src
 type: standard
 docid:
@@ -27,19 +27,23 @@ date:
 - type: issued
   value: '1978-06-14'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-02-17'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Difficulties are experienced by telecommunication and protective relay
+- content: Difficulties are experienced by telecommunication and protective relay
     engineers in determining the maximum power station ground potential rise, or induced
     voltages, or both. Suitably rated protective devices are required for personnel
     safety and for the protection and continuity of service of wire line telecommunication
@@ -48,25 +52,29 @@ abstract:
     of these maximum voltages and for the acceptance of values lower than maximum,
     as well as the time requirements of communication channels where protective relaying
     is involved.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: American National Standards Institute
+- owner:
+  - name:
+    - American National Standards Institute
     abbreviation: ANSI
     url: https://www.ansi.org
-  - name: Institute of Electrical and Electronics Engineers
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1979'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: ANSI/IEEE 367.1987
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Electric potential

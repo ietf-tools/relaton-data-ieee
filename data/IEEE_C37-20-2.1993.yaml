@@ -1,11 +1,11 @@
 ---
 id: IEEEC37-20-2.1993
 title:
-  type: main
+- type: main
   content: IEEE Standard for Metal-Clad and Station-Type Cubicle Switchgear
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/392589
+- content: https://ieeexplore.ieee.org/document/392589
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1993-09-15'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-11-19'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Metal-enclosed medium voltage switchgear (ME), which can contain either
+- content: Metal-enclosed medium voltage switchgear (ME), which can contain either
     drawout electrically operated circuit breakers or stationary electrically operated
     circuit breakers in individual three-pole grounded metal compartments, is covered.
     Further, metal-clad switchgear (MC) is compartmentalized to isolate all components
@@ -50,12 +54,15 @@ abstract:
     necessary. Service conditions, ratings, temperature limitations, and classification
     of insulating materials, insulation (dielectric) withstand voltage requirements,
     test procedures, and application are discussed.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1994'
@@ -67,15 +74,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE C37-20-2.1999
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Circuit breakers
@@ -102,5 +111,5 @@ keyword:
 - transformer accuracy
 - voltage transformers
 ics:
-  code: 29.130.99
+- code: 29.130.99
   text: Other switchgear and controlgear

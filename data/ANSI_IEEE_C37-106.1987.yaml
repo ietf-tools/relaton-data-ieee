@@ -1,11 +1,11 @@
 ---
 id: ANSI/IEEEC37-106.1987
 title:
-  type: main
+- type: main
   content: IEEE Guide for Abnormal Frequency Protection for Power Generating Plants
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/26543
+- content: https://ieeexplore.ieee.org/document/26543
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1984-03-22'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This guide has been prepared to assist the protection engineer in applying
+- content: This guide has been prepared to assist the protection engineer in applying
     relays for the protection of generating plant equipment from damage caused by
     operation at abnormal frequencies including overexcitation. Emphasis is placed
     on the protection of the major generating station components at steam generating
@@ -49,22 +53,25 @@ abstract:
     protective scheme with system-load shielding schemes are also included. Sufficient
     information is provided to apply suitable coordinated protection for given specific
     situations.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1987'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE C37-106.2003
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Nuclear power generation
 - Power system protection
@@ -77,5 +84,5 @@ keyword:
 - Protective relaying
 - Power generation protection
 ics:
-  code: 29.120.70
+- code: 29.120.70
   text: Relays

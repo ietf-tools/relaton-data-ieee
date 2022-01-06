@@ -1,13 +1,13 @@
 ---
 id: IEEE802-15-4w.2020
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Low-Rate Wireless Networks--Amendment 2: Low Power Wide
     Area Network (LPWAN) Extension to the Low-Energy Critical Infrastructure Monitoring
     (LECIM) Physical Layer (PHY)'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9206104
+- content: https://ieeexplore.ieee.org/document/9206104
   type: src
 type: standard
 docid:
@@ -28,17 +28,21 @@ date:
 - type: issued
   value: '2020-06-04'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-09-25'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The existing low-energy critical infrastructure monitoring (LECIM) frequency
     shift keying (FSK) physical layer of IEEE Std 802.15.4-2020 is extended to be
@@ -46,8 +50,10 @@ abstract:
     applications in low power wide area networks (LPWAN). Lower symbol rates and a
     split mode with low-rate forward error correction (FEC) codes are introduced to
     achieve this goal.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: The existing low-energy critical infrastructure monitoring (LECIM) frequency
     shift keying (FSK) physical layer of IEEE Std 802.15.4-2020 is extended to be
@@ -55,25 +61,30 @@ abstract:
     applications in low power wide area networks (LPWAN). Lower symbol rates and a
     split mode with low-rate forward error correction (FEC) codes are introduced to
     achieve this goal.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2020'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-15-4.2015
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -104,5 +115,5 @@ keyword:
 - wireless personal area network
 - WPAN
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

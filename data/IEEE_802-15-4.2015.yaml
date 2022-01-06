@@ -1,11 +1,11 @@
 ---
 id: IEEE802-15-4.2015
 title:
-  type: main
+- type: main
   content: IEEE Standard for Low-Rate Wireless Networks
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7460875
+- content: https://ieeexplore.ieee.org/document/7460875
   type: src
 type: standard
 docid:
@@ -26,25 +26,31 @@ date:
 - type: issued
   value: '2015-12-05'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-04-27'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The protocol and compatible interconnection for data communication devices
     using low-data-rate, low-power, and low-complexity short-range radio frequency
     (RF) transmissions in a wireless personal area network (WPAN) are defined in this
     standard. A variety of physical layers (PHYs) have been defined that cover a wide
     variety of frequency bands.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: The protocol and compatible interconnection for data communication devices
     using low-data-rate, low-power, and low-complexity short-range radio frequency
@@ -53,25 +59,30 @@ abstract:
     variety of frequency bands. (The PDF of the standard is available at no cost at
     https://ieeexplore.ieee.org/browse/standards/get-program/page compliments of the
     GETIEEE standards program)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2016'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-15-4.2011
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -96,5 +107,5 @@ keyword:
 - wireless personal area network
 - WPAN
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

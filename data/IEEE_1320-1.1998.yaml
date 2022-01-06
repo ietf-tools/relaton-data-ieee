@@ -1,12 +1,12 @@
 ---
 id: IEEE1320-1.1998
 title:
-  type: main
+- type: main
   content: IEEE Standard for Functional Modeling Language - Syntax and Semantics for
     IDEF0
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/749110
+- content: https://ieeexplore.ieee.org/document/749110
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1998-06-25'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-05-20'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Reaffirmed 2004. IDEF0 function modeling is designed to represent the decisions,
+- content: Reaffirmed 2004. IDEF0 function modeling is designed to represent the decisions,
     actions, and activities of an existing or prospective organization or system.
     IDEF0 graphics and accompanying texts are presented in an organized and systematic
     way to gain understanding, support analysis, provide logic for potential changes,
@@ -50,12 +54,15 @@ abstract:
     an implementation that meets these requirements and performs these functions.
     For existing systems, IDEF0 can be used to analyze the functions that the system
     performs and to record the means by which these are done.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1998'
@@ -67,5 +74,5 @@ keyword:
 - language
 - modeling language
 ics:
-  code: '35.060'
+- code: '35.060'
   text: Languages used in information technology

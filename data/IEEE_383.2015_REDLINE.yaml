@@ -9,7 +9,7 @@ title:
     - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7342861
+- content: https://ieeexplore.ieee.org/document/7342861
   type: src
 type: standard
 docid:
@@ -26,43 +26,52 @@ date:
 - type: issued
   value: '2015-09-03'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-12-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: General requirements and methods for qualifying electric cables and splices
+- content: General requirements and methods for qualifying electric cables and splices
     for nuclear facilities are provided. Cable, wire, and splices within or integral
     to other devices (e.g., instruments, panels, motors) should be qualified using
     the requirements in the applicable device standard or IEEE Std 323(TM). However,
     this standard’s requirements may be applied to the cable, wire and splices within
     these devices. For qualification of fiber optic cable, refer to IEEE Std 1682(TM).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2015'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 383.2003
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -84,5 +93,5 @@ keyword:
 - splice
 - wire
 ics:
-  code: 29.060.20
+- code: 29.060.20
   text: Cables

@@ -1,11 +1,11 @@
 ---
 id: IEEE755
 title:
-  type: main
+- type: main
   content: IEEE Trial-Use Extending High Level Language Implementations for Microprocessors
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/30713
+- content: https://ieeexplore.ieee.org/document/30713
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1985'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-01-12'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'The standard specifies extensions to high-level languages for microprocessor
+- content: 'The standard specifies extensions to high-level languages for microprocessor
     applications. It covers computer languages for which there exist either ANSI or
     IEEE standards, or draft standards in preparation by existing ANSI or IEEE committees.
     Notwithstanding the extensions herein provided, the language extended by this
@@ -44,12 +48,15 @@ abstract:
     explicitly extends three languages: Basic, Fortran, and Pascal. Other languages
     may be implicitly extended by the consistent application of the naming conventions
     and rules for extension specified in this standard.<<ETX>>'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1985'
@@ -64,5 +71,5 @@ keyword:
 - implementations
 - microprocessors
 ics:
-  code: '35.160'
+- code: '35.160'
   text: Microprocessor systems

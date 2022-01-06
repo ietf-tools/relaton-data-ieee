@@ -10,7 +10,7 @@ title:
     Stations - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5961577
+- content: https://ieeexplore.ieee.org/document/5961577
   type: src
 type: standard
 docid:
@@ -29,19 +29,23 @@ date:
 - type: issued
   value: '2009-09-11'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-08-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Minimum functional and design criteria for the power, instrumentation,
+- content: Minimum functional and design criteria for the power, instrumentation,
     and control portions of nuclear power generating station safety systems are established
     in this standard. The criteria are to be applied to those systems required to
     protect the public health and safety by functioning to mitigate the consequences
@@ -51,12 +55,15 @@ abstract:
     equipment provided for safe shutdown, post accident monitoring display instrumentation,
     preventive interlock features, or any other systems, structures, or equipment
     related to safety.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2011'
@@ -68,15 +75,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 603.2018
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Nuclear power generation
@@ -94,5 +103,5 @@ keyword:
 - sense and command features
 - sensor
 ics:
-  code: 27.120.20
+- code: 27.120.20
   text: Nuclear power plants. Safety

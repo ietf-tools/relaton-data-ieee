@@ -1,12 +1,12 @@
 ---
 id: IEEE1390.1995
 title:
-  type: main
+- type: main
   content: IEEE Standard for Utility Telemetry Service Architecture for Switched Telephone
     Network
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/499702
+- content: https://ieeexplore.ieee.org/document/499702
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1995-09-21'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-09-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'Withdrawn Standard. Withdrawn Date: Feb 06, 2006. This standard describes
+- content: 'Withdrawn Standard. Withdrawn Date: Feb 06, 2006. This standard describes
     a utility telemetry service architecture operated over the telephone network.
     The architecture described is a basic transport architecture capable of supporting
     many different applications. The text is described in terms of a utility meter
@@ -45,12 +49,15 @@ abstract:
     be transported. Telemetry calls may be initiated by either the utility/service
     provider (outbound) or the telemetry interface unit (TIU)/CPE (inbound) on the
     end user''s premise.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1996'
@@ -69,5 +76,5 @@ keyword:
 - telephone network
 - utility communication
 ics:
-  code: 33.040.35
+- code: 33.040.35
   text: Telephone networks

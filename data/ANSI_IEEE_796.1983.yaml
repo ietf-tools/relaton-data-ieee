@@ -1,11 +1,11 @@
 ---
 id: ANSI/IEEE796.1983
 title:
-  type: main
+- type: main
   content: IEEE Standard Microcomputer System Bus
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/573226
+- content: https://ieeexplore.ieee.org/document/573226
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1982-12-09'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-01-09'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: A general-purpose microcomputer system bus is defined, and the device-independent
+- content: A general-purpose microcomputer system bus is defined, and the device-independent
     electrical and functional interface requirements that a module shall meet in order
     to interconnect and communicate unambiguously by way of the system are specified.
     Signal definitions and timing and electrical specifications are covered in detail
@@ -48,12 +52,15 @@ abstract:
     with a wide range of capabilities to be introduced to the system simultaneously,
     and result in a system with a minimum of restrictions on the performance characteristics
     of devices connected to the system.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1983'
@@ -64,5 +71,5 @@ keyword:
 - Microcomputer interfaces
 - Data buses
 ics:
-  code: '35.160'
+- code: '35.160'
   text: Microprocessor systems

@@ -1,12 +1,12 @@
 ---
 id: IEEE421-5.2016
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for Excitation System Models for Power System
     Stability Studies
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7553421
+- content: https://ieeexplore.ieee.org/document/7553421
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2016-05-15'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-08-26'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: Excitation system and power system stabilizer models suitable for use in
     large-scale system stability studies are presented. Important excitation limiters
@@ -51,8 +55,10 @@ abstract:
     protective and control features that may come into play in long-term dynamic performance
     studies are not represented. A sample set of data for each of the models, for
     at least one particular application, is provided.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Excitation system and power system stabilizer models suitable for use in
     large-scale system stability studies are presented. Important excitation limiters
@@ -66,25 +72,30 @@ abstract:
     protective and control features that may come into play in long-term dynamic performance
     studies are not represented. A sample set of data for each of the models, for
     at least one particular application, is provided.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2016'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 421-5.2005
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -99,5 +110,5 @@ keyword:
 - power system stability
 - power system stabilizer models
 ics:
-  code: 29.160.20
+- code: 29.160.20
   text: Generators

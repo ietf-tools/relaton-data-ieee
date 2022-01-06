@@ -1,14 +1,14 @@
 ---
 id: IEEE1547a.2020
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Interconnection and Interoperability of Distributed
     Energy Resources with Associated Electric Power Systems Interfaces--Amendment
     1: To Provide More Flexibility for Adoption of Abnormal Operating Performance
     Category III'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9069495
+- content: https://ieeexplore.ieee.org/document/9069495
   type: src
 type: standard
 docid:
@@ -29,17 +29,21 @@ date:
 - type: issued
   value: '2020-03-09'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-04-16'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The performance and functional capability requirements for DER connected
     with the Area Electric Power Systems (Area EPS) are defined in IEEE Std 1547(TM).
@@ -47,8 +51,10 @@ abstract:
     Table 13 for DERs in abnormal operating performance category III to allow wider
     ranges that can broaden and simplify the adoption of the standard. In addition,
     the related informative Figure H.9 is revised accordingly.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: The performance and functional capability requirements for DER connected
     with the Area Electric Power Systems (Area EPS) are defined in IEEE Std 1547(TM).
@@ -56,25 +62,30 @@ abstract:
     Table 13 for DERs in abnormal operating performance category III to allow wider
     ranges that can broaden and simplify the adoption of the standard. In addition,
     the related informative Figure H.9 is revised accordingly.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2020'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1547.2018
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -114,5 +125,5 @@ keyword:
 - utilities
 - wind energy systems
 ics:
-  code: '27.100'
+- code: '27.100'
   text: Power stations in general

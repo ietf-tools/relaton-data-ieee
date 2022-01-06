@@ -1,13 +1,13 @@
 ---
 id: ISO/IEC/IEEE8802-1X.2021
 title:
-  type: main
+- type: main
   content: IEEE/ISO/IEC International Standard-Telecommunications and exchange between
     information technology systems--Requirements for local and metropolitan area networks--Part
     1X:Port-based network access control
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9650828
+- content: https://ieeexplore.ieee.org/document/9650828
   type: src
 type: standard
 docid:
@@ -26,19 +26,23 @@ date:
 - type: issued
   value: '2021'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-12-14'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Port-based network access control allows a network administrator to restrict
+- content: Port-based network access control allows a network administrator to restrict
     the use of IEEE 802(R) LAN service access points (ports) to secure communication
     between authenticated and authorized devices. This standard specifies a common
     architecture, functional elements, and protocols that support mutual authentication
@@ -46,19 +50,24 @@ abstract:
     between the ports, including the media access method independent protocols that
     are used to discover and establish the security associations used by IEEE 802.1AE(TM)
     MAC Security.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
-  - name: IEC
+  - name:
+    - ISO
+  - name:
+    - IEC
   from: '2021'
 relation:
-  type: adoptedFrom
+- type: adoptedFrom
   bibitem:
     formattedref:
       content: IEEE 802-1X.2020
@@ -98,5 +107,5 @@ keyword:
 - service access point
 - uncontrolled port
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

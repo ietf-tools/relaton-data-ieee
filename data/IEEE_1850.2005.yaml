@@ -1,11 +1,11 @@
 ---
 id: IEEE1850.2005
 title:
-  type: main
+- type: main
   content: IEEE Standard for Property Specification Language (PSL)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1524461
+- content: https://ieeexplore.ieee.org/document/1524461
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '2005-09-22'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-12'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The IEEE Property Specification Language (PSL) is defined in this standard.
     PSL is a formal notation for specification of electronic system behavior, compatible
@@ -50,29 +54,34 @@ abstract:
     to increase productivity throughout the design and verification process. The primary
     audiences for this standard are the implementors of tools supporting the language
     and advanced users of the language
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Replaced by 62531(E):2007. The IEEE Property Specification Language (PSL)
     is defined in this standard. PSL is a formal notation for specification of electronic
     system behavior, compatible with multiple electronic system design languages,
     including IEEE St
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2005'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1850.2010
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Patents
@@ -92,5 +101,5 @@ keyword:
 - temporal logic
 - verification
 ics:
-  code: '35.060'
+- code: '35.060'
   text: Languages used in information technology

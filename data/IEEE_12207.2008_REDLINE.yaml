@@ -10,7 +10,7 @@ title:
     -- Software life cycle processes - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8742773
+- content: https://ieeexplore.ieee.org/document/8742773
   type: src
 type: standard
 docid:
@@ -29,19 +29,23 @@ date:
 - type: issued
   value: '2008-01-31'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-06-20'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Supersedes Std. 12207.0 and also makes 12207.2 obsolete. This International
+- content: Supersedes Std. 12207.0 and also makes 12207.2 obsolete. This International
     Standard was jointly developed by ISO/IEC and IEEE. This International Standard
     establishes a common framework for software life cycle processes, with well-defined
     terminology, that can be referenced by the software industry. It applies to the
@@ -57,16 +61,21 @@ abstract:
     a process reference model that supports process capability assessment in accordance
     with ISO/IEC 15504-2 (Process assessment). An annex provides support for IEEE
     users and describes relationships of this International Standard to IEEE standards.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
-  - name: IEC
+  - name:
+    - ISO
+  - name:
+    - IEC
   from: '2008'
 relation:
 - type: updates
@@ -76,15 +85,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: ISO/IEC/IEEE 12207.2017
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - IEC Standards
@@ -109,5 +120,5 @@ keyword:
 - validation
 - verification
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

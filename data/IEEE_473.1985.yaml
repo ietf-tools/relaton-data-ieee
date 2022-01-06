@@ -1,12 +1,12 @@
 ---
 id: IEEE473.1985
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for an Electromagnetic Site Survey (10 kHz to
     10 GHz)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/29073
+- content: https://ieeexplore.ieee.org/document/29073
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1981-12-17'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-02-20'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Guidelines for the systematic, documented investigation of the amplitudes
+- content: Guidelines for the systematic, documented investigation of the amplitudes
     of RF electromagnetic fields found at one or more locations with respect to frequency,
     time, and position are provided. Periodic and random radiated electric and magnetic
     fields and conducted interference within the frequency range of 10 kHz to 10 GHz
@@ -45,12 +49,15 @@ abstract:
     addressed directly, including signal identification and discrimination; field
     emissions from regularly occurring, low-frequency, pulsed sources; and test enclosure
     fields, much information pertinent to these areas is provided.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1985'
@@ -61,5 +68,5 @@ keyword:
 - site
 - survey
 ics:
-  code: 17.220.20
+- code: 17.220.20
   text: Measurement of electrical and magnetic quantities

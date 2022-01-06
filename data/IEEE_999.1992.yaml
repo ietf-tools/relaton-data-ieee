@@ -1,12 +1,12 @@
 ---
 id: IEEE999.1992
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for Master/Remote Supervisory Control and Data
     Acquisition (SCADA) Communications
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/213710
+- content: https://ieeexplore.ieee.org/document/213710
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1992-06-18'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-09-19'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The use of serial digital transmission by supervisory control and data
+- content: The use of serial digital transmission by supervisory control and data
     acquisition (SCADA) systems having geographically dispersed terminals is addressed.
     These types of systems typically utilize dedicated communication channels, such
     as private microwave channels or leased telephone lines, which are limited to
@@ -47,12 +51,15 @@ abstract:
     usage, and communication management. A standard message protocol is defined to
     the octet level, rather than to the bit level; most details at the bit level are
     left to the manufacturers of SCADA equipment to define and implement.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1993'
@@ -67,5 +74,5 @@ keyword:
 - SCADA equipment
 - Communications
 ics:
-  code: '33.200'
+- code: '33.200'
   text: Telecontrol. Telemetering

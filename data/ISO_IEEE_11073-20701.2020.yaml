@@ -1,13 +1,13 @@
 ---
 id: ISO/IEEE11073-20701.2020
 title:
-  type: main
+- type: main
   content: ISO/IEC/IEEE International Standard for Health informatics--Device interoperability--Part
     20701:Point-of-care medical device communication--Service oriented medical device
     exchange architecture and protocol binding
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9052096
+- content: https://ieeexplore.ieee.org/document/9052096
   type: src
 type: standard
 docid:
@@ -28,17 +28,21 @@ date:
 - type: issued
   value: '2020'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-03-31'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: Within the context of the ISO/IEEE 11073 family of standards for point-of-care
     (PoC) medical device communication, an architecture for service-oriented distributed
@@ -48,8 +52,10 @@ abstract:
     in IEEE Std 11073-20702&#x2122;. Moreover, a binding to Network Time Protocol
     (NTP) and Differentiated Services (DiffServ) is defined for time synchronization
     and transport Quality of Service requirements.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Within the context of the ISO/IEEE 11073 family of standards for point-of-care
     (PoC) medical device communication, an architecture for service-oriented distributed
@@ -59,19 +65,24 @@ abstract:
     in IEEE Std 11073-20702&#8482;. Moreover, a binding to Network Time Protocol (NTP)
     and Differentiated Services (DiffServ) is defined for time synchronization and
     transport Quality of Service requirements.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
-  - name: IEC
+  - name:
+    - ISO
+  - name:
+    - IEC
   from: '2020'
 relation:
-  type: adoptedFrom
+- type: adoptedFrom
   bibitem:
     formattedref:
       content: IEEE 11073-20701.2018
@@ -98,5 +109,5 @@ keyword:
 - remote control
 - service-oriented architecture
 ics:
-  code: 35.240.80
+- code: 35.240.80
   text: IT applications in health care technology

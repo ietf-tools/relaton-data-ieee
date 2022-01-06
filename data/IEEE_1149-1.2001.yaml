@@ -1,11 +1,11 @@
 ---
 id: IEEE1149-1.2001
 title:
-  type: main
+- type: main
   content: IEEE Standard Test Access Port and Boundary Scan Architecture
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/938734
+- content: https://ieeexplore.ieee.org/document/938734
   type: src
 type: standard
 docid:
@@ -24,30 +24,37 @@ date:
 - type: issued
   value: '2001-06-14'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-05-21'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Circuitry that may be built into an integrated circuit to assist in the
+- content: Circuitry that may be built into an integrated circuit to assist in the
     test, maintenance, and support of assembled printed circuit boards is defined.
     The circuitry includes a standard interface through which instructions and test
     data are communicated. A set of test features is defined, including a boundary-scan
     register, such that the component is able to respond to a minimum set of instructions
     designed to assist with testing of assembled printed circuit boards.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2001'
@@ -59,15 +66,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1149-1.2013
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Printed circuits

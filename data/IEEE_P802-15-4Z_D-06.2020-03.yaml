@@ -1,13 +1,13 @@
 ---
 id: IEEEP802-15-4z/D-06.2020-03
 title:
-  type: main
+- type: main
   content: 'IEEE Draft Standard for Low-Rate Wireless Networks Amendment: Enhanced
     High Rate Pulse (HRP) and Low Rate Pulse (LRP) Ultra Wide-Band (UWB) Physical
     Layers (PHYs) and Associated Ranging Techniques'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9032384
+- content: https://ieeexplore.ieee.org/document/9032384
   type: src
 type: standard
 docid:
@@ -24,43 +24,52 @@ date:
 - type: issued
   value: '2020'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-03-11'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This amendment enhances the UWB PHYs with additional coding options and
+- content: This amendment enhances the UWB PHYs with additional coding options and
     improvements to increase the integrity and accuracy of ranging measurements. It
     also enhances the MAC to support control of time of flight ranging procedures
     and exchange ranging related information between the participating ranging devices.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2020'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-15-4.2015
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Local area networks
@@ -100,5 +109,5 @@ keyword:
 - Wireless Specialty Networks
 - WSN.
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

@@ -1,11 +1,11 @@
 ---
 id: IEEE404.1977
 title:
-  type: main
+- type: main
   content: IEEE Standard for Cable Joints
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7415887
+- content: https://ieeexplore.ieee.org/document/7415887
   type: src
 type: standard
 docid:
@@ -26,19 +26,23 @@ date:
 - type: issued
   value: '1975-12-12'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-02-22'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The purpose of this standard is to outline definitions, terminology, voltage
+- content: The purpose of this standard is to outline definitions, terminology, voltage
     ratings, and test requirements for cable joints for all types of insulated ac
     power cable rated in preferred voltage steps from 2.5 to 500kV. No attempt is
     made in this standard to cover design details, dimensional data, or installation
@@ -47,22 +51,25 @@ abstract:
     all drawings and instructions be followed carefully by trained personnel in order
     that the actual field joints develop the characteristics established by design
     tests on similar joints.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1977'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: ANSI/IEEE 404.1986
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Power cables

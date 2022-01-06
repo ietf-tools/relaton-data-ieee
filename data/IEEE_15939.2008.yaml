@@ -1,12 +1,12 @@
 ---
 id: IEEE15939.2008
 title:
-  type: main
+- type: main
   content: IEEE Standard Adoption of ISO/IEC 15939:2007--Systems and Software Engineering--Measurement
     Process
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/4775910
+- content: https://ieeexplore.ieee.org/document/4775910
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '2008-12-10'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-05-03'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This International Standard defines a measurement process applicable to
+- content: This International Standard defines a measurement process applicable to
     system and software engineering and management disciplines. The process is described
     through a model that defines the activities of the measurement process that are
     required to adequately specify what measurement information is required, how the
@@ -51,22 +55,25 @@ abstract:
     used measurement terms. This international standard provides an elaboration of
     the measurement process from ISO/IEC 15288:2008 and IEEE Std 15288-2008, as well
     as ISO/IEC 12207:2008 and IEEE Std 12207-2008.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2009'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: ISO/IEC/IEEE 15939.2017
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - IEC standards
@@ -76,5 +83,5 @@ keyword:
 - measurement
 - metric
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

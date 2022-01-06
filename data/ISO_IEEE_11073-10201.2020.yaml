@@ -1,12 +1,12 @@
 ---
 id: ISO/IEEE11073-10201.2020
 title:
-  type: main
+- type: main
   content: ISO/IEC/IEEE International Standard - Health informatics--Device interoperability--Part
     10201:Point-of-care medical device communication--Domain information model
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9102466
+- content: https://ieeexplore.ieee.org/document/9102466
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2020'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-05-27'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: Within the context of the ISO/IEEE 11073 family of standards for point-of-care
     medical device communication, an abstract, object-oriented domain information
@@ -48,8 +52,10 @@ abstract:
     application service models. Core subjects include medical, alert, system, patient,
     control, archival, communication, and extended services. Model extensibility is
     supported, and a conformance model and statement template is provided.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Within the context of the ISO/IEEE 11073 family of standards for point-of-care
     medical device communication, an abstract, object-oriented domain information
@@ -60,19 +66,24 @@ abstract:
     application service models. Core subjects include medical, alert, system, patient,
     control, archival, communication, and extended services. Model extensibility is
     supported, and a conformance model and statement template is provided.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
-  - name: IEC
+  - name:
+    - ISO
+  - name:
+    - IEC
   from: '2020'
 relation:
-  type: adoptedFrom
+- type: adoptedFrom
   bibitem:
     formattedref:
       content: IEEE 11073-10201.2018

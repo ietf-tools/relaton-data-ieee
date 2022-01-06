@@ -1,11 +1,11 @@
 ---
 id: IEEE1521.2003
 title:
-  type: main
+- type: main
   content: IEEE Standard for Measurement of Video Jitter and Wander
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8743099
+- content: https://ieeexplore.ieee.org/document/8743099
   type: src
 type: standard
 docid:
@@ -24,29 +24,36 @@ date:
 - type: issued
   value: '2003-09-11'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-06-20'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Reaffirmed March 2010. A set of metrics and methods to enable consistent
+- content: Reaffirmed March 2010. A set of metrics and methods to enable consistent
     measurement of the components of timing interval error in video synchronization
     signals is provided. By partitioning the spectra into regions of jitter and lower
     frequency wander (characterized as frequency offset and drift rate), timing performance
     can be better quantified for consistent control over nontraditional networks.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2009'
@@ -61,5 +68,5 @@ keyword:
 - timing interval error (TIE)
 - wander
 ics:
-  code: 33.160.40
+- code: 33.160.40
   text: Video systems

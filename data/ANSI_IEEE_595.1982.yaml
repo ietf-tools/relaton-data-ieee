@@ -1,12 +1,12 @@
 ---
 id: ANSI/IEEE595.1982
 title:
-  type: main
+- type: main
   content: IEEE Standard Serial Highway Interface System (CAMAC) (Computer Automated
     Measurement and Control)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/19516
+- content: https://ieeexplore.ieee.org/document/19516
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1981-09-17'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-02-03'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: A serial highway (SH) system using byte-organized messages and configured
+- content: A serial highway (SH) system using byte-organized messages and configured
     as a unidirectional loop, to which are connected a system controller and up to
     sixty-two CAMAC crate assemblies, is defined. In the primary application, the
     controlled devices are CAMAC crate assemblies with serial crate controllers that
@@ -45,12 +49,15 @@ abstract:
     the controlled devices connected to the SH can be equipment that conforms to a
     subset of the full specification and is not necessarily constructed in CAMAC format
     or controlled by CAMAC commands.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1982'

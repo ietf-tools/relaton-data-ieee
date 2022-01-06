@@ -1,13 +1,13 @@
 ---
 id: ISO8802-2
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Information Technology - Telecommunications and Information
     Exchange Between Systems - Local and Metropolitan Area Networks - Specific Requirements
     - Part 2: Logical Link Control'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5776621
+- content: https://ieeexplore.ieee.org/document/5776621
   type: src
 type: standard
 docid:
@@ -26,19 +26,23 @@ date:
 - type: issued
   value: '1989-08-17'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-01-06'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard is part of a family of local area network (LAN) standards
+- content: This standard is part of a family of local area network (LAN) standards
     dealing with the physical and data link layers as defined by the ISO Open Systems
     Interconnection Reference Model. It describes the functions, features, protocol,
     and services of the logical link control (LLC) sublayer, which constitutes the
@@ -51,15 +55,19 @@ abstract:
     exchanged between LLCs without the need for the establishment of a data link connection.
     In the other, a data link connection is established between two LLCs prior to
     any exchange of information-bearing PDUs.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
+  - name:
+    - ISO
   from: '1989'
 keyword:
 - IEEE standards
@@ -75,5 +83,5 @@ keyword:
 - Protocols
 - Local area networks
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

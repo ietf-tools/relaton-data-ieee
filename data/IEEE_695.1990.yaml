@@ -1,11 +1,11 @@
 ---
 id: IEEE695.1990
 title:
-  type: main
+- type: main
   content: IEEE Standard for Microprocessor Universal Format for Object Modules
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/159333
+- content: https://ieeexplore.ieee.org/document/159333
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1990-02-15'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-03-16'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The format of linkable, relocatable, and absolute object modules is specified.
+- content: The format of linkable, relocatable, and absolute object modules is specified.
     MUFOM, the Microprocessor Universal Format for Object Modules, is designed to
     apply to a variety of target machines. It permits the linking and relocating functions
     to be isolated from the specification of target architecture, so that a user may
@@ -48,12 +52,15 @@ abstract:
     compliance level affords all of the functionality of the minimum level and adds
     to it arbitrary address-expression handling, type checking capability, librarian
     control commands, and other useful functions for full generality.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1990'
@@ -69,5 +76,5 @@ keyword:
 - modules
 - Microcomputer software
 ics:
-  code: '31.200'
+- code: '31.200'
   text: Integrated circuits. Microelectronics

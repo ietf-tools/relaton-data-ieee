@@ -1,12 +1,12 @@
 ---
 id: IEEEP802-1AE/D-1.0/R-/Cor1
 title:
-  type: main
+- type: main
   content: 'IEEE Draft Standard for Local and Metropolitan Area Networks-Media Access
     Control (MAC) Security - Corrigendum 1: Tag Control Information Figure'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8935582
+- content: https://ieeexplore.ieee.org/document/8935582
   type: src
 type: standard
 docid:
@@ -23,28 +23,35 @@ date:
 - type: issued
   value: '2020-06-04'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-12-17'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: How all or part of a network can be secured transparently to peer protocol
+- content: How all or part of a network can be secured transparently to peer protocol
     entities that use the MAC Service provided by IEEE 802(R) LANs to communicate
     is specified in this standard. AC security (MACsec) provides connectionless user
     data confidentiality, data frame integrity, and data origin authenticity.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2019'
@@ -56,8 +63,10 @@ relation:
       format: text/plain
   description:
     content: corrects
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: updates
   bibitem:
@@ -66,10 +75,12 @@ relation:
       format: text/plain
   description:
     content: corrects
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Local area networks
@@ -95,5 +106,5 @@ keyword:
 - security
 - transparent bridging
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

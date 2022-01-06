@@ -1,11 +1,11 @@
 ---
 id: IEEEC57-109.1993
 title:
-  type: main
+- type: main
   content: IEEE Guide for Liquid-Immersed Transformers Through-Fault-Current Duration
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/278280
+- content: https://ieeexplore.ieee.org/document/278280
   type: src
 type: standard
 docid:
@@ -24,28 +24,35 @@ date:
 - type: issued
   value: '1993-03-18'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-10-12'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Recommendations believed essential for the application of over current
+- content: Recommendations believed essential for the application of over current
     protective devices applied to limit the exposure time of transformers to short-circuit
     current are set forth. Transformer coordination curves are presented for four
     categories of transformers. There is no intent to imply overload capability
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1993'
@@ -57,15 +64,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE C57-109.2018
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Liquid immersion
@@ -73,5 +82,5 @@ keyword:
 - Power transformers
 - Liquid-immersed transformer
 ics:
-  code: '29.180'
+- code: '29.180'
   text: Transformers. Reactors

@@ -1,12 +1,12 @@
 ---
 id: IEEE86.1975
 title:
-  type: main
+- type: main
   content: IEEE Standard Definitions of Basic Per Unit Quantities for Alternating-
     Current Rotating Machines
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7439719
+- content: https://ieeexplore.ieee.org/document/7439719
   type: src
 type: standard
 docid:
@@ -27,19 +27,23 @@ date:
 - type: issued
   value: '1975'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-03-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: When machine parameters are expressed in a properly selected per-unit system,
+- content: When machine parameters are expressed in a properly selected per-unit system,
     the parameters of a wide range of machine sizes fall into relatively narrow ranges
     even though the actual values of these same parameters may vary over extremely
     wide ranges. The per-unit system thereby makes possible an easy comparison between
@@ -52,22 +56,25 @@ abstract:
     was created to propose a set of standard definitions. In 1961, a proposed standard
     (AIEE No. 86) was published for trial use. A critical review of that proposed
     standard has resulted in this present standard.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1975'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 86.1987
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - AC machines

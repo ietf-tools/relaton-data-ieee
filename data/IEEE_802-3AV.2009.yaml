@@ -1,14 +1,14 @@
 ---
 id: IEEE802-3av.2009
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Information technology-- Local and metropolitan area
     networks-- Specific requirements-- Part 3: CSMA/CD Access Method and Physical
     Layer Specifications Amendment 1: Physical Layer Specifications and Management
     Parameters for 10 Gb/s Passive Optical Networks'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5294950
+- content: https://ieeexplore.ieee.org/document/5294950
   type: src
 type: standard
 docid:
@@ -29,17 +29,21 @@ date:
 - type: issued
   value: '2009-09-11'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-07-10'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: This amendment to IEEE Std 802.3-2008 extends Ethernet Passive Optical
     Networks (EPONs) operation to 10 Gb/s providing both symmetric, 10 Gb/s downstream
@@ -52,8 +56,10 @@ abstract:
     of at least 10 km and at least 20 km, and for split ratios of 1:16 and 1:32. An
     additional MAC control opcode is also defined to provide organization specific
     extension operation.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: This amendment to IEEE Std 802.3-2008 extends Ethernet Passive Optical
     Networks (EPONs) operation to 10 Gb/s providing both symmetric, 10 Gb/s downstream
@@ -63,12 +69,15 @@ abstract:
     (PMAs), and Physical Medium Dependent sublayers (PMDs) that support both symmetric
     and asymmetric data rates while maintaining complete backward compatibility with
     already deployed 1 Gb/s.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2009'

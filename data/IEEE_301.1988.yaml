@@ -1,12 +1,12 @@
 ---
 id: IEEE301.1988
 title:
-  type: main
+- type: main
   content: IEEE Standard Test Procedures for Amplifiers and Preamplifiers used with
     Detectors of Ionizing Radiation
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/159348
+- content: https://ieeexplore.ieee.org/document/159348
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1988-10-20'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-01-31'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Procedures are given for testing amplifier and preamplifier systems with
+- content: Procedures are given for testing amplifier and preamplifier systems with
     linear pulse-shaping networks for use with semiconductor, scintillation, and proportional
     detectors in the spectroscopy of ionizing radiation. The object is to provide
     a common language and methodology for users and manufacturers of pulse-amplifier
@@ -46,12 +50,15 @@ abstract:
     particularly oscilloscopes that have only a visual display for readout. A technique
     is used where possible, thereby reducing basic errors to the inaccuracy of precision
     resistors.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1989'
@@ -73,5 +80,5 @@ keyword:
 - Pulse amplifiers
 - Proportional counters
 ics:
-  code: '17.240'
+- code: '17.240'
   text: Radiation measurements

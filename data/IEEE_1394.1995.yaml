@@ -1,11 +1,11 @@
 ---
 id: IEEE1394.1995
 title:
-  type: main
+- type: main
   content: IEEE Standard for a High Performance Serial Bus
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/526693
+- content: https://ieeexplore.ieee.org/document/526693
   type: src
 type: standard
 docid:
@@ -24,40 +24,47 @@ date:
 - type: issued
   value: '1995-12-12'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: A high-speed serial bus that interates well with most IEEE standard 32-bit
+- content: A high-speed serial bus that interates well with most IEEE standard 32-bit
     and 64-bit parallel buses, as well as such nonbus interconnects as the IEEE Std
     1596-1992, Scalable Coherent Interface, is specified. It is intended to provide
     a low-cost interconnect between cards on the same backplane, cards on other backplanes,
     and external peripherals. This standard follows the IEEE Std 1212-1991 Command
     and Status Register (CSR) architecture.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1996'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1394.2008
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Data buses
 - firewire
@@ -69,5 +76,5 @@ keyword:
 - parallel buses
 - parallel bus
 ics:
-  code: '35.200'
+- code: '35.200'
   text: Interface and interconnection equipment

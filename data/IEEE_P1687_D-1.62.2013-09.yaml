@@ -1,12 +1,12 @@
 ---
 id: IEEEP1687/D-1.62.2013-09
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for Access and Control of Instrumentation Embedded
     within a Semiconductor Device
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6601617
+- content: https://ieeexplore.ieee.org/document/6601617
   type: src
 type: standard
 docid:
@@ -23,31 +23,38 @@ date:
 - type: issued
   value: '2014-04-03'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-09-17'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard describes a methodology for accessing instrumentation embedded
+- content: This standard describes a methodology for accessing instrumentation embedded
     within a semiconductor device without defining the instruments or their features
     themselves, via the IEEE 1149.1 Test Access Port (TAP) and/or other signals. The
     elements of the methodology include a hardware architecture for the on-chip network
     connecting the instruments to the chip pins, a hardware description language to
     describe this network, and a software language and protocol for communicating
     with the instruments via this network.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2013'

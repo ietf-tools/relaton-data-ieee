@@ -1,12 +1,12 @@
 ---
 id: ANSI/IEEEC37-1.1979
 title:
-  type: main
+- type: main
   content: American National Standard Definition, Specification, and Analysis of Manual,
     Automatic, and Supervisory Station Control and Data Acquisition
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7442042
+- content: https://ieeexplore.ieee.org/document/7442042
   type: src
 type: standard
 docid:
@@ -27,43 +27,51 @@ date:
 - type: issued
   value: '1977-12-15'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-03-25'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard applies to the definition, specification, performance, analysis,
+- content: This standard applies to the definition, specification, performance, analysis,
     and application of equipment in manual, partial automatic, automatic, and supervisory
     control and data acquisition systems used with electric substations and generating
     stations and with installations of power utilization and conversion apparatus.
     This standard is intended to provide a basis for the definition, specification,
     and analysis of equipment described above.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: American National Standards Institute
+- owner:
+  - name:
+    - American National Standards Institute
     abbreviation: ANSI
     url: https://www.ansi.org
-  - name: Institute of Electrical and Electronics Engineers
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1979'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: ANSI/IEEE C37-1.1987
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - ANSI Standards
 - SCADA systems

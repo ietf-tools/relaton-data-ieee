@@ -1,12 +1,12 @@
 ---
 id: IEEE1596-5.1993
 title:
-  type: main
+- type: main
   content: IEEE Standard for Shared-Data Formats Optimized for Scalable Coherent Interface
     (SCI) Processors
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/400311
+- content: https://ieeexplore.ieee.org/document/400311
   type: src
 type: standard
 docid:
@@ -25,31 +25,38 @@ date:
 - type: issued
   value: '1993-06-17'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-12'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Formats for interchanging integer, bit-field, and floating point data between
+- content: Formats for interchanging integer, bit-field, and floating point data between
     heterogeneous multiprocessors in a Scalable Coherent Interface (SCI) system are
     specified. The defined data formats can also be used to share data among multiprocessors
     on other bus standards that support the read, write, and lock transaction set
     defined by IEEE Std 1212-1991 CSR Architecture. The intent is to support efficient
     data transfers among heterogeneous workstations within a distributed computing
     environment. (No longer endorsed by the IEEE)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1994'
@@ -67,5 +74,5 @@ keyword:
 - shared data
 - Heterogeneous multiprocessors
 ics:
-  code: '35.200'
+- code: '35.200'
   text: Interface and interconnection equipment

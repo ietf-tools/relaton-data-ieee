@@ -1,12 +1,12 @@
 ---
 id: IEEE1149-1b.1994
 title:
-  type: main
+- type: main
   content: IEEE Supplement to Standard Test Access Port and Boundary-Scan Architecture
     (1149.1)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/467487
+- content: https://ieeexplore.ieee.org/document/467487
   type: src
 type: standard
 docid:
@@ -25,42 +25,51 @@ date:
 - type: issued
   value: '1994-09-22'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-08'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Superseded by 1149.1-2001 A language to describe components that conform
+- content: Superseded by 1149.1-2001 A language to describe components that conform
     to IEEE Std 1149.1-1990 is described in this supplement. The language is based
     on the VHSIC Hardware Description Language (VHDL). General characteristics, the
     overall structure of a boundary-scan description language (BSDL) description,
     special cases, and example packages are included.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1995'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1149-1.1990
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - Boundary scan testing

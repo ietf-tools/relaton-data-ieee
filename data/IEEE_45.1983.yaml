@@ -1,11 +1,11 @@
 ---
 id: IEEE45.1983
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for Electrical Installations on Shipboard
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7096843
+- content: https://ieeexplore.ieee.org/document/7096843
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1988-10-20'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-04-28'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: These marine recommendations are intended to serve as a guide for the selection
+- content: These marine recommendations are intended to serve as a guide for the selection
     and installation of equipment on merchant vessels with electric apparatus for
     lighting, signaling, communication, power, and propulsion. The recommendations
     define what are considered good present-day engineering practices with reference
@@ -53,22 +57,25 @@ abstract:
     in these recommendations, but they are areas where differences are expressed.
     Reference should always be made to those regulations which may be applicable to
     the design.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1983'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 45.1998
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Electrical installations
@@ -77,5 +84,5 @@ keyword:
 - Power distribution testing
 - Voltage control
 ics:
-  code: 47.020.60
+- code: 47.020.60
   text: Electrical equipment for ships or marine structures

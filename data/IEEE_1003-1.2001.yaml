@@ -1,12 +1,12 @@
 ---
 id: IEEE1003-1.2001
 title:
-  type: main
+- type: main
   content: IEEE Standard for IEEE Information Technology - Portable Operating System
     Interface (POSIX(TM))
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/974398
+- content: https://ieeexplore.ieee.org/document/974398
   type: src
 type: standard
 docid:
@@ -25,41 +25,48 @@ date:
 - type: issued
   value: '2001-12-06'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-10-13'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard defines a standard operating system interface and environment,
+- content: This standard defines a standard operating system interface and environment,
     including a command interpreter (or "shell"), and common utility programs to support
     applications portability at the source code level. It is the single common revision
     to IEEE Std 1003.1-1996, IEEE Std 1003.2-1992, and the Base Specifications of
     The Open Group Single UNIX(TM)† Specification, Version 2. This standard is intended
     to be used by both applications developers and system implementors and comprises
     four major components (each in an associated volume)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2001'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1003-1.2008
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - application program interface (API)
 - argument

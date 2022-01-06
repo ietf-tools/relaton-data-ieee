@@ -1,12 +1,12 @@
 ---
 id: IEEE1379.2000
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for Data Communications Between Remote Terminal
     Units and Intelligent Electronic Devices in a Substation
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/912952
+- content: https://ieeexplore.ieee.org/document/912952
   type: src
 type: standard
 docid:
@@ -25,28 +25,35 @@ date:
 - type: issued
   value: '2000-09-21'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-04-14'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: A uniform set of guidelines for communications and interoperations of remote
+- content: A uniform set of guidelines for communications and interoperations of remote
     terminalunits (RTUs) and intelligent electronic devices (IEDs) in an electric
     utility substation is provided. Amechanism for adding data elements and message
     structures to this recommended practice isdescribed.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2000'
@@ -58,5 +65,5 @@ keyword:
 - slave
 - supervisory control and data acquisition (SCADA)systems
 ics:
-  code: '33.200'
+- code: '33.200'
   text: Telecontrol. Telemetering

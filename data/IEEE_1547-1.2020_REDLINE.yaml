@@ -11,7 +11,7 @@ title:
     - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9162564
+- content: https://ieeexplore.ieee.org/document/9162564
   type: src
 type: standard
 docid:
@@ -28,42 +28,51 @@ date:
 - type: issued
   value: '2020-03-05'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-08-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The type, production, commissioning, and periodic tests, and evaluations
+- content: The type, production, commissioning, and periodic tests, and evaluations
     that shall be performed to confirm that the interconnection and interoperation
     functions of equipment and systems interconnecting distributed energy resources
     with the electric power system conform to IEEE Std 1547 are specified in this
     standard.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2020'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1547-1.2005
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -129,5 +138,5 @@ keyword:
 - voltage regulation
 - wind energy systems
 ics:
-  code: '27.100'
+- code: '27.100'
   text: Power stations in general

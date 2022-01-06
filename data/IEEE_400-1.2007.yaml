@@ -1,12 +1,12 @@
 ---
 id: IEEE400-1.2007
 title:
-  type: main
+- type: main
   content: IEEE Guide for Field Testing of Laminated Dielectric, Shielded Power Cable
     Systems Rated 5 kV and Above with High Direct Current Voltage
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/4317500
+- content: https://ieeexplore.ieee.org/document/4317500
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2007-03-22'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-10-22'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The recommended practices and procedures for direct voltage acceptance
     and maintenance testing of shielded, laminated dielectric insulated power cable
@@ -46,18 +50,23 @@ abstract:
     and pressurized cables that are intended for the transmission or distribution
     of electric power. The tabulated test levels assume that the cable systems have
     an effectively grounded neutral system or a grounded metallic shield.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: The recommended practices and procedures for acceptance and maintenance
     testing of shielded, laminated dielectric insulated power cable systems 5 kV and
     above are presented.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2007'
@@ -69,15 +78,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 400-1.2018
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Dielectric measurements
@@ -94,5 +105,5 @@ keyword:
 - power cable systems
 - shielded power cable systems
 ics:
-  code: 29.240.01
+- code: 29.240.01
   text: Power transmission and distribution networks in general

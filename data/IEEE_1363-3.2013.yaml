@@ -1,11 +1,11 @@
 ---
 id: IEEE1363-3.2013
 title:
-  type: main
+- type: main
   content: IEEE Standard for Identity-Based Cryptographic Techniques using Pairings
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6662370
+- content: https://ieeexplore.ieee.org/document/6662370
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '2013-08-23'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-11-12'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: Common identity-based public-key cryptographic techniques that use pairings,
     including mathematical primitives for secret value (key) derivation, public-key
@@ -45,8 +49,10 @@ abstract:
     public keys and private keys, are specified. The purpose of this standard is to
     provide a reference for specifications of a variety of techniques from which applications
     may select.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Common identity-based public-key cryptographic techniques that use pairings,
     including mathematical primitives for secret value (key) derivation, public-key
@@ -55,12 +61,15 @@ abstract:
     public keys and private keys, are specified. The purpose of this standard is to
     provide a reference for specifications of a variety of techniques from which applications
     may select.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2013'
@@ -77,5 +86,5 @@ keyword:
 - pairing-based encryption
 - public-key cryptography
 ics:
-  code: '35.040'
+- code: '35.040'
   text: Character sets and information coding

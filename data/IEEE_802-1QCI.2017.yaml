@@ -1,12 +1,12 @@
 ---
 id: IEEE802-1Qci.2017
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Local and metropolitan area networks--Bridges and Bridged
     Networks--Amendment 28: Per-Stream Filtering and Policing'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8064221
+- content: https://ieeexplore.ieee.org/document/8064221
   type: src
 type: standard
 docid:
@@ -27,41 +27,50 @@ date:
 - type: issued
   value: '2017-02-14'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-10'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: Enhancements to the forwarding process that support per-stream filtering
     and policing are provided in this amendment to IEEE Std 802.1Q-2014.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Enhancements to the forwarding process that support per-stream filtering
     and policing are provided in this amendment to IEEE Std 802.1Q-2014.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2017'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: ISO/IEC/IEEE 8802-1Q/Amd6.2016
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Local area networks
@@ -88,5 +97,5 @@ keyword:
 - Time-Sensitive Networking
 - Virtual Bridged Local Area Networks (virtual LANs)
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

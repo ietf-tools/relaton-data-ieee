@@ -10,7 +10,7 @@ title:
     Circuit Breakers with Rated Maximum Voltage above 1000 V - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8751187
+- content: https://ieeexplore.ieee.org/document/8751187
   type: src
 type: standard
 docid:
@@ -27,43 +27,52 @@ date:
 - type: issued
   value: '2019-02-08'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-06-28'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The procedures and calculations necessary to apply the standard transient
+- content: The procedures and calculations necessary to apply the standard transient
     recovery voltage (TRV) ratings for ac high-voltage circuit breakers rated above
     1000 V are covered in this guide. The breaking capability limits of these circuit
     breakers are determined to a great degree by the TRV. The TRV ratings are compared
     with typical system TRV duties. Examples of TRV calculation are given with suggested
     options if the TRV duty exceeds the TRV ratings of the circuit breaker.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2019'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE C37-011.2011
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -75,5 +84,5 @@ keyword:
 - IEEE C37.011
 - transient recovery voltage (TRV)
 ics:
-  code: 29.120.40
+- code: 29.120.40
   text: Switches

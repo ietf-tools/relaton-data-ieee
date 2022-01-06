@@ -1,7 +1,7 @@
 ---
 id: ISO/IEC/IEEE8802-1CM/Amd1.2019
 title:
-  type: main
+- type: main
   content: 'IEEE/ISO/IEC International Standard-Telecommunications and information
     exchange between information technology systems--Requirements for local and metropolitan
     area networks--Part 1CM:Time-sensitive networking for fronthaul - AMENDMENT 1:
@@ -9,7 +9,7 @@ title:
     and syntonization standards'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9620011
+- content: https://ieeexplore.ieee.org/document/9620011
   type: src
 type: standard
 docid:
@@ -28,34 +28,43 @@ date:
 - type: issued
   value: '2021'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-11-18'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Enhancements to fronthaul profiles are defined in this amendment to IEEE
+- content: Enhancements to fronthaul profiles are defined in this amendment to IEEE
     Std 802.1CM(TM)-2018 in order to address new developments in fronthaul interface
     standards and in related synchronization and syntonization standards.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
-  - name: IEC
+  - name:
+    - ISO
+  - name:
+    - IEC
   from: '2021'
 relation:
-  type: adoptedFrom
+- type: adoptedFrom
   bibitem:
     formattedref:
       content: IEEE 802-1CMde.2020
@@ -88,5 +97,5 @@ keyword:
 - VLAN
 - VLAN Bridge
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

@@ -1,12 +1,12 @@
 ---
 id: IEEE1377.2012
 title:
-  type: main
+- type: main
   content: IEEE Standard for Utility Industry Metering Communication Protocol Application
     Layer (End Device Data Tables)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6264065
+- content: https://ieeexplore.ieee.org/document/6264065
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2012-05-14'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2012-08-09'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: Common structures are provided in this standard for encoding data in communication
     between End Devices (meters, home appliances, IEEE 1703 Nodes) and Utility enterprise
@@ -57,8 +61,10 @@ abstract:
     for network configuration and management by referencing its companion standard
     IEEE Std 1703&#x2122;-2012. IEEE Std 1377-2012 is co-published as ANSI C12.19
     and MC12.19.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Common structures are provided in this standard for encoding data in communication
     between End Devices (meters, home appliances, IEEE 1703 Nodes) and Utility enterprise
@@ -77,12 +83,15 @@ abstract:
     of Gas, Water, and Electric sensors and related appliances. Tables are also provided
     for network configuration and management by referencing its companion standard
     IEEE Std 1703TM-2012. IEEE Std 1377-2012 is co-published as ANSI C12.19 and MC12.19.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2012'
@@ -96,5 +105,5 @@ keyword:
 - IEEE 1377
 - Utility Tables
 ics:
-  code: '35.180'
+- code: '35.180'
   text: IT terminal and other peripheral equipment

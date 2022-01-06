@@ -1,13 +1,13 @@
 ---
 id: IEEE802-1AEbn.2011
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Local and metropolitan area networks--Media Access Control
     (MAC) Security Amendment 1: Galois Counter Mode--Advanced Encryption Standard--
     256 (GCM-AES-256) Cipher Suite'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6047536
+- content: https://ieeexplore.ieee.org/document/6047536
   type: src
 type: standard
 docid:
@@ -28,44 +28,55 @@ date:
 - type: issued
   value: '2011-09-10'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2012-08-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: This amendment specifies the GCM-AES-256 Cipher Suite as an option in addition
     to the existing mandatory to implement Default Cipher Suite, GCM-AES-128.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: This amendment specifies the GCM-AES-256 Cipher Suite as an option in addition
     to the existing mandatory to implement Default Cipher Suite, GCM-AES-128.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2011'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-1AE.2006
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE standards
@@ -91,5 +102,5 @@ keyword:
 - security
 - transparent bridging
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

@@ -1,11 +1,11 @@
 ---
 id: IEEE1910-1.2020
 title:
-  type: main
+- type: main
   content: IEEE Standard for Meshed Tree Bridging with Loop Free Forwarding
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9259266
+- content: https://ieeexplore.ieee.org/document/9259266
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '2020-09-24'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-11-13'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: Meshed tree bridging protocol (MTBP) ensures that bridged network constituents
     receive high reliability in frame delivery in the event of link or bridge failures.
@@ -48,8 +52,10 @@ abstract:
     be preassigned to construct multiple distinguishable meshed trees from each root.
     In the event of a root bridge failure, the standby root and its meshed tree provides
     loop-free paths for frame forwarding with minimal recovery delays.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Meshed tree bridging protocol (MTBP) ensures that bridged network constituents
     receive high reliability in frame delivery in the event of link or bridge failures.
@@ -61,12 +67,15 @@ abstract:
     be preassigned to construct multiple distinguishable meshed trees from each root.
     In the event of a root bridge failure, the standby root and its meshed tree provides
     loop-free paths for frame forwarding with minimal recovery delays.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2020'

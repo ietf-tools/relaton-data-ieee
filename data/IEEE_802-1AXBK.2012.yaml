@@ -1,12 +1,12 @@
 ---
 id: IEEE802-1AXbk.2012
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Local and metropolitan area networks--Link Aggregation
     Amendment 1: Protocol Addressing'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6205327
+- content: https://ieeexplore.ieee.org/document/6205327
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2012-03-29'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2012-05-25'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: Link Aggregation allows one or more links to be aggregated together to
     form a Link Aggregation Group, such that a Media Access Control (MAC) Client can
@@ -47,8 +51,10 @@ abstract:
     at the same data rate. The MAC independent Link Aggregation capability, and general
     information relevant to specific MAC types that support Link Aggregation, are
     defined in this standard.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Link Aggregation allows one or more links to be aggregated together to
     form a Link Aggregation Group, such that a Media Access Control (MAC) Client can
@@ -58,25 +64,30 @@ abstract:
     at the same data rate. The MAC independent Link Aggregation capability, and general
     information relevant to specific MAC types that support Link Aggregation, are
     defined in this standard.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2012'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-1AX.2008
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE standards
@@ -94,5 +105,5 @@ keyword:
 - local area network
 - management
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

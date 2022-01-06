@@ -1,11 +1,11 @@
 ---
 id: IEEEPC37-119/D-2.2015-07
 title:
-  type: main
+- type: main
   content: IEEE Draft Guide for Breaker Failure Protection of Power Circuit Breakers
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7264964
+- content: https://ieeexplore.ieee.org/document/7264964
   type: src
 type: standard
 docid:
@@ -22,19 +22,23 @@ date:
 - type: issued
   value: '2015-01-01'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-09-14'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This guide describes methods to protect a power system from faults that
+- content: This guide describes methods to protect a power system from faults that
     are not cleared because of failure of a power circuit breaker to operate or interrupt
     when called upon by a protective relay. The intent is to give the reader a guide
     in how to detect that a breaker has failed to clear a fault, and how to electrically
@@ -44,27 +48,32 @@ abstract:
     as failure to operate, either tripping or closing, manual or automatic, are also
     described. Such schemes, when applied, are typically integrated as a part of the
     overall break
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2015'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE C37-119.2005
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Circuit breakers
@@ -73,5 +82,5 @@ keyword:
 - Breaker failure protection (BFP)
 - PC37.119
 ics:
-  code: 29.120.40
+- code: 29.120.40
   text: Switches

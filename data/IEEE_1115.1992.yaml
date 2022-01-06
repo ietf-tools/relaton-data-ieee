@@ -1,12 +1,12 @@
 ---
 id: IEEE1115.1992
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for Sizing Nickel-Cadmium Batteries for Stationary
     Applications
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/286046
+- content: https://ieeexplore.ieee.org/document/286046
   type: src
 type: standard
 docid:
@@ -25,39 +25,46 @@ date:
 - type: issued
   value: '1992-09-17'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Superseded by 1115-2000. Methods for defining the dc load and for sizing
+- content: Superseded by 1115-2000. Methods for defining the dc load and for sizing
     a nickel-cadmium battery to supply that load are described. Installation, maintenance,
     qualification, testing procedures, and consideration of battery types other than
     nickel-cadmium batteries are not included. Design of the dc system and sizing
     of the battery charger(s) are also not included.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1993'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1115.2000
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Cadmium
 - Nickel
@@ -66,5 +73,5 @@ keyword:
 - Stationary applications
 - Nickel-cadmium batteries
 ics:
-  code: 29.220.30
+- code: 29.220.30
   text: Alkaline secondary cells and batteries

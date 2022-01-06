@@ -1,12 +1,12 @@
 ---
 id: IEEE802-1Q.2005
 title:
-  type: main
+- type: main
   content: IEEE Standard for Local and Metropolitan Area Networks---Virtual Bridged
     Local Area Networks
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1637340
+- content: https://ieeexplore.ieee.org/document/1637340
   type: src
 type: standard
 docid:
@@ -25,27 +25,34 @@ date:
 - type: issued
   value: '2005-12-07'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-10-28'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard specifies how the MAC Service is supported by Virtual Bridged
+- content: This standard specifies how the MAC Service is supported by Virtual Bridged
     Local Area Networks, the principles of operation of those networks, and the operation
     of VLAN-aware Bridges, including management, protocols, and algorithms.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2006'
@@ -57,15 +64,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 802-1Q.2011
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Local area networks

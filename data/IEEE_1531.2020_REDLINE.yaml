@@ -9,7 +9,7 @@ title:
     Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9456765
+- content: https://ieeexplore.ieee.org/document/9456765
   type: src
 type: standard
 docid:
@@ -26,44 +26,53 @@ date:
 - type: issued
   value: '2020-09-24'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-06-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Guidelines for the specification of components, protection, and control
+- content: Guidelines for the specification of components, protection, and control
     of harmonic filters are provided in this guide. The guide applies to the use of
     50 Hz and 60 Hz passive shunt power harmonic filters on low-voltage, medium-voltage,
     and high-voltage electric power systems. This document is specifically created
     for harmonic filters, although standards do exist for most of the components that
     are used in a filter. Applications including industrial low-voltage facilities,
     utility medium-voltage systems, and arc furnace installations are covered.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2020'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1531.2003
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -83,5 +92,5 @@ keyword:
 - reactors
 - switched capacitor filters
 ics:
-  code: '31.160'
+- code: '31.160'
   text: Electric filters

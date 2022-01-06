@@ -1,14 +1,14 @@
 ---
 id: IEEE802-3by.2016
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Ethernet -- Amendment 2: Media Access Control Parameters,
     Physical Layers, and Management Parameters for 25 Gb/s Operation Amendment 2:
     Media Access Control Parameters, Physical Layers, and Management Parameters for
     25 Gb/s Operation'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7526271
+- content: https://ieeexplore.ieee.org/document/7526271
   type: src
 type: standard
 docid:
@@ -29,37 +29,46 @@ date:
 - type: issued
   value: '2016-06-30'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-07-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: This amendment to IEEE Std 802.3-2015 adds Physical Layer (PHY) specifications
     and management parameters for 25 Gb/s operation over twinaxial copper cabling
     (25GBASE-CR and 25GBASE-CR-S), electrical backplanes (25GBASE-KR and 25GBASE-KR-S),
     and multimode fiber (25GBASE-SR). This amendment also specifies a 25 Gigabit Attachment
     Unit Interface (25GAUI) and optional Energy Efficient Ethernet (EEE).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: This amendment to IEEE Std 802.3-2015 adds Physical Layer (PHY) specifications
     and management parameters for 25 Gb/s operation over twinaxial copper cabling
     (25GBASE-CR and 25GBASE-CR-S), electrical backplanes (25GBASE-KR and 25GBASE-KR-S),
     and multimode fiber (25GBASE-SR). This amendment also specifies a 25 Gigabit Attachment
     Unit Interface (25GAUI) and optional Energy Efficient Etherenet (EEE).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2016'
@@ -71,15 +80,17 @@ relation:
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: ISO/IEC/IEEE 8802-3/Amd2.2017
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Ethernet

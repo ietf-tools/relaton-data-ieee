@@ -1,11 +1,11 @@
 ---
 id: IEEE1012.2004
 title:
-  type: main
+- type: main
   content: IEEE Standard for Software Verification and Validation
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1488512
+- content: https://ieeexplore.ieee.org/document/1488512
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '2004-12-08'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2012-05-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: Software verification and validation (V&amp;V) processes determine whether
     the development products of a given activity conform to the requirements of that
@@ -48,8 +52,10 @@ abstract:
     items]. The term software also includes firmware, microcode, and documentation.
     Software V&amp;V processes include analysis, evaluation, review, inspection, assessment,
     and testing of software products
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Software verification and validation (V&amp;V) processes determine whether
     the development products of a given activity conform to the requirements of that
@@ -61,12 +67,15 @@ abstract:
     items]. The term software also includes firmware, microcode,and documentation.
     Software V&amp;V processes include analysis, evaluation, review, inspection,assessment,
     and testing of software products.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2005'
@@ -78,15 +87,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1012.2012
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Software
 - IEEE Standards
@@ -101,5 +112,5 @@ keyword:
 - validation
 - verification
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

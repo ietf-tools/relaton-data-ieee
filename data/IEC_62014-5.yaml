@@ -1,12 +1,12 @@
 ---
 id: IEC62014-5
 title:
-  type: main
+- type: main
   content: IEEE/IEC International Standard - Quality of Electronic and Software Intellectual
     Property Used in System and System on Chip (SoC) Designs
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7067346
+- content: https://ieeexplore.ieee.org/document/7067346
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2015-04-01'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-03-25'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: A standard XML format for representing electronic design intellectual property
     (IP)quality information, based on an information model for IP quality measurement,
@@ -49,8 +53,10 @@ abstract:
     is a term used in the electronic design community to refer to a reusable collection
     of design specifications that represent the behavior, properties, and/or representation
     of the design in various media.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: A standard XML format for representing electronic design intellectual property
     (IP)quality information, based on an information model for IP quality measurement,
@@ -62,18 +68,22 @@ abstract:
     is aterm used in the electronic design community to refer to a reusable collection
     of designspecifications that represent the behavior, properties, and/or representation
     of the design invarious media.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: IEC
+  - name:
+    - IEC
   from: '2015'
 relation:
-  type: adoptedFrom
+- type: adoptedFrom
   bibitem:
     formattedref:
       content: IEEE 1724.2011
@@ -111,5 +121,5 @@ keyword:
 - XML design meta data
 - XML schema
 ics:
-  code: 29.240.20
+- code: 29.240.20
   text: Power transmission and distribution lines

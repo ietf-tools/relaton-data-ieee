@@ -1,12 +1,12 @@
 ---
 id: IEEE1050.1996
 title:
-  type: main
+- type: main
   content: IEEE Guide for Instrumentation and Control Equipment Grounding in Generating
     Stations
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/531503
+- content: https://ieeexplore.ieee.org/document/531503
   type: src
 type: standard
 docid:
@@ -25,30 +25,37 @@ date:
 - type: issued
   value: '1996-04-04'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Information about grounding methods for generating station instrumentation
+- content: Information about grounding methods for generating station instrumentation
     and control (I&amp;C) equipment is provided. The identification of I&amp;C equipment
     methods to achieve both a suitable level of protection for personnel and equipment
     is included, as well as suitable noise immunity for signal ground references in
     generating stations. Both ideal theoretical methods and accepted practices in
     the electric utility industry are presented.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1996'
@@ -60,15 +67,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1050.2004
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Power generation control
 - control equipment
@@ -76,5 +85,5 @@ keyword:
 - grounding
 - instrumentation
 ics:
-  code: '27.100'
+- code: '27.100'
   text: Power stations in general

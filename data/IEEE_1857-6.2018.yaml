@@ -1,11 +1,11 @@
 ---
 id: IEEE1857-6.2018
 title:
-  type: main
+- type: main
   content: IEEE Standard for Digital Media Content Description
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8667841
+- content: https://ieeexplore.ieee.org/document/8667841
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '2018-12-05'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-03-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: 'Tools for description of visual content, including still images and videos,
     are specified in this standard. Visual content description consists of visual
@@ -45,8 +49,10 @@ abstract:
     basic visual descriptors that apply to general purpose. The surveillance profile
     is a superset of the basic profile and includes all the descriptions specified
     in the basic profile as well as special descriptors for surveillance purpose.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: 'Tools for description of visual content, including still images and videos,
     are specified in this standard. Visual content description consists of visual
@@ -55,12 +61,15 @@ abstract:
     basic visual descriptors that apply to general purpose. The surveillance profile
     is a superset of the basic profile and includes all the descriptions specified
     in the basic profile as well as special descriptors for surveillance purpose.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2018'
@@ -81,5 +90,5 @@ keyword:
 - label
 - video
 ics:
-  code: 01.040.11
+- code: 01.040.11
   text: Health care technology (Vocabularies)

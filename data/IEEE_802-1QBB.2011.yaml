@@ -1,13 +1,13 @@
 ---
 id: IEEE802-1Qbb.2011
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Local and metropolitan area networks--Media Access Control
     (MAC) Bridges and Virtual Bridged Local Area Networks--Amendment 17: Priority-based
     Flow Control'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6032693
+- content: https://ieeexplore.ieee.org/document/6032693
   type: src
 type: standard
 docid:
@@ -28,48 +28,59 @@ date:
 - type: issued
   value: '2011-06-16'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2012-05-31'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: This amendment to IEEE Std 802.1Q-2011 specifies protocols, procedures,
     and managed objects that enable flow control per traffic class on IEEE 802<sup>&#x00AE;</sup>
     point-to-point full duplex links. This is achieved by a mechanism similar to IEEE
     802.3 Annex 31B PAUSE, but operating on individual priorities.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: This amendment to IEEE Std 802.1Q-2011 specifies protocols, procedures,
     and managed objects that enable flow control per traffic class on IEEE 802(R)
     point-to-point full duplex links. This is achieved by a mechanism similar to IEEE
     802.3 Annex 31B PAUSE, but operating on individual priorities.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2011'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-1Q.2011
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE standards
@@ -80,5 +91,5 @@ keyword:
 - Load flow
 - update:4361
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

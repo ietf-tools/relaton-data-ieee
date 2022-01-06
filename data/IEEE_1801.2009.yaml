@@ -1,11 +1,11 @@
 ---
 id: IEEE1801.2009
 title:
-  type: main
+- type: main
   content: IEEE Standard for Design and Verification of Low Power Integrated Circuits
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/4809845
+- content: https://ieeexplore.ieee.org/document/4809845
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '2009-03-19'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-05-30'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The power supplied to elements in an electronic design affects the way
     circuits operate. Although this is obvious when stated, today's set of high-level
@@ -56,8 +60,10 @@ abstract:
     this standard. The analysis of the various power modes of a design is enabled
     with a combination of the description of the power modes and the collection, generation,
     and propagation of switching information.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: The power supplied to elements in an electronic design affects the way
     circuits operate. Although this is obvious when stated, today’s set of high-level
@@ -77,22 +83,25 @@ abstract:
     this standard. The analysis of the various power modes of a design is enabled
     with a combination of the description of the power modes and the collection, generation,
     and propagation of switching information.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2009'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1801.2013
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - IEEE Standards Association
@@ -115,5 +124,5 @@ keyword:
 - retention
 - retention strategies
 ics:
-  code: '31.200'
+- code: '31.200'
   text: Integrated circuits. Microelectronics

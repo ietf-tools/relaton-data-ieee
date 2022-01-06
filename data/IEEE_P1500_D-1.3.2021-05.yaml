@@ -1,12 +1,12 @@
 ---
 id: IEEEP1500/D-1.3.2021-05
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard Testability Method for Embedded Core-based Integrated
     Circuits
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9446734
+- content: https://ieeexplore.ieee.org/document/9446734
   type: src
 type: standard
 docid:
@@ -23,41 +23,50 @@ date:
 - type: issued
   value: '2021'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-06-03'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard defines a mechanism for the test of core designs within a
+- content: This standard defines a mechanism for the test of core designs within a
     system on chip (SoC). This mechanism constitutes a hardware architecture and leverages
     the core test language (CTL) to facilitate communication between core designers
     and core integrators.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2021'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1500.2005
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -70,5 +79,5 @@ keyword:
 - IP test
 - test reuse
 ics:
-  code: '31.200'
+- code: '31.200'
   text: Integrated circuits. Microelectronics

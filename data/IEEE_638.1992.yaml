@@ -1,12 +1,12 @@
 ---
 id: IEEE638.1992
 title:
-  type: main
+- type: main
   content: IEEE Standard for Qualification of Class 1E Transformers for Nuclear Power
     Generating Stations
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/211014
+- content: https://ieeexplore.ieee.org/document/211014
   type: src
 type: standard
 docid:
@@ -25,41 +25,48 @@ date:
 - type: issued
   value: '1992-03-19'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-03-10'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Procedures for demonstrating the adequacy of new Class 1E transformers,
+- content: Procedures for demonstrating the adequacy of new Class 1E transformers,
     located in a mild environment of a nuclear power generating station, to perform
     their required safety functions under postulated service conditions are presented.
     Single- and three-phase transformers rated 601 V to 15,000 V for the highest voltage
     winding and up to 2500 kVA (self-cooled rating) are covered. Because of the conservative
     approach used in the development of this standard for new transformers, the end-point
     criteria cannot be used for in-service transformers.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1992'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 638.2013
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Fission reactor safety
 - Nuclear power generation
@@ -73,5 +80,5 @@ keyword:
 - Design qualification
 - Class 1E transformers
 ics:
-  code: '29.180'
+- code: '29.180'
   text: Transformers. Reactors

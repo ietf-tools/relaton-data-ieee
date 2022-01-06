@@ -1,11 +1,11 @@
 ---
 id: ANSI/IEEE390.1987
 title:
-  type: main
+- type: main
   content: IEEE Standard for Pulse Transformers
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/26565
+- content: https://ieeexplore.ieee.org/document/26565
   type: src
 type: standard
 docid:
@@ -24,31 +24,38 @@ date:
 - type: issued
   value: '1986-12-11'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-02-17'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'Pulse transformers for use in electronic equipment are considered. This
+- content: 'Pulse transformers for use in electronic equipment are considered. This
     standard applies to the following transformer types: power output (drivers), impedance
     matching, interstage coupling, current sensing, and blocking-oscillator transformers.
     For these transformers, the peak power transmitted ranges from a few milliwatts
     to many kilowatts, and the peak voltage transmitted ranges from a few volts to
     many kilovolts. Symbols, performance tests, equivalent circuits, preferred test
     methods, marking, and service conditions are covered.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1987'
@@ -60,5 +67,5 @@ keyword:
 - pulse
 - transformers
 ics:
-  code: '29.180'
+- code: '29.180'
   text: Transformers. Reactors

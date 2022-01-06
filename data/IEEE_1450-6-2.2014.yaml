@@ -1,11 +1,11 @@
 ---
 id: IEEE1450-6-2.2014
 title:
-  type: main
+- type: main
   content: IEEE Standard for Memory Modeling in Core Test Language
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6832422
+- content: https://ieeexplore.ieee.org/document/6832422
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '2014-03-27'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-06-12'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: Reuse of test data and test structures developed for individual cores (designs)
     when integrated into larger integrated circuits is required for system-on-chip
@@ -50,8 +54,10 @@ abstract:
     integrator, and the automation tool developer) involved in the creation of an
     SoC. The capabilities are an extension of IEEE Std 1450.6<sup>TM</sup>-2005. As
     a result of this extension, CTLs limitations of handling memories are addressed.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Reuse of test data and test structures developed for individual cores (designs)
     when integrated into larger integrated circuits is required for system-on-chip
@@ -65,12 +71,15 @@ abstract:
     integrator, and the automation tool developer) involved in the creation of an
     SoC. The capabilities are an extension of IEEE Std 1450.6(TM)-2005. As a result
     of this extension, CTL???s limitations of handling memories are addressed.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2014'
@@ -91,5 +100,5 @@ keyword:
 - standard test interface language (STIL)
 - system-on-chip (SoC)
 ics:
-  code: '35.060'
+- code: '35.060'
   text: Languages used in information technology

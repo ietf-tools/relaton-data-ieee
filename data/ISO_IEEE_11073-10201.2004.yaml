@@ -1,12 +1,12 @@
 ---
 id: ISO/IEEE11073-10201.2004
 title:
-  type: main
+- type: main
   content: 'ISO/IEEE International Standard for Health Informatics - Point-of-care
     medical device communication - Part 10201: Domain information model'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1389297
+- content: https://ieeexplore.ieee.org/document/1389297
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '2004-06-24'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-08-13'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Within the context of the ISO/IEEE 11073 family of standards for point-of-care
+- content: Within the context of the ISO/IEEE 11073 family of standards for point-of-care
     (POC) medical device communication (MDC), this standard provides an abstract object-oriented
     domain information model that specifies the structure of exchanged information,
     as well as the events and services that are supported by each object. All elements
@@ -46,12 +50,15 @@ abstract:
     Core subjects include medical, alert, system, patient, control, archival, communication,
     and extended services. Model extensibility is supported, and a conformance model
     and statement template is provided.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2004'
@@ -76,5 +83,5 @@ keyword:
 - patient
 - remote control
 ics:
-  code: 35.240.80
+- code: 35.240.80
   text: IT applications in health care technology

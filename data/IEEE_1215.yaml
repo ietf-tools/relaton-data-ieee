@@ -1,11 +1,11 @@
 ---
 id: IEEE1215
 title:
-  type: main
+- type: main
   content: IEEE Guide for the Application of Separable Insulated Connectors
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/992173
+- content: https://ieeexplore.ieee.org/document/992173
   type: src
 type: standard
 docid:
@@ -24,37 +24,44 @@ date:
 - type: issued
   value: '2001-10-10'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-07-11'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This guide provides general information on the application and operation
+- content: This guide provides general information on the application and operation
     of separable connectors. It is intended to be basic, and supplement the manufacturer’s
     specific recommenda-tions and established utility practices.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2002'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1215.2013
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Connectors
@@ -66,5 +73,5 @@ keyword:
 - power distribution
 - switchgear
 ics:
-  code: 29.120.20
+- code: 29.120.20
   text: Connecting devices

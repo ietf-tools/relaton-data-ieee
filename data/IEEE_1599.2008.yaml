@@ -1,12 +1,12 @@
 ---
 id: IEEE1599.2008
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for Defining a Commonly Acceptable Musical Application
     Using XML
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/4633344
+- content: https://ieeexplore.ieee.org/document/4633344
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2008-06-12'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-04-13'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: This recommended practice develops an XML application defining a standard
     language for symbolic music representation. The language is a meta-representation
@@ -49,8 +53,10 @@ abstract:
     by any kind of software dealing with music information, e.g., score editing, optical
     music recognition (OMR) systems, music performance, musical databases, and composition
     and musicological applications.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: This project will develop an XML application defining a standard language
     for symbolic music representation. The language will be a meta-representation
@@ -61,12 +67,15 @@ abstract:
     standards. The standard will be accepted by any kind of software dealing with
     music information, e.g. score editing, OMR systems, music performance, musical
     databases, and composition and musicological applications.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2008'
@@ -85,5 +94,5 @@ keyword:
 - synchronization
 - XML
 ics:
-  code: 35.240.30
+- code: 35.240.30
   text: IT applications in information, documentation and publishing

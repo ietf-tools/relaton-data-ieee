@@ -10,7 +10,7 @@ title:
     Descriptions - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5981339
+- content: https://ieeexplore.ieee.org/document/5981339
   type: src
 type: standard
 docid:
@@ -27,19 +27,23 @@ date:
 - type: issued
   value: '2009-03-19'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-08-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard describes software designs and establishes the information
+- content: This standard describes software designs and establishes the information
     content and organization of a software design description (SDD). An SDD is a representation
     of a software design to be used for recording design information and communicating
     that design information to key design stakeholders. This standard is intended
@@ -56,12 +60,15 @@ abstract:
     on the selection of design languages for use in an SDD. This standard can be applied
     to the preparation of SDDs captured as paper documents, automated databases, software
     development tools or other media.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2011'
@@ -79,5 +86,5 @@ keyword:
 - software design
 - software design description
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

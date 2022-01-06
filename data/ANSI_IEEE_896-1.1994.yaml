@@ -1,12 +1,12 @@
 ---
 id: ANSI/IEEE896-1.1994
 title:
-  type: main
+- type: main
   content: ISO/IEC/IEEE International Standard - Information Technology -- Microprocessor
     Systems -- Futurebus+(R) - Logical Protocol specification
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/467390
+- content: https://ieeexplore.ieee.org/document/467390
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1994'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-05-31'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This International Standard provides a set of tools with which to implement
+- content: 'This International Standard provides a set of tools with which to implement
     a Futurebus+ architecture with performance and cost scalability over time, for
     multiple generations of single- and multiple-bus multiprocessor systems. Although
     this specification is principally intended for 64-bit address and data operation,
@@ -59,12 +63,15 @@ abstract:
     and the hooks provided to allow furthere evolution to meet unanticipated needs
     of specific application architectures. It is intended that this International
     Standard be used as a key component of an approved IEEE Futurebus+ profile.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1994'
@@ -80,5 +87,5 @@ keyword:
 - logical protocol
 - multiprocessor systems
 ics:
-  code: '35.160'
+- code: '35.160'
   text: Microprocessor systems

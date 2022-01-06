@@ -1,11 +1,11 @@
 ---
 id: IEEE115.1983
 title:
-  type: main
+- type: main
   content: 'IEEE Guide: Test Procedures for Synchronous Machines'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/35041
+- content: https://ieeexplore.ieee.org/document/35041
   type: src
 type: standard
 docid:
@@ -24,40 +24,47 @@ date:
 - type: issued
   value: '1982-03-11'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Instructions for conducting the more generally applicable and accepted
+- content: Instructions for conducting the more generally applicable and accepted
     tests to determine the performance characteristics of synchronous machines are
     contained in this guide. Although the tests described are applicable in general
     to synchronous generators, synchronous motors (larger than fractional horsepower),
     synchronous condensers, and synchronous frequency changers, the descriptions make
     reference primarily to synchronous generators and synchronous motors.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1983'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 115.1995
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Insulation testing
 - Bearings (mechanical)

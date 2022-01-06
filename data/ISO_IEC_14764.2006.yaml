@@ -1,12 +1,12 @@
 ---
 id: ISO/IEC14764.2006
 title:
-  type: main
+- type: main
   content: ISO/IEC/IEEE International Standard for Software Engineering - Software
     Life Cycle Processes - Maintenance
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1703974
+- content: https://ieeexplore.ieee.org/document/1703974
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '2006-03-30'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-09-18'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This International Standard describes in greater detail management of the
+- content: This International Standard describes in greater detail management of the
     Maintenance Process described in ISO/IEC 12207, including Amendments. This International
     Standard also establishes definitions for the various types of maintenance. This
     International Standard provides guidance that applies to planning, execution and
@@ -45,25 +49,30 @@ abstract:
     of this International Standard includes maintenance for multiple software products
     with the same maintenance resources. “Maintenance” in this International Standard
     means software maintenance unless otherwise stated.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2006'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1219.1998
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE standards
@@ -74,5 +83,5 @@ keyword:
 - software
 - software maintenance
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

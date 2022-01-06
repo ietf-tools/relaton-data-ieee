@@ -1,12 +1,12 @@
 ---
 id: IEEE802-1X.2010
 title:
-  type: main
+- type: main
   content: IEEE Standard for Local and metropolitan area networks--Port-Based Network
     Access Control
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5409813
+- content: https://ieeexplore.ieee.org/document/5409813
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '2010-02-02'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-11-11'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Port-based network access control allows a network administrator to restrict
+- content: Port-based network access control allows a network administrator to restrict
     the use of IEEE 802 LAN service access points (ports) to secure communication
     between authenticated and authorized devices. This standard specifies a common
     architecture, functional elements, and protocols that support mutual authentication
@@ -45,25 +49,30 @@ abstract:
     between the ports, including the media access method independent protocols that
     are used to discover and establish the security associations used by IEEE 802.1AE
     MAC Security.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2010'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-1X.2004
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE standards

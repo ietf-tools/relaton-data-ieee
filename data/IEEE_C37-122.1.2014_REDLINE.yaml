@@ -8,7 +8,7 @@ title:
   content: IEEE Guide for Gas-Insulated Substations Rated Above 52 kV - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7096852
+- content: https://ieeexplore.ieee.org/document/7096852
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2014-11-03'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-04-28'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: Information of special relevance to planning, design, testing, installation,
     operation and maintenance of gas-insulated substations (GIS) and equipment is
@@ -47,8 +51,10 @@ abstract:
     the issues related to advanced field test techniques and very fast transients
     (VFT) are of particular interest for extra-high voltage (EHV) gas-insulated substations
     (GIS).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Information of special relevance to planning, design, testing, installation,
     operation and maintenance of gas-insulated substations (GIS) and equipment is
@@ -58,25 +64,30 @@ abstract:
     the issues related to advanced field test techniques and very fast transients
     (VFT) are of particular interest for extra-high voltage (EHV) gas-insulated substations
     (GIS).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2015'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE C37-122-1.1993
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE standards
@@ -103,5 +114,5 @@ keyword:
 - partial discharge
 - PD
 ics:
-  code: '27.100'
+- code: '27.100'
   text: Power stations in general

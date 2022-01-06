@@ -1,11 +1,11 @@
 ---
 id: IEEE802-1X.2001
 title:
-  type: main
+- type: main
   content: IEEE Standard for Port Based Network Access Control
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/935759
+- content: https://ieeexplore.ieee.org/document/935759
   type: src
 type: standard
 docid:
@@ -24,40 +24,47 @@ date:
 - type: issued
   value: '2001-06-14'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This IEEE Standards product is part of the 802 family on LAN/MAN. Port-based
+- content: This IEEE Standards product is part of the 802 family on LAN/MAN. Port-based
     network access control makes use of the physical access characteristics of IEEE
     802 Local Area Networks (LAN) infrastructures in order to provide a means of authenticating
     and authorizing devices attached to a LAN port that has point-to-point connection
     characteristics, and of preventing access to that port in cases in which the authentication
     and authorization process fails.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2001'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 802-1X.2004
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - authentication
@@ -67,5 +74,5 @@ keyword:
 - Port Access Control
 - uncontrolled Port
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

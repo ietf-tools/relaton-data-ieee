@@ -1,11 +1,11 @@
 ---
 id: ANSI/IEEE730.1984
 title:
-  type: main
+- type: main
   content: IEEE Standard Software Quality Assurance Plans
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7435198
+- content: https://ieeexplore.ieee.org/document/7435198
   type: src
 type: standard
 docid:
@@ -26,19 +26,23 @@ date:
 - type: issued
   value: '1984-06-14'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-03-17'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The purpose of this standard is to provide uniform, minimum acceptable
+- content: The purpose of this standard is to provide uniform, minimum acceptable
     requirements for preparation and content of Software Quality Assurance Plans (SQAP).
     In considering adoption of this standard, regulatory bodies should be aware that
     specific application of this standard may already be covered by one or more IEEE
@@ -54,22 +58,25 @@ abstract:
     Where this standard is invoked for a project engaged in producing several software
     items, the applicability of the standard should be specified for each of the software
     product items encompassed by the project.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1984'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 730.1989
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - ANSI Standards

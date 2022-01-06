@@ -1,13 +1,13 @@
 ---
 id: IEEEP1451-0/D-6.04
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for a Smart Transducer Interface for Sensors and Actuators
     Common Functions, Communication Protocols, and Transducer Electronic Data Sheet
     (TEDS) Formats
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/4040255
+- content: https://ieeexplore.ieee.org/document/4040255
   type: src
 type: standard
 docid:
@@ -17,21 +17,25 @@ docid:
   type: ISBN
 docnumber: IEEE P1451-0/D-6.04
 date:
-  type: created
+- type: created
   value: '2006'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
-language: en
-script: Latn
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This project develops a set of common functionality for the family of IEEE
+- content: This project develops a set of common functionality for the family of IEEE
     P1451 smart transducer interface standards. This functionality is independent
     of the physical communications media. It includes the basic functions required
     to control and manage smart transducers, common communications protocols, and
@@ -39,15 +43,18 @@ abstract:
     a set of implementation-independent application programming interfaces (API).
     This project does not specify signal conditioning and conversion, physical media,
     or how the TEDS data are used in applications.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2006'
 ics:
-  code: 25.040.40
+- code: 25.040.40
   text: Industrial process measurement and control

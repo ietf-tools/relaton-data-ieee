@@ -1,13 +1,13 @@
 ---
 id: ISO/IEC/IEEE21450.2010
 title:
-  type: main
+- type: main
   content: ISO/IEC/IEEE Information technology -- Smart transducer interface for sensors
     and actuators -- Common functions, communication protocols, and Transducer Electronic
     Data Sheet (TEDS) formats
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5668466
+- content: https://ieeexplore.ieee.org/document/5668466
   type: src
 type: standard
 docid:
@@ -26,16 +26,20 @@ date:
 - type: issued
   value: '2010-12-10'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
-language: en
-script: Latn
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
 abstract:
 - content: This standard provides a common basis for members of the IEEE 1451 family
     of standards to be interoperable. It defines the functions that are to be performed
@@ -45,8 +49,10 @@ abstract:
     of the TIM as well as reading and writing the data used by the system. Application
     programming interfaces (APIs) are defined to facilitate communications with the
     TIM and with applications.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Adoption of IEEE Std 1451.0-2007. This standard provides a common basis
     for members of the IEEE 1451 family of standards to be interoperable. It defines
@@ -56,12 +62,15 @@ abstract:
     commands to facilitate the setup and control of the TIM as well as reading and
     writing the data used by the system. Application programming interfaces (APIs)
     are defined to facilitate communications with the TIM and with applications.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2010'
@@ -82,5 +91,5 @@ keyword:
 - transducer electronic data sheet
 - transducer interface module
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

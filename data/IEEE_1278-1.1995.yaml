@@ -1,11 +1,11 @@
 ---
 id: IEEE1278-1.1995
 title:
-  type: main
+- type: main
   content: IEEE Standard for Distributed Interactive Simulation - Application Protocols
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/499701
+- content: https://ieeexplore.ieee.org/document/499701
   type: src
 type: standard
 docid:
@@ -22,28 +22,35 @@ date:
 - type: issued
   value: '1995-09-21'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
-language: en
-script: Latn
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Data messages, known as protocol data units (PDUs), that are exchanged
+- content: Data messages, known as protocol data units (PDUs), that are exchanged
     on a network between simulation applications are defined. These PDUs are for interactions
     that take place within specified domains called protocol families, which include
     entity information interaction, warefare, logistics, simulation management, distributed
     emission regeneration, and radio communications.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1996'
@@ -54,5 +61,5 @@ keyword:
 - IEEE standards
 - Protocols
 ics:
-  code: '35.020'
+- code: '35.020'
   text: Information technology in general

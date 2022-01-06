@@ -1,13 +1,13 @@
 ---
 id: ISO/IEC/IEEE8802-3.2021
 title:
-  type: main
+- type: main
   content: 'ISO/IEC/IEEE International Standard - Telecommunications and exchange
     between information technology systems--Requirements for local and metropolitan
     area networks--Part 3: Standard for Ethernet'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9363105
+- content: https://ieeexplore.ieee.org/document/9363105
   type: src
 type: standard
 docid:
@@ -26,19 +26,23 @@ date:
 - type: issued
   value: '2021'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-02-24'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'Ethernet local area network operation is specified for selected speeds
+- content: 'Ethernet local area network operation is specified for selected speeds
     of operation from 1 Mb/s to 400 Gb/s using a common media access control (MAC)
     specification and management information base (MIB). The Carrier Sense Multiple
     Access with Collision Detection (CSMA/CD) MAC protocol specifies shared medium
@@ -51,19 +55,24 @@ abstract:
     capabilities include: various PHY types for access networks, PHYs suitable for
     metropolitan area network applications, and the provision of power over selected
     twisted pair PHY types.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
-  - name: IEC
+  - name:
+    - ISO
+  - name:
+    - IEC
   from: '2021'
 relation:
-  type: adoptedFrom
+- type: adoptedFrom
   bibitem:
     formattedref:
       content: IEEE 802-3.2018

@@ -10,7 +10,7 @@ title:
     Systems--Part I: Introduction - Redline'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8085438
+- content: https://ieeexplore.ieee.org/document/8085438
   type: src
 type: standard
 docid:
@@ -27,43 +27,52 @@ date:
 - type: issued
   value: '2016-12-07'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-26'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The application of neutral grounding to three-phase electrical utility
+- content: The application of neutral grounding to three-phase electrical utility
     systems is described in this guide. It is Part 1 of the IEEE C62.92 series of
     guides for neutral grounding. This guide presents basic considerations of the
     selection of neutral grounding parameters that will provide for the control of
     overvoltage and ground-fault current on all parts of three-phase electrical utility
     systems rated greater than 1000 V.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2017'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE C62-92-1.1987
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -77,5 +86,5 @@ keyword:
 - neutral grounding
 - undergrounded systems
 ics:
-  code: 29.120.50
+- code: 29.120.50
   text: Fuses and other overcurrent protection devices

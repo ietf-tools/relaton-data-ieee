@@ -1,12 +1,12 @@
 ---
 id: IEEE1362.1998
 title:
-  type: main
+- type: main
   content: IEEE Guide for Information Technology - System Definition - Concept of
     Operations (ConOps) Document
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/761853
+- content: https://ieeexplore.ieee.org/document/761853
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1998-03-19'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-02-21'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Replaced by ISO/IEC/IEEE 29148:2011. The format and contents of a concept
+- content: Replaced by ISO/IEC/IEEE 29148:2011. The format and contents of a concept
     of operations (ConOps) document are described. AConOps is a user-oriented document
     that describes system characteristics for a proposed system from theusersO viewpoint.
     The ConOps document is used to communicate overall quantitative and qualitativesystem
@@ -45,12 +49,15 @@ abstract:
     (for example,training, facilities, staffing, and maintenance). It is used to describe
     the user organization(s), mission(s), andorganizational objectives from an integrated
     systems point of view.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1998'
@@ -71,5 +78,5 @@ keyword:
 - user requirements
 - viewpoint
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

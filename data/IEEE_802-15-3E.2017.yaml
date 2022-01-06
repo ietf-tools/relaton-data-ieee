@@ -1,12 +1,12 @@
 ---
 id: IEEE802-15-3e.2017
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for High Data Rate Wireless Multi-Media Networks--Amendment
     1: High-Rate Close Proximity Point-to-Point Communications'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7942281
+- content: https://ieeexplore.ieee.org/document/7942281
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2017-02-14'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-06-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: An alternative physical layer (PHY) and a modified medium access control
     (MAC) layeris defined in this amendment.Two PHY modes have been defined that enable
@@ -45,8 +49,10 @@ abstract:
     have been defined to increase the maximum achievable communication speeds. Stack
     acknowledgment has been defined to improve the medium access control (MAC) efficiency
     when used in a point-to-point (P2P) topology between two devices.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: An alternative physical layer (PHY) and a modified medium access control
     (MAC) layer is defined in this amendment. Two PHY modes have been defined that
@@ -55,12 +61,15 @@ abstract:
     acknowledgment has been defined to improve the medium access control (MAC) efficiency
     when used in a point-to-point (P2P) topology between two devices. (The PDF of
     this standard is available at no cost compliments of the IEEE GET program http://ieeexplore.ieee.org/browse/standards/get-program/page/)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2017'
@@ -80,5 +89,5 @@ keyword:
 - P2P
 - wireless
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

@@ -1,12 +1,12 @@
 ---
 id: ISO/IEEE11073-20601.2016
 title:
-  type: main
+- type: main
   content: 'ISO/IEC/IEEE International Standard - Health Informatics -- Personal Health
     Device Communication - Part 20601: Application Profile - Optimized Exchange Protocol'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7842820
+- content: https://ieeexplore.ieee.org/document/7842820
   type: src
 type: standard
 docid:
@@ -25,46 +25,57 @@ date:
 - type: issued
   value: '2017'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-02-03'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Within the context of the ISO/IEEE 11073 family of standards for device
+- content: Within the context of the ISO/IEEE 11073 family of standards for device
     communication, this standard defines a common framework for making an abstract
     model of personal health data available in transport-independent transfer syntax
     required to establish logical connections between systems and to provide presentation
     capabilities and services needed to perform communication tasks. The protocol
     is optimized to personal health usage requirements and leverages commonly used
     methods and tools wherever possible.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
-  - name: IEC
+  - name:
+    - ISO
+  - name:
+    - IEC
   from: '2017'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 11073-20601.2014
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -77,5 +88,5 @@ keyword:
 - medical device communication
 - personal health devices
 ics:
-  code: 35.240.80
+- code: 35.240.80
   text: IT applications in health care technology

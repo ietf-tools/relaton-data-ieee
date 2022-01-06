@@ -1,13 +1,13 @@
 ---
 id: IEEEP1505-1/D-6.2019-04
 title:
-  type: main
+- type: main
   content: IEEE Approved Draft Standard for the Common Test Interface Pin Map Configuration
     for High-Density, Single-Tier Electronics Test Requirements Utilizing IEEE Std
     1505
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8704492
+- content: https://ieeexplore.ieee.org/document/8704492
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '2019-06-13'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'An extension to the IEEE 1505TM receiver fixture interface (RFI) standard
+- content: 'An extension to the IEEE 1505TM receiver fixture interface (RFI) standard
     specification is provided in this standard. Particular emphasis is placed on defining
     within the IEEE 1505 RFI standard a more specific set of performance requirements
     that employ a common scalable: 1) pin map configuration; 2) specific connector
@@ -44,12 +48,15 @@ abstract:
     5) legacy automatic test equipment (ATE) transitional devices. This is intentionally
     done to standardize the footprint and assure mechanical and electrical interoperability
     between past and future automatic test systems (ATS).'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2019'
@@ -73,5 +80,5 @@ keyword:
 - test program set (TPS)
 - unit under test (UUT)
 ics:
-  code: 31.220.10
+- code: 31.220.10
   text: Plug-and-socket devices. Connectors

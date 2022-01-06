@@ -1,12 +1,12 @@
 ---
 id: IEEE269.1992
 title:
-  type: main
+- type: main
   content: IEEE Standard Methods for Measuring Transmission Performance of Analog
     and Digital Telephone Sets
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/211096
+- content: https://ieeexplore.ieee.org/document/211096
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1992-06-18'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'Superseded by IEEE Std 269-2002. Practical methods for measuring the transmission
+- content: 'Superseded by IEEE Std 269-2002. Practical methods for measuring the transmission
     characteristics of both digital and conventional to wire analog telephone sets
     by means of objective measurements on a test connection are described. The test
     results thus obtained may be used as a means of evaluating or specifying the transmission
@@ -47,12 +51,15 @@ abstract:
     are not intended to be applicable to special devices, such as noise-exclusion
     transmitters, distant-talking transmitters, insert-type receivers, or noise-exclusion
     receivers equipped with large ear pads.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1993'
@@ -64,15 +71,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 269.2002
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Communication standards
 - Telephone sets
@@ -86,5 +95,5 @@ keyword:
 - Voice transmission performance
 - Telephony
 ics:
-  code: 33.050.10
+- code: 33.050.10
   text: Telephone equipment

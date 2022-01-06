@@ -10,7 +10,7 @@ title:
     Enclosures - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7270970
+- content: https://ieeexplore.ieee.org/document/7270970
   type: src
 type: standard
 docid:
@@ -27,19 +27,23 @@ date:
 - type: issued
   value: '2015-03-26'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-09-17'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Enclosed dc power circuit breakers of the stationary or drawout 32 type
+- content: Enclosed dc power circuit breakers of the stationary or drawout 32 type
     of one- or two-pole construction with one or more rated maximum voltages of 300
     V, 325 V, 33 600 V, 800 V, 1000 V, 1200 V, 1600 V, or 3200 V for applications
     on dc systems having nominal 34 voltages of 250 V, 275 V, 500 V, 750 V, 850 V,
@@ -49,25 +53,30 @@ abstract:
     conditions, ratings, 37 functional components, temperature limitations and classification
     of insulating materials, dielectric 38 withstand voltage requirements, test procedures,
     andapplication are dealt with in this standard.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2015'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE C37-14.2002
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -85,5 +94,5 @@ keyword:
 - reverse-current trip device
 - semi-high-speed or rectifier circuit breaker
 ics:
-  code: 29.130.20
+- code: 29.130.20
   text: Low voltage switchgear and controlgear

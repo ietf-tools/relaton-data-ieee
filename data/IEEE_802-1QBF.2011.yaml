@@ -1,13 +1,13 @@
 ---
 id: IEEE802-1Qbf.2011
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Local and metropolitan area networks--Media Access Control
     (MAC) Bridges and Virtual Bridged Local Area Networks--Amendment 19: PBB-TE Infrastructure
     Segment Protection'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6112163
+- content: https://ieeexplore.ieee.org/document/6112163
   type: src
 type: standard
 docid:
@@ -28,46 +28,57 @@ date:
 - type: issued
   value: '2011-12-07'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-08-20'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: This amendment to IEEE Std 802.1Q-2011 specifies localized protection of
     selected Traffic Engineered Service Instances traversing a common sequence of
     Provider Network Ports.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: This amendment to IEEE Std 802.1Q-2011 specifies localized protection of
     selected Traffic Engineered Service Instances traversing a common sequence of
     Provider Network Ports.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2011'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-1Q.2011
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE standards
@@ -88,5 +99,5 @@ keyword:
 - Provider Backbone Bridge
 - Traffic Engineering
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

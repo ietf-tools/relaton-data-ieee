@@ -1,12 +1,12 @@
 ---
 id: ANSI/IEEE738.1986
 title:
-  type: main
+- type: main
   content: IEEE Standard for Calculation of Bare Overhead Conductor Temperature and
     Ampacity Under Steady-State Conditions
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6135468
+- content: https://ieeexplore.ieee.org/document/6135468
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '1984-12-13'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The purpose of this standard is to present a simplified method of calculating
     the current-temperature relationship of bare overhead lines when given the weather
@@ -46,28 +50,33 @@ abstract:
     of weather conditions and operating circumstances for which conductor temperatures
     must be known, each utility shall make its own assessment of the data that will
     best pertain to its area or a particular transmission line.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: The purpose of this standard is to present a simplified method of calculating
     the current-temperature relationship of bare over-head lines when given the weather
     conditions.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1986'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 738.1993
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Conductors
@@ -80,5 +89,5 @@ keyword:
 - conductor
 - temperature
 ics:
-  code: 29.240.20
+- code: 29.240.20
   text: Power transmission and distribution lines

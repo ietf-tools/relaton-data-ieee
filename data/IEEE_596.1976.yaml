@@ -1,11 +1,11 @@
 ---
 id: IEEE596.1976
 title:
-  type: main
+- type: main
   content: IEEE Standard Parallel Highway Interface System (CAMAC)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7431927
+- content: https://ieeexplore.ieee.org/document/7431927
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '1975-12-12'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-03-11'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The Dataway defined in IEEE Std 583-1975, Modular Instrumentation and Digital
     Interface System, is the basis for all CAMAC* systems. It provides the means of
@@ -54,8 +58,10 @@ abstract:
     controllers and Parallel Highway Drivers, and the physical construction of the
     Parallel Highway System are defined only where they affect compatibility between
     parts of the system.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: The interface system on which this standard is based was developed by the
     ESONE Committee of European Laboratories with the collaboration of the NIM Committee
@@ -67,22 +73,25 @@ abstract:
     of the International Electrotechnical Commission (IEC) that is currently being
     processed. A serial highway interface system, also intended for use with IEEE
     Std 583-1975, is defined in IEEE Std 595-1976, Serial Highway Interface System.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1976'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 596.1982
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - ANSI Standards

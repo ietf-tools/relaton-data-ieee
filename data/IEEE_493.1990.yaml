@@ -1,12 +1,12 @@
 ---
 id: IEEE493.1990
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for the Design of Reliable Industrial and Commercial
     Power Systems
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/257614
+- content: https://ieeexplore.ieee.org/document/257614
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1990-09-28'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-01-16'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The fundamentals of reliability analysis as it applies to the planning
+- content: The fundamentals of reliability analysis as it applies to the planning
     and design of industrial and commercial electric power distribution systems are
     presented. Included are basic concepts of reliability analysis by probability
     methods, fundamentals of power system reliability evaluation, economic evaluation
@@ -49,12 +53,15 @@ abstract:
     maintenance practices for electrical power and grounding (including both power-related
     and signal-related noise control) of sensitive electronic processing equipment
     used in commercial and industrial applications are presented.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1991'
@@ -66,15 +73,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 493.1997
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Power system planning
 - Power system reliability

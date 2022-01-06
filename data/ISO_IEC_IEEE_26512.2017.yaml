@@ -1,12 +1,12 @@
 ---
 id: ISO/IEC/IEEE26512.2017
 title:
-  type: main
+- type: main
   content: ISO/IEC/IEEE International Standard - Systems and software engineering
     - Requirements for acquirers and suppliers of information for users
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8288807
+- content: https://ieeexplore.ieee.org/document/8288807
   type: src
 type: standard
 docid:
@@ -27,19 +27,23 @@ date:
 - type: issued
   value: '2017-09-28'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-02-09'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'This document was developed to assist users of ISO/IEC/IEEE 15288:2015
+- content: 'This document was developed to assist users of ISO/IEC/IEEE 15288:2015
     or ISO/IEC/IEEE 12207 to acquire or supply information for users as part of the
     system or life cycle processes. It defines the documentation process from the
     acquirer''s standpoint and the supplier''s standpoint. This document covers the
@@ -56,27 +60,34 @@ abstract:
     of the software tools that may be used to produce documentation, and applies to
     both printed documentation and on-screen documentation. Its guidance is applicable
     to user documentation for systems including hardware as well as software.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
-  - name: IEC
+  - name:
+    - ISO
+  - name:
+    - IEC
   from: '2017'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: ISO/IEC/IEEE 26512
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -86,5 +97,5 @@ keyword:
 - Systems engineering and theory
 - Requirements engineering
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

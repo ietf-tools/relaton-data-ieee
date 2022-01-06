@@ -1,11 +1,11 @@
 ---
 id: IEEE1906-1-1.2020
 title:
-  type: main
+- type: main
   content: IEEE Standard Data Model for Nanoscale Communication Systems
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9285373
+- content: https://ieeexplore.ieee.org/document/9285373
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '2020-09-24'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-12-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: A set of YANG modules describing nanoscale communication systems and their
     associated physical quantities in conformance with IEEE Std 1906.1-2015--a common
@@ -60,8 +64,10 @@ abstract:
     YANG editors' coordination committee and IETF RFC 6087, and consideration of coexistence
     and interoperability with existing domain models and tools, such as the Systems
     Biology Markup Language (SBML).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: A set of YANG modules describing nanoscale communication systems and their
     associated physical quantities in conformance with IEEE Std 1906.1-2015--a common
@@ -85,12 +91,15 @@ abstract:
     YANG editors’ coordination committee and IETF RFC 6087, and consideration of coexistence
     and interoperability with existing domain models and tools, such as the Systems
     Biology Markup Language (SBML).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2020'

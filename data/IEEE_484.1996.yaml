@@ -1,12 +1,12 @@
 ---
 id: IEEE484.1996
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for Installation Design and Installation of Vented
     Lead-Acid Batteries for Stationary Applications
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/503682
+- content: https://ieeexplore.ieee.org/document/503682
   type: src
 type: standard
 docid:
@@ -25,31 +25,38 @@ date:
 - type: issued
   value: '1996-04-10'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Superseded by 484-2002. Recommended design practices and procedures for
+- content: Superseded by 484-2002. Recommended design practices and procedures for
     storage, location, mounting, ventilation, instrumentation, preassembly, assembly,
     and charging of vented lead-acid batteries are provided. Required safety practices
     are also included. These recommended practices are applicable to all stationary
     applications. However, specific applications, such as emergency lighting units
     and semiportable equipment, and alternate energy applications, may have other
     appropriate practices and are beyond the scope of this recommended practice.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1996'
@@ -61,15 +68,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 484.2002
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Lead materials/devices
 - Batteries
@@ -91,5 +100,5 @@ keyword:
 - resistance readings
 - seismic
 ics:
-  code: 29.220.20
+- code: 29.220.20
   text: Acid secondary cells and batteries

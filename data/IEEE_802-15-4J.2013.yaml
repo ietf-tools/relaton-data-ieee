@@ -1,14 +1,14 @@
 ---
 id: IEEE802-15-4j.2013
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Local and metropolitan area networks - Part 15.4: Low-Rate
     Wireless Personal Area Networks (LR-WPANs) Amendment 4: Alternative Physical Layer
     Extension to Support Medical Body Area Network (MBAN) Services Operating in the
     2360 MHz &#8211; 2400 MHz Band'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6471722
+- content: https://ieeexplore.ieee.org/document/6471722
   type: src
 type: standard
 docid:
@@ -29,48 +29,59 @@ date:
 - type: issued
   value: '2013-02-06'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-02-27'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: In this amendment to IEEE Std 802.15.4<sup>TM</sup>-2011, a physical layer
     for IEEE 802.15.4 in the 2360 MHz to 2400 MHz band which complies with Federal
     Communications Commission (FCC) MBAN rules is defined. Modifications to the MAC
     needed to support this new physical layer are also defined in this amendment.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: In this amendment to IEEE Std 802.15.4TM-2011, a physical layer for IEEE
     802.15.4 in the 2360 MHz to 2400 MHz band which complies with Federal Communications
     Commission (FCC) MBAN rules is defined. Modifications to the MAC needed to support
     this new physical layer are also defined in this amendment.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2013'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-15-4.2011
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE standards
@@ -86,5 +97,5 @@ keyword:
 - MBAN
 - medical body area network
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

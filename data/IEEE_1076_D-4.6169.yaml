@@ -1,12 +1,12 @@
 ---
 id: IEEE1076/D-4.6169
 title:
-  type: main
+- type: main
   content: 'IEC/IEEE International Standard - Behavioral Languages - Part 5: Standard
     VITAL ASIC (Application Specific Integrated Circuit) Modeling Specification'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1405849
+- content: https://ieeexplore.ieee.org/document/1405849
   type: src
 type: standard
 docid:
@@ -25,28 +25,35 @@ date:
 - type: issued
   value: '2004'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-11-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: IThe VITAL (VHDL Initiative Towards ASIC Libraries) ASIC Modeling Specification
+- content: IThe VITAL (VHDL Initiative Towards ASIC Libraries) ASIC Modeling Specification
     is defined in this standard. This modeling specification defines a methodology
     which promotes the development of highly accurate, efficient simulation models
     for ASIC (Application-Specific Integrated Circuit) components in VHDL.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2004'
@@ -67,5 +74,5 @@ keyword:
 - Verilog
 - VHDL
 ics:
-  code: '35.060'
+- code: '35.060'
   text: Languages used in information technology

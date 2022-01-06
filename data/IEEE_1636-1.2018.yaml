@@ -1,13 +1,13 @@
 ---
 id: IEEE1636-1.2018
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Software Interface for Maintenance Information Collection
     and Analysis (SIMICA): Exchanging Test Results and Session Information via the
     eXtensible Markup Language (XML)'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8662798
+- content: https://ieeexplore.ieee.org/document/8662798
   type: src
 type: standard
 docid:
@@ -28,17 +28,21 @@ date:
 - type: issued
   value: '2018-09-27'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-03-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: Promoting and facilitating interoperability between components of automatic
     test systems where test results need to be shared is addressed in this standard.
@@ -46,8 +50,10 @@ abstract:
     and databases, facilitating online and offline analysis. The test results schema
     becomes a class of information that can be used within the SIMICA family of standards.
     The exchange format is expressed in both the OWL and XML formats.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Promoting and facilitating interoperability between components of automatic
     test systems where test results need to be shared is addressed in this standard.
@@ -55,25 +61,30 @@ abstract:
     and databases, facilitating online and offline analysis. The test results schema
     becomes a class of information that can be used within the SIMICA family of standards.
     The exchange format is expressed in both the OWL and XML formats.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2018'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1636-1.2013 Redline
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -88,5 +99,5 @@ keyword:
 - test results and session information
 - XML schema
 ics:
-  code: '35.040'
+- code: '35.040'
   text: Information coding

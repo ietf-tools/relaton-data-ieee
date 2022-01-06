@@ -1,12 +1,12 @@
 ---
 id: IEEE802-1Qcx.2020
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Local and Metropolitan Area Networks--Bridges and Bridged
     Networks Amendment 33: YANG Data Model for Connectivity Fault Management'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9212765
+- content: https://ieeexplore.ieee.org/document/9212765
   type: src
 type: standard
 docid:
@@ -27,50 +27,61 @@ date:
 - type: issued
   value: '2020-06-04'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-10-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: A YANG data model that supports configuration, status reporting, and monitoring
     for Connectivity Fault Management (CFM) for Two-Port MAC Relays, Customer VLAN
     Bridges, and Provider Bridges is further developed by this amendment to IEEE Std
     802.1Q&#x2122;-2018. See also IEEE Std 802.1Qcp&#x2122;-2018 for the introduction
     of this YANG data model.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: YANG data model that supports configuration, status reporting, and monitoring
     for Connectivity Fault Management (CFM) for Two-Port MAC Relays, Customer VLAN
     Bridges, and Provider Bridges is further developed by this amendment to IEEE Std
     802.1Q&#8482;-2018. See also IEEE Std 802.1Qcp&#8482;-2018 for the introduction
     of this YANG data model.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2020'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-1Q.2018
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -95,5 +106,5 @@ keyword:
 - virtual LANs
 - YANG
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

@@ -1,11 +1,11 @@
 ---
 id: ANSI/IEEE802-1D.1998
 title:
-  type: main
+- type: main
   content: IEEE Standard for Local Area Network MAC (Media Access Control) Bridges
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1389253
+- content: https://ieeexplore.ieee.org/document/1389253
   type: src
 type: standard
 docid:
@@ -24,30 +24,37 @@ date:
 - type: issued
   value: '1998-06-30'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The concept of Media Access Control (MAC) Bridging, introduced in the 1993
+- content: The concept of Media Access Control (MAC) Bridging, introduced in the 1993
     edition of this standard, has been expanded to define additional capabilities
     in Bridged LANs aimed at providing for expedited traffic capabilities, to support
     the transmission of time-critical information in a LAN environment; and providing
     filtering services that support the dynamic use of Group MAC Addresses in a LAN
     environment.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1998'
@@ -59,15 +66,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 802-1D.2004
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - ISO Standards

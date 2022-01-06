@@ -1,12 +1,12 @@
 ---
 id: ISO/IEC/IEEE24748-2.2018
 title:
-  type: main
+- type: main
   content: ISO/IEC/IEEE International Standard - Systems and software engineering--Requirements
     for managers of information for users of systems, software, and services
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8764712
+- content: https://ieeexplore.ieee.org/document/8764712
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2018-12-05'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-07-16'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: This document specifies requirements and procedures for managing information
     for users throughout the software-, services-, and systems-development life cycle.
@@ -53,8 +57,10 @@ abstract:
     produce or manage information for users and applies to both printed, embedded,
     and mobile information. Much of its guidance is applicable to information for
     users of systems of hardware as well as software, systems, and services.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: This document specifies requirements and procedures for managing information
     for users throughout the software-, services-, and systems-development life cycle.
@@ -70,27 +76,34 @@ abstract:
     produce or manage information for users and applies to both printed, embedded,
     and mobile information. Much of its guidance is applicable to information for
     users of systems of hardware as well as software, systems, and services.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
-  - name: IEC
+  - name:
+    - ISO
+  - name:
+    - IEC
   from: '2018'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 24748-2.2012
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -112,5 +125,5 @@ keyword:
 - software
 - systems
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

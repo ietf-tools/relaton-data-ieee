@@ -1,12 +1,12 @@
 ---
 id: IEEE802-1AS.2011
 title:
-  type: main
+- type: main
   content: IEEE Standard for Local and Metropolitan Area Networks - Timing and Synchronization
     for Time-Sensitive Applications in Bridged Local Area Networks
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6099522
+- content: https://ieeexplore.ieee.org/document/6099522
   type: src
 type: standard
 docid:
@@ -23,29 +23,36 @@ date:
 - type: issued
   value: '2011-02-10'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-09-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard defines a protocol and procedures for the transport of timing
+- content: This standard defines a protocol and procedures for the transport of timing
     over bridged and virtual bridged local area networks. It includes the transport
     of synchronized time, the selection of the timing source (i.e., best master),
     and the indication of the occurrence and magnitude of timing impairments (i.e.,
     phase and frequency discontinuities).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2011'
@@ -60,7 +67,7 @@ relation:
     formattedref:
       content: IEEE 802-1AS.2020
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Testing
@@ -76,5 +83,5 @@ keyword:
 - syntonization
 - time-aware system
 ics:
-  code: 29.240.01
+- code: 29.240.01
   text: Power transmission and distribution networks in general

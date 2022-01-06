@@ -1,12 +1,12 @@
 ---
 id: IEEE1016.2009
 title:
-  type: main
+- type: main
   content: IEEE Standard for Information Technology--Systems Design--Software Design
     Descriptions
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5167255
+- content: https://ieeexplore.ieee.org/document/5167255
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2009-03-19'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-08-26'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The required information content and organization for software design descriptions
     (SDDs) are described. An SDD is a representation of a software design to be used
@@ -46,8 +50,10 @@ abstract:
     for conformant SDDs are specified. This standard is applicable to automated databases
     and design description languages but can be used for paper documents and other
     means of descriptions.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: This standard describes software designs and establishes the information
     content and organization of a software design description (SDD). An SDD is a representation
@@ -66,12 +72,15 @@ abstract:
     on the selection of design languages for use in an SDD. This standard can be applied
     to the preparation of SDDs captured as paper documents, automated databases, software
     development tools or other media.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2009'
@@ -89,5 +98,5 @@ keyword:
 - software design
 - software design description
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

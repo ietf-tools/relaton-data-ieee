@@ -1,12 +1,12 @@
 ---
 id: ISO/IEC/IEEE24748-1.2018
 title:
-  type: main
+- type: main
   content: ISO/IEC/IEEE International Standard - Systems and software engineering
     - Life cycle management - Part 1:Guidelines for life cycle management
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8526560
+- content: https://ieeexplore.ieee.org/document/8526560
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2018-09-27'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-11-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The purpose of this document is to facilitate the joint usage of the process
     content of the latest revisions of both ISO/IEC/IEEE 15288 and ISO/IEC/IEEE 12207,
@@ -49,8 +53,10 @@ abstract:
     for managing the progress of their project. Hence, ISO/IEC/IEEE 15288 and ISO/IEC/IEEE
     12207 are the documents that apply the concepts found in this document to specific
     processes.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: The purpose of this document is to facilitate the joint usage of the process
     content of the latest revisions of both ISO/IEC/IEEE 15288 and ISO/IEC/IEEE 12207,
@@ -62,27 +68,34 @@ abstract:
     for managing the progress of their project. Hence, ISO/IEC/IEEE 15288 and ISO/IEC/IEEE
     12207 are the documents that apply the concepts found in this document to specific
     processes.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
-  - name: IEC
+  - name:
+    - ISO
+  - name:
+    - IEC
   from: '2018'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 24748-1.2011
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -92,5 +105,5 @@ keyword:
 - ISO Standards
 - IEC Standards
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

@@ -1,12 +1,12 @@
 ---
 id: IEEE1450-2.2002
 title:
-  type: main
+- type: main
   content: IEEE Standard for Extensions to Standard Test Interface Language (STIL)
     (IEEE Std 1450-1999) for DC Level Specification
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1188779
+- content: https://ieeexplore.ieee.org/document/1188779
   type: src
 type: standard
 docid:
@@ -25,27 +25,34 @@ date:
 - type: issued
   value: '2002-12-11'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-03-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'Define structures in STIL for specifying the DC conditions for a device
+- content: 'Define structures in STIL for specifying the DC conditions for a device
     under test. Examples of the DC conditions for device power supplies are: device
     power supply setup, power sequencing to the device, power supply limit'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2003'
@@ -70,5 +77,5 @@ keyword:
 - slew rate
 - voltage clamp
 ics:
-  code: '35.060'
+- code: '35.060'
   text: Languages used in information technology

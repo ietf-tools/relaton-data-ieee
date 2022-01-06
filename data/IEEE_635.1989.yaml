@@ -1,11 +1,11 @@
 ---
 id: IEEE635.1989
 title:
-  type: main
+- type: main
   content: IEEE Guide for Selection and Design of Aluminum Sheaths for Power Cables
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/89704
+- content: https://ieeexplore.ieee.org/document/89704
   type: src
 type: standard
 docid:
@@ -24,30 +24,37 @@ date:
 - type: issued
   value: '1989-06-10'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Superseded by 635-2003. This standard outlines requirements and establishes
+- content: Superseded by 635-2003. This standard outlines requirements and establishes
     design guidelines for the selection of aluminum sheaths for extra-high, high,
     medium-, and low-voltage cables. It establishes basic installation parameters
     for aluminum-sheathed cables. It also provides references to industry standards
     and codes incorporating design and installation requirements of aluminum-sheathed
     cables.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1989'
@@ -59,15 +66,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 635.2003
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Aluminum
 - Design methodology
@@ -78,5 +87,5 @@ keyword:
 - Smooth aluminum sheath
 - Corrugated aluminum sheath
 ics:
-  code: 29.060.20
+- code: 29.060.20
   text: Cables

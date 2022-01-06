@@ -1,12 +1,12 @@
 ---
 id: ISO/IEC/IEEE26511
 title:
-  type: main
+- type: main
   content: ISO/IEC/IEEE International Standard - Systems and software engineering
     -- Requirements for managers of user documentation
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6170926
+- content: https://ieeexplore.ieee.org/document/6170926
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2012-02-06'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-10-17'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: ISO/IEC/IEEE 26511:2012 specifies procedures for managing user documentation
     throughout the software life cycle. It applies to people or organizations producing
@@ -57,8 +61,10 @@ abstract:
     to produce or manage documentation, and applies to both printed documentation
     and on-screen documentation. Much of its guidance is applicable to user documentation
     for systems including hardware as well as software.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: ISO/IEC/IEEE 26511:2012 specifies procedures for managing user documentation
     throughout the software life cycle. It applies to people or organizations producing
@@ -78,27 +84,34 @@ abstract:
     to produce or manage documentation, and applies to both printed documentation
     and on-screen documentation. Much of its guidance is applicable to user documentation
     for systems including hardware as well as software.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
-  - name: IEC
+  - name:
+    - ISO
+  - name:
+    - IEC
   from: '2012'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1063.2001
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE standards
@@ -111,5 +124,5 @@ keyword:
 - documentation management
 - documentation management plan
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

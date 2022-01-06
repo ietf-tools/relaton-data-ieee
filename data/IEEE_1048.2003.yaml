@@ -1,11 +1,11 @@
 ---
 id: IEEE1048.2003
 title:
-  type: main
+- type: main
   content: IEEE Guide for Protective Grounding of Power Lines
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1237558
+- content: https://ieeexplore.ieee.org/document/1237558
   type: src
 type: standard
 docid:
@@ -24,29 +24,36 @@ date:
 - type: issued
   value: '2003-03-20'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-12-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Guidelines for protective grounding methods for individuals engaged in
+- content: Guidelines for protective grounding methods for individuals engaged in
     de-energized overhead transmission and distribution line maintenance are provided.
     This guide also provides information on the sizing and maintenance of protective
     ground sets. It is a compilation of information on protective grounding practice
     employed by North American power utilities.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2003'
@@ -58,15 +65,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1048.2016
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Grounding
@@ -78,5 +87,5 @@ keyword:
 - safety
 - testing and maintenance protective grounds
 ics:
-  code: 29.240.20
+- code: 29.240.20
   text: Power transmission and distribution lines

@@ -10,7 +10,7 @@ title:
     Generating Units - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6042284
+- content: https://ieeexplore.ieee.org/document/6042284
   type: src
 type: standard
 docid:
@@ -29,17 +29,21 @@ date:
 - type: issued
   value: '2011-05-16'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-08-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: This guide is intended to complement IEEE Std 125&#x2122;, providing application
     details and addressing the impact of plant and system features on hydroelectric
@@ -48,8 +52,10 @@ abstract:
     the electric utility industry of the importance in the effective application of
     governing systems for dynamic stability. The need exists to provide guidance in
     the effective governing system application for a better understanding among users.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: This guide is intended to complement IEEE Std 125, providing application
     details and addressing the impact of plant and system features on hydroelectric
@@ -58,25 +64,30 @@ abstract:
     the electric utility industry of the importance in the effective application of
     governing systems for dynamic stability. The need exists to provide guidance in
     the effective governing system application for a better understanding among users.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2011'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1207.2004
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE standards
@@ -91,5 +102,5 @@ keyword:
 - speed
 - stability
 ics:
-  code: '27.140'
+- code: '27.140'
   text: Hydraulic energy engineering

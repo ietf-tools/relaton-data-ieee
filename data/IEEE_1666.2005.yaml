@@ -1,11 +1,11 @@
 ---
 id: IEEE1666.2005
 title:
-  type: main
+- type: main
   content: IEEE Standard SystemC(R) Language Reference Manual
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1617814
+- content: https://ieeexplore.ieee.org/document/1617814
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '2005-12-07'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-05-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: SystemC(R) is defined in this standard. SystemC(R) is an ANSI standard
+- content: SystemC(R) is defined in this standard. SystemC(R) is an ANSI standard
     C++ class library for system and hardware design for use by designers and architects
     who need to address complex systems that are a hybrid between hardware and software.
     This standard provides a precise and complete definition of the SystemC(R) class
@@ -47,22 +51,25 @@ abstract:
     to view and download the current individual IEEE standard at no charge in PDF
     format thanks to the Open System C Initiative. Visit http://standards.ieee.org/about/get/index.html
     for details.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2006'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1666.2011
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Patents
@@ -87,5 +94,5 @@ keyword:
 - system-on-chip
 - transaction level
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

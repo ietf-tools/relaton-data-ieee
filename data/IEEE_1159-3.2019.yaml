@@ -1,11 +1,11 @@
 ---
 id: IEEE1159-3.2019
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for Power Quality Data Interchange Format (PQDIF)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8697192
+- content: https://ieeexplore.ieee.org/document/8697192
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '2019-02-08'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-23'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: A file format suitable for exchanging power quality related measurement
     and simulation data in a vendor independent manner is defined in this recommended
@@ -47,8 +51,10 @@ abstract:
     scheme to help reduce disk space and transmission times. The utilization of Globally
     Unique Identifiers (GUID) to represent each element in the file permits the format
     to be extensible without the need for a central registration authority.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: A file format suitable for exchanging power quality related measurement
     and simulation data in a vendor independent manner is defined in this recommended
@@ -59,12 +65,15 @@ abstract:
     scheme to help reduce disk space and transmission times. The utilization of Globally
     Unique Identifiers (GUID) to represent each element in the file permits the format
     to be extensible without the need for a central registration authority.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2019'
@@ -83,5 +92,5 @@ keyword:
 - power quality
 - PQDIF
 ics:
-  code: 29.240.01
+- code: 29.240.01
   text: Power transmission and distribution networks in general

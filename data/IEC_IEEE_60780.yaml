@@ -1,12 +1,12 @@
 ---
 id: IEC/IEEE60780
 title:
-  type: main
+- type: main
   content: IEC/IEEE International Standard - Nuclear facilities -- Electrical equipment
     important to safety -- Qualification
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7425113
+- content: https://ieeexplore.ieee.org/document/7425113
   type: src
 type: standard
 docid:
@@ -27,19 +27,23 @@ date:
 - type: issued
   value: '2016-01-29'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-03-03'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This International Standard describes the basic requirements for qualifying
+- content: This International Standard describes the basic requirements for qualifying
     Class 1E electrical equipment important to safety and interfaces (electrical and
     mechanical) that are to be used in nuclear power generating stations facilities.
     The principles, methods, and procedures described are intended to be used for
@@ -49,26 +53,32 @@ abstract:
     safety function(s) under applicable service conditions, including design basis
     events and reducing certain design extension conditions, and reduce the risk of
     environmentally induced common-cause equipment failure.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: IEC
+  - name:
+    - IEC
   from: '2016'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 323.2003
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEC Standards
@@ -94,5 +104,5 @@ keyword:
 - significant aging mechanism
 - test plan
 ics:
-  code: 27.120.99
+- code: 27.120.99
   text: Other standards related to nuclear energy

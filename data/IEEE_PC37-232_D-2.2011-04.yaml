@@ -1,12 +1,12 @@
 ---
 id: IEEEPC37-232/D-2.2011-04
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for Common Format for Naming Time Sequence Data Files
     (COMNAME)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5966390
+- content: https://ieeexplore.ieee.org/document/5966390
   type: src
 type: standard
 docid:
@@ -23,18 +23,22 @@ date:
 - type: issued
   value: '2011-07-27'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
-language: en
-script: Latn
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
 abstract:
-  content: A standard procedure for 1 naming time sequence data (TSD) files, such
+- content: A standard procedure for 1 naming time sequence data (TSD) files, such
     as files produced by digital fault recorders, power swing recorders, power quality
     monitors, and so on is specified. The sources of TSD files are described, and
     a survey of current naming techniques is provided. The advantages of using a common
@@ -42,12 +46,15 @@ abstract:
     Issues of compatibility across operating systems and various vintages, and adaptability
     to other types of files are also discussed. The required and optional portions
     of the naming procedure are described in detail, and many examples areprovided.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2011'
@@ -77,5 +84,5 @@ keyword:
 - TSD
 - user fields
 ics:
-  code: '29.180'
+- code: '29.180'
   text: Character sets and information coding

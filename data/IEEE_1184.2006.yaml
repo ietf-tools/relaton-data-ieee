@@ -1,11 +1,11 @@
 ---
 id: IEEE1184.2006
 title:
-  type: main
+- type: main
   content: IEEE Guide for Batteries for Uninterruptible Power Supply Systems
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9128117
+- content: https://ieeexplore.ieee.org/document/9128117
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '2006-03-30'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-06-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: Various battery systems are discussed so that the user can make informed
     decisions on selection, installation design, installation, maintenance, and testing
@@ -45,8 +49,10 @@ abstract:
     relate to the selection of the battery systems. Design requirements of the UPS
     components are beyond the scope of this document. Battery back-up systems for
     dc-output rectifiers are also beyond the scope of this document.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Various battery systems are discussed so that the user can make informed
     decisions on selection, installation design, installation, maintenance, and testing
@@ -55,25 +61,30 @@ abstract:
     relate to the selection of the battery systems. Design requirements of the UPS
     components are beyond the scope of this document. Battery back-up systems for
     dc-output rectifiers are also beyond the scope of this document.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2006'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1184.1994
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -90,5 +101,5 @@ keyword:
 - valve-regulated leadacid (VRLA)
 - vented lead-acid batteries (VLA)
 ics:
-  code: 29.160.20
+- code: 29.160.20
   text: Generators

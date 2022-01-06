@@ -1,12 +1,12 @@
 ---
 id: IEEE1003-1.2008
 title:
-  type: main
+- type: main
   content: IEEE Standard for Information Technology - Portable Operating System Interface
     (POSIX(R))
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/4694976
+- content: https://ieeexplore.ieee.org/document/4694976
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2008-09-26'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-26'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: 'POSIX.1-2008 is simultaneously IEEE Std 1003.1 -2008 and The Open Group
     Technical Standard Base Specifications, Issue 7. POSIX. 1-2008 defines a standard
@@ -64,8 +68,10 @@ abstract:
     internal construction techniques employed to achieve these capabilities. Special
     emphasis is placed on those functions and facilities that are needed in a wide
     variety of commercial applications.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: This standard is simultaneously ISO/IEC 9945, IEEE Std 1003.1, and forms
     the core of the Single Unix Specification, Version 3. This 2004 edition includes
@@ -77,12 +83,15 @@ abstract:
     revision to IEEE Std 1003.1-1996, IEEE Std 1003.2-1992, ISO/IEC 9945-1:1996, ISO/IEC
     9945-2:1993, and the Base Specifications of The Open Group Single UNIX&#174; Specification,
     Version 2.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2008'
@@ -94,15 +103,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: ISO/IEC/IEEE 9945.2009
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Standards
@@ -139,5 +150,5 @@ keyword:
 - thread
 - X/Open System Interface (XSI)
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

@@ -1,12 +1,12 @@
 ---
 id: IEEEP802-15-4s/D-07.2017-10
 title:
-  type: main
+- type: main
   content: 'IEEE Draft Standard for Low-Rate Wireless Networks: Amendment Enabling
     Spectrum Resource Measurement Capability'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8088378
+- content: https://ieeexplore.ieee.org/document/8088378
   type: src
 type: standard
 docid:
@@ -23,45 +23,54 @@ date:
 - type: issued
   value: '2018-02-15'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-27'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Definitions of MAC related functions to enable spectrum resource management
+- content: Definitions of MAC related functions to enable spectrum resource management
     are addressed in this amendment to IEEE Std 802.15.4(TM). It specifies the following:--
     Spectrum resource measurements and network performance metrics, such as packet
     error ratio, delay, etc.-- Information elements and data structures to capture
     these measurements,-- Procedures for collecting and exchanging spectrum resource
     measurement information with higher layers or other devices.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2017'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-15-4.2015
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Resource management
@@ -73,5 +82,5 @@ keyword:
 - spectrum resource measurement
 - transmit power control
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

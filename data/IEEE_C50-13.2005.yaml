@@ -1,12 +1,12 @@
 ---
 id: IEEEC50-13.2005
 title:
-  type: main
+- type: main
   content: IEEE Standard for Cylindrical-Rotor 50 Hz and 60 Hz Synchronous Generators
     Rated 10 MVA and Above
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1597615
+- content: https://ieeexplore.ieee.org/document/1597615
   type: src
 type: standard
 docid:
@@ -25,30 +25,37 @@ date:
 - type: issued
   value: '2005-09-22'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-09-20'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The requirements in this standard are applied to 50 Hz and 60 Hz, two-pole
+- content: The requirements in this standard are applied to 50 Hz and 60 Hz, two-pole
     and four-pole, cylindrical-rotor synchronous generators driven by steam turbines
     and/or by combustion gas turbines. The drive may be direct or through a gearbox
     or other device that permits different speeds for the turbine and the generator.
     The generators covered by this standard are to have rated outputs of 10 MVA and
     above.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2006'
@@ -60,15 +67,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE C50-13.2014
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Synchronous generators
@@ -84,5 +93,5 @@ keyword:
 - synchronous generator
 - turbine generator
 ics:
-  code: 29.160.20
+- code: 29.160.20
   text: Generators

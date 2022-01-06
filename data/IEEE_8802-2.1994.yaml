@@ -1,13 +1,13 @@
 ---
 id: IEEE8802-2.1994
 title:
-  type: main
+- type: main
   content: 'ISO/IEC/IEEE International Standard - Information Technology - Telecommunications
     and information exchange between systems - Local and metropolitan area networks
     - Specific requirements - Part 2: Logical link control'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/4140828
+- content: https://ieeexplore.ieee.org/document/4140828
   type: src
 type: standard
 docid:
@@ -26,19 +26,23 @@ date:
 - type: issued
   value: '1994'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-01-06'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The functions, features, protocol, and services of the Logical Link Control
+- content: The functions, features, protocol, and services of the Logical Link Control
     (LLC) sublayer, which constitutes the top sublayer in the data link layer of the
     ISO/IEC 8802 Local Area Network Protocol, are described. The services required
     of, or by, the LLC sublayer at the logical interfaces with the network layer,
@@ -53,25 +57,30 @@ abstract:
     of a data link connection, but stations are permitted to both send data and request
     the return of data simultaneously. Incorporating IEEE Stds 802.2-1989, 802.2a-1993,
     802.2b-1993, 802.2d-1993, 802.2e-1993, and 802.5p-1993.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1994'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: ISO 8802-2
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - ISO Standards

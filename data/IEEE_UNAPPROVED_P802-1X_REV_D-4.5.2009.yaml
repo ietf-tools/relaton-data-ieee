@@ -1,12 +1,12 @@
 ---
 id: IEEEUnapprovedP802-1X_REV/D-4.5.2009
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for Local and Metropolitan Area Networks-Port-based
     Network Access Control
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5286954
+- content: https://ieeexplore.ieee.org/document/5286954
   type: src
 type: standard
 docid:
@@ -16,21 +16,25 @@ docid:
   type: ISBN
 docnumber: IEEE Unapproved P802-1X_REV/D-4.5.2009
 date:
-  type: created
+- type: created
   value: '2009'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
-language: en
-script: Latn
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Port-based network access control allows a network administrator to restrict
+- content: Port-based network access control allows a network administrator to restrict
     the use of IEEE 802 LAN service access points (ports) to secure communication
     between authenticated and authorized devices. This standard specifies a common
     architecture, functional elements, and protocols that support mutual authentication
@@ -38,12 +42,15 @@ abstract:
     between the ports, including the media access method independent protocols that
     are used to discover and establish the security associations used by IEEE Std
     802.1AE MAC Security.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2009'
@@ -65,5 +72,5 @@ keyword:
 - key agreement
 - secure association.
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

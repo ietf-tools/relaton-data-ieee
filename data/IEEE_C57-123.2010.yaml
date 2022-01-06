@@ -1,11 +1,11 @@
 ---
 id: IEEEC57-123.2010
 title:
-  type: main
+- type: main
   content: IEEE Guide for Transformer Loss Measurement
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5538198
+- content: https://ieeexplore.ieee.org/document/5538198
   type: src
 type: standard
 docid:
@@ -26,37 +26,46 @@ date:
 - type: issued
   value: '2010-06-17'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-08-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: Information and general recommendations of instrumentation, circuitry,
     calibration, and measurement techniques of no-load losses (excluding auxiliary
     losses), excitation current, and load losses of power and distribution transformers
     are provided. The guide is intended as a complement to the test code procedures
     given in Clause 8 and Clause 9 of IEEE Std C57.12.90&#x2122;.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Information and general recommendations of instrumentation, circuitry,
     calibration, and measurement techniques of no-load losses (excluding auxiliary
     losses), excitation current, and load losses of power and distribution transformers
     are provided. The guide is intended as a complement to the test code procedures
     given in Clause 8 and Clause 9 of IEEE Std C57.12.90.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2011'
@@ -73,15 +82,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE C57-123.2019
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Loss measurement
@@ -94,5 +105,5 @@ keyword:
 - testing
 - transformers
 ics:
-  code: '29.180'
+- code: '29.180'
   text: Transformers. Reactors

@@ -1,12 +1,12 @@
 ---
 id: IEEE1660.2008
 title:
-  type: main
+- type: main
   content: IEEE Guide for Application and Management of Stationary Batteries Used
     in Cycling Service
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/4690900
+- content: https://ieeexplore.ieee.org/document/4690900
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2008-09-26'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-02-06'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: 'A stationary battery can be operated in two basic modes: 1) standby (or
     float) and 2) cycling. Many standards developed for standby stationary applications
@@ -46,8 +50,10 @@ abstract:
     of why and how their different operation and maintenance practices should be managed.
     The guide is primarily informational and is not intended to provide specific recommendations
     for battery management in cycling applications.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: This guide provides information on the differences between stationary standby
     and stationary cycling applications and appropriate battery management strategies
@@ -55,22 +61,25 @@ abstract:
     is also provided on alternative and emerging storage technologies. The management
     of battery systems in stationary standby service is covered in other IEEE documents
     and is beyond the scope of this guide.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2008'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1660.2018
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Batteries
@@ -84,5 +93,5 @@ keyword:
 - standby battery
 - stationary battery
 ics:
-  code: 29.220.01
+- code: 29.220.01
   text: Galvanic cells and batteries in general

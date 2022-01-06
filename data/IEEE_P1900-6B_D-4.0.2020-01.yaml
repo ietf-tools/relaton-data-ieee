@@ -1,13 +1,13 @@
 ---
 id: IEEEP1900-6b/D-4.0.2020-01
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for Spectrum Sensing Interfaces and Data Structures
     for Dynamic Spectrum Access and other Advanced Radio Communication Systems. Spectrum
     Database Interfaces Amendment
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9001293
+- content: https://ieeexplore.ieee.org/document/9001293
   type: src
 type: standard
 docid:
@@ -24,45 +24,54 @@ date:
 - type: issued
   value: '2020'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-02-18'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This amendment to IEEE Std 1900.6-2011 adds procedures, protocols, and
+- content: This amendment to IEEE Std 1900.6-2011 adds procedures, protocols, and
     message format specifications for the exchange of sensing related data, control
     data, and configuration data between spectrum sensors and spectrum databases.
     In addition, it adds specifications for the exchange of sensing related data between
     the data archive and spectrum databases, and the cognitive engine and spectrum
     databases.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2020'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1900-6.2011
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Sensors
@@ -73,5 +82,5 @@ keyword:
 - spectrum database
 - interface
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

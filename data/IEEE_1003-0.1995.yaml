@@ -1,11 +1,11 @@
 ---
 id: IEEE1003-0.1995
 title:
-  type: main
+- type: main
   content: IEEE Guide to the POSIX Open System Environment (OSE)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8685834
+- content: https://ieeexplore.ieee.org/document/8685834
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1995-05-02'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-09'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This guide presents an overview of open system concepts and their applications.
+- content: This guide presents an overview of open system concepts and their applications.
     Information is provided to persons evaluating systems based on the existence of,
     and interrelationships among, application software standards, with the objective
     of enabling application portability and system interoperability. A framework is
@@ -47,12 +51,15 @@ abstract:
     POSIX¨ Open System Environment services are not currently being addressed by formal
     standards. Finally, the concept of a profile is discussed with examples from several
     application domains.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1995'
@@ -73,5 +80,5 @@ keyword:
 - application portability
 - application interoperability
 ics:
-  code: 01.040.11
+- code: 01.040.11
   text: Health care technology (Vocabularies)

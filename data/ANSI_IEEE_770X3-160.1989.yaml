@@ -1,11 +1,11 @@
 ---
 id: ANSI/IEEE770X3-160.1989
 title:
-  type: main
+- type: main
   content: IEEE/ANSI Standard for the Programming Language Extended Pascal
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/159330
+- content: https://ieeexplore.ieee.org/document/159330
   type: src
 type: standard
 docid:
@@ -24,29 +24,36 @@ date:
 - type: issued
   value: '1989-12-06'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2012-06-04'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The standard provides an unambiguous and machine-independent definition
+- content: The standard provides an unambiguous and machine-independent definition
     of the computer programming language Extended Pascal by specifying requirements
     for a processor and for a conforming program. Its purpose is to facilitate portability
     of Extended Pascal programs for use on a wide variety of data processing systems.
     Two levels of compliance are defined for both processors and programs.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1990'
@@ -60,5 +67,5 @@ keyword:
 - data processing systems
 - programming
 ics:
-  code: '35.060'
+- code: '35.060'
   text: Languages used in information technology

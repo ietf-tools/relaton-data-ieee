@@ -1,12 +1,12 @@
 ---
 id: IEEE1068.2009
 title:
-  type: main
+- type: main
   content: IEEE Standard for the Repair and Rewinding of AC Electric Motors in the
     Petroleum, Chemical, and Process Industries
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5434820
+- content: https://ieeexplore.ieee.org/document/5434820
   type: src
 type: standard
 docid:
@@ -25,31 +25,38 @@ date:
 - type: issued
   value: '2009-12-09'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-10-09'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard is intended to be a basic or primary document that can be
+- content: This standard is intended to be a basic or primary document that can be
     utilized and referenced by owners of ac motors and generators (machines) that
     need refurbishment, repair, and/or rewinding, as well as service or repair facilities.
     It has been developed for the petroleum, chemical, and process industries, and
     it may be adapted to other areas of interest. The use of this standard is expected
     to result in higher quality and more cost effective, and timely repairs. A means
     of evaluating work performed and repair or service facilities is also provided.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2010'
@@ -61,15 +68,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1068.2015
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Maintenance engineering
@@ -86,5 +95,5 @@ keyword:
 - service facility
 - synchronous
 ics:
-  code: 29.160.30
+- code: 29.160.30
   text: Motors

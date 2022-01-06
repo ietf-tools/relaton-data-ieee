@@ -1,11 +1,11 @@
 ---
 id: IEEE1194.1991
 title:
-  type: main
+- type: main
   content: IEEE Standard for Backplane Electrical Performance
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/159183
+- content: https://ieeexplore.ieee.org/document/159183
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1991-04-05'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-09'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The proper treatment of the electrical elements of the backplane that provides
+- content: The proper treatment of the electrical elements of the backplane that provides
     a physical and electrical connection between different modules in a computer system
     is covered. Techniques for measuring impedance, capacitance, and crosstalk are
     provided; and crosstalk, ground bounce, and decoupling are discussed. Relationships
@@ -44,12 +48,15 @@ abstract:
     characteristics, the distance of the driver and receiver from the backplane, the
     impedance of the bus traces treated as transmission lines, lumped elements such
     as connectors and vias, and the termination are examined.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1991'
@@ -65,5 +72,5 @@ keyword:
 - medium-performance backplanes
 - transmission lines
 ics:
-  code: '35.160'
+- code: '35.160'
   text: Microprocessor systems

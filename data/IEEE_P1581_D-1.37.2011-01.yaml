@@ -1,12 +1,12 @@
 ---
 id: IEEEP1581/D-1.37.2011-01
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for Static Component Interconnection Test Protocol
     and Architecture
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5719638
+- content: https://ieeexplore.ieee.org/document/5719638
   type: src
 type: standard
 docid:
@@ -23,30 +23,37 @@ date:
 - type: issued
   value: '2011-02-21'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
-language: en
-script: Latn
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
 abstract:
-  content: IEEE Std 1581 defines a low-cost method for testing the interconnection
+- content: IEEE Std 1581 defines a low-cost method for testing the interconnection
     of discrete, complex memory Integrated Circuits (ICs) where additional pins for
     testing are not available and implementing Boundary-Scan (IEEE 1149.1) is not
     feasible. This standard describes the implementation rules for the test logic
     and test mode access/exit methods in compliant ICs. The standard is limited to
     the behavioral description of the implementation and will not include the technical
     design for the test logic or test mode control circuitry.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2010'
@@ -64,5 +71,5 @@ keyword:
 - test mode
 - transparent test mode
 ics:
-  code: '31.200'
+- code: '31.200'
   text: Integrated circuits. Microelectronics

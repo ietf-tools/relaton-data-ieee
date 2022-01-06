@@ -1,11 +1,11 @@
 ---
 id: IEEE1388.2000
 title:
-  type: main
+- type: main
   content: IEEE Standard for the Electronic Reporting of Transformer Test Data
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/898185
+- content: https://ieeexplore.ieee.org/document/898185
   type: src
 type: standard
 docid:
@@ -24,39 +24,46 @@ date:
 - type: issued
   value: '2000-12-07'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Superseded by IEEE Std C57.12.37-2006 A basis for the electronic reporting
+- content: Superseded by IEEE Std C57.12.37-2006 A basis for the electronic reporting
     of transformer test data on liquid immersed distribu-tion transformers as defined
     in the ANSI C57.12.2X standards series is provided. The specific setof test data
     to be reported and the format in which it is to be reported is detailed along
     with an ex-tended set of data as an option for the user.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2001'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE C57-12-37.2006
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Patents
@@ -67,5 +74,5 @@ keyword:
 - electronic reporting
 - test data
 ics:
-  code: '29.180'
+- code: '29.180'
   text: Transformers. Reactors

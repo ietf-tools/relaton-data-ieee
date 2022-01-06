@@ -1,13 +1,13 @@
 ---
 id: IEEE841.2021
 title:
-  type: main
+- type: main
   content: IEEE Standard for Petroleum and Chemical Industry--Premium-Efficiency,
     Severe-Duty, Totally Enclosed Squirrel Cage Induction Motors from 0.75 kW to 370
     kW (1 hp to 500 hp)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9444261
+- content: https://ieeexplore.ieee.org/document/9444261
   type: src
 type: standard
 docid:
@@ -26,19 +26,23 @@ date:
 - type: issued
   value: '2021-03-25'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-05-28'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard applies to premium-efficiency totally enclosed fan-cooled
+- content: This standard applies to premium-efficiency totally enclosed fan-cooled
     (TEFC) and totally enclosed nonventilated (TENV), horizontal and vertical, single-speed,
     squirrel cage polyphase induction motors, 0.75 kW to 370 kW (1 hp to 500 hp),
     and up to 4000 V nominal, in National Electrical Manufacturers Association (NEMA)
@@ -46,25 +50,30 @@ abstract:
     (commonly referred to as premium-efficiency severe-duty motors). Excluded from
     the scope of this standard are motors with sleeve bearings and additional specific
     features required for explosion-proof motors.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2021'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 841.2009
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -82,5 +91,5 @@ keyword:
 - totally enclosed air over (TEAO) motors
 - totally enclosed nonventilated (TENV) motors
 ics:
-  code: 29.160.30
+- code: 29.160.30
   text: Motors

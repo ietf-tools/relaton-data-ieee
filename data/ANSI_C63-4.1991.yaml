@@ -1,13 +1,13 @@
 ---
 id: ANSIC63-4.1991
 title:
-  type: main
+- type: main
   content: American National Standard for Methods of Measurement of Radio-Noise Emissions
     from Low-Voltage Electrical and Electronic Equipment in the Range of 9 kHz to
     40 GHz
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/159236
+- content: https://ieeexplore.ieee.org/document/159236
   type: src
 type: standard
 docid:
@@ -26,19 +26,23 @@ date:
 - type: issued
   value: '1991'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: ANSI C63.4-1991, American National Standard Methods of Measurement of Radio-Noise
+- content: ANSI C63.4-1991, American National Standard Methods of Measurement of Radio-Noise
     Emissions From Low-Voltage Electrical and Electronic Equipment in the Range of
     9 kHz to 40 GHz, sets forth uniform methods of measurement of radio noise emitted
     from low-voltage electrical and electronic equipment, including digital and other
@@ -46,22 +50,25 @@ abstract:
     GHz. Methods for the measurement of radiated and power-line-conducted radio noise
     are covered and may be applied to any such equipment unless otherwise specified
     by individual equipment requirements.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1991'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: ANSI C63-4.1992
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Noise measurement
 - Electromagnetic radiative interference
@@ -85,5 +92,5 @@ keyword:
 - site attenuation
 - unintentional radiators.
 ics:
-  code: 33.100.20
+- code: 33.100.20
   text: Immunity

@@ -1,13 +1,13 @@
 ---
 id: IEEE404.1993
 title:
-  type: main
+- type: main
   content: IEEE Standard for Cable Joints for Use With Extruded Dielectric Cable Rated
     5000-138 000 V and Cable Joints for Use With Laminated Dielectric Cable Rated
     2500-500 000 V
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/392625
+- content: https://ieeexplore.ieee.org/document/392625
   type: src
 type: standard
 docid:
@@ -26,19 +26,23 @@ date:
 - type: issued
   value: '1993-12-02'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'SUPERSEDED BY 404-2000 / NOT AVAILABLE TO RESELLERS. Errata sheet is available
+- content: 'SUPERSEDED BY 404-2000 / NOT AVAILABLE TO RESELLERS. Errata sheet is available
     online: http://standards.ieee.org/findstds/errata/404-1993.pdf This standard establishes
     electrical ratings and test requirements for cable joints for use with extruded
     dielectric shielded cable rated in preferred voltage steps from 5000--138 000
@@ -47,12 +51,15 @@ abstract:
     constructions. This standard is designed to provide uniform testing procedures
     that can be used by manufacturers and users to evaluate the ability of underground
     power cable joints to perform reliably in service.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1994'
@@ -64,15 +71,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 404.2000
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Cable shielding
@@ -90,5 +99,5 @@ keyword:
 - Extruded dielectric cable
 - Dielectric integrity tests
 ics:
-  code: 29.120.20
+- code: 29.120.20
   text: Connecting devices

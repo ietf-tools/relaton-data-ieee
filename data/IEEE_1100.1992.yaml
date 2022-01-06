@@ -1,12 +1,12 @@
 ---
 id: IEEE1100.1992
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for Powering and Grounding Sensitive Electronic
     Equipment
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/223448
+- content: https://ieeexplore.ieee.org/document/223448
   type: src
 type: standard
 docid:
@@ -25,38 +25,45 @@ date:
 - type: issued
   value: '1992-06-18'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-01-17'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Superseded by IEEE Std 1100-1999. Recommended design, installation, and
+- content: Superseded by IEEE Std 1100-1999. Recommended design, installation, and
     maintenance practices for electrical power and grounding (including both power-
     related and signal-related noise control) of sensitive electronic processing equipment
     used in commercial and industrial applications are presented.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1992'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1100.1999
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Grounding
 - Maintenance
@@ -69,5 +76,5 @@ keyword:
 - Electrical power
 - Commercial applications
 ics:
-  code: '31.020'
+- code: '31.020'
   text: Electronic components in general

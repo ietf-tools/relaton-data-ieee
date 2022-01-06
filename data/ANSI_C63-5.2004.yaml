@@ -1,13 +1,13 @@
 ---
 id: ANSIC63-5.2004
 title:
-  type: main
+- type: main
   content: American National Standard for Electromagnetic Compatibility Radiated Emission
     Measurements in Electromagnetic Interference (EMI) Control Calibration of Antennas
     (9 kHz to 40 GHz)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1389296
+- content: https://ieeexplore.ieee.org/document/1389296
   type: src
 type: standard
 docid:
@@ -26,19 +26,23 @@ date:
 - type: issued
   value: '2004'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-06-20'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Methods for determining antenna factors of antennas used for radiated emission
+- content: Methods for determining antenna factors of antennas used for radiated emission
     measurements of electromagnetic interference (EMI) from 9 kHz to 40 GHz are provided.
     Antennas included are linearly polarized antennas such as loops, rods (monopoles),
     tuned dipoles, biconical dipoles, log-periodic dipole arrays, hybrid linearly
@@ -46,25 +50,30 @@ abstract:
     by ANSI C63.4-2001. The methods include standard site (i.e. 3-antenna), reference
     antenna, equivalent capacitance substitution, standard transmitting loop, standard
     antenna, and standard field methods.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2004'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: ANSI C63-5.1998
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - Antenna measurements
@@ -82,5 +91,5 @@ keyword:
 - standard site
 - standard transmitting loop
 ics:
-  code: 33.100.10
+- code: 33.100.10
   text: Emission

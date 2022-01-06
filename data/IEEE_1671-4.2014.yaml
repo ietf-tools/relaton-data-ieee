@@ -1,11 +1,11 @@
 ---
 id: IEEE1671-4.2014
 title:
-  type: main
+- type: main
   content: IEEE Standard for Automatic Test Markup Language (ATML) Test Configuration
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6808402
+- content: https://ieeexplore.ieee.org/document/6808402
   type: src
 type: standard
 docid:
@@ -26,46 +26,57 @@ date:
 - type: issued
   value: '2014-03-27'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-04-30'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: An exchange format is specified in this standard, using extensible markup
     language (XML), for identifying the test configuration used to test for and diagnose
     faults of a unit under test (UUT) on an automatic test system (ATS).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: An exchange format is specified in this standard, using extensible markup
     language (XML), for identifying the test configuration used to test for and diagnose
     faults of a unit under test (UUT) on an automatic test system (ATS).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2014'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1671-4.2007
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE standards
@@ -82,5 +93,5 @@ keyword:
 - test configuration
 - XML schema
 ics:
-  code: 35.240.30
+- code: 35.240.30
   text: IT applications in information, documentation and publishing

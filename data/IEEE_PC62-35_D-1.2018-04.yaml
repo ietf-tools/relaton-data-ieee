@@ -1,12 +1,12 @@
 ---
 id: IEEEPC62-35/D-1.2018-04
 title:
-  type: main
+- type: main
   content: IEEE Approved Draft Standard Test Methods for Avalanche Junction Semiconductor
     Surge-Protective Device Components - Corrigendum 1
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8400604
+- content: https://ieeexplore.ieee.org/document/8400604
   type: src
 type: standard
 docid:
@@ -23,19 +23,23 @@ date:
 - type: issued
   value: '2018-12-05'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-06-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Avalanche breakdown diodes used for surge protection on systems with voltages
+- content: Avalanche breakdown diodes used for surge protection on systems with voltages
     equal to or less than 1000 V rms or 1200 V dc are discussed in this standard.
     The avalanche breakdown diode surge suppressor is a semiconductor diode that can
     operate in either the forward or reverse direction of its V-I characteristic.
@@ -45,27 +49,32 @@ abstract:
     and verifying ratings of these avalanche breakdown diodes. If the characteristics
     differ with the direction of conduction, then each direction of conduction shall
     be separately specified.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2018'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE C62-35
       format: text/plain
   description:
     content: corrects
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Surge protection
@@ -96,5 +105,5 @@ keyword:
 - TVS
 - zener
 ics:
-  code: 29.120.50
+- code: 29.120.50
   text: Fuses and other overcurrent protection devices

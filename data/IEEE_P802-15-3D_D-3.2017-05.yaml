@@ -1,7 +1,7 @@
 ---
 id: IEEEP802-15-3d/D-3.2017-05
 title:
-  type: main
+- type: main
   content: 'IEEE Draft Standard for Information technology-- Local and metropolitan
     area networks-- Specific requirements-- Part 15.3: Wireless Medium Access Control
     (MAC) and Physical Layer (PHY) Specifications for High Rate Wireless Personal
@@ -9,7 +9,7 @@ title:
     physical layer'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7932244
+- content: https://ieeexplore.ieee.org/document/7932244
   type: src
 type: standard
 docid:
@@ -26,28 +26,35 @@ date:
 - type: issued
   value: '2017-09-28'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-05-19'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: An alternative physical layer (PHY) at the lower THz frequency range between
+- content: An alternative physical layer (PHY) at the lower THz frequency range between
     252 GHz and 325 GHz for switched point-to-point links is defined in this amendment.
     Two PHY modes are defined that enable data rates of up to 100 Gb/s using eight
     different bandwidths between 2.16 GHz and 69.12 GHz.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2017'
@@ -69,5 +76,5 @@ keyword:
 - THz
 - wireless
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

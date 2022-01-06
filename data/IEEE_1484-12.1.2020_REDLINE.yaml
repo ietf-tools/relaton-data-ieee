@@ -8,7 +8,7 @@ title:
   content: IEEE Standard for Learning Object Metadata - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9352670
+- content: https://ieeexplore.ieee.org/document/9352670
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '2020-09-24'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-02-10'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: A conceptual data schema that defines the structure of a metadata instance
+- content: A conceptual data schema that defines the structure of a metadata instance
     for a learning object is specified in this standard. For this standard, a learning
     object is defined as any entity, digital or non-digital, that is used for learning,
     education, or training; a metadata instance for a learning object describes relevant
@@ -54,25 +58,30 @@ abstract:
     is to specify a base schema, which can be used to build on as practice develops,
     for instance in order to facilitate automatic, adaptive scheduling of learning
     objects by software agents.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2020'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1484-12-1.2002
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -92,5 +101,5 @@ keyword:
 - schema
 - vocabulary
 ics:
-  code: 35.240.99
+- code: 35.240.99
   text: IT applications in other fields

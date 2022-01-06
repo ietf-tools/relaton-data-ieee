@@ -1,12 +1,12 @@
 ---
 id: IEEE484.2002
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for Installation Design and Installation of Vented
     Lead-Acid Batteries for Stationary Applications
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1186714
+- content: https://ieeexplore.ieee.org/document/1186714
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '2002-09-12'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-07-22'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard provides general requirements, direction, and methods for
+- content: This standard provides general requirements, direction, and methods for
     qualifying Class1E electric cables, field splices, factory splices, and factory
     rework for service in nuclear power generating stations. Categories of cables
     covered are those used for power, control, and instrumentation services, including
@@ -47,12 +51,15 @@ abstract:
     requirements in the applicable device standard or IEEE Std 323-1983, as appropriate.
     However, this standard's requirements may be applied to the wire and cable within
     these devices.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2003'
@@ -64,15 +71,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 484.2019
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - alarms
 - assembly
@@ -87,5 +96,5 @@ keyword:
 - mounting
 - precautions
 ics:
-  code: 29.220.20
+- code: 29.220.20
   text: Acid secondary cells and batteries

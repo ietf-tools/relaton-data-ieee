@@ -1,12 +1,12 @@
 ---
 id: IEC62525
 title:
-  type: main
+- type: main
   content: "(IEEE Std 1450-1999) International Standard Test Interface Language (STIL)
     for Digital Test Vector Data"
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/4432411
+- content: https://ieeexplore.ieee.org/document/4432411
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2007'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-05-03'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: 'Standard test interface language (STIL) provides an interface between
     digital test generation tools and test equipment. A test description language
@@ -45,8 +49,10 @@ abstract:
     CAE to ATE environments; (b) specifies pattern, format, and timing information
     sufficient to define the application of digital test vectors to a DUT; and (c)
     supports the volume of test vector data generated from structured tests.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: 'Standard Test Interface Language (STIL) provides an interface between
     digital test generation tools and test equipment. A test description language
@@ -54,12 +60,15 @@ abstract:
     CAE to ATE environments; (b) specifies pattern, format, and timing information
     sufficient to define the application of digital test vectors to a DUT; and (c)
     supports the volume of test vector data generated from structured tests.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2007'
@@ -86,5 +95,5 @@ keyword:
 - waveform
 - waveshape
 ics:
-  code: '31.200'
+- code: '31.200'
   text: Integrated circuits. Microelectronics

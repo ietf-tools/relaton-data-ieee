@@ -1,12 +1,12 @@
 ---
 id: IEEE1386-1.2001
 title:
-  type: main
+- type: main
   content: 'IEEE Standard Physical and Environmental Layers for PCI Mezzanine Cards:
     PMC'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/944007
+- content: https://ieeexplore.ieee.org/document/944007
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '2001-06-14'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-02-02'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard, in conjunction with IEEE Std 1386-2001, IEEE Standard for
+- content: This standard, in conjunction with IEEE Std 1386-2001, IEEE Standard for
     a CommonMezzanine Card (CMC) Family, defines the physical and environmental layers
     of a PCI mezzaninecard (PMC) family to be usable on (but not limited to) single
     slot VME, VME64 and VME64x boards,CompactPCI boards, Multibus I and Multibus II
@@ -47,12 +51,15 @@ abstract:
     function expansions for the host system. I/O functionality from the PMC may be
     eitherthrough the mezzanine front panel, or via the backplane by routing the I/O
     signals through themezzanine connector to the host.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2001'
@@ -80,5 +87,5 @@ keyword:
 - VME64x
 - VMEbus
 ics:
-  code: '35.200'
+- code: '35.200'
   text: Interface and interconnection equipment

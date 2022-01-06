@@ -1,12 +1,12 @@
 ---
 id: IEEE1124.2003
 title:
-  type: main
+- type: main
   content: IEEE Guide for Analysis and Definition of DC Side Harmonic Performance
     of HVDC Transmision Systems
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1237536
+- content: https://ieeexplore.ieee.org/document/1237536
   type: src
 type: standard
 docid:
@@ -25,31 +25,38 @@ date:
 - type: issued
   value: '2003-03-20'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-10-25'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Guidelines are provided for evaluating and mitigating harmonic induction
+- content: Guidelines are provided for evaluating and mitigating harmonic induction
     effects from high-voltage direct current (HVDC) lines on the adjacent telephone
     communication lines. Specifically, this guide presents methodology and approach
     for a) Determining the number of wireline communication circuits that will be
     affected by unacceptable interference and cost-effective remedial measures; and
     b) Computing interference levels that would result with various practical dc filter/smoothing
     reactor designs and the costs of these filters.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2003'
@@ -72,5 +79,5 @@ keyword:
 - noise
 - telephone circuits
 ics:
-  code: 29.240.99
+- code: 29.240.99
   text: Other equipment related to power transmission and distribution networks

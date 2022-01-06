@@ -10,7 +10,7 @@ title:
     and Verification Language - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5985443
+- content: https://ieeexplore.ieee.org/document/5985443
   type: src
 type: standard
 docid:
@@ -29,17 +29,21 @@ date:
 - type: issued
   value: '2009-11-09'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-08-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: 'This standard represents a merger of two previous standards: IEEE Std
     1364&#x2122;-2005 Verilog hardware description language (HDL) and IEEE Std 1800-2005
@@ -48,8 +52,10 @@ abstract:
     These two standards were designed to be used as one language. Merging the base
     Verilog language and the SystemVerilog extensions into a single standard provides
     users with all information regarding syntax and semantics in a single document.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: 'This standard represents a merger of two previous standards: IEEE Std
     1364(TM)-2005 Verilog hardware description language (HDL) and IEEE Std 1800-2005
@@ -59,12 +65,15 @@ abstract:
     Verilog language and the SystemVerilog extensions into a single standard provides
     users with all information regarding syntax and semantics in a single document.
     (IEEE Std1800-2009 was a revision of both IEEE Std1364-2005 and IEEE Std1800-2005.)'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2011'
@@ -81,8 +90,10 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE standards
@@ -105,5 +116,5 @@ keyword:
 - Verilog
 - VPI
 ics:
-  code: '35.060'
+- code: '35.060'
   text: Languages used in information technology

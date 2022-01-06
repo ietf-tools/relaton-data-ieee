@@ -10,7 +10,7 @@ title:
     Communications, and Signaling Circuits - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6889130
+- content: https://ieeexplore.ieee.org/document/6889130
   type: src
 type: standard
 docid:
@@ -27,19 +27,23 @@ date:
 - type: issued
   value: '2014-03-27'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-09-03'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Surge protectors for application on multiconductor balanced or unbalanced
+- content: Surge protectors for application on multiconductor balanced or unbalanced
     data, communications, and signaling circuits with voltages equal to or less than
     1000 Vrms, or 1200 V dc are covered by this standard. These surge protectors are
     designed to limit voltage surges, current surges, or both. The methods of testing
@@ -51,12 +55,15 @@ abstract:
     air gap, varistor, or avalanche junction surge-protective devices, which are covered
     by IEEE Std C62.31(TM), IEEE Std C62.32(TM), IEEE Std C62.33(TM), and IEEE Std
     C62.35(TM), respectively.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2014'
@@ -68,15 +75,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE C62-36.2016
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - Current limiters
@@ -95,5 +104,5 @@ keyword:
 - surge-protective devices
 - voltage limiters
 ics:
-  code: 29.120.50
+- code: 29.120.50
   text: Fuses and other overcurrent protection devices

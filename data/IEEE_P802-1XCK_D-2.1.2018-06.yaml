@@ -1,12 +1,12 @@
 ---
 id: IEEEP802-1Xck/D-2.1.2018-06
 title:
-  type: main
+- type: main
   content: 'IEEE Draft Standard for Local and Metropolitan Area Networks - Port-Based
     Network Access Control Amendment: YANG Data Model'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8398604
+- content: https://ieeexplore.ieee.org/document/8398604
   type: src
 type: standard
 docid:
@@ -23,44 +23,53 @@ date:
 - type: issued
   value: '2018-09-27'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-06-27'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The YANG data model specified in this amendment to IEEE Std 802.1X&#8482;-2010
+- content: The YANG data model specified in this amendment to IEEE Std 802.1X&#8482;-2010
     allows configuration and status reporting for port-based network access control,
     in the scenarios described in Clause 7 of this standard and Clause 11 of IEEE
     Std 802.1AE&#8482;-2018, using the information model previously specified in this
     standard.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2018'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-1X.2010
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Local area networks
@@ -91,5 +100,5 @@ keyword:
 - transparent bridging
 - YANG
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

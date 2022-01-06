@@ -1,11 +1,11 @@
 ---
 id: ANSI/IEEE524.1980
 title:
-  type: main
+- type: main
   content: IEEE Guide to the Installation of Overhead Transmission Line Conductors
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/27877
+- content: https://ieeexplore.ieee.org/document/27877
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1978-12-14'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-02-08'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This guide provides general recommendations for the selection of methods,
+- content: This guide provides general recommendations for the selection of methods,
     equipment and tools that have been found practical for the stringing of overhead
     transmission line conductors and overhead ground-wires. The guide also includes
     a comprehensive list of definitions for equipment and tools used in stringing
@@ -44,22 +48,25 @@ abstract:
     enough to be applicable to the stringing conductors of all sizes. The practices
     that are described provide for continuous control of the conductor from the initial
     setup to the ready for service condition.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1980'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 524.1992
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Power transmission lines
@@ -72,5 +79,5 @@ keyword:
 - line
 - conductors
 ics:
-  code: 29.240.20
+- code: 29.240.20
   text: Power transmission and distribution lines

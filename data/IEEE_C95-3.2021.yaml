@@ -1,13 +1,13 @@
 ---
 id: IEEEC95-3.2021
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for Measurements and Computations of Electric,
     Magnetic, and Electromagnetic Fields with Respect to Human Exposure to Such Fields,
     0 Hz to 300 GHz
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9444273
+- content: https://ieeexplore.ieee.org/document/9444273
   type: src
 type: standard
 docid:
@@ -28,17 +28,21 @@ date:
 - type: issued
   value: '2021-03-25'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-05-28'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: Best practices are described for the development, validation, and application
     of methods for the computation and measurement of relevant metrics characterizing
@@ -52,8 +56,10 @@ abstract:
     for professional users who are familiar with basic electromagnetic field theory
     and practice and for persons involved in specifying or implementing critical hazard
     assessments or surveys such as those described in IEEE Std C95.7&#x2122;-2014.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Best practices are described for the development, validation, and application
     of methods for the computation and measurement of relevant metrics characterizing
@@ -70,25 +76,30 @@ abstract:
     (The PDF of this standard is available in the IEEE GET program at no cost to you
     compliments of the United States Navy, United States Air Force, and United States
     Army https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=82)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2021'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE C95-3.2002
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -112,5 +123,5 @@ keyword:
 - RF survey
 - specific absorption rate assessment
 ics:
-  code: '13.280'
+- code: '13.280'
   text: Radiation protection

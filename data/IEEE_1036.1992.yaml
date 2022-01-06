@@ -1,11 +1,11 @@
 ---
 id: IEEE1036.1992
 title:
-  type: main
+- type: main
   content: IEEE Guide for Application of Shunt Power Capacitors
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/211735
+- content: https://ieeexplore.ieee.org/document/211735
   type: src
 type: standard
 docid:
@@ -24,34 +24,41 @@ date:
 - type: issued
   value: '1992-09-17'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-11-19'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Guidelines for the application protection, and ratings of equipment for
+- content: Guidelines for the application protection, and ratings of equipment for
     the safe and reliable utilization of shunt power capacitors are provided. This
     guide applies to the use of 50 and 60 Hz shunt power capacitors rated 2400 Vac
     and above, and assemblies of capacitors. Applications that range from simple unit
     utilization to complex bank situations are covered.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1993'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE P1036/D-13a
@@ -64,5 +71,5 @@ keyword:
 - shunt power capacitor
 - voltage control
 ics:
-  code: 31.060.70
+- code: 31.060.70
   text: Power capacitors

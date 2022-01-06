@@ -1,12 +1,12 @@
 ---
 id: IEEE802-16s.2017
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Air Interface for Broadband Wireless Access Systems--Amendment
     4: Fixed and Mobile Wireless Access in Channel Bandwidth up to 1.25 MHz'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8065154
+- content: https://ieeexplore.ieee.org/document/8065154
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2017-09-28'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-10-11'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: WirelessMAN-OFDMA TDD operation in exclusively licensed spectrum with channel
     bandwidth from 100 kHz up to 1.25 MHz, including 1 MHz explicitly, is specified.
@@ -47,8 +51,10 @@ abstract:
     the narrower channel widths. The range and data rate supported by the added profile
     are commensurate with those of the base standard, as scaled by the reduced channel
     bandwidth.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: WirelessMAN-OFDMA TDD operation in exclusively licensed spectrum with channel
     bandwidth from 100 kHz up to 1.25 MHz, including 1 MHz explicitly, is specified.
@@ -58,25 +64,30 @@ abstract:
     the narrower channel widths. The range and data rate supported by the added profile
     are commensurate with those of the base standard, as scaled by the reduced channel
     bandwidth.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2017'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-16.2012
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -99,5 +110,5 @@ keyword:
 - VHF/UHF bands
 - WirelessMAN(R)
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

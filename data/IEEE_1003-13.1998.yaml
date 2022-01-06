@@ -1,12 +1,12 @@
 ---
 id: IEEE1003-13.1998
 title:
-  type: main
+- type: main
   content: IEEE Standard for Information Technology - Standardized Application Environment
     Profile - POSIX(TM) Realtime Application Support
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/798785
+- content: https://ieeexplore.ieee.org/document/798785
   type: src
 type: standard
 docid:
@@ -25,36 +25,43 @@ date:
 - type: issued
   value: '1998-03-19'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-05-03'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard is part of the POSIX series of standardized profiles for
+- content: This standard is part of the POSIX series of standardized profiles for
     open systems. It defines environment profiles for portable realtime applications.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1999'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1003-13.2003
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE standards
 - AEP
@@ -68,5 +75,5 @@ keyword:
 - realtime application environments
 - realtime environment
 ics:
-  code: 01.040.11
+- code: 01.040.11
   text: Health care technology (Vocabularies)

@@ -1,13 +1,13 @@
 ---
 id: IEEEP802-21/D-02/Cor1.2017-07
 title:
-  type: main
+- type: main
   content: 'IEEE Approved Draft Standard for Local and Metropolitan Area Networks
     - Part 21: Media Independent Services Framework - Corrigendum 1: Clarification
     of Parameter Definition in Group Session Key Derivation'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8008883
+- content: https://ieeexplore.ieee.org/document/8008883
   type: src
 type: standard
 docid:
@@ -24,41 +24,50 @@ date:
 - type: issued
   value: '2017-12-06'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-08-11'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This corrigendum provides technical and editorial corrections to IEEE Std
+- content: This corrigendum provides technical and editorial corrections to IEEE Std
     802.21-2017.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2017'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-21.2017 Redline
       format: text/plain
   description:
     content: corrects
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Local area networks
@@ -70,5 +79,5 @@ keyword:
 - master group key
 - media independent session key
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

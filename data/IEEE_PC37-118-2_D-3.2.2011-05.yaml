@@ -1,11 +1,11 @@
 ---
 id: IEEEPC37-118-2/D-3.2.2011-05
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for Synchrophasor Data Transfer for Power Systems
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5893968
+- content: https://ieeexplore.ieee.org/document/5893968
   type: src
 type: standard
 docid:
@@ -20,27 +20,34 @@ date:
 - type: issued
   value: '2011-06-30'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
-language: en
-script: Latn
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard defines a method for exchange of synchronized phasor measurement
+- content: This standard defines a method for exchange of synchronized phasor measurement
     data between power system equipment. It specifies messaging including types, use,
     contents, and data formats for real-time communication between Phasor Measurement
     Units (PMU), Phasor Data Concentrators (PDC), and other applications.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2011'
@@ -51,5 +58,5 @@ keyword:
 - Data processing
 - Smart grids
 ics:
-  code: 17.220.20
+- code: 17.220.20
   text: Measurement of electrical and magnetic quantities

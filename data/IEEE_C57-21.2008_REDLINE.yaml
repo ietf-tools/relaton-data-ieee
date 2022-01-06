@@ -10,7 +10,7 @@ title:
     Rated Over 500 kVA - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6581831
+- content: https://ieeexplore.ieee.org/document/6581831
   type: src
 type: standard
 docid:
@@ -27,19 +27,23 @@ date:
 - type: issued
   value: '2008-03-27'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-08-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: All oil-immersed or dry-type, single-phase or three-phase, outdoor or indoor
+- content: All oil-immersed or dry-type, single-phase or three-phase, outdoor or indoor
     shunt reactors rated over 500 kVA are covered. Terminology and general requirements
     are stated, and the basis for rating shunt reactors is set forth. Routine, design,
     and other tests are described, and methods for performing them are given. Losses
@@ -47,12 +51,15 @@ abstract:
     Construction requirements for oil-immersed reactors and construction and installation
     requirements for dry-type reactors are presented. This standard also covers thyristor-controlled
     shunt reactors used in static var compensators.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2011'
@@ -68,5 +75,5 @@ keyword:
 - dry-type shunt reactor
 - oil-immersed shunt reactor
 ics:
-  code: '29.180'
+- code: '29.180'
   text: Transformers. Reactors

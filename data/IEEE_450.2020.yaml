@@ -1,12 +1,12 @@
 ---
 id: IEEE450.2020
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for Maintenance, Testing, and Replacement of
     Vented Lead-Acid Batteries for Stationary Applications
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9373055
+- content: https://ieeexplore.ieee.org/document/9373055
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2020-12-03'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2021-03-08'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: Maintenance, test schedules, and testing procedures that can be used to
     optimize the life and performance of permanently installed, vented lead-acid storage
@@ -45,8 +49,10 @@ abstract:
     should be replaced is also provided. This recommended practice is applicable to
     standby service stationary applications where a charger maintains the battery
     fully charged and supplies the dc loads.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Maintenance, test schedules, and testing procedures that can be used to
     optimize the life and performance of permanently installed, vented lead-acid storage
@@ -54,25 +60,30 @@ abstract:
     should be replaced is also provided. This recommended practice is applicable to
     standby service stationary applications where a charger maintains the battery
     fully charged and supplies the dc loads.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2021'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 450.2010
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -102,5 +113,5 @@ keyword:
 - test-discharge rate
 - vented lead-acid battery
 ics:
-  code: 29.220.20
+- code: 29.220.20
   text: Acid secondary cells and batteries

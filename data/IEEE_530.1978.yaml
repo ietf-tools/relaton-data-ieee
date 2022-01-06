@@ -1,12 +1,12 @@
 ---
 id: IEEE530.1978
 title:
-  type: main
+- type: main
   content: IEEE Standard Specification Format Guide and Test Procedure for Linear,
     Single-Axis, Digital, Torque-Balance Accelerometer
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/27755
+- content: https://ieeexplore.ieee.org/document/27755
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1978-03-09'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Superseded by IEEE 1293-1998. A guide for the preparation of a digital
+- content: Superseded by IEEE 1293-1998. A guide for the preparation of a digital
     accelerometer specification and test procedure is provided. It is intended to
     provide common terminology and practice for manufacturers and users. The accelerometer
     considered utilizes a linear, single-axis, nongyroscopic accelerometer sensor
@@ -46,12 +50,15 @@ abstract:
     requirements are covered. Information on classification of tests, acceptance tests,
     qualification tests, reliability tests, standard test conditions, test equipment,
     test methods, and data submittal is given.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1978'
@@ -67,5 +74,5 @@ keyword:
 - Torque measurement
 - Acceleration measurement
 ics:
-  code: '17.080'
+- code: '17.080'
   text: Measurement of time, velocity, acceleration, angular velocity

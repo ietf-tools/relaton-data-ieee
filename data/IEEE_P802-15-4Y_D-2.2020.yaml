@@ -1,12 +1,12 @@
 ---
 id: IEEEP802-15-4y/D-2.2020
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for Low-Rate Wireless Networks Amendment Defining Support
     for Advanced Encryption Standard (AES)-256 Encryption and Security Extensions
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/9298498
+- content: https://ieeexplore.ieee.org/document/9298498
   type: src
 type: standard
 docid:
@@ -23,41 +23,50 @@ date:
 - type: issued
   value: '2021-05-09'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-12-17'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This amendment defines security extensions to IEEE Std 802.15.4 adding
+- content: This amendment defines security extensions to IEEE Std 802.15.4 adding
     AES-256-CCM plus a cipher suite/authentication method registry and a process for
     inclusion of additional algorithms. The registry defines a capability to align
     IEEE Std 802.15.4 with the security requirements of higher layer standards.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2020'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-15-4.2015
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -81,5 +90,5 @@ keyword:
 - wireless personal area network
 - WPAN
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

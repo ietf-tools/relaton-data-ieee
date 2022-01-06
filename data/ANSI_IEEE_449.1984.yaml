@@ -1,11 +1,11 @@
 ---
 id: ANSI/IEEE449.1984
 title:
-  type: main
+- type: main
   content: IEEE Standard for Ferroresonant Voltage Regulators
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7419192
+- content: https://ieeexplore.ieee.org/document/7419192
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '1982-09-23'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-02-24'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: 'This standard pertains to ferroresonant voltage regulators which operate
     at relatively constant frequencies and provide substantially constant output voltages
@@ -51,31 +55,37 @@ abstract:
     regulators: (1) Series ferroresonant regulators (2) Series-parallel ferroresonant
     regulators (electrically connected) (3) Ferroresonant transformer regulators (magnetically
     coupled) (4) Controlled ferroresonant regulators.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: This standard pertains to ferroresonant transformers used as regulators
     in electronic power supplies and in other equipment. Guides to application and
     test procedures are included.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: American National Standards Institute
+  - name:
+    - American National Standards Institute
     abbreviation: ANSI
     url: https://www.ansi.org
   from: '1984'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 449.1990
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Ferroresonance

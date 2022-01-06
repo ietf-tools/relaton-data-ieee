@@ -1,12 +1,12 @@
 ---
 id: IEEE485.1983
 title:
-  type: main
+- type: main
   content: IEEE Recommended Practice for Sizing Large Lead Storage Batteries for Generating
     Stations and Substations
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/574712
+- content: https://ieeexplore.ieee.org/document/574712
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1983-06-23'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-02-20'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Methods for defining the dc load in a generating station or a substation
+- content: Methods for defining the dc load in a generating station or a substation
     and for sizing a lead storage battery to supply that load are described. Some
     factors relating to cell selection are provided for consideration. This standard
     is based on commonly accepted methods used to define the load and to ensure adequate
@@ -45,22 +49,25 @@ abstract:
     installations considered are designed for full-float operation with a battery
     charger serving to maintain the battery in a charged condition as well as to supply
     the normal dc load.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1983'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 485.2010
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - sizing
 - large
@@ -69,5 +76,5 @@ keyword:
 - batteries
 - Substations
 ics:
-  code: 29.220.20
+- code: 29.220.20
   text: Acid secondary cells and batteries

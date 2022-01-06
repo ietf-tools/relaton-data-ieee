@@ -1,12 +1,12 @@
 ---
 id: ANSI/IEEE1070.1988
 title:
-  type: main
+- type: main
   content: IEEE Guide for the Design and Testing of Transmission Modular Restoration
     Structure Components
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/29129
+- content: https://ieeexplore.ieee.org/document/29129
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1988-10-20'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Superseded by 1070-1995. A generic specification, including design and
+- content: Superseded by 1070-1995. A generic specification, including design and
     testing, is provided for transmission modular restoration structure components
     being widely used today by many electric utilities, both publicly and privately
     owned. It can be used by electric utilities for acquisition of transmission modular
@@ -45,22 +49,25 @@ abstract:
     with structures presently in use within the industry. This would enhance transmission
     mutual aid. Testing is prescribed to provide a high confidence level between manufacturers
     and/or suppliers and to promote competitive acquisition practices within the industry.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1989'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1070.1995
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Standards
 - Testing
@@ -71,5 +78,5 @@ keyword:
 - structure
 - components
 ics:
-  code: 29.240.30
+- code: 29.240.30
   text: Control equipment for electric power systems

@@ -9,7 +9,7 @@ title:
     - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6170920
+- content: https://ieeexplore.ieee.org/document/6170920
   type: src
 type: standard
 docid:
@@ -30,17 +30,21 @@ date:
 - type: issued
   value: '2008-12-10'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-08-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: 'The following enclosed low-voltage ac power circuit breakers are covered
     in this standard: a) stationary or draw-out type of two-, three-, or four-pole
@@ -52,8 +56,10 @@ abstract:
     limitations and classifications of insulating materials, insulation (dielectric)
     withstand voltage requirements, test procedures, and application are discussed
     in this standard.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: 'The following enclosed low-voltage ac power circuit breakers are covered
     in this standard: a) stationary or draw-out type of two-, three-, or four-pole
@@ -65,22 +71,25 @@ abstract:
     limitations and classifications of insulating materials, insulation (dielectric)
     withstand voltage requirements, test procedures, and application are discussed
     in this standard.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2011'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE C37-13.2015
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Circuit breakers
@@ -95,5 +104,5 @@ keyword:
 - open-fuse trip device
 - unfused circuit breaker
 ics:
-  code: 29.120.40
+- code: 29.120.40
   text: Switches

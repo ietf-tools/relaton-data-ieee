@@ -1,13 +1,13 @@
 ---
 id: IEEEP1703/D-9.2012-02
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for Local Area Network/Wide Area Network (LAN/WAN)
     Node Communication Protocol to complement the Utility Industry End Device Data
     Tables
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6162937
+- content: https://ieeexplore.ieee.org/document/6162937
   type: src
 type: standard
 docid:
@@ -22,18 +22,22 @@ date:
 - type: issued
   value: '2012-04-03'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
-language: en
-script: Latn
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard provides a set of application layer messaging services that
+- content: This standard provides a set of application layer messaging services that
     are applicable for the enterprise and End Device ends of an Advanced Metering
     Infrastructure (AMI). The application services include those useful for managing
     the AMI network assets defined by this standard. These messages may be transported
@@ -45,12 +49,15 @@ abstract:
     a means by which information can be sent in a secure manner using AES-128 and
     the EAX mode. This standard was developed jointly with ANSI (published asANSI
     C12.22) and Measurement Canada (published as MC12.22).
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2012'
@@ -67,5 +74,5 @@ keyword:
 - Communication Module
 - C12.19 Device
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

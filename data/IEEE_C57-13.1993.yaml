@@ -1,11 +1,11 @@
 ---
 id: IEEEC57-13.1993
 title:
-  type: main
+- type: main
   content: IEEE Standard Requirements for Instrument Transformers
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8684584
+- content: https://ieeexplore.ieee.org/document/8684584
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1993-06-17'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Superseded by IEEE Std C57.13-2008. Electrical, dimensional, and mechanical
+- content: Superseded by IEEE Std C57.13-2008. Electrical, dimensional, and mechanical
     characteristics are covered, taking into consideration certain safety features,
     for current and inductively coupled voltage transformers of types generally used
     in the measurement of electricity and the control of equipment associated with
@@ -48,12 +52,15 @@ abstract:
     polarity determination, resistance measurements, short-time characteristics, temperature-rise
     tests, dielectric tests, and measurement of open-circuit voltage of current transformers.
     Interpretations are available at http://standards.ieee.org/reading/ieee/interp/C57.13-1993.html
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1994'
@@ -65,8 +72,10 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
@@ -78,7 +87,7 @@ relation:
     formattedref:
       content: IEEE C57-13.2008
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Secondary winding
 - Rated voltage
@@ -87,5 +96,5 @@ keyword:
 - Instrument transformer
 - Current transformer
 ics:
-  code: '29.200'
+- code: '29.200'
   text: Rectifiers. Converters. Stabilized power supply

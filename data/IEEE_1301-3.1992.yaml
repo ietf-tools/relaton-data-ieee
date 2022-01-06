@@ -1,12 +1,12 @@
 ---
 id: IEEE1301-3.1992
 title:
-  type: main
+- type: main
   content: IEEE Standard for a Metric Equipment Practice for Microcomputers - Convection-Cooled
     with 2.5 mm Connectors
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8960946
+- content: https://ieeexplore.ieee.org/document/8960946
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1992-12-03'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-01-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Recommendations provide guidance in the implementation of the generic standard,
+- content: Recommendations provide guidance in the implementation of the generic standard,
     IEEE Std 1301-1991, and the connector-related standards, such as IEEE Std 1301.1-1991
     and IEEE Std 1301.3-1992. This recommended practice may be applied in all fields
     of electronics where equipment and installations are required to conform to a
@@ -45,12 +49,15 @@ abstract:
     with IEC 917 (1988) and IEC 917-0 (1989), including cabinet, rack, subracks, printed
     boards, and common connector-dependent dimensions for connector pitches of 2.5,
     2.0, 1.5, 1.0, and 0.5 mm.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1993'
@@ -70,5 +77,5 @@ keyword:
 - Metric
 - Connector
 ics:
-  code: '35.160'
+- code: '35.160'
   text: Microprocessor systems

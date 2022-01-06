@@ -1,12 +1,12 @@
 ---
 id: ANSI/IEEE1296.1987
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for a High-Performance Synchronous 32-Bit Bus: MULTIBUS
     II'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/26494
+- content: https://ieeexplore.ieee.org/document/26494
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1987-06-11'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-06-19'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The operation, functions, and attributes of a parallel system bus (PSB),
+- content: The operation, functions, and attributes of a parallel system bus (PSB),
     called MULTIBUS II, are defined. A high- performance backplane bus intended for
     use in multiple-microprocessor systems, the PSB incorporates synchronous, 32-bit
     multiplexed address/data, with error detection, and uses a 10 MHz bus clock. This
@@ -50,12 +54,15 @@ abstract:
     characteristics, and mechanical specifications are covered. This document also
     contains IEEE Std 1101-1987, IEEE Standard for Mechanical Core Specifications
     for Microcomputers.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1988'
@@ -68,5 +75,5 @@ keyword:
 - bit
 - bus
 ics:
-  code: '35.200'
+- code: '35.200'
   text: Interface and interconnection equipment

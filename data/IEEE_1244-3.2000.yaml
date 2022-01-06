@@ -1,12 +1,12 @@
 ---
 id: IEEE1244-3.2000
 title:
-  type: main
+- type: main
   content: IEEE Standard for Media Management System (MMS) Media Management Protocol
     (MMP)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/890179
+- content: https://ieeexplore.ieee.org/document/890179
   type: src
 type: standard
 docid:
@@ -25,30 +25,37 @@ date:
 - type: issued
   value: '2000-06-21'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-03-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: All relevant behavior and states of the Media Management System (MMS) and
+- content: All relevant behavior and states of the Media Management System (MMS) and
     the Media Manager (MM) from the time the MMS application successfully establishes
     a session with the MM, until the session is severed is described. This standard
     specifies the behavior of the MM itself in response to certain MMP commands and
     events that occur during the existence of the MM, including but not limited to
     booting the MM and the un-commanded exit of a MMS client.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2000'
@@ -85,5 +92,5 @@ keyword:
 - storage system
 - system architecture
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

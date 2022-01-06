@@ -1,12 +1,12 @@
 ---
 id: IEEE802-1AE.2006
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Local and Metropolitan Area Networks: Media Access Control
     (MAC) Security'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1678345
+- content: https://ieeexplore.ieee.org/document/1678345
   type: src
 type: standard
 docid:
@@ -25,38 +25,45 @@ date:
 - type: issued
   value: '2006-06-08'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-06-19'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard specifies how all or part of a network can be secured transparently
+- content: This standard specifies how all or part of a network can be secured transparently
     to peer protocol entities that use the MAC Service provided by IEEE 802&#174;
     LANs to communicate. MAC security (MACsec) provides connectionless user data confidentiality,
     frame data integrity, and data origin authenticity.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2006'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 802-1AE.2018
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Media Access Protocol
@@ -81,5 +88,5 @@ keyword:
 - service access point
 - transparent bridging
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

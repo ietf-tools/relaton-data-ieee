@@ -1,12 +1,12 @@
 ---
 id: IEEEC37-011.1994
 title:
-  type: main
+- type: main
   content: IEEE Application Guide for Transient Recovery Voltage for AC High-Voltage
     Circuit Breakers Rated on a Symmetrical Current Basis
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/467530
+- content: https://ieeexplore.ieee.org/document/467530
   type: src
 type: standard
 docid:
@@ -27,30 +27,37 @@ date:
 - type: issued
   value: '1994-09-22'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: 'Superseded by IEEE Std C37.011-2005 Abstract: Procedures and calculations
+- content: 'Superseded by IEEE Std C37.011-2005 Abstract: Procedures and calculations
     necessary to apply the standard transient recovery voltage (TRV) ratings for ac
     high-voltage circuit breakers rated above 1000 V and on a symmetrical current
     basis are covered. The capability limits of these circuit interrupting devices
     are determined largely by the TRV. TRV ratings are compared with typical system
     TRV duties.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1995'
@@ -62,20 +69,22 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE C37-011.2005
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - AC circuit breakers
 - IEEE standards
 - transient recovery voltage
 - High-voltage circuit breakers
 ics:
-  code: 29.120.40
+- code: 29.120.40
   text: Switches

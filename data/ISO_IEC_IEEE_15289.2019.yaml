@@ -1,12 +1,12 @@
 ---
 id: ISO/IEC/IEEE15289.2019
 title:
-  type: main
+- type: main
   content: ISO/IEC/IEEE International Standard -- Systems and software engineering
     - Content of life-cycle information items (documentation)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8767110
+- content: https://ieeexplore.ieee.org/document/8767110
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2019-06-13'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-07-19'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The purpose and content of all identified systems and software life cycle
     and service management information items (documentation) are specified in this
@@ -50,8 +54,10 @@ abstract:
     some cases provide partial or complete outlines for the content of specific documents.
     Information items may be combined or subdivided as needed for project or organizational
     purposes.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: The purpose and content of all identified systems and software life cycle
     and service management information items (documentation) are specified in this
@@ -64,27 +70,34 @@ abstract:
     some cases provide partial or complete outlines for the content of specific documents.
     Information items may be combined or subdivided as needed for project or organizational
     purposes.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-  - name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  - name: ISO
-  - name: IEC
+  - name:
+    - ISO
+  - name:
+    - IEC
   from: '2019'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: ISO/IEC/IEEE 15289.2017
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -103,5 +116,5 @@ keyword:
 - information item
 - information management
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

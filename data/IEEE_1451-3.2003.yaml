@@ -1,13 +1,13 @@
 ---
 id: IEEE1451-3.2003
 title:
-  type: main
+- type: main
   content: IEEE Standard for a Smart Transducer Interface for Sensors and Actuators
     - Digital Communication and Transducer Electronic Data Sheet (TEDS) Formats for
     Distributed Multidrop Systems
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1282225
+- content: https://ieeexplore.ieee.org/document/1282225
   type: src
 type: standard
 docid:
@@ -26,19 +26,23 @@ date:
 - type: issued
   value: '2003-09-11'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-09-27'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: A digital interface for connecting multiple physically separated transducers
+- content: A digital interface for connecting multiple physically separated transducers
     to a single processor over a single pair of wires. The interface can support both
     asynchronous and isochronous data transfers. Several Transducer Electronic Data
     Sheets (TEDS) and their data formats are described. An electrical interface, channel
@@ -46,12 +50,15 @@ abstract:
     functions to access the TEDS, and transducers with a wide variety of attributes
     are defined. This standard does not specify signal conditioning, signal conversion,
     or how an application uses the TEDS data.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2004'

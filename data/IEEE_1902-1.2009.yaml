@@ -1,11 +1,11 @@
 ---
 id: IEEE1902-1.2009
 title:
-  type: main
+- type: main
   content: IEEE Standard for Long Wavelength Wireless Network Protocol
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/4810102
+- content: https://ieeexplore.ieee.org/document/4810102
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '2009-01-30'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-04-08'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: This standard defines the air interface for radiating transceiver radio
     tags using long wavelength signals (kilometric and hectometric frequencies, &lt;450
@@ -47,8 +51,10 @@ abstract:
     non-network-based RFID standards (e.g., ISO/IEC CD 15961-3, ISO 18000-6C or ISO
     18000-7) and existing high bandwidth network standards such as IEEE Std 802.11trade
     and IEEE 802.15.4trade.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: This standard defines the air interface for radiating transceiver radio
     tags using long wavelength signals (kilometric and hectometric frequencies, &lt;450
@@ -59,12 +65,15 @@ abstract:
     a gap between non-network-based RFID standards (e.g., ISO/IEC CD 15961-3, ISO
     18000-6C or 7) and existing high bandwidth network standards such as IEEE Std
     802. IEEE 802.15.4
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2009'
@@ -81,5 +90,5 @@ keyword:
 - transceiver
 - visibility networks
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

@@ -1,12 +1,12 @@
 ---
 id: IEEE1003-1/Cor1.2013
 title:
-  type: main
+- type: main
   content: IEEE Standard for Information Technology - Portable Operating System Interface
     (POSIX(TM)) Base Specifications, Issue 7 - Technical Corrigendum 1
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6482154
+- content: https://ieeexplore.ieee.org/document/6482154
   type: src
 type: standard
 docid:
@@ -27,44 +27,55 @@ date:
 - type: issued
   value: '2013-02-06'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-03-19'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: This Technical Corrigendum addresses problems discovered since the approval
     of IEEE Std 1003.1<sup>TM</sup> -2008.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: This Technical Corrigendum addresses problems discovered since the approval
     of IEEE Std 1003.1TM -2008.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2013'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1003-1.2008
       format: text/plain
   description:
     content: corrects
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE standards
@@ -91,5 +102,5 @@ keyword:
 - network
 - portable operating system interface (POSIX(TM))
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

@@ -1,11 +1,11 @@
 ---
 id: IEEE771.1984
 title:
-  type: main
+- type: main
   content: IEEE Guide to the Use of ATLAS
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7437344
+- content: https://ieeexplore.ieee.org/document/7437344
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '1984-09-13'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2016-03-21'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: This guide has mainly been written as an applications manual for engineers
     and authors who will be writing test procedures in ATLAS. The beginning chapters
@@ -49,8 +53,10 @@ abstract:
     confined to the classical definitions presented in ANSI/IEEE Std 416-1984. Appropriate
     cross references are included in parentheses following section headings, and unless
     otherwise stated, they relate to ANSI/IEEE Std 416-1984.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: This guide has mainly been written as an applications manual for engineers
     and authors who will be writing test procedures in ATLAS. The beginning chapters
@@ -63,22 +69,25 @@ abstract:
     confined to the classical definitions presented in ANSI/IEEE Std 416-1984. Appropriate
     cross references are included in parentheses following section headings, and unless
     otherwise stated, they relate to ANSI/IEEE Std 416-1984
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1984'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 771.1989
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Programming

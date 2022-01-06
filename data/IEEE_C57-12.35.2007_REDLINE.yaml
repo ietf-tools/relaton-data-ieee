@@ -10,7 +10,7 @@ title:
     Regulators - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/6046076
+- content: https://ieeexplore.ieee.org/document/6046076
   type: src
 type: standard
 docid:
@@ -27,41 +27,50 @@ date:
 - type: issued
   value: '2007-09-27'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-08-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard covers bar code label requirements for specific types of
+- content: This standard covers bar code label requirements for specific types of
     distribution transformers and step-voltage regulators. Data content for temporary
     and permanent bar code labeling is described as well as bar code label print quality
     and durability requirements.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2011'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE C57-12-35.1996
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE standards
@@ -74,5 +83,5 @@ keyword:
 - distribution transformer
 - step-voltage regulator
 ics:
-  code: '35.040'
+- code: '35.040'
   text: Information coding

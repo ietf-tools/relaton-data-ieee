@@ -1,12 +1,12 @@
 ---
 id: IEEE802-1AR.2009
 title:
-  type: main
+- type: main
   content: IEEE Standard for Local and metropolitan area networks - Secure Device
     Identity
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5367679
+- content: https://ieeexplore.ieee.org/document/5367679
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2009-12-09'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2014-03-06'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: A secure device identifier (DevID) is cryptographically bound to a device
     and supports authentication of the devices identity. Locally significant identities
@@ -45,8 +49,10 @@ abstract:
     used in provisioning and authentication protocols toallow a network administrator
     to establish the trustworthiness of a device and select appropriate policies for
     transmission and reception of data and control protocols to and from the device.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: A secure device identifier (DevID) is cryptographically bound to a device
     and supports authentication of the device’s identity. Locally significant identities
@@ -54,22 +60,25 @@ abstract:
     used in provisioning and authentication protocols to allow a network administrator
     to establish the trustworthiness of a device and select appropriate policies for
     transmission and reception of data and control protocols to and from the device.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2009'
 relation:
-  type: obsoletedBy
+- type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 802-1AR.2018
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Authentication
@@ -98,5 +107,5 @@ keyword:
   secure
 - association, secure device identifier, security, X.509
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

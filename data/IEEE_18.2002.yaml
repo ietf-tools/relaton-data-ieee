@@ -1,11 +1,11 @@
 ---
 id: IEEE18.2002
 title:
-  type: main
+- type: main
   content: IEEE Standard for Shunt Power Capacitors
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1042562
+- content: https://ieeexplore.ieee.org/document/1042562
   type: src
 type: standard
 docid:
@@ -24,41 +24,50 @@ date:
 - type: issued
   value: '2002-03-21'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-02-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Capacitors rated 216 V or higher, 2.5 kvar or more, and designed for shunt
+- content: Capacitors rated 216 V or higher, 2.5 kvar or more, and designed for shunt
     connection toalternating-current transmission and distribution systems operating
     at a nominal frequency of 50 Hzor 60 Hz, within the guidelines of IEEE Std 1036-1992,
     are considered.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2002'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 18.1992
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -70,5 +79,5 @@ keyword:
 - shunt connection
 - transmission and distribution systems
 ics:
-  code: 31.060.70
+- code: 31.060.70
   text: Power capacitors

@@ -10,7 +10,7 @@ title:
     Power Systems - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7047985
+- content: https://ieeexplore.ieee.org/document/7047985
   type: src
 type: standard
 docid:
@@ -27,19 +27,23 @@ date:
 - type: issued
   value: '2014-03-27'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-02-24'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Goals for the design of electrical systems that include both linear and
+- content: Goals for the design of electrical systems that include both linear and
     nonlinear loads are established in this recommended practice. The voltage and
     current waveforms that may exist throughout the system are described, and waveform
     distortion goals for the system designer are established. The interface between
@@ -50,25 +54,30 @@ abstract:
     of power that is to be provided at the point of common coupling. This document
     does not cover the effects of radio-frequency interference; however, guidance
     is offered for wired telephone systems.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2015'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 519.1992
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE standards
@@ -80,5 +89,5 @@ keyword:
 - IEEE 519(TM)
 - power quality
 ics:
-  code: '29.200'
+- code: '29.200'
   text: Rectifiers. Converters. Stabilized power supply

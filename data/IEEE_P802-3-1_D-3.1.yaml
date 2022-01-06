@@ -1,12 +1,12 @@
 ---
 id: IEEEP802-3-1/D-3.1
 title:
-  type: main
+- type: main
   content: IEEE Approved Draft Standard for Management Information Base (MIB) Definitions
     for Ethernet
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5771960
+- content: https://ieeexplore.ieee.org/document/5771960
   type: src
 type: standard
 docid:
@@ -23,18 +23,22 @@ date:
 - type: issued
   value: '2011-05-16'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
-language: en
-script: Latn
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard contains the Management Information Base (MIB) module specifications
+- content: This standard contains the Management Information Base (MIB) module specifications
     for IEEE Std 802.3, also known as Ethernet. It includes the Structure of Management
     Information Version 2 (SMIv2) MIB module specifications formerly produced and
     published by the Internet Engineering Task Force (IETF), and the Guidelines for
@@ -42,12 +46,15 @@ abstract:
     IEEE Std 802.3, as well as extensions resulting from amendments to IEEE Std 802.3.
     The SMIv2 MIB modules are intended for use with the Simple Network Management
     Protocol (SNMP), commonly used to manage Ethernet.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2011'

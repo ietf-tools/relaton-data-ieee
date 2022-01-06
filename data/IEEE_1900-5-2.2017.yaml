@@ -1,11 +1,11 @@
 ---
 id: IEEE1900-5-2.2017
 title:
-  type: main
+- type: main
   content: IEEE Standard for Method for Modeling Spectrum Consumption
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8398607
+- content: https://ieeexplore.ieee.org/document/8398607
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '2017-12-06'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2018-06-27'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: A vendor-independent generalized method for modeling spectrum consumption
     of any type of use of radio frequency spectrum and the attendant computations
@@ -46,8 +50,10 @@ abstract:
     management tasks that operate on a plurality of models. The modeling methods are
     exclusively focused on capturing spectrum use but are defined in a schema that
     can be joined with otherre schemata related to spectrum management.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: A vendor-independent generalized method for modeling spectrum consumption
     of any type of use of radio frequency spectrum and the attendant computations
@@ -57,12 +63,15 @@ abstract:
     management tasks that operate on a plurality of models. The modeling methods are
     exclusively focused on capturing spectrum use but are defined in a schema that
     can be joined with other schemata related to spectrum management.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2018'
@@ -78,5 +87,5 @@ keyword:
 - SCM
 - spectrum consumption model
 ics:
-  code: 01.040.11
+- code: 01.040.11
   text: Health care technology (Vocabularies)

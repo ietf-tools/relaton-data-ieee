@@ -1,12 +1,12 @@
 ---
 id: IEEE1363-1.2008
 title:
-  type: main
+- type: main
   content: IEEE Standard Specification for Public Key Cryptographic Techniques Based
     on Hard Problems over Lattices
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/4800404
+- content: https://ieeexplore.ieee.org/document/4800404
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2008-12-10'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2020-01-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: Specifications of common public key cryptographic techniques based on hard
     problems over lattices supplemental to those considered in IEEE Std 1363-2000
@@ -46,8 +50,10 @@ abstract:
     cryptographic schemes based on those primitives are provided. Also presented are
     specifications of related cryptographic parameters, public keys, and private keys.
     Class of computer and communications systems is not restricted.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: Specifications of common public-key cryptographic techniques based on hard
     problems over lattices supplemental to those considered in IEEE 1363 and IEEE
@@ -55,12 +61,15 @@ abstract:
     encryption, identification and digital signatures, and cryptographic schemes based
     on those primitives. Specifications of related cryptographic parameters, public
     keys and private keys. Class of computer and communications systems is not restricted.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2009'
@@ -70,5 +79,5 @@ keyword:
 - lattice-based cryptography
 - public key cryptography
 ics:
-  code: '35.040'
+- code: '35.040'
   text: Character sets and information coding

@@ -1,13 +1,13 @@
 ---
 id: IEEE1636-1.2007
 title:
-  type: main
+- type: main
   content: 'IEEE Trial-Use Standard for Software Interface for Maintenance Information
     Collection and Analysis (SIMICA): Exchanging Test Results and Session Information
     via the eXtensible Markup Language(XML)'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/4460804
+- content: https://ieeexplore.ieee.org/document/4460804
   type: src
 type: standard
 docid:
@@ -26,30 +26,37 @@ date:
 - type: issued
   value: '2007-09-27'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-02-07'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard is intended to promote and facilitate interoperability between
+- content: This standard is intended to promote and facilitate interoperability between
     components of an automatic test system (e.g., between test executive and diagnostic
     reasoner)where test results need to be shared. The standard thus facilitates the
     capture of test results data in storage devices and databases, facilitating online
     and offline analysis. The test results schema becomes a class of information that
     can be used within the SIMICA family of standards.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2008'
@@ -64,7 +71,7 @@ relation:
     formattedref:
       content: IEEE 1636-1.2013 Redline
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - XML
@@ -80,5 +87,5 @@ keyword:
 - test results
 - XML schema
 ics:
-  code: '35.040'
+- code: '35.040'
   text: Character sets and information coding

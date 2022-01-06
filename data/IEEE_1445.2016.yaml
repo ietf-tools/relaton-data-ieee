@@ -1,11 +1,11 @@
 ---
 id: IEEE1445.2016
 title:
-  type: main
+- type: main
   content: IEEE Standard for Digital Test Interchange Format (DTIF)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7837032
+- content: https://ieeexplore.ieee.org/document/7837032
   type: src
 type: standard
 docid:
@@ -26,50 +26,61 @@ date:
 - type: issued
   value: '2016-12-07'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2017-01-31'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: 'The information content and the data formats for the interchange of digital
     test program data between digital automated test program generators (DATPGs) and
     automatic test equipment (ATE) for board-level printed circuit assemblies are
     defined. This information can be broadly grouped into data that defines the following:
     user under test (UUT) model, stimulus and response, fault dictionary, and probe.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: 'The information content and the data formats for the interchange of digital
     test program data between digital automated test program generators (DATPGs) and
     automatic test equipment (ATE) for board-level printed circuit assemblies are
     defined. This information can be broadly grouped into data that defines the following:
     user under test (UUT) model, stimulus and response, fault dictionary, and probe.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2017'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 1445.1998
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 keyword:
 - IEEE Standards
@@ -86,5 +97,5 @@ keyword:
 - fault dictionary data
 - IEEE 1445(TM)
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

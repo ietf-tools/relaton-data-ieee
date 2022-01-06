@@ -1,12 +1,12 @@
 ---
 id: IEEE1003-26.2003
 title:
-  type: main
+- type: main
   content: 'IEEE Standard for Information Technology - Portable Operating System Interface
     (POSIX(TM)) - Part 26: Device Control Application Program Interface (API) [C Language]'
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/1335284
+- content: https://ieeexplore.ieee.org/document/1335284
   type: src
 type: standard
 docid:
@@ -25,28 +25,35 @@ date:
 - type: issued
   value: '2003-12-10'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-10-30'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: This standard is part of the POSIX series of standards. It defines an application
+- content: This standard is part of the POSIX series of standards. It defines an application
     program interface for controlling device drivers. Although it is based on the
     widely used ioctl() system call, the interface is type-safe and has a fixed number
     of parameters.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2004'
@@ -68,5 +75,5 @@ keyword:
 - realtime
 - device drivers
 ics:
-  code: 01.040.11
+- code: 01.040.11
   text: Health care technology (Vocabularies)

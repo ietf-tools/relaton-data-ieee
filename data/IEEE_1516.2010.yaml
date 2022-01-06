@@ -1,12 +1,12 @@
 ---
 id: IEEE1516.2010
 title:
-  type: main
+- type: main
   content: IEEE Standard for Modeling and Simulation (M&amp;S) High Level Architecture
     (HLA)-- Framework and Rules
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5553440
+- content: https://ieeexplore.ieee.org/document/5553440
   type: src
 type: standard
 docid:
@@ -27,17 +27,21 @@ date:
 - type: issued
   value: '2010-03-25'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2013-08-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: This standard, describing the framework and rules of the High Level Architecture
     (HLA), is the capstone document for a family of related HLA standards. It defines
@@ -50,8 +54,10 @@ abstract:
     are interrelated and need to be considred as a product set, as a change in one
     is likely to have an impact on the others. As such, the HLA is an integrated approach
     that has been developed to provide a common architecture for simulation.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: This standard, describing the framework and rules of the High Level Architecture
     (HLA), is the capstone document for a family of related HLA standards. It defines
@@ -64,12 +70,15 @@ abstract:
     are interrelated and need to be considered as a product set, as a change in one
     is likely to have an impact on the others. As such, the HLA is an integrated approach
     that has been developed to provide a common architecture for simulation.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2010'
@@ -96,5 +105,5 @@ keyword:
 - runtime infrastructure
 - simulation object model
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software

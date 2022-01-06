@@ -1,11 +1,11 @@
 ---
 id: ANSI/IEEE1076.1993
 title:
-  type: main
+- type: main
   content: IEEE Standard VHDL Language Reference Manual
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/392561
+- content: https://ieeexplore.ieee.org/document/392561
   type: src
 type: standard
 docid:
@@ -24,31 +24,38 @@ date:
 - type: issued
   value: '1993-09-15'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: Aiding in the comprehension and use of IEEE VHDL, this unique product offers
+- content: Aiding in the comprehension and use of IEEE VHDL, this unique product offers
     a comprehensive &amp; reliable tutorial on VHDL - not available anywhere else.
     An enhancement to IEEE Std 1076-1993, the interactive tutorial is organized into
     four modules designed to incrementally add to the user's understanding of VHDL
     and it's applications. This hands-on tutorial shows clear links between the many
     levels and layers of VHDL and provides actual examples of VHDL implementation,
     making it an indispensible tool for VHDL product development and users.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1994'
@@ -60,15 +67,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE 1076.2000
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Hardware
@@ -85,5 +94,5 @@ keyword:
 - Electronic systems
 - Computer languages
 ics:
-  code: '35.060'
+- code: '35.060'
   text: Languages used in information technology

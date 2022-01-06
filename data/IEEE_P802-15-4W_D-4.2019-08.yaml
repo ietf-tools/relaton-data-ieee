@@ -1,13 +1,13 @@
 ---
 id: IEEEP802-15-4w/D-4.2019-08
 title:
-  type: main
+- type: main
   content: IEEE Draft Standard for Low-Rate Wireless Networks Amendment for a Low
     Power Wide Area Network (LPWAN) extension to the Low Energy Critical Infrastructure
     Monitoring (LECIM) Physical layer (PHY)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8809454
+- content: https://ieeexplore.ieee.org/document/8809454
   type: src
 type: standard
 docid:
@@ -24,44 +24,53 @@ date:
 - type: issued
   value: '2020-06-04'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-08-21'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The existing low-energy critical infrastructure monitoring (LECIM) frequency
+- content: The existing low-energy critical infrastructure monitoring (LECIM) frequency
     shift keying (FSK) physical layer of IEEE Std 802.15.4-2015 is extended to be
     more robust in presence of interference and achieve higher link budgets for applications
     in low power wide area networks (LPWAN). Lower symbol rates and a split mode with
     low rate forward error correction (FEC) codes are introduced to achieve this goal.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2019'
 relation:
-  type: updates
+- type: updates
   bibitem:
     formattedref:
       content: IEEE 802-15-4.2015
       format: text/plain
   description:
     content: amends
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - IEEE Standards
 - Low power electronics
@@ -89,5 +98,5 @@ keyword:
 - WPAN
 - splitting
 ics:
-  code: '35.110'
+- code: '35.110'
   text: Networking

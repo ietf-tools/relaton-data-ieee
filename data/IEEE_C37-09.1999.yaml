@@ -1,12 +1,12 @@
 ---
 id: IEEEC37-09.1999
 title:
-  type: main
+- type: main
   content: IEEE Standard Test Procedure for AC High-Voltage Circuit Breakers Rated
     on a Symmetrical Current Basis
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/836277
+- content: https://ieeexplore.ieee.org/document/836277
   type: src
 type: standard
 docid:
@@ -25,19 +25,23 @@ date:
 - type: issued
   value: '1999-06-26'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-04-11'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: The testing procedures for all high-voltage circuit breakers that include
+- content: The testing procedures for all high-voltage circuit breakers that include
     all voltage ratings above 1000 V ac and comprise both indoor and outdoor types
     having the preferred ratings as listed in ANSI C37.06-1997 are covered. Typical
     circuit breakers covered by these standards have maximum voltage ratings from
@@ -48,12 +52,15 @@ abstract:
     plus associated capabilities such as mechanical endurance, load current, and out-of-phase
     switching. Production test procedures are also included. This standard does not
     cover generator circuit breakers as these are covered in IEEE Std C37.013-1993.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2000'
@@ -65,15 +72,17 @@ relation:
       format: text/plain
   description:
     content: revises
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
 - type: obsoletedBy
   bibitem:
     formattedref:
       content: IEEE C37-09.2018
       format: text/plain
-fetched: '2022-01-05'
+fetched: '2022-01-06'
 keyword:
 - Circuit breakers
 - fast transient recovery voltage
@@ -91,5 +100,5 @@ keyword:
 - unit test
 - voltage distribution synthetic test.
 ics:
-  code: 29.120.40
+- code: 29.120.40
   text: Switches

@@ -1,12 +1,12 @@
 ---
 id: IEEE1619-1.2018
 title:
-  type: main
+- type: main
   content: IEEE Standard for Authenticated Encryption with Length Expansion for Storage
     Devices
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/8637991
+- content: https://ieeexplore.ieee.org/document/8637991
   type: src
 type: standard
 docid:
@@ -27,35 +27,44 @@ date:
 - type: issued
   value: '2018-10-23'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-02-08'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: 'Cryptographic and data authentication procedures for storage devices that
     support length expansion, such as tape drives, are specified. Such procedures
     include the following cryptographic modes of operation for the AES block cipher:
     CCM, GCM, CBC-HMAC, and XTS-HMAC.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: 'Cryptographic and data authentication procedures for storage devices that
     support length expansion, such as tape drives, are specified. Such procedures
     include the following cryptographic modes of operation for the AES block cipher:
     CCM, GCM, CBC-HMAC, and XTS-HMAC.'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2019'

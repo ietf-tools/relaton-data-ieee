@@ -9,7 +9,7 @@ title:
     - Redline
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/7166298
+- content: https://ieeexplore.ieee.org/document/7166298
   type: src
 type: standard
 docid:
@@ -26,28 +26,35 @@ date:
 - type: issued
   value: '2015-03-26'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: Piscataway
+    - city: Piscataway
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2015-07-24'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: An exchange format using extensible markup language (XML) for identifying
+- content: An exchange format using extensible markup language (XML) for identifying
     all of the hardware, software, and documentation associated with a test adapter
     is specified in this document. This test adapter may be used as a component of
     a test program set to test and diagnose a unit under test.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2015'
@@ -68,5 +75,5 @@ keyword:
 - test fixture
 - XML schema
 ics:
-  code: 35.240.30
+- code: 35.240.30
   text: IT applications in information, documentation and publishing

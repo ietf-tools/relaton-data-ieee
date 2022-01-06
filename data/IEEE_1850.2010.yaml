@@ -1,11 +1,11 @@
 ---
 id: IEEE1850.2010
 title:
-  type: main
+- type: main
   content: IEEE Standard for Property Specification Language (PSL)
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/5446004
+- content: https://ieeexplore.ieee.org/document/5446004
   type: src
 type: standard
 docid:
@@ -26,17 +26,21 @@ date:
 - type: issued
   value: '2010-03-25'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: 
+    - city: 
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2012-06-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
 - content: The IEEE Property Specification Language (PSL) is defined. PSL is a formal
     notation for specification of electronic system behavior, compatible with multiple
@@ -49,8 +53,10 @@ abstract:
     and verification engineers to increase productivity throughout the design and
     verification process. The primary audiences for this standard are the implementors
     of tools supporting the language and advanced users of the language.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - content: The IEEE Property Specification Language (PSL) is defined in this standard.
     PSL is a formal notation for specification of electronic system behavior, compatible
@@ -63,12 +69,15 @@ abstract:
     and verification engineers to increase productivity throughout the design and
     verification process. The primary audiences for this standard are the implementors
     of tools supporting the language and advanced users of the language.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2010'
@@ -88,5 +97,5 @@ keyword:
 - temporal logic
 - verification
 ics:
-  code: '35.060'
+- code: '35.060'
   text: Languages used in information technology

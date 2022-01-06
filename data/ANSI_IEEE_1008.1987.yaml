@@ -1,11 +1,11 @@
 ---
 id: ANSI/IEEE1008.1987
 title:
-  type: main
+- type: main
   content: IEEE Standard for Software Unit Testing
   format: text/plain
 link:
-  content: https://ieeexplore.ieee.org/document/27763
+- content: https://ieeexplore.ieee.org/document/27763
   type: src
 type: standard
 docid:
@@ -24,19 +24,23 @@ date:
 - type: issued
   value: '1986-12-11'
 contributor:
-  organization:
-    name: Institute of Electrical and Electronics Engineers
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-      city: New York
+    - city: New York
       country: USA
-  role: publisher
+  role:
+  - publisher
 revdate: '2019-02-27'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 abstract:
-  content: An integrated approach to systematic and documented unit testing is defined.
+- content: An integrated approach to systematic and documented unit testing is defined.
     It uses unit design and unit implementation information, in addition to unit requirements,
     to determine the completeness of the testing. The testing process described composed
     of a hierarchy of phases, activities, and tasks and defines a minimum set of tasks
@@ -46,12 +50,15 @@ abstract:
     standard approach is based and guidance and resource information to assist with
     the implementation and usage of the standard unit testing approach are provided
     in appendixes.
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 copyright:
-  owner:
-    name: Institute of Electrical and Electronics Engineers
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '1986'
@@ -62,5 +69,5 @@ keyword:
 - unit
 - Software testing
 ics:
-  code: '35.080'
+- code: '35.080'
   text: Software
