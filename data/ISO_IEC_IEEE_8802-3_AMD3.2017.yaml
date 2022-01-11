@@ -63,6 +63,12 @@ copyright:
   - name:
     - IEC
   from: '2018'
+relation:
+- type: adoptedFrom
+  bibitem:
+    formattedref:
+      content: IEEE 802-3bq.2016
+      format: text/plain
 keyword:
 - IEEE Standards
 - IEC Standards
@@ -78,26 +84,14 @@ keyword:
 - 40 Gigabit Ethernet
 - Auto-Negotiation
 - Ethernet
-- IEEE 802(R)
-- IEEE 802.3(TM)
-- IEEE 802.3bq(TM)
+- IEEE 802&#174;
+- IEEE 802.3&#8482;
+- IEEE 802.3bq&#8482;
 - Physical Coding Sublayer (PCS)
 - Physical Medium Attachment (PMA) sublayer
 - structured cabling
 - XLGMII
 ics:
-- code: 35.100.10
-  text: Physical layer
-- code: '35.110'
-  text: Networking
-- code: 35.100.10
-  text: Physical layer
-- code: '35.110'
-  text: Networking
-- code: 35.100.10
-  text: Physical layer
-- code: '35.110'
-  text: Networking
 - code: 35.100.10
   text: Physical layer
 - code: '35.110'
