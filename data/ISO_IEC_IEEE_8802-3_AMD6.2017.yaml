@@ -21,8 +21,6 @@ docid:
   type: DOI
 docnumber: ISO/IEC/IEEE 8802-3/Amd6.2017
 date:
-- type: updated
-  value: '2020-09-25'
 - type: created
   value: '2018-12-11'
 - type: published
@@ -73,6 +71,12 @@ copyright:
   - name:
     - IEC
   from: '2018'
+relation:
+- type: adoptedFrom
+  bibitem:
+    formattedref:
+      content: IEEE 802-3bn.2016
+      format: text/plain
 keyword:
 - IEEE Standards
 - ISO Standards
