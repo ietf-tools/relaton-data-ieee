@@ -18,8 +18,6 @@ docid:
   type: DOI
 docnumber: IEEE 802-15-9.2016
 date:
-- type: updated
-  value: '2016-09-02'
 - type: created
   value: '2016-08-17'
 - type: published
@@ -33,7 +31,7 @@ contributor:
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-    - city: 
+    - city: New York
       country: USA
   role:
   - publisher
@@ -59,7 +57,7 @@ abstract:
   format: text/plain
 - content: A message exchange framework based on information elements as a transport
     method for key management protocol (KMP) datagrams and guidelines for the use
-    of some existing KMPs with IEEE Std 802.15.4(TM) are defined in the recommended
+    of some existing KMPs with IEEE Std 802.15.4&#8482; are defined in the recommended
     practice. A new KMP is not created in this recommended practice. In support of
     KMP transmission and reception, a generic multiplexed data service layer that
     can be used to transmit large packets from the upper KMP to another peer is also
@@ -67,7 +65,7 @@ abstract:
     fragmentation and multiplexing layer for those packets so they can be delivered
     over smaller MAC layer frames and multiplexed on the recipient end to the right
     processing service. (The PDF of this standard is available at no cost compliments
-    of the IEEE GET program http://ieeexplore.ieee.org/document/7544442/)
+    of the IEEE GET program https://ieeexplore.ieee.org/browse/standards/get-program/page)
   language:
   - en
   script:
