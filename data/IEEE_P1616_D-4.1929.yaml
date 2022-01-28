@@ -20,7 +20,7 @@ date:
 - type: published
   value: '2021-04-30'
 - type: issued
-  value: '2021'
+  value: '2021-09-23'
 contributor:
 - organization:
     name:
@@ -38,15 +38,16 @@ language:
 script:
 - Latn
 abstract:
-- content: Motor Vehicle Event Data Recorders (MVEDRs) collect, record, store and
-    export data related to motor vehicle pre-defined events in usage history. This
-    standard defines a protocol for MVEDR output data compatibility and export protocols
-    of MVEDR data elements. This standard defines a Motor Vehicle Event Data Recorder
-    Connector Lockout Apparatus (MVEDRCLA) and a Near Field Communication (NFC) protocol
-    of safeguarding access to a vehicle's event data recorder (EDR) data by securing
-    the vehicle output diagnostic a link connector (DLC) and establishing a chain
-    of custody link. This standard is without prejudice to requirements of national
-    or regional laws related to privacy, data protection and personal data processing.
+- content: Export data related to motor vehicle pre-defined events in usage history
+    is collected, recorded, stored, and exported by motor vehicle event data recorders
+    (MVEDRs). A protocol for MVEDR output data compatibility and export protocols
+    of MVEDR data elements is defined by this standard. A motor vehicle event data
+    recorder connector lockout apparatus (MVEDRCLA) and a near field communication
+    (NFC) protocol is defined for safeguarding access to a vehicle’s event data recorder
+    (EDR) data by securing the vehicle output diagnostic link connector (DLC) and
+    establishing a chain of custody link. This standard is without prejudice to requirements
+    of national or regional laws related to privacy, data protection, and personal
+    data processing.
   language:
   - en
   script:
@@ -94,7 +95,9 @@ keyword:
 - electronic control unit (ECU)
 - electronic equipment and components
 - electronic scan tools
+- electronically erasable programmable read-only memory
 - event data recorder (EDR)
+- IEEE 1616&#8482;
 - information exchange
 - litigation
 - nonvolatile memory
@@ -104,7 +107,8 @@ keyword:
 - odometer fraud
 - odometer spun
 - odometer tampering
-- onboard network data security
+- on-board diagnostic
+- on-board network data security
 - power control module (PCM) and/or electronic control unit (ECU) flashing
 - road vehicle components
 - road vehicle engineering
@@ -112,7 +116,8 @@ keyword:
 - SAE J1962 connectors
 - vehicle components
 - vehicle crash data
-- vehicle identification number (VIN) tampering and/or theft.
+- vehicle identification number (VIN) tampering
+- vehicle identification number (VIN) theft.
 ics:
 - code: 43.040.15
   text: Car informatics. On board computer systems
