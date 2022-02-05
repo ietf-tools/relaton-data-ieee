@@ -26,11 +26,13 @@ jobs:
         run: |
           gem install relaton-cli
       - name: Fetch documents
-        run: relaton fetch-data ieee-rawbib
+        run: |
+          rm -rf data
+          relaton fetch-data ieee-rawbib
       - name: Push data
         run: |
           echo `date` > flag.txt
           git config --global user.name "ietf-ribose-ci"
           git config --global user.email "ietf-ribose-ci@users.noreply.github.com"
-          git add data/* flag.txt
+          git add data flag.txt
           git diff --quiet && git diff --staged --quiet || (git commit -m 'update documents' && git push)
