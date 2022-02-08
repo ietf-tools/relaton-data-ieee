@@ -39,9 +39,9 @@ language:
 script:
 - Latn
 abstract:
-- content: This guide discusses principles of power bus protection. It addresses availability
-    and location of breakers, current sensing devices, and disconnect switches as
-    well as bus configurations and switching schemes and their impact on the selection
+- content: Principles of power bus protection are discussed. The availability and
+    location of breakers, current sensing devices, and disconnect switches are addressed,
+    as well as bus configurations and switching schemes and their impact on the selection
     and application of bus protection. Bus protection schemes are presented, and their
     characteristics, strengths, and limitations are examined. Bus protection applications
     are presented.
@@ -78,7 +78,8 @@ keyword:
 - Protective relaying
 - Voltage control
 - Substations
-- Breaker-and-a-half
+- blocking zone-interlocked bus protection
+- breaker-and-a-half
 - breaker failure (BF) protection
 - breaker substitution
 - buses
@@ -91,6 +92,7 @@ keyword:
 - dynamic bus replica
 - electric power substations
 - high-impedance differential
+- IEEE C37.234
 - main bus
 - partial differential
 - percentage-restrained differential
@@ -100,7 +102,6 @@ keyword:
 - stub bus
 - transfer bus
 - voltage trip supervision
-- blocking zone-interlocked bus protection
 ics:
 - code: 29.130.01
   text: Switchgear and controlgear in general
