@@ -18,8 +18,6 @@ docid:
   type: DOI
 docnumber: IEEE 1801.2013
 date:
-- type: updated
-  value: '2014-03-28'
 - type: created
   value: '2013-05-29'
 - type: published
@@ -33,7 +31,7 @@ contributor:
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-    - city: 
+    - city: New York
       country: USA
   role:
   - publisher
@@ -58,7 +56,7 @@ abstract:
     of a given power management architecture, and for driving implementation of that
     power management architecture. The method supports incremental refinement of power
     intent specifications required for IP-based design flows. (Thanks to our sponsor,
-    the PDF of this standard is provided to the public no charge. Visit http://standards.ieee.org/about/get/index.html
+    the PDF of this standard is provided to the public no charge. Visit https://ieeexplore.ieee.org/browse/standards/get-program/page
     for more details.)
   language:
   - en
@@ -73,6 +71,11 @@ copyright:
     url: http://www.ieee.org
   from: '2013'
 relation:
+- type: obsoletedBy
+  bibitem:
+    formattedref:
+      content: IEEE 1801.2015
+      format: text/plain
 - type: updates
   bibitem:
     formattedref:
@@ -90,7 +93,7 @@ relation:
     formattedref:
       content: IEEE 1801.2015
       format: text/plain
-fetched: '2022-02-14'
+fetched: '2022-02-15'
 keyword:
 - IEEE standards
 - Semantics
