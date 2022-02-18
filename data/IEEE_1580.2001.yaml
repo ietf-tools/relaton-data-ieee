@@ -19,8 +19,6 @@ docid:
   type: DOI
 docnumber: IEEE 1580.2001
 date:
-- type: updated
-  value: '2018-06-29'
 - type: created
   value: '2001-12-17'
 - type: published
@@ -34,7 +32,7 @@ contributor:
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-    - city: 
+    - city: New York
       country: USA
   role:
   - publisher
@@ -82,7 +80,12 @@ relation:
     formattedref:
       content: IEEE 1580.2010
       format: text/plain
-fetched: '2022-02-17'
+- type: obsoletedBy
+  bibitem:
+    formattedref:
+      content: IEEE 1580.2010
+      format: text/plain
+fetched: '2022-02-18'
 keyword:
 - IEEE Standards
 - Underwater cables
@@ -91,5 +94,5 @@ keyword:
 - platforms
 - shipboard
 ics:
-- code: 47.020.60
-  text: Electrical equipment for ships or marine structures
+- code: 01.040.11
+  text: Health care technology (Vocabularies)

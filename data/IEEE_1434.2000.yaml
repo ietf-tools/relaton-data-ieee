@@ -42,9 +42,9 @@ script:
 - Latn
 abstract:
 - content: A review of the nature of partial discharge in machine windings, how it
-    can be measuredunder both off-line and on-line conditions, how it can be measured
-    for individual form-wound coilsor bars, and the significance and limitations of
-    the measured values are covered.
+    can be measured under both off-line and on-line conditions, how it can be measured
+    for individual form-wound coils or bars, and the significance and limitations
+    of the measured values are covered.
   language:
   - en
   script:
@@ -63,7 +63,12 @@ relation:
     formattedref:
       content: IEEE 1434.2014
       format: text/plain
-fetched: '2022-02-17'
+- type: obsoletedBy
+  bibitem:
+    formattedref:
+      content: IEEE 1434.2014
+      format: text/plain
+fetched: '2022-02-18'
 keyword:
 - Electric machines
 - electrical insulation
@@ -72,5 +77,5 @@ keyword:
 - partial discharge
 - rotating machine windings
 ics:
-- code: 29.160.01
-  text: Rotating machinery in general
+- code: 01.040.11
+  text: Health care technology (Vocabularies)

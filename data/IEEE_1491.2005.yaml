@@ -19,8 +19,6 @@ docid:
   type: DOI
 docnumber: IEEE 1491.2005
 date:
-- type: updated
-  value: '2009-01-15'
 - type: created
   value: '2005-11-15'
 - type: published
@@ -34,7 +32,7 @@ contributor:
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-    - city: 
+    - city: New York
       country: USA
   role:
   - publisher
@@ -73,6 +71,12 @@ copyright:
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2005'
+relation:
+- type: obsoletedBy
+  bibitem:
+    formattedref:
+      content: IEEE P1491/D-7.3.2010-06
+      format: text/plain
 keyword:
 - Batteries
 - IEEE Standards
@@ -102,5 +106,5 @@ keyword:
 - software
 - specific gravity
 ics:
-- code: 29.220.10
-  text: Primary cells and batteries
+- code: 01.040.11
+  text: Health care technology (Vocabularies)

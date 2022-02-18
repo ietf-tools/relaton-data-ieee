@@ -18,8 +18,6 @@ docid:
   type: DOI
 docnumber: IEEE C57-13-1.2006
 date:
-- type: updated
-  value: '2008-02-11'
 - type: created
   value: '2007-02-28'
 - type: published
@@ -33,7 +31,7 @@ contributor:
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-    - city: 
+    - city: New York
       country: USA
   role:
   - publisher
@@ -69,6 +67,11 @@ copyright:
     url: http://www.ieee.org
   from: '2007'
 relation:
+- type: obsoletedBy
+  bibitem:
+    formattedref:
+      content: IEEE C57-13-1.2017
+      format: text/plain
 - type: updates
   bibitem:
     formattedref:
@@ -86,7 +89,7 @@ relation:
     formattedref:
       content: IEEE C57-13-1.2017
       format: text/plain
-fetched: '2022-02-17'
+fetched: '2022-02-18'
 keyword:
 - IEEE Standards
 - Current transformers

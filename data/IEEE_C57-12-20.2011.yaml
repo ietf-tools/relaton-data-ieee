@@ -19,8 +19,6 @@ docid:
   type: DOI
 docnumber: IEEE C57-12-20.2011
 date:
-- type: updated
-  value: '2012-07-27'
 - type: created
   value: '2011'
 - type: published
@@ -34,7 +32,7 @@ contributor:
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-    - city: 
+    - city: New York
       country: USA
   role:
   - publisher
@@ -72,6 +70,11 @@ copyright:
     url: http://www.ieee.org
   from: '2011'
 relation:
+- type: obsoletedBy
+  bibitem:
+    formattedref:
+      content: IEEE C57-12-20.2017
+      format: text/plain
 - type: updates
   bibitem:
     formattedref:
@@ -89,7 +92,7 @@ relation:
     formattedref:
       content: IEEE C57-12-20.2017
       format: text/plain
-fetched: '2022-02-17'
+fetched: '2022-02-18'
 keyword:
 - IEEE standards
 - Transformers
