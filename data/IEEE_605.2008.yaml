@@ -2,28 +2,27 @@
 id: IEEE605.2008
 title:
 - type: main
-  content: IEEE Guide for Bus Design in Air Insulated Substations
+  content: IEEE Guide for Specifications of High-Voltage Circuit Breakers (over 1000
+    Volts)
   format: text/plain
 link:
-- content: https://ieeexplore.ieee.org/document/6581801
+- content: https://ieeexplore.ieee.org/document/4811155
   type: src
 type: standard
 docid:
 - id: IEEE 605.2008
   type: IEEE
   primary: true
-- id: 978-0-7381-5857-0
+- id: 978-0-7381-5883-9
   type: ISBN
-- id: 10.1109/IEEESTD.2010.6581801
+- id: 10.1109/IEEESTD.2008.4811155
   type: DOI
 docnumber: IEEE 605.2008
 date:
-- type: updated
-  value: '2013-10-04'
 - type: created
-  value: '2010-05-14'
+  value: '2009'
 - type: published
-  value: '2013-08-15'
+  value: '2022-02-24'
 - type: issued
   value: '2008-12-10'
 contributor:
@@ -33,39 +32,20 @@ contributor:
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-    - city: 
+    - city: New York
       country: USA
   role:
   - publisher
-revdate: '2013-08-15'
+revdate: '2022-02-24'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: A proper design of the substation bus ensures a safe and reliable operation
-    of the substation and the power system. Two different types of buses are used
-    in substations, the rigid bus and the strain (cable). This guide provides information
-    on the different bus arrangements used in substations stating the advantages and
-    disadvantages of each. Also it provides information as related to each bus type
-    and construction. Once the bus type is selected, this guide provides the calculation
-    tools for each bus type. Based on these calculations, the engineer can specify
-    the bus size, forces acting on the bus structure, number of mounting structures
-    required, and hardware requirements.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-- content: A proper design of the substation bus ensures a safe and reliable operation
-    of the substation and the power system. Two different types of buses are used
-    in substations, the rigid bus and the strain (cable). This guide provides information
-    on the different bus arrangements used in substations stating the advantages and
-    disadvantages of each. Also it provides information as related to each bus type
-    and construction. Once the bus type is selected, this guide provides the calculation
-    tools for each bus type. Based on these calculations, the engineer can specify
-    the bus size, forces acting on the bus structure, number of mounting structures
-    required, and hardware requirements.
+- content: These specifications apply to all indoor and outdoor types of ac high-voltage
+    circuit breakers rate above 1000 volts. this document is issued only as a guide
+    for use in compiling specifications for ac high-voltage circuit breakers. the
+    imperative mode of the language is illustrative of that used in specifications.
   language:
   - en
   script:
@@ -77,30 +57,41 @@ copyright:
     - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
-  from: '2010'
+  from: '2009'
+relation:
+- type: obsoletedBy
+  bibitem:
+    formattedref:
+      content: IEEE C37-12.2018
+      format: text/plain
 keyword:
-- IEEE standards
-- Finite element methods
-- Corona
+- IEEE Standards
+- High-voltage techniques
 - Circuit breakers
-- Short circuits
-- Ampacity
-- Ice
-- Substations
-- Insulation
-- ampacity
-- bus support
-- corona
-- electromagnetic
-- finite-element
-- forces
-- ice
-- mounting structure
-- rigid bus structures
-- short circuit
-- strain-bus structures
-- substation design
-- wind
+- Interrupters
+- Capacitance
+- Power frequency
+- Fault diagnosis
+- C37.12-2008
+- capacitance current switching
+- circuit breaker
+- dielectric withstand
+- fast transient recovery voltage
+- high-voltage
+- indoor
+- initial
+- interrupting time
+- manufacturer
+- mechanical endurance
+- operating duty
+- outdoor
+- power frequency
+- purchaser
+- ratings
+- related capabilities
+- short-circuit current
+- short-line fault
+- specification.
 ics:
-- code: '31.200'
-  text: Integrated circuits. Microelectronics
+- code: 01.040.11
+  text: Health care technology (Vocabularies)

@@ -21,8 +21,6 @@ docid:
   type: ISBN
 docnumber: IEEE C37-12.2008 Redline
 date:
-- type: updated
-  value: '2011-11-07'
 - type: created
   value: '2009'
 - type: published
@@ -36,7 +34,7 @@ contributor:
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-    - city: 
+    - city: New York
       country: USA
   role:
   - publisher
@@ -71,6 +69,12 @@ copyright:
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2011'
+relation:
+- type: obsoletedBy
+  bibitem:
+    formattedref:
+      content: IEEE C37-12.2018
+      format: text/plain
 keyword:
 - IEEE standards
 - Capacitance
@@ -102,5 +106,5 @@ keyword:
 - short-line fault
 - specification.
 ics:
-- code: 29.130.10
-  text: High voltage switchgear and controlgear
+- code: 01.040.11
+  text: Health care technology (Vocabularies)
