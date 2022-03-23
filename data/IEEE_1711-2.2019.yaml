@@ -1,0 +1,87 @@
+---
+id: IEEE1711-2.2019
+title:
+- type: main
+  content: IEEE Standard for Secure SCADA Communications Protocol (SSCP)
+  format: text/plain
+link:
+- content: https://ieeexplore.ieee.org/document/8962396
+  type: src
+type: standard
+docid:
+- id: IEEE 1711-2.2019
+  type: IEEE
+  primary: true
+- id: 978-1-5044-6313-3
+  type: ISBN
+- id: 10.1109/IEEESTD.2020.8962396
+  type: DOI
+docnumber: IEEE 1711-2.2019
+date:
+- type: created
+  value: '2020-01-21'
+- type: published
+  value: '2020-01-17'
+- type: issued
+  value: '2019-11-07'
+contributor:
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+    - city: New York
+      country: USA
+  role:
+  - publisher
+revdate: '2020-01-17'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: A cryptographic protocol to provide integrity with optional confidentiality
+    for cyber security of substation serial links is defined in this standard. It
+    does not address specific applications or hardware implementations and is independent
+    of the underlying communications protocol.The elevated concern of cyber security
+    throughout the power industry has created a need to protect communications to
+    and from substations. This standard defines a cryptographic protocol known as
+    Secure SCADA Communications Protocol (SSCP) that protects the integrity and, optionally,
+    the confidentiality of asynchronous serial communications typically used by control
+    system equipment. SSCP is primarily intended to protect serial SCADA communications,
+    but can be applied to other serial communications, such as the maintenance ports
+    of intelligent electronic devices. SSCP is independent of the underlying communications
+    link and protocol (e.g., Modbus, DNP3, IEC 60870- 5), and is appropriate for serial
+    communications over leased lines, dial-up lines, multi-drop links, radio, power
+    line carrier, fiber optic, etc. SSCP is suitable for implementation in new equipment
+    or for deployment in bump-in-the-wire devices retrofitting protection to existing
+    systems.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+copyright:
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2020'
+keyword:
+- IEEE Standards
+- SCADA systems
+- Communication security
+- Cryptography
+- Data acquisition
+- communications protocol
+- confidentiality
+- cryptography
+- data acquisitions
+- IEEE 1711.2
+- integrity
+- SCADA
+- secure communications
+- SSCP
+- supervisory control

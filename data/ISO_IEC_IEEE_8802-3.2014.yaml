@@ -1,0 +1,124 @@
+---
+id: ISO/IEC/IEEE8802-3.2014
+title:
+- type: main
+  content: ISO/IEC/IEEE International Standard for Ethernet
+  format: text/plain
+link:
+- content: https://ieeexplore.ieee.org/document/6781545
+  type: src
+type: standard
+docid:
+- id: ISO/IEC/IEEE 8802-3.2014
+  type: IEEE
+  primary: true
+- id: 978-0-7381-9051-8
+  type: ISBN
+- id: 10.1109/IEEESTD.2014.6781545
+  type: DOI
+docnumber: ISO/IEC/IEEE 8802-3.2014
+date:
+- type: created
+  value: '2014'
+- type: published
+  value: '2014-04-01'
+- type: issued
+  value: '2012'
+contributor:
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+    - city: New York
+      country: USA
+  role:
+  - publisher
+revdate: '2014-04-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Ethernet local area network operation is specified for selected speeds
+    of operation from 1 Mb/s to 100 Gb/s using a common media access control (MAC)
+    specification and management information base (MIB). The Carrier Sense Multiple
+    Access with Collision Detection (CSMA/CD) MAC protocol specifies shared medium
+    (half duplex) operation, as well as full duplex operation. Speed specific Media
+    Independent Interfaces (MIIs) allow use of selected Physical Layer devices (PHY)
+    for operation over coaxial, twisted-pair or fiber optic cables. System considerations
+    for multisegment shared access networks describe the use of Repeaters that are
+    defined for operational speeds up to 1000 Mb/s. Local Area Network (LAN) operation
+    is supported at all speeds. Other specified capabilities include various PHY types
+    for access networks, PHYs suitable for metropolitan area network applications,
+    and the provision of power over selected twisted-pair PHY types.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+copyright:
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  - name:
+    - ISO
+  - name:
+    - IEC
+  from: '2014'
+relation:
+- type: adoptedFrom
+  bibitem:
+    formattedref:
+      content: IEEE 802-3.2012
+      format: text/plain
+keyword:
+- IEEE standards
+- ISO standards
+- IEC standards
+- Ethernet
+- Information exchange
+- Local area networks
+- Metropolitan area networks
+- 10BASE
+- 100BASE
+- 1000BASE
+- 10GBASE
+- 40GBASE
+- 100GBASE
+- 10 Gigabit Ethernet
+- 40 Gigabit Ethernet
+- 100 Gigabit Ethernet
+- attachment unit interface
+- AUI
+- Auto Negotiation
+- Backplane Ethernet
+- DTE Power via the MDI
+- EPON
+- Ethernet in the First Mile
+- Ethernet passive optical network
+- Gigabit Ethernet
+- GMII
+- IEEE 802.3
+- management
+- media independent interface
+- MDI
+- MIB
+- MII
+- PHY
+- physical coding sublayer
+- physical medium attachment
+- PMA
+- Power over Ethernet
+- repeater
+- type field
+- VLAN TAG
+- XGMII
+ics:
+- code: '35.110'
+  text: Networking
+- code: 35.100.10
+  text: Physical layer

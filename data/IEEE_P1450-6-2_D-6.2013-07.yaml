@@ -1,0 +1,79 @@
+---
+id: IEEEP1450-6-2/D-6.2013-07
+title:
+- type: main
+  content: IEEE Draft Standard for Memory Modeling in Core Test Language (CTL)
+  format: text/plain
+link:
+- content: https://ieeexplore.ieee.org/document/6583941
+  type: src
+type: standard
+docid:
+- id: IEEE P1450-6-2/D-6.2013-07
+  type: IEEE
+  primary: true
+- id: 978-0-7381-8619-1
+  type: ISBN
+docnumber: IEEE P1450-6-2/D-6.2013-07
+date:
+- type: created
+  value: '2013-08-21'
+- type: published
+  value: '2013-08-21'
+- type: issued
+  value: '2014-03-27'
+contributor:
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+    - city: Piscataway
+      country: USA
+  role:
+  - publisher
+revdate: '2013-08-21'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: System on Chip (SoC) test requires reuse of test data and test structures
+    developed for individual cores (designs) when integrated into larger integrated
+    circuits. This activity defines language constructs sufficient to represent the
+    context of a memory-core and of the integration of that memory-core into an SoC,
+    to facilitate development and reuse of test and repair mechanisms for memories.
+    This activity also defines constructs that represent the test structures internal
+    to the memory-core for reuse in the creation of the tests for the logic outside
+    the memory-core. Semantic rules are defined for the language to facilitate interoperability
+    between different entities (the memory-core provider, the system integrator, and
+    the automation tool developer) involved in the creation of an SoC. The capabilities
+    are an extension of IEEE 1450.6-2005. As a result of this extension, CTL's limitations
+    of handling memories are addressed.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+copyright:
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2013'
+keyword:
+- IEEE standards
+- Memory management
+- Computer languages
+- System-on-chip
+- Core Test Language (CTL)
+- Standard Test Interface Language (STIL)
+- System-on-Chip (SoC)
+- Memory Built-In-Self-Test (Memory BIST)
+- memory modeling
+- memory repair
+ics:
+- code: '35.060'
+  text: Languages used in information technology

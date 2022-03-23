@@ -1,0 +1,95 @@
+---
+id: IEEEP1588/D-1.5.2019-05
+title:
+- type: main
+  content: IEEE Draft Standard for a Precision Clock Synchronization Protocol for
+    Networked Measurement and Control Systems
+  format: text/plain
+link:
+- content: https://ieeexplore.ieee.org/document/8741323
+  type: src
+type: standard
+docid:
+- id: IEEE P1588/D-1.5.2019-05
+  type: IEEE
+  primary: true
+- id: 978-1-5044-5915-0
+  type: ISBN
+docnumber: IEEE P1588/D-1.5.2019-05
+date:
+- type: created
+  value: '2019'
+- type: published
+  value: '2019-06-19'
+- type: issued
+  value: '2019-11-07'
+contributor:
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+    - city: New York
+      country: USA
+  role:
+  - publisher
+revdate: '2019-06-19'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: In this standard, a protocol is defined that provides precise synchronization
+    of clocks in packet-based networked systems. Synchronization of clocks can be
+    achieved in heterogeneous systems that include clocks of different inherent precision,
+    resolution, and stability. The protocol supports synchronization accuracy and
+    precision in the sub-microsecond range with minimal network and local computing
+    resources. Customization is supported by means of profiles. The protocol includes
+    default profiles that permit simple systems to be installed and operated without
+    the need for user management. Sub-nanosecond time transfer accuracy can be achieved
+    in a properly designed network.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+copyright:
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2019'
+relation:
+- type: updates
+  bibitem:
+    formattedref:
+      content: IEEE 1588.2008
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+fetched: '2022-03-22'
+keyword:
+- IEEE Standards
+- Clocks
+- Synchronization
+- Networked control systems
+- Smart grid
+- Boundary Clock
+- clock
+- Grandmaster Clock
+- IEEE 1588
+- management
+- Ordinary Clock
+- security
+- synchronization
+- Transparent Clock
+ics:
+- code: 39.040.99
+  text: Other time-measuring instruments

@@ -1,0 +1,79 @@
+---
+id: IEEE758.1979
+title:
+- type: main
+  content: IEEE Standard Subroutines for Computer Automated Measurement and Control
+    (CAMAC)
+  format: text/plain
+link:
+- content: https://ieeexplore.ieee.org/document/19507
+  type: src
+type: standard
+docid:
+- id: IEEE 758.1979
+  type: IEEE
+  primary: true
+- id: 978-0-7381-0714-1
+  type: ISBN
+- id: 10.1109/IEEESTD.1979.120307
+  type: DOI
+docnumber: IEEE 758.1979
+date:
+- type: created
+  value: '1979-12-28'
+- type: published
+  value: '2020-01-31'
+- type: issued
+  value: '1978-12-14'
+contributor:
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+    - city: New York
+      country: USA
+  role:
+  - publisher
+revdate: '2020-01-31'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: A set of standard subroutines that provide access to CAMAC facilities in
+    a variety of computer programming languages is described. The subroutines are
+    specifically intended to be suitable for use with FORTRAN, although they are not
+    restricted to that language. The subroutines have been grouped into three subsets
+    in order to provide different standard levels of implementation. The lowest level
+    requires only two subroutines, but, nevertheless, gives access to most of the
+    facilities that can be found in CAMAC. In higher levels of implementation, subroutines
+    are added that permit procedures to be written in more mnemonic terminology, provide
+    better handling of LAMs, permit procedures to be independent of the type of CAMAC
+    highway used, and provide efficient block-transfer capability.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+copyright:
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '1979'
+keyword:
+- CAMAC
+- Standards
+- Algorithms
+- subroutines
+- CAMAC
+ics:
+- code: 27.120.99
+  text: Other standards related to nuclear energy
+- code: '35.060'
+  text: Languages used in information technology
+- code: 35.240.99
+  text: IT applications in other fields

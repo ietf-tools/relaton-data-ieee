@@ -1,0 +1,76 @@
+---
+id: IEEE959.1988
+title:
+- type: main
+  content: 'IEEE Standard Specifications for an I/O Expansion Bus: SBX Bus'
+  format: text/plain
+link:
+- content: https://ieeexplore.ieee.org/document/26635
+  type: src
+type: standard
+docid:
+- id: IEEE 959.1988
+  type: IEEE
+  primary: true
+- id: 978-0-7381-2754-5
+  type: ISBN
+- id: 10.1109/IEEESTD.1988.79666
+  type: DOI
+docnumber: IEEE 959.1988
+date:
+- type: created
+  value: '1988-12-21'
+- type: published
+  value: '2019-04-26'
+- type: issued
+  value: '1988-06-09'
+contributor:
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+    - city: New York
+      country: USA
+  role:
+  - publisher
+revdate: '2019-04-26'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: An I/O expansion bus for microcomputers that is independent of processor
+    or board type is specified. Each expansion interface supports up to 16 8-bit I/O
+    ports directly. Enhanced addressing capability is available using slave processors
+    or FIFO devices. In addition, each expansion interface may optionally support
+    a DMA channel capable of data rates up to 2 16-bit Mwords/sec. These features
+    are supported for both 8- and 16-bit data paths. The specification has been prepared
+    for those users who intend to design or evaluate products that will be compatible
+    with the bus. For this purpose, functional, electrical, and mechanical specification
+    is covered in detail. The intent of the specification is to guarantee compatibility
+    between baseboards and expansion modules while not restricting the actual designs
+    any more than necessary.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+copyright:
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '1988'
+keyword:
+- Computer interfaces
+- Standards
+- i/o
+- extension
+- bus
+- sbx
+ics:
+- code: '35.160'
+  text: Microprocessor systems

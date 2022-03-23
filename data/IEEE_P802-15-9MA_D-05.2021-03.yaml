@@ -1,0 +1,96 @@
+---
+id: IEEEP802-15-9ma/D-05.2021-03
+title:
+- type: main
+  content: IEEE Draft Standard for Transport of Key Management Protocol (KMP) Datagrams
+  format: text/plain
+link:
+- content: https://ieeexplore.ieee.org/document/9373043
+  type: src
+type: standard
+docid:
+- id: IEEE P802-15-9ma/D-05.2021-03
+  type: IEEE
+  primary: true
+- id: 978-1-5044-7466-5
+  type: ISBN
+docnumber: IEEE P802-15-9ma/D-05.2021-03
+date:
+- type: created
+  value: '2021'
+- type: published
+  value: '2021-03-08'
+- type: issued
+  value: '2021-06-16'
+contributor:
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+    - city: New York
+      country: USA
+  role:
+  - publisher
+revdate: '2021-03-08'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: A message exchange framework based on information elements as a transport
+    method for key management protocol (KMP) datagrams and guidelines for the use
+    of some existing KMPs with IEEE Std 802.15.4(TM) is defined in this standard.
+    A new KMP is not created in this standard. In support of KMP transmission and
+    reception, a generic multiplexed data service layer that can be used to transmit
+    large packets from the upper KMP to another peer and that provides for protocol
+    discrimination is also provided in this standard. The multiplexed data service
+    provides a fragmentation and multiplexing layer for those packets so they can
+    be delivered over smaller MAC layer frames and multiplexed on the recipient end
+    to the right processing service. The multiplexing provides for EtherType protocol
+    discrimination.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+copyright:
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2021'
+relation:
+- type: updates
+  bibitem:
+    formattedref:
+      content: IEEE 802-15-9.2016
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- IEEE Standards
+- Security of data
+- Information technology
+- Media Access Protocol
+- Multiplexing
+- Transport protocols
+- EtherType
+- fragmentation
+- IE
+- IEEE 802.15.9
+- information element
+- key management protocol
+- KMP
+- multiplexed data service
+- security
+ics:
+- code: '35.110'
+  text: Networking

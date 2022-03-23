@@ -1,0 +1,82 @@
+---
+id: IEEEP802-3bf/D-3.2.2011-03
+title:
+- type: main
+  content: 'IEEE Draft Standard for Information technology--Telecommunications and
+    information exchange between systems--Local and metropolitan area networks--Specific
+    requirements Part 3: Carrier Sense Multiple Access with Collision Detection (CSMA/CD)
+    Access Method and Physical Layer SpecificationsAmendment: Media Access Control
+    (MAC) service interface and management parameters to support time synchronization
+    protocols'
+  format: text/plain
+link:
+- content: https://ieeexplore.ieee.org/document/5740645
+  type: src
+type: standard
+docid:
+- id: IEEE P802-3bf/D-3.2.2011-03
+  type: IEEE
+  primary: true
+- id: 978-0-7381-6336-9
+  type: ISBN
+- id: 10.1109/IEEESTD.2011.5740645
+  type: DOI
+docnumber: IEEE P802-3bf/D-3.2.2011-03
+date:
+- type: created
+  value: '2011'
+- type: issued
+  value: '2011-03-28'
+contributor:
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+    - city: Piscataway
+      country: USA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This amendment to IEEE Std 802.3 defines the Time Synchronization Service
+    Interface (TSSI) to indicate when the Start Frame Delimiter (SFD) crosses the
+    generic Medium Independent Interface (xMII), together with management objects
+    indicating transmit and receive data delay between the Medium Dependent Interface
+    (MDI) and xMII for the given Physical Layer devices (PHY). Both features are required
+    to support time synchronization protocols, e.g., IEEE P802.1AS or IEEE Std 1588.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+copyright:
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2011'
+keyword:
+- IEEE standards
+- Synchronization
+- IEEE 802.3 Standards
+- Local area networks
+- Media Access Protocol
+- Ethernet networks
+- Collision avoidance
+- Metropolitan area networks
+- 802.3bf
+- 802.1AS
+- time synchronization protocol
+ics:
+- code: '35.110'
+  text: Networking
+- code: 35.100.20
+  text: Data link layer
+- code: 35.100.10
+  text: Physical layer
