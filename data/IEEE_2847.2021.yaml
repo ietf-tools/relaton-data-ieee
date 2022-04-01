@@ -1,0 +1,80 @@
+---
+id: IEEE2847.2021
+title:
+- type: main
+  content: IEEE Standard for DC Power Transmission and Communication to DC Loads
+  format: text/plain
+link:
+- content: https://ieeexplore.ieee.org/document/9744620
+  type: src
+type: standard
+docid:
+- id: IEEE 2847.2021
+  type: IEEE
+  primary: true
+- id: 978-1-5044-8174-8
+  type: ISBN
+- id: 10.1109/IEEESTD.2022.9744620
+  type: DOI
+docnumber: IEEE 2847.2021
+date:
+- type: created
+  value: '2022'
+- type: issued
+  value: '2021-11-09'
+contributor:
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+    - city: New York
+      country: USA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Physical layer and data link layer specifications for power supply and
+    communication over power lines from a dc power source to multiple dc loads are
+    specified. Each receiver has its own physical address and is connected to the
+    transmitter through a pair of power lines in a multidrop bus or tree topology.
+    The dc power is sent by the transmitter. This dc power, by electrically changing
+    the voltage of the wires, corresponds to the communication packets, including
+    the control command/data for controlling the dc loads and the target address.
+    Power to the dc loads with the transmitted and voltage-flattened dc power is supplied
+    by each receiver. The control command/data and addresses from electric signals
+    on the power line is decoded by each receiver, to be used for the connected dc
+    loads control if the addresses match. The standard is in compliance with known
+    electromagnetic compatibility (EMC) regulations.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+copyright:
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2022'
+keyword:
+- IEEE Standards
+- DC machines
+- Power transmission lines
+- Signal processing
+- DC
+- dc loads
+- dc power
+- dc power line communication
+- dc power transmission
+- differential signal
+- differential signal communication
+- high-power differential signal power line communication
+- IEEE 2847
+- PLC
+- power line communication
