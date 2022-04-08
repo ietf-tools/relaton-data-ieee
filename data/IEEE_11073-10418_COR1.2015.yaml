@@ -20,8 +20,6 @@ docid:
   type: DOI
 docnumber: IEEE 11073-10418/Cor1.2015
 date:
-- type: updated
-  value: '2015-11-20'
 - type: created
   value: '2015-10-27'
 - type: published
@@ -35,7 +33,7 @@ contributor:
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-    - city: 
+    - city: New York
       country: USA
   role:
   - publisher
@@ -78,11 +76,11 @@ abstract:
     in base frameworks in favor of interoperability is specified. A common core of
     functionality of INR devices is defined in this standard. In the context of personal
     health devices, the measurement of the prothrombin time (PT) that is used to assess
-    the level ofanticoagulant therapy and its presentation as the International Normalized
-    Ratio compared to theprothrombin time of normal blood plasma is referred to in
-    INR monitoring. Applications of the INRmonitor include the management of the therapeutic
-    level of anticoagulant used in the treatment ofa variety of conditions. The data
-    modeling and its transport shim layer according to IEEE Std11073-20601(TM)-2014
+    the level of anticoagulant therapy and its presentation as the International Normalized
+    Ratio compared to the prothrombin time of normal blood plasma is referred to in
+    INR monitoring. Applications of the INR monitor include the management of the
+    therapeutic level of anticoagulant used in the treatment of a variety of conditions.
+    The data modeling and its transport shim layer according to IEEE Std 11073-20601(TM)-2014
     are provided by this standard, and the measurement method is not specified. This
     standard corrects errors that have been identified in the IEEE Std 11073-10418-2011
     to make it easier to implement the standard in an interoperable fashion.
@@ -98,19 +96,6 @@ copyright:
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2015'
-relation:
-- type: updates
-  bibitem:
-    formattedref:
-      content: IEEE 11073-10418.2011
-      format: text/plain
-  description:
-    content: corrects
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - IEEE standards
 - Informatics
