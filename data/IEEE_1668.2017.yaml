@@ -19,8 +19,6 @@ docid:
   type: DOI
 docnumber: IEEE 1668.2017
 date:
-- type: updated
-  value: '2018-01-08'
 - type: created
   value: '2017-11-27'
 - type: published
@@ -34,7 +32,7 @@ contributor:
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-    - city: 
+    - city: New York
       country: USA
   role:
   - publisher
@@ -79,6 +77,19 @@ copyright:
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2017'
+relation:
+- type: updates
+  bibitem:
+    formattedref:
+      content: IEEE 1668.2014
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - IEEE Standard
 - Testing
@@ -86,7 +97,7 @@ keyword:
 - Voltage control
 - Power system restoration
 - equipment testing
-- IEEE 1668(TM)
+- IEEE 1668&#8482;
 - immunity
 - power quality
 - ride-through
