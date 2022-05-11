@@ -63,6 +63,11 @@ copyright:
 relation:
 - type: updates
   bibitem:
+    id: IEEE532.1982
+    docid:
+    - id: IEEE 532.1982
+      type: IEEE
+      primary: true
     formattedref:
       content: IEEE 532.1982
       format: text/plain
@@ -73,6 +78,17 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE532.2007
+    docid:
+    - id: IEEE 532.2007
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 532.2007
+      format: text/plain
+fetched: '2022-05-11'
 keyword:
 - IEEE Standards
 - Cable shielding

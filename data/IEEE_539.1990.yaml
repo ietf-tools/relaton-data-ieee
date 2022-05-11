@@ -64,6 +64,11 @@ copyright:
 relation:
 - type: updates
   bibitem:
+    id: ANSI/IEEE539.1979
+    docid:
+    - id: ANSI/IEEE 539.1979
+      type: IEEE
+      primary: true
     formattedref:
       content: ANSI/IEEE 539.1979
       format: text/plain
@@ -74,6 +79,17 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE539.2005
+    docid:
+    - id: IEEE 539.2005
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 539.2005
+      format: text/plain
+fetched: '2022-05-11'
 keyword:
 - Corona
 - Electromagnetic fields
