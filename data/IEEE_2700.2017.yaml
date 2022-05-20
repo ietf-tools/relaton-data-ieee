@@ -43,7 +43,7 @@ script:
 abstract:
 - content: A common framework for sensor performance specification terminology, units,
     conditions, and limits is provided. Specifically, the accelerometer, magnetometer,
-    gyrometer/gyroscope, accelerometer/magnetometer/gyroscope combination sensors,
+    gyrometer/ gyroscope, accelerometer/magnetometer/gyroscope combination sensors,
     barometer/pressure sensors, hygrometer/humidity sensors, temperature sensors,
     light sensors (ambient and RGB), and proximity sensors are discussed.
   language:
@@ -58,6 +58,24 @@ copyright:
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2017'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE2700.2014
+    docid:
+    - id: IEEE 2700.2014
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 2700.2014
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - IEEE Standards
 - Performance evaluation
@@ -73,7 +91,7 @@ keyword:
 - combination sensor
 - gyroscope
 - humidity
-- IEEE 2700(TM)
+- IEEE 2700&#8482;
 - magnetometer
 - MEMS
 - microelectromechanical

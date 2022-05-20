@@ -19,8 +19,6 @@ docid:
   type: DOI
 docnumber: IEEE 2402.2017
 date:
-- type: updated
-  value: '2017-05-26'
 - type: created
   value: '2017-05-15'
 - type: published
@@ -34,7 +32,7 @@ contributor:
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-    - city: 
+    - city: New York
       country: USA
   role:
   - publisher
@@ -61,11 +59,11 @@ abstract:
 - content: The framework of building a distributed ocean observing software system
     based on complex virtual instruments (CVIs), which are used for processing and
     displaying the collected data from ocean instruments and the related metadata,
-    is defi ned in this standard. This framework provides the guidelines for the CVI-based
+    is defined in this standard. This framework provides the guidelines for the CVI-based
     development process, in which CVI structure design covers management of observed
     data and metadata, virtual instrument engine based on geospatial information,
     and service interfaces for CVI interactions. CVI mapping schemes describe the
-    correspondence from observed objects to CVIs. CVI relations defi ne the relationships
+    correspondence from observed objects to CVIs. CVI relations define the relationships
     between CVIs and describe the methods of extending and compositing multiple CVIs.
   language:
   - en
@@ -92,3 +90,6 @@ keyword:
 - IEEE 2402(TM)
 - ocean observation
 - software development
+ics:
+- code: 01.040.11
+  text: Health care technology (Vocabularies)
