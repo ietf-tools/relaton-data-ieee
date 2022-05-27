@@ -19,8 +19,6 @@ docid:
   type: DOI
 docnumber: IEEE C37-123.2016
 date:
-- type: updated
-  value: '2016-07-06'
 - type: created
   value: '2016-05-25'
 - type: published
@@ -34,7 +32,7 @@ contributor:
     abbreviation: IEEE
     url: http://www.ieee.org
     contact:
-    - city: 
+    - city: New York
       country: USA
   role:
   - publisher
@@ -67,6 +65,24 @@ copyright:
     abbreviation: IEEE
     url: http://www.ieee.org
   from: '2016'
+relation:
+- type: updates
+  bibitem:
+    id: IEEEC37-123.1996
+    docid:
+    - id: IEEE C37-123.1996
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37-123.1996
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - IEEE Standards
 - Substations
