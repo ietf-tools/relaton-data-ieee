@@ -63,23 +63,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-- content: This standard defines a protocol enabling precise synchronization of clocks
-    in measurement and control systems implemented with technologies such as network
-    communication, local computing and distributed objects. The protocol is applicable
-    to systems communicating by local area networks supporting multicast messaging
-    including but not limited to Ethernet. The protocol enables heterogeneous systems
-    that include clocks of various inherent precision, resolution, and stability to
-    synchronize to a grandmaster clock. The protocol supports system-wide synchronization
-    accuracy in the sub-microsecond range with minimal network and local clock computing
-    resources. The default behavior of the protocol allows simple systems to be installed
-    and operated without requiring the administrative attention of users. The standard
-    includes mappings to UDP/IP, DeviceNet and a layer-2 Ethernet implementation.
-    An Interpretation is available at http://standards.ieee.org/reading/ieee/interp/1588-2008.html
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 copyright:
 - owner:
   - name:

@@ -67,29 +67,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-- content: This specification describes circuitry that may be added to an integrated
-    circuit to provide access to on-chip Test Access Ports (TAPs) specified by IEEE
-    Std 1149.1TM-2001. The circuitry uses IEEE 1149.1-2001 as its foundation, providing
-    complete backward compatibility, while aggressively adding features to support
-    test and applications debug. It defines six classes of 1149.7 Test Access Ports
-    (TAP.7s), T0&#8211;T5, with each class providing incremental capability, building
-    on that of the lower level classes. Class T0 provides the behavior specified by
-    1149.1 from startup when there are multiple on-chip TAPs. Class T1 adds common
-    debug functions and features to minimize power consumption. Class T2 adds operating
-    modes that maximize scan performance. It also provides an optional hot-connection
-    capability to prevent system corruption when a connection is made to a powered
-    system. Class T3 supports operation in either a fourwire Series or Star Scan Topology.
-    Class T4 provides for communication with either a two-pin or four-pin interface.
-    The two-pin operation serializes 1149.1 transactions and provides for higher Test
-    Clock rates. Class T5 adds the ability to perform data transfers concurrent with
-    scan, supports utilization of functions other than scan, and provides control
-    of TAP.7 pins to custom debug technologies in a manner that ensures current and
-    future interoperability.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 copyright:
 - owner:
   - name:

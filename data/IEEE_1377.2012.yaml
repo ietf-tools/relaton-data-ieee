@@ -67,28 +67,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-- content: Common structures are provided in this standard for encoding data in communication
-    between End Devices (meters, home appliances, IEEE 1703 Nodes) and Utility enterprise
-    collection and control systems using binary codes and Extensible Markup Language
-    (XML) content. The Advanced Metering Infrastructure (AMI) and SmartGrid requirements
-    are addressed as identified by the Office of Electricity Delivery and Energy Reliability
-    of the U.S. Department of Energy and by the Smart Metering Initiative of the Ontario
-    Ministry of Energy (Canada) and of Measurement Canada. Sets of tables are exposed
-    that are grouped together into sections that pertain to a particular feature-set
-    and related function such as Time-of-use, Load Profile, Security, Power Quality,
-    and more. Each standard Table Set (Data Model) can be expanded or restricted by
-    the Manufacturer of the IEEE 1377 Device or home appliance using XML/TDL descriptive
-    registered syntax (XML-based Table Definition Language) and enterprise data-value
-    management using EDL (Exchange Data Language) in a manner that is machine readable.
-    Published jointly with NEMA and Measurement Canada, Tables are provided in support
-    of Gas, Water, and Electric sensors and related appliances. Tables are also provided
-    for network configuration and management by referencing its companion standard
-    IEEE Std 1703TM-2012. IEEE Std 1377-2012 is co-published as ANSI C12.19 and MC12.19.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 copyright:
 - owner:
   - name:

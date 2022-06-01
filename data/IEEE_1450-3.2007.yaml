@@ -57,18 +57,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-- content: The STIL environment supports transferring tester-independent test programs
-    to a specific ATE system. Although native STIL data are tester independent, the
-    actual process of mapping the test program onto tester resources may be critical,
-    and it is necessary to be able to completely and unambiguously specify how the
-    STIL programs and patterns are mapped onto the tester resources. TRC (which stands
-    for either tester resource constraints or tester rules checking, depending on
-    the usage) is an extension to the STIL language to facilitate this operation.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 copyright:
 - owner:
   - name:

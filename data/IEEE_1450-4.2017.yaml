@@ -63,25 +63,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-- content: IEEE Std 1450-1999, which specifies the Standard Test Interface Language
-    (STIL), is extended by this standard to provide an interface between test generation
-    tools and test equipment with regard to the specification of the flow of execution
-    of test program components. It defines structures so that test flows, sub-flows,
-    and binning may be described in a manner that facilitates automated generation,
-    modification, and/or manual maintenance and, although not yet a complete run-time
-    test language, execution on automated test equipment (ATE). It also defines an
-    interface between tester configurations (described by IEEE Std 1450-1999 and IEEE
-    Std 1450.2-2002) and test program components. It also defines a hierarchy of flows,
-    sub-flows, and test components as well as structures for defining flow-related
-    variables and processing expressions involving those variables. It provides structures
-    that support automatic test program generation (ATPRG) and translation and that
-    support running it natively as an ATE programming language. As an adjunct, IEEE
-    Std 1450.3-2007 may be used by ATPRG for tester rules checking.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 copyright:
 - owner:
   - name:

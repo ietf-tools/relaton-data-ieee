@@ -65,27 +65,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-- content: An abstraction layer for multiple home networking technologies that provides
-    acommon interface to widely deployed home networking technologies is defined in
-    this standard:IEEE 1901(TM) over power lines, IEEE 802.11(TM) for wireless, Ethernet
-    over twisted pair cable, andMoCA 1.1 over coax. Additional network technologies
-    are supported by an extensible mechanismusing an IEEE OUI and an XML-formatted
-    document. Connectivity selection for transmission ofpackets arriving from any
-    interface or application is supported by the 1905 abstraction layer.Modification
-    to the underlying home networking technologies is not required by the 1905abstraction
-    layer, and hence it does not change the behavior or implementation of existing
-    homenetworking technologies. The 1905 abstraction layer is between layers 2 and
-    3 and abstracts theindividual details of each interface, aggregates available
-    bandwidth, and facilitates seamlessintegration. The 1905 abstraction layer also
-    facilitates end-to-end quality of service (QoS) whilesimplifying the introduction
-    of new devices to the network, establishing secure connections,extending network
-    coverage, and facilitating advanced network management features includingdiscovery,
-    path selection, autoconfiguration, and QoS negotiation.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 copyright:
 - owner:
   - name:
