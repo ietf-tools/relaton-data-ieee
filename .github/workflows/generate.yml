@@ -33,7 +33,7 @@ jobs:
       - name: Push data
         run: |
           echo `date` > flag.txt
-          git config --global user.name "ietf-ribose-ci"
-          git config --global user.email "ietf-ribose-ci@users.noreply.github.com"
+          git config user.name ietf-bib-bot
+          git config user.email gh-bib-bot@llc.ietf.org
           git add data flag.txt
           git diff --quiet && git diff --staged --quiet || (git commit -m 'update documents' && git push)
