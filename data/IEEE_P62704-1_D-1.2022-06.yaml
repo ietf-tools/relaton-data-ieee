@@ -1,26 +1,28 @@
 ---
-id: IEEEP1547-3/D-3.08.2022-03
+id: IEEEP62704-1/D-1.2022-06
 title:
 - type: main
-  content: IEEE Draft Guide for Cybersecurity of Distributed Energy Resources Interconnected
-    with Electric Power Systems
+  content: 'IEC/IEEE Draft Standard for Determining the Peak Spatial Average Specific
+    Absorption Rate (SAR) in the Human Body from Wireless Communications Devices,
+    30 MHz to 6 GHz. Part 1: General Requirements for using the Finite Difference
+    Time Domain (FDTD) Method for SAR Calculations'
   format: text/plain
 link:
-- content: https://ieeexplore.ieee.org/document/9751215
+- content: https://ieeexplore.ieee.org/document/9812576
   type: src
 type: standard
 docid:
-- id: IEEE P1547-3/D-3.08.2022-03
+- id: IEEE P62704-1/D-1.2022-06
   type: IEEE
   primary: true
-- id: 978-1-5044-8601-9
+- id: 978-1-5044-8815-0
   type: ISBN
-docnumber: IEEE P1547-3/D-3.08.2022-03
+docnumber: IEEE P62704-1/D-1.2022-06
 date:
 - type: created
   value: '2022'
 - type: published
-  value: '2022-04-07'
+  value: '2022-07-01'
 - type: issued
   value: '2022'
 contributor:
@@ -34,7 +36,7 @@ contributor:
       country: USA
   role:
   - publisher
-revdate: '2022-04-07'
+revdate: '2022-07-01'
 language:
 - en
 script:
@@ -45,17 +47,19 @@ copyright:
     - Institute of Electrical and Electronics Engineers
     abbreviation: IEEE
     url: http://www.ieee.org
+  - name:
+    - IEC
   from: '2022'
 relation:
 - type: updates
   bibitem:
-    id: IEEE1547-3.2007
+    id: IEC/IEEE62704-1.2017
     docid:
-    - id: IEEE 1547-3.2007
+    - id: IEC/IEEE 62704-1.2017
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 1547-3.2007
+      content: IEC/IEEE 62704-1.2017
       format: text/plain
   description:
     content: revises
@@ -66,12 +70,13 @@ relation:
     format: text/plain
 keyword:
 - IEEE Standards
-- Distributed power generation
-- Energy management
-- Power systems
-- Computer security
-- Information exchange
-- Information security
+- IEC Standards
+- Specific absorption rate
+- Finite different methods
+- Time-domain analysis
+- Human factors
 ics:
-- code: '27.100'
-  text: Power stations in general
+- code: '13.280'
+  text: Radiation protection
+- code: 33.070.01
+  text: Mobile services in general
