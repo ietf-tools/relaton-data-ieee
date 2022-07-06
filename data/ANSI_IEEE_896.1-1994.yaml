@@ -1,0 +1,92 @@
+---
+id: ANSI/IEEE896.1-1994
+title:
+- type: main
+  content: ISO/IEC/IEEE International Standard - Information Technology -- Microprocessor
+    Systems -- Futurebus+(R) - Logical Protocol specification
+  format: text/plain
+link:
+- content: https://ieeexplore.ieee.org/document/467390
+  type: src
+type: standard
+docid:
+- id: ANSI/IEEE 896.1-1994
+  type: IEEE
+  primary: true
+- id: 978-0-7381-1212-1
+  type: ISBN
+- id: 10.1109/IEEESTD.1994.122159
+  type: DOI
+docnumber: ANSI/IEEE 896.1-1994
+date:
+- type: created
+  value: '1994'
+- type: published
+  value: '2019-05-31'
+- type: issued
+  value: '1994'
+contributor:
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+    - city: New York
+      country: USA
+  role:
+  - publisher
+revdate: '2019-05-31'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'This International Standard provides a set of tools with which to implement
+    a Futurebus+ architecture with performance and cost scalability over time, for
+    multiple generations of single- and multiple-bus multiprocessor systems. Although
+    this specification is principally intended for 64-bit address and data operation,
+    a fully compatible 32-bit subset is provided, along with compatible extensions
+    to support 128- and 256-bit data highways. Allocation of bus bandwidth to competing
+    modules is provided by either a fast centralized arbiter, or a fully distributed,
+    one or two pass, parallel contention arbiter. Bus allocation rules are provided
+    to suit the needs of both real-time (priority based) and fairness (equal opportunity
+    access based) configurations. Transmission of data over the multiplexed address/data
+    highway is governed by one of two intercompatible transmission methods: a) a technology-independent,
+    compelled-protocol, supporting broadcast, broad call, and transfer intervention
+    (the minimum requirement for all Futurebus+ systems), and b) a configurable transfer-rate,
+    source-synchronized protocol supporting only block transfers and source-synchronized
+    broadcast for systems requiring the highest possible performance. Futurebus+ takes
+    its name from its goal of being capable of the highest possible transfer rate
+    consistent with the technology available at the time modules are designed, while
+    ensuring compatibility with all modules designed to this standard both before
+    and after. The plus sign (+) refers to the extensible nature of the specification,
+    and the hooks provided to allow furthere evolution to meet unanticipated needs
+    of specific application architectures. It is intended that this International
+    Standard be used as a key component of an approved IEEE Futurebus+ profile.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+copyright:
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '1994'
+keyword:
+- IEEE Standards
+- IEC Standards
+- ISO Standards
+- ISO
+- IEC
+- Lifting equipment
+- bus architecture
+- futurebus +
+- logical protocol
+- multiprocessor systems
+ics:
+- code: '35.160'
+  text: Microprocessor systems

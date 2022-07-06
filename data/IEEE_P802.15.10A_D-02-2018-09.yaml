@@ -1,0 +1,103 @@
+---
+id: IEEEP802.15.10a/D-02-2018-09
+title:
+- type: main
+  content: IEEE Draft Recommended Practice for Routing Packets in IEEE 802.15.4 Dynamically
+    Changing Wireless Networks Amendment to fully define use of addressing and route
+    information currently in the standard - Amendment A
+  format: text/plain
+link:
+- content: https://ieeexplore.ieee.org/document/8509659
+  type: src
+type: standard
+docid:
+- id: IEEE P802.15.10a/D-02-2018-09
+  type: IEEE
+  primary: true
+- id: 978-1-5044-5268-7
+  type: ISBN
+docnumber: IEEE P802.15.10a/D-02-2018-09
+date:
+- type: created
+  value: '2018-10-19'
+- type: published
+  value: '2018-10-25'
+- type: issued
+  value: '2019-02-08'
+contributor:
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+    - city: New York
+      country: USA
+  role:
+  - publisher
+revdate: '2018-10-25'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'This amendment to IEEE Std 802.15.10 fully defines how the addressing
+    and route information (already defined in the recommended practice) are to be
+    used by the routing modes (also currently defined in the recommended practice),
+    including at least the following: end-to-end (E2E) acknowledgment from mesh route
+    in non-storing mode; peer-to-peer (P2P) routing using a combination of up/down
+    routing in non-storing mode; on-demand P2P routing for E2E acknowledgment in non-storing
+    mode; on-demand path storing when sending unicast in non-storing mode.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+copyright:
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2018'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE802.15.10-2017
+    docid:
+    - id: IEEE 802.15.10-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.15.10-2017
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- IEEE Standards
+- Routing protocols
+- Wireless networks
+- Broadcasting
+- Reconfigurable architectures
+- amendment
+- discovery and addition of new nodes
+- IEEE 802.15.4
+- IEEE 802.15.10
+- IEEE 802.15.10a
+- dynamic route reconfiguration
+- frame forwarding
+- purging of inactive routes
+- real time link status information exchange
+- re-establishment of broken/lost routes
+- route establishment
+- single hop appearance at the networking layer (not breaking standard Layer 3 mechanisms)
+- support for broadcast
+- support for multicast
+ics:
+- code: '35.110'
+  text: Networking

@@ -1,0 +1,114 @@
+---
+id: IEEE1667-2009Redline
+title:
+- type: title-main
+  content: IEEE Standard for Authentication in Host Attachments of Transient Storage
+    Devices
+  format: text/plain
+- type: main
+  content: IEEE Standard for Authentication in Host Attachments of Transient Storage
+    Devices - Redline
+  format: text/plain
+link:
+- content: https://ieeexplore.ieee.org/document/5953417
+  type: src
+type: standard
+docid:
+- id: IEEE 1667-2009 Redline
+  type: IEEE
+  primary: true
+- id: 978-0-7381-6841-8
+  type: ISBN
+- id: 10.1109/IEEESTD.2010.5953417
+  type: DOI
+docnumber: IEEE 1667-2009 Redline
+date:
+- type: created
+  value: '2010'
+- type: published
+  value: '2013-08-15'
+- type: issued
+  value: '2009-11-09'
+contributor:
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+    - city: New York
+      country: USA
+  role:
+  - publisher
+revdate: '2013-08-15'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This project defines a standard protocol for secure authentication and
+    creation of trust between a secure host and a directly attached Transient and
+    other Storage Devices, such as a USB flash drive, portable hard drive, or cellular
+    phone. The protocol has only an indirect relationship with data integrity/security,
+    and does not directly address issues of authorization and enforcement. The protocol
+    also does not address devices that are attached using a network connection. However,
+    a device that uses a point-to-point wireless connection such as WUSB may comply
+    with this protocol.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+copyright:
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2011'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1667-2006
+    docid:
+    - id: IEEE 1667-2006
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1667-2006
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE1667-2015
+    docid:
+    - id: IEEE 1667-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1667-2015
+      format: text/plain
+keyword:
+- IEEE standards
+- Storage automation
+- Authentication
+- Universal Serial Bus
+- Transient analysis
+- 1667-2009
+- authentication
+- certificates
+- discovery
+- probe
+- removable storage
+- security
+ics:
+- code: '35.040'
+  text: Information coding
+- code: 35.220.01
+  text: Data storage devices in general

@@ -1,0 +1,115 @@
+---
+id: IEEE1647-2008Redline
+title:
+- type: title-main
+  content: IEEE Standard for the Functional Verification Language e
+  format: text/plain
+- type: main
+  content: IEEE Standard for the Functional Verification Language e - Redline
+  format: text/plain
+link:
+- content: https://ieeexplore.ieee.org/document/5982069
+  type: src
+type: standard
+docid:
+- id: IEEE 1647-2008 Redline
+  type: IEEE
+  primary: true
+- id: 978-0-7381-6955-2
+  type: ISBN
+docnumber: IEEE 1647-2008 Redline
+date:
+- type: created
+  value: '2008-08-03'
+- type: published
+  value: '2019-04-08'
+- type: issued
+  value: '2008-05-09'
+contributor:
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+    - city: New York
+      country: USA
+  role:
+  - publisher
+revdate: '2019-04-08'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The e functional verification language is an application-specific programming
+    language, aimed at automating the task of verifying a hardware or software design
+    with respect to its specification. Verification environments written in e provide
+    a model of the environment in which the design is expected to function, including
+    the kinds of erroneous conditions the design needs to withstand. A typical verification
+    environment is capable of generating user-controlled test inputs with statistically
+    interesting characteristics. Such an environment can check the validity of the
+    design responses. Functional coverage metrics are used to control the verification
+    effort and gauge the quality of the design. e verification environments can be
+    used throughout the design cycle, from a high-level architectural model to a fully
+    realized system. A definition of the e language syntax and semantics and how tool
+    developers and verification engineers should use them are contained in this standard.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+copyright:
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2011'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1647-2006
+    docid:
+    - id: IEEE 1647-2006
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1647-2006
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE1647-2011
+    docid:
+    - id: IEEE 1647-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1647-2011
+      format: text/plain
+keyword:
+- IEEE standards
+- Computer languages
+- Formal verification
+- Concurrent computing
+- Dynamic programming
+- 1647-2008
+- assertion
+- concurrent programming
+- constraint
+- dynamic verification
+- functional coverage
+- functional verification
+- simulation
+- temporal logic
+- test generation
+ics:
+- code: '35.060'
+  text: Languages used in information technology

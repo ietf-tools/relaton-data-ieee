@@ -1,0 +1,104 @@
+---
+id: IEEE802.16-2004
+title:
+- type: main
+  content: 'IEEE Standard for Local and metropolitan area networks - Part 16: Air
+    Interface for Fixed Broadband Wireless Access Systems'
+  format: text/plain
+link:
+- content: https://ieeexplore.ieee.org/document/8684627
+  type: src
+type: standard
+docid:
+- id: IEEE 802.16-2004
+  type: IEEE
+  primary: true
+- id: 978-0-7381-4070-4
+  type: ISBN
+- id: 10.1109/IEEESTD.2004.8684627
+  type: DOI
+docnumber: IEEE 802.16-2004
+date:
+- type: created
+  value: '2004-10-01'
+- type: published
+  value: '2019-04-05'
+- type: issued
+  value: '2004-06-24'
+contributor:
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+    - city: New York
+      country: USA
+  role:
+  - publisher
+revdate: '2019-04-05'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This standard specifies the air interface of fixed broadband wireless access
+    (BWA) systems supporting multimedia services. The medium access control layer
+    (MAC) supports a primarily point-to-multipoint architecture, with an optional
+    mesh topology. The MAC is structured to support multiple physical layer (PHY)
+    specifications, each suited to a particular operational environment. For operational
+    frequencies from 10&#8211;66 GHz, the PHY is based on single-carrier modulation.
+    For frequencies below 11 GHz, where propagation without a direct line of sight
+    must be accommodated, three alternatives are provided, using OFDM, OFDMA, and
+    single carrier modulation. This standard revises and consolidates IEEE Std 802.16-2001,
+    IEEE Std 802.16a-2003, and IEEE Std 802.16c-2002.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+copyright:
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2004'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE802.16-2001
+    docid:
+    - id: IEEE 802.16-2001
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.16-2001
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- IEEE Standards
+- Standards
+- IEEE 802.16 Standard
+- Patents
+- Broadband communication
+- Trademarks
+- OFDM
+- fixed broadband wirelss access network
+- metropolitan area network
+- microwave
+- millimeter wave
+- WirelessMAN standards
+ics:
+- code: '35.110'
+  text: Networking
+- code: 35.100.20
+  text: Data link layer
+- code: 35.100.10
+  text: Physical layer

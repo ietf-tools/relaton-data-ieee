@@ -1,0 +1,116 @@
+---
+id: IEEEP1685/D-4-2014-02
+title:
+- type: main
+  content: IEEE Draft Standard for IP-XACT, Standard Structure for Packaging, Integrating,
+    and Reusing IP within Tool Flows
+  format: text/plain
+link:
+- content: https://ieeexplore.ieee.org/document/6755439
+  type: src
+type: standard
+docid:
+- id: IEEE P1685/D-4-2014-02
+  type: IEEE
+  primary: true
+- id: 978-0-7381-8987-1
+  type: ISBN
+docnumber: IEEE P1685/D-4-2014-02
+date:
+- type: created
+  value: '2014-05-02'
+- type: published
+  value: '2014-03-04'
+- type: issued
+  value: '2014-05-02'
+contributor:
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+    - city: Piscataway
+      country: USA
+  role:
+  - publisher
+revdate: '2014-03-04'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Conformance checks for eXtensible Markup Language (XML) data designed
+    to describeelectronic systems are formulated by this standard. The meta-data forms
+    that are standardizedinclude: components, systems, bus interfaces and connections,
+    abstractions of those buses, anddetails of the components including address maps,
+    register and field descriptions, and file setdescriptions for use in automating
+    design, verification, documentation, and use flows for electronicsystems. A set
+    of XML schemas of the form described by the World Wide Web Consortium (W3C)and
+    a set of semantic consistency rules (SCRs) are included. A generator interface
+    that is portableacross tool environments is provided. The specified combination
+    of methodology-independentmeta-data and the tool-independent mechanism for accessing
+    that data provides for portability ofdesign data, design methodologies, and environment
+    implementations.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+copyright:
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2014'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1685-2009
+    docid:
+    - id: IEEE 1685-2009
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1685-2009
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- IEEE standards
+- Electronic design automation and methodology
+- XML
+- Metadata
+- Interoperability
+- Registration
+- Semantics
+- User interfaces
+- abstraction definitions
+- address space specification
+- bus definitions
+- designenvironment
+- EDA
+- electronic design automation
+- electronic system level
+- ESL
+- implementationconstraints
+- IP-XACT
+- register transfer level
+- RTL
+- SCRs
+- semantic consistency rules
+- TGI
+- tightgenerator interface
+- tool and data interoperability
+- use models
+- XML design meta-data
+- XMLschema
+ics:
+- code: 35.240.99
+  text: IT applications in other fields

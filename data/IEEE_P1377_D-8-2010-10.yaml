@@ -1,0 +1,82 @@
+---
+id: IEEEP1377/D-8-2010-10
+title:
+- type: main
+  content: IEEE Draft Standard for Utility Industry Metering Communication Protocol
+    Application Layer (End Device Data Tables)
+  format: text/plain
+link:
+- content: https://ieeexplore.ieee.org/document/5606229
+  type: src
+type: standard
+docid:
+- id: IEEE P1377/D-8-2010-10
+  type: IEEE
+  primary: true
+- id: 978-0-7381-6507-3
+  type: ISBN
+docnumber: IEEE P1377/D-8-2010-10
+date:
+- type: created
+  value: '2010-10-19'
+- type: issued
+  value: '2010-10-19'
+contributor:
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+    - city: Piscataway
+      country: USA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This standard provides common structures for encoding data in communication
+    between End Devices (meters, home appliances, IEEE 1703 Nodes) and Utility enterprise
+    collection and control systems using binary codes and XML content. The standard
+    addresses the AMI and SmartGrid requirements as identified by the Office of Electricity
+    Delivery and Energy Reliability of the U.S. Department of Energy; the Smart Metering
+    Initiative of the Ontario Ministry of Energy (Canada) and of Measurement Canada.
+    The standard exposes sets of tables that are grouped together into sections that
+    pertain to a particular feature-set and related function such as Time-of-use,
+    Load Profile, Security, Power Quality and more. Each standard Table Set (Data
+    Model) can be expanded or restricted by the Manufacturer of the IEEE 1377 Device
+    or home appliance using XML/TDL descriptive registered syntax (XML-based Table
+    Definition Language) and enterprise data-value management using EDL (Exchange
+    Data Language) in a manner that is machine readable. Published jointly with NEMA
+    and Measurement Canada, this standard provides Tables in support of Gas, Water
+    and Electric sensors and related appliances. It also provides Tables for network
+    configuration and management by referencing its companion standard IEEE 1703.
+    IEEE 1377 is co-published as ANSI C12.19 and MC12.19.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+copyright:
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2010'
+keyword:
+- IEEE standards
+- Automatic meter reading
+- Electricity supply industry
+- Load flow control
+- Power system management
+- Home appliances
+- IEEE 1377
+- ANSI C12.19
+- End Device
+- Utility Tables
+ics:
+- code: 35.240.50
+  text: IT applications in industry

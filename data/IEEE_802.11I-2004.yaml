@@ -1,0 +1,114 @@
+---
+id: IEEE802.11i-2004
+title:
+- type: main
+  content: 'IEEE Standard for information technology-Telecommunications and information
+    exchange between systems-Local and metropolitan area networks-Specific requirements-Part
+    11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications:
+    Amendment 6: Medium Access Control (MAC) Security Enhancements'
+  format: text/plain
+link:
+- content: https://ieeexplore.ieee.org/document/1318903
+  type: src
+type: standard
+docid:
+- id: IEEE 802.11i-2004
+  type: IEEE
+  primary: true
+- id: 0-7381-4074-0
+  type: ISBN
+- id: 10.1109/IEEESTD.2004.94585
+  type: DOI
+docnumber: IEEE 802.11i-2004
+date:
+- type: created
+  value: '2004'
+- type: published
+  value: '2014-12-08'
+- type: issued
+  value: '2004-06-24'
+contributor:
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+    - city: New York
+      country: USA
+  role:
+  - publisher
+revdate: '2014-12-08'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This amendment defines security mechanisms for IEEE 802.11. It includes
+    a definition of WEP for backward compatibility with the original standard, IEEE
+    Std 802.11, 1999 Edition. It defines TKIP and CCMP, which provide more robust
+    data protection mechanisms than WEP affords. This amendment introduces the concept
+    of a security association into IEEE 802.11, and defines security association management
+    protocols called the 4-Way Handshake and the Group Key Handshake. Finally, it
+    specifies how IEEE 802.1X may be utilized by IEEE 802.11 LANs to effect authentication.
+    An Interpretation is available at http://standards.ieee.org/findstds/interps/802.11i-2004.html
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+copyright:
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2004'
+relation:
+- type: updates
+  bibitem:
+    id: ANSI/IEEE802.11-1999
+    docid:
+    - id: ANSI/IEEE 802.11-1999
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI/IEEE 802.11-1999
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- Patents
+- Security
+- IEEE 802.11 Standard
+- Media Access Protocol
+- Licenses
+- AES
+- authentication
+- CCM
+- CCMP
+- confidentiality
+- countermeasures
+- data authenticity
+- EAPOL-Key
+- 4-Way Handshake
+- Group Key Handshake
+- IEEE 802.1X
+- key management
+- key mixing
+- Michael
+- RC4
+- replay protection
+- robust security network
+ics:
+- code: 35.100.10
+  text: Physical layer
+- code: '35.110'
+  text: Networking
+- code: 35.100.20
+  text: Data link layer

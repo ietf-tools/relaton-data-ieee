@@ -1,0 +1,106 @@
+---
+id: IEEE802.1AEcg-2017
+title:
+- type: main
+  content: IEEE Standard for Local and metropolitan area networks--Media Access Control
+    (MAC) Security - Amendment 3:Ethernet Data Encryption devices
+  format: text/plain
+link:
+- content: https://ieeexplore.ieee.org/document/7932238
+  type: src
+type: standard
+docid:
+- id: IEEE 802.1AEcg-2017
+  type: IEEE
+  primary: true
+- id: 978-1-5044-3725-7
+  type: ISBN
+- id: 10.1109/IEEESTD.2017.7932238
+  type: DOI
+docnumber: IEEE 802.1AEcg-2017
+date:
+- type: updated
+  value: '2017-06-09'
+- type: created
+  value: '2017-05-19'
+- type: published
+  value: '2017-05-19'
+- type: issued
+  value: '2017-02-14'
+contributor:
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+    - city: 
+      country: USA
+  role:
+  - publisher
+revdate: '2017-05-19'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Ethernet Data Encryption devices (EDEs) are specified in this amendment.
+    An EDE is a two-port bridge that uses MACsec to provide secure connectivity for
+    attached customer bridges, or for attached provider bridges. EDEs may allow the
+    customer (or provider) bridges to continue to use a VLAN Identifier (VID) in transmitted
+    frames to select (as already specified in IEEE Std 802.1Q(TM)) between provider
+    network or provider backbone network services.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+copyright:
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2017'
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: ISO/IEC/IEEE8802.1AE/Amd3-2013
+    docid:
+    - id: ISO/IEC/IEEE 8802.1AE/Amd3-2013
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ISO/IEC/IEEE 8802.1AE/Amd3-2013
+      format: text/plain
+keyword:
+- IEEE Standards
+- Local area networks
+- Metropolitan area networks
+- Media Access Protocol
+- Ethernet networks
+- Authentication
+- Access control
+- amendment
+- authorized port
+- confidentiality
+- data origin authenticity
+- EDE
+- Ethernet Data Encryption device
+- IEEE 802.1AE
+- IEEE 802.1AEcg
+- integrity
+- LANs
+- local area networks
+- MAC Bridges
+- MAC security
+- MAC Service
+- MANs
+- metropolitan area networks
+- port-based network access control
+- secure association
+- security
+- transparent bridging
+ics:
+- code: '35.110'
+  text: Networking
