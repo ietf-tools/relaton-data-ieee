@@ -1,24 +1,24 @@
 ---
-id: ISO/IEC/IEEE8802.1
+id: ISO/IEC
 title:
 - type: main
   content: 'Iso/iec/ieee international standard--telecommunications and exchange between
     information technology systems--requirements for local and metropolitan area networks--part
-    1cs: link-local registration protocol'
+    3: standard for ethernet amendment 10: maintenance #14: isolation'
   format: text/plain
 link:
-- content: https://ieeexplore.ieee.org/document/9825639
+- content: https://ieeexplore.ieee.org/document/9825490
   type: src
 type: standard
 docid:
-- id: ISO/IEC/IEEE 8802.1
+- id: ISO/ IEC
   type: IEEE
   primary: true
-- id: 978-1-5044-8801-3
+- id: 978-1-5044-8806-8
   type: ISBN
-- id: 10.1109/IEEESTD.2022.9825639
+- id: 10.1109/IEEESTD.2022.9825490
   type: DOI
-docnumber: ISO/IEC/IEEE 8802.1
+docnumber: ISO/ IEC
 date:
 - type: created
   value: '2022'
@@ -43,12 +43,9 @@ language:
 script:
 - Latn
 abstract:
-- content: Protocols, procedures, and managed objects for a Link-local Registration
-    Protocol (LRP) to replicate a registration database from one end to the other
-    of a point-to-point link and to replicate changes to parts of that database are
-    specified in this standard. A facility is provided to purge the replicated database
-    if the source becomes unresponsive. LRP is optimized for databases on the order
-    of 1 Mbyte.
+- content: This amendment to IEEE Std 802.3-2018 replaces references to the IEC 60950
+    series of standards with appropriate references to the IEC 62368 series and makes
+    appropriate changes to the standard corresponding to the new references.
   language:
   - en
   script:
@@ -68,13 +65,13 @@ copyright:
 relation:
 - type: adoptedFrom
   bibitem:
-    id: IEEE802.1
+    id: IEEE802.3cr-2021
     docid:
-    - id: IEEE 802.1
+    - id: IEEE 802.3cr-2021
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 802.1
+      content: IEEE 802.3cr-2021
       format: text/plain
 keyword:
 - IEEE Standards
@@ -82,22 +79,19 @@ keyword:
 - IEC Standards
 - Local area networks
 - Metropolitan area networks
-- Bridge circuts
-- Media Access Protocol
-- Virtual LAN
-- Bridged Local Area Networks
-- bridges
-- bridging
-- IEEE 802
-- IEEE 802.1CS
-- IEEE 802.1Q
-- Link-local Registration Protocol
-- local area networks (LANs)
-- LRP
-- MAC Bridges
-- Time-Sensitive Networking
-- TSN
-- Virtual Bridged Local Area Networks (virtual LANs)
+- Information technology
+- Ethernet
+- Maintenance engineering
+- Information exchange
+- Ethernet
+- IEC 60950
+- IEC 62368
+- IEEE 802.3
+- IEEE 802.3cr
+- isolation
+- safety
 ics:
+- code: 35.100.10
+  text: Physical layer
 - code: '35.110'
   text: Networking
