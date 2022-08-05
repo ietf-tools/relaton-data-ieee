@@ -1,0 +1,100 @@
+---
+id: IEEEP802.3cx/D-3.0-2022-07
+title:
+- type: main
+  content: 'IEEE Draft Standard for Ethernet Amendment 6: Media Access Control (MAC)
+    Service Interface and Management Parameters to Support Improved Precision Time
+    Protocol (PTP) Timestamping Accuracy'
+  format: text/plain
+link:
+- content: https://ieeexplore.ieee.org/document/9847186
+  type: src
+type: standard
+docid:
+- id: IEEE P802.3cx/D-3.0-2022-07
+  type: IEEE
+  primary: true
+- id: IEEE P802.3cx™/D-3.0-2022-07
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-1-5044-8904-1
+  type: ISBN
+docnumber: IEEE P802.3cx/D-3.0-2022-07
+date:
+- type: created
+  value: '2022'
+- type: published
+  value: '2022-08-01'
+- type: issued
+  value: '2022'
+contributor:
+- organization:
+    name:
+    - Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - publisher
+revdate: '2022-08-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This amendment to IEEE Std 802.3-2022 modifies Clause 30, Clause 45, and
+    Clause 90, and adds Annex 90A to enhance support for time synchronization protocols
+    by providing options for sub-nanosecond reporting of the transmit and receive
+    path data delays, selection of the data delay measurement point, and dynamic reporting
+    of path data delay variation.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+copyright:
+- owner:
+  - name:
+    - Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2022'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE802.3-2018
+    docid:
+    - id: IEEE 802.3-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3-2018
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+fetched: '2022-08-05'
+keyword:
+- IEEE Standards
+- Ethernet
+- Media Access Protocol
+- Time measurement
+- Synchronization
+- IEEE 802.3&#8482;
+- IEEE 802.3cx
+editorialgroup:
+  committee:
+  - LAN/MAN Standards Committee of the IEEE Computer Society
+ics:
+- code: 35.100.10
+  text: Physical layer
+- code: '35.110'
+  text: Networking
