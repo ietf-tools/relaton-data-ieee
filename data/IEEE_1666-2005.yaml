@@ -1,9 +1,9 @@
 ---
 id: IEEE1666-2005
 title:
-- type: main
-  content: IEEE Standard SystemC(R) Language Reference Manual
+- content: IEEE Standard SystemC(R) Language Reference Manual
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1617814
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,8 +69,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2006'
 relation:
@@ -83,30 +85,30 @@ relation:
     formattedref:
       content: IEEE 1666-2011
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Patents
-- Libraries
-- Hardware
-- Manuals
-- Design automation
-- C++
-- computer languages
-- digital systems
-- discrete event simulation
-- electronic design automation
-- electronic system level
-- electronic systems
-- embedded software
-- fixed-point
-- hardware description language
-- hardware design
-- hardware verification
-- SystemC
-- system modeling
-- system-on-chip
-- transaction level
+- content: IEEE Standards
+- content: Patents
+- content: Libraries
+- content: Hardware
+- content: Manuals
+- content: Design automation
+- content: C++
+- content: computer languages
+- content: digital systems
+- content: discrete event simulation
+- content: electronic design automation
+- content: electronic system level
+- content: electronic systems
+- content: embedded software
+- content: fixed-point
+- content: hardware description language
+- content: hardware design
+- content: hardware verification
+- content: SystemC
+- content: system modeling
+- content: system-on-chip
+- content: transaction level
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

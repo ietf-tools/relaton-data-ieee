@@ -1,10 +1,10 @@
 ---
 id: IEEEPC62.22/D-8
 title:
-- type: main
-  content: Unapproved Draft IEEE Standard for Metal-Oxide Surge Arresters for AC Power
+- content: Unapproved Draft IEEE Standard for Metal-Oxide Surge Arresters for AC Power
     Circuits (>1 kV) (Revision of IEEE C62.11-1999) Superseded by C62.11-1999
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4040819
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -56,11 +57,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2005'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: 29.240.10
   text: Substations. Surge arresters

@@ -1,10 +1,10 @@
 ---
 id: IEEE1149.7-2009
 title:
-- type: main
-  content: IEEE Standard for Reduced-Pin and Enhanced-Functionality Test Access Port
+- content: IEEE Standard for Reduced-Pin and Enhanced-Functionality Test Access Port
     and Boundary-Scan Architecture
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5412866
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -78,195 +79,196 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2010'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Testing
-- Boundary conditions
-- 1149.7-2009
-- '1149.1'
-- '1149.7'
-- 2-pin
-- 2-wire
-- 4-pin
-- 4-wire
-- Advanced Protocol
-- Advanced Protocol Unit
-- APU
-- Background Data Transfer
-- background data transport
-- BDX
-- boundary scan
-- BSDL
-- BSDL.1
-- BSDL.7
-- BYPASS
-- Capture-IR
-- CDX
-- Chip-Level TAP Controller
-- CID
-- Class T0
-- Class T1
-- Class T2
-- Class T3
-- Class T4
-- Class T5
-- CLTAPC
-- compact JTAG
-- compliant behavior
-- compliant operation
-- control level
-- controller address
-- Controller ID
-- Controller Identification Number
-- CP
-- Custom Data Transfer
-- custom data transport
-- Data Register
-- debug interface
-- debug logic
-- debug and test interface
-- DOT1
-- DOT7
-- DTI
-- DTS
-- DTT
-- Debug Test System
-- debug test target
-- Escape
-- EOT
-- EPU
-- extended operation
-- Extended Protocol
-- EXTEST
-- HSDL
-- HSDL.7
-- IDCODE
-- Instruction Register
-- JScan
-- JScan0
-- JScan1
-- JScan2
-- JScan3
-- JTAG
-- MScan
-- MTCP
-- Multi-TAP Control Path
-- narrow Star Scan Topology
-- nTRST
-- nTRST_PD
-- optimized scan
-- OScan
-- OScan0
-- OScan1
-- OScan2
-- OScan3
-- OScan4
-- OScan5
-- OScan6
-- OScan7
-- '1149.1'
-- '1149.7'
-- Pause-DR
-- Pause-IR
-- PC0
-- PC1
-- RSU
-- Reset and selection unit
-- RTI
-- Run-Test/Idle
-- scan
-- scan DR
-- scan format
-- scan IR
-- Scan Packet
-- scan path
-- scan performance
-- scan protocol
-- scan topology
-- series
-- Series Branch
-- Series Scan
-- Series Scan Topology
-- Series-Equivalent Scan
-- Series Topology
-- Shift-DR
-- Shift-IR
-- SiP
-- Star Scan
-- Star Scan Topology
-- Star Topology
-- Star-2
-- Star-2 Branch
-- Star-2 Scan
-- Star-2
-- Scan Topology
-- Star-4
-- Star-4 Branch
-- Star-4 Scan
-- Star-4 Scan Topology
-- SP
-- SScan
-- SScan0
-- SScan1
-- SScan2
-- SScan3
-- stall
-- SSD
-- Scan Selection Directive
-- Standard Protocol
-- star scan
-- STL
-- System Test Logic
-- TAP
-- TAP controller
-- TAP controller address
-- TAP selection
-- TAP.1
-- TAP.7
-- TAP.7
-- TAPC
-- TCA
-- TCKC
-- TDI
-- TDIC
-- TDOC
-- TDOE
-- Test Access Port
-- test and debug
-- Test-Logic-Reset
-- TLR
-- TMSC
-- Transport Packet
-- T0
-- T0 TAP.7
-- T1
-- T1 TAP.7
-- T2
-- T2 TAP.7
-- T3
-- T3 TAP.7
-- T4
-- T4 TAP.7
-- T4(N)
-- T4(N) TAP.7
-- T4(W)
-- T4(W) TAP.7
-- T5
-- T5 TAP.7
-- T5(N)
-- T5(N) TAP.7
-- T5(W)
-- T5(W) TAP.7
-- TP
-- Update-DR
-- Update-IR
-- ZBS
-- zero bit scan
+- content: IEEE standards
+- content: Testing
+- content: Boundary conditions
+- content: 1149.7-2009
+- content: '1149.1'
+- content: '1149.7'
+- content: 2-pin
+- content: 2-wire
+- content: 4-pin
+- content: 4-wire
+- content: Advanced Protocol
+- content: Advanced Protocol Unit
+- content: APU
+- content: Background Data Transfer
+- content: background data transport
+- content: BDX
+- content: boundary scan
+- content: BSDL
+- content: BSDL.1
+- content: BSDL.7
+- content: BYPASS
+- content: Capture-IR
+- content: CDX
+- content: Chip-Level TAP Controller
+- content: CID
+- content: Class T0
+- content: Class T1
+- content: Class T2
+- content: Class T3
+- content: Class T4
+- content: Class T5
+- content: CLTAPC
+- content: compact JTAG
+- content: compliant behavior
+- content: compliant operation
+- content: control level
+- content: controller address
+- content: Controller ID
+- content: Controller Identification Number
+- content: CP
+- content: Custom Data Transfer
+- content: custom data transport
+- content: Data Register
+- content: debug interface
+- content: debug logic
+- content: debug and test interface
+- content: DOT1
+- content: DOT7
+- content: DTI
+- content: DTS
+- content: DTT
+- content: Debug Test System
+- content: debug test target
+- content: Escape
+- content: EOT
+- content: EPU
+- content: extended operation
+- content: Extended Protocol
+- content: EXTEST
+- content: HSDL
+- content: HSDL.7
+- content: IDCODE
+- content: Instruction Register
+- content: JScan
+- content: JScan0
+- content: JScan1
+- content: JScan2
+- content: JScan3
+- content: JTAG
+- content: MScan
+- content: MTCP
+- content: Multi-TAP Control Path
+- content: narrow Star Scan Topology
+- content: nTRST
+- content: nTRST_PD
+- content: optimized scan
+- content: OScan
+- content: OScan0
+- content: OScan1
+- content: OScan2
+- content: OScan3
+- content: OScan4
+- content: OScan5
+- content: OScan6
+- content: OScan7
+- content: '1149.1'
+- content: '1149.7'
+- content: Pause-DR
+- content: Pause-IR
+- content: PC0
+- content: PC1
+- content: RSU
+- content: Reset and selection unit
+- content: RTI
+- content: Run-Test/Idle
+- content: scan
+- content: scan DR
+- content: scan format
+- content: scan IR
+- content: Scan Packet
+- content: scan path
+- content: scan performance
+- content: scan protocol
+- content: scan topology
+- content: series
+- content: Series Branch
+- content: Series Scan
+- content: Series Scan Topology
+- content: Series-Equivalent Scan
+- content: Series Topology
+- content: Shift-DR
+- content: Shift-IR
+- content: SiP
+- content: Star Scan
+- content: Star Scan Topology
+- content: Star Topology
+- content: Star-2
+- content: Star-2 Branch
+- content: Star-2 Scan
+- content: Star-2
+- content: Scan Topology
+- content: Star-4
+- content: Star-4 Branch
+- content: Star-4 Scan
+- content: Star-4 Scan Topology
+- content: SP
+- content: SScan
+- content: SScan0
+- content: SScan1
+- content: SScan2
+- content: SScan3
+- content: stall
+- content: SSD
+- content: Scan Selection Directive
+- content: Standard Protocol
+- content: star scan
+- content: STL
+- content: System Test Logic
+- content: TAP
+- content: TAP controller
+- content: TAP controller address
+- content: TAP selection
+- content: TAP.1
+- content: TAP.7
+- content: TAP.7
+- content: TAPC
+- content: TCA
+- content: TCKC
+- content: TDI
+- content: TDIC
+- content: TDOC
+- content: TDOE
+- content: Test Access Port
+- content: test and debug
+- content: Test-Logic-Reset
+- content: TLR
+- content: TMSC
+- content: Transport Packet
+- content: T0
+- content: T0 TAP.7
+- content: T1
+- content: T1 TAP.7
+- content: T2
+- content: T2 TAP.7
+- content: T3
+- content: T3 TAP.7
+- content: T4
+- content: T4 TAP.7
+- content: T4(N)
+- content: T4(N) TAP.7
+- content: T4(W)
+- content: T4(W) TAP.7
+- content: T5
+- content: T5 TAP.7
+- content: T5(N)
+- content: T5(N) TAP.7
+- content: T5(W)
+- content: T5(W) TAP.7
+- content: TP
+- content: Update-DR
+- content: Update-IR
+- content: ZBS
+- content: zero bit scan
 editorialgroup:
   committee:
   - Test Technology of the IEEE Computer Society

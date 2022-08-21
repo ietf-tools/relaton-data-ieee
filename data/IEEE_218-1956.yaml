@@ -1,9 +1,9 @@
 ---
 id: IEEE218-1956
 title:
-- type: main
-  content: IEEE Standard Methods of Testing Transistors
+- content: IEEE Standard Methods of Testing Transistors
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7370855
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -51,18 +52,19 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1956'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Transistors
-- Testing
-- transistor
-- testing
-- methods
+- content: IEEE Standards
+- content: Transistors
+- content: Testing
+- content: transistor
+- content: testing
+- content: methods
 editorialgroup:
   committee:
   - IEEE Electron Devices Society

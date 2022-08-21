@@ -1,10 +1,10 @@
 ---
 id: IEEE1901.1-2018
 title:
-- type: main
-  content: IEEE Standard for Medium Frequency (less than 12 MHz) Power Line Communications
+- content: IEEE Standard for Medium Frequency (less than 12 MHz) Power Line Communications
     for Smart Grid Applications
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8360785
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -70,35 +71,36 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2018'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- OFDM
-- Power line communications
-- Network security
-- Media Access Protocol
-- Frequency control
-- Frequency conversion
-- BPL
-- broadband power line
-- coexistence
-- FFT
-- IEEE 1901(TM)
-- IEEE 1901.1(TM)
-- IEEE 1901.2(TM)
-- MAC
-- medium frequency
-- OFDM
-- orthogonal frequency division multiplexing
-- PHY
-- PLC
-- power line communication
-- security
-- smart grid
+- content: IEEE Standards
+- content: OFDM
+- content: Power line communications
+- content: Network security
+- content: Media Access Protocol
+- content: Frequency control
+- content: Frequency conversion
+- content: BPL
+- content: broadband power line
+- content: coexistence
+- content: FFT
+- content: IEEE 1901(TM)
+- content: IEEE 1901.1(TM)
+- content: IEEE 1901.2(TM)
+- content: MAC
+- content: medium frequency
+- content: OFDM
+- content: orthogonal frequency division multiplexing
+- content: PHY
+- content: PLC
+- content: power line communication
+- content: security
+- content: smart grid
 editorialgroup:
   committee:
   - Power Line Communications of the IEEE Communications Society

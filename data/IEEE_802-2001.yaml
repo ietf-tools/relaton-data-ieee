@@ -1,9 +1,9 @@
 ---
 id: IEEE802-2001
 title:
-- type: main
-  content: 'IEEE Standard for Local and Metropolitan Area Networks: Overview and Architecture'
+- content: 'IEEE Standard for Local and Metropolitan Area Networks: Overview and Architecture'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/984782
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2002'
 relation:
@@ -97,17 +99,17 @@ relation:
     formattedref:
       content: IEEE 802-2014
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Communication standards
-- Local area networks
-- Metropolitan area networks
-- IEEE 802 standards compliance
-- Local Area Networks (LANs)
-- LAN/MAN architecture
-- LAN/MAN reference model
-- Metropolitan Area Networks (MANs).
+- content: IEEE standards
+- content: Communication standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: IEEE 802 standards compliance
+- content: Local Area Networks (LANs)
+- content: LAN/MAN architecture
+- content: LAN/MAN reference model
+- content: Metropolitan Area Networks (MANs).
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

@@ -1,10 +1,10 @@
 ---
 id: IEEE1588-2002
 title:
-- type: main
-  content: IEEE Standard for a Precision Clock Synchronization Protocol for Networked
+- content: IEEE Standard for a Precision Clock Synchronization Protocol for Networked
     Measurement and Control Systems
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1048550
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2002'
 relation:
@@ -78,20 +80,20 @@ relation:
     formattedref:
       content: IEEE 1588-2008
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Patents
-- Licenses
-- Clocks
-- Synchronization
-- Control systems
-- clocks
-- distributed system
-- master clock
-- measurement and control systems
-- real-time clock
-- synchronized clocks
+- content: IEEE Standards
+- content: Patents
+- content: Licenses
+- content: Clocks
+- content: Synchronization
+- content: Control systems
+- content: clocks
+- content: distributed system
+- content: master clock
+- content: measurement and control systems
+- content: real-time clock
+- content: synchronized clocks
 editorialgroup:
   committee:
   - TC9 - Sensor Technology of the IEEE Instrumentation and Measurement Society

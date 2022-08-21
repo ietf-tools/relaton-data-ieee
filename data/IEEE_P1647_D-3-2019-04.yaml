@@ -1,9 +1,9 @@
 ---
 id: IEEEP1647/D-3-2019-04
 title:
-- type: main
-  content: IEEE Approved Standard for the Functional Verification Language e
+- content: IEEE Approved Standard for the Functional Verification Language e
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8739153
   type: src
@@ -29,8 +29,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,8 +68,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2019'
 relation:
@@ -89,21 +91,21 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Functional programming
-- Formal verification
-- assertion
-- concurrent programming
-- constraint
-- dynamic verification
-- functional coverage
-- functional verification
-- IEEE 1647
-- simulation
-- temporal logic
-- test generation
+- content: IEEE Standards
+- content: Functional programming
+- content: Formal verification
+- content: assertion
+- content: concurrent programming
+- content: constraint
+- content: dynamic verification
+- content: functional coverage
+- content: functional verification
+- content: IEEE 1647
+- content: simulation
+- content: temporal logic
+- content: test generation
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

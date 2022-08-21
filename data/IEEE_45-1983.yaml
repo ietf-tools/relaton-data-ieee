@@ -1,9 +1,9 @@
 ---
 id: IEEE45-1983
 title:
-- type: main
-  content: IEEE Recommended Practice for Electrical Installations on Shipboard
+- content: IEEE Recommended Practice for Electrical Installations on Shipboard
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7096843
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -74,8 +75,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1983'
 relation:
@@ -89,14 +91,14 @@ relation:
     formattedref:
       content: IEEE 45-1998
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Electrical installations
-- Marine vehicles
-- Electrical equipment
-- Power distribution testing
-- Voltage control
+- content: IEEE standards
+- content: Electrical installations
+- content: Marine vehicles
+- content: Electrical equipment
+- content: Power distribution testing
+- content: Voltage control
 editorialgroup:
   committee:
   - Petroleum &amp; Chemical Industry of the IEEE Industry Applications Society

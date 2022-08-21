@@ -1,11 +1,11 @@
 ---
 id: IEEE500-1984
 title:
-- type: main
-  content: IEEE Guide To The Collection And Presentation Of Electrical, Electronic,
+- content: IEEE Guide To The Collection And Presentation Of Electrical, Electronic,
     Sensing Component, And Mechanical Equipment Reliability Data for Nuclear-Power
     Generating Stations
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/552975
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,17 +67,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1983'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- reliability
-- data
-- pumps
-- drivers
-- valves
+- content: reliability
+- content: data
+- content: pumps
+- content: drivers
+- content: valves
 editorialgroup:
   committee:
   - Nuclear Power Engineering of the IEEE Power and Energy Society

@@ -1,9 +1,9 @@
 ---
 id: IEEE998-2012
 title:
-- type: main
-  content: IEEE Guide for Direct Lightning Stroke Shielding of Substations
+- content: IEEE Guide for Direct Lightning Stroke Shielding of Substations
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6514042
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2013'
 relation:
@@ -87,24 +89,24 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Lightning
-- Insulation
-- Surge protection
-- Substations
-- collection volume method (CVM)
-- direct stroke shielding
-- electro-geometric model (EGM)
-- field intensification factor method (FIFM)
-- fixed angle
-- IEEE 998
-- leader inception theory (LIT)
-- leader progression model (LPM)
-- lightning stroke protection
-- self-consistent leader inception and propagation model (SLIM)
-- substations empirical curves
+- content: IEEE standards
+- content: Lightning
+- content: Insulation
+- content: Surge protection
+- content: Substations
+- content: collection volume method (CVM)
+- content: direct stroke shielding
+- content: electro-geometric model (EGM)
+- content: field intensification factor method (FIFM)
+- content: fixed angle
+- content: IEEE 998
+- content: leader inception theory (LIT)
+- content: leader progression model (LPM)
+- content: lightning stroke protection
+- content: self-consistent leader inception and propagation model (SLIM)
+- content: substations empirical curves
 editorialgroup:
   committee:
   - Substations of the IEEE Power &amp; Energy Society

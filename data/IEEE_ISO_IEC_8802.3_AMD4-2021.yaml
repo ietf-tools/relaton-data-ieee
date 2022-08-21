@@ -1,12 +1,12 @@
 ---
 id: IEEE/ISO/IEC8802.3/Amd4-2021
 title:
-- type: main
-  content: 'IEEE/ISO/IEC Telecommunications and exchange between information technology
+- content: 'IEEE/ISO/IEC Telecommunications and exchange between information technology
     systems -- Requirements for local and metropolitan area networks -- Part 3: Standard
     for Ethernet AMENDMENT 4: Physical layers and management parameters for 50 Gb/s,200
     Gb/s, and 400 Gb/s operation over single-mode fiber'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9599616
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,13 +64,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2021'
 relation:
 - type: adoptedFrom
@@ -82,38 +84,38 @@ relation:
     formattedref:
       content: IEEE 802.3cn-2019
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ISO Standards
-- IEC Standards
-- Local area nettworks
-- Metropolitan area networks
-- Ethernet
-- Physical layer
-- Energy efficiency
-- Forward error correction
-- Information exchange
-- Information technology
-- 50 Gb/s Ethernet
-- 50GBASE-ER
-- 200 Gb/s Ethernet
-- 200GBASE-ER4
-- 400 Gb/s Ethernet
-- 400GBASE-ER8
-- amendment
-- EEE
-- Energy-Efficient Ethernet
-- Ethernet
-- FEC
-- forward error correction
-- IEEE 802.3&#8482;
-- IEEE 802.3cn&#8482;
-- PAM4
-- physical medium dependent sublayer
-- PMD sublayer
-- single-mode fiber
-- SMF
+- content: IEEE Standards
+- content: ISO Standards
+- content: IEC Standards
+- content: Local area nettworks
+- content: Metropolitan area networks
+- content: Ethernet
+- content: Physical layer
+- content: Energy efficiency
+- content: Forward error correction
+- content: Information exchange
+- content: Information technology
+- content: 50 Gb/s Ethernet
+- content: 50GBASE-ER
+- content: 200 Gb/s Ethernet
+- content: 200GBASE-ER4
+- content: 400 Gb/s Ethernet
+- content: 400GBASE-ER8
+- content: amendment
+- content: EEE
+- content: Energy-Efficient Ethernet
+- content: Ethernet
+- content: FEC
+- content: forward error correction
+- content: IEEE 802.3&#8482;
+- content: IEEE 802.3cn&#8482;
+- content: PAM4
+- content: physical medium dependent sublayer
+- content: PMD sublayer
+- content: single-mode fiber
+- content: SMF
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

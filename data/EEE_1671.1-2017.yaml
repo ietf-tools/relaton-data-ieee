@@ -1,9 +1,9 @@
 ---
 id: EEE1671.1-2017
 title:
-- type: main
-  content: IEEE Standard for Automatic Test Markup Language (ATML) Test Descriptions
+- content: IEEE Standard for Automatic Test Markup Language (ATML) Test Descriptions
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9444769
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -60,8 +61,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2018'
 relation:
@@ -82,26 +84,26 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- XML
-- Automatic test equipment
-- Testing
-- Markup languages
-- ATE
-- ATML
-- ATS
-- ATML instance document
-- automatic test equipment
-- Automatic Test Markup Language
-- automatic test system
-- IEEE 1671.1&#8482;
-- test program documentation
-- test requirements
-- unit under test
-- UUT
-- XML schema
+- content: IEEE Standards
+- content: XML
+- content: Automatic test equipment
+- content: Testing
+- content: Markup languages
+- content: ATE
+- content: ATML
+- content: ATS
+- content: ATML instance document
+- content: automatic test equipment
+- content: Automatic Test Markup Language
+- content: automatic test system
+- content: IEEE 1671.1&#8482;
+- content: test program documentation
+- content: test requirements
+- content: unit under test
+- content: UUT
+- content: XML schema
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

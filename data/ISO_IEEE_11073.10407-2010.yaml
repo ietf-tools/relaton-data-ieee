@@ -1,10 +1,10 @@
 ---
 id: ISO/IEEE11073.10407-2010
 title:
-- type: main
-  content: 'ISO/IEEE Health informatics Personal health device communication Part
+- content: 'ISO/IEEE Health informatics Personal health device communication Part
     10407: Device specialization Blood pressure monitor'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5682320
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,18 +67,19 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2010'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Bioinformatics
-- Medical services
-- blood pressure monitor
-- medical device communication
-- personal health devices
+- content: IEEE standards
+- content: Bioinformatics
+- content: Medical services
+- content: blood pressure monitor
+- content: medical device communication
+- content: personal health devices
 editorialgroup:
   committee:
   - IEEE 11073TM Standards Committee of the IEEE Engineering in Medicine and Biology

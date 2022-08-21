@@ -1,10 +1,10 @@
 ---
 id: IEEE1149.10-2017
 title:
-- type: main
-  content: IEEE Standard for High-Speed Test Access Port and On-Chip Distribution
+- content: IEEE Standard for High-Speed Test Access Port and On-Chip Distribution
     Architecture
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7995164
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,34 +68,35 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2017'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Integrated circuits
-- System-on-chip
-- Maintenance engineering
-- Printed circuits
-- Boundary conditions
-- 3D-IC
-- Boundary-Scan Description Language
-- BSDL
-- debug
-- High Speed JTAG
-- I2C
-- IEEE 1149.1&#8482;
-- PDL
-- IEEE 1149.10&#8482;
-- integrated circuit
-- JTAG
-- wafer
-- Procedural Description Language
-- SERDES
-- SPI
-- system level test
+- content: IEEE Standards
+- content: Integrated circuits
+- content: System-on-chip
+- content: Maintenance engineering
+- content: Printed circuits
+- content: Boundary conditions
+- content: 3D-IC
+- content: Boundary-Scan Description Language
+- content: BSDL
+- content: debug
+- content: High Speed JTAG
+- content: I2C
+- content: IEEE 1149.1&#8482;
+- content: PDL
+- content: IEEE 1149.10&#8482;
+- content: integrated circuit
+- content: JTAG
+- content: wafer
+- content: Procedural Description Language
+- content: SERDES
+- content: SPI
+- content: system level test
 editorialgroup:
   committee:
   - Test Technology of the IEEE Computer Society

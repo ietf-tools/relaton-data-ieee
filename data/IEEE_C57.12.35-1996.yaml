@@ -1,9 +1,9 @@
 ---
 id: IEEEC57.12.35-1996
 title:
-- type: main
-  content: IEEE Standard for Bar Coding for Distribution Transformers
+- content: IEEE Standard for Bar Coding for Distribution Transformers
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/552901
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1996'
 relation:
@@ -87,10 +89,10 @@ relation:
     formattedref:
       content: IEEE C57.12.35-2007
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- distribution transformers
-- bar coding
+- content: distribution transformers
+- content: bar coding
 editorialgroup:
   committee:
   - Transformers of the IEEE Power and Energy Society

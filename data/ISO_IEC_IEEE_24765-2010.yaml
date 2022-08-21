@@ -1,10 +1,10 @@
 ---
 id: ISO/IEC/IEEE24765-2010
 title:
-- type: main
-  content: ISO/IEC/IEEE International Standard - Systems and software engineering
+- content: ISO/IEC/IEEE International Standard - Systems and software engineering
     -- Vocabulary
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5733835
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -74,8 +75,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2011'
 relation:
@@ -106,20 +108,20 @@ relation:
     formattedref:
       content: ISO/IEC/IEEE 24765-2017
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- ISO standards
-- IEC standards
-- Software engineering
-- Dictionaries
-- computer
-- dictionary
-- information technology
-- software engineering
-- systems engineering
-- terminology
-- vocabulary
+- content: IEEE standards
+- content: ISO standards
+- content: IEC standards
+- content: Software engineering
+- content: Dictionaries
+- content: computer
+- content: dictionary
+- content: information technology
+- content: software engineering
+- content: systems engineering
+- content: terminology
+- content: vocabulary
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

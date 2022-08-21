@@ -1,10 +1,10 @@
 ---
 id: ANSIN42.42-2006
 title:
-- type: main
-  content: American National Standard Data Format Standard for Radiation Detectors
+- content: American National Standard Data Format Standard for Radiation Detectors
     Used for Homeland Security
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6202310
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2007'
 relation:
@@ -78,16 +80,16 @@ relation:
     formattedref:
       content: ANSI N42.42-2012
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Radiation detectors
-- Security
-- Data analysis
-- data format
-- DHS standards
-- homeland security
-- radiation detectors
+- content: IEEE standards
+- content: Radiation detectors
+- content: Security
+- content: Data analysis
+- content: data format
+- content: DHS standards
+- content: homeland security
+- content: radiation detectors
 editorialgroup:
   committee:
   - National Committee on Radiation Instrumentation

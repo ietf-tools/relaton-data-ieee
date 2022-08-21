@@ -1,9 +1,9 @@
 ---
 id: ANSI/IEEE120-1989
 title:
-- type: main
-  content: IEEE Master Test Guide for Electrical Measurements in Power Circuits
+- content: IEEE Master Test Guide for Electrical Measurements in Power Circuits
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/89666
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,31 +67,32 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1989'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Power measurement
-- Test equipment
-- measurements
-- power circuits
-- master test guide
-- electrical
-- Voltage measurement
-- Rotating-machine testing
-- Reactive power
-- Power transformer testing
-- Power system measurements
-- Power measurement
-- Magnetic measurements
-- Impedance measurement
-- Frequency measurement
-- Energy measurement
-- DC machines
-- Current measurement
-- AC machines
+- content: Power measurement
+- content: Test equipment
+- content: measurements
+- content: power circuits
+- content: master test guide
+- content: electrical
+- content: Voltage measurement
+- content: Rotating-machine testing
+- content: Reactive power
+- content: Power transformer testing
+- content: Power system measurements
+- content: Power measurement
+- content: Magnetic measurements
+- content: Impedance measurement
+- content: Frequency measurement
+- content: Energy measurement
+- content: DC machines
+- content: Current measurement
+- content: AC machines
 editorialgroup:
   committee:
   - Power System Instrumentation and Measurements of the IEEE Power and Energy Society

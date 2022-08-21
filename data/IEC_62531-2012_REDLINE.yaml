@@ -1,14 +1,14 @@
 ---
 id: IEC62531-2012Redline
 title:
-- type: title-main
-  content: 'IEC 62531:2012(E) (IEEE Std 1850-2010): Standard for Property Specification
+- content: 'IEC 62531:2012(E) (IEEE Std 1850-2010): Standard for Property Specification
     Language (PSL)'
   format: text/plain
-- type: main
-  content: 'IEC 62531:2012(E) (IEEE Std 1850-2010): Standard for Property Specification
+  type: title-main
+- content: 'IEC 62531:2012(E) (IEEE Std 1850-2010): Standard for Property Specification
     Language (PSL) - Redline'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6383181
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -71,30 +72,31 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2012'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Formal verification
-- Modeling
-- Computer lanugages
-- ABV
-- assertion
-- assertion-based verification
-- assumption
-- cover
-- model checking
-- IEEE 1850
-- property
-- PSL
-- specification
-- temporal logic
-- verification
+- content: IEEE standards
+- content: Formal verification
+- content: Modeling
+- content: Computer lanugages
+- content: ABV
+- content: assertion
+- content: assertion-based verification
+- content: assumption
+- content: cover
+- content: model checking
+- content: IEEE 1850
+- content: property
+- content: PSL
+- content: specification
+- content: temporal logic
+- content: verification
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

@@ -1,10 +1,10 @@
 ---
 id: IEEE1722-2016
 title:
-- type: main
-  content: IEEE Standard for a Transport Protocol for Time-Sensitive Applications
+- content: IEEE Standard for a Transport Protocol for Time-Sensitive Applications
     in Bridged Local Area Networks
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7782716
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2016'
 relation:
@@ -85,33 +87,33 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Encryption
-- Local area networks
-- Elliptic curve cryptography
-- Media streaming
-- Timing analysis
-- Synchronization
-- advanced encryption standard (AES)
-- bridged local area network (LAN)
-- clock recovery
-- elliptic curve cryptography (ECC)
-- encryption
-- IEC 61883
-- IEEE 802.1(TM) AVB protocols
-- IEEE 802.1AS(TM)
-- IEEE 802.1BA(TM)-2011
-- IEEE 802.1Q(TM)-2014
-- IEEE 1722(TM)-2011
-- National Institute of Standards and Technology (NIST)
-- QoS
-- serial digital interface (SDI)
-- SMPTE ST 2022-6
-- time-sensitive media streaming
-- Time-Sensitive Networking (TSN)
-- time synchronization
+- content: IEEE Standards
+- content: Encryption
+- content: Local area networks
+- content: Elliptic curve cryptography
+- content: Media streaming
+- content: Timing analysis
+- content: Synchronization
+- content: advanced encryption standard (AES)
+- content: bridged local area network (LAN)
+- content: clock recovery
+- content: elliptic curve cryptography (ECC)
+- content: encryption
+- content: IEC 61883
+- content: IEEE 802.1(TM) AVB protocols
+- content: IEEE 802.1AS(TM)
+- content: IEEE 802.1BA(TM)-2011
+- content: IEEE 802.1Q(TM)-2014
+- content: IEEE 1722(TM)-2011
+- content: National Institute of Standards and Technology (NIST)
+- content: QoS
+- content: serial digital interface (SDI)
+- content: SMPTE ST 2022-6
+- content: time-sensitive media streaming
+- content: Time-Sensitive Networking (TSN)
+- content: time synchronization
 editorialgroup:
   committee:
   - Microprocessor Standards Committee of the IEEE Computer Society

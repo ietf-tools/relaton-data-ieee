@@ -1,14 +1,14 @@
 ---
 id: IEEE592-2007Redline
 title:
-- type: title-main
-  content: IEEE Standard for Exposed Semiconducting Shields on High-Voltage Cable
+- content: IEEE Standard for Exposed Semiconducting Shields on High-Voltage Cable
     Joints and Separable Connectors
   format: text/plain
-- type: main
-  content: IEEE Standard for Exposed Semiconducting Shields on High-Voltage Cable
+  type: title-main
+- content: IEEE Standard for Exposed Semiconducting Shields on High-Voltage Cable
     Joints and Separable Connectors - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5961574
   type: src
@@ -36,8 +36,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,8 +67,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2011'
 relation:
@@ -98,17 +100,17 @@ relation:
     formattedref:
       content: IEEE 592-2018
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Cable shielding
-- Cable insulation
-- High-voltage techniques
-- Conductors
-- Semiconductor devices
-- 592-2007
-- fault-current initiation
-- shield resistance
+- content: IEEE standards
+- content: Cable shielding
+- content: Cable insulation
+- content: High-voltage techniques
+- content: Conductors
+- content: Semiconductor devices
+- content: 592-2007
+- content: fault-current initiation
+- content: shield resistance
 editorialgroup:
   committee:
   - Insulated Conductors of the IEEE Power and Energy Society

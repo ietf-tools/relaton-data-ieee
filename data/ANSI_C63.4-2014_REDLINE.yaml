@@ -1,16 +1,16 @@
 ---
 id: ANSIC63.4-2014Redline
 title:
-- type: title-main
-  content: American National Standard for Methods of Measurement of Radio-Noise Emissions
+- content: American National Standard for Methods of Measurement of Radio-Noise Emissions
     from Low-Voltage Electrical and Electronic Equipment in the Range of 9 kHz to
     40 GHz
   format: text/plain
-- type: main
-  content: American National Standard for Methods of Measurement of Radio-Noise Emissions
+  type: title-main
+- content: American National Standard for Methods of Measurement of Radio-Noise Emissions
     from Low-Voltage Electrical and Electronic Equipment in the Range of 9 kHz to
     40 GHz - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7373538
   type: src
@@ -36,8 +36,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,12 +68,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - American National Standards Institute
-    abbreviation: ANSI
+    - content: American National Standards Institute
+    abbreviation:
+      content: ANSI
     url: https://www.ansi.org
   from: '2014'
 relation:
@@ -93,23 +96,23 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- ANSI Standards
-- Electric variables measurement
-- Electronic equipment
-- Radio communication
-- Noise measurement
-- Emissions
-- Electronic equipment
-- U.S. consensus standard methods
-- instrumentation
-- and facilities for measurement of radio-frequency (RF) signals and noise emitted
-  from electrical and electronic devices in the frequency range of 9 kHz to 40 GHz
-  are specified. This standard does not include generic or product-specific emission
-  limits. Where possible
-- the specifications herein are harmonized with other national and international standards
-  used for similar purposes.
+- content: ANSI Standards
+- content: Electric variables measurement
+- content: Electronic equipment
+- content: Radio communication
+- content: Noise measurement
+- content: Emissions
+- content: Electronic equipment
+- content: U.S. consensus standard methods
+- content: instrumentation
+- content: and facilities for measurement of radio-frequency (RF) signals and noise
+    emitted from electrical and electronic devices in the frequency range of 9 kHz
+    to 40 GHz are specified. This standard does not include generic or product-specific
+    emission limits. Where possible
+- content: the specifications herein are harmonized with other national and international
+    standards used for similar purposes.
 editorialgroup:
   committee:
   - Accredited Standards Committee on Electromagnetic Compatibility

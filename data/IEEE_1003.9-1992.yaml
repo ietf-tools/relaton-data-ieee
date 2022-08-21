@@ -1,10 +1,10 @@
 ---
 id: IEEE1003.9-1992
 title:
-- type: main
-  content: 'IEEE Standard for InformationTechnology - POSIX(R) FORTRAN 77 Language
+- content: 'IEEE Standard for InformationTechnology - POSIX(R) FORTRAN 77 Language
     Interfaces - Part 1: Binding for System Application Program Interface (API)'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/182910
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,21 +69,22 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1992'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- FORTRAN
-- Software portability
-- Standards
-- interfaces
-- POSIX
-- System interfaces
-- FORTRAN 77
-- Application portability
-- interoperability
+- content: FORTRAN
+- content: Software portability
+- content: Standards
+- content: interfaces
+- content: POSIX
+- content: System interfaces
+- content: FORTRAN 77
+- content: Application portability
+- content: interoperability
 editorialgroup:
   committee:
   - Portable Applications of the IEEE Computer Society

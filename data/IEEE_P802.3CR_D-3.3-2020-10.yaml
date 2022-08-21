@@ -1,10 +1,10 @@
 ---
 id: IEEEP802.3cr/D-3.3-2020-10
 title:
-- type: main
-  content: 'IEEE Approved Draft Standard for Ethernet Amendment 10: Maintenance #14:
+- content: 'IEEE Approved Draft Standard for Ethernet Amendment 10: Maintenance #14:
     Isolation'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9353448
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -59,8 +60,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2020'
 relation:
@@ -81,20 +83,20 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Ethernet
-- Safety
-- IEC Standards
-- Maintenance engineering
-- Ethernet
-- IEC 60950
-- IEC 62368
-- IEEE 802.3&#8482;
-- IEEE 802.3cr&#8482;
-- isolation
-- safety
+- content: IEEE Standards
+- content: Ethernet
+- content: Safety
+- content: IEC Standards
+- content: Maintenance engineering
+- content: Ethernet
+- content: IEC 60950
+- content: IEC 62368
+- content: IEEE 802.3&#8482;
+- content: IEEE 802.3cr&#8482;
+- content: isolation
+- content: safety
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

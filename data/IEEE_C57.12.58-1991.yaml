@@ -1,10 +1,10 @@
 ---
 id: IEEEC57.12.58-1991
 title:
-- type: main
-  content: IEEE Guide for Conducting a Transient Voltage Analysis of a Dry-Type Transformer
+- content: IEEE Guide for Conducting a Transient Voltage Analysis of a Dry-Type Transformer
     Coil
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/159406
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1991'
 relation:
@@ -87,11 +89,11 @@ relation:
     formattedref:
       content: IEEE C57.12.58-2017
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Power transformers
-- Standards
-- Voltage measurement
+- content: Power transformers
+- content: Standards
+- content: Voltage measurement
 editorialgroup:
   committee:
   - Transformers of the IEEE Power and Energy Society

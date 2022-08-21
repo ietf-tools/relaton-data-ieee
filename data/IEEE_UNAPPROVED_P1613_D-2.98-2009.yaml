@@ -1,10 +1,10 @@
 ---
 id: IEEEUnapprovedP1613/D-2.98-2009
 title:
-- type: main
-  content: Draft Standard Environmental and Testing Requirements for Communications
+- content: Draft Standard Environmental and Testing Requirements for Communications
     Networking Devices Installed in Electric Power Substations
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4977270
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -56,36 +57,37 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- communications networking device
-- communications ports
-- serial device
-- modems
-- Ethernet hubs
-- switches
-- routers
-- bridges
-- firewalls
-- auto dialers
-- power apparatus
-- temperature range
-- humidity
-- derating
-- voltage rating
-- temperature rise
-- insulation test
-- dielectric test
-- impulse test
-- SWC test
-- fast transient test
-- RFI test
-- ESD test
-- environmental requirements.
+- content: communications networking device
+- content: communications ports
+- content: serial device
+- content: modems
+- content: Ethernet hubs
+- content: switches
+- content: routers
+- content: bridges
+- content: firewalls
+- content: auto dialers
+- content: power apparatus
+- content: temperature range
+- content: humidity
+- content: derating
+- content: voltage rating
+- content: temperature rise
+- content: insulation test
+- content: dielectric test
+- content: impulse test
+- content: SWC test
+- content: fast transient test
+- content: RFI test
+- content: ESD test
+- content: environmental requirements.
 ics:
 - code: 29.240.10
   text: Substations. Surge arresters

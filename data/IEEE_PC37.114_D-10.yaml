@@ -1,10 +1,10 @@
 ---
 id: IEEEPC37.114/D-10
 title:
-- type: main
-  content: Approved IEEE Draft Guide for Determining Fault Location on AC Transmission
+- content: Approved IEEE Draft Guide for Determining Fault Location on AC Transmission
     and Distribution Lines
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4040672
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -45,11 +46,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2004'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: '29.240'
   text: Power transmission and distribution lines

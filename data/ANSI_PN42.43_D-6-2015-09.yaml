@@ -1,10 +1,10 @@
 ---
 id: ANSIPN42.43/D-6-2015-09
 title:
-- type: main
-  content: Draft American National Standard Performance Criteria for Mobile and Transportable
+- content: Draft American National Standard Performance Criteria for Mobile and Transportable
     Radiation Monitors Used for Homeland Security
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7476815
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,12 +63,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - American National Standards Institute
-    abbreviation: ANSI
+    - content: American National Standards Institute
+    abbreviation:
+      content: ANSI
     url: https://www.ansi.org
   from: '2015'
 relation:
@@ -88,14 +91,14 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- ANSI Standards
-- Radiation monitoring
-- Mobile equipment
-- Performance evaluation
-- mobile radiation monitors
-- transportable radiation monitors
+- content: ANSI Standards
+- content: Radiation monitoring
+- content: Mobile equipment
+- content: Performance evaluation
+- content: mobile radiation monitors
+- content: transportable radiation monitors
 ics:
 - code: '17.240'
   text: Radiation measurements

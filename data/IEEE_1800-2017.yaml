@@ -1,10 +1,10 @@
 ---
 id: IEEE1800-2017
 title:
-- type: main
-  content: IEEE Standard for SystemVerilog--Unified Hardware Design, Specification,
+- content: IEEE Standard for SystemVerilog--Unified Hardware Design, Specification,
     and Verification Language
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8299595
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,8 +68,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2018'
 relation:
@@ -89,25 +91,25 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Programming languages
-- Hardware design languages
-- Design automation
-- Computer interfaces
-- assertions
-- design automation
-- design verification
-- hardware description language
-- HDL
-- HDVL
-- IEEE 1800&#8482;
-- PLI
-- programming language interface
-- SystemVerilog
-- Verilog&#174;
-- VPI
+- content: IEEE Standards
+- content: Programming languages
+- content: Hardware design languages
+- content: Design automation
+- content: Computer interfaces
+- content: assertions
+- content: design automation
+- content: design verification
+- content: hardware description language
+- content: HDL
+- content: HDVL
+- content: IEEE 1800&#8482;
+- content: PLI
+- content: programming language interface
+- content: SystemVerilog
+- content: Verilog&#174;
+- content: VPI
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

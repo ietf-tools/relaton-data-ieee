@@ -1,10 +1,10 @@
 ---
 id: IEEEC37.60/D-7-2017-08
 title:
-- type: main
-  content: IEEE/IEC International Draft Standard for Automatic Circuit Reclosers and
+- content: IEEE/IEC International Draft Standard for Automatic Circuit Reclosers and
     Fault Interrupters for Alternating Current Systems Up to 38 kV
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8015132
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -50,11 +51,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2017'
 relation:
 - type: updates
@@ -74,13 +76,13 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- AC machines
-- Circuit faults
-- Interrupters
+- content: IEEE Standards
+- content: IEC Standards
+- content: AC machines
+- content: Circuit faults
+- content: Interrupters
 editorialgroup:
   committee:
   - Switchgear of the IEEE Power and Energy Society

@@ -1,9 +1,9 @@
 ---
 id: IEEE524-1992
 title:
-- type: main
-  content: IEEE Guide to the Installation of Overhead Transmission Line Conductors
+- content: IEEE Guide to the Installation of Overhead Transmission Line Conductors
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/210907
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,20 +64,21 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1992'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Standards
-- guide
-- overhead
-- conductors
-- Terminology
-- Power transmission lines
-- Power cable installation
-- Grounding
+- content: Standards
+- content: guide
+- content: overhead
+- content: conductors
+- content: Terminology
+- content: Power transmission lines
+- content: Power cable installation
+- content: Grounding
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society

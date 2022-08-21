@@ -1,11 +1,11 @@
 ---
 id: IEEEP802.1CMde/D-2.0-2019-11
 title:
-- type: main
-  content: 'IEEE Draft Standard for Local and metropolitan area networks -- Time-Sensitive
+- content: 'IEEE Draft Standard for Local and metropolitan area networks -- Time-Sensitive
     Networking for Fronthaul Amendment: Enhancements to Fronthaul Profiles to Support
     New Fronthaul Interface, Synchronization, and Syntonization Standards'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8922961
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -51,8 +52,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2019'
 relation:
@@ -73,12 +75,12 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Local area networks
-- Metropolitan area networks
-- Time measurement
+- content: IEEE Standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Time measurement
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

@@ -1,14 +1,14 @@
 ---
 id: IEEE117-2015Redline
 title:
-- type: title-main
-  content: IEEE Standard Test Procedure for Thermal Evaluation of Systems of Insulating
+- content: IEEE Standard Test Procedure for Thermal Evaluation of Systems of Insulating
     Materials for Random-Wound AC Electric Machinery
   format: text/plain
-- type: main
-  content: IEEE Standard Test Procedure for Thermal Evaluation of Systems of Insulating
+  type: title-main
+- content: IEEE Standard Test Procedure for Thermal Evaluation of Systems of Insulating
     Materials for Random-Wound AC Electric Machinery - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7874055
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -73,8 +74,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2017'
 relation:
@@ -95,19 +97,19 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- AC machines
-- Insulation
-- Thermal degradation
-- Machinery
-- Degradation
-- ac electric machinery
-- IEEE(TM)
-- insulation system
-- random-wound
-- thermal evaluation
+- content: IEEE Standards
+- content: AC machines
+- content: Insulation
+- content: Thermal degradation
+- content: Machinery
+- content: Degradation
+- content: ac electric machinery
+- content: IEEE(TM)
+- content: insulation system
+- content: random-wound
+- content: thermal evaluation
 editorialgroup:
   committee:
   - Electric Machinery of the IEEE Power and Energy Society

@@ -1,10 +1,10 @@
 ---
 id: IEEEP802.1BA/D-2.0/R--2021-08
 title:
-- type: main
-  content: IEEE Draft Standard for Local and Metropolitan Area Networks--Audio Video
+- content: IEEE Draft Standard for Local and Metropolitan Area Networks--Audio Video
     Bridging (AVB) Systems
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9526573
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -60,12 +61,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - American National Standards Institute
-    abbreviation: ANSI
+    - content: American National Standards Institute
+    abbreviation:
+      content: ANSI
     url: https://www.ansi.org
   from: '2021'
 relation:
@@ -86,30 +89,30 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Local area networks
-- Metropolitan area networks
-- Bridge circuits
-- Sensitivity analysis
-- Timing
-- Audio systems
-- Video coding
-- audio video bridging
-- AVB
-- Bridged Local Area Networks
-- IEEE 802.1BA
-- LANs
-- local area networks
-- MAC Bridges
-- MANs
-- metropolitan area networks
-- time-sensitive data streams
-- time-sensitive networking
-- TSN
-- Virtual Bridged Local Area Networks
-- virtual LANs
+- content: IEEE Standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Bridge circuits
+- content: Sensitivity analysis
+- content: Timing
+- content: Audio systems
+- content: Video coding
+- content: audio video bridging
+- content: AVB
+- content: Bridged Local Area Networks
+- content: IEEE 802.1BA
+- content: LANs
+- content: local area networks
+- content: MAC Bridges
+- content: MANs
+- content: metropolitan area networks
+- content: time-sensitive data streams
+- content: time-sensitive networking
+- content: TSN
+- content: Virtual Bridged Local Area Networks
+- content: virtual LANs
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

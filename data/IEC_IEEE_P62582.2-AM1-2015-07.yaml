@@ -1,11 +1,11 @@
 ---
 id: IEC/IEEEP62582.2-am1-2015-07
 title:
-- type: main
-  content: 'IEC/IEEE Draft Nuclear Power Plants - Instrumentation and Control Important
+- content: 'IEC/IEEE Draft Nuclear Power Plants - Instrumentation and Control Important
     to Safety - Electrical Equipment Condition Monitoring Methods - Part 2: Indenter
     Modulus Amendment 1'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7185314
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -59,11 +60,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2015'
 relation:
 - type: updates
@@ -83,16 +85,16 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- Nuclear power generation
-- Instrumentation
-- Control systems
-- Power system reliability
-- Monitoring
-- Electrical safety
+- content: IEEE Standards
+- content: IEC Standards
+- content: Nuclear power generation
+- content: Instrumentation
+- content: Control systems
+- content: Power system reliability
+- content: Monitoring
+- content: Electrical safety
 editorialgroup:
   committee:
   - Nuclear Power Engineering of the IEEE Power and Energy Society

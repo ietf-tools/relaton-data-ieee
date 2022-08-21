@@ -1,12 +1,12 @@
 ---
 id: ISO/IEC/IEEE8802.1AE/Cor1-2021
 title:
-- type: main
-  content: 'ISO/IEC/IEEE International Standard - Information technology - Telecommunications
+- content: 'ISO/IEC/IEEE International Standard - Information technology - Telecommunications
     and exchange between information technology systems -- Requirements for local
     and metropolitan area networks--Part 1AE: Media access control (MAC) security
     -TECHNICAL CORRIGENDUM 1: Tag control information figure'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9508909
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,13 +65,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2021'
 relation:
 - type: adoptedFrom
@@ -83,32 +85,32 @@ relation:
     formattedref:
       content: IEEE 802.1AE/Cor1-2020
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Standards
-- ISO Standards
-- IEC Standards
-- Security
-- Information technology
-- Telecommunications
-- authorized port
-- confidentiality
-- corrigendum
-- data origin authenticity
-- IEEE 802.1AE&#8482;
-- integrity
-- LANs
-- local area networks
-- MAC Bridges
-- MAC security
-- MAC Service
-- MANs
-- metropolitan area networks
-- port-based network access control
-- secure association
-- security
-- transparent bridging
+- content: IEEE Standards
+- content: Standards
+- content: ISO Standards
+- content: IEC Standards
+- content: Security
+- content: Information technology
+- content: Telecommunications
+- content: authorized port
+- content: confidentiality
+- content: corrigendum
+- content: data origin authenticity
+- content: IEEE 802.1AE&#8482;
+- content: integrity
+- content: LANs
+- content: local area networks
+- content: MAC Bridges
+- content: MAC security
+- content: MAC Service
+- content: MANs
+- content: metropolitan area networks
+- content: port-based network access control
+- content: secure association
+- content: security
+- content: transparent bridging
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

@@ -1,12 +1,12 @@
 ---
 id: IEEE1012-1998Redline
 title:
-- type: title-main
-  content: IEEE Standard for Software Verification and Validation
+- content: IEEE Standard for Software Verification and Validation
   format: text/plain
-- type: main
-  content: IEEE Standard for Software Verification and Validation - Redline
+  type: title-main
+- content: IEEE Standard for Software Verification and Validation - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7873195
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2017'
 relation:
@@ -80,15 +82,15 @@ relation:
     formattedref:
       content: IEEE 1012-2004
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Product life cycle management
-- Software reliability
-- Verification
-- software integrity
-- software life cycle processes
-- verification and validation
+- content: IEEE Standards
+- content: Product life cycle management
+- content: Software reliability
+- content: Verification
+- content: software integrity
+- content: software life cycle processes
+- content: verification and validation
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

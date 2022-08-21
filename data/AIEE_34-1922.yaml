@@ -1,9 +1,9 @@
 ---
 id: AIEE34-1922
 title:
-- type: main
-  content: AIEE Standards for Telephony and Telegraphy
+- content: AIEE Standards for Telephony and Telegraphy
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7409855
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -60,13 +61,13 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - AIEE
+    - content: AIEE
   from: '1922'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- AIEE Standards
-- Telegraphy
-- Telephony
-- Communication systems
-- Line circuits
-- Equivilent circuits
+- content: AIEE Standards
+- content: Telegraphy
+- content: Telephony
+- content: Communication systems
+- content: Line circuits
+- content: Equivilent circuits

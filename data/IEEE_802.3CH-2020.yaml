@@ -1,11 +1,11 @@
 ---
 id: IEEE802.3ch-2020
 title:
-- type: main
-  content: IEEE Standard for Ethernet--Amendment 8:Physical Layer Specifications and
+- content: IEEE Standard for Ethernet--Amendment 8:Physical Layer Specifications and
     Management Parameters for 2.5 Gb/s, 5 Gb/s, and 10 Gb/s Automotive Electrical
     Ethernet
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9146430
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2020'
 relation:
@@ -94,16 +96,17 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Ethernet
-- Physical layer
-- Communication system control
-- Automotive engineering
-- Master-slave
-- 2.5GBASE-T1; 5GBASE-T1; 10GBASE-T1; Ethernet; IEEE 802.3ch; MASTER-SLAVE; Medium
-  Dependent Interface; Physical Coding Sublayer; Physical Layer; Physical Medium Attachment
+- content: IEEE Standards
+- content: Ethernet
+- content: Physical layer
+- content: Communication system control
+- content: Automotive engineering
+- content: Master-slave
+- content: 2.5GBASE-T1; 5GBASE-T1; 10GBASE-T1; Ethernet; IEEE 802.3ch; MASTER-SLAVE;
+    Medium Dependent Interface; Physical Coding Sublayer; Physical Layer; Physical
+    Medium Attachment
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

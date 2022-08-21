@@ -1,14 +1,14 @@
 ---
 id: IEEE308-2020Redline
 title:
-- type: title-main
-  content: IEEE Standard Criteria for Class 1E Power Systems for Nuclear Power Generating
+- content: IEEE Standard Criteria for Class 1E Power Systems for Nuclear Power Generating
     Stations
   format: text/plain
-- type: main
-  content: IEEE Standard Criteria for Class 1E Power Systems for Nuclear Power Generating
+  type: title-main
+- content: IEEE Standard Criteria for Class 1E Power Systems for Nuclear Power Generating
     Stations - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9086173
   type: src
@@ -36,8 +36,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,8 +70,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2020'
 relation:
@@ -91,16 +93,16 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Power system reliability
-- Nuclear power generation
-- Safety
-- Class 1E power systems
-- IEEE 308
-- nuclear power station design
-- nuclear safety
+- content: IEEE Standards
+- content: Power system reliability
+- content: Nuclear power generation
+- content: Safety
+- content: Class 1E power systems
+- content: IEEE 308
+- content: nuclear power station design
+- content: nuclear safety
 editorialgroup:
   committee:
   - Nuclear Power Engineering of the IEEE Power and Energy Society

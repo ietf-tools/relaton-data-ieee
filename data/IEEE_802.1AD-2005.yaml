@@ -1,10 +1,10 @@
 ---
 id: IEEE802.1ad-2005
 title:
-- type: main
-  content: 'IEEE Standard for Local and Metropolitan Area Networks---Virtual Bridged
+- content: 'IEEE Standard for Local and Metropolitan Area Networks---Virtual Bridged
     Local Area Networks---Amendment 4: Provider Bridges'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6044678
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2006'
 relation:
@@ -87,20 +89,20 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Local area networks
-- Metropolitan aea networks
-- Media Access Protocol
-- Virtual environments
-- Bridged Local Area Networks
-- local area networks (LANs)
-- MAC Bridges
-- metropolitan area networks
-- Multiple Spanning Tree Protocol (MSTP)
-- Rapid Spanning Tree Protocol (RSTP)
-- Virtual Bridged Local Area Networks (virtual LANs)
+- content: IEEE standards
+- content: Local area networks
+- content: Metropolitan aea networks
+- content: Media Access Protocol
+- content: Virtual environments
+- content: Bridged Local Area Networks
+- content: local area networks (LANs)
+- content: MAC Bridges
+- content: metropolitan area networks
+- content: Multiple Spanning Tree Protocol (MSTP)
+- content: Rapid Spanning Tree Protocol (RSTP)
+- content: Virtual Bridged Local Area Networks (virtual LANs)
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

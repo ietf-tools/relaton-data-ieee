@@ -1,9 +1,9 @@
 ---
 id: IEEE264-1968
 title:
-- type: main
-  content: IEEE Standard for High-Power Wide-Band Transformers.
+- content: IEEE Standard for High-Power Wide-Band Transformers.
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7394095
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,20 +68,21 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1968'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Transformers
-- Wideband
-- High power transformers
-- Impedance
-- Frequency modulation
-- Inductors
-- Electron tubes
+- content: IEEE Standards
+- content: Transformers
+- content: Wideband
+- content: High power transformers
+- content: Impedance
+- content: Frequency modulation
+- content: Inductors
+- content: Electron tubes
 editorialgroup:
   committee:
   - IEEE Magnetics Society

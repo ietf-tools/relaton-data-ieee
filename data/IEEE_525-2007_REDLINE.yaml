@@ -1,13 +1,13 @@
 ---
 id: IEEE525-2007Redline
 title:
-- type: title-main
-  content: IEEE Guide for the Design and Installation of Cable Systems in Substations
+- content: IEEE Guide for the Design and Installation of Cable Systems in Substations
   format: text/plain
-- type: main
-  content: IEEE Guide for the Design and Installation of Cable Systems in Substations
+  type: title-main
+- content: IEEE Guide for the Design and Installation of Cable Systems in Substations
     - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5961595
   type: src
@@ -35,8 +35,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2011'
 relation:
@@ -96,30 +98,30 @@ relation:
     formattedref:
       content: IEEE 525-2016
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Substations
-- Cables
-- Power cables
-- 525-2007
-- acceptance testing
-- cable
-- cable installation
-- cable selection
-- communication cable
-- electrical segregation
-- fiber-optic cable
-- handling
-- power cable
-- pulling tension
-- raceway
-- recommended maintenance
-- routing
-- separation of redundant cable
-- service conditions
-- substation
-- transient protection
+- content: IEEE standards
+- content: Substations
+- content: Cables
+- content: Power cables
+- content: 525-2007
+- content: acceptance testing
+- content: cable
+- content: cable installation
+- content: cable selection
+- content: communication cable
+- content: electrical segregation
+- content: fiber-optic cable
+- content: handling
+- content: power cable
+- content: pulling tension
+- content: raceway
+- content: recommended maintenance
+- content: routing
+- content: separation of redundant cable
+- content: service conditions
+- content: substation
+- content: transient protection
 editorialgroup:
   committee:
   - Substations of the IEEE Power and Energy Society

@@ -1,10 +1,10 @@
 ---
 id: IEEE1516.1-2010
 title:
-- type: main
-  content: IEEE Standard for Modeling and Simulation (M&S) High Level Architecture
+- content: IEEE Standard for Modeling and Simulation (M&S) High Level Architecture
     (HLA)-- Federate Interface Specification
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5557728
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,34 +70,35 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2010'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Metasearch
-- Computational modeling
-- Computer architecture
-- Computer architecture
-- Distributed databases
-- architecture
-- class attribute
-- data distribution management
-- federate
-- federation
-- federation execution
-- federation object model
-- HLA
-- instance attribute
-- instance attribute ownership
-- interaction class
-- object class
-- runtime infrastructure
-- simulation object model
-- time-constrained
-- time-regulating
+- content: IEEE standards
+- content: Metasearch
+- content: Computational modeling
+- content: Computer architecture
+- content: Computer architecture
+- content: Distributed databases
+- content: architecture
+- content: class attribute
+- content: data distribution management
+- content: federate
+- content: federation
+- content: federation execution
+- content: federation object model
+- content: HLA
+- content: instance attribute
+- content: instance attribute ownership
+- content: interaction class
+- content: object class
+- content: runtime infrastructure
+- content: simulation object model
+- content: time-constrained
+- content: time-regulating
 editorialgroup:
   committee:
   - Simulation Interoperability Stds Organization/Stds Activity Committee of the IEEE

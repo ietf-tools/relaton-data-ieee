@@ -1,10 +1,10 @@
 ---
 id: IEEE487-1992
 title:
-- type: main
-  content: IEEE Recommended Practice for the Protection of Wire-Line Communication
+- content: IEEE Recommended Practice for the Protection of Wire-Line Communication
     Facilities Serving Electric Power Stations
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/210903
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1992'
 relation:
@@ -95,15 +97,15 @@ relation:
     formattedref:
       content: IEEE 487-2000
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Protection
-- Standards
-- Wire communication cables
-- wire
-- line
-- communication
-- protection
+- content: Protection
+- content: Standards
+- content: Wire communication cables
+- content: wire
+- content: line
+- content: communication
+- content: protection
 editorialgroup:
   committee:
   - IEEE Power and Energy Society

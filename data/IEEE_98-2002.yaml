@@ -1,10 +1,10 @@
 ---
 id: IEEE98-2002
 title:
-- type: main
-  content: IEEE Standard for the Preparation of Test Procedures for the Thermal Evaluation
+- content: IEEE Standard for the Preparation of Test Procedures for the Thermal Evaluation
     of Solid Electrical Insulating Materials
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1009181
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   role:
   - publisher
@@ -54,15 +55,16 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2002'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Thermal analysis
-- Electrical insulation
+- content: IEEE Standards
+- content: Thermal analysis
+- content: Electrical insulation
 editorialgroup:
   committee:
   - Standards Coordinating Committee 4 on Thermal Rating of the IEEE Electrical Insulation

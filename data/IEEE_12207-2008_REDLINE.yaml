@@ -1,14 +1,14 @@
 ---
 id: IEEE12207-2008Redline
 title:
-- type: title-main
-  content: ISO/IEC/IEEE International Standard - Systems and software engineering
+- content: ISO/IEC/IEEE International Standard - Systems and software engineering
     -- Software life cycle processes
   format: text/plain
-- type: main
-  content: ISO/IEC/IEEE International Standard - Systems and software engineering
+  type: title-main
+- content: ISO/IEC/IEEE International Standard - Systems and software engineering
     -- Software life cycle processes - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8742773
   type: src
@@ -36,8 +36,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -78,13 +79,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2008'
 relation:
 - type: updates
@@ -114,30 +116,30 @@ relation:
     formattedref:
       content: ISO/IEC/IEEE 12207-2017
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- ISO Standards
-- Software engineering
-- Systems engineering and theory
-- 12207-2008
-- acquisition
-- agreement
-- assessment
-- audit
-- configuration management
-- development
-- maintenance
-- disposal
-- operation
-- process reference model
-- process improvement
-- quality assurance
-- retirement
-- supply
-- validation
-- verification
+- content: IEEE Standards
+- content: IEC Standards
+- content: ISO Standards
+- content: Software engineering
+- content: Systems engineering and theory
+- content: 12207-2008
+- content: acquisition
+- content: agreement
+- content: assessment
+- content: audit
+- content: configuration management
+- content: development
+- content: maintenance
+- content: disposal
+- content: operation
+- content: process reference model
+- content: process improvement
+- content: quality assurance
+- content: retirement
+- content: supply
+- content: validation
+- content: verification
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

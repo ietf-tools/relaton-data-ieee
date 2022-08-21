@@ -1,10 +1,10 @@
 ---
 id: IEEE1613.1-2013
 title:
-- type: main
-  content: IEEE Standard Environmental and Testing Requirements for Communications
+- content: IEEE Standard Environmental and Testing Requirements for Communications
     Networking Devices Installed in Transmission and Distribution Facilities
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6687184
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,31 +68,32 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2013'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Communications services
-- Telecommunication network management
-- Oscillators
-- Magnetic fields
-- Radiation effects
-- Hazards
-- Surge protection
-- Damping
-- common-mode disturbances
-- communications networking device
-- conducted RF
-- damped oscillatory magnetic fields
-- IEEE 1613.1(tm)
-- immunity
-- power frequency magnetic fields
-- radiated
-- RFI hazards
-- surge
+- content: IEEE standards
+- content: Communications services
+- content: Telecommunication network management
+- content: Oscillators
+- content: Magnetic fields
+- content: Radiation effects
+- content: Hazards
+- content: Surge protection
+- content: Damping
+- content: common-mode disturbances
+- content: communications networking device
+- content: conducted RF
+- content: damped oscillatory magnetic fields
+- content: IEEE 1613.1(tm)
+- content: immunity
+- content: power frequency magnetic fields
+- content: radiated
+- content: RFI hazards
+- content: surge
 editorialgroup:
   committee:
   - Substations of the IEEE Power and Energy Society

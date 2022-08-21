@@ -1,10 +1,10 @@
 ---
 id: ISO/IEC/IEEECD1P41062-2022-04
 title:
-- type: main
-  content: ISO/IEC/IEEE Draft Standard - Software Engineering - Life cycle processes
+- content: ISO/IEC/IEEE Draft Standard - Software Engineering - Life cycle processes
     - Software Acquisition
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9780271
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -50,13 +51,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2022'
 relation:
 - type: updates
@@ -76,13 +78,13 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ISO Standards
-- IEC Standards
-- Software engineering
-- Product life cycle management
+- content: IEEE Standards
+- content: ISO Standards
+- content: IEC Standards
+- content: Software engineering
+- content: Product life cycle management
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

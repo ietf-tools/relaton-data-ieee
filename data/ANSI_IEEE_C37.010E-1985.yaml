@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEEC37.010e-1985
 title:
-- type: main
-  content: IEEE Application Guide for AC High- Voltage Circuit Breakers Rated on a
+- content: IEEE Application Guide for AC High- Voltage Circuit Breakers Rated on a
     Symmetrical Current Basis  (Supplement to ANSI/IEEE C37.010-1979)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1388026
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -49,8 +50,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1985'
 relation:
@@ -71,7 +73,7 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 editorialgroup:
   committee:
   - Switchgear of the IEEE Power and Energy Society

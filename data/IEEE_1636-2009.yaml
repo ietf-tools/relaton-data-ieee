@@ -1,10 +1,10 @@
 ---
 id: IEEE1636-2009
 title:
-- type: main
-  content: IEEE Standard for Software Interface for Maintenance Information Collection
+- content: IEEE Standard for Software Interface for Maintenance Information Collection
     and Analysis (SIMICA)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8654231
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,8 +70,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2013'
 relation:
@@ -94,21 +96,22 @@ relation:
     formattedref:
       content: IEEE 1636-2018
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Data analysis
-- Information analysis
-- Software maintenance
-- XML
-- AI-ESTATE
-- Automated Test Markup Language (ATML)
-- diagnostic maturation
-- IEEE 1636TM
-- Maintenance Action Information
-- maintenance data
-- Software Interface for Maintenance Information Collection and Analysis (SIMICA)
-- Test Results and Session Information
+- content: IEEE Standards
+- content: Data analysis
+- content: Information analysis
+- content: Software maintenance
+- content: XML
+- content: AI-ESTATE
+- content: Automated Test Markup Language (ATML)
+- content: diagnostic maturation
+- content: IEEE 1636TM
+- content: Maintenance Action Information
+- content: maintenance data
+- content: Software Interface for Maintenance Information Collection and Analysis
+    (SIMICA)
+- content: Test Results and Session Information
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

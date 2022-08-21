@@ -1,10 +1,10 @@
 ---
 id: IEEE463-2019
 title:
-- type: main
-  content: IEEE Standard for Electrical Safety Practices in Electrolytic Cell Line
+- content: IEEE Standard for Electrical Safety Practices in Electrolytic Cell Line
     Working Zones
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8880585
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,8 +68,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2019'
 relation:
@@ -89,16 +91,16 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Electrical safety
-- Electrolytes
-- cell line working zone
-- electrical conductor installations
-- electrical safety
-- electrolytic cell line
-- IEEE 463
+- content: IEEE Standards
+- content: Electrical safety
+- content: Electrolytes
+- content: cell line working zone
+- content: electrical conductor installations
+- content: electrical safety
+- content: electrolytic cell line
+- content: IEEE 463
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

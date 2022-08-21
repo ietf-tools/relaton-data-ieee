@@ -1,9 +1,9 @@
 ---
 id: IEEEP802.3/D-3.1-2018-02
 title:
-- type: main
-  content: IEEE Draft Standard for Ethernet
+- content: IEEE Draft Standard for Ethernet
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8302876
   type: src
@@ -29,8 +29,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,8 +69,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2018'
 relation:
@@ -90,66 +92,66 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Local area networks
-- Metropolitan area networks
-- Ethernet
-- Energy efficiency
-- EPON
-- 2.5 Gigabit Ethernet
-- 5 Gigabit Ethernet
-- 10 Gigabit Ethernet
-- 25 Gigabit Ethernet
-- 40 Gigabit Ethernet
-- 100 Gigabit Ethernet
-- 200 Gigabit Ethernet
-- 400 Gigabit Ethernet
-- attachment unit interface
-- AUI
-- Auto-Negotiation
-- Backplane Ethernet
-- data processing
-- DTE Power via the MDI
-- Energy Efficient Ethernet
-- EPoC
-- EPON
-- EPON Protocol over Coax
-- Ethernet
-- Ethernet in the First Mile
-- Ethernet passive optical network
-- express traffic
-- Fast Ethernet
-- Gigabit Ethernet
-- IEEE 802.3™
-- information exchange
-- LAN
-- local area network
-- management
-- MDI
-- medium dependent interface
-- media independent interface
-- MIB
-- MII
-- MPMC
-- multi-point MAC control
-- PCS
-- PHY
-- physical coding sublayer
-- Physical Layer
-- physical medium attachment
-- physical medium dependent
-- PMA
-- PMD
-- PoDL
-- Power over Data Lines
-- Power over Ethernet
-- reconciliation sublayer
-- repeater
-- RS
-- type field
-- VLAN tag
+- content: IEEE Standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Ethernet
+- content: Energy efficiency
+- content: EPON
+- content: 2.5 Gigabit Ethernet
+- content: 5 Gigabit Ethernet
+- content: 10 Gigabit Ethernet
+- content: 25 Gigabit Ethernet
+- content: 40 Gigabit Ethernet
+- content: 100 Gigabit Ethernet
+- content: 200 Gigabit Ethernet
+- content: 400 Gigabit Ethernet
+- content: attachment unit interface
+- content: AUI
+- content: Auto-Negotiation
+- content: Backplane Ethernet
+- content: data processing
+- content: DTE Power via the MDI
+- content: Energy Efficient Ethernet
+- content: EPoC
+- content: EPON
+- content: EPON Protocol over Coax
+- content: Ethernet
+- content: Ethernet in the First Mile
+- content: Ethernet passive optical network
+- content: express traffic
+- content: Fast Ethernet
+- content: Gigabit Ethernet
+- content: IEEE 802.3™
+- content: information exchange
+- content: LAN
+- content: local area network
+- content: management
+- content: MDI
+- content: medium dependent interface
+- content: media independent interface
+- content: MIB
+- content: MII
+- content: MPMC
+- content: multi-point MAC control
+- content: PCS
+- content: PHY
+- content: physical coding sublayer
+- content: Physical Layer
+- content: physical medium attachment
+- content: physical medium dependent
+- content: PMA
+- content: PMD
+- content: PoDL
+- content: Power over Data Lines
+- content: Power over Ethernet
+- content: reconciliation sublayer
+- content: repeater
+- content: RS
+- content: type field
+- content: VLAN tag
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

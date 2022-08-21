@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEEC37.90.1-1974
 title:
-- type: main
-  content: IEEE Standard Surge Withstand Capability Test For Protective Relays and
+- content: IEEE Standard Surge Withstand Capability Test For Protective Relays and
     Relay Systems
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/27704
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1974'
 relation:
@@ -79,12 +81,12 @@ relation:
     formattedref:
       content: ANSI/IEEE C37.90.1-1989
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Relays
-- Standards
-- Surges
-- C37.90.1
+- content: Relays
+- content: Standards
+- content: Surges
+- content: C37.90.1
 editorialgroup:
   committee:
   - Power System Relaying and Control of the IEEE Power and Energy Society

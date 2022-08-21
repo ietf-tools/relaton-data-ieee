@@ -1,10 +1,10 @@
 ---
 id: IEC62860-2013
 title:
-- type: main
-  content: IEC/IEEE Test methods for the characterization of organic transistors and
+- content: IEC/IEEE Test methods for the characterization of organic transistors and
     materials
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6617657
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,30 +68,31 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2013'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEC standards
-- IEEE standards
-- Transistors
-- Organic materials
-- Testing
-- Error detection
-- Recommended methods and standardized reporting practices for electricalcharacterization
-  of printed and organic transistors are covered. Due to the nature of printed andorganic
-  electronics
-- significant measurement errors can be introduced if the electricalcharacterization
-  design-of-experiment is not properly addressed. This standard describes themost
-  common sources of measurement error
-- particularly for high-impedance electricalmeasurements commonly required for printed
-  and organic transistors. This standard also givesrecommended practices in order
-  to minimize and/or characterize the effect of measurementartifacts and other sources
-  of error encountered while measuring printed and organic transistors.
+- content: IEC standards
+- content: IEEE standards
+- content: Transistors
+- content: Organic materials
+- content: Testing
+- content: Error detection
+- content: Recommended methods and standardized reporting practices for electricalcharacterization
+    of printed and organic transistors are covered. Due to the nature of printed andorganic
+    electronics
+- content: significant measurement errors can be introduced if the electricalcharacterization
+    design-of-experiment is not properly addressed. This standard describes themost
+    common sources of measurement error
+- content: particularly for high-impedance electricalmeasurements commonly required
+    for printed and organic transistors. This standard also givesrecommended practices
+    in order to minimize and/or characterize the effect of measurementartifacts and
+    other sources of error encountered while measuring printed and organic transistors.
 ics:
 - code: '07.030'
   text: Physics. Chemistry

@@ -1,10 +1,10 @@
 ---
 id: IEEEP1636/D-7-2017-09
 title:
-- type: main
-  content: IEEE Draft Standard for Software Interface for Maintenance Information
+- content: IEEE Draft Standard for Software Interface for Maintenance Information
     Collection and Analysis (SIMICA)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8065145
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,8 +62,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2017'
 relation:
@@ -83,23 +85,24 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Automatic test equipment
-- Maintenance engineering
-- Ontologies
-- XML
-- Software maintenance
-- Software testing
-- automated test system (ATS)
-- extensible markup language (XML)
-- IEEE 1636&#8482;
-- maintenance action information
-- OWL ontology
-- Software Interface for Maintenance Information Collection and Analysis (SIMICA)
-- test results and session information
-- XML schema
+- content: IEEE Standards
+- content: Automatic test equipment
+- content: Maintenance engineering
+- content: Ontologies
+- content: XML
+- content: Software maintenance
+- content: Software testing
+- content: automated test system (ATS)
+- content: extensible markup language (XML)
+- content: IEEE 1636&#8482;
+- content: maintenance action information
+- content: OWL ontology
+- content: Software Interface for Maintenance Information Collection and Analysis
+    (SIMICA)
+- content: test results and session information
+- content: XML schema
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

@@ -1,10 +1,10 @@
 ---
 id: IEEE1140-1994
 title:
-- type: main
-  content: IEEE Standard Procedures for the Measurement of Electric and Magnetic Fields
+- content: IEEE Standard Procedures for the Measurement of Electric and Magnetic Fields
     from Video Display Terminals (VDTs) from 5 Hz to 400 kHz
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/392607
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,20 +64,21 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1994'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Magnetic field measurement
-- Electric variables measurement
-- Magnetic fields
-- Video displays
-- magnetic field
-- electric field
-- video display terminal (VDT)
+- content: IEEE Standards
+- content: Magnetic field measurement
+- content: Electric variables measurement
+- content: Magnetic fields
+- content: Video displays
+- content: magnetic field
+- content: electric field
+- content: video display terminal (VDT)
 editorialgroup:
   committee:
   - Standards Development Committee of the IEEE Electromagnetic Compatibility Society

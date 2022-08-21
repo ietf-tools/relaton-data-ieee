@@ -1,10 +1,10 @@
 ---
 id: IEEE1129-1992
 title:
-- type: main
-  content: IEEE Recommended Practice for Monitoring and Instrumentation of Turbine
+- content: IEEE Recommended Practice for Monitoring and Instrumentation of Turbine
     Generators
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/210912
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,18 +66,19 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1992'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Monitoring
-- Standards
-- Synchronous generators
-- Turbogenerators
-- cylindrical-rotor
-- Synchronous turbine generators
+- content: Monitoring
+- content: Standards
+- content: Synchronous generators
+- content: Turbogenerators
+- content: cylindrical-rotor
+- content: Synchronous turbine generators
 editorialgroup:
   committee:
   - Electric Machinery of the IEEE Power and Energy Society

@@ -1,11 +1,11 @@
 ---
 id: IEEEP802.1
 title:
-- type: main
-  content: 'IEEE Draft Standard for Local and Metropolitan Area Networks--Timing and
+- content: 'IEEE Draft Standard for Local and Metropolitan Area Networks--Timing and
     Synchronization for Time-Sensitive Applications - Corrigendum 1: Technical and
     Editorial Corrections'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9500158
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -59,8 +60,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2021'
 relation:
@@ -81,25 +83,25 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Local area networks
-- Metropolitan area networks
-- Synchronization
-- Timing analysis
-- Sensitivity
-- best master
-- frequency offset
-- Grandmaster Clock
-- Grandmaster PTP Instance
-- PTP End Instance
-- PTP Relay Instance
-- IEEE 802.1AS&#8482;
-- phase offset
-- synchronization
-- syntonization
-- time-aware system
+- content: IEEE Standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Synchronization
+- content: Timing analysis
+- content: Sensitivity
+- content: best master
+- content: frequency offset
+- content: Grandmaster Clock
+- content: Grandmaster PTP Instance
+- content: PTP End Instance
+- content: PTP Relay Instance
+- content: IEEE 802.1AS&#8482;
+- content: phase offset
+- content: synchronization
+- content: syntonization
+- content: time-aware system
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

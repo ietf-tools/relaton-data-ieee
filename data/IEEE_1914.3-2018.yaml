@@ -1,9 +1,9 @@
 ---
 id: IEEE1914.3-2018
 title:
-- type: main
-  content: IEEE Standard for Radio over Ethernet Encapsulations and Mappings
+- content: IEEE Standard for Radio over Ethernet Encapsulations and Mappings
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8486937
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,24 +65,25 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2018'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Ethernet
-- Radio communications
-- Encapsulation
-- IEEE 1914.3(TM)
-- native RoE
-- radio over Ethernet
-- RoE
-- RoE de-mapper
-- RoE mapper
-- structure-agnostic
-- structure-aware
+- content: IEEE Standards
+- content: Ethernet
+- content: Radio communications
+- content: Encapsulation
+- content: IEEE 1914.3(TM)
+- content: native RoE
+- content: radio over Ethernet
+- content: RoE
+- content: RoE de-mapper
+- content: RoE mapper
+- content: structure-agnostic
+- content: structure-aware
 editorialgroup:
   committee:
   - Mobile Communication Networks Standards Committee of the IEEE Communications Society

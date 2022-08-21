@@ -1,11 +1,11 @@
 ---
 id: IEEEIEEE
 title:
-- type: main
-  content: IEEE Draft Recommended Practice -- Adoption of IEC 61000-4-15:2010, Electromagnetic
+- content: IEEE Draft Recommended Practice -- Adoption of IEC 61000-4-15:2010, Electromagnetic
     compatibility (EMC)---Testing and measurement techniques---Flickermeter---Functional
     and design specifications
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5937014
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,18 +69,19 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2011'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Electromagnetic compatibility
-- Testing
-- Design methodology
-- flicker
-- voltage fluctuation
+- content: IEEE standards
+- content: Electromagnetic compatibility
+- content: Testing
+- content: Design methodology
+- content: flicker
+- content: voltage fluctuation
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society

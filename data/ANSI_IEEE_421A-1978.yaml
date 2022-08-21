@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE421A-1978
 title:
-- type: main
-  content: IEEE Guide for Identification, Testing, and Evaluation of the Dynamic Performance
+- content: IEEE Guide for Identification, Testing, and Evaluation of the Dynamic Performance
     of Excitation Control Systems
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/27751
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,8 +70,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1978'
 relation:
@@ -84,13 +86,13 @@ relation:
     formattedref:
       content: IEEE 421.2-1990
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Control systems
-- Power systems
-- Standards
-- Testing
-- '421.2'
+- content: Control systems
+- content: Power systems
+- content: Standards
+- content: Testing
+- content: '421.2'
 editorialgroup:
   committee:
   - Energy Development &amp; Power Generation of the IEEE Power and Energy Society

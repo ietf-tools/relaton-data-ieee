@@ -1,10 +1,10 @@
 ---
 id: IEEE86-1987
 title:
-- type: main
-  content: 'IEEE Recommended Practice: Definitions of Basic Per-Unit Quantities for
+- content: 'IEEE Recommended Practice: Definitions of Basic Per-Unit Quantities for
     AC Rotating Machines'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/27826
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,20 +70,21 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1987'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- AC machines
-- Induction motors
-- Standards
-- basic
-- per-unit
-- quantities
-- rotating
-- AC
+- content: AC machines
+- content: Induction motors
+- content: Standards
+- content: basic
+- content: per-unit
+- content: quantities
+- content: rotating
+- content: AC
 editorialgroup:
   committee:
   - Electric Machinery of the IEEE Power and Energy Society

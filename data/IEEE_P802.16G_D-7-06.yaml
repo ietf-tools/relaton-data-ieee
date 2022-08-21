@@ -1,11 +1,11 @@
 ---
 id: IEEEP802.16g/D-7-06
 title:
-- type: main
-  content: 'Unapproved Draft IEEE Standard for Local and Metropolitan Area Networks
+- content: 'Unapproved Draft IEEE Standard for Local and Metropolitan Area Networks
     Part 16: Air Interface for Fixed and Mobile Broadband Wireless Access Systems
     Amendment 3: Management Plane Procedures and Services'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4152555
   type: src
@@ -27,8 +27,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -46,11 +47,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2006'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: '35.110'
   text: Networking

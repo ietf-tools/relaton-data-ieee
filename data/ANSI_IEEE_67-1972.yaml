@@ -1,9 +1,9 @@
 ---
 id: ANSI/IEEE67-1972
 title:
-- type: main
-  content: IEEE Guide for Operation and Maintenance of Turbine Generators
+- content: IEEE Guide for Operation and Maintenance of Turbine Generators
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/19421
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -60,8 +61,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1972'
 relation:
@@ -75,18 +77,18 @@ relation:
     formattedref:
       content: IEEE 67-1990
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Cooling
-- Maintenance
-- Machine windings
-- Standards
-- Synchronous generators
-- Turbines
-- turbiine
-- generators
-- operation
-- maintenance
+- content: Cooling
+- content: Maintenance
+- content: Machine windings
+- content: Standards
+- content: Synchronous generators
+- content: Turbines
+- content: turbiine
+- content: generators
+- content: operation
+- content: maintenance
 editorialgroup:
   committee:
   - Electric Machinery of the IEEE Power and Energy Society

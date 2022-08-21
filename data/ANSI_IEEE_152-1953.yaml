@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE152-1953
 title:
-- type: main
-  content: IEEE Recommended Practice for Volume Measurements of Electric Speech and
+- content: IEEE Recommended Practice for Volume Measurements of Electric Speech and
     Program Waves
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7368060
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -52,17 +53,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1953'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Volume measurement
-- Speech processing
-- Audio systems
-- ANSI Standards
+- content: IEEE Standards
+- content: Volume measurement
+- content: Speech processing
+- content: Audio systems
+- content: ANSI Standards
 editorialgroup:
   committee:
   - IEEE Broadcast Technology Society

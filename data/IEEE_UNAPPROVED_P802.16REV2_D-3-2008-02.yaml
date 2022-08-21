@@ -1,12 +1,12 @@
 ---
 id: IEEEUnapprovedP802.16Rev2/D-3-2008-02
 title:
-- type: main
-  content: 'IEEE Draft Standard for Local and Metropolitan Area Networks Part 16:
+- content: 'IEEE Draft Standard for Local and Metropolitan Area Networks Part 16:
     Air Interface for Broadband Wireless Access Systems ((Revision of IEEE Std 802.16-2004
     and Consolidates Material From IEEE Std 802.16E-2005, IEEE Std 802.16-2004/Cor1-2005,
     IEEE Std 802.16F-2005 and IEEE Std 802.16G-2007)'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4469851
   type: src
@@ -28,8 +28,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,11 +67,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2008'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: '35.110'
   text: Networking

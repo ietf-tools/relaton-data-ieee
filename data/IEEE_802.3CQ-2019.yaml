@@ -1,10 +1,10 @@
 ---
 id: IEEE802.3cq-2019
 title:
-- type: main
-  content: 'IEEE Standard for Ethernet Amendment 6: Maintenance #13: Power over Ethernet
+- content: 'IEEE Standard for Ethernet Amendment 6: Maintenance #13: Power over Ethernet
     over 2 pairs'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9050937
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2020'
 relation:
@@ -84,20 +86,20 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Local area networks
-- Metropolitan area networks
-- Ethernet
-- Power transmission
-- '802.3'
-- 802.3cq
-- amendment
-- Ethernet
-- DTE power via MDI
-- Power over Ethernet
-- PoE
+- content: IEEE Standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Ethernet
+- content: Power transmission
+- content: '802.3'
+- content: 802.3cq
+- content: amendment
+- content: Ethernet
+- content: DTE power via MDI
+- content: Power over Ethernet
+- content: PoE
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

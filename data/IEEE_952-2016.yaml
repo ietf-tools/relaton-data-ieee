@@ -1,11 +1,11 @@
 ---
 id: IEEE952-2016
 title:
-- type: main
-  content: 'IEEE Standard Specification Format Guide and Test Procedure for Single-Axis
+- content: 'IEEE Standard Specification Format Guide and Test Procedure for Single-Axis
     Interferometric Fiber Optic Gyros -- Corrigendum 1: Figure 1 and Subclauses 5.3.4,
     8.3, 12.11.4.3.2, 12.11.4.3.3, 12.11.4.3.4, 12.12.3.1, and 12.12.4.1'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7862718
   type: src
@@ -35,8 +35,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2016'
 relation:
@@ -86,26 +88,26 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Gyroscopes
-- Sensors
-- Interferometry
-- Optical fiber
-- Testing
-- fiber gyro
-- fiber optic gyro
-- gyro
-- gyroscope
-- IEEE 952(TM)
-- IFOG
-- inertial instrument
-- inertial sensor
-- interferometric fiber optic gyro
-- optical gyro
-- Sagnac effect
-- Sagnac gyro
+- content: IEEE Standards
+- content: Gyroscopes
+- content: Sensors
+- content: Interferometry
+- content: Optical fiber
+- content: Testing
+- content: fiber gyro
+- content: fiber optic gyro
+- content: gyro
+- content: gyroscope
+- content: IEEE 952(TM)
+- content: IFOG
+- content: inertial instrument
+- content: inertial sensor
+- content: interferometric fiber optic gyro
+- content: optical gyro
+- content: Sagnac effect
+- content: Sagnac gyro
 editorialgroup:
   committee:
   - Gyro Accelerometer Panel of the IEEE Aerospace and Electronic Systems Society

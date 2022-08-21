@@ -1,9 +1,9 @@
 ---
 id: IEEE1037-1992
 title:
-- type: main
-  content: IEEE Standard Terms and Definitions for Surface Acoustic Wave (SAW) Devices
+- content: IEEE Standard Terms and Definitions for Surface Acoustic Wave (SAW) Devices
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/239585
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -60,19 +61,20 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1993'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Surface acoustic wave devices
-- Acoustic transducers
-- definitions
-- SAW
-- transducers
-- WAVES
-- Surface acoustic wave
+- content: Surface acoustic wave devices
+- content: Acoustic transducers
+- content: definitions
+- content: SAW
+- content: transducers
+- content: WAVES
+- content: Surface acoustic wave
 editorialgroup:
   committee:
   - IEEE Ultrasonics, Ferroelectrics and Frequency Control Society

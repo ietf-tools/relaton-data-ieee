@@ -1,10 +1,10 @@
 ---
 id: IEC/IEEEFDISP63113-2020-12
 title:
-- type: main
-  content: IEC/IEEE Draft International Standard - Nuclear Facilities - Instrumentation
+- content: IEC/IEEE Draft International Standard - Nuclear Facilities - Instrumentation
     Important To Safety - Spent Fuel Pool Instrumentation
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9295497
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -50,19 +51,20 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2020'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- Nuclear power generation
-- Safety
-- Instrumentation
+- content: IEEE Standards
+- content: IEC Standards
+- content: Nuclear power generation
+- content: Safety
+- content: Instrumentation
 editorialgroup:
   committee:
   - Nuclear Power Engineering of the IEEE Power and Energy Society

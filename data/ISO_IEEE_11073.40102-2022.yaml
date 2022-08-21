@@ -1,10 +1,10 @@
 ---
 id: ISO/IEEE11073.40102-2022
 title:
-- type: main
-  content: 'IEEE/ISO International Standard - Health informatics--Device interoperability
+- content: 'IEEE/ISO International Standard - Health informatics--Device interoperability
     Part 40102: Foundational--Cybersecurity--Capabilities for mitigation'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9738540
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -71,11 +72,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   from: '2022'
 relation:
 - type: adoptedFrom
@@ -88,24 +90,24 @@ relation:
     formattedref:
       content: IEEE 11073.40102-2020
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ISO Standards
-- Medical devices
-- Smart devices
-- Interoperability
-- Risk assessment
-- Bioinformatics
-- Computer security
-- Privacy
-- Point of care
-- cybersecurity
-- IEEE 11073-40102
-- medical device communication
-- mitigation techniques
-- Personal Health Devices
-- Point-of-Care Devices
+- content: IEEE Standards
+- content: ISO Standards
+- content: Medical devices
+- content: Smart devices
+- content: Interoperability
+- content: Risk assessment
+- content: Bioinformatics
+- content: Computer security
+- content: Privacy
+- content: Point of care
+- content: cybersecurity
+- content: IEEE 11073-40102
+- content: medical device communication
+- content: mitigation techniques
+- content: Personal Health Devices
+- content: Point-of-Care Devices
 editorialgroup:
   committee:
   - IEEE 11073 Standards Committee of the IEEE Engineering in Medicine and Biology

@@ -1,10 +1,10 @@
 ---
 id: IEC/IEEEP60076.57-129/D-27
 title:
-- type: main
-  content: 'IEEE/IEC Draft International Standard - Power Transformers - Part 57-129:
+- content: 'IEEE/IEC Draft International Standard - Power Transformers - Part 57-129:
     Transformers for HVDC applications'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7872375
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -50,11 +51,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2017'
 relation:
 - type: updates
@@ -74,13 +76,13 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- Power transformers
-- HVDC transmission
-- Converters
+- content: IEEE Standards
+- content: IEC Standards
+- content: Power transformers
+- content: HVDC transmission
+- content: Converters
 editorialgroup:
   committee:
   - Transformers of the IEEE Power and Energy Society

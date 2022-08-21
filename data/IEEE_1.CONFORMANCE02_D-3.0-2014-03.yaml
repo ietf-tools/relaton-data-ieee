@@ -1,10 +1,10 @@
 ---
 id: IEEE1.Conformance02/D-3.0-2014-03
 title:
-- type: main
-  content: IEEE Draft Standard for Conformance Test Procedures for Service Interoperability
+- content: IEEE Draft Standard for Conformance Test Procedures for Service Interoperability
     in Ethernet Passive Optical Networks, IEEE Std 1904.1 Package B
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6782625
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -59,17 +60,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2014'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Passive optical networks
-- Conformance testing
-- Testing
-- Ethernet networks
+- content: IEEE standards
+- content: Passive optical networks
+- content: Conformance testing
+- content: Testing
+- content: Ethernet networks
 editorialgroup:
   committee:
   - Standards Development Board of the IEEE Communications Society

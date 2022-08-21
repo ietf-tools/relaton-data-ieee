@@ -1,10 +1,10 @@
 ---
 id: IEEE125-1977
 title:
-- type: main
-  content: IEEE Recommended Practice for Preparation of Equipment Specifications for
+- content: IEEE Recommended Practice for Preparation of Equipment Specifications for
     Speed Governing of Hydraulic Turbines Intended to Drive Electric Generators
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7361825
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,17 +66,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1977'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Velocity control
-- Hydraulic turbines
-- Generators
-- Turbines
+- content: IEEE Standards
+- content: Velocity control
+- content: Hydraulic turbines
+- content: Generators
+- content: Turbines
 ics:
 - code: 01.040.11
   text: Health care technology (Vocabularies)

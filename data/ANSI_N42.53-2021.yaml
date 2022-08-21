@@ -1,10 +1,10 @@
 ---
 id: ANSIN42.53-2021
 title:
-- type: main
-  content: American National Standard Performance Criteria for Backpack-Based Radiation-Detection
+- content: American National Standard Performance Criteria for Backpack-Based Radiation-Detection
     Systems Used for Homeland Security
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9502037
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,12 +65,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - American National Standards Institute
-    abbreviation: ANSI
+    - content: American National Standards Institute
+    abbreviation:
+      content: ANSI
     url: https://www.ansi.org
   from: '2021'
 relation:
@@ -90,16 +93,16 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ANSI Standards
-- Radiation detectors
-- Security
-- US Department of Homeland Security
-- Performance evaluation
-- ANSI N42.53
-- backpack-based radiation-detection systems
+- content: IEEE Standards
+- content: ANSI Standards
+- content: Radiation detectors
+- content: Security
+- content: US Department of Homeland Security
+- content: Performance evaluation
+- content: ANSI N42.53
+- content: backpack-based radiation-detection systems
 editorialgroup:
   committee:
   - National Committee on Radiation Instrumentation

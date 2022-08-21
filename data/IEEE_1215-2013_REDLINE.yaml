@@ -1,12 +1,12 @@
 ---
 id: IEEE1215-2013Redline
 title:
-- type: title-main
-  content: IEEE Guide for the Application of Separable Insulated Connectors
+- content: IEEE Guide for the Application of Separable Insulated Connectors
   format: text/plain
-- type: main
-  content: IEEE Guide for the Application of Separable Insulated Connectors - Redline
+  type: title-main
+- content: IEEE Guide for the Application of Separable Insulated Connectors - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6656816
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2013'
 relation:
@@ -85,20 +87,20 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Connectors
-- Load management
-- Power distribution
-- Insulators
-- deadbreak connector
-- elbow connector
-- IEEE 1215
-- loadbreak connector
-- power distribution systems
-- separable connector
-- separable insulated connector systems
+- content: IEEE standards
+- content: Connectors
+- content: Load management
+- content: Power distribution
+- content: Insulators
+- content: deadbreak connector
+- content: elbow connector
+- content: IEEE 1215
+- content: loadbreak connector
+- content: power distribution systems
+- content: separable connector
+- content: separable insulated connector systems
 editorialgroup:
   committee:
   - Insulated Conductors of the IEEE Power &amp; Energy Society

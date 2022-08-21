@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE488.2-1987
 title:
-- type: main
-  content: IEEE Standard Codes, Formats, Protocols, and Common Commands For Use with
+- content: IEEE Standard Codes, Formats, Protocols, and Common Commands For Use with
     ANSI/IEEE Std 488.1-1987 IEEE Standard Digital Interface for Programmable Instrumentation
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/19528
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,8 +70,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1988'
 relation:
@@ -84,13 +86,13 @@ relation:
     formattedref:
       content: IEEE 488.2-1992
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Computer interfaces
-- Message systems
-- Protocols
-- Standards
-- '488.2'
+- content: Computer interfaces
+- content: Message systems
+- content: Protocols
+- content: Standards
+- content: '488.2'
 editorialgroup:
   committee:
   - TC8 - Automated Test Systems and Instrumentation of the IEEE Instrumentation and

@@ -1,10 +1,10 @@
 ---
 id: IEEE420-1982
 title:
-- type: main
-  content: IEEE Standard for the Design and Qualification of Class 1E Control Boards,
+- content: IEEE Standard for the Design and Qualification of Class 1E Control Boards,
     Panels, and Racks Used in Nuclear Power Generating Stations
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/574823
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,8 +67,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1982'
 relation:
@@ -98,18 +100,18 @@ relation:
     formattedref:
       content: IEEE 420-2001
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Qualifications
-- Nuclear power generation
-- Accidents
-- Task analysis
-- qualifications
-- 1E
-- control
-- panels
-- racks
+- content: IEEE Standards
+- content: Qualifications
+- content: Nuclear power generation
+- content: Accidents
+- content: Task analysis
+- content: qualifications
+- content: 1E
+- content: control
+- content: panels
+- content: racks
 editorialgroup:
   committee:
   - Nuclear Power Engineering of the IEEE Power and Energy Society

@@ -1,9 +1,9 @@
 ---
 id: ANSI/IEEE201-1979
 title:
-- type: main
-  content: IEEE Standard Definitions of Terms Relating to Television
+- content: IEEE Standard Definitions of Terms Relating to Television
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7395046
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,19 +67,20 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1979'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- TV
-- Terminology
-- ANSI Standards
-- tv
-- terms
-- definition
+- content: IEEE Standards
+- content: TV
+- content: Terminology
+- content: ANSI Standards
+- content: tv
+- content: terms
+- content: definition
 editorialgroup:
   committee:
   - Audio and Visual Techniques of the IEEE Broadcast Technology Society

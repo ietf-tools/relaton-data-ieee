@@ -1,10 +1,10 @@
 ---
 id: IEEE802.1Xbx-2014
 title:
-- type: main
-  content: 'IEEE Standard for Local and metropolitan area networks -- Port-Based Network
+- content: 'IEEE Standard for Local and metropolitan area networks -- Port-Based Network
     Access Control Amendment 1: MAC Security Key Agreement Protocol (MKA) Extensions'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6994208
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2014'
 relation:
@@ -87,33 +89,33 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Local area networks
-- Metropolitan area networks
-- Access control
-- Authorization
-- Bridge circuits
-- Media Access Protocol
-- Network security
-- authorized port
-- confidentiality
-- data origin authenticity
-- IEEE 802.1X(TM)
-- IEEE 802.1Xbx(TM)
-- integrity
-- LANs
-- local area networks
-- MAC Bridges
-- MAC security
-- MAC Service
-- MANs
-- metropolitan area networks
-- port based network access control
-- secure association
-- security
-- transparent bridging
+- content: IEEE standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Access control
+- content: Authorization
+- content: Bridge circuits
+- content: Media Access Protocol
+- content: Network security
+- content: authorized port
+- content: confidentiality
+- content: data origin authenticity
+- content: IEEE 802.1X(TM)
+- content: IEEE 802.1Xbx(TM)
+- content: integrity
+- content: LANs
+- content: local area networks
+- content: MAC Bridges
+- content: MAC security
+- content: MAC Service
+- content: MANs
+- content: metropolitan area networks
+- content: port based network access control
+- content: secure association
+- content: security
+- content: transparent bridging
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

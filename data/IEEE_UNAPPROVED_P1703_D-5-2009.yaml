@@ -1,10 +1,10 @@
 ---
 id: IEEEUnapprovedP1703/D-5-2009
 title:
-- type: main
-  content: Draft Standard for Local Area Network/Wide Area Network (LAN/WAN) Node
+- content: Draft Standard for Local Area Network/Wide Area Network (LAN/WAN) Node
     Communication Protocol to Complement the Utility Industry End Device Data Tables
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5325064
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,17 +64,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- ANSI C12.22
-- ACSE
-- End Device
-- Communication Module
-- C12.19 Device
+- content: ANSI C12.22
+- content: ACSE
+- content: End Device
+- content: Communication Module
+- content: C12.19 Device
 ics:
 - code: '35.110'
   text: Networking

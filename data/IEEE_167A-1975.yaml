@@ -1,9 +1,9 @@
 ---
 id: IEEE167A-1975
 title:
-- type: main
-  content: IEEE Facsimile Test Chart
+- content: IEEE Facsimile Test Chart
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7368057
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -59,13 +60,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1975'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Facsimile
-- Testing
-- Image communication
+- content: IEEE Standards
+- content: Facsimile
+- content: Testing
+- content: Image communication

@@ -1,9 +1,9 @@
 ---
 id: IEEE356-1974
 title:
-- type: main
-  content: IEEE Guide for Radio Methods for Measuring Earth Conductivity
+- content: IEEE Guide for Radio Methods for Measuring Earth Conductivity
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/27707
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,19 +67,20 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1974'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Geophysical measurements
-- Radio communication
-- radio
-- earth
-- conductivity
-- measuring
-- methods
+- content: Geophysical measurements
+- content: Radio communication
+- content: radio
+- content: earth
+- content: conductivity
+- content: measuring
+- content: methods
 editorialgroup:
   committee:
   - Propagation of the IEEE Antennas and Propagation Society

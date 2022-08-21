@@ -1,14 +1,14 @@
 ---
 id: ISO/IEC/IEEE26513-2017Redline
 title:
-- type: title-main
-  content: ISO/IEC/IEEE International Standard - Systems and software engineering
+- content: ISO/IEC/IEEE International Standard - Systems and software engineering
     -- Requirements for testers and reviewers of information for users
   format: text/plain
-- type: main
-  content: ISO/IEC/IEEE International Standard - Systems and software engineering
+  type: title-main
+- content: ISO/IEC/IEEE International Standard - Systems and software engineering
     -- Requirements for testers and reviewers of information for users - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8372831
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -74,28 +75,29 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2018'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- ISO Standards
-- Software engineering
-- Systems engineering and theory
-- Usability
-- Software design
-- software documentation review
-- software documentation testing
-- user documentation
-- testing and reviewing user documentation
-- usability testing
+- content: IEEE Standards
+- content: IEC Standards
+- content: ISO Standards
+- content: Software engineering
+- content: Systems engineering and theory
+- content: Usability
+- content: Software design
+- content: software documentation review
+- content: software documentation testing
+- content: user documentation
+- content: testing and reviewing user documentation
+- content: usability testing
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE379-1988
 title:
-- type: main
-  content: IEEE Standard Application of the Single-Failure Criterion to Nuclear Power
+- content: IEEE Standard Application of the Single-Failure Criterion to Nuclear Power
     Generating Station Safety Systems
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/26504
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1988'
 relation:
@@ -79,17 +81,17 @@ relation:
     formattedref:
       content: IEEE 379-1994
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Failure analysis
-- Nuclear power generation
-- Safety
-- Standards
-- failure
-- criterion
-- nuclear
-- single
-- reliability
+- content: Failure analysis
+- content: Nuclear power generation
+- content: Safety
+- content: Standards
+- content: failure
+- content: criterion
+- content: nuclear
+- content: single
+- content: reliability
 editorialgroup:
   committee:
   - Nuclear Power Engineering of the IEEE Power and Energy Society

@@ -1,10 +1,10 @@
 ---
 id: IEEEC95.1-1999
 title:
-- type: main
-  content: IEEE Standard for Safety Levels with Respect to Human Exposure to Radio
+- content: IEEE Standard for Safety Levels with Respect to Human Exposure to Radio
     Frequency Electromagnetic Fields, 3 kHz to 300 GHz
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/757105
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,8 +69,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1999'
 relation:
@@ -90,9 +92,9 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
+- content: IEEE standards
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

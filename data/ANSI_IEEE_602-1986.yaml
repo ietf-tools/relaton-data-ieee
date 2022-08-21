@@ -1,9 +1,9 @@
 ---
 id: ANSI/IEEE602-1986
 title:
-- type: main
-  content: IEEE Recommended Practice for Electric Systems in Health Care Facilities
+- content: IEEE Recommended Practice for Electric Systems in Health Care Facilities
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/26587
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1986'
 relation:
@@ -79,16 +81,16 @@ relation:
     formattedref:
       content: IEEE 602-1996
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Biomedical engineering
-- Power systems
-- Standards
-- electric
-- systems
-- health
-- care
-- facilities
+- content: Biomedical engineering
+- content: Power systems
+- content: Standards
+- content: electric
+- content: systems
+- content: health
+- content: care
+- content: facilities
 editorialgroup:
   committee:
   - Power Systems Engineering of the IEEE Industry Applications Society

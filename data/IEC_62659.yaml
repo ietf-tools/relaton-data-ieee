@@ -1,9 +1,9 @@
 ---
 id: IEC62659
 title:
-- type: main
-  content: IEEE/IEC Draft Standard for Large Scale Manufacturing of Nanoelectronics
+- content: IEEE/IEC Draft Standard for Large Scale Manufacturing of Nanoelectronics
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6522802
   type: src
@@ -29,8 +29,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,17 +62,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2011'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- IEC standards
-- Manufacturing processes
-- Large scale systems
-- Nanoelectronics
+- content: IEEE standards
+- content: IEC standards
+- content: Manufacturing processes
+- content: Large scale systems
+- content: Nanoelectronics
 editorialgroup:
   committee:
   - Standards Committee of the IEEE Nanotechnology Council

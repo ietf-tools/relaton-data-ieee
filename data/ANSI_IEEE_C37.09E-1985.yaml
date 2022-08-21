@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEEC37.09e-1985
 title:
-- type: main
-  content: IEEE Standard Test Procedure for AC High-Voltage Circuit Breakers Rated
+- content: IEEE Standard Test Procedure for AC High-Voltage Circuit Breakers Rated
     on a Symmetrical Current Basis
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/590898
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -59,8 +60,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1985'
 relation:
@@ -81,16 +83,16 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Transient analysis
-- Circuit breakers
-- Impedance
-- Voltage measurement
-- IEEE Standards
-- Short-circuit currents
-- Current measurement
-- Circuit-breaker testing
+- content: Transient analysis
+- content: Circuit breakers
+- content: Impedance
+- content: Voltage measurement
+- content: IEEE Standards
+- content: Short-circuit currents
+- content: Current measurement
+- content: Circuit-breaker testing
 editorialgroup:
   committee:
   - Switchgear of the IEEE Power and Energy Society

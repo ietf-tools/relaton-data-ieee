@@ -1,11 +1,11 @@
 ---
 id: IEEE1003.1q-2000
 title:
-- type: main
-  content: 'IEEE Standard for Information technology--Portable Operating Systems Interface
+- content: 'IEEE Standard for Information technology--Portable Operating Systems Interface
     (POSIX(TM))--Part 1: System Application Program Interface (API)--Amendment 7:
     Tracing [C Language]'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/935757
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,27 +67,28 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2001'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- User interfaces
-- API
-- application portability
-- data processing
-- open systems
-- operating system
-- portable application
-- POSIX
-- tracing
-- instrumented operating system
-- instrumented application
-- trace control
-- trace analysis
-- real time
-- serviceability
+- content: User interfaces
+- content: API
+- content: application portability
+- content: data processing
+- content: open systems
+- content: operating system
+- content: portable application
+- content: POSIX
+- content: tracing
+- content: instrumented operating system
+- content: instrumented application
+- content: trace control
+- content: trace analysis
+- content: real time
+- content: serviceability
 editorialgroup:
   committee:
   - Portable Applications of the IEEE Computer Society

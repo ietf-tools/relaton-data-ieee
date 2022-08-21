@@ -1,11 +1,11 @@
 ---
 id: ISO/IEC14575-2000
 title:
-- type: main
-  content: ISO/IEC/IEEE International Standard - Information Technology - Microprocessor
+- content: ISO/IEC/IEEE International Standard - Information Technology - Microprocessor
     systems - Heterogeneous InterConnect (HIC) (Low-Cost, Low-Latency Scalable Serial
     Interconnect for Parallel System Construction)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6887400
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,38 +65,39 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2000'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- IEC standards
-- ISO standards
-- Information technology
-- Routing protocols
-- Switches
-- Routers
-- Microprocessors
-- low control
-- encoding schemes
-- OMI/HIC
-- packet routing
-- parallelism
-- point-to-point serial scalable interconnect
-- protocols
-- routing fabric
-- serial links
-- serialization
-- silicon integration
-- switch chip
-- transaction layer
-- wormhole routing
+- content: IEEE standards
+- content: IEC standards
+- content: ISO standards
+- content: Information technology
+- content: Routing protocols
+- content: Switches
+- content: Routers
+- content: Microprocessors
+- content: low control
+- content: encoding schemes
+- content: OMI/HIC
+- content: packet routing
+- content: parallelism
+- content: point-to-point serial scalable interconnect
+- content: protocols
+- content: routing fabric
+- content: serial links
+- content: serialization
+- content: silicon integration
+- content: switch chip
+- content: transaction layer
+- content: wormhole routing
 editorialgroup:
   committee:
   - Microprocessor Standards Committee of the IEEE Computer Society

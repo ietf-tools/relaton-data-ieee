@@ -1,10 +1,10 @@
 ---
 id: ANSIN42.38a-2018
 title:
-- type: main
-  content: American National Standard for Performance Criteria for Spectroscopy-Based
+- content: American National Standard for Performance Criteria for Spectroscopy-Based
     Portal Monitors Used for Homeland Security
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8635624
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,12 +66,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - American National Standards Institute
-    abbreviation: ANSI
+    - content: American National Standards Institute
+    abbreviation:
+      content: ANSI
     url: https://www.ansi.org
   from: '2019'
 relation:
@@ -91,18 +94,18 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ANSI Standards
-- Performance evaluation
-- Radiation monitoring
-- Radiation detectors
-- Spectroscopy
-- ANSI N42.38
-- portal monitor
-- spectrometric
-- spectroscopy
+- content: IEEE Standards
+- content: ANSI Standards
+- content: Performance evaluation
+- content: Radiation monitoring
+- content: Radiation detectors
+- content: Spectroscopy
+- content: ANSI N42.38
+- content: portal monitor
+- content: spectrometric
+- content: spectroscopy
 editorialgroup:
   committee:
   - National Committee on Radiation Instrumentation

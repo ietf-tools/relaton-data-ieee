@@ -1,11 +1,11 @@
 ---
 id: IEEEApprovedP802.1ag/D-8.1-07-06
 title:
-- type: main
-  content: 'Approved IEEE Draft Standard for Local and Metropolitan Area Networks
+- content: 'Approved IEEE Draft Standard for Local and Metropolitan Area Networks
     - Virtual Bridged Local Area Networks - Amendment 5: Connectivity Fault Management
     (Amendment to IEEE Std 802.1Q -2005, as Amended by IEEE Std 802.1Ad-2005)'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4343668
   type: src
@@ -27,8 +27,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -46,11 +47,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2007'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: '35.110'
   text: Networking

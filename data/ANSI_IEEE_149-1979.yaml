@@ -1,9 +1,9 @@
 ---
 id: ANSI/IEEE149-1979
 title:
-- type: main
-  content: IEEE Standard Test Procedures for Antennas
+- content: IEEE Standard Test Procedures for Antennas
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/19510
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,15 +63,16 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1979'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Antennas
-- Electronic equipment testing
-- Measurement standards
+- content: Antennas
+- content: Electronic equipment testing
+- content: Measurement standards
 editorialgroup:
   committee:
   - Antennas and Propagation Standards Committee of the IEEE Antennas and Propagation

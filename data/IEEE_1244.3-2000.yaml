@@ -1,10 +1,10 @@
 ---
 id: IEEE1244.3-2000
 title:
-- type: main
-  content: IEEE Standard for Media Management System (MMS) Media Management Protocol
+- content: IEEE Standard for Media Management System (MMS) Media Management Protocol
     (MMP)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/890179
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,43 +65,44 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2000'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- application independent
-- architecture
-- automated tape library
-- content neutral
-- data model
-- device manager
-- distributed
-- drive manager
-- fully scalable
-- heterogeneous environment
-- information access
-- interoperability
-- interoperable
-- language neutral
-- library management
-- library manager
-- media management
-- media neutral
-- middleware
-- opensource
-- operating system independent
-- platform-independent
-- protocol based
-- removable media
-- robotic tape library
-- secure
-- software
-- storage
-- storage management
-- storage system
-- system architecture
+- content: application independent
+- content: architecture
+- content: automated tape library
+- content: content neutral
+- content: data model
+- content: device manager
+- content: distributed
+- content: drive manager
+- content: fully scalable
+- content: heterogeneous environment
+- content: information access
+- content: interoperability
+- content: interoperable
+- content: language neutral
+- content: library management
+- content: library manager
+- content: media management
+- content: media neutral
+- content: middleware
+- content: opensource
+- content: operating system independent
+- content: platform-independent
+- content: protocol based
+- content: removable media
+- content: robotic tape library
+- content: secure
+- content: software
+- content: storage
+- content: storage management
+- content: storage system
+- content: system architecture
 editorialgroup:
   committee:
   - Storage Systems of the IEEE Computer Society

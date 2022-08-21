@@ -1,11 +1,11 @@
 ---
 id: IEEE802.3cu-2021
 title:
-- type: main
-  content: 'IEEE Standard for Ethernet - Amendment 11: Physical Layers and Management
+- content: 'IEEE Standard for Ethernet - Amendment 11: Physical Layers and Management
     Parameters for 100 Gb/s and 400 Gb/s Operation over Single-Mode Fiber at 100 Gb/s
     per Wavelength'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9381783
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2021'
 relation:
@@ -96,29 +98,29 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Local area networks
-- Metropolitan area networks
-- Ethernet
-- Physical layers
-- Energy efficiency
-- Forward error correction
-- 100 Gb/s Ethernet
-- 100GBASE-FR1
-- 100GBASE-LR1
-- 400 Gb/s Ethernet
-- 400GBASE-FR4
-- 400GBASE-LR4-6
-- Energy-Efficient Ethernet (EEE)
-- Ethernet
-- forward error correction (FEC)
-- IEEE 802.3&#8482;
-- IEEE 802.3cu&#8482;
-- PAM4
-- Physical Medium Dependent (PMD) sublayer
-- single-mode fiber (SMF)
+- content: IEEE Standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Ethernet
+- content: Physical layers
+- content: Energy efficiency
+- content: Forward error correction
+- content: 100 Gb/s Ethernet
+- content: 100GBASE-FR1
+- content: 100GBASE-LR1
+- content: 400 Gb/s Ethernet
+- content: 400GBASE-FR4
+- content: 400GBASE-LR4-6
+- content: Energy-Efficient Ethernet (EEE)
+- content: Ethernet
+- content: forward error correction (FEC)
+- content: IEEE 802.3&#8482;
+- content: IEEE 802.3cu&#8482;
+- content: PAM4
+- content: Physical Medium Dependent (PMD) sublayer
+- content: single-mode fiber (SMF)
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

@@ -1,11 +1,11 @@
 ---
 id: IEEE1451.2-1997
 title:
-- type: main
-  content: IEEE Standard for a Smart Transducer Interface for Sensors and Actuators
+- content: IEEE Standard for a Smart Transducer Interface for Sensors and Actuators
     - Transducer to Microprocessor Communication Protocols and Transducer Electronic
     Data Sheet (TEDS) Formats
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/720565
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,26 +65,27 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1998'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- communication protocol
-- digital interface
-- microprocessor
-- NCAP
-- sensor interface
-- smart actuator
-- smart sensor
-- smart sensor interface
-- smart transducer
-- smart transducer interface
-- STIM
-- TEDS
-- '1451'
+- content: IEEE standards
+- content: communication protocol
+- content: digital interface
+- content: microprocessor
+- content: NCAP
+- content: sensor interface
+- content: smart actuator
+- content: smart sensor
+- content: smart sensor interface
+- content: smart transducer
+- content: smart transducer interface
+- content: STIM
+- content: TEDS
+- content: '1451'
 editorialgroup:
   committee:
   - TC9 - Sensor Technology of the IEEE Instrumentation and Measurement Society

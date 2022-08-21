@@ -1,10 +1,10 @@
 ---
 id: IEC62530-2007
 title:
-- type: main
-  content: 'IEC 62530 Ed. 1 (IEEE Std 1800(TM)-2005): Standard for SystemVerilog -
+- content: 'IEC 62530 Ed. 1 (IEEE Std 1800(TM)-2005): Standard for SystemVerilog -
     Unified Hardware Design, Specification, and Verification Language'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4410440
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,29 +66,30 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2007'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEC Standards
-- IEC
-- Syntactics
-- Arrays
-- Casting
-- Hardware
-- assertions
-- design automation
-- design verification
-- hardware description language
-- HDL
-- PLI
-- programming language interface
-- SystemVerilog
-- Verilog
-- Verilog programming interface
-- VPI
+- content: IEC Standards
+- content: IEC
+- content: Syntactics
+- content: Arrays
+- content: Casting
+- content: Hardware
+- content: assertions
+- content: design automation
+- content: design verification
+- content: hardware description language
+- content: HDL
+- content: PLI
+- content: programming language interface
+- content: SystemVerilog
+- content: Verilog
+- content: Verilog programming interface
+- content: VPI
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

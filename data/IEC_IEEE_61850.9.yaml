@@ -1,11 +1,11 @@
 ---
 id: IEC/IEEE61850.9
 title:
-- type: main
-  content: 'IEC/IEEE International Standard - Communication networks and systems for
+- content: 'IEC/IEEE International Standard - Communication networks and systems for
     power utility automation – Part 9-3: Precision time protocol profile for power
     utility automation'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7479438
   type: src
@@ -35,8 +35,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,20 +66,21 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2016'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- Communication networks
-- Automation
-- Power systems planning
-- Electricity supply industry
+- content: IEEE Standards
+- content: IEC Standards
+- content: Communication networks
+- content: Automation
+- content: Power systems planning
+- content: Electricity supply industry
 ics:
 - code: 01.040.11
   text: Health care technology (Vocabularies)

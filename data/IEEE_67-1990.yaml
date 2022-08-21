@@ -1,9 +1,9 @@
 ---
 id: IEEE67-1990
 title:
-- type: main
-  content: IEEE Guide for Operation and Maintenance of Turbine Generators
+- content: IEEE Guide for Operation and Maintenance of Turbine Generators
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/89663
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1990'
 relation:
@@ -94,22 +96,22 @@ relation:
     formattedref:
       content: IEEE 67-2005
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Maintenance
-- Machine windings
-- Synchronous generators
-- Turbogenerators
-- cylindrical rotors
-- operation
-- Maintenance
-- turbine generators
-- turbine driven
-- synchronous
-- reactive capability
-- rotor windings
-- stator windings
-- Turbine-driven synchronous generator
+- content: Maintenance
+- content: Machine windings
+- content: Synchronous generators
+- content: Turbogenerators
+- content: cylindrical rotors
+- content: operation
+- content: Maintenance
+- content: turbine generators
+- content: turbine driven
+- content: synchronous
+- content: reactive capability
+- content: rotor windings
+- content: stator windings
+- content: Turbine-driven synchronous generator
 editorialgroup:
   committee:
   - Electric Machinery of the IEEE Power and Energy Society

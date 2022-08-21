@@ -1,14 +1,14 @@
 ---
 id: IEEE11073.10420-2020Redline
 title:
-- type: title-main
-  content: 'Health informatics--Device interoperability - Part 10420: Personal health
+- content: 'Health informatics--Device interoperability - Part 10420: Personal health
     device communication--Device specialization--Body composition analyzer'
   format: text/plain
-- type: main
-  content: 'Health informatics--Device interoperability - Part 10420: Personal health
+  type: title-main
+- content: 'Health informatics--Device interoperability - Part 10420: Personal health
     device communication--Device specialization--Body composition analyzer - Redline'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9352664
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -73,8 +74,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2020'
 relation:
@@ -95,16 +97,16 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Medical devices
-- Bioinformatics
-- Informatics
-- body composition analyzer
-- IEEE 11073-10420
-- medical device communication
-- personal health devices
+- content: IEEE Standards
+- content: Medical devices
+- content: Bioinformatics
+- content: Informatics
+- content: body composition analyzer
+- content: IEEE 11073-10420
+- content: medical device communication
+- content: personal health devices
 editorialgroup:
   committee:
   - IEEE 11073 Standards Committee of the IEEE Engineering in Medicine and Biology

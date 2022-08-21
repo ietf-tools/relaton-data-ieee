@@ -1,10 +1,10 @@
 ---
 id: ANSIN320-1979
 title:
-- type: main
-  content: American National Standard Performance Specifications for Reactor Emergency
+- content: American National Standard Performance Specifications for Reactor Emergency
     Radiological Monitoring Instrumentation
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/19498
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,16 +67,17 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1979'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Fission reactor safety
-- Radiation monitoring
-- Standards
-- N320-1979
+- content: Fission reactor safety
+- content: Radiation monitoring
+- content: Standards
+- content: N320-1979
 ics:
 - code: 27.120.20
   text: Nuclear power plants. Safety

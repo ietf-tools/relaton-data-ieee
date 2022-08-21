@@ -1,14 +1,14 @@
 ---
 id: IEEE1588-2008Redline
 title:
-- type: title-main
-  content: IEEE Standard for a Precision Clock Synchronization Protocol for Networked
+- content: IEEE Standard for a Precision Clock Synchronization Protocol for Networked
     Measurement and Control Systems
   format: text/plain
-- type: main
-  content: IEEE Standard for a Precision Clock Synchronization Protocol for Networked
+  type: title-main
+- content: IEEE Standard for a Precision Clock Synchronization Protocol for Networked
     Measurement and Control Systems - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7949184
   type: src
@@ -36,8 +36,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -74,8 +75,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2008'
 relation:
@@ -106,23 +108,23 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Distributed processing
-- Control systems
-- Synchronization
-- Clocks
-- Measurement standards
-- 1588-2008
-- boundary clock
-- clock
-- distributed system
-- master clock
-- measurement and control system
-- real-time clock
-- synchronized clock
-- transparent clock
+- content: IEEE Standards
+- content: Distributed processing
+- content: Control systems
+- content: Synchronization
+- content: Clocks
+- content: Measurement standards
+- content: 1588-2008
+- content: boundary clock
+- content: clock
+- content: distributed system
+- content: master clock
+- content: measurement and control system
+- content: real-time clock
+- content: synchronized clock
+- content: transparent clock
 editorialgroup:
   committee:
   - TC9 - Sensor Technology of the IEEE Instrumentation and Measurement Society

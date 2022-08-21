@@ -1,11 +1,11 @@
 ---
 id: ISO/IEC/IEEE21450-2010
 title:
-- type: main
-  content: ISO/IEC/IEEE Information technology -- Smart transducer interface for sensors
+- content: ISO/IEC/IEEE Information technology -- Smart transducer interface for sensors
     and actuators -- Common functions, communication protocols, and Transducer Electronic
     Data Sheet (TEDS) formats
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5668466
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,27 +67,28 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2010'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- IEC standards
-- ISO standards
-- Transducers
-- Modules
-- '21450'
-- '1451.0'
-- actuator
-- application programming interface
-- communication protocol
-- networkcapable application processor
-- sensor
-- smart transducer
-- transducer electronic data sheet
-- transducer interface module
+- content: IEEE standards
+- content: IEC standards
+- content: ISO standards
+- content: Transducers
+- content: Modules
+- content: '21450'
+- content: '1451.0'
+- content: actuator
+- content: application programming interface
+- content: communication protocol
+- content: networkcapable application processor
+- content: sensor
+- content: smart transducer
+- content: transducer electronic data sheet
+- content: transducer interface module
 editorialgroup:
   committee:
   - TC9 - Sensor Technology of the IEEE Instrumentation and Measurement Society

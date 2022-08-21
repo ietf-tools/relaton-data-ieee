@@ -1,10 +1,10 @@
 ---
 id: IEEEC62.64-1997
 title:
-- type: main
-  content: IEEE Standard Specifications for Surge Protectors Used in Low-Voltage Data,
+- content: IEEE Standard Specifications for Surge Protectors Used in Low-Voltage Data,
     Communications, and Signaling Circuits
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/636812
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1997'
 relation:
@@ -77,14 +79,14 @@ relation:
     formattedref:
       content: IEEE C62.64-2009
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Wire communication cables
-- communications circuits
-- data circuits
-- electrical protection
-- signaling circuits
-- surge protectors
+- content: Wire communication cables
+- content: communications circuits
+- content: data circuits
+- content: electrical protection
+- content: signaling circuits
+- content: surge protectors
 editorialgroup:
   committee:
   - Surge Protective Devices/Low Voltage of the IEEE Power and Energy Society

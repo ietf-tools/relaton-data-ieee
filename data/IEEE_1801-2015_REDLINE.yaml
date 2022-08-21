@@ -1,14 +1,14 @@
 ---
 id: IEEE1801-2015Redline
 title:
-- type: title-main
-  content: IEEE Standard for Design and Verification of Low-Power, Energy-Aware Electronic
+- content: IEEE Standard for Design and Verification of Low-Power, Energy-Aware Electronic
     Systems
   format: text/plain
-- type: main
-  content: IEEE Standard for Design and Verification of Low-Power, Energy-Aware Electronic
+  type: title-main
+- content: IEEE Standard for Design and Verification of Low-Power, Energy-Aware Electronic
     Systems - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7484244
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2016'
 relation:
@@ -97,31 +99,31 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Energy efficiency
-- Design methodology
-- Unified Power Format
-- Repeaters
-- Power system planning
-- bottom-up implementation
-- buffers
-- energy-aware design
-- IEEE 1801(TM)
-- interface specification
-- IP reuse
-- isolation
-- level-shifting
-- power domains
-- power intent
-- power modeling
-- power states
-- successive refinement
-- supply states
-- repeaters
-- retention
-- Unified Power Format (UPF)
+- content: IEEE Standards
+- content: Energy efficiency
+- content: Design methodology
+- content: Unified Power Format
+- content: Repeaters
+- content: Power system planning
+- content: bottom-up implementation
+- content: buffers
+- content: energy-aware design
+- content: IEEE 1801(TM)
+- content: interface specification
+- content: IP reuse
+- content: isolation
+- content: level-shifting
+- content: power domains
+- content: power intent
+- content: power modeling
+- content: power states
+- content: successive refinement
+- content: supply states
+- content: repeaters
+- content: retention
+- content: Unified Power Format (UPF)
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

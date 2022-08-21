@@ -1,10 +1,10 @@
 ---
 id: IEEEP820/D-04
 title:
-- type: main
-  content: Unapproved Draft IEEE Standard Telephone Loop Performance Characteristics
+- content: Unapproved Draft IEEE Standard Telephone Loop Performance Characteristics
     (Superseded by P820_D5)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4039975
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -45,11 +46,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2005'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: 33.040.35
   text: Telephone networks

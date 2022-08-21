@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEEC37.30-1971
 title:
-- type: main
-  content: American National Standard Definitions and Requirements for High-Voltage
+- content: American National Standard Definitions and Requirements for High-Voltage
     Air Switches, Insulators, and Bus Supports
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/578049
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -49,8 +50,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1971'
 relation:
@@ -74,7 +76,7 @@ relation:
     formattedref:
       content: IEEE C37.30-1992
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 editorialgroup:
   committee:
   - Switchgear of the IEEE Power and Energy Society

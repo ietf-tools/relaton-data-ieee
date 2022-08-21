@@ -1,14 +1,14 @@
 ---
 id: IEEEP802.11h/D-3.11
 title:
-- type: main
-  content: 'IEEE Draft Amendment to IEEE Std 802.11, 1999 Edition (Reaff 2003) IEEE
+- content: 'IEEE Draft Amendment to IEEE Std 802.11, 1999 Edition (Reaff 2003) IEEE
     Standard for Information Technology Telecommunications and Information Exchange
     Between Systems LAN/MAN Specific Requirements Part 11: Wireless LAN Medium Access
     Control (MAC) and Physical Layer (PHY) Specifications: Spectrum and Transmit Power
     Management Extensions in the 5GHz Band in Europe (Amendment to IEEE Std 802.11,
     1999 Edition)'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4040927
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -49,11 +50,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2003'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: '35.110'
   text: Networking

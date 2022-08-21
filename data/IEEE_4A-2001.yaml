@@ -1,9 +1,9 @@
 ---
 id: IEEE4a-2001
 title:
-- type: main
-  content: Amendment to IEEE Standard Techniques for High-Voltage Testing
+- content: Amendment to IEEE Standard Techniques for High-Voltage Testing
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/913838
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -59,8 +60,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2001'
 relation:
@@ -81,12 +83,12 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- atmospheric correction factors
-- high-voltage testing
-- testing
+- content: IEEE standards
+- content: atmospheric correction factors
+- content: high-voltage testing
+- content: testing
 editorialgroup:
   committee:
   - Power System Instrumentation and Measurements of the IEEE Power and Energy Society

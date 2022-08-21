@@ -1,9 +1,9 @@
 ---
 id: IEEE829-1998
 title:
-- type: main
-  content: IEEE Standard for Software Test Documentation
+- content: IEEE Standard for Software Test Documentation
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/741968
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -60,8 +61,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1998'
 relation:
@@ -92,17 +94,17 @@ relation:
     formattedref:
       content: IEEE 829-2008
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- test case specificaiton
-- test design specification
-- test incident report
-- test item transmittal report
-- test log
-- test plan
-- test procedure specification
-- test summary report
+- content: IEEE standards
+- content: test case specificaiton
+- content: test design specification
+- content: test incident report
+- content: test item transmittal report
+- content: test log
+- content: test plan
+- content: test procedure specification
+- content: test summary report
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

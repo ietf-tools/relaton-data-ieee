@@ -1,10 +1,10 @@
 ---
 id: ANSIN42.37-2016
 title:
-- type: main
-  content: American National Standard Training for the Radiological/Nuclear Detection
+- content: American National Standard Training for the Radiological/Nuclear Detection
     Mission
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7819435
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,12 +64,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - American National Standards Institute
-    abbreviation: ANSI
+    - content: American National Standards Institute
+    abbreviation:
+      content: ANSI
     url: https://www.ansi.org
   from: '2017'
 relation:
@@ -89,31 +92,31 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ANSI Standards
-- Portable equipment
-- Radiation detectors
-- Nuclear engineering
-- Detectors
-- alarm adjudication
-- ANSI N42.37
-- backpack-based radiation detection systems
-- Global Nuclear Detection Architecture (GNDA)
-- human-portable detectors
-- instruments
-- levels of training
-- National-Level Reachback
-- personal radiation detector
-- prevention
-- Primary Screener
-- protection
-- radiation portal monitor
-- radiological/nuclear detection
-- radionuclide identifier
-- reachback
-- Secondary Screener
+- content: IEEE Standards
+- content: ANSI Standards
+- content: Portable equipment
+- content: Radiation detectors
+- content: Nuclear engineering
+- content: Detectors
+- content: alarm adjudication
+- content: ANSI N42.37
+- content: backpack-based radiation detection systems
+- content: Global Nuclear Detection Architecture (GNDA)
+- content: human-portable detectors
+- content: instruments
+- content: levels of training
+- content: National-Level Reachback
+- content: personal radiation detector
+- content: prevention
+- content: Primary Screener
+- content: protection
+- content: radiation portal monitor
+- content: radiological/nuclear detection
+- content: radionuclide identifier
+- content: reachback
+- content: Secondary Screener
 editorialgroup:
   committee:
   - National Committee on Radiation Instrumentation

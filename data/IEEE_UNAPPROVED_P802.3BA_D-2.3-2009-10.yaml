@@ -1,13 +1,13 @@
 ---
 id: IEEEUnapprovedP802.3ba/D-2.3-2009-10
 title:
-- type: main
-  content: 'Draft Standard for Information Technology-Telecommunications and information
+- content: 'Draft Standard for Information Technology-Telecommunications and information
     exchange between systems-Local and metropolitan area networks-Specific requirements
     Prt 3: Carrier Sense Multiple Access with and Physical Layer Specifications mendment:
     edia Access Control Parameters, Physical Layers and Management Parameters for
     40 Gb/s and 100 Gb/s Operation'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5291668
   type: src
@@ -29,8 +29,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -59,37 +60,38 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- 802.3ba
-- 40 Gb/s Ethernet
-- XLGMII
-- XLAUI
-- 40GBASE-R
-- 40GBASE-KR4
-- 40GBASECR4
-- 40GBASE-SR4
-- 40GBASE-LR4
-- 100 Gb/s Ethernet
-- CGMII
-- CAUI
-- 100GBASE-R
-- 100GBASE-CR10
-- 100GBASE-SR10
-- 100GBASE-LR4
-- 100GBASE-ER4
-- XLPPI
-- CPPI
-- FEC
-- Auto-Negotiation (AN)
-- Backplane (BP)
-- MMF
-- SMF
-- Optical Transport Network (OTN)
+- content: 802.3ba
+- content: 40 Gb/s Ethernet
+- content: XLGMII
+- content: XLAUI
+- content: 40GBASE-R
+- content: 40GBASE-KR4
+- content: 40GBASECR4
+- content: 40GBASE-SR4
+- content: 40GBASE-LR4
+- content: 100 Gb/s Ethernet
+- content: CGMII
+- content: CAUI
+- content: 100GBASE-R
+- content: 100GBASE-CR10
+- content: 100GBASE-SR10
+- content: 100GBASE-LR4
+- content: 100GBASE-ER4
+- content: XLPPI
+- content: CPPI
+- content: FEC
+- content: Auto-Negotiation (AN)
+- content: Backplane (BP)
+- content: MMF
+- content: SMF
+- content: Optical Transport Network (OTN)
 ics:
 - code: '35.110'
   text: Networking

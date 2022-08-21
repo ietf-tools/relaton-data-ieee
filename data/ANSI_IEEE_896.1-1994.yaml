@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE896.1-1994
 title:
-- type: main
-  content: ISO/IEC/IEEE International Standard - Information Technology -- Microprocessor
+- content: ISO/IEC/IEEE International Standard - Information Technology -- Microprocessor
     Systems -- Futurebus+(R) - Logical Protocol specification
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/467390
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -80,22 +81,23 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1994'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- ISO Standards
-- ISO
-- IEC
-- Lifting equipment
-- bus architecture
-- futurebus +
-- logical protocol
-- multiprocessor systems
+- content: IEEE Standards
+- content: IEC Standards
+- content: ISO Standards
+- content: ISO
+- content: IEC
+- content: Lifting equipment
+- content: bus architecture
+- content: futurebus +
+- content: logical protocol
+- content: multiprocessor systems
 editorialgroup:
   committee:
   - Microprocessor Standards Committee of the IEEE Computer Society

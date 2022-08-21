@@ -1,13 +1,13 @@
 ---
 id: IEEE1268-2016Redline
 title:
-- type: title-main
-  content: IEEE Guide for Safety in the Installation of Mobile Substation Equipment
+- content: IEEE Guide for Safety in the Installation of Mobile Substation Equipment
   format: text/plain
-- type: main
-  content: IEEE Guide for Safety in the Installation of Mobile Substation Equipment
+  type: title-main
+- content: IEEE Guide for Safety in the Installation of Mobile Substation Equipment
     - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7830769
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,8 +62,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2017'
 relation:
@@ -83,13 +85,13 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Substations
-- Installations
-- Mobile communication
-- update:5230
+- content: IEEE Standards
+- content: Substations
+- content: Installations
+- content: Mobile communication
+- content: update:5230
 editorialgroup:
   committee:
   - Substations of the IEEE Power and Energy Society

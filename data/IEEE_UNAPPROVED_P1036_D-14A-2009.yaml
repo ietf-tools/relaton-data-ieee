@@ -1,9 +1,9 @@
 ---
 id: IEEEUnapprovedP1036/D-14A-2009
 title:
-- type: main
-  content: IEEE Draft Guide for the Application of Shunt Power Capacitors
+- content: IEEE Draft Guide for the Application of Shunt Power Capacitors
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5399256
   type: src
@@ -25,8 +25,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -57,19 +58,20 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- "\"capacitor"
-- shunt power capacitors
-- capacitor banks
-- power factor correction
-- externally fused
-- internallly fused
-- fuseless"
+- content: "\"capacitor"
+- content: shunt power capacitors
+- content: capacitor banks
+- content: power factor correction
+- content: externally fused
+- content: internallly fused
+- content: fuseless"
 ics:
 - code: 31.060.70
   text: Power capacitors

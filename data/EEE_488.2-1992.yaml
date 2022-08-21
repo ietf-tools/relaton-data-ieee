@@ -1,10 +1,10 @@
 ---
 id: EEE488.2-1992
 title:
-- type: main
-  content: IEEE Standard Codes, Formats, Protocols, and Common Commands for Use With
+- content: IEEE Standard Codes, Formats, Protocols, and Common Commands for Use With
     IEEE Std 488.1-1987, IEEE Standard Digital Interface for Programmable Instrumentation
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8705775
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -70,8 +71,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1992'
 relation:
@@ -92,21 +94,21 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Protocols
-- Process control
-- Application software
-- Instrumentation
-- System integration
-- Codes
-- controller
-- device
-- System interface
-- System bus
-- '488.1'
-- 60488-2
+- content: IEEE Standards
+- content: Protocols
+- content: Process control
+- content: Application software
+- content: Instrumentation
+- content: System integration
+- content: Codes
+- content: controller
+- content: device
+- content: System interface
+- content: System bus
+- content: '488.1'
+- content: 60488-2
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

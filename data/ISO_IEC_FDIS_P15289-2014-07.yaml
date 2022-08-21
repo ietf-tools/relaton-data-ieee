@@ -1,10 +1,10 @@
 ---
 id: ISO/IECFDISP15289-2014-07
 title:
-- type: main
-  content: ISO/IEC/IEEE Draft International Standard Systems and software engineering
+- content: ISO/IEC/IEEE Draft International Standard Systems and software engineering
     -- Content of life-cycle information products (documentation)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6870355
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,13 +68,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2014'
 relation:
 - type: updates
@@ -93,14 +95,14 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- IEC standards
-- ISO standards
-- Software engineering
-- Product life cycle management
-- Content management
+- content: IEEE standards
+- content: IEC standards
+- content: ISO standards
+- content: Software engineering
+- content: Product life cycle management
+- content: Content management
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

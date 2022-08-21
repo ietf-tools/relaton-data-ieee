@@ -1,10 +1,10 @@
 ---
 id: IEEE1187-1996
 title:
-- type: main
-  content: IEEE Recommended Practice for Installation Design and Installation of Valve-Regulated
+- content: IEEE Recommended Practice for Installation Design and Installation of Valve-Regulated
     Lead-Acid Storage Batteries for Stationary Applications
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/500134
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -60,8 +61,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1996'
 relation:
@@ -85,12 +87,12 @@ relation:
     formattedref:
       content: IEEE 1187-2002
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Lead materials/devices
-- Batteries
-- Protection/safety
+- content: IEEE standards
+- content: Lead materials/devices
+- content: Batteries
+- content: Protection/safety
 editorialgroup:
   committee:
   - Energy Storage &amp; Stationary Battery Committee of the IEEE Power and Energy

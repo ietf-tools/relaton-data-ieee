@@ -1,13 +1,13 @@
 ---
 id: ISO/IEC/IEEE8802.3/Amd8-2017
 title:
-- type: main
-  content: 'ISO/IEC/IEEE International Standard - Information technology -- Telecommunications
+- content: 'ISO/IEC/IEEE International Standard - Information technology -- Telecommunications
     and information exchange between systems -- Local and metropolitan area networks
     -- Specific requirements -- Part 3: Standard for Ethernet AMENDMENT 8: Physical
     layer and management parameters for Power over Data Lines (PoDL) of single balanced
     twisted-pair Ethernet'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8575225
   type: src
@@ -37,8 +37,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,13 +68,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2018'
 relation:
 - type: adoptedFrom
@@ -86,28 +88,28 @@ relation:
     formattedref:
       content: IEEE 802.3bu-2016
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ISO Standards
-- IEC Standards
-- Information technology
-- Information exchange
-- Local area networks
-- Metropolitan area networks
-- Physical layer
-- Power transmission lines
-- Data communication
-- Twisted pair wiring
-- 100BASE-T1
-- 1000BASE-T1
-- Ethernet
-- IEEE 802.3
-- IEEE 802.3bu
-- Power over Data Lines
-- PoDL
-- PoDL PD
-- PoDL PSE
+- content: IEEE Standards
+- content: ISO Standards
+- content: IEC Standards
+- content: Information technology
+- content: Information exchange
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Physical layer
+- content: Power transmission lines
+- content: Data communication
+- content: Twisted pair wiring
+- content: 100BASE-T1
+- content: 1000BASE-T1
+- content: Ethernet
+- content: IEEE 802.3
+- content: IEEE 802.3bu
+- content: Power over Data Lines
+- content: PoDL
+- content: PoDL PD
+- content: PoDL PSE
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

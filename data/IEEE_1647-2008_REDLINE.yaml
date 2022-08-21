@@ -1,12 +1,12 @@
 ---
 id: IEEE1647-2008Redline
 title:
-- type: title-main
-  content: IEEE Standard for the Functional Verification Language e
+- content: IEEE Standard for the Functional Verification Language e
   format: text/plain
-- type: main
-  content: IEEE Standard for the Functional Verification Language e - Redline
+  type: title-main
+- content: IEEE Standard for the Functional Verification Language e - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5982069
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -70,8 +71,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2011'
 relation:
@@ -102,23 +104,23 @@ relation:
     formattedref:
       content: IEEE 1647-2011
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Computer languages
-- Formal verification
-- Concurrent computing
-- Dynamic programming
-- 1647-2008
-- assertion
-- concurrent programming
-- constraint
-- dynamic verification
-- functional coverage
-- functional verification
-- simulation
-- temporal logic
-- test generation
+- content: IEEE standards
+- content: Computer languages
+- content: Formal verification
+- content: Concurrent computing
+- content: Dynamic programming
+- content: 1647-2008
+- content: assertion
+- content: concurrent programming
+- content: constraint
+- content: dynamic verification
+- content: functional coverage
+- content: functional verification
+- content: simulation
+- content: temporal logic
+- content: test generation
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

@@ -1,11 +1,11 @@
 ---
 id: ISO/IEC10038-1993
 title:
-- type: main
-  content: ISO/IEC/IEEE International Standard for Information technology-Telecommunications
+- content: ISO/IEC/IEEE International Standard for Information technology-Telecommunications
     and information exchange between systems - Local area networks - Media access
     control (MAC) bridges
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6887403
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,37 +70,38 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '1993'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- IEC standards
-- ISO standards
-- Information technology
-- Telecommunication services
-- Information exchange
-- Local area networks
-- Metropolitan area networks
-- Distributed processing
-- Source coding
-- data processing
-- information interchange
-- local area networks
-- metropolitan area networks
-- fibre distributed data interface - FDDI
-- mode of data transmission
-- network interconnection
-- models
-- source routing
-- Source-Routing Transparent
-- SRT Bridge
+- content: IEEE standards
+- content: IEC standards
+- content: ISO standards
+- content: Information technology
+- content: Telecommunication services
+- content: Information exchange
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Distributed processing
+- content: Source coding
+- content: data processing
+- content: information interchange
+- content: local area networks
+- content: metropolitan area networks
+- content: fibre distributed data interface - FDDI
+- content: mode of data transmission
+- content: network interconnection
+- content: models
+- content: source routing
+- content: Source-Routing Transparent
+- content: SRT Bridge
 ics:
 - code: '35.080'
   text: Software

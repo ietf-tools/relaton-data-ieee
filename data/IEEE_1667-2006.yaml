@@ -1,10 +1,10 @@
 ---
 id: IEEE1667-2006
 title:
-- type: main
-  content: IEEE Standard Protocol for Authentication in Host Attachments of Transient
+- content: IEEE Standard Protocol for Authentication in Host Attachments of Transient
     Storage Devices
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7312391
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,8 +67,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2006'
 relation:
@@ -81,15 +83,15 @@ relation:
     formattedref:
       content: IEEE 1667-2009
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Computer security
-- Security
-- Authentication
-- Storage automation
-- secure authentication
-- Transient Storage Device
+- content: IEEE Standards
+- content: Computer security
+- content: Security
+- content: Authentication
+- content: Storage automation
+- content: secure authentication
+- content: Transient Storage Device
 editorialgroup:
   committee:
   - Cybersecurity and Privacy Standards Committee of the IEEE Computer Society

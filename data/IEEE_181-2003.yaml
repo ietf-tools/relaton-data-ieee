@@ -1,9 +1,9 @@
 ---
 id: IEEE181-2003
 title:
-- type: main
-  content: IEEE Standard on Transitions, Pulses, and Related Waveforms
+- content: IEEE Standard on Transitions, Pulses, and Related Waveforms
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1245784
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,8 +67,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2003'
 relation:
@@ -81,33 +83,33 @@ relation:
     formattedref:
       content: IEEE 181-2011
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Pulse measurements
-- Patents
-- Compounds
-- History
-- aberration
-- algorithms
-- compound waveform
-- histogram
-- levels
-- pulse
-- pulse amplitude
-- pulse definitions
-- pulse measurement
-- states
-- state boundaries
-- state levels
-- transients
-- transitions
-- transition duration
-- waveforms
-- waveform analysis
-- waveform definitions
-- waveform parameters
-- waveform terms
+- content: IEEE Standards
+- content: Pulse measurements
+- content: Patents
+- content: Compounds
+- content: History
+- content: aberration
+- content: algorithms
+- content: compound waveform
+- content: histogram
+- content: levels
+- content: pulse
+- content: pulse amplitude
+- content: pulse definitions
+- content: pulse measurement
+- content: states
+- content: state boundaries
+- content: state levels
+- content: transients
+- content: transitions
+- content: transition duration
+- content: waveforms
+- content: waveform analysis
+- content: waveform definitions
+- content: waveform parameters
+- content: waveform terms
 editorialgroup:
   committee:
   - TC10 - Waveform Generation Measurement and Analysis of the IEEE Instrumentation

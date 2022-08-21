@@ -1,9 +1,9 @@
 ---
 id: IEEE830-1993
 title:
-- type: main
-  content: IEEE Recommended Practice for Software Requirements Specifications
+- content: IEEE Recommended Practice for Software Requirements Specifications
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/392555
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1994'
 relation:
@@ -94,19 +96,19 @@ relation:
     formattedref:
       content: IEEE 830-1998
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Software
-- Standards organizations
-- Organizations
-- Contracts
-- Dams
-- contract
-- customer
-- prototyping
-- supplier
-- System requirements specifications
+- content: IEEE Standards
+- content: Software
+- content: Standards organizations
+- content: Organizations
+- content: Contracts
+- content: Dams
+- content: contract
+- content: customer
+- content: prototyping
+- content: supplier
+- content: System requirements specifications
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

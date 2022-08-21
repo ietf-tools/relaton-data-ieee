@@ -1,12 +1,12 @@
 ---
 id: IEEE802.3bf-2011
 title:
-- type: main
-  content: 'IEEE Standard for Information technology-- Local and metropolitan area
+- content: 'IEEE Standard for Information technology-- Local and metropolitan area
     networks-- Part 3: CSMA/CD Access Method and Physical Layer Specifications Amendment
     7: Media Access Control (MAC) Service Interface and Management Parameters to Support
     Time Synchronization Protocols'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5960748
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,21 +68,22 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2011'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Local area networks
-- Metropolitan area networks
-- Information technology
-- Information exchange
-- IEEE 802.1AS
-- IEEE 802.3bf
-- IEEE 1588
-- time synchronization protocol
+- content: IEEE standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Information technology
+- content: Information exchange
+- content: IEEE 802.1AS
+- content: IEEE 802.3bf
+- content: IEEE 1588
+- content: time synchronization protocol
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

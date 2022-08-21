@@ -1,9 +1,9 @@
 ---
 id: IEEEUnapprovedP1641/D-4-2010
 title:
-- type: main
-  content: IEEE Draft Standard for Signal and Test Definition
+- content: IEEE Draft Standard for Signal and Test Definition
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5434901
   type: src
@@ -25,8 +25,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -54,24 +55,25 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2010'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Signal analysis
-- Testing
-- ATE
-- ATLAS
-- automatic test equipment
-- signal definitions
-- test definitions
-- test requirements
-- test signals
-- unit under test
-- UUT
+- content: IEEE standards
+- content: Signal analysis
+- content: Testing
+- content: ATE
+- content: ATLAS
+- content: automatic test equipment
+- content: signal definitions
+- content: test definitions
+- content: test requirements
+- content: test signals
+- content: unit under test
+- content: UUT
 ics:
 - code: '31.020'
   text: Electronic components in general

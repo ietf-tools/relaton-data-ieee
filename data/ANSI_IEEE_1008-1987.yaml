@@ -1,9 +1,9 @@
 ---
 id: ANSI/IEEE1008-1987
 title:
-- type: main
-  content: IEEE Standard for Software Unit Testing
+- content: IEEE Standard for Software Unit Testing
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/27763
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,17 +68,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1986'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Software testing
-- Software engineering
-- Standards
-- unit
-- Software testing
+- content: Software testing
+- content: Software engineering
+- content: Standards
+- content: unit
+- content: Software testing
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

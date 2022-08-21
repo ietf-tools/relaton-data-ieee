@@ -1,10 +1,10 @@
 ---
 id: IEEE1637-2020
 title:
-- type: main
-  content: IEEE Guide for Selection and Application of Terminations for Shielded AC
+- content: IEEE Guide for Selection and Application of Terminations for Shielded AC
     Power Cable Rated 5 kV to 46 kV
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9351807
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -74,8 +75,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2020'
 relation:
@@ -96,15 +98,15 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Power cables
-- Cable shielding
-- IEEE 1637
-- power cable
-- shielded
-- termination
+- content: IEEE Standards
+- content: Power cables
+- content: Cable shielding
+- content: IEEE 1637
+- content: power cable
+- content: shielded
+- content: termination
 editorialgroup:
   committee:
   - Insulated Conductors of the IEEE Power and Energy Society

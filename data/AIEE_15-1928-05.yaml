@@ -1,9 +1,9 @@
 ---
 id: AIEE15-1928-05
 title:
-- type: main
-  content: 'A.I.E.E. Standards: Industrial Control Apparatus'
+- content: 'A.I.E.E. Standards: Industrial Control Apparatus'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7368048
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -51,14 +52,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - AIEE
+    - content: AIEE
   from: '1928'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- AIEE Standards
-- Industrial control
-- Industrial electronics
-- Equipment
+- content: AIEE Standards
+- content: Industrial control
+- content: Industrial electronics
+- content: Equipment
 editorialgroup:
   committee:
   - IEEE Industry Applications Society

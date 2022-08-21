@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE500-1984
 title:
-- type: main
-  content: IEEE Standard Reliability Data for Pumps and Drivers, Valve Actuators,
+- content: IEEE Standard Reliability Data for Pumps and Drivers, Valve Actuators,
     and Valves (Excerpted from ANSI/IEEE Std 500-1984)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6847100
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,18 +66,19 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1984'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Actuators
-- Pumps
-- Valves
-- Power system reliability
-- Valve actuators
+- content: IEEE standards
+- content: Actuators
+- content: Pumps
+- content: Valves
+- content: Power system reliability
+- content: Valve actuators
 editorialgroup:
   committee:
   - Nuclear Power Engineering of the IEEE Power and Energy Society

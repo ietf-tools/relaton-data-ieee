@@ -1,10 +1,10 @@
 ---
 id: IEEE1278.2-1995
 title:
-- type: main
-  content: IEEE Standard for Distributed Interactive Simulation - Communication Services
+- content: IEEE Standard for Distributed Interactive Simulation - Communication Services
     and Profiles
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/499688
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,23 +66,24 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1996'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Distributed computing
-- Interactive systems
-- Simulation software
-- Software standards
-- IEEE standards
-- communication
-- DIS
-- simulation network
-- protocol data units
-- PDU
-- multicast
+- content: Distributed computing
+- content: Interactive systems
+- content: Simulation software
+- content: Software standards
+- content: IEEE standards
+- content: communication
+- content: DIS
+- content: simulation network
+- content: protocol data units
+- content: PDU
+- content: multicast
 editorialgroup:
   committee:
   - Simulation Interoperability Stds Organization/Stds Activity Committee of the IEEE

@@ -1,10 +1,10 @@
 ---
 id: IEEE716-1995
 title:
-- type: main
-  content: IEEE Standard Test Language for All Systems - Common/Abbreviated Test Language
+- content: IEEE Standard Test Language for All Systems - Common/Abbreviated Test Language
     for All Systems (C/ATLAS)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1582053
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,21 +62,22 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1995'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- 'Testing '
-- Computer languages
-- abbreviated
-- C/ATLAS
-- common
-- test language
-- unit under test
-- UUT
+- content: IEEE Standards
+- content: 'Testing '
+- content: Computer languages
+- content: abbreviated
+- content: C/ATLAS
+- content: common
+- content: test language
+- content: unit under test
+- content: UUT
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

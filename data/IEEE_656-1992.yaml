@@ -1,10 +1,10 @@
 ---
 id: IEEE656-1992
 title:
-- type: main
-  content: IEEE Standard for the Measurement of Audible Noise from Overhead Transmission
+- content: IEEE Standard for the Measurement of Audible Noise from Overhead Transmission
     Lines
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/211074
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1992'
 relation:
@@ -97,13 +99,13 @@ relation:
     formattedref:
       content: IEEE 656-2018
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Acoustic noise
-- Acoustic noise measurement
-- Standards
-- Overhead transmission lines
-- Audible noise
+- content: Acoustic noise
+- content: Acoustic noise measurement
+- content: Standards
+- content: Overhead transmission lines
+- content: Audible noise
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society

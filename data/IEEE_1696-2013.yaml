@@ -1,9 +1,9 @@
 ---
 id: IEEE1696-2013
 title:
-- type: main
-  content: IEEE Standard for Terminology and Test Methods for Circuit Probes
+- content: IEEE Standard for Terminology and Test Methods for Circuit Probes
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6739990
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -72,33 +73,34 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2014'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Probes
-- Testing
-- Transfer functions
-- Circuit testing
-- common mode
-- frequency response
-- gain
-- IEEE 1696TM
-- input resistance
-- linearity
-- offset error
-- offset range
-- probe
-- probe-only
-- probe system
-- scattering parameters
-- test fixture
-- text methods
-- time response
-- transfer function
+- content: IEEE standards
+- content: Probes
+- content: Testing
+- content: Transfer functions
+- content: Circuit testing
+- content: common mode
+- content: frequency response
+- content: gain
+- content: IEEE 1696TM
+- content: input resistance
+- content: linearity
+- content: offset error
+- content: offset range
+- content: probe
+- content: probe-only
+- content: probe system
+- content: scattering parameters
+- content: test fixture
+- content: text methods
+- content: time response
+- content: transfer function
 editorialgroup:
   committee:
   - TC10 - Waveform Generation Measurement and Analysis of the IEEE Instrumentation

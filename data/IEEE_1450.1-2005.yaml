@@ -1,10 +1,10 @@
 ---
 id: IEEE1450.1-2005
 title:
-- type: main
-  content: IEEE Standard for Extensions to Standard Test Interface Language (STIL)
+- content: IEEE Standard for Extensions to Standard Test Interface Language (STIL)
     (IEEE Std 1450-1999) for Semiconductor Design Environments
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1519742
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,30 +65,31 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2005'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Patents
-- Test equipment
-- Trademarks
-- Warranties
-- Licenses
-- advanced scan architecture
-- core
-- environment
-- fail feedback
-- lockstep
-- parallel patterns
-- parameterized data
-- pattern tilling
-- pragma
-- signal variable
-- system on chip (SoC)
-- test protocol
+- content: IEEE Standards
+- content: Patents
+- content: Test equipment
+- content: Trademarks
+- content: Warranties
+- content: Licenses
+- content: advanced scan architecture
+- content: core
+- content: environment
+- content: fail feedback
+- content: lockstep
+- content: parallel patterns
+- content: parameterized data
+- content: pattern tilling
+- content: pragma
+- content: signal variable
+- content: system on chip (SoC)
+- content: test protocol
 editorialgroup:
   committee:
   - Test Technology of the IEEE Computer Society

@@ -1,9 +1,9 @@
 ---
 id: IEEE1149.1-2013
 title:
-- type: main
-  content: IEEE Standard for Test Access Port and Boundary-Scan Architecture
+- content: IEEE Standard for Test Access Port and Boundary-Scan Architecture
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6515989
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,8 +70,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2013'
 relation:
@@ -91,31 +93,31 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Integrated circuits
-- Printed circuits
-- Boundary value problems
-- Very high speed integrated circuits
-- Testing
-- boundary scan
-- boundary-scan architecture
-- Boundary-Scan Description Language
-- boundary-scan boundary scan
-- boundary-scan architecture
-- Boundary-Scan Description Language (BSDL)
-- boundary-scan register
-- circuit boards
-- circuitry
-- IEEE 1149.1TM
-- integrated circuit
-- printed circuit boards
-- Procedural Description Language (PDL)
-- test
-- test access port (TAP)
-- very high speed integrated circuit (VHSIC)
-- VHSIC Hardware Description Language (VHDL)
+- content: IEEE standards
+- content: Integrated circuits
+- content: Printed circuits
+- content: Boundary value problems
+- content: Very high speed integrated circuits
+- content: Testing
+- content: boundary scan
+- content: boundary-scan architecture
+- content: Boundary-Scan Description Language
+- content: boundary-scan boundary scan
+- content: boundary-scan architecture
+- content: Boundary-Scan Description Language (BSDL)
+- content: boundary-scan register
+- content: circuit boards
+- content: circuitry
+- content: IEEE 1149.1TM
+- content: integrated circuit
+- content: printed circuit boards
+- content: Procedural Description Language (PDL)
+- content: test
+- content: test access port (TAP)
+- content: very high speed integrated circuit (VHSIC)
+- content: VHSIC Hardware Description Language (VHDL)
 editorialgroup:
   committee:
   - Test Technology of the IEEE Computer Society

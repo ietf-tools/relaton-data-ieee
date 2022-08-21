@@ -1,11 +1,11 @@
 ---
 id: IEEEUnapprovedPC95.3.1/D-3.18-2009-12
 title:
-- type: main
-  content: IEEE Draft Recommended Practice for Measurements and Computations of Electric,
+- content: IEEE Draft Recommended Practice for Measurements and Computations of Electric,
     Magnetic and Electromagnetic Fields With Respect to Human Exposure to Such Fields,
     0 - 100 kHz
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5385183
   type: src
@@ -27,8 +27,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,24 +66,25 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Electric field measurement
-- magnetic field measurement
-- electromagnetic field measurement
-- electric field computation
-- magnetic field computation
-- electromagnetic field computation
-- exposure assessment
-- induced current measurement
-- contact current measurement
-- ELF/VLF/RF survey instruments
-- RF/ELF/VLF hazard assessment
-- nonionizing radiation.
+- content: Electric field measurement
+- content: magnetic field measurement
+- content: electromagnetic field measurement
+- content: electric field computation
+- content: magnetic field computation
+- content: electromagnetic field computation
+- content: exposure assessment
+- content: induced current measurement
+- content: contact current measurement
+- content: ELF/VLF/RF survey instruments
+- content: RF/ELF/VLF hazard assessment
+- content: nonionizing radiation.
 ics:
 - code: '17.240'
   text: Radiation measurements

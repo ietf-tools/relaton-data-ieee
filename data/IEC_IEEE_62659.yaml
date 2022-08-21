@@ -1,10 +1,10 @@
 ---
 id: IEC/IEEE62659
 title:
-- type: main
-  content: IEC/IEEE International Standard - Nanomanufacturing -- Large scale manufacturing
+- content: IEC/IEEE International Standard - Nanomanufacturing -- Large scale manufacturing
     for nanoelectronics
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7407265
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -52,17 +53,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2015'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- Large scale systems
-- Manufacturing
-- Nanoelectronics
+- content: IEEE Standards
+- content: IEC Standards
+- content: Large scale systems
+- content: Manufacturing
+- content: Nanoelectronics
 editorialgroup:
   committee:
   - Standards Committee of the IEEE Nanotechnology Council

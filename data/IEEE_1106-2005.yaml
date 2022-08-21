@@ -1,10 +1,10 @@
 ---
 id: IEEE1106-2005
 title:
-- type: main
-  content: IEEE Recommended Practice for Installation, Maintenance, Testing, and Replacement
+- content: IEEE Recommended Practice for Installation, Maintenance, Testing, and Replacement
     of Vented Nickel-Cadmium Batteries for Stationary Applications
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1577465
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   role:
   - publisher
@@ -55,8 +56,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2005'
 relation:
@@ -70,13 +72,13 @@ relation:
     formattedref:
       content: IEEE 1106-2015
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Ventilators
-- Maintenance engineering
-- Batteries
-- Nickel cadmium batteries
+- content: IEEE Standards
+- content: Ventilators
+- content: Maintenance engineering
+- content: Batteries
+- content: Nickel cadmium batteries
 editorialgroup:
   committee:
   - Stationary Battery Committee of the IEEE Power Engineering Society

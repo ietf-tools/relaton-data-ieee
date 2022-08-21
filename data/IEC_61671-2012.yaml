@@ -1,10 +1,10 @@
 ---
 id: IEC61671-2012
 title:
-- type: main
-  content: IEC 61671:2012(E) (IEEE Std 1671-2010) Automatic Test Markup Language (ATML)
+- content: IEC 61671:2012(E) (IEEE Std 1671-2010) Automatic Test Markup Language (ATML)
     for Exchanging Automatic Test Equipment and Test Information via XML
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6238292
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,36 +63,37 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2012'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- XML
-- Instrumentation
-- Automation
-- Testing
-- ATE description
-- ATE test results
-- ATML
-- ATS
-- automatic test equipment
-- automatic test markup language
-- automatic test system
-- interface test adapter
-- ITA
-- SI
-- synthetic instrumentation
-- test configuration
-- unit under test
-- UUT description
-- UUT maintenance
-- XML instance document
-- XML schema
+- content: IEEE standards
+- content: XML
+- content: Instrumentation
+- content: Automation
+- content: Testing
+- content: ATE description
+- content: ATE test results
+- content: ATML
+- content: ATS
+- content: automatic test equipment
+- content: automatic test markup language
+- content: automatic test system
+- content: interface test adapter
+- content: ITA
+- content: SI
+- content: synthetic instrumentation
+- content: test configuration
+- content: unit under test
+- content: UUT description
+- content: UUT maintenance
+- content: XML instance document
+- content: XML schema
 editorialgroup:
   committee:
   - SCC20 - Test and Diagnosis for Electronic Systems

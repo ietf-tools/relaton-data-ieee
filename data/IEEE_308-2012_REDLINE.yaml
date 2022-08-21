@@ -1,14 +1,14 @@
 ---
 id: IEEE308-2012Redline
 title:
-- type: title-main
-  content: IEEE Standard Criteria for Class 1E Power Systems for Nuclear Power Generating
+- content: IEEE Standard Criteria for Class 1E Power Systems for Nuclear Power Generating
     Stations
   format: text/plain
-- type: main
-  content: IEEE Standard Criteria for Class 1E Power Systems for Nuclear Power Generating
+  type: title-main
+- content: IEEE Standard Criteria for Class 1E Power Systems for Nuclear Power Generating
     Stations - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6522435
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,8 +67,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2013'
 relation:
@@ -98,18 +100,18 @@ relation:
     formattedref:
       content: IEEE 308-2020
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Power systems planning
-- Nuclear power generation
-- Electrical safety
-- Power system reliability
-- Safety
-- Class 1E power systems
-- IEEE 308
-- nuclear power station design
-- nuclear safety
+- content: IEEE standards
+- content: Power systems planning
+- content: Nuclear power generation
+- content: Electrical safety
+- content: Power system reliability
+- content: Safety
+- content: Class 1E power systems
+- content: IEEE 308
+- content: nuclear power station design
+- content: nuclear safety
 editorialgroup:
   committee:
   - Nuclear Power Engineering of the IEEE Power and Energy Society

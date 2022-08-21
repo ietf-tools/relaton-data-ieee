@@ -1,12 +1,12 @@
 ---
 id: IEEE802.3/Cor1-2006
 title:
-- type: main
-  content: 'IEEE Standard for Information Technology - Telecommunications and Information
+- content: 'IEEE Standard for Information Technology - Telecommunications and Information
     Exchange Between Systems - Local and Metropolitan Area Networks - Specific Requirements
     Part 3: Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Access
     Method and Physical Layer Specifications - Corrigendum 1'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1650728
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2006'
 relation:
@@ -84,18 +86,18 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE 802.3 Standard
-- EPON
-- Information technology
-- Telecommunications
-- Information exchange
-- DTE
-- Power via the MDI
-- POE
-- Power over Ethernet
-- isolation
+- content: IEEE 802.3 Standard
+- content: EPON
+- content: Information technology
+- content: Telecommunications
+- content: Information exchange
+- content: DTE
+- content: Power via the MDI
+- content: POE
+- content: Power over Ethernet
+- content: isolation
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

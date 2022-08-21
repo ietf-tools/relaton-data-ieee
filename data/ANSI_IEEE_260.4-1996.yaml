@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE260.4-1996
 title:
-- type: main
-  content: American National Standard Letter Symbols and Abbreviations for Quantities
+- content: American National Standard Letter Symbols and Abbreviations for Quantities
     Used in Acoustics
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/533157
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -59,8 +60,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1996'
 relation:
@@ -84,9 +86,9 @@ relation:
     formattedref:
       content: IEEE 260.4-2018
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Measurement standards
+- content: Measurement standards
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

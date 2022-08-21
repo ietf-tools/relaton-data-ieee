@@ -1,10 +1,10 @@
 ---
 id: IEEE1156.4-1997
 title:
-- type: main
-  content: IEEE Standard for Environmental Specifications for Spaceborne Computer
+- content: IEEE Standard for Environmental Specifications for Spaceborne Computer
     Modules
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/603627
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,17 +66,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1997'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- bus architecture
-- spaceborne computers
-- spaceborne modules
-- spaceborne systems
+- content: IEEE standards
+- content: bus architecture
+- content: spaceborne computers
+- content: spaceborne modules
+- content: spaceborne systems
 editorialgroup:
   committee:
   - Microprocessor Standards Committee of the IEEE Computer Society

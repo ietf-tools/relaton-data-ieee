@@ -1,11 +1,11 @@
 ---
 id: IEEEPC37.45/D-7
 title:
-- type: main
-  content: Unapproved IEEE Draft Standard Specifications for High Voltage Distribution
+- content: Unapproved IEEE Draft Standard Specifications for High Voltage Distribution
     Class Enclosed Single-Pole Air Switches With Rated Voltages From 1 Through 8.3
     kV (Revision of ANSI C37.45-1981)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4040615
   type: src
@@ -27,8 +27,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -60,11 +61,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2006'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: 29.130.10
   text: High voltage switchgear and controlgear

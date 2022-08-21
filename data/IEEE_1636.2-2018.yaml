@@ -1,11 +1,11 @@
 ---
 id: IEEE1636.2-2018
 title:
-- type: main
-  content: 'IEEE Standard for Software Interface for Maintenance Information Collection
+- content: 'IEEE Standard for Software Interface for Maintenance Information Collection
     and Analysis (SIMICA): Exchanging Maintenance Action Information via the Extensible
     Markup Language (XML)'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8664699
   type: src
@@ -35,8 +35,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,8 +69,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2019'
 relation:
@@ -90,21 +92,22 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- XML
-- Software maintenance
-- Information processing
-- Ontologies
-- Automatic testing
-- automated test system (ATS)
-- extensible markup language (XML)
-- IEEE 1636.2
-- maintenance action information (MAI)
-- OWL ontology
-- Software Interface for Maintenance Information Collection and Analysis (SIMICA)
-- XML schema
+- content: IEEE Standards
+- content: XML
+- content: Software maintenance
+- content: Information processing
+- content: Ontologies
+- content: Automatic testing
+- content: automated test system (ATS)
+- content: extensible markup language (XML)
+- content: IEEE 1636.2
+- content: maintenance action information (MAI)
+- content: OWL ontology
+- content: Software Interface for Maintenance Information Collection and Analysis
+    (SIMICA)
+- content: XML schema
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

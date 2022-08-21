@@ -1,9 +1,9 @@
 ---
 id: IEEE393-1991
 title:
-- type: main
-  content: IEEE Standard for Test Procedures for Magnetic Cores
+- content: IEEE Standard for Test Procedures for Magnetic Cores
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/213699
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,19 +69,20 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1992'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Electromagnetic induction
-- Magnetic cores
-- Magnetic hysteresis
-- Magnetic losses
-- Permeability measurement
-- electromagnetic measurements
-- magnetic cores
+- content: Electromagnetic induction
+- content: Magnetic cores
+- content: Magnetic hysteresis
+- content: Magnetic losses
+- content: Permeability measurement
+- content: electromagnetic measurements
+- content: magnetic cores
 editorialgroup:
   committee:
   - Standards Committee of the IEEE Power Electronics Society

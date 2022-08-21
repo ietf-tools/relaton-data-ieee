@@ -1,10 +1,10 @@
 ---
 id: IEEE99-1970
 title:
-- type: main
-  content: IEEE Guide for Preparation of Test Procedures for the Thermal Evaluation
+- content: IEEE Guide for Preparation of Test Procedures for the Thermal Evaluation
     of Insulation Systems for Electric Equipment
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7440735
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -76,8 +77,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1970'
 relation:
@@ -91,11 +93,11 @@ relation:
     formattedref:
       content: IEEE 99-1980
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Thermal evaluation
-- Testing
-- Insulation
-- Electrical equipment
-- Power system measurement
+- content: IEEE Standards
+- content: Thermal evaluation
+- content: Testing
+- content: Insulation
+- content: Electrical equipment
+- content: Power system measurement

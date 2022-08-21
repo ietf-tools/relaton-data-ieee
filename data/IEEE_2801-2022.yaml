@@ -1,10 +1,10 @@
 ---
 id: IEEE2801-2022
 title:
-- type: main
-  content: IEEE Recommended Practice for the Quality Management of Datasets for Medical
+- content: IEEE Recommended Practice for the Quality Management of Datasets for Medical
     Artificial Intelligence
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9812564
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,21 +68,22 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2022'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Medical devices
-- Quality management
-- Electronic healthcare
-- AIMD
-- artificial intelligence medical device
-- datasets
-- IEEE 2801
-- quality management
+- content: IEEE Standards
+- content: Medical devices
+- content: Quality management
+- content: Electronic healthcare
+- content: AIMD
+- content: artificial intelligence medical device
+- content: datasets
+- content: IEEE 2801
+- content: quality management
 editorialgroup:
   committee:
   - Standards Committee of the IEEE Engineering in Medicine and Biology Society

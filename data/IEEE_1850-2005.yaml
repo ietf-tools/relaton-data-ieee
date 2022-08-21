@@ -1,9 +1,9 @@
 ---
 id: IEEE1850-2005
 title:
-- type: main
-  content: IEEE Standard for Property Specification Language (PSL)
+- content: IEEE Standard for Property Specification Language (PSL)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1524461
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -71,8 +72,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2005'
 relation:
@@ -86,25 +88,25 @@ relation:
     formattedref:
       content: IEEE 1850-2010
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Patents
-- Trademarks
-- Specification languages
-- IEEE Standards Association
-- Design automation
-- ABV
-- assertion
-- assertion-based verification
-- assumption
-- cover
-- model checking
-- property
-- PSL
-- specification
-- temporal logic
-- verification
+- content: IEEE Standards
+- content: Patents
+- content: Trademarks
+- content: Specification languages
+- content: IEEE Standards Association
+- content: Design automation
+- content: ABV
+- content: assertion
+- content: assertion-based verification
+- content: assumption
+- content: cover
+- content: model checking
+- content: property
+- content: PSL
+- content: specification
+- content: temporal logic
+- content: verification
 editorialgroup:
   committee:
   - Corporate Advisory Group of the IEEE-SA Board of Governors

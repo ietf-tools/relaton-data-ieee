@@ -1,9 +1,9 @@
 ---
 id: IEEE1149.4-1999
 title:
-- type: main
-  content: IEEE Standard for a Mixed-Signal Test Bus
+- content: IEEE Standard for a Mixed-Signal Test Bus
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/841362
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2000'
 relation:
@@ -77,10 +79,10 @@ relation:
     formattedref:
       content: IEEE 1149.4-2010
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Mixed analog-digital integrated circuits
-- IEEE Std 1149.4-1999.pdf
+- content: Mixed analog-digital integrated circuits
+- content: IEEE Std 1149.4-1999.pdf
 editorialgroup:
   committee:
   - Test Technology of the IEEE Computer Society

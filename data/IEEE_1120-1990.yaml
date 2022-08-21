@@ -1,10 +1,10 @@
 ---
 id: IEEE1120-1990
 title:
-- type: main
-  content: IEEE Guide to the Factors to Be Considered in the Planning, Design, and
+- content: IEEE Guide to the Factors to Be Considered in the Planning, Design, and
     Installation of Submarine Power and Communications Cables
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/89821
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1990'
 relation:
@@ -78,14 +80,14 @@ relation:
     formattedref:
       content: IEEE 1120-2004
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Design methodology
-- Power cables
-- Underwater cables
-- Wire communication cables
-- Submarine power cable
-- Submarine communications cable
+- content: Design methodology
+- content: Power cables
+- content: Underwater cables
+- content: Wire communication cables
+- content: Submarine power cable
+- content: Submarine communications cable
 editorialgroup:
   committee:
   - Insulated Conductors of the IEEE Power and Energy Society

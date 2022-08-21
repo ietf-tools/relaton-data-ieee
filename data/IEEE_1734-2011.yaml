@@ -1,10 +1,10 @@
 ---
 id: IEEE1734-2011
 title:
-- type: main
-  content: IEEE Standard for Quality of Electronic and Software Intellectual Property
+- content: IEEE Standard for Quality of Electronic and Software Intellectual Property
     Used in System and System on Chip (SoC) Designs
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6035731
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,41 +69,42 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2011'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Electronic design automation and methodology
-- Design methodology
-- XML
-- Analog integrated circuits
-- Micromechanical devices
-- Semantics
-- AMS
-- analog and mixed signal
-- design environment
-- EDA
-- electronic design automation
-- electronic system level
-- ESL
-- IEEE 1734
-- implementation constraints
-- MEMS
-- microelectromechanical systems
-- QIP
-- Quality IP metrics
-- register transfer logic
-- RTL
-- SCRs
-- semantic consistency rules
-- use models
-- verification IP
-- VIP
-- XML design meta data
-- XML schema
+- content: IEEE standards
+- content: Electronic design automation and methodology
+- content: Design methodology
+- content: XML
+- content: Analog integrated circuits
+- content: Micromechanical devices
+- content: Semantics
+- content: AMS
+- content: analog and mixed signal
+- content: design environment
+- content: EDA
+- content: electronic design automation
+- content: electronic system level
+- content: ESL
+- content: IEEE 1734
+- content: implementation constraints
+- content: MEMS
+- content: microelectromechanical systems
+- content: QIP
+- content: Quality IP metrics
+- content: register transfer logic
+- content: RTL
+- content: SCRs
+- content: semantic consistency rules
+- content: use models
+- content: verification IP
+- content: VIP
+- content: XML design meta data
+- content: XML schema
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

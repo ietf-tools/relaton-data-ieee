@@ -1,9 +1,9 @@
 ---
 id: IEEE1581-2011
 title:
-- type: main
-  content: IEEE Standard for Static Component Interconnection Test Protocol and Architecture
+- content: IEEE Standard for Static Component Interconnection Test Protocol and Architecture
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5930310
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,28 +65,29 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2011'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Integrated circuit interconnections
-- Printed circuits
-- SDRAM
-- Memory architecture
-- Interconnected systems
-- board test
-- connectivity test
-- IEEE 1581
-- integrated circuit
-- interconnect test
-- interconnection test
-- memory device
-- test logic
-- test mode
-- transparent test mode
+- content: IEEE standards
+- content: Integrated circuit interconnections
+- content: Printed circuits
+- content: SDRAM
+- content: Memory architecture
+- content: Interconnected systems
+- content: board test
+- content: connectivity test
+- content: IEEE 1581
+- content: integrated circuit
+- content: interconnect test
+- content: interconnection test
+- content: memory device
+- content: test logic
+- content: test mode
+- content: transparent test mode
 editorialgroup:
   committee:
   - Test Technology of the IEEE Computer Society

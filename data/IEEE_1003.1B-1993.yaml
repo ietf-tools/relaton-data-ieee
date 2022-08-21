@@ -1,11 +1,11 @@
 ---
 id: IEEE1003.1b-1993
 title:
-- type: main
-  content: 'IEEE Standard for Information Technology - Portable Operating System Interfaces
+- content: 'IEEE Standard for Information Technology - Portable Operating System Interfaces
     (POSIX(TM)) - Part 1: System Application Program Interface (API) - Amendment 1:
     Realtime Extension [C language]'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/392641
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,33 +66,34 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1994'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Consumer electronics
-- C languages
-- Open systems
-- ANSI
-- Information technology
-- POSIX
-- real time
-- extensions
-- LAN
-- API
-- data processing
-- information interchange
-- open systems
-- realtime
-- computer interface
-- System configuration computer
-- Portable application
-- Operating system
-- C programming language
-- Application portability
+- content: IEEE Standards
+- content: Consumer electronics
+- content: C languages
+- content: Open systems
+- content: ANSI
+- content: Information technology
+- content: POSIX
+- content: real time
+- content: extensions
+- content: LAN
+- content: API
+- content: data processing
+- content: information interchange
+- content: open systems
+- content: realtime
+- content: computer interface
+- content: System configuration computer
+- content: Portable application
+- content: Operating system
+- content: C programming language
+- content: Application portability
 editorialgroup:
   committee:
   - Portable Applications of the IEEE Computer Society

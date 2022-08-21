@@ -1,10 +1,10 @@
 ---
 id: IEEE802.1Q-2014
 title:
-- type: main
-  content: IEEE Standard for Local and metropolitan area networks--Bridges and Bridged
+- content: IEEE Standard for Local and metropolitan area networks--Bridges and Bridged
     Networks
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6991462
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2014'
 relation:
@@ -85,32 +87,32 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Local area networks
-- Metropolitan area networks
-- Protofcols
-- Bridged circuits
-- Media Access Protocol
-- Virtual environments
-- Bridged Network
-- IEEE 802.1Q(TM)
-- LAN
-- local area network
-- MAC Bridge
-- metropolitan area networks
-- MSTP
-- Multiple Spanning Tree Protocol
-- Rapid Spanning Tree Protocol
-- RSTP
-- PBN
-- Provider Bridged Network
-- Shortest Path Bridging Protocol
-- SPB Protocol
-- Virtual Bridged Network
-- virtual LAN
-- VLAN Bridge
+- content: IEEE standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Protofcols
+- content: Bridged circuits
+- content: Media Access Protocol
+- content: Virtual environments
+- content: Bridged Network
+- content: IEEE 802.1Q(TM)
+- content: LAN
+- content: local area network
+- content: MAC Bridge
+- content: metropolitan area networks
+- content: MSTP
+- content: Multiple Spanning Tree Protocol
+- content: Rapid Spanning Tree Protocol
+- content: RSTP
+- content: PBN
+- content: Provider Bridged Network
+- content: Shortest Path Bridging Protocol
+- content: SPB Protocol
+- content: Virtual Bridged Network
+- content: virtual LAN
+- content: VLAN Bridge
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

@@ -1,10 +1,10 @@
 ---
 id: IEC61691.1-1-2011
 title:
-- type: main
-  content: 'IEC/IEEE International Standard - Behavioural languages - Part 1-1: VHDL
+- content: 'IEC/IEEE International Standard - Behavioural languages - Part 1-1: VHDL
     Language Reference Manual'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5967868
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,11 +67,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2008'
 relation:
 - type: updates
@@ -90,19 +92,19 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- Hardware design languages
-- Computer languages
-- Electronics packaging
-- Behavioral science
-- computer languages
-- electronic systems
-- hardware
-- hardware design
-- VHDL
+- content: IEEE Standards
+- content: IEC Standards
+- content: Hardware design languages
+- content: Computer languages
+- content: Electronics packaging
+- content: Behavioral science
+- content: computer languages
+- content: electronic systems
+- content: hardware
+- content: hardware design
+- content: VHDL
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

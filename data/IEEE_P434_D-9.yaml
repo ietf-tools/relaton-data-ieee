@@ -1,10 +1,10 @@
 ---
 id: IEEEP434/D-9
 title:
-- type: main
-  content: Unapproved IEEE Draft Guide for Functional Evaluation of Insulation Systems
+- content: Unapproved IEEE Draft Guide for Functional Evaluation of Insulation Systems
     for Large High-Voltage Machines (Revision of IEEE 434-1973)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4040211
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -45,11 +46,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2006'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: 29.080.30
   text: Insulation systems

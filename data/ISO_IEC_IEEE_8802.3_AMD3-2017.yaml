@@ -1,11 +1,11 @@
 ---
 id: ISO/IEC/IEEE8802.3/Amd3-2017
 title:
-- type: main
-  content: 'ISO/IEC/IEEE International Standard for Ethernet Amendment 3: Physical
+- content: 'ISO/IEC/IEEE International Standard for Ethernet Amendment 3: Physical
     Layer and Management Parameters for 25 Gb/s and 40 Gb/s Operation, Types 25GBASE-T
     and 40GBASE-T'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8314569
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,13 +65,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2018'
 relation:
 - type: adoptedFrom
@@ -83,29 +85,29 @@ relation:
     formattedref:
       content: IEEE 802.3bq-2016
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- ISO Standards
-- Ethernet
-- Local area networks
-- Metropolitan area networks
-- Physical layer
-- 25GBASE-T
-- 25 Gigabit Ethernet
-- 25GMII
-- 40GBASE-T
-- 40 Gigabit Ethernet
-- Auto-Negotiation
-- Ethernet
-- IEEE 802&#174;
-- IEEE 802.3&#8482;
-- IEEE 802.3bq&#8482;
-- Physical Coding Sublayer (PCS)
-- Physical Medium Attachment (PMA) sublayer
-- structured cabling
-- XLGMII
+- content: IEEE Standards
+- content: IEC Standards
+- content: ISO Standards
+- content: Ethernet
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Physical layer
+- content: 25GBASE-T
+- content: 25 Gigabit Ethernet
+- content: 25GMII
+- content: 40GBASE-T
+- content: 40 Gigabit Ethernet
+- content: Auto-Negotiation
+- content: Ethernet
+- content: IEEE 802&#174;
+- content: IEEE 802.3&#8482;
+- content: IEEE 802.3bq&#8482;
+- content: Physical Coding Sublayer (PCS)
+- content: Physical Medium Attachment (PMA) sublayer
+- content: structured cabling
+- content: XLGMII
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

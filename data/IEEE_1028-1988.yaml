@@ -1,9 +1,9 @@
 ---
 id: IEEE1028-1988
 title:
-- type: main
-  content: IEEE Standard Software Reviews and Audits
+- content: IEEE Standard Software Reviews and Audits
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/29123
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,19 +62,20 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1989'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Computer industry
-- Software engineering
-- Standards
-- reviews
-- audits
-- Software quality
-- Software development management
+- content: Computer industry
+- content: Software engineering
+- content: Standards
+- content: reviews
+- content: audits
+- content: Software quality
+- content: Software development management
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

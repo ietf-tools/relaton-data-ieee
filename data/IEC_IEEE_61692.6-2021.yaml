@@ -1,10 +1,10 @@
 ---
 id: IEC/IEEE61692.6-2021
 title:
-- type: main
-  content: 'IEC/IEEE International Standard-Behavioural languages–Part 6: VHDL Analog
+- content: 'IEC/IEEE International Standard-Behavioural languages–Part 6: VHDL Analog
     and Mixed-Signal Extensions'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9456808
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,11 +64,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2021'
 relation:
 - type: adoptedFrom
@@ -80,21 +82,21 @@ relation:
     formattedref:
       content: IEEE 1076.1-2017
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- VHDL
-- Hardware design languages
-- Computer languages
-- analog design
-- computer
-- computer languages
-- hardware design
-- IEEE 1076&#8482;
-- IEEE 1076.1&#8482;
-- mixed-signal design
-- VHDL
+- content: IEEE Standards
+- content: IEC Standards
+- content: VHDL
+- content: Hardware design languages
+- content: Computer languages
+- content: analog design
+- content: computer
+- content: computer languages
+- content: hardware design
+- content: IEEE 1076&#8482;
+- content: IEEE 1076.1&#8482;
+- content: mixed-signal design
+- content: VHDL
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

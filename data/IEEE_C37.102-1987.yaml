@@ -1,9 +1,9 @@
 ---
 id: IEEEC37.102-1987
 title:
-- type: main
-  content: IEEE Guide for AC Generator Protection
+- content: IEEE Guide for AC Generator Protection
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/19520
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,8 +62,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1987'
 relation:
@@ -76,14 +78,14 @@ relation:
     formattedref:
       content: IEEE C37.102-1995
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Protective relaying
-- Synchronous generators
-- generator
-- protection
-- guide
+- content: IEEE standards
+- content: Protective relaying
+- content: Synchronous generators
+- content: generator
+- content: protection
+- content: guide
 editorialgroup:
   committee:
   - Power System Relaying and Control of the IEEE Power and Energy Society

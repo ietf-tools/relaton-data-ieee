@@ -1,11 +1,11 @@
 ---
 id: IEC/IEEEFDISP61850.9-3-2016-03
 title:
-- type: main
-  content: 'IEC/IEEE Draft International Standard - Communication networks and systems
+- content: 'IEC/IEEE Draft International Standard - Communication networks and systems
     for power utility automation Part 9-3: Precision time protocol profile for power
     utility automation'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7442715
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,20 +68,21 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2016'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- Communication networks
-- Automation
-- Power transmission lines
-- Power distribution
+- content: IEEE Standards
+- content: IEC Standards
+- content: Communication networks
+- content: Automation
+- content: Power transmission lines
+- content: Power distribution
 editorialgroup:
   committee:
   - Power System Relaying of the IEEE Power and Energy Society

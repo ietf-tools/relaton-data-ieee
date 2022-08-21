@@ -1,12 +1,12 @@
 ---
 id: IEEE802.11z-2010
 title:
-- type: main
-  content: 'IEEE Standard for Information technology-- Local and metropolitan area
+- content: 'IEEE Standard for Information technology-- Local and metropolitan area
     networks-- Specific requirements-- Part 11: Wireless LAN Medium Access Control
     (MAC) and Physical Layer (PHY) specifications Amendment 7: Extensions to Direct-Link
     Setup (DLS)'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5605400
   type: src
@@ -36,8 +36,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,8 +67,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2010'
 relation:
@@ -88,17 +90,17 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Information technology
-- Local area networks
-- Metropolitan area networks
-- channel switching
-- direct link
-- off-channel direct link
-- power saving
-- tunneled directlink setup
+- content: IEEE standards
+- content: Information technology
+- content: Local area networks
+- content: Metropolitan area networks
+- content: channel switching
+- content: direct link
+- content: off-channel direct link
+- content: power saving
+- content: tunneled directlink setup
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

@@ -1,12 +1,12 @@
 ---
 id: IEC/IEEE63195.2
 title:
-- type: main
-  content: 'IEC/IEEE International Standard - Assessment of power density of human
+- content: 'IEC/IEEE International Standard - Assessment of power density of human
     exposure to radio frequency fields from wireless devices in close proximity to
     the head and body (frequency range of 6 GHz to 300 GHz)--Part 2: Computational
     procedure'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9770556
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -54,21 +55,22 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2022'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- Frequency measurement
-- Power system measurement
-- Density measurement
-- Human factors
-- Radiation detection
+- content: IEEE Standards
+- content: IEC Standards
+- content: Frequency measurement
+- content: Power system measurement
+- content: Density measurement
+- content: Human factors
+- content: Radiation detection
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

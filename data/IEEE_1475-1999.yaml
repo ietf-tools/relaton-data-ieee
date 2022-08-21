@@ -1,10 +1,10 @@
 ---
 id: IEEE1475-1999
 title:
-- type: main
-  content: IEEE Standard for the Functioning of and Interfaces Among Propulsion, Friction
+- content: IEEE Standard for the Functioning of and Interfaces Among Propulsion, Friction
     Brake, and Train-borne Master Control on Rail Rapid Transit Vehicles
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/789961
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,20 +63,21 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1999'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Rail transportation
-- friction brake
-- interfacaes
-- master control
-- propulson
-- rail vehicles
-- rapid transit
+- content: IEEE Standards
+- content: Rail transportation
+- content: friction brake
+- content: interfacaes
+- content: master control
+- content: propulson
+- content: rail vehicles
+- content: rapid transit
 editorialgroup:
   committee:
   - Rail Transportation Standards Committee of the IEEE Vehicular Technology Society

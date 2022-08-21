@@ -1,9 +1,9 @@
 ---
 id: IEEE45-2002
 title:
-- type: main
-  content: IEEE Recommended Practice for Electric Installations on Shipboard
+- content: IEEE Recommended Practice for Electric Installations on Shipboard
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1041371
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -60,21 +61,22 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2002'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Industries
-- Marine transportation
-- Safety
-- Insurance
-- marine electrical engineering
-- marine vessels
-- shipboard systems
-- ships
+- content: IEEE Standards
+- content: Industries
+- content: Marine transportation
+- content: Safety
+- content: Insurance
+- content: marine electrical engineering
+- content: marine vessels
+- content: shipboard systems
+- content: ships
 editorialgroup:
   committee:
   - Petroleum &amp; Chemical Industry of the IEEE Industry Applications Society

@@ -1,10 +1,10 @@
 ---
 id: IEEE2413-2019
 title:
-- type: main
-  content: IEEE Standard for an Architectural Framework for the Internet of Things
+- content: IEEE Standard for an Architectural Framework for the Internet of Things
     (IoT)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9032420
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,18 +68,19 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2019'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Computer architecture
-- Internet of Things
-- architectural framework
-- IEEE 2413
-- Internet of Things (IoT)
+- content: IEEE Standards
+- content: Computer architecture
+- content: Internet of Things
+- content: architectural framework
+- content: IEEE 2413
+- content: Internet of Things (IoT)
 editorialgroup:
   committee:
   - Corporate Advisory Group of the IEEE SA Board of Governors

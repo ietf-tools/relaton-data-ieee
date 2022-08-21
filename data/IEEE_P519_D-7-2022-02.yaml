@@ -1,9 +1,9 @@
 ---
 id: IEEEP519/D-7-2022-02
 title:
-- type: main
-  content: IEEE Approved Draft Standard for Harmonic Control in Electric Power Systems
+- content: IEEE Approved Draft Standard for Harmonic Control in Electric Power Systems
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9703322
   type: src
@@ -29,8 +29,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2022'
 relation:
@@ -87,15 +89,15 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Power systems quality
-- Harmonic analysis
-- harmonics
-- IEEE 519
-- power quality
-- steady-state
+- content: IEEE Standards
+- content: Power systems quality
+- content: Harmonic analysis
+- content: harmonics
+- content: IEEE 519
+- content: power quality
+- content: steady-state
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society

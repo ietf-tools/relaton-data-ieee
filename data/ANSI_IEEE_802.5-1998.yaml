@@ -1,11 +1,11 @@
 ---
 id: ANSI/IEEE802.5-1998
 title:
-- type: main
-  content: 'IEEE Information Technology - Telecommunications and information exchange
+- content: 'IEEE Information Technology - Telecommunications and information exchange
     between systems - Local and metropolitan area networks - Part 5: Token ring access
     method and physical layer specifications'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8941590
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -77,27 +78,29 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - American National Standards Institute
-    abbreviation: ANSI
+    - content: American National Standards Institute
+    abbreviation:
+      content: ANSI
     url: https://www.ansi.org
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1998'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Local area networks
-- Metropolitan area networks
-- Information exchange
-- Physical layer
-- Information technology
-- Token networks
-- data processing interconnection
-- local area network (LAN)
-- medium access control (MAC)
-- token ring
+- content: IEEE Standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Information exchange
+- content: Physical layer
+- content: Information technology
+- content: Token networks
+- content: data processing interconnection
+- content: local area network (LAN)
+- content: medium access control (MAC)
+- content: token ring
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

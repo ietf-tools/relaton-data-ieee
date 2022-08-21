@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE675-1982
 title:
-- type: main
-  content: IEEE Standard Multiple Controllers in a CAMAC Crate (Computer Automated
+- content: IEEE Standard Multiple Controllers in a CAMAC Crate (Computer Automated
     Measurement and Control)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/27875
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,18 +63,19 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1982'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- CAMAC
-- Standards
-- multiple
-- controllers
-- CAMAC
-- crate
+- content: CAMAC
+- content: Standards
+- content: multiple
+- content: controllers
+- content: CAMAC
+- content: crate
 editorialgroup:
   committee:
   - Nuclear Instruments and Detectors of the IEEE Nuclear and Plasma Sciences Society

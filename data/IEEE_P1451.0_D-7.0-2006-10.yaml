@@ -1,11 +1,11 @@
 ---
 id: IEEEP1451.0/D-7.0-2006-10
 title:
-- type: main
-  content: Unapproved IEEE Draft Standard for a Smart Transducer Interface for Sensors
+- content: Unapproved IEEE Draft Standard for a Smart Transducer Interface for Sensors
     and Actuators - Common Functions, Communication Protocols, and Transducer Electronic
     Data Sheet (TEDS) Formats
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4152483
   type: src
@@ -27,8 +27,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -46,11 +47,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2006'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: 25.040.40
   text: Industrial process measurement and control

@@ -1,12 +1,12 @@
 ---
 id: ISO/IEC/IEEE8802.1X/Amd2-2013
 title:
-- type: main
-  content: 'ISO/IEC/IEEE International Standard - Telecommunications and exchange
+- content: 'ISO/IEC/IEEE International Standard - Telecommunications and exchange
     between information technology systems -- Requirements for local and metropolitan
     area networks--Part 1X: Port-based network access control AMENDMENT 2: YANG data
     model'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9263413
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,13 +66,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2020'
 relation:
 - type: updates
@@ -91,36 +93,36 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ISO Standards
-- IEC Standards
-- Information exchange
-- Access control
-- Local area networks
-- Metropolitan area networks
-- amendment
-- authorized port
-- confidentiality
-- data model
-- data origin authenticity
-- IEEE 802.1X&#8482;
-- IEEE 802.1Xck&#8482;
-- information model
-- integrity
-- LANs
-- local area networks
-- MAC Bridges
-- MAC security
-- MAC Service
-- MANs
-- metropolitan area networks
-- port-based network access control
-- secure association
-- security
-- transparent bridging
-- YANG
+- content: IEEE Standards
+- content: ISO Standards
+- content: IEC Standards
+- content: Information exchange
+- content: Access control
+- content: Local area networks
+- content: Metropolitan area networks
+- content: amendment
+- content: authorized port
+- content: confidentiality
+- content: data model
+- content: data origin authenticity
+- content: IEEE 802.1X&#8482;
+- content: IEEE 802.1Xck&#8482;
+- content: information model
+- content: integrity
+- content: LANs
+- content: local area networks
+- content: MAC Bridges
+- content: MAC security
+- content: MAC Service
+- content: MANs
+- content: metropolitan area networks
+- content: port-based network access control
+- content: secure association
+- content: security
+- content: transparent bridging
+- content: YANG
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

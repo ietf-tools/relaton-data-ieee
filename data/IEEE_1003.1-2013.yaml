@@ -1,10 +1,10 @@
 ---
 id: IEEE1003.1-2013
 title:
-- type: main
-  content: Standard for Information Technology—Portable Operating System Interface
+- content: Standard for Information Technology—Portable Operating System Interface
     (POSIX(TM)) Base Specifications, Issue 7
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6506091
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,46 +68,47 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - Open Group
+    - content: Open Group
   from: '2013'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Operating systems
-- Application programming interfaces
-- File systems
-- Information technology
-- application program interface (API)
-- argument
-- asynchronous
-- basic regular expression (BRE)
-- batch job
-- batch system
-- built-in utility
-- byte
-- child
-- command language interpreter
-- CPU
-- extended regular expression (ERE)
-- FIFO
-- file access control mechanism
-- IEEE 1003.1(TM)
-- input/output (I/O)
-- job control
-- network
-- parent
-- portable operating system interface (POSIX(TM))
-- shell
-- stream
-- string
-- synchronous
-- system
-- thread
-- X/Open System Interface (XSI)
+- content: IEEE standards
+- content: Operating systems
+- content: Application programming interfaces
+- content: File systems
+- content: Information technology
+- content: application program interface (API)
+- content: argument
+- content: asynchronous
+- content: basic regular expression (BRE)
+- content: batch job
+- content: batch system
+- content: built-in utility
+- content: byte
+- content: child
+- content: command language interpreter
+- content: CPU
+- content: extended regular expression (ERE)
+- content: FIFO
+- content: file access control mechanism
+- content: IEEE 1003.1(TM)
+- content: input/output (I/O)
+- content: job control
+- content: network
+- content: parent
+- content: portable operating system interface (POSIX(TM))
+- content: shell
+- content: stream
+- content: string
+- content: synchronous
+- content: system
+- content: thread
+- content: X/Open System Interface (XSI)
 editorialgroup:
   committee:
   - Portable Applications of the IEEE Computer Society

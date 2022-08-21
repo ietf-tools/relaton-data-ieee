@@ -1,10 +1,10 @@
 ---
 id: ISO/IEC10861
 title:
-- type: main
-  content: 'ISO/IEC Standard for Information Technology- Microprocessor Systems- High-Performance
+- content: 'ISO/IEC Standard for Information Technology- Microprocessor Systems- High-Performance
     Synchronous 32-Bit Bus: Multibus II'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4140846
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,17 +70,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1994'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- high performance synchronous
-- synchronous 32 bit bus
-- multibus
-- multibus II
-- system bus architectures
+- content: high performance synchronous
+- content: synchronous 32 bit bus
+- content: multibus
+- content: multibus II
+- content: system bus architectures
 editorialgroup:
   committee:
   - Microprocessor Standards Committee of the IEEE Computer Society

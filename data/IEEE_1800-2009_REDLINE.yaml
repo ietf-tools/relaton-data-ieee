@@ -1,14 +1,14 @@
 ---
 id: IEEE1800-2009Redline
 title:
-- type: title-main
-  content: IEEE Standard for SystemVerilog--Unified Hardware Design, Specification,
+- content: IEEE Standard for SystemVerilog--Unified Hardware Design, Specification,
     and Verification Language
   format: text/plain
-- type: main
-  content: IEEE Standard for SystemVerilog--Unified Hardware Design, Specification,
+  type: title-main
+- content: IEEE Standard for SystemVerilog--Unified Hardware Design, Specification,
     and Verification Language - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5985443
   type: src
@@ -36,8 +36,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,8 +70,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2011'
 relation:
@@ -101,27 +103,27 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Hardware design languages
-- Computer languages
-- Design automation
-- Formal verification
-- CADCAM
-- 1800-2009
-- 1364-2005
-- assertions
-- design automation
-- design verification
-- hardware description language
-- HDL
-- HDVL
-- PLI
-- programming language interface
-- SystemVerilog
-- Verilog
-- VPI
+- content: IEEE standards
+- content: Hardware design languages
+- content: Computer languages
+- content: Design automation
+- content: Formal verification
+- content: CADCAM
+- content: 1800-2009
+- content: 1364-2005
+- content: assertions
+- content: design automation
+- content: design verification
+- content: hardware description language
+- content: HDL
+- content: HDVL
+- content: PLI
+- content: programming language interface
+- content: SystemVerilog
+- content: Verilog
+- content: VPI
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

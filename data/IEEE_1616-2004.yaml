@@ -1,9 +1,9 @@
 ---
 id: IEEE1616-2004
 title:
-- type: main
-  content: IEEE Standard for Motor Vehicle Event Data Recorder (MVEDR)
+- content: IEEE Standard for Motor Vehicle Event Data Recorder (MVEDR)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1408446
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,21 +66,22 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2005'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Accidents
-- IEEE Standards
-- Patents
-- Injuries
-- Licenses
-- Safety
-- Crash data
-- event data recorder
-- motor vehicle
+- content: Accidents
+- content: IEEE Standards
+- content: Patents
+- content: Injuries
+- content: Licenses
+- content: Safety
+- content: Crash data
+- content: event data recorder
+- content: motor vehicle
 editorialgroup:
   committee:
   - Intelligent Transportation Systems of the IEEE Vehicular Technology Society

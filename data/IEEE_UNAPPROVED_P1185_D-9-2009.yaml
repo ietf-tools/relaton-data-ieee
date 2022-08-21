@@ -1,10 +1,10 @@
 ---
 id: IEEEUnapprovedP1185/D-9-2009
 title:
-- type: main
-  content: IEEE Recommended Practices for Cable Installation in Generating Stations
+- content: IEEE Recommended Practices for Cable Installation in Generating Stations
     and Industrial Facilities
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5276046
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -55,15 +56,16 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Generating stations
-- Cables
+- content: IEEE standards
+- content: Generating stations
+- content: Cables
 ics:
 - code: 29.060.20
   text: Cables

@@ -1,9 +1,9 @@
 ---
 id: IEEE2030.7-2017
 title:
-- type: main
-  content: IEEE Standard for the Specification of Microgrid Controllers
+- content: IEEE Standard for the Specification of Microgrid Controllers
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8340204
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,29 +66,30 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2017'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Microgrids
-- Energy management
-- Resource management
-- Power distribution
-- Energy storage
-- distributed energy resources
-- distributed energy storage
-- distributed generation
-- electric distribution systems
-- energy management system
-- IEEE 2030.7(TM)
-- interconnection agreement and requirements
-- islanding
-- microgrid
-- microgrid controller
-- power quality
+- content: IEEE Standards
+- content: Microgrids
+- content: Energy management
+- content: Resource management
+- content: Power distribution
+- content: Energy storage
+- content: distributed energy resources
+- content: distributed energy storage
+- content: distributed generation
+- content: electric distribution systems
+- content: energy management system
+- content: IEEE 2030.7(TM)
+- content: interconnection agreement and requirements
+- content: islanding
+- content: microgrid
+- content: microgrid controller
+- content: power quality
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society

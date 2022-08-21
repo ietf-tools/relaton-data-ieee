@@ -1,12 +1,12 @@
 ---
 id: IEEE2410-2019Redline
 title:
-- type: title-main
-  content: IEEE Standard for Biometric Open Protocol
+- content: IEEE Standard for Biometric Open Protocol
   format: text/plain
-- type: main
-  content: IEEE Standard for Biometric Open Protocol - Redline
+  type: title-main
+- content: IEEE Standard for Biometric Open Protocol - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8866813
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,8 +68,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2019'
 relation:
@@ -99,15 +101,15 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Biometrics
-- Security
-- Protocols
-- This standard provides a biometric-agnostic security protocol for authentication
-- identification
-- and liveness.
+- content: IEEE Standards
+- content: Biometrics
+- content: Security
+- content: Protocols
+- content: This standard provides a biometric-agnostic security protocol for authentication
+- content: identification
+- content: and liveness.
 editorialgroup:
   committee:
   - Edge, Fog, Cloud Communications with IOT and Big Data Standards Committee of the

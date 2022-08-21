@@ -1,9 +1,9 @@
 ---
 id: IEEE1074.1-1995
 title:
-- type: main
-  content: IEEE Guide for Developing Software Life Cycle Processes
+- content: IEEE Guide for Developing Software Life Cycle Processes
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/511093
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,19 +63,20 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1996'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Software standards
-- software life cycle
-- processes
-- cycle model
-- activities
-- mapping
-- developing software
+- content: Software standards
+- content: software life cycle
+- content: processes
+- content: cycle model
+- content: activities
+- content: mapping
+- content: developing software
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

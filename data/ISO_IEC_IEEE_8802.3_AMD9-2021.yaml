@@ -1,12 +1,12 @@
 ---
 id: ISO/IEC/IEEE8802.3/Amd9-2021
 title:
-- type: main
-  content: 'IEEE/ISO/IEC International Standard-Telecommunications and exchange between
+- content: 'IEEE/ISO/IEC International Standard-Telecommunications and exchange between
     information technology systems — Requirements for local and metropolitan area
     networks — Part 3: Standard for Ethernet AMENDMENT 9: Physical layer specifications
     and management parameters for 25 Gb/s and 50 Gb/s passive optical networks'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9650819
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -72,13 +73,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2021'
 relation:
 - type: adoptedFrom
@@ -91,31 +93,31 @@ relation:
     formattedref:
       content: IEEE 802.3ca-2020
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Ethernet
-- EPON
-- Physical layer
-- Passive optical networks
-- Local area networks
-- Metropolitan area networks
-- Information technology
-- ISO Standards
-- IEC Standards
-- 25 Gb/s Ethernet passive optical networks (25G-EPON)
-- 50 Gb/s Ethernet passive optical networks (50G-EPON)
-- amendment
-- forward error correction (FEC)
-- IEEE 802.3
-- IEEE 802.3ca
-- Multi-Channel Reconciliation Sublayer (MCRS)
-- Multipoint MAC Control (MPMC)
-- Physical Coding Sublayer (PCS)
-- Physical Media Attachment (PMA)
-- Physical Medium Dependent (PMD)
-- PON
-- Point-to-Multipoint (P2MP)
+- content: IEEE Standards
+- content: Ethernet
+- content: EPON
+- content: Physical layer
+- content: Passive optical networks
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Information technology
+- content: ISO Standards
+- content: IEC Standards
+- content: 25 Gb/s Ethernet passive optical networks (25G-EPON)
+- content: 50 Gb/s Ethernet passive optical networks (50G-EPON)
+- content: amendment
+- content: forward error correction (FEC)
+- content: IEEE 802.3
+- content: IEEE 802.3ca
+- content: Multi-Channel Reconciliation Sublayer (MCRS)
+- content: Multipoint MAC Control (MPMC)
+- content: Physical Coding Sublayer (PCS)
+- content: Physical Media Attachment (PMA)
+- content: Physical Medium Dependent (PMD)
+- content: PON
+- content: Point-to-Multipoint (P2MP)
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

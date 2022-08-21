@@ -1,11 +1,11 @@
 ---
 id: IEEEUnapprovedP1505.1/D-9-2008-05
 title:
-- type: main
-  content: IEEE Draft Trial-Use Standard for the Common Test Interface Pin Map Configuration
+- content: IEEE Draft Trial-Use Standard for the Common Test Interface Pin Map Configuration
     for High-Density, Single-Tier Electronics Test Requirements Utilizing IEEE Std
     1505
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4540140
   type: src
@@ -27,8 +27,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,11 +63,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2008'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: 31.220.10
   text: Plug-and-socket devices

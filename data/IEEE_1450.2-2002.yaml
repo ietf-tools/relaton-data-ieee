@@ -1,10 +1,10 @@
 ---
 id: IEEE1450.2-2002
 title:
-- type: main
-  content: IEEE Standard for Extensions to Standard Test Interface Language (STIL)
+- content: IEEE Standard for Extensions to Standard Test Interface Language (STIL)
     (IEEE Std 1450-1999) for DC Level Specification
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1188779
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,31 +62,32 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2003'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Test equipment
-- Trademarks
-- Handheld computers
-- Periodic structures
-- Power supplies
-- automated test equipment (ATE)
-- comparator
-- DC levels
-- device power supply (DPS)
-- device under test (DUT)
-- driver
-- driver termination
-- dynamic load
-- functional test
-- parametric measurement unit (PMU)
-- power sequence
-- slew rate
-- voltage clamp
+- content: IEEE Standards
+- content: Test equipment
+- content: Trademarks
+- content: Handheld computers
+- content: Periodic structures
+- content: Power supplies
+- content: automated test equipment (ATE)
+- content: comparator
+- content: DC levels
+- content: device power supply (DPS)
+- content: device under test (DUT)
+- content: driver
+- content: driver termination
+- content: dynamic load
+- content: functional test
+- content: parametric measurement unit (PMU)
+- content: power sequence
+- content: slew rate
+- content: voltage clamp
 editorialgroup:
   committee:
   - Test Technology of the IEEE Computer Society

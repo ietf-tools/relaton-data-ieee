@@ -1,12 +1,12 @@
 ---
 id: IEEEC57.13.1-2006Redline
 title:
-- type: title-main
-  content: IEEE Guide for Field Testing of Relaying Current Transformers
+- content: IEEE Guide for Field Testing of Relaying Current Transformers
   format: text/plain
-- type: main
-  content: IEEE Guide for Field Testing of Relaying Current Transformers - Redline
+  type: title-main
+- content: IEEE Guide for Field Testing of Relaying Current Transformers - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6046079
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2011'
 relation:
@@ -96,21 +98,21 @@ relation:
     formattedref:
       content: IEEE C57.13.1-2017
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Transformers
-- Current transformers
-- Testing
-- Polarization
-- Excitons
-- current transformers
-- excitation
-- field testing
-- insulation
-- polarity
-- ratio
-- relaying
+- content: IEEE standards
+- content: Transformers
+- content: Current transformers
+- content: Testing
+- content: Polarization
+- content: Excitons
+- content: current transformers
+- content: excitation
+- content: field testing
+- content: insulation
+- content: polarity
+- content: ratio
+- content: relaying
 editorialgroup:
   committee:
   - Power System Relaying and Control of the IEEE Power and Energy Society

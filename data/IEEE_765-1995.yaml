@@ -1,10 +1,10 @@
 ---
 id: IEEE765-1995
 title:
-- type: main
-  content: IEEE Standard for Preferred Power Supply (PPS) for Nuclear Power Generating
+- content: IEEE Standard for Preferred Power Supply (PPS) for Nuclear Power Generating
     Stations
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/696976
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,8 +67,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1995'
 relation:
@@ -98,18 +100,18 @@ relation:
     formattedref:
       content: IEEE 765-2002
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Nuclear power generation auxiliary systems
-- Power supplies
-- Substation switching
-- Power transmission control
-- IEEE standards
-- alternate ac source
-- PPS
-- switchyard
-- transmission system
-- preferred power supply
+- content: Nuclear power generation auxiliary systems
+- content: Power supplies
+- content: Substation switching
+- content: Power transmission control
+- content: IEEE standards
+- content: alternate ac source
+- content: PPS
+- content: switchyard
+- content: transmission system
+- content: preferred power supply
 editorialgroup:
   committee:
   - Nuclear Power Engineering of the IEEE Power and Energy Society

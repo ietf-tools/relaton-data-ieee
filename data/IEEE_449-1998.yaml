@@ -1,9 +1,9 @@
 ---
 id: IEEE449-1998
 title:
-- type: main
-  content: IEEE Standard for Ferroresonant Voltage Regulators
+- content: IEEE Standard for Ferroresonant Voltage Regulators
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/789958
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -60,17 +61,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1999'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Ferroresonant circuits
-- controlled ferroresonant regulators
-- ferroresonant transformer regulators
-- series feroresonant regulators
-- series-parallel ferroresonant regulators
+- content: Ferroresonant circuits
+- content: controlled ferroresonant regulators
+- content: ferroresonant transformer regulators
+- content: series feroresonant regulators
+- content: series-parallel ferroresonant regulators
 editorialgroup:
   committee:
   - Standards Committee of the IEEE Power Electronics Society

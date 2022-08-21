@@ -1,10 +1,10 @@
 ---
 id: ISO/IEC/IEEE15939-2017
 title:
-- type: main
-  content: ISO/IEC/IEEE International Standard - Systems and software engineering--Measurement
+- content: ISO/IEC/IEEE International Standard - Systems and software engineering--Measurement
     process
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7907158
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -72,13 +73,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2017'
 relation:
 - type: updates
@@ -98,25 +100,25 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ISO Standards
-- IEC Standards
-- Information analysis
-- Measurement
-- Terminology
-- Dictionaries
-- '15939'
-- measure
-- measurement
-- information needs
-- data
-- process
-- base measure
-- derived measure
-- indicator
-- measurable concept
+- content: IEEE Standards
+- content: ISO Standards
+- content: IEC Standards
+- content: Information analysis
+- content: Measurement
+- content: Terminology
+- content: Dictionaries
+- content: '15939'
+- content: measure
+- content: measurement
+- content: information needs
+- content: data
+- content: process
+- content: base measure
+- content: derived measure
+- content: indicator
+- content: measurable concept
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

@@ -1,10 +1,10 @@
 ---
 id: ANSIPN42.38/D-12-15
 title:
-- type: main
-  content: Approved Draft American National Standard Performance Criteria for Spectroscopy
+- content: Approved Draft American National Standard Performance Criteria for Spectroscopy
     Based Portal Monitors Used for Homeland Security
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7314846
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -59,12 +60,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - American National Standards Institute
-    abbreviation: ANSI
+    - content: American National Standards Institute
+    abbreviation:
+      content: ANSI
     url: https://www.ansi.org
   from: '2016'
 relation:
@@ -85,16 +88,16 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- ANSI Standards
-- Spectroscopy
-- Monitoring
-- US Department of Home Security
-- Security
-- spectrometric
-- portal monitor
-- spectroscopy
+- content: ANSI Standards
+- content: Spectroscopy
+- content: Monitoring
+- content: US Department of Home Security
+- content: Security
+- content: spectrometric
+- content: portal monitor
+- content: spectroscopy
 editorialgroup:
   committee:
   - Radiation Instrumentation of the Accredited Standards Committee N42

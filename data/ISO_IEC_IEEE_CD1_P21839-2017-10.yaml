@@ -1,10 +1,10 @@
 ---
 id: ISO/IEC/IEEECD1P21839-2017-10
 title:
-- type: main
-  content: ISO/IEC/IEEE Draft International Standard - Systems and Software Engineering
+- content: ISO/IEC/IEEE Draft International Standard - Systems and Software Engineering
     - Systems of Systems Considerations in Engineering of Systems
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8080315
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,21 +69,22 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2017'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- ISO Standards
-- Software engineering
-- Systems engineering and theory
+- content: IEEE Standards
+- content: IEC Standards
+- content: ISO Standards
+- content: Software engineering
+- content: Systems engineering and theory
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

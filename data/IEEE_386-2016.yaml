@@ -1,10 +1,10 @@
 ---
 id: IEEE386-2016
 title:
-- type: main
-  content: IEEE Standard for Separable Insulated Connector Systems for Power Distribution
+- content: IEEE Standard for Separable Insulated Connector Systems for Power Distribution
     Systems Rated 2.5 kV through 35 kV
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7592838
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2016'
 relation:
@@ -84,21 +86,21 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Connectors
-- Load management
-- Power distribution planning
-- Insulated connector systems
-- Elbow connectors
-- deadbreak connector
-- elbow connector
-- IEEE 386(TM)
-- loadbreak connector
-- power distribution systems
-- separable conductor
-- separable insulated connector systems
+- content: IEEE Standards
+- content: Connectors
+- content: Load management
+- content: Power distribution planning
+- content: Insulated connector systems
+- content: Elbow connectors
+- content: deadbreak connector
+- content: elbow connector
+- content: IEEE 386(TM)
+- content: loadbreak connector
+- content: power distribution systems
+- content: separable conductor
+- content: separable insulated connector systems
 editorialgroup:
   committee:
   - Insulated Conductors of the IEEE Power and Energy Society

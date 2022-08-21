@@ -1,10 +1,10 @@
 ---
 id: ANSIPC63.2/D-7-2016-09
 title:
-- type: main
-  content: Approved Draft American National Standard for Specifications of Electromagnetic
+- content: Approved Draft American National Standard for Specifications of Electromagnetic
     Noise and Field Strength Instrumentation for the frequency range 9 kHz to 40 GHz
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7727921
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -59,12 +60,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - American National Standards Institute
-    abbreviation: ANSI
+    - content: American National Standards Institute
+    abbreviation:
+      content: ANSI
     url: https://www.ansi.org
   from: '2016'
 relation:
@@ -85,22 +88,22 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- ANSI Standards
-- Electromagnetic interference
-- Receivers
-- Electromagnetic compatibility
-- Frequency measurement
-- Instrumentation and measurement
-- ANSI C63.2
-- electromagnetic compatibility
-- electromagnetic interference
-- field strength measurement instrumentation
-- EMI Receiver
-- quasi-peak detection
-- peak detection
-- average detection
+- content: ANSI Standards
+- content: Electromagnetic interference
+- content: Receivers
+- content: Electromagnetic compatibility
+- content: Frequency measurement
+- content: Instrumentation and measurement
+- content: ANSI C63.2
+- content: electromagnetic compatibility
+- content: electromagnetic interference
+- content: field strength measurement instrumentation
+- content: EMI Receiver
+- content: quasi-peak detection
+- content: peak detection
+- content: average detection
 ics:
 - code: 33.100.01
   text: Electromagnetic compatibility in general

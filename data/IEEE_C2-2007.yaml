@@ -1,9 +1,9 @@
 ---
 id: IEEEC2-2007
 title:
-- type: main
-  content: National Electrical Safety Code 2007 Edition
+- content: National Electrical Safety Code 2007 Edition
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4116784
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,23 +69,24 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2006'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Safety
-- NIST
-- Grounding
-- Trademarks
-- Consumer electronics
-- communications industry safety; construction of communication lines; construction
-  of electric supply lines; electrical safety; electric supply stations; electric
-  utility stations; high-voltage safety; operation of communications sys­tems; operation
-  of electric supply systems; power station equipment; power station safety; public
-  utility safety; safety work rules; underground communication line safety; underground
-  electric line safety.
+- content: Safety
+- content: NIST
+- content: Grounding
+- content: Trademarks
+- content: Consumer electronics
+- content: communications industry safety; construction of communication lines; construction
+    of electric supply lines; electrical safety; electric supply stations; electric
+    utility stations; high-voltage safety; operation of communications sys­tems; operation
+    of electric supply systems; power station equipment; power station safety; public
+    utility safety; safety work rules; underground communication line safety; underground
+    electric line safety.
 ics:
 - code: '13.260'
   text: Protection against electric shock. Live working

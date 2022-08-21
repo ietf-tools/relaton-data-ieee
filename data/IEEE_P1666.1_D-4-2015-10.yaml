@@ -1,10 +1,10 @@
 ---
 id: IEEEP1666.1/D-4-2015-10
 title:
-- type: main
-  content: IEEE Draft SystemC Analog/Mixed-Signal (AMS) extensions Language Reference
+- content: IEEE Draft SystemC Analog/Mixed-Signal (AMS) extensions Language Reference
     Manual
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7293581
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,43 +66,44 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2015'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Analog circuits
-- Behavioral science
-- Hardware design languages
-- System-on-chip
-- Design automation
-- Electrical systems
-- Computer languages
-- Data models
-- analog mixed signal
-- behavioral modeling
-- C++
-- computer languages
-- data flow simulation
-- digital systems
-- discrete event simulation
-- electronic design automation
-- electronic system level
-- electronic systems
-- electrical networks
-- hardware description language
-- hardware design
-- hardware verification
-- IEEE 1666
-- IEEE 1666.1
-- mixed-signal modeling
-- SystemC
-- SystemC AMS
-- signal flow modeling
-- system modeling
-- system-on-chip
+- content: IEEE Standards
+- content: Analog circuits
+- content: Behavioral science
+- content: Hardware design languages
+- content: System-on-chip
+- content: Design automation
+- content: Electrical systems
+- content: Computer languages
+- content: Data models
+- content: analog mixed signal
+- content: behavioral modeling
+- content: C++
+- content: computer languages
+- content: data flow simulation
+- content: digital systems
+- content: discrete event simulation
+- content: electronic design automation
+- content: electronic system level
+- content: electronic systems
+- content: electrical networks
+- content: hardware description language
+- content: hardware design
+- content: hardware verification
+- content: IEEE 1666
+- content: IEEE 1666.1
+- content: mixed-signal modeling
+- content: SystemC
+- content: SystemC AMS
+- content: signal flow modeling
+- content: system modeling
+- content: system-on-chip
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

@@ -1,9 +1,9 @@
 ---
 id: IEEE730-1998
 title:
-- type: main
-  content: Standard for Software Quality Assurance Plans
+- content: Standard for Software Quality Assurance Plans
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/720573
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1998'
 relation:
@@ -94,17 +96,17 @@ relation:
     formattedref:
       content: IEEE 730-2002
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Software quality
-- critical design review
-- preliminary design review
-- software configuration management plan
-- software design description
-- software quality assurance plan
-- software requirements review
-- software requirements specification
-- software verification and validation plan
+- content: Software quality
+- content: critical design review
+- content: preliminary design review
+- content: software configuration management plan
+- content: software design description
+- content: software quality assurance plan
+- content: software requirements review
+- content: software requirements specification
+- content: software verification and validation plan
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

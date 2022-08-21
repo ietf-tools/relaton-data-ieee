@@ -1,10 +1,10 @@
 ---
 id: IEC/IEEE63113-2021
 title:
-- type: main
-  content: IEC/IEEE International Standard--Nuclear facilities--Instrumentation important
+- content: IEC/IEEE International Standard--Nuclear facilities--Instrumentation important
     to safety--Spent fuel pool instrumentation
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9415470
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -75,20 +76,21 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2021'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- Nuclear power generation
-- Instrumentation
-- Safety
-- Power system reliability
+- content: IEEE Standards
+- content: IEC Standards
+- content: Nuclear power generation
+- content: Instrumentation
+- content: Safety
+- content: Power system reliability
 editorialgroup:
   committee:
   - Nuclear Power Engineering of the IEEE Power and Energy Society

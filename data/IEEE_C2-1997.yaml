@@ -1,9 +1,9 @@
 ---
 id: IEEEC2-1997
 title:
-- type: main
-  content: National Electric Safety Code (NESC), 1997 Edition
+- content: National Electric Safety Code (NESC), 1997 Edition
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6188485
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -70,25 +71,26 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1996'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- National Electrical Safety Code - c2
-- Voltage control
-- Power distribution lines
-- Power generation
-- Substations
-- Electricity supply industry
-- communications industry safety; construction of communication lines; construction
-  of electric supply lines; electric supply stations
-- electric utility stations; electrical safety; high-voltage safety; operation of
-  communications systems; operation of electric supply systems; power station equipment;
-  power station safety; public utility safety; safety work rules; underground communication
-  line safety; underground electric line safety
+- content: IEEE standards
+- content: National Electrical Safety Code - c2
+- content: Voltage control
+- content: Power distribution lines
+- content: Power generation
+- content: Substations
+- content: Electricity supply industry
+- content: communications industry safety; construction of communication lines; construction
+    of electric supply lines; electric supply stations
+- content: electric utility stations; electrical safety; high-voltage safety; operation
+    of communications systems; operation of electric supply systems; power station
+    equipment; power station safety; public utility safety; safety work rules; underground
+    communication line safety; underground electric line safety
 ics:
 - code: '13.260'
   text: Protection against electric shock. Live working

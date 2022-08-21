@@ -1,10 +1,10 @@
 ---
 id: IEEE802.1D-2004
 title:
-- type: main
-  content: 'IEEE Standard for Local and metropolitan area networks: Media Access Control
+- content: 'IEEE Standard for Local and metropolitan area networks: Media Access Control
     (MAC) Bridges'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1309630
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2004'
 relation:
@@ -86,30 +88,30 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Standards
-- Protocols
-- Media Access Protocol
-- Bridges
-- Patents
-- Local area networks
-- active topology
-- filtering
-- GARP
-- GMRP
-- LANs
-- local area networds
-- MAC Bridges
-- MAC Service
-- MANS
-- metropolitan area networks
-- multicast registration
-- transparent bridging
-- quality of service
-- RSTP
-- spanning tree
+- content: IEEE Standards
+- content: Standards
+- content: Protocols
+- content: Media Access Protocol
+- content: Bridges
+- content: Patents
+- content: Local area networks
+- content: active topology
+- content: filtering
+- content: GARP
+- content: GMRP
+- content: LANs
+- content: local area networds
+- content: MAC Bridges
+- content: MAC Service
+- content: MANS
+- content: metropolitan area networks
+- content: multicast registration
+- content: transparent bridging
+- content: quality of service
+- content: RSTP
+- content: spanning tree
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

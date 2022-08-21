@@ -1,9 +1,9 @@
 ---
 id: IEEE1788-2015
 title:
-- type: main
-  content: IEEE Standard for Interval Arithmetic
+- content: IEEE Standard for Interval Arithmetic
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7140721
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,23 +70,24 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2015'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Arithmetics
-- Interval arithmetic
-- arithmetic
-- computing
-- decoration
-- enclosure
-- hull
-- interval
-- operation
-- verified
+- content: IEEE Standards
+- content: Arithmetics
+- content: Interval arithmetic
+- content: arithmetic
+- content: computing
+- content: decoration
+- content: enclosure
+- content: hull
+- content: interval
+- content: operation
+- content: verified
 editorialgroup:
   committee:
   - Microprocessor Standards Committee of the IEEE Computer Society

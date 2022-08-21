@@ -1,9 +1,9 @@
 ---
 id: IEEE1101.4-1993
 title:
-- type: main
-  content: IEEE Standard for Military Module, Format E Form Factor
+- content: IEEE Standard for Military Module, Format E Form Factor
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/392546
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,23 +63,24 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1993'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Military computing
-- Connectors
-- Military standards
-- Backplanes
-- Consumer electronics
-- backplane
-- Printed wiring board (PWB)
-- Module interface plane
-- 396-pin connector
-- 250-pin connector
+- content: IEEE Standards
+- content: Military computing
+- content: Connectors
+- content: Military standards
+- content: Backplanes
+- content: Consumer electronics
+- content: backplane
+- content: Printed wiring board (PWB)
+- content: Module interface plane
+- content: 396-pin connector
+- content: 250-pin connector
 editorialgroup:
   committee:
   - Microprocessor Standards Committee of the IEEE Computer Society

@@ -1,13 +1,13 @@
 ---
 id: IEEEUnapprovedP802.3av/D-3.0-2009-01
 title:
-- type: main
-  content: 'IEEE Draft Standard for Information Technolog --Telecommunications and
+- content: 'IEEE Draft Standard for Information Technolog --Telecommunications and
     Information Exchange Between Systems--Local and Metropolitan Area Networks-- Specific
     Requirements Part 3: Carrier Sense Multiple Access With Collision Detection (CSMA/CD)
     Access Method and Physical Layer Specifications Amendment: Physical Layer Pecifications
     and Management Parameters for 10 Gb/s Passive Optical Networks'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4783135
   type: src
@@ -29,8 +29,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -59,11 +60,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: '35.110'
   text: Networking

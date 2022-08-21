@@ -1,11 +1,11 @@
 ---
 id: ANSIC57.12.57-1987
 title:
-- type: main
-  content: American National Standard for Transformers - Ventilated Dry-Type Network
+- content: American National Standard for Transformers - Ventilated Dry-Type Network
     Transformers 2500 kVA and Below, Three-Phase, With High-Voltage 34 500 Volts and
     Below, Low-Voltage 216Y/125 and 480Y/277 Volts - Requirements
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1388757
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   role:
   - publisher
@@ -46,17 +47,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1987'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ANSI Standards
-- Power transformers
-- Low voltage
-- Ventilation
+- content: IEEE Standards
+- content: ANSI Standards
+- content: Power transformers
+- content: Low voltage
+- content: Ventilation
 editorialgroup:
   committee:
   - Transformers Committee of the IEEE Power Engineering Society

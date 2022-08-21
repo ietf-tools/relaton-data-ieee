@@ -1,10 +1,10 @@
 ---
 id: IEEE1220-2005
 title:
-- type: main
-  content: IEEE Standard for Application and Management of the Systems Engineering
+- content: IEEE Standard for Application and Management of the Systems Engineering
     Process
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1511885
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2005'
 relation:
@@ -87,32 +89,32 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Systems engineering and theory
-- ISO Standards
-- Software
-- Portable document format
-- IEC Standards
-- acquire
-- analysis
-- architecture
-- building block
-- design
-- development
-- component
-- hardware
-- interface
-- life cycle processes
-- software
-- supplier
-- synthesis
-- system life cycle
-- system engineering
-- technical management
-- validation
-- verification
+- content: IEEE Standards
+- content: Systems engineering and theory
+- content: ISO Standards
+- content: Software
+- content: Portable document format
+- content: IEC Standards
+- content: acquire
+- content: analysis
+- content: architecture
+- content: building block
+- content: design
+- content: development
+- content: component
+- content: hardware
+- content: interface
+- content: life cycle processes
+- content: software
+- content: supplier
+- content: synthesis
+- content: system life cycle
+- content: system engineering
+- content: technical management
+- content: validation
+- content: verification
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

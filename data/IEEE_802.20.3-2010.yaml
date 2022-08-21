@@ -1,10 +1,10 @@
 ---
 id: IEEE802.20.3-2010
 title:
-- type: main
-  content: IEEE Standard for Minimum Performance Characteristics of IEEE 802.20 Terminals
+- content: IEEE Standard for Minimum Performance Characteristics of IEEE 802.20 Terminals
     and Base Stations/Access Nodes
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5456305
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,19 +63,20 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2010'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Base stations
-- 802.20.2-2010
-- LAN
-- MAN
-- mobile
-- wireless
+- content: IEEE standards
+- content: Base stations
+- content: 802.20.2-2010
+- content: LAN
+- content: MAN
+- content: mobile
+- content: wireless
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

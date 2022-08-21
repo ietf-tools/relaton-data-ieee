@@ -1,10 +1,10 @@
 ---
 id: IEEEPC37.09/D-1.3/Cor1-2020
 title:
-- type: main
-  content: IEEE Draft Standard Test Procedures for AC High-Voltage Circuit Breakers
+- content: IEEE Draft Standard Test Procedures for AC High-Voltage Circuit Breakers
     with Rated Maximum Voltage above 1000V - Corrigendum 1
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9264641
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -50,8 +51,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2020'
 relation:
@@ -72,12 +74,12 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Voltage control
-- AC machines
-- Circuit breakers
+- content: IEEE Standards
+- content: Voltage control
+- content: AC machines
+- content: Circuit breakers
 editorialgroup:
   committee:
   - Switchgear of the IEEE Power and Energy Society

@@ -1,10 +1,10 @@
 ---
 id: IEEE262
 title:
-- type: main
-  content: USA Standard Test Code for Distribution , Power and Regulating Transformers,
+- content: USA Standard Test Code for Distribution , Power and Regulating Transformers,
     and Shunt Reactors
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7387661
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,24 +65,26 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - American National Standards Institute
-    abbreviation: ANSI
+    - content: American National Standards Institute
+    abbreviation:
+      content: ANSI
     url: https://www.ansi.org
   from: '1968'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Shunts (electrical)
-- Inductors
-- Testing
-- Encoding
-- Power distribution planning
-- Power transformers
-- Transformers
+- content: IEEE Standards
+- content: Shunts (electrical)
+- content: Inductors
+- content: Testing
+- content: Encoding
+- content: Power distribution planning
+- content: Power transformers
+- content: Transformers
 editorialgroup:
   committee:
   - Transformers of the IEEE Power and Energy Society

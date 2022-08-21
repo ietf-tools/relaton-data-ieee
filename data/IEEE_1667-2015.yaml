@@ -1,10 +1,10 @@
 ---
 id: IEEE1667-2015
 title:
-- type: main
-  content: IEEE Standard for Discovery, Authentication, and Authorization in Host
+- content: IEEE Standard for Discovery, Authentication, and Authorization in Host
     Attachments of Storage Devices
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7389949
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2015'
 relation:
@@ -96,43 +98,43 @@ relation:
     formattedref:
       content: IEEE 1667-2018
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Authentication
-- Authorization
-- Storage devices
-- Knowledge discovery
-- Access controls
-- Trust management
-- Flash memory
-- Smart cards
-- Security
-- authentication
-- authorization
-- CF
-- compactflash
-- discovery
-- EMMC
-- IEEE 1667(TM)
-- password silo
-- probe silo
-- SAS
-- SATA
-- SCSI
-- SCTS
-- security
-- SILO
-- smart card transport silo
-- STID
-- storage
-- TCG storage transport silo
-- transport independent
-- trusted computing group
-- UAS
-- UFS
-- USB BOT
-- USB
+- content: IEEE Standards
+- content: Authentication
+- content: Authorization
+- content: Storage devices
+- content: Knowledge discovery
+- content: Access controls
+- content: Trust management
+- content: Flash memory
+- content: Smart cards
+- content: Security
+- content: authentication
+- content: authorization
+- content: CF
+- content: compactflash
+- content: discovery
+- content: EMMC
+- content: IEEE 1667(TM)
+- content: password silo
+- content: probe silo
+- content: SAS
+- content: SATA
+- content: SCSI
+- content: SCTS
+- content: security
+- content: SILO
+- content: smart card transport silo
+- content: STID
+- content: storage
+- content: TCG storage transport silo
+- content: transport independent
+- content: trusted computing group
+- content: UAS
+- content: UFS
+- content: USB BOT
+- content: USB
 editorialgroup:
   committee:
   - Cybersecurity and Privacy Standards Committee of the IEEE Computer Society

@@ -1,14 +1,14 @@
 ---
 id: IEEEC37.111-2013Redline
 title:
-- type: title-main
-  content: 'IEEE/IEC Measuring relays and protection equipment Part 24: Common format
+- content: 'IEEE/IEC Measuring relays and protection equipment Part 24: Common format
     for transient data exchange (COMTRADE) for power systems'
   format: text/plain
-- type: main
-  content: 'IEEE/IEC Measuring relays and protection equipment Part 24: Common format
+  type: title-main
+- content: 'IEEE/IEC Measuring relays and protection equipment Part 24: Common format
     for transient data exchange (COMTRADE) for power systems - Redline'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6654239
   type: src
@@ -36,8 +36,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,11 +69,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2013'
 relation:
 - type: updates
@@ -92,15 +94,15 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- IEC standards
-- Power systems planning
-- Image color analysis
-- Power distribution
-- Power system transients
-- Relays
+- content: IEEE standards
+- content: IEC standards
+- content: Power systems planning
+- content: Image color analysis
+- content: Power distribution
+- content: Power system transients
+- content: Relays
 editorialgroup:
   committee:
   - Power System Relaying of the IEEE Power &amp; Energy Society

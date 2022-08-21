@@ -1,12 +1,12 @@
 ---
 id: IEEE802.15.1-2005
 title:
-- type: main
-  content: 'IEEE Standard for Information technology-- Local and metropolitan area
+- content: 'IEEE Standard for Information technology-- Local and metropolitan area
     networks-- Specific requirements-- Part 15.1a: Wireless Medium Access Control
     (MAC) and Physical Layer (PHY) specifications for Wireless Personal Area Networks
     (WPAN)'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1490827
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,17 +62,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2005'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- WPAN
-- Personal Area Network
-- Bluetooth
-- ISM
-- Communications protocol
+- content: WPAN
+- content: Personal Area Network
+- content: Bluetooth
+- content: ISM
+- content: Communications protocol
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

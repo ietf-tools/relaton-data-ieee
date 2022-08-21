@@ -1,10 +1,10 @@
 ---
 id: IEC61671.4
 title:
-- type: main
-  content: IEC/IEEE International Standard - Standard for Automatic Test Markup Language
+- content: IEC/IEEE International Standard - Standard for Automatic Test Markup Language
     (ATML) Test Configuration
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7452515
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,31 +64,32 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2016'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- Automatic test equipment
-- XML
-- Test equipment
-- Markup languages
-- Indexes
-- ATML instance document
-- automatic test equipment (ATE)
-- Automatic Test Markup Language (ATML)
-- automatic test system (ATS)
-- IEEE 1671.4(TM)
-- Master Configuration Control Document (MCCD)
-- Master Test Program Set Index (MTPSI)
-- station configuration file
-- testconfiguration
-- XML schema
+- content: IEEE Standards
+- content: IEC Standards
+- content: Automatic test equipment
+- content: XML
+- content: Test equipment
+- content: Markup languages
+- content: Indexes
+- content: ATML instance document
+- content: automatic test equipment (ATE)
+- content: Automatic Test Markup Language (ATML)
+- content: automatic test system (ATS)
+- content: IEEE 1671.4(TM)
+- content: Master Configuration Control Document (MCCD)
+- content: Master Test Program Set Index (MTPSI)
+- content: station configuration file
+- content: testconfiguration
+- content: XML schema
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

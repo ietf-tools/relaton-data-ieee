@@ -1,9 +1,9 @@
 ---
 id: IEEE1057-1994
 title:
-- type: main
-  content: IEEE Standard for Digitizing Waveform Recorders
+- content: IEEE Standard for Digitizing Waveform Recorders
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/469117
   type: src
@@ -29,8 +29,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -56,8 +57,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1994'
 relation:
@@ -71,13 +73,13 @@ relation:
     formattedref:
       content: IEEE 1057-2007
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Analog-digital conversion
-- Electronic equipment testing
-- IEEE standards
-- Terminology
-- Oscilloscopes
+- content: Analog-digital conversion
+- content: Electronic equipment testing
+- content: IEEE standards
+- content: Terminology
+- content: Oscilloscopes
 editorialgroup:
   committee:
   - TC10 - Waveform Generation Measurement and Analysis of the IEEE Instrumentation

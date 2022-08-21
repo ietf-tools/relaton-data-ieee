@@ -1,10 +1,10 @@
 ---
 id: IEEEUnapprovedP802.1AS/D-6.0-2009-07
 title:
-- type: main
-  content: Draft Standard for Local and Metropolitan Area Networks--Timing and Synchronization
+- content: Draft Standard for Local and Metropolitan Area Networks--Timing and Synchronization
     for Time-Sensitive Applications in Bridged Local Area Networks
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5353096
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -56,11 +57,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: '35.110'
   text: Networking

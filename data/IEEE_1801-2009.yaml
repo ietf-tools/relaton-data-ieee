@@ -1,9 +1,9 @@
 ---
 id: IEEE1801-2009
 title:
-- type: main
-  content: IEEE Standard for Design and Verification of Low Power Integrated Circuits
+- content: IEEE Standard for Design and Verification of Low Power Integrated Circuits
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4809845
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -77,8 +78,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
 relation:
@@ -92,28 +94,28 @@ relation:
     formattedref:
       content: IEEE 1801-2013
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEEE Standards Association
-- Power integrated circuits
-- Design automation
-- Encapsulation
-- Warranties
-- 1801-2009
-- corruption semantics
-- interface specification
-- IP reuse
-- isolation
-- level-shifting
-- poweraware design
-- power intent
-- power domains
-- power modes
-- power states
-- progressive design refinement
-- retention
-- retention strategies
+- content: IEEE Standards
+- content: IEEE Standards Association
+- content: Power integrated circuits
+- content: Design automation
+- content: Encapsulation
+- content: Warranties
+- content: 1801-2009
+- content: corruption semantics
+- content: interface specification
+- content: IP reuse
+- content: isolation
+- content: level-shifting
+- content: poweraware design
+- content: power intent
+- content: power domains
+- content: power modes
+- content: power states
+- content: progressive design refinement
+- content: retention
+- content: retention strategies
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

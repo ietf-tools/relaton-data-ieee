@@ -1,10 +1,10 @@
 ---
 id: IEEE738-2006
 title:
-- type: main
-  content: IEEE Standard for Calculating the Current-Temperature of Bare Overhead
+- content: IEEE Standard for Calculating the Current-Temperature of Bare Overhead
     Conductors
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4085389
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2007'
 relation:
@@ -87,16 +89,16 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Conductors
-- Power engineering
-- Trademarks
-- Patents
-- Warranties
-- bare overhead lines
-- current-temperature relationship
+- content: IEEE Standards
+- content: Conductors
+- content: Power engineering
+- content: Trademarks
+- content: Patents
+- content: Warranties
+- content: bare overhead lines
+- content: current-temperature relationship
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society

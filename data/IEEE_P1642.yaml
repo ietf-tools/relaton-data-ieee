@@ -1,10 +1,10 @@
 ---
 id: IEEEP1642
 title:
-- type: main
-  content: IEEE Draft Recommended Practice for Protecting Public Accessible Computer
+- content: IEEE Draft Recommended Practice for Protecting Public Accessible Computer
     Systems from Intentional EMI
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6199933
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,19 +62,20 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2012'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Safety
-- Computers
-- Consumer protection
-- Electromagnetic interference
-- Electromagnetic devices
-- Computer peripherals
+- content: IEEE standards
+- content: Safety
+- content: Computers
+- content: Consumer protection
+- content: Electromagnetic interference
+- content: Electromagnetic devices
+- content: Computer peripherals
 editorialgroup:
   committee:
   - Standards Development Committee of the IEEE Electromagnetic Compatibility Society

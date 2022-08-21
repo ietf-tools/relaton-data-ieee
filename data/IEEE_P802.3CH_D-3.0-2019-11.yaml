@@ -1,10 +1,10 @@
 ---
 id: IEEEP802.3ch/D-3.0-2019-11
 title:
-- type: main
-  content: IEEE Draft Standard for Ethernet Physical Layer Specifications and Management
+- content: IEEE Draft Standard for Ethernet Physical Layer Specifications and Management
     Parameters for Greater Than 1 Gb/s Automotive Ethernet
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8910666
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -59,8 +60,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2019'
 relation:
@@ -81,16 +83,17 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Physical layer
-- Ethernet
-- Local area networks
-- Metropolitan area networks
-- Automotive engineeirng
-- 2.5GBASE-T1; 5GBASE-T1; 10GBASE-T1; Ethernet; IEEE 802.3ch; MASTER-SLAVE; Medium
-  Dependent Interface; Physical Coding Sublayer; Physical Layer; Physical Medium Attachment
+- content: IEEE Standards
+- content: Physical layer
+- content: Ethernet
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Automotive engineeirng
+- content: 2.5GBASE-T1; 5GBASE-T1; 10GBASE-T1; Ethernet; IEEE 802.3ch; MASTER-SLAVE;
+    Medium Dependent Interface; Physical Coding Sublayer; Physical Layer; Physical
+    Medium Attachment
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

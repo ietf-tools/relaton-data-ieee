@@ -1,10 +1,10 @@
 ---
 id: IEEE139-1952
 title:
-- type: main
-  content: IEEE Recommended Practice for Measurement of Field Intensity Above 300
+- content: IEEE Recommended Practice for Measurement of Field Intensity Above 300
     MC from Radio Frequency Industrial, Scientific, and Medical Equipment
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7362074
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1952'
 relation:
@@ -90,9 +92,9 @@ relation:
     formattedref:
       content: ANSI/IEEE 139-1988
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Biomedical equipment
-- Medical devices
-- Frequency measurement
+- content: IEEE Standards
+- content: Biomedical equipment
+- content: Medical devices
+- content: Frequency measurement

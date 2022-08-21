@@ -1,9 +1,9 @@
 ---
 id: ANSIC37.121-1989
 title:
-- type: main
-  content: American National Standard for Switchgear - Unit Substations - Requirements
+- content: American National Standard for Switchgear - Unit Substations - Requirements
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1389224
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,8 +67,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1989'
 relation:
@@ -91,11 +93,11 @@ relation:
     formattedref:
       content: IEEE C37.121-2012
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE C37.121
-- substations
-- switchgear
+- content: IEEE C37.121
+- content: substations
+- content: switchgear
 editorialgroup:
   committee:
   - Switchgear of the IEEE Power and Energy Society

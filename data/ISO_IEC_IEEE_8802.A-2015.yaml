@@ -1,11 +1,11 @@
 ---
 id: ISO/IEC/IEEE8802.A-2015
 title:
-- type: main
-  content: ISO/IEC/IEEE International Standard - Information technology --Telecommunications
+- content: ISO/IEC/IEEE International Standard - Information technology --Telecommunications
     and information exchange between systems -- Local and metropolitan area networks
     -- Overview and Architecture
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7347271
   type: src
@@ -35,8 +35,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,42 +70,43 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2015'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- ISO Standards
-- Ethernet
-- Local area networks
-- Metropolitan area networks
-- Information exchange
-- Body area networks
-- Personal area networks
-- BANs
-- body area networks
-- EtherTypes
-- IEEE 802(R)
-- IEEE 802 architecture
-- IEEE 802 reference model
-- LANs
-- local area networks
-- MANs
-- metropolitan area networks
-- object identifiers
-- PANs
-- personal area networks
-- RANs
-- regional area networks
-- protocol development
-- protocol types
+- content: IEEE Standards
+- content: IEC Standards
+- content: ISO Standards
+- content: Ethernet
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Information exchange
+- content: Body area networks
+- content: Personal area networks
+- content: BANs
+- content: body area networks
+- content: EtherTypes
+- content: IEEE 802(R)
+- content: IEEE 802 architecture
+- content: IEEE 802 reference model
+- content: LANs
+- content: local area networks
+- content: MANs
+- content: metropolitan area networks
+- content: object identifiers
+- content: PANs
+- content: personal area networks
+- content: RANs
+- content: regional area networks
+- content: protocol development
+- content: protocol types
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

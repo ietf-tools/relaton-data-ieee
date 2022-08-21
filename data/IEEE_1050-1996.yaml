@@ -1,10 +1,10 @@
 ---
 id: IEEE1050-1996
 title:
-- type: main
-  content: IEEE Guide for Instrumentation and Control Equipment Grounding in Generating
+- content: IEEE Guide for Instrumentation and Control Equipment Grounding in Generating
     Stations
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/531503
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1996'
 relation:
@@ -96,13 +98,13 @@ relation:
     formattedref:
       content: IEEE 1050-2004
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Power generation control
-- control equipment
-- generating stations
-- grounding
-- instrumentation
+- content: Power generation control
+- content: control equipment
+- content: generating stations
+- content: grounding
+- content: instrumentation
 editorialgroup:
   committee:
   - Energy Development &amp; Power Generation of the IEEE Power and Energy Society

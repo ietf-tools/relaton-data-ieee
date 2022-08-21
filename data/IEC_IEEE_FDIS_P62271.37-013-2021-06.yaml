@@ -1,10 +1,10 @@
 ---
 id: IEC/IEEEFDISP62271.37-013-2021-06
 title:
-- type: main
-  content: 'IEEE/IEC Approved Draft International Standard for High-Voltage Switchgear
+- content: 'IEEE/IEC Approved Draft International Standard for High-Voltage Switchgear
     and Controlgear -- Part 37-013: Alternating-Current Generator Circuit-Breakers'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9471074
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -50,11 +51,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2021'
 relation:
 - type: updates
@@ -74,15 +76,15 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- Switchgear
-- Power generation
-- Generators
-- High-voltage techniques
-- AC machines
+- content: IEEE Standards
+- content: IEC Standards
+- content: Switchgear
+- content: Power generation
+- content: Generators
+- content: High-voltage techniques
+- content: AC machines
 editorialgroup:
   committee:
   - Switchgear of the IEEE Power and Energy Society

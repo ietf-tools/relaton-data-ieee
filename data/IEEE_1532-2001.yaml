@@ -1,9 +1,9 @@
 ---
 id: IEEE1532-2001
 title:
-- type: main
-  content: IEEE Standard for In-System Configuration of Programmable Devices
+- content: IEEE Standard for In-System Configuration of Programmable Devices
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/977876
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,8 +67,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2001'
 relation:
@@ -88,19 +90,19 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Patents
-- Programming profession
-- Protocols
-- Integrated circuits
-- complex programmable logic device (CPLD)
-- erasable programmable read-onlymemory (EPROM)
-- field programmable gate array (FPGA)
-- flash ram
-- in-system (or in-situ)configuration (ISC)
-- programmable device
+- content: IEEE Standards
+- content: Patents
+- content: Programming profession
+- content: Protocols
+- content: Integrated circuits
+- content: complex programmable logic device (CPLD)
+- content: erasable programmable read-onlymemory (EPROM)
+- content: field programmable gate array (FPGA)
+- content: flash ram
+- content: in-system (or in-situ)configuration (ISC)
+- content: programmable device
 editorialgroup:
   committee:
   - Test Technology of the IEEE Computer Society

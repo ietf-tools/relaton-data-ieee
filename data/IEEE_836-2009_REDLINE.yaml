@@ -1,13 +1,13 @@
 ---
 id: IEEE836-2009Redline
 title:
-- type: title-main
-  content: IEEE Recommended Practice for Precision Centrifuge Testing of Linear Accelerometers
+- content: IEEE Recommended Practice for Precision Centrifuge Testing of Linear Accelerometers
   format: text/plain
-- type: main
-  content: IEEE Recommended Practice for Precision Centrifuge Testing of Linear Accelerometers
+  type: title-main
+- content: IEEE Recommended Practice for Precision Centrifuge Testing of Linear Accelerometers
     - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5981345
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,21 +69,22 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2011'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Accelerometers
-- Linear systems
-- Precision engineering
-- 836-2009
-- accelerometer
-- accelerometer test
-- centrifuge
-- linear accelerometer
+- content: IEEE standards
+- content: Accelerometers
+- content: Linear systems
+- content: Precision engineering
+- content: 836-2009
+- content: accelerometer
+- content: accelerometer test
+- content: centrifuge
+- content: linear accelerometer
 editorialgroup:
   committee:
   - Gyro Accelerometer Panel of the IEEE Aerospace and Electronic Systems Society

@@ -1,9 +1,9 @@
 ---
 id: IEEEC57.12.44-2005
 title:
-- type: main
-  content: IEEE Standard Requirements for Secondary Network Protectors
+- content: IEEE Standard Requirements for Secondary Network Protectors
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1642555
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2006'
 relation:
@@ -86,18 +88,18 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Patents
-- Power engineering
-- Safety
-- Trademarks
-- Warranties
-- grid network
-- network
-- protector
-- spot network
+- content: IEEE Standards
+- content: Patents
+- content: Power engineering
+- content: Safety
+- content: Trademarks
+- content: Warranties
+- content: grid network
+- content: network
+- content: protector
+- content: spot network
 editorialgroup:
   committee:
   - Transformers of the IEEE Power and Energy Society

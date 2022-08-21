@@ -1,9 +1,9 @@
 ---
 id: IEEE951-1988
 title:
-- type: main
-  content: IEEE Guide to the Assembly and Erection of Metal Transmission Structures
+- content: IEEE Guide to the Assembly and Erection of Metal Transmission Structures
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/26528
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,8 +67,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1988'
 relation:
@@ -81,11 +83,11 @@ relation:
     formattedref:
       content: IEEE 951-1996
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Poles and towers
-- Standards
-- Power transmission lines
+- content: Poles and towers
+- content: Standards
+- content: Power transmission lines
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society

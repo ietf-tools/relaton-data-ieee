@@ -1,11 +1,11 @@
 ---
 id: ISO/IEC/IEEEDISP21840-2019
 title:
-- type: main
-  content: ISO/IEC/IEEE International Draft Standard - Systems and Software Engineering
+- content: ISO/IEC/IEEE International Draft Standard - Systems and Software Engineering
     -- Guide for the Utilization of ISO/IEC/IEEE 15288 in the Context of System of
     Systems Engineering
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8692775
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -51,17 +52,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2019'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ISO Standards
-- IEC Standards
-- Software engineering
-- Systems engineering and theory
+- content: IEEE Standards
+- content: ISO Standards
+- content: IEC Standards
+- content: Software engineering
+- content: Systems engineering and theory
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

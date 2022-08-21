@@ -1,10 +1,10 @@
 ---
 id: IEEE/EIA12207.2-1997
 title:
-- type: main
-  content: IEEE/EIA Guide for Information Technology - Software Life Cycle Processes
+- content: IEEE/EIA Guide for Information Technology - Software Life Cycle Processes
     - Implementation Considerations
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/669110
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,33 +67,34 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1998'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- IEC standards
-- ISO standards
-- Information technology
-- 12207.2-1997
-- acquisition
-- agreement
-- assessment
-- audit
-- configuration management
-- development
-- maintenance
-- disposal
-- operation
-- process reference model
-- process improvement
-- quality assurance
-- retirement
-- supply
-- validation
-- verification
+- content: IEEE standards
+- content: IEC standards
+- content: ISO standards
+- content: Information technology
+- content: 12207.2-1997
+- content: acquisition
+- content: agreement
+- content: assessment
+- content: audit
+- content: configuration management
+- content: development
+- content: maintenance
+- content: disposal
+- content: operation
+- content: process reference model
+- content: process improvement
+- content: quality assurance
+- content: retirement
+- content: supply
+- content: validation
+- content: verification
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

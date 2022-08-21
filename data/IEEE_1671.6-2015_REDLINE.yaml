@@ -1,13 +1,13 @@
 ---
 id: IEEE1671.6-2015Redline
 title:
-- type: title-main
-  content: IEEE Standard for Automatic Test Markup Language (ATML) Test Station Description
+- content: IEEE Standard for Automatic Test Markup Language (ATML) Test Station Description
   format: text/plain
-- type: main
-  content: IEEE Standard for Automatic Test Markup Language (ATML) Test Station Description
+  type: title-main
+- content: IEEE Standard for Automatic Test Markup Language (ATML) Test Station Description
     - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7118621
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,24 +64,25 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2015'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- XML
-- Markup languages
-- Automatic test equipment
-- ATML
-- ATML instance document
-- automatic test equipment (ATE)
-- Automatic Test Markup Language (ATML)
-- automatic test system (ATS)
-- IEEE 1671.6(TM)
-- test station
-- XML schema
+- content: IEEE Standards
+- content: XML
+- content: Markup languages
+- content: Automatic test equipment
+- content: ATML
+- content: ATML instance document
+- content: automatic test equipment (ATE)
+- content: Automatic Test Markup Language (ATML)
+- content: automatic test system (ATS)
+- content: IEEE 1671.6(TM)
+- content: test station
+- content: XML schema
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

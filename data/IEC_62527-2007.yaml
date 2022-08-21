@@ -1,10 +1,10 @@
 ---
 id: IEC62527-2007
 title:
-- type: main
-  content: 'IEC 62527 Ed. 1 (IEEE Std 1450.2(TM)-2002): Standard for Extensions to
+- content: 'IEC 62527 Ed. 1 (IEEE Std 1450.2(TM)-2002): Standard for Extensions to
     Standard Test Interface Language (STIL) for DC Level Specification'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4410232
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   role:
   - publisher
@@ -63,31 +64,32 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2007'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEC Standards
-- IEC
-- Trademarks
-- Central office
-- Customer services
-- IEEE Standards
-- ": automated test equipment (ATE)"
-- comparator
-- DC levels
-- device power supply (DPS)
-- device under test (DUT)
-- driver
-- driver termination
-- dynamic load
-- functional test
-- parametric measurement unit (PMU)
-- power sequence
-- slew rate
-- voltage clamp
+- content: IEC Standards
+- content: IEC
+- content: Trademarks
+- content: Central office
+- content: Customer services
+- content: IEEE Standards
+- content: ": automated test equipment (ATE)"
+- content: comparator
+- content: DC levels
+- content: device power supply (DPS)
+- content: device under test (DUT)
+- content: driver
+- content: driver termination
+- content: dynamic load
+- content: functional test
+- content: parametric measurement unit (PMU)
+- content: power sequence
+- content: slew rate
+- content: voltage clamp
 editorialgroup:
   committee:
   - Test Technology of the IEEE Computer Society

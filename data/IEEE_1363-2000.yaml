@@ -1,9 +1,9 @@
 ---
 id: IEEE1363-2000
 title:
-- type: main
-  content: IEEE Standard Specifications for Public-Key Cryptography
+- content: IEEE Standard Specifications for Public-Key Cryptography
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/891000
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,17 +64,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2000'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- digital signature
-- encryption
-- key agreement
-- public-key cryptography
+- content: IEEE standards
+- content: digital signature
+- content: encryption
+- content: key agreement
+- content: public-key cryptography
 editorialgroup:
   committee:
   - Microprocessor Standards Committee of the IEEE Computer Society

@@ -1,9 +1,9 @@
 ---
 id: ANSI/IEEEC37.92-1969
 title:
-- type: main
-  content: ANSI American National Standard Guide for Induction Motor protection
+- content: ANSI American National Standard Guide for Induction Motor protection
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7444084
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -70,17 +71,19 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - American National Standards Institute
-    abbreviation: ANSI
+    - content: American National Standards Institute
+    abbreviation:
+      content: ANSI
     url: https://www.ansi.org
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1969'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ANSI Standards
-- Induction motors
-- Power system protection
+- content: IEEE Standards
+- content: ANSI Standards
+- content: Induction motors
+- content: Power system protection

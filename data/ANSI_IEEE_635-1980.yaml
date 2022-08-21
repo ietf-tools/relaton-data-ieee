@@ -1,9 +1,9 @@
 ---
 id: ANSI/IEEE635-1980
 title:
-- type: main
-  content: IEEE Guide for Selection and Design of Aluminum Sheaths for Power Cables
+- content: IEEE Guide for Selection and Design of Aluminum Sheaths for Power Cables
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/26665
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -59,8 +60,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1980'
 relation:
@@ -74,15 +76,15 @@ relation:
     formattedref:
       content: IEEE 635-1989
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Aluminum
-- Power cables
-- Standards
-- aluminum
-- sheaths
-- for
-- cables
+- content: Aluminum
+- content: Power cables
+- content: Standards
+- content: aluminum
+- content: sheaths
+- content: for
+- content: cables
 editorialgroup:
   committee:
   - Insulated Conductors of the IEEE Power and Energy Society

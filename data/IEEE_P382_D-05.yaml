@@ -1,11 +1,11 @@
 ---
 id: IEEEP382/D-05
 title:
-- type: main
-  content: Unapproved IEEE Draft Standard for Qualification for Actuators for Power
+- content: Unapproved IEEE Draft Standard for Qualification for Actuators for Power
     Operated Valve Assemblies With Safety-Related Functions for Nuclear Power Plants
     (Revision of IEEE 382-1996)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4039963
   type: src
@@ -27,8 +27,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -46,11 +47,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2006'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: 27.120.10
   text: Reactor engineering

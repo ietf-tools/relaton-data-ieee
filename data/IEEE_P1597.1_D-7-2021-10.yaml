@@ -1,10 +1,10 @@
 ---
 id: IEEEP1597.1/D-7-2021-10
 title:
-- type: main
-  content: IEEE Draft Standard for Validation of Computational Electromagnetics Computer
+- content: IEEE Draft Standard for Validation of Computational Electromagnetics Computer
     Modeling and Simulations
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9729931
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2022'
 relation:
@@ -85,26 +87,26 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Electromagnetic compatibility
-- Computational modeling
-- Signal integrity
-- Radar cross-sections
-- Computational electromagnetics
-- Antenna measurements
-- antennas
-- computational electromagnetics
-- convergence
-- electromagnetic compatibility
-- electromagnetic interference
-- modeling and simulation
-- numerical techniques
-- radar cross section
-- rating scale
-- signal integrity
-- validation
+- content: IEEE Standards
+- content: Electromagnetic compatibility
+- content: Computational modeling
+- content: Signal integrity
+- content: Radar cross-sections
+- content: Computational electromagnetics
+- content: Antenna measurements
+- content: antennas
+- content: computational electromagnetics
+- content: convergence
+- content: electromagnetic compatibility
+- content: electromagnetic interference
+- content: modeling and simulation
+- content: numerical techniques
+- content: radar cross section
+- content: rating scale
+- content: signal integrity
+- content: validation
 editorialgroup:
   committee:
   - Standards Development Committee of the IEEE Electromagnetic Compatibility Society

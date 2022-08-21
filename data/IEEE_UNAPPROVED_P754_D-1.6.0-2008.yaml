@@ -1,9 +1,9 @@
 ---
 id: IEEEUnapprovedP754/D-1.6.0-2008
 title:
-- type: main
-  content: IEEE Draft Standard for Floating-Point Arithmetic
+- content: IEEE Draft Standard for Floating-Point Arithmetic
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4447401
   type: src
@@ -25,8 +25,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -59,25 +60,26 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2008'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- computer
-- floating-point
-- arithmetic
-- rounding
-- format
-- interchange
-- number
-- binary
-- decimal
-- subnormal
-- NaN
-- significand
-- exponent.
+- content: computer
+- content: floating-point
+- content: arithmetic
+- content: rounding
+- content: format
+- content: interchange
+- content: number
+- content: binary
+- content: decimal
+- content: subnormal
+- content: NaN
+- content: significand
+- content: exponent.
 ics:
 - code: '07.020'
   text: Mathematics

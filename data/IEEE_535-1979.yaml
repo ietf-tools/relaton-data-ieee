@@ -1,10 +1,10 @@
 ---
 id: IEEE535-1979
 title:
-- type: main
-  content: IEEE Standard for Qualification of Class 1E Lead Storage Batteries for
+- content: IEEE Standard for Qualification of Class 1E Lead Storage Batteries for
     Nuclear Power Generating Stations
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7430204
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -77,8 +78,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1979'
 relation:
@@ -92,11 +94,11 @@ relation:
     formattedref:
       content: ANSI/IEEE 535-1986
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Batteries
-- Qualifications
-- Lead
-- Testing
-- Aging
+- content: IEEE Standards
+- content: Batteries
+- content: Qualifications
+- content: Lead
+- content: Testing
+- content: Aging

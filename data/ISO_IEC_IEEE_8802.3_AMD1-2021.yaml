@@ -1,12 +1,12 @@
 ---
 id: ISO/IEC/IEEE8802.3/Amd1-2021
 title:
-- type: main
-  content: 'IEEE/ISO/IEC International Standard-Telecommunications and exchange between
+- content: 'IEEE/ISO/IEC International Standard-Telecommunications and exchange between
     information technology systems — Requirements for local and metropolitan area
     networks —Part 3: Standard for Ethernet AMENDMENT 1: Physical layer specifications
     and management parameters for 2.5 Gb/s and 5 Gb/s operation over backplane'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9673685
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,13 +65,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2022'
 relation:
 - type: adoptedFrom
@@ -83,34 +85,34 @@ relation:
     formattedref:
       content: IEEE 802.3cb-2018
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- ISO Standards
-- Ethernet
-- Energy efficiency
-- Local area networks
-- Metropolitan area networks
-- Information exchange
-- Physical layer
-- 2.5 Gigabit Ethernet
-- 5 Gigabit Ethernet
-- 2.5GBASE-KX
-- 2.5GBASE-X
-- 5GBASE-KR
-- 5GBASE-R
-- amendment
-- AN
-- Auto-Negotiation
-- Backplane Ethernet
-- BASE-R
-- BASE-X
-- EEE
-- Energy Efficient Ethernet
-- Ethernet
-- IEEE 802.3
-- IEEE 802.3cb
+- content: IEEE Standards
+- content: IEC Standards
+- content: ISO Standards
+- content: Ethernet
+- content: Energy efficiency
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Information exchange
+- content: Physical layer
+- content: 2.5 Gigabit Ethernet
+- content: 5 Gigabit Ethernet
+- content: 2.5GBASE-KX
+- content: 2.5GBASE-X
+- content: 5GBASE-KR
+- content: 5GBASE-R
+- content: amendment
+- content: AN
+- content: Auto-Negotiation
+- content: Backplane Ethernet
+- content: BASE-R
+- content: BASE-X
+- content: EEE
+- content: Energy Efficient Ethernet
+- content: Ethernet
+- content: IEEE 802.3
+- content: IEEE 802.3cb
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

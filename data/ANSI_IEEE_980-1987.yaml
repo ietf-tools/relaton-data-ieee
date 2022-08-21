@@ -1,9 +1,9 @@
 ---
 id: ANSI/IEEE980-1987
 title:
-- type: main
-  content: IEEE Guide for Containment and Control of Oil Spills in Substations
+- content: IEEE Guide for Containment and Control of Oil Spills in Substations
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/26541
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1987'
 relation:
@@ -78,16 +80,16 @@ relation:
     formattedref:
       content: IEEE 980-1994
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Safety
-- Standards
-- Substations
-- oil spillage
-- regulation
-- substations
-- spill control
-- non-PCB oil
+- content: Safety
+- content: Standards
+- content: Substations
+- content: oil spillage
+- content: regulation
+- content: substations
+- content: spill control
+- content: non-PCB oil
 editorialgroup:
   committee:
   - Substations of the IEEE Power and Energy Society

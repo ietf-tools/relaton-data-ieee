@@ -1,10 +1,10 @@
 ---
 id: IEEE317
 title:
-- type: main
-  content: IEEE Standard for Electrical Penetration Assemblies in Containment Structures
+- content: IEEE Standard for Electrical Penetration Assemblies in Containment Structures
     for Nuclear Fueled Power Generating Stations
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9096952
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1971'
 relation:
@@ -80,11 +82,11 @@ relation:
     formattedref:
       content: IEEE 317-1972
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Nuclear power generation
-- Power generation
+- content: IEEE Standards
+- content: Nuclear power generation
+- content: Power generation
 editorialgroup:
   committee:
   - IEEE Nuclear and Plasma Sciences Society

@@ -1,9 +1,9 @@
 ---
 id: ANSI/IEEE770X3.97-1983
 title:
-- type: main
-  content: IEEE Standard Pascal Computer Programming Language
+- content: IEEE Standard Pascal Computer Programming Language
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/18485
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -60,19 +61,20 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1983'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- High-level languages
-- Standards
-- Pascal
-- programming language
-- syntax
-- semantics
-- programming
+- content: High-level languages
+- content: Standards
+- content: Pascal
+- content: programming language
+- content: syntax
+- content: semantics
+- content: programming
 editorialgroup:
   committee:
   - IEEE Computer Society

@@ -1,10 +1,10 @@
 ---
 id: IEEE802.3bt-2018
 title:
-- type: main
-  content: 'IEEE Standard for Ethernet Amendment 2: Physical Layer and Management
+- content: 'IEEE Standard for Ethernet Amendment 2: Physical Layer and Management
     Parameters for Power over Ethernet over 4 pairs'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8632920
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,8 +67,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2019'
 relation:
@@ -98,22 +100,22 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Local area networks
-- Metropolitan area networks
-- Ethernet
-- Physical layer
-- Power transmission
-- Power distribution
-- amendment
-- DTE power via MDI
-- Ethernet
-- IEEE 802.3(TM)
-- IEEE 802.3bt(TM)
-- PoE
-- Power over Ethernet
+- content: IEEE Standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Ethernet
+- content: Physical layer
+- content: Power transmission
+- content: Power distribution
+- content: amendment
+- content: DTE power via MDI
+- content: Ethernet
+- content: IEEE 802.3(TM)
+- content: IEEE 802.3bt(TM)
+- content: PoE
+- content: Power over Ethernet
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

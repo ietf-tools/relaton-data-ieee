@@ -1,12 +1,12 @@
 ---
 id: IEEEP802.11u/D-8.0
 title:
-- type: main
-  content: 'Draft STANDARD for Information Technology-Telecommunications and information
+- content: 'Draft STANDARD for Information Technology-Telecommunications and information
     exchange between systems-Local and metropolitan area networks-Specific requirements
     Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications
     Amendment 7: Interworking with External Networks'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5286939
   type: src
@@ -28,8 +28,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -59,29 +60,30 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- wireless LAN
-- interworking
-- interworking with external networks
-- E911
-- emergency services
-- interface
-- QoS mapping
-- MIH
-- media independent handover
-- network advertisement
-- network discovery
-- network selection
-- emergency alert system
-- SSP
-- SSPN
-- subscriber service provider
-- generic advertisement service.
+- content: wireless LAN
+- content: interworking
+- content: interworking with external networks
+- content: E911
+- content: emergency services
+- content: interface
+- content: QoS mapping
+- content: MIH
+- content: media independent handover
+- content: network advertisement
+- content: network discovery
+- content: network selection
+- content: emergency alert system
+- content: SSP
+- content: SSPN
+- content: subscriber service provider
+- content: generic advertisement service.
 ics:
 - code: '35.110'
   text: Networking

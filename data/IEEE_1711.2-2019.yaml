@@ -1,9 +1,9 @@
 ---
 id: IEEE1711.2-2019
 title:
-- type: main
-  content: IEEE Standard for Secure SCADA Communications Protocol (SSCP)
+- content: IEEE Standard for Secure SCADA Communications Protocol (SSCP)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8962396
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -73,27 +74,28 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2020'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- SCADA systems
-- Communication security
-- Cryptography
-- Data acquisition
-- communications protocol
-- confidentiality
-- cryptography
-- data acquisitions
-- IEEE 1711.2
-- integrity
-- SCADA
-- secure communications
-- SSCP
-- supervisory control
+- content: IEEE Standards
+- content: SCADA systems
+- content: Communication security
+- content: Cryptography
+- content: Data acquisition
+- content: communications protocol
+- content: confidentiality
+- content: cryptography
+- content: data acquisitions
+- content: IEEE 1711.2
+- content: integrity
+- content: SCADA
+- content: secure communications
+- content: SSCP
+- content: supervisory control
 editorialgroup:
   committee:
   - IEEE Power and Energy Society

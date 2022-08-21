@@ -1,9 +1,9 @@
 ---
 id: ANSI/IEEE726-1982
 title:
-- type: main
-  content: IEEE Standard Real-Time BASIC for CAMAC
+- content: IEEE Standard Real-Time BASIC for CAMAC
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/29061
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,20 +64,21 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1982'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- High-level languages
-- CAMAC
-- Standards
-- real
-- time
-- BASIC
-- CAMAC
-- Computer languages
+- content: High-level languages
+- content: CAMAC
+- content: Standards
+- content: real
+- content: time
+- content: BASIC
+- content: CAMAC
+- content: Computer languages
 editorialgroup:
   committee:
   - Nuclear Instruments and Detectors of the IEEE Nuclear and Plasma Sciences Society

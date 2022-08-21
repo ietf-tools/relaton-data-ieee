@@ -1,10 +1,10 @@
 ---
 id: IEEEP90003.2014-2015-02
 title:
-- type: main
-  content: IEEE Draft International Standard - Software Engineering -- Guidelines
+- content: IEEE Draft International Standard - Software Engineering -- Guidelines
     for the Application of ISO 9001:2008 to Computer Software
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7070637
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -50,21 +51,22 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2015'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Software engineering
-- IEC standards
-- ISO standards
-- Product life cycle management
+- content: IEEE Standards
+- content: Software engineering
+- content: IEC standards
+- content: ISO standards
+- content: Product life cycle management
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

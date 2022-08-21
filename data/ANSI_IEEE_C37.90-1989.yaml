@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEEC37.90-1989
 title:
-- type: main
-  content: IEEE Standard for Relays and Relay Systems Associated with Electric Power
+- content: IEEE Standard for Relays and Relay Systems Associated with Electric Power
     Apparatus
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/89887
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1989'
 relation:
@@ -94,12 +96,12 @@ relation:
     formattedref:
       content: IEEE C37.90-2005
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Protective relaying
-- Standards
-- Testing
-- Protective relaying
+- content: Protective relaying
+- content: Standards
+- content: Testing
+- content: Protective relaying
 editorialgroup:
   committee:
   - Power System Relaying and Control of the IEEE Power and Energy Society

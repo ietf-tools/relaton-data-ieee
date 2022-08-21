@@ -1,10 +1,10 @@
 ---
 id: ISO/IEC/IEEEP26514/D-1-2020-03
 title:
-- type: main
-  content: IEEE Draft International Standard - Systems and Software Engineering--Design
+- content: IEEE Draft International Standard - Systems and Software Engineering--Design
     and development of information for users
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9052823
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -50,13 +51,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2020'
 relation:
 - type: updates
@@ -93,12 +95,12 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Systems engineering and theory
-- Software engineering
-- Software design
+- content: IEEE Standards
+- content: Systems engineering and theory
+- content: Software engineering
+- content: Software design
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

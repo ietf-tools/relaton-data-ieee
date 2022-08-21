@@ -1,11 +1,11 @@
 ---
 id: ISO/IEC/IEEE26511-2018
 title:
-- type: main
-  content: ISO/IEC/IEEE International Standard - Systems and software engineering
+- content: ISO/IEC/IEEE International Standard - Systems and software engineering
     - Requirements for managers of information for users of systems, software, and
     services
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8584518
   type: src
@@ -35,8 +35,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -75,13 +76,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2018'
 relation:
 - type: updates
@@ -101,24 +103,24 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ISO Standards
-- IEC Standards
-- Systems engineering and theory
-- Software engineering
-- Requirements engineering
-- '26511'
-- development
-- information management
-- life cycle
-- productivity
-- quality
-- quality measurement
-- services
-- software
-- systems
+- content: IEEE Standards
+- content: ISO Standards
+- content: IEC Standards
+- content: Systems engineering and theory
+- content: Software engineering
+- content: Requirements engineering
+- content: '26511'
+- content: development
+- content: information management
+- content: life cycle
+- content: productivity
+- content: quality
+- content: quality measurement
+- content: services
+- content: software
+- content: systems
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

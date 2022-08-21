@@ -1,9 +1,9 @@
 ---
 id: IEEE957-1995
 title:
-- type: main
-  content: IEEE Guide for Cleaning Insulators
+- content: IEEE Guide for Cleaning Insulators
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/467558
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1995'
 relation:
@@ -94,13 +96,13 @@ relation:
     formattedref:
       content: IEEE 957-2005
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Insulator contamination
-- IEEE standards
-- cleaning
-- electrical
-- insulators
+- content: Insulator contamination
+- content: IEEE standards
+- content: cleaning
+- content: electrical
+- content: insulators
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society

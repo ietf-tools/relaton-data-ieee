@@ -1,10 +1,10 @@
 ---
 id: IEEEP802.3br/D-3.0-2016-01
 title:
-- type: main
-  content: 'IEEE Standard for Ethernet Amendment 5: Specification and Management Parameters
+- content: 'IEEE Standard for Ethernet Amendment 5: Specification and Management Parameters
     for Interspersing Express Traffic'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7397783
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -59,8 +60,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2016'
 relation:
@@ -91,20 +93,20 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Ethernet
-- Time measurement
-- Synchronization
-- Passive optical networks
-- IEEE 802.3 Standard
-- Ethernet
-- express traffic
-- IEEE 802&#174;
-- IEEE 802.3&#8482;
-- IEEE 802.3br&#8482;
-- preemption
+- content: IEEE Standards
+- content: Ethernet
+- content: Time measurement
+- content: Synchronization
+- content: Passive optical networks
+- content: IEEE 802.3 Standard
+- content: Ethernet
+- content: express traffic
+- content: IEEE 802&#174;
+- content: IEEE 802.3&#8482;
+- content: IEEE 802.3br&#8482;
+- content: preemption
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

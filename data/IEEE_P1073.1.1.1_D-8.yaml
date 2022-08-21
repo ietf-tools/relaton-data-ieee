@@ -1,10 +1,10 @@
 ---
 id: IEEEP1073.1.1.1/D-8
 title:
-- type: main
-  content: Unapproved IEEE Draft Standard for Health Informatics Point-Of-Care Medical
+- content: Unapproved IEEE Draft Standard for Health Informatics Point-Of-Care Medical
     Device
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4040038
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -45,11 +46,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2003'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: 01.040.35
   text: Information technology. Office machines (Vocabularies)

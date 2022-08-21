@@ -1,14 +1,14 @@
 ---
 id: IEEE317-2013Redline
 title:
-- type: title-main
-  content: IEEE Standard for Electric Penetration Assemblies in Containment Structures
+- content: IEEE Standard for Electric Penetration Assemblies in Containment Structures
     for Nuclear Power Generating Stations
   format: text/plain
-- type: main
-  content: IEEE Standard for Electric Penetration Assemblies in Containment Structures
+  type: title-main
+- content: IEEE Standard for Electric Penetration Assemblies in Containment Structures
     for Nuclear Power Generating Stations - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6655880
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -70,8 +71,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2013'
 relation:
@@ -92,40 +94,40 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Nuclear power generation
-- Low voltage electronics
-- Voltage control
-- Power generation
-- Power distribution planning
-- Safety
-- Accidents
-- Contingency management
-- aperture seals
-- class MC components
-- conductor seals
-- containment electric penetration assembly
-- containment penetrations
-- control power penetrations
-- DBE
-- design basis events
-- electric penetration assembly
-- electrical penetration assembly
-- fiber seals
-- IEEE 317
-- instrumentation penetrations
-- low voltage power penetrations
-- LVP
-- medium voltage power penetrations
-- module seals
-- MVP
-- penetration feedthroughs
-- penetration modules
-- qualified life
-- SAC
-- severe accident conditions
+- content: IEEE standards
+- content: Nuclear power generation
+- content: Low voltage electronics
+- content: Voltage control
+- content: Power generation
+- content: Power distribution planning
+- content: Safety
+- content: Accidents
+- content: Contingency management
+- content: aperture seals
+- content: class MC components
+- content: conductor seals
+- content: containment electric penetration assembly
+- content: containment penetrations
+- content: control power penetrations
+- content: DBE
+- content: design basis events
+- content: electric penetration assembly
+- content: electrical penetration assembly
+- content: fiber seals
+- content: IEEE 317
+- content: instrumentation penetrations
+- content: low voltage power penetrations
+- content: LVP
+- content: medium voltage power penetrations
+- content: module seals
+- content: MVP
+- content: penetration feedthroughs
+- content: penetration modules
+- content: qualified life
+- content: SAC
+- content: severe accident conditions
 editorialgroup:
   committee:
   - Nuclear Power Engineering of the IEEE Power and Energy Society

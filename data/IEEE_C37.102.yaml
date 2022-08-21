@@ -1,12 +1,12 @@
 ---
 id: IEEEC37.102
 title:
-- type: title-main
-  content: IEEE Guide for AC Generator Protection
+- content: IEEE Guide for AC Generator Protection
   format: text/plain
-- type: main
-  content: IEEE Guide for AC Generator Protection - Redline
+  type: title-main
+- content: IEEE Guide for AC Generator Protection - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5983359
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2011'
 relation:
@@ -86,16 +88,16 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Synchronous generators
-- Generators
-- Protection relays
-- AC motors
-- ac generator protection
-- relay protection
-- synchronous generator
+- content: IEEE standards
+- content: Synchronous generators
+- content: Generators
+- content: Protection relays
+- content: AC motors
+- content: ac generator protection
+- content: relay protection
+- content: synchronous generator
 editorialgroup:
   committee:
   - Power System Relaying and Control of the IEEE Power and Energy Society

@@ -1,12 +1,12 @@
 ---
 id: IEEE802.3r-1996
 title:
-- type: main
-  content: IEEE Standard Carrier Sense Multiple Access with Collision Detection (CSMA/CD)
+- content: IEEE Standard Carrier Sense Multiple Access with Collision Detection (CSMA/CD)
     Access Method and Physical Layer Specifications - Type 10BASE5 Medium Attachment
     Unit (MAU) Protocol Implementation Conformance Statement (PICS) Proforma (Subclause
     8.8)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/543527
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1996'
 relation:
@@ -85,16 +87,16 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Carrier sense multiaccess
-- dynamic conformance testing
-- medium attachment unit
-- MAU
-- PICS proforma
-- protocol implementation conformance
-- static conformance review
-- Type 10BASE5
+- content: Carrier sense multiaccess
+- content: dynamic conformance testing
+- content: medium attachment unit
+- content: MAU
+- content: PICS proforma
+- content: protocol implementation conformance
+- content: static conformance review
+- content: Type 10BASE5
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

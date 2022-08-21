@@ -1,10 +1,10 @@
 ---
 id: IEC62525
 title:
-- type: main
-  content: "(IEEE Std 1450-1999) International Standard Test Interface Language (STIL)
+- content: "(IEEE Std 1450-1999) International Standard Test Interface Language (STIL)
     for Digital Test Vector Data"
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4432411
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,33 +67,34 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2007'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEC Standards
-- Syntactics
-- IEC
-- Timing
-- IEEE Standards
-- Trademarks
-- automatic test pattern generator (ATPG)
-- built-in self-test (BIST)
-- computer-aided engineering (CAE)
-- cyclize
-- device under test (DUT)
-- digital test vectors
-- event
-- functional vectors
-- pattern
-- scan vectors
-- signal
-- structural vectors
-- timed event
-- waveform
-- waveshape
+- content: IEC Standards
+- content: Syntactics
+- content: IEC
+- content: Timing
+- content: IEEE Standards
+- content: Trademarks
+- content: automatic test pattern generator (ATPG)
+- content: built-in self-test (BIST)
+- content: computer-aided engineering (CAE)
+- content: cyclize
+- content: device under test (DUT)
+- content: digital test vectors
+- content: event
+- content: functional vectors
+- content: pattern
+- content: scan vectors
+- content: signal
+- content: structural vectors
+- content: timed event
+- content: waveform
+- content: waveshape
 editorialgroup:
   committee:
   - Test Technology of the IEEE Computer Society

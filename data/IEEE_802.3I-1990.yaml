@@ -1,11 +1,11 @@
 ---
 id: IEEE802.3i-1990
 title:
-- type: main
-  content: IEEE Standard for Local and Metropolitan Area Networks - System Considerations
+- content: IEEE Standard for Local and Metropolitan Area Networks - System Considerations
     for Multi-segment 10 Mb/S Baseband Networks (Section 13) and Twisted-Pair Medium
     Attachment Unit (MAU) and Baseband Medium, Type 10BASE-T (Section 14)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7508548
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1990'
 relation:
@@ -86,18 +88,18 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Local area networks
-- Twisted pair wiring
-- Metropolitan area networks
-- Baseband
-- LAN
-- medium
-- twisted pair
-- baseband
-- 10baset
+- content: IEEE Standards
+- content: Local area networks
+- content: Twisted pair wiring
+- content: Metropolitan area networks
+- content: Baseband
+- content: LAN
+- content: medium
+- content: twisted pair
+- content: baseband
+- content: 10baset
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

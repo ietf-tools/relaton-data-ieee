@@ -1,11 +1,11 @@
 ---
 id: IEEEC62.44-2016
 title:
-- type: main
-  content: IEEE Guide for the Application of Low-Voltage (1000 V rms or Less) Surge
+- content: IEEE Guide for the Application of Low-Voltage (1000 V rms or Less) Surge
     Protective Devices Used on Secondary Distribution Systems (Between the Transformer
     Low-Voltage Terminals and the Line Side of the Service Equipment)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7858618
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,18 +63,19 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2017'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Surge protection
-- Arresters
-- Power system protection
-- Surge protective device
-- secondary arrester
+- content: IEEE Standards
+- content: Surge protection
+- content: Arresters
+- content: Power system protection
+- content: Surge protective device
+- content: secondary arrester
 editorialgroup:
   committee:
   - Surge Protective Devices/Low Voltage of the IEEE Power and Energy Society

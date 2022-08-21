@@ -1,10 +1,10 @@
 ---
 id: IEEE463-1993
 title:
-- type: main
-  content: IEEE Standard for Electrical Safety Practices in Electrolytic Cell Line
+- content: IEEE Standard for Electrical Safety Practices in Electrolytic Cell Line
     Working Zones
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/392638
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,16 +65,17 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1994'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- electrical safety
-- Electrolytic cell line
-- Electrical conductor installation
-- Cell line working zone
+- content: electrical safety
+- content: Electrolytic cell line
+- content: Electrical conductor installation
+- content: Cell line working zone
 editorialgroup:
   committee:
   - Petroleum &amp; Chemical Industry of the IEEE Industry Applications Society

@@ -1,9 +1,9 @@
 ---
 id: IEEEC37.122-1993
 title:
-- type: main
-  content: IEEE Standard for Gas-Insulated Substations.
+- content: IEEE Standard for Gas-Insulated Substations.
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/392595
   type: src
@@ -29,8 +29,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -48,8 +49,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1994'
 relation:
@@ -90,7 +92,7 @@ relation:
     formattedref:
       content: IEEE C37.122-2010
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 editorialgroup:
   committee:
   - Substations of the IEEE Power and Energy Society

@@ -1,9 +1,9 @@
 ---
 id: IEEE2883-2022
 title:
-- type: main
-  content: IEEE Standard for Sanitizing Storage
+- content: IEEE Standard for Sanitizing Storage
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9856626
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -60,29 +61,30 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2022'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Cryptography
-- Data security
-- Data integrity
-- clear
-- crypto erase
-- cryptographic erase
-- crypto scramble
-- data destruct
-- data removal
-- destroy
-- IEEE 2883
-- media sanitization
-- purge
-- sanitization
-- sanitize
-- security
+- content: IEEE Standards
+- content: Cryptography
+- content: Data security
+- content: Data integrity
+- content: clear
+- content: crypto erase
+- content: cryptographic erase
+- content: crypto scramble
+- content: data destruct
+- content: data removal
+- content: destroy
+- content: IEEE 2883
+- content: media sanitization
+- content: purge
+- content: sanitization
+- content: sanitize
+- content: security
 editorialgroup:
   committee:
   - Cybersecurity and Privacy Standards Committee of the IEEE Computer Society

@@ -1,12 +1,12 @@
 ---
 id: IEEEUnapprovedP802.16_Rev2/D-2-2007
 title:
-- type: main
-  content: 'IEEE Draft Standard for Local and Metropolitan Area Networks Part 16:
+- content: 'IEEE Draft Standard for Local and Metropolitan Area Networks Part 16:
     Air Interface for Broadband Wireless Access Systems (Revision of IEEE Std 802.16-2004
     and Consolidates Material From IEEE Std 802.16E-2005, IEEE Std 802.16-2004/Cor1-2005,
     IEEE Std 802.16F-2005 and IEEE Std802.16G-2007)'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4459203
   type: src
@@ -28,8 +28,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,33 +68,34 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2008'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Standards
-- IEEE Standards
-- IEEE 802.16 Standard
-- Broadband communication
-- Wireless communication
-- Patents
-- Communication channels
-- wireless metropolitan area network
-- MAN
-- WirelessMAN&#x000AE;
-- standard
-- broadband wireless access (BWA)
-- fixed broadband wireless access
-- mobile broadband wireless access
-- wireless access systems (WAS)
-- cellular layer
-- microwave
-- radio
-- OFDM
-- OFDMA
-- management information base (MIB)
+- content: Standards
+- content: IEEE Standards
+- content: IEEE 802.16 Standard
+- content: Broadband communication
+- content: Wireless communication
+- content: Patents
+- content: Communication channels
+- content: wireless metropolitan area network
+- content: MAN
+- content: WirelessMAN&#x000AE;
+- content: standard
+- content: broadband wireless access (BWA)
+- content: fixed broadband wireless access
+- content: mobile broadband wireless access
+- content: wireless access systems (WAS)
+- content: cellular layer
+- content: microwave
+- content: radio
+- content: OFDM
+- content: OFDMA
+- content: management information base (MIB)
 ics:
 - code: '35.110'
   text: Networking

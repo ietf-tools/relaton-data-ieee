@@ -1,10 +1,10 @@
 ---
 id: IEEEC37.238-2011
 title:
-- type: main
-  content: IEEE Standard Profile for Use of IEEE 1588 Precision Time Protocol in Power
+- content: IEEE Standard Profile for Use of IEEE 1588 Precision Time Protocol in Power
     System Applications
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5963699
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,8 +62,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2011'
 relation:
@@ -76,22 +78,22 @@ relation:
     formattedref:
       content: IEEE C37.238-2017
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Smart grids
-- Power system management
-- Timing
-- Precision engineering
-- grandmaster clock
-- IEEE 1588
-- power substation
-- precise time synchronization
-- Precision Time Protocol (PTP)
-- sample synchronization
-- slave-only clock
-- synchrophasors
-- transparent clock
+- content: IEEE standards
+- content: Smart grids
+- content: Power system management
+- content: Timing
+- content: Precision engineering
+- content: grandmaster clock
+- content: IEEE 1588
+- content: power substation
+- content: precise time synchronization
+- content: Precision Time Protocol (PTP)
+- content: sample synchronization
+- content: slave-only clock
+- content: synchrophasors
+- content: transparent clock
 editorialgroup:
   committee:
   - IEEE Power and Energy Society

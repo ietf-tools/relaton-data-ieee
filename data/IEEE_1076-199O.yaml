@@ -1,9 +1,9 @@
 ---
 id: IEEE1076-199O
 title:
-- type: main
-  content: 1076-CONC-1990 The Sense of VASG
+- content: 1076-CONC-1990 The Sense of VASG
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/587068
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,17 +63,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1990'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Manuals
-- IEEE activities
-- Two dimensional displays
-- Signal resolution
+- content: IEEE Standards
+- content: Manuals
+- content: IEEE activities
+- content: Two dimensional displays
+- content: Signal resolution
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

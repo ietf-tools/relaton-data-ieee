@@ -1,10 +1,10 @@
 ---
 id: IEEECDP16085-2018-02
 title:
-- type: main
-  content: IEEE Draft Standard - Systems and Software Engineering - Life Cycle Processes
+- content: IEEE Draft Standard - Systems and Software Engineering - Life Cycle Processes
     - Risk Management
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8331398
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -50,16 +51,17 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2018'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Software engineering
-- Product life cycle management
-- Risk management
+- content: IEEE Standards
+- content: Software engineering
+- content: Product life cycle management
+- content: Risk management
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

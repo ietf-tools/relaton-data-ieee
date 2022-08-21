@@ -1,10 +1,10 @@
 ---
 id: IEEE48-1975
 title:
-- type: main
-  content: IEEE Standard Test Procedures and Requirements for High-Voltage Alternating-Current
+- content: IEEE Standard Test Procedures and Requirements for High-Voltage Alternating-Current
     Cable Terminations
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/27712
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1975'
 relation:
@@ -78,11 +80,11 @@ relation:
     formattedref:
       content: IEEE 48-1990
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Connectors
-- Power cables
-- Testing
+- content: Connectors
+- content: Power cables
+- content: Testing
 editorialgroup:
   committee:
   - Insulated Conductors of the IEEE Power and Energy Society

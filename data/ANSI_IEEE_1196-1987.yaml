@@ -1,9 +1,9 @@
 ---
 id: ANSI/IEEE1196-1987
 title:
-- type: main
-  content: 'IEEE Standard for a Simple 32-Bit Backplane Bus: NuBus'
+- content: 'IEEE Standard for a Simple 32-Bit Backplane Bus: NuBus'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/26492
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -72,25 +73,26 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1988'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Computer interfaces
-- Multiprocessing
-- Standards
-- simple
-- 32-bit
-- backplane
-- bus
-- nubus 90
-- Protocols
-- Multimicroprocessing
-- Microcomputer interfaces
-- Data buses
-- transport
+- content: Computer interfaces
+- content: Multiprocessing
+- content: Standards
+- content: simple
+- content: 32-bit
+- content: backplane
+- content: bus
+- content: nubus 90
+- content: Protocols
+- content: Multimicroprocessing
+- content: Microcomputer interfaces
+- content: Data buses
+- content: transport
 editorialgroup:
   committee:
   - Microprocessor Standards Committee of the IEEE Computer Society

@@ -1,9 +1,9 @@
 ---
 id: IEEE390-1975
 title:
-- type: main
-  content: IEEE Standard for Low Power Pulse Transformers
+- content: IEEE Standard for Low Power Pulse Transformers
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7409864
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -76,8 +77,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1975'
 relation:
@@ -91,9 +93,9 @@ relation:
     formattedref:
       content: ANSI/IEEE 390-1987
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Pulse measurements
-- Low power electronics
-- Transformers
+- content: IEEE Standards
+- content: Pulse measurements
+- content: Low power electronics
+- content: Transformers

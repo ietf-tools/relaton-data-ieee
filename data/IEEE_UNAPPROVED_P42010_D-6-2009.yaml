@@ -1,9 +1,9 @@
 ---
 id: IEEEUnapprovedP42010/D-6-2009
 title:
-- type: main
-  content: Systems and software engineering -- Architecture description
+- content: Systems and software engineering -- Architecture description
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4816173
   type: src
@@ -25,8 +25,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -58,22 +59,23 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- architecting
-- architecture description
-- architecture framework
-- system concern
-- architecture view
-- architecture viewpoint
-- architecture model
-- model correspondence
-- decision
-- rationale
+- content: architecting
+- content: architecture description
+- content: architecture framework
+- content: system concern
+- content: architecture view
+- content: architecture viewpoint
+- content: architecture model
+- content: model correspondence
+- content: decision
+- content: rationale
 ics:
 - code: '35.080'
   text: Software

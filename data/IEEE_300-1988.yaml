@@ -1,9 +1,9 @@
 ---
 id: IEEE300-1988
 title:
-- type: main
-  content: IEEE Standard Test Procedures for Semiconductor Charged-Particle Detectors
+- content: IEEE Standard Test Procedures for Semiconductor Charged-Particle Detectors
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/26502
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,14 +66,15 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1988'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Semiconductor radiation detectors
-- Standards
+- content: Semiconductor radiation detectors
+- content: Standards
 editorialgroup:
   committee:
   - Nuclear Instruments and Detectors of the IEEE Nuclear and Plasma Sciences Society

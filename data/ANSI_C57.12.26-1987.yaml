@@ -1,12 +1,12 @@
 ---
 id: ANSIC57.12.26-1987
 title:
-- type: main
-  content: American National Standard for Transformers- Pad-Mounted Compartmental
+- content: American National Standard for Transformers- Pad-Mounted Compartmental
     -Type, Self-Cooled, Three-Phase Distribution Transformers for Use With Separable
     Insulated High-Voltage Connectors, High-Voltage, 34500 Grd Y/19 920 Volts and
     Below; 2500 kVa and Smaller
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/594482
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -54,8 +55,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1987'
 relation:
@@ -69,14 +71,14 @@ relation:
     formattedref:
       content: ANSI C57.12.26-1987
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- ANSI
-- Connectors
-- Consumer electronics
-- Power transformer insulation
-- Regulators
-- Impedance
+- content: ANSI
+- content: Connectors
+- content: Consumer electronics
+- content: Power transformer insulation
+- content: Regulators
+- content: Impedance
 editorialgroup:
   committee:
   - Transformers of the IEEE Power and Energy Society

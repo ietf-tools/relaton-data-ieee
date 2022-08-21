@@ -1,11 +1,11 @@
 ---
 id: IEC/IEEE80005.2
 title:
-- type: main
-  content: 'IEC/IEEE International Standard - Utility connections in port -- Part
+- content: 'IEC/IEEE International Standard - Utility connections in port -- Part
     2: High and low voltage shore connection systems -- Data communication for monitoring
     and control'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7500035
   type: src
@@ -35,8 +35,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -74,32 +75,33 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2016'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- Power transmission lines
-- Voltage control
-- Data communication
-- Power system reliability
-- High Byte
-- Low Byte
-- Low Byte
-- Most Significant Bit
-- Most Significant Bit
-- bypass key
-- alarm
-- ESD-2
-- ESD-1
-- SCADA
-- HVSC
-- LVSC
+- content: IEEE Standards
+- content: IEC Standards
+- content: Power transmission lines
+- content: Voltage control
+- content: Data communication
+- content: Power system reliability
+- content: High Byte
+- content: Low Byte
+- content: Low Byte
+- content: Most Significant Bit
+- content: Most Significant Bit
+- content: bypass key
+- content: alarm
+- content: ESD-2
+- content: ESD-1
+- content: SCADA
+- content: HVSC
+- content: LVSC
 editorialgroup:
   committee:
   - Petroleum &amp; Chemical Industry of the IEEE Industry Applications Society

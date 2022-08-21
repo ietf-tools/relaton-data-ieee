@@ -1,10 +1,10 @@
 ---
 id: ISO/IEC/IEEE15289-2019
 title:
-- type: main
-  content: ISO/IEC/IEEE International Standard -- Systems and software engineering
+- content: ISO/IEC/IEEE International Standard -- Systems and software engineering
     - Content of life-cycle information items (documentation)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8767110
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -71,13 +72,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2019'
 relation:
 - type: updates
@@ -97,23 +99,23 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ISO Standards
-- IEC Standards
-- Systems engineering and theory
-- Software engineering
-- Information management
-- Product life cycle managemnet
-- Software systems
-- '15289'
-- life cycle
-- life-cycle process
-- software
-- system
-- information item
-- information management
+- content: IEEE Standards
+- content: ISO Standards
+- content: IEC Standards
+- content: Systems engineering and theory
+- content: Software engineering
+- content: Information management
+- content: Product life cycle managemnet
+- content: Software systems
+- content: '15289'
+- content: life cycle
+- content: life-cycle process
+- content: software
+- content: system
+- content: information item
+- content: information management
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

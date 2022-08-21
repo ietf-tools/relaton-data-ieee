@@ -1,10 +1,10 @@
 ---
 id: IEEE1711-2010
 title:
-- type: main
-  content: IEEE Trial-Use Standard for a Cryptographic Protocol for Cyber Security
+- content: IEEE Trial-Use Standard for a Cryptographic Protocol for Cyber Security
     of Substation Serial Links
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5715000
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,22 +65,23 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2010'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Cryptography
-- Computer security
-- Substations
-- Cryptographic protocols
-- cyber security
-- encryption
-- IEEE 1711
-- integrity
-- serial link
+- content: IEEE standards
+- content: Cryptography
+- content: Computer security
+- content: Substations
+- content: Cryptographic protocols
+- content: cyber security
+- content: encryption
+- content: IEEE 1711
+- content: integrity
+- content: serial link
 editorialgroup:
   committee:
   - Substations of the IEEE Power and Energy Society

@@ -1,9 +1,9 @@
 ---
 id: IEEE1857-2013
 title:
-- type: main
-  content: IEEE Standard for Advanced Audio and Video Coding
+- content: IEEE Standard for Advanced Audio and Video Coding
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6522104
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,38 +67,39 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2013'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- VIdeo coding
-- Audio coding
-- Decoding
-- Encoding
-- IP networks
-- Image processing
-- TV
-- Entropy coding
-- block
-- coefficients
-- decoding
-- encoding
-- entropy coding
-- field
-- frame
-- IEEE 1857
-- image
-- Internet Protocol television (IPTV)
-- inter prediction
-- intra prediction
-- macroblock
-- picture
-- quantization
-- slice
-- transform
+- content: IEEE standards
+- content: VIdeo coding
+- content: Audio coding
+- content: Decoding
+- content: Encoding
+- content: IP networks
+- content: Image processing
+- content: TV
+- content: Entropy coding
+- content: block
+- content: coefficients
+- content: decoding
+- content: encoding
+- content: entropy coding
+- content: field
+- content: frame
+- content: IEEE 1857
+- content: image
+- content: Internet Protocol television (IPTV)
+- content: inter prediction
+- content: intra prediction
+- content: macroblock
+- content: picture
+- content: quantization
+- content: slice
+- content: transform
 editorialgroup:
   committee:
   - Standards Activities Board of the IEEE Computer Society

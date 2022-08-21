@@ -1,13 +1,13 @@
 ---
 id: IEEE1159.3-2019Redline
 title:
-- type: title-main
-  content: IEEE Recommended Practice for Power Quality Data Interchange Format (PQDIF)
+- content: IEEE Recommended Practice for Power Quality Data Interchange Format (PQDIF)
   format: text/plain
-- type: main
-  content: IEEE Recommended Practice for Power Quality Data Interchange Format (PQDIF)
+  type: title-main
+- content: IEEE Recommended Practice for Power Quality Data Interchange Format (PQDIF)
     - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8716843
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,24 +69,25 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2019'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Power quality
-- Power measurement
-- Data models
-- Data interchange
-- data interchange
-- file format
-- IEEE 1159.3
-- measurement
-- monitoring
-- power quality
-- PQDIF
+- content: IEEE Standards
+- content: Power quality
+- content: Power measurement
+- content: Data models
+- content: Data interchange
+- content: data interchange
+- content: file format
+- content: IEEE 1159.3
+- content: measurement
+- content: monitoring
+- content: power quality
+- content: PQDIF
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society

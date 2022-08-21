@@ -1,10 +1,10 @@
 ---
 id: IEEE802.3bj-2014
 title:
-- type: main
-  content: 'IEEE Standard for Ethernet Amendment 2: Physical Layer Specifications
+- content: 'IEEE Standard for Ethernet Amendment 2: Physical Layer Specifications
     and Management Parameters for 100 Gb/s Operation Over Backplanes and Copper Cables'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6891095
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2014'
 relation:
@@ -87,32 +89,32 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Ethernet
-- Time measurement
-- Synchronization
-- Passive optical networks
-- IEEE 802.3 Standard
-- 100 Gb/s Ethernet
-- 100GBASE-CR10
-- 100GBASE-CR4
-- 100GBASE-KP4
-- 100GBASE-KR4
-- 40 Gb/s Ethernet
-- 40GBASE-CR4
-- 40GBASE-KR4
-- amendment
-- Auto-Negotiation (AN)
-- Backplane Ethernet
-- Energy Efficient Ethernet (EEE)
-- Ethernet
-- Forward Error Correction (FEC)
-- IEEE 802.3(TM)
-- IEEE 802.3bj(TM)
-- Physical Medium Attachment (PMA) sublayer
-- Physical Medium Dependent (PMD) sublayer
+- content: IEEE standards
+- content: Ethernet
+- content: Time measurement
+- content: Synchronization
+- content: Passive optical networks
+- content: IEEE 802.3 Standard
+- content: 100 Gb/s Ethernet
+- content: 100GBASE-CR10
+- content: 100GBASE-CR4
+- content: 100GBASE-KP4
+- content: 100GBASE-KR4
+- content: 40 Gb/s Ethernet
+- content: 40GBASE-CR4
+- content: 40GBASE-KR4
+- content: amendment
+- content: Auto-Negotiation (AN)
+- content: Backplane Ethernet
+- content: Energy Efficient Ethernet (EEE)
+- content: Ethernet
+- content: Forward Error Correction (FEC)
+- content: IEEE 802.3(TM)
+- content: IEEE 802.3bj(TM)
+- content: Physical Medium Attachment (PMA) sublayer
+- content: Physical Medium Dependent (PMD) sublayer
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

@@ -1,12 +1,12 @@
 ---
 id: IEEE4-2013Redline
 title:
-- type: title-main
-  content: IEEE Standard for High-Voltage Testing Techniques
+- content: IEEE Standard for High-Voltage Testing Techniques
   format: text/plain
-- type: main
-  content: IEEE Standard for High-Voltage Testing Techniques - Redline
+  type: title-main
+- content: IEEE Standard for High-Voltage Testing Techniques - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6719473
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,8 +68,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2013'
 relation:
@@ -89,21 +91,21 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Voltage control
-- Atmospheric measurement
-- Current control
-- Impulse testing
-- atmospheric corrections
-- high-current testing
-- high-voltage measurements
-- highvoltage testing
-- IEEE 4TM
-- impulse currents
-- impulse voltages
-- testing
+- content: IEEE standards
+- content: Voltage control
+- content: Atmospheric measurement
+- content: Current control
+- content: Impulse testing
+- content: atmospheric corrections
+- content: high-current testing
+- content: high-voltage measurements
+- content: highvoltage testing
+- content: IEEE 4TM
+- content: impulse currents
+- content: impulse voltages
+- content: testing
 editorialgroup:
   committee:
   - Power System Instrumentation and Measurements of the IEEE Power and Energy Society

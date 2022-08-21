@@ -1,10 +1,10 @@
 ---
 id: IEEE600
 title:
-- type: main
-  content: IEEE Trial-Use Standard Requirements for Organizations that Conduct Qualification
+- content: IEEE Trial-Use Standard Requirements for Organizations that Conduct Qualification
     Testing of Safety Systems Equipment for Use in Nuclear Power Generating Stations
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7029267
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,21 +69,22 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1983'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Safety
-- Test equipment
-- Nuclear power generation
-- qualification
-- testing
-- safety
-- equipment
-- NPGS
+- content: IEEE standards
+- content: Safety
+- content: Test equipment
+- content: Nuclear power generation
+- content: qualification
+- content: testing
+- content: safety
+- content: equipment
+- content: NPGS
 editorialgroup:
   committee:
   - Nuclear Power Engineering of the IEEE Power and Energy Society

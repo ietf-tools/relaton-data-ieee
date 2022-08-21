@@ -1,9 +1,9 @@
 ---
 id: IEEEC37.2-1991
 title:
-- type: main
-  content: IEEE Standard Electrical Power System Device Function Numbers
+- content: IEEE Standard Electrical Power System Device Function Numbers
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/159107
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1991'
 relation:
@@ -95,16 +97,16 @@ relation:
     formattedref:
       content: IEEE C37.2-1996
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Power conversion
-- Standards
-- Substations
-- Switchgear
-- function
-- numbers
-- switchgear
-- device
+- content: Power conversion
+- content: Standards
+- content: Substations
+- content: Switchgear
+- content: function
+- content: numbers
+- content: switchgear
+- content: device
 editorialgroup:
   committee:
   - Power System Relaying and Control of the IEEE Power and Energy Society

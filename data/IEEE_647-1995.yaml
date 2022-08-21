@@ -1,10 +1,10 @@
 ---
 id: IEEE647-1995
 title:
-- type: main
-  content: IEEE Standard Specification Format Guide and Test Procedure for Single-Axis
+- content: IEEE Standard Specification Format Guide and Test Procedure for Single-Axis
     Laser Gyros
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/494457
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1996'
 relation:
@@ -96,25 +98,25 @@ relation:
     formattedref:
       content: IEEE 647-2006
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Gyroscopes
-- IEEE standards
-- Measurement standards
-- Position control
-- Displacement measurement
-- Optical transducers
-- Velocity measurement
-- Optical position measurement
-- gyro
-- gyroscope
-- inertial instrument
-- inertial sensor
-- laser gyro
-- optical gyro
-- ring laser gyro
-- RLG
-- sagnac effect
+- content: Gyroscopes
+- content: IEEE standards
+- content: Measurement standards
+- content: Position control
+- content: Displacement measurement
+- content: Optical transducers
+- content: Velocity measurement
+- content: Optical position measurement
+- content: gyro
+- content: gyroscope
+- content: inertial instrument
+- content: inertial sensor
+- content: laser gyro
+- content: optical gyro
+- content: ring laser gyro
+- content: RLG
+- content: sagnac effect
 editorialgroup:
   committee:
   - Gyro Accelerometer Panel of the IEEE Aerospace and Electronic Systems Society

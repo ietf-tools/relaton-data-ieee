@@ -1,9 +1,9 @@
 ---
 id: ANSI/IEEE796-1983
 title:
-- type: main
-  content: IEEE Standard Microcomputer System Bus
+- content: IEEE Standard Microcomputer System Bus
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/573226
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,17 +70,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1983'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- system
-- bus
-- multibus
-- Microcomputer interfaces
-- Data buses
+- content: system
+- content: bus
+- content: multibus
+- content: Microcomputer interfaces
+- content: Data buses
 editorialgroup:
   committee:
   - Microprocessor Standards Committee of the IEEE Computer Society

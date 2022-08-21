@@ -1,11 +1,11 @@
 ---
 id: ISO/IEEE11073.10207-2019
 title:
-- type: main
-  content: 'ISO/IEC/IEEE Health informatics--Point-of-care medical device communication
+- content: 'ISO/IEC/IEEE Health informatics--Point-of-care medical device communication
     Part 10207: Domain Information and Service Model for Service-Oriented Point-of-Care
     Medical Device Communication'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8675788
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -70,11 +71,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   from: '2019'
 relation:
 - type: adoptedFrom
@@ -87,24 +89,24 @@ relation:
     formattedref:
       content: IEEE 11073.10207-2017
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ISO Standards
-- IEC Standards
-- Point of care
-- Biomedical equipment
-- Service-oriented architecture
-- Patient monitoring
-- Remote control
-- alert systems
-- IEEE 11073-10207
-- medical device communication
-- patient
-- point-of-care
-- remote control
-- service-oriented architecture
-- XML Schema
+- content: IEEE Standards
+- content: ISO Standards
+- content: IEC Standards
+- content: Point of care
+- content: Biomedical equipment
+- content: Service-oriented architecture
+- content: Patient monitoring
+- content: Remote control
+- content: alert systems
+- content: IEEE 11073-10207
+- content: medical device communication
+- content: patient
+- content: point-of-care
+- content: remote control
+- content: service-oriented architecture
+- content: XML Schema
 editorialgroup:
   committee:
   - IEEE 11073 Standards Committee of the IEEE Engineering in Medicine and Biology

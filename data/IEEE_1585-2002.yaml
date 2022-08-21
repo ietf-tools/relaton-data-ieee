@@ -1,10 +1,10 @@
 ---
 id: IEEE1585-2002
 title:
-- type: main
-  content: IEEE Guide for the Functional Specification of Medium Voltage (1- 35kV)
+- content: IEEE Guide for the Functional Specification of Medium Voltage (1- 35kV)
     Electronic Series Devices for Compensation of Voltage Fluctuations
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1040257
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,20 +63,21 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2002'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- energy storage
-- injection transformer
-- inverter
-- power electronics
-- power quality
-- sensitive loads
-- series compensation
-- voltage control
+- content: energy storage
+- content: injection transformer
+- content: inverter
+- content: power electronics
+- content: power quality
+- content: sensitive loads
+- content: series compensation
+- content: voltage control
 editorialgroup:
   committee:
   - Substations of the IEEE Power and Energy Society

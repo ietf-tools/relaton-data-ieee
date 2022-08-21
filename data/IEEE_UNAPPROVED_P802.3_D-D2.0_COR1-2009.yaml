@@ -1,12 +1,12 @@
 ---
 id: IEEEUnapprovedP802.3/D-D2.0/Cor1-2009
 title:
-- type: main
-  content: 'IEEE Draft Standard for Information technology--Telecommunications and
+- content: 'IEEE Draft Standard for Information technology--Telecommunications and
     information exchange between systems--Local and metropolitan area networks--Specific
     requirements Part 3: Carrier Sense Multiple Access with Collision Detection (CSMA/CD)
     Access Method and Physical Layer Specifications Amendment: Corrigendum 1'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5200238
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -53,16 +54,17 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- '802.3'
-- 802.3bb
-- 802.3-2008/Cor 1
-- PAUSE
+- content: '802.3'
+- content: 802.3bb
+- content: 802.3-2008/Cor 1
+- content: PAUSE
 ics:
 - code: '35.110'
   text: Networking

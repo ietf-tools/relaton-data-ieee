@@ -1,10 +1,10 @@
 ---
 id: IEEE1570-2002
 title:
-- type: main
-  content: IEEE Standard for the Interface Between the Rail Subsystem and the Highway
+- content: IEEE Standard for the Interface Between the Rail Subsystem and the Highway
     Subsystem at a Highway Rail Intersection
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1043930
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,14 +62,15 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2002'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- highway rail grade crossing
-- highway rail intersection
+- content: highway rail grade crossing
+- content: highway rail intersection
 editorialgroup:
   committee:
   - Rail Transportation Standards Committee of the IEEE Vehicular Technology Society

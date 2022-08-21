@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE333-1980
 title:
-- type: main
-  content: IEEE Standard for Electrical Installation of Packaging Machinery and Associated
+- content: IEEE Standard for Electrical Installation of Packaging Machinery and Associated
     Equipment
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/26530
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,20 +65,21 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1980'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Cables
-- Packaging
-- Safety
-- Standards
-- electrical installations
-- packaging machinery
-- equipment
-- wiring
+- content: Cables
+- content: Packaging
+- content: Safety
+- content: Standards
+- content: electrical installations
+- content: packaging machinery
+- content: equipment
+- content: wiring
 editorialgroup:
   committee:
   - IEEE

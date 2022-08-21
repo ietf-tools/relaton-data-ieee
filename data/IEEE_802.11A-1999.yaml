@@ -1,12 +1,12 @@
 ---
 id: IEEE802.11a-1999
 title:
-- type: main
-  content: 'IEEE Standard for Telecommunications and Information Exchange Between
+- content: 'IEEE Standard for Telecommunications and Information Exchange Between
     Systems - LAN/MAN Specific Requirements - Part 11: Wireless Medium Access Control
     (MAC) and physical layer (PHY) specifications: High Speed Physical Layer in the
     5 GHz band'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/815305
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1999'
 relation:
@@ -84,16 +86,16 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Communication standards
-- 5 GHz
-- high speed
-- local area network (LAN)
-- orthogonal frequency division multiplexing (OFDM)
-- radio frequency
-- unlicensed national information infrastructure (U-NII)
-- wireless
+- content: Communication standards
+- content: 5 GHz
+- content: high speed
+- content: local area network (LAN)
+- content: orthogonal frequency division multiplexing (OFDM)
+- content: radio frequency
+- content: unlicensed national information infrastructure (U-NII)
+- content: wireless
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

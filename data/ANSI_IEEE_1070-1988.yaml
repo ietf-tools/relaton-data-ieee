@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE1070-1988
 title:
-- type: main
-  content: IEEE Guide for the Design and Testing of Transmission Modular Restoration
+- content: IEEE Guide for the Design and Testing of Transmission Modular Restoration
     Structure Components
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/29129
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,8 +67,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1989'
 relation:
@@ -81,16 +83,16 @@ relation:
     formattedref:
       content: IEEE 1070-1995
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Standards
-- Testing
-- Power transmission
-- restoration
-- transmission
-- modular
-- structure
-- components
+- content: Standards
+- content: Testing
+- content: Power transmission
+- content: restoration
+- content: transmission
+- content: modular
+- content: structure
+- content: components
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society

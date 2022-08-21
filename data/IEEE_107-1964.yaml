@@ -1,9 +1,9 @@
 ---
 id: IEEE107-1964
 title:
-- type: main
-  content: IEEE Standard for Rating and Testing Magnetic Amplifiers
+- content: IEEE Standard for Rating and Testing Magnetic Amplifiers
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7361737
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,16 +69,17 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1964'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Power amplifiers
-- Magnetic cores
-- Testing
+- content: IEEE Standards
+- content: Power amplifiers
+- content: Magnetic cores
+- content: Testing
 editorialgroup:
   committee:
   - IEEE Magnetics Society

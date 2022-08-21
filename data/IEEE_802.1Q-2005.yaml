@@ -1,10 +1,10 @@
 ---
 id: IEEE802.1Q-2005
 title:
-- type: main
-  content: IEEE Standard for Local and Metropolitan Area Networks---Virtual Bridged
+- content: IEEE Standard for Local and Metropolitan Area Networks---Virtual Bridged
     Local Area Networks
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1637340
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,8 +62,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2006'
 relation:
@@ -93,20 +95,20 @@ relation:
     formattedref:
       content: IEEE 802.1Q-2011
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Local area networks
-- Patents
-- Metropolitan area networks
-- Media Access Protocol
-- Bridged Local Area Networks
-- locat area networks (LANs)
-- MAC Bridges
-- metropolitan area networks
-- Multiple Spanning Tree Protocol (MSTP)
-- Rapid Spanning Tree Protocol (RSTP)
-- Virtual Bridged Local Area Networks (virtual LANs)
+- content: IEEE Standards
+- content: Local area networks
+- content: Patents
+- content: Metropolitan area networks
+- content: Media Access Protocol
+- content: Bridged Local Area Networks
+- content: locat area networks (LANs)
+- content: MAC Bridges
+- content: metropolitan area networks
+- content: Multiple Spanning Tree Protocol (MSTP)
+- content: Rapid Spanning Tree Protocol (RSTP)
+- content: Virtual Bridged Local Area Networks (virtual LANs)
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

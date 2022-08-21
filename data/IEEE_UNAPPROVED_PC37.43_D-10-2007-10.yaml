@@ -1,11 +1,11 @@
 ---
 id: IEEEUnapprovedPC37.43/D-10-2007-10
 title:
-- type: main
-  content: IEEE Draft Standard Specifications for High-Voltage Expulsion, Current-Limiting
+- content: IEEE Draft Standard Specifications for High-Voltage Expulsion, Current-Limiting
     and Combination Type Distribution and Power Class External Fuses, With Rated Voltages
     From 1 kV Through 38 kV, Used for the Protection of Shunt Capacitors
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4489718
   type: src
@@ -27,8 +27,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -58,11 +59,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2008'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: 29.120.50
   text: Fuses and other overcurrent protection devices

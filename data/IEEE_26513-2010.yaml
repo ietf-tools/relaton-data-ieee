@@ -1,10 +1,10 @@
 ---
 id: IEEE26513-2010
 title:
-- type: main
-  content: IEEE Standard for Adoption of ISO/IEC 26513:2009 Systems and Software Engineering--Requirements
+- content: IEEE Standard for Adoption of ISO/IEC 26513:2009 Systems and Software Engineering--Requirements
     for Testers and Reviewers of Documentation
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5712772
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,8 +70,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2010'
 relation:
@@ -84,19 +86,19 @@ relation:
     formattedref:
       content: ISO/IEC/IEEE 26513-2017
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- IEC standards
-- ISO standards
-- Software engineering
-- Testing
-- '26513'
-- documentation review
-- editing
-- information management
-- software user documentation
-- usability testing
+- content: IEEE standards
+- content: IEC standards
+- content: ISO standards
+- content: Software engineering
+- content: Testing
+- content: '26513'
+- content: documentation review
+- content: editing
+- content: information management
+- content: software user documentation
+- content: usability testing
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

@@ -1,11 +1,11 @@
 ---
 id: ISO/IEC/IEEE8802.1CM-2019
 title:
-- type: main
-  content: 'ISO/IEC/IEEE International Standard - Telecommunications and information
+- content: 'ISO/IEC/IEEE International Standard - Telecommunications and information
     exchange between information technology systems - Requirements for local and metropolitan
     area networks - Part 1CM: Time-sensitive networking for fronthaul'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8811785
   type: src
@@ -35,8 +35,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,13 +66,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2019'
 relation:
 - type: adoptedFrom
@@ -84,28 +86,28 @@ relation:
     formattedref:
       content: IEEE 802.1CM-2018
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ISO Standards
-- IEC Standards
-- Information exchange
-- Virtual LAN
-- Synchronization
-- Timing
-- Local area networks
-- Metropolitan area networks
-- bridged network
-- fronthaul
-- IEEE 802&#174;
-- IEEE 802.1&#8482;
-- IEEE 802.1CM&#8482;
-- synchronization
-- time-sensitive networking
-- TSN
-- Virtual Local Area Network
-- VLAN
-- VLAN Bridge
+- content: IEEE Standards
+- content: ISO Standards
+- content: IEC Standards
+- content: Information exchange
+- content: Virtual LAN
+- content: Synchronization
+- content: Timing
+- content: Local area networks
+- content: Metropolitan area networks
+- content: bridged network
+- content: fronthaul
+- content: IEEE 802&#174;
+- content: IEEE 802.1&#8482;
+- content: IEEE 802.1CM&#8482;
+- content: synchronization
+- content: time-sensitive networking
+- content: TSN
+- content: Virtual Local Area Network
+- content: VLAN
+- content: VLAN Bridge
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

@@ -1,9 +1,9 @@
 ---
 id: IEEEP7005/D-5-2020-11
 title:
-- type: main
-  content: IEEE Draft Standard for Transparent Employer Data Governance
+- content: IEEE Draft Standard for Transparent Employer Data Governance
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9321786
   type: src
@@ -29,8 +29,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,20 +62,21 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2021'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Data protection
-- Data governance
-- Information security
-- Computer security
-- employer governance
-- IEEE 7005
-- personal data protection
+- content: IEEE Standards
+- content: Data protection
+- content: Data governance
+- content: Information security
+- content: Computer security
+- content: employer governance
+- content: IEEE 7005
+- content: personal data protection
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

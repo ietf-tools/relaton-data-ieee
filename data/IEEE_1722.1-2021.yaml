@@ -1,10 +1,10 @@
 ---
 id: IEEE1722.1-2021
 title:
-- type: main
-  content: IEEE Standard for Device Discovery, Connection Management, and Control
+- content: IEEE Standard for Device Discovery, Connection Management, and Control
     Protocol for Time-Sensitive Networking System
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9744630
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -59,8 +60,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2022'
 relation:
@@ -81,33 +83,33 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Streaming media
-- Synchronization
-- Quality of service
-- Local area networks
-- Communication protocols
-- IEC Standards
-- Device drivers
-- AVDECC
-- ATDECC
-- bridged LAN
-- IEC 61883
-- IEEE 802.1 AVB protocols
-- IEEE 802.1BA
-- IEEE 1722.1
-- IEEE Std 802.1AS 2011
-- IEEE Std 802.1AS 2020
-- IEEE Std 802.1Q 2011
-- IEEE Std 802.1Q 2018
-- IEEE Std 1722 2011
-- IEEE Std 1722 2016
-- LAN
-- QoS
-- time sensitive media streaming
-- time synchronization
+- content: IEEE Standards
+- content: Streaming media
+- content: Synchronization
+- content: Quality of service
+- content: Local area networks
+- content: Communication protocols
+- content: IEC Standards
+- content: Device drivers
+- content: AVDECC
+- content: ATDECC
+- content: bridged LAN
+- content: IEC 61883
+- content: IEEE 802.1 AVB protocols
+- content: IEEE 802.1BA
+- content: IEEE 1722.1
+- content: IEEE Std 802.1AS 2011
+- content: IEEE Std 802.1AS 2020
+- content: IEEE Std 802.1Q 2011
+- content: IEEE Std 802.1Q 2018
+- content: IEEE Std 1722 2011
+- content: IEEE Std 1722 2016
+- content: LAN
+- content: QoS
+- content: time sensitive media streaming
+- content: time synchronization
 editorialgroup:
   committee:
   - Microprocessor Standards Committee of the IEEE Computer Society

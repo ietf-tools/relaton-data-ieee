@@ -1,11 +1,11 @@
 ---
 id: IEEEP16085-2006
 title:
-- type: main
-  content: Unapproved IEEE Draft Standard for Systems and Software Engineering - Life
+- content: Unapproved IEEE Draft Standard for Systems and Software Engineering - Life
     Cycle Processes-Risk Management (Revision of ISO/IEC 16085 IEEE Std 1540-2001
     First edition 2004-10-01)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4040516
   type: src
@@ -27,8 +27,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -46,11 +47,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2006'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: '35.080'
   text: Software

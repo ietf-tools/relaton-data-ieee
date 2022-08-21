@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE841-1986
 title:
-- type: main
-  content: IEEE Recommended Practice for Chemical Industry Severe Duty Squirrel-Cage
+- content: IEEE Recommended Practice for Chemical Industry Severe Duty Squirrel-Cage
     Induction Motors-600 V and Below
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/26574
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1986'
 relation:
@@ -79,12 +81,12 @@ relation:
     formattedref:
       content: IEEE 841-1994
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Chemical industry
-- Corrosion
-- Squirrel cage motors
-- Standards
+- content: Chemical industry
+- content: Corrosion
+- content: Squirrel cage motors
+- content: Standards
 editorialgroup:
   committee:
   - Petroleum &amp; Chemical Industry of the IEEE Industry Applications Society

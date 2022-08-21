@@ -1,10 +1,10 @@
 ---
 id: IEEE1232-2002
 title:
-- type: main
-  content: "(Replaced) IEEE Standard for Artificial Intelligence Exchange and Service
+- content: "(Replaced) IEEE Standard for Artificial Intelligence Exchange and Service
     Tie to All Test Environments (AI- ESTATE)"
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1075984
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,8 +68,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2002'
 relation:
@@ -99,23 +101,23 @@ relation:
     formattedref:
       content: IEEE 1232-2010
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Electronic data interchange
-- Diagnostic reasoning
-- Knowledge representation
-- Software requirements and specifications
-- Testing
-- AI-ESTATE
-- diagnosis
-- diagnostic inference
-- diagnostic model
-- diagnostic services
-- dynamic context
-- fault tree
-- knowledge exchange
-- system test
+- content: IEEE standards
+- content: Electronic data interchange
+- content: Diagnostic reasoning
+- content: Knowledge representation
+- content: Software requirements and specifications
+- content: Testing
+- content: AI-ESTATE
+- content: diagnosis
+- content: diagnostic inference
+- content: diagnostic model
+- content: diagnostic services
+- content: dynamic context
+- content: fault tree
+- content: knowledge exchange
+- content: system test
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

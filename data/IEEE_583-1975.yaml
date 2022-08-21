@@ -1,9 +1,9 @@
 ---
 id: IEEE583-1975
 title:
-- type: main
-  content: IEEE Standard Modular Instrumentation and Digital Interface System (CAMAC)
+- content: IEEE Standard Modular Instrumentation and Digital Interface System (CAMAC)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7431915
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1975'
 relation:
@@ -79,11 +81,11 @@ relation:
     formattedref:
       content: ANSI/IEEE 583-1982
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Instrumentation
-- Digital systems
-- Digital interfaces
-- Modular structures
-- Serial Highway Interface System
+- content: IEEE Standards
+- content: Instrumentation
+- content: Digital systems
+- content: Digital interfaces
+- content: Modular structures
+- content: Serial Highway Interface System

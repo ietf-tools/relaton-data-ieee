@@ -1,10 +1,10 @@
 ---
 id: IEEE775-1993
 title:
-- type: main
-  content: IEEE Guide for Designing Multistress Aging Tests of Electrical Insulation
+- content: IEEE Guide for Designing Multistress Aging Tests of Electrical Insulation
     in a Radiation Environment
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/278300
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,15 +65,16 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1993'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- electrical insulation
-- multistress aging
-- single stress aging
+- content: electrical insulation
+- content: multistress aging
+- content: single stress aging
 editorialgroup:
   committee:
   - Radiation Effects of the IEEE Dielectrics and Electrical Insulation Society

@@ -1,9 +1,9 @@
 ---
 id: IEEE1450-1999
 title:
-- type: main
-  content: IEEE Standard Test Interface Language (STIL) for Digital Test Vector Data
+- content: IEEE Standard Test Interface Language (STIL) for Digital Test Vector Data
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/798780
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,27 +64,28 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1999'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- automatic test pattern generator (ATPG)
-- built-in self-test (BIST)
-- computer-aided engineering (CAE)
-- cyclize
-- device under test (DUT)
-- digital test vectors
-- event
-- functional vectors
-- pattern
-- scan vectors
-- signal
-- structural vectors
-- timed event
-- wavefor
+- content: IEEE standards
+- content: automatic test pattern generator (ATPG)
+- content: built-in self-test (BIST)
+- content: computer-aided engineering (CAE)
+- content: cyclize
+- content: device under test (DUT)
+- content: digital test vectors
+- content: event
+- content: functional vectors
+- content: pattern
+- content: scan vectors
+- content: signal
+- content: structural vectors
+- content: timed event
+- content: wavefor
 editorialgroup:
   committee:
   - Test Technology of the IEEE Computer Society

@@ -1,10 +1,10 @@
 ---
 id: IEEEUnapprovedP1628/D-8.1-2009
 title:
-- type: main
-  content: IEEE Draft Recommended Practice for Maintenance for dc Overhead Contact
+- content: IEEE Draft Recommended Practice for Maintenance for dc Overhead Contact
     Systems for Transit Systems
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4811167
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,15 +70,16 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- rail
-- vehicle maintenance
-- OCSlines
+- content: rail
+- content: vehicle maintenance
+- content: OCSlines
 ics:
 - code: '29.280'
   text: Electric traction equipment

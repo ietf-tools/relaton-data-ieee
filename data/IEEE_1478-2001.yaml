@@ -1,10 +1,10 @@
 ---
 id: IEEE1478-2001
 title:
-- type: main
-  content: IEEE Standard for Environmental Conditions for Transit Rail Car Electronic
+- content: IEEE Standard for Environmental Conditions for Transit Rail Car Electronic
     Equipment
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/960411
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -60,25 +61,26 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2001'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Rails
-- Automobiles
-- Electronic equipment
-- Patents
-- atmospheric pressure
-- authority having jurisdiction
-- corrosive elements
-- equipmentunder test
-- humidity
-- temperature
-- water
-- vibration.
+- content: IEEE Standards
+- content: Rails
+- content: Automobiles
+- content: Electronic equipment
+- content: Patents
+- content: atmospheric pressure
+- content: authority having jurisdiction
+- content: corrosive elements
+- content: equipmentunder test
+- content: humidity
+- content: temperature
+- content: water
+- content: vibration.
 editorialgroup:
   committee:
   - Rail Transportation Standards Committee of the IEEE Vehicular Technology Society

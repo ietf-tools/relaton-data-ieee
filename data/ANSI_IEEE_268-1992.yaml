@@ -1,9 +1,9 @@
 ---
 id: ANSI/IEEE268-1992
 title:
-- type: main
-  content: American National Standard for Metric Practice
+- content: American National Standard for Metric Practice
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/210930
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1992'
 relation:
@@ -85,18 +87,18 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Measurement standards
-- Measurement units
-- conversion
-- factors
-- rounding
-- SI
-- Metric system
-- Metric practice
-- International System of Units
-- Conversion factors
+- content: Measurement standards
+- content: Measurement units
+- content: conversion
+- content: factors
+- content: rounding
+- content: SI
+- content: Metric system
+- content: Metric practice
+- content: International System of Units
+- content: Conversion factors
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

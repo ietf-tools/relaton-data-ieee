@@ -1,10 +1,10 @@
 ---
 id: IEEEUnapprovedP1901/D-3.00-2010
 title:
-- type: main
-  content: 'IEEE Unapproved Draft Standard for Broadband over Power Line Networks:
+- content: 'IEEE Unapproved Draft Standard for Broadband over Power Line Networks:
     Medium Access Control and Physical Layer Specifications'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5429082
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,20 +70,21 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2010'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Power line communications
-- Broadband communication
-- Media Access Protocol
-- BPL
-- MAC
-- PHY
-- PLC
+- content: IEEE standards
+- content: Power line communications
+- content: Broadband communication
+- content: Media Access Protocol
+- content: BPL
+- content: MAC
+- content: PHY
+- content: PLC
 editorialgroup:
   committee:
   - Power Line Communications of the IEEE Communications Society

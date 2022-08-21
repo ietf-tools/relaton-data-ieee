@@ -1,10 +1,10 @@
 ---
 id: IEEE308-1974
 title:
-- type: main
-  content: IEEE Standard Criteria for Class IE Power Systems for Nuclear Power Generating
+- content: IEEE Standard Criteria for Class IE Power Systems for Nuclear Power Generating
     Stations
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6568019
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -71,20 +72,21 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1974'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Safety
-- Power supplies
-- Instruments
-- Inductors
-- switchyard
-- transmission lines
-- transmission network.
+- content: IEEE standards
+- content: Safety
+- content: Power supplies
+- content: Instruments
+- content: Inductors
+- content: switchyard
+- content: transmission lines
+- content: transmission network.
 editorialgroup:
   committee:
   - Nuclear Power Engineering of the IEEE Power and Energy Society

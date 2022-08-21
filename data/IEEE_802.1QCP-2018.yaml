@@ -1,10 +1,10 @@
 ---
 id: IEEE802.1Qcp-2018
 title:
-- type: main
-  content: 'IEEE Standard for Local and metropolitan area networks--Bridges and Bridged
+- content: 'IEEE Standard for Local and metropolitan area networks--Bridges and Bridged
     Networks--Amendment 30: YANG Data Model'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8467507
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2018'
 relation:
@@ -85,20 +87,20 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Local area networks
-- Metropolitan area networks
-- Media Access Protocol
-- Bridge circuits
-- Virtualization
-- Bridged Local Area Networks
-- local area networks (LANs)
-- MAC Bridges
-- metropolitan area networks
-- Virtual Bridged Local Area Networks (virtual LANs)
-- YANG.
+- content: IEEE Standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Media Access Protocol
+- content: Bridge circuits
+- content: Virtualization
+- content: Bridged Local Area Networks
+- content: local area networks (LANs)
+- content: MAC Bridges
+- content: metropolitan area networks
+- content: Virtual Bridged Local Area Networks (virtual LANs)
+- content: YANG.
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

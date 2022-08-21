@@ -1,12 +1,12 @@
 ---
 id: IEEE214-1961
 title:
-- type: main
-  content: IEEE Standard Construction Drawings of Line Impededance Network Required
+- content: IEEE Standard Construction Drawings of Line Impededance Network Required
     for Measurement of Conducted Interference to the Power Line from FM and Television
     Broadcast Receivers in the Range of 300 kHz to 25 MHz as Specified in IEEE Std
     213-1961.
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7383198
   type: src
@@ -36,8 +36,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,22 +66,23 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1961'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Power transmission lines
-- Impedance
-- TV
-- Broadcasting
-- Interference (signal)
-- Measurement
-- Construction
-- drawings
-- '213'
+- content: IEEE Standards
+- content: Power transmission lines
+- content: Impedance
+- content: TV
+- content: Broadcasting
+- content: Interference (signal)
+- content: Measurement
+- content: Construction
+- content: drawings
+- content: '213'
 editorialgroup:
   committee:
   - Standards Development Committee of the IEEE Electromagnetic Compatibility Society

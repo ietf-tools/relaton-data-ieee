@@ -1,10 +1,10 @@
 ---
 id: IEEE1516.2-2010
 title:
-- type: main
-  content: IEEE Standard for Modeling and Simulation (M&S) High Level Architecture
+- content: IEEE Standard for Modeling and Simulation (M&S) High Level Architecture
     (HLA)-- Object Model Template (OMT) Specification
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5557731
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -74,38 +75,39 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2010'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Computational modeling
-- Distributed databases
-- Computer architecture
-- Metasearch
-- Data models
-- architecture
-- class attribute
-- data distribution management
-- federate
-- federation
-- federation execution
-- federation object model
-- framework
-- High Level Architecture
-- instance attribute
-- instance attribute ownership
-- interaction class
-- joined federate
-- object class
-- object model template
-- rules
-- runtime infrastructure
-- simulation object model
-- time-constrained
-- time-regulating
+- content: IEEE standards
+- content: Computational modeling
+- content: Distributed databases
+- content: Computer architecture
+- content: Metasearch
+- content: Data models
+- content: architecture
+- content: class attribute
+- content: data distribution management
+- content: federate
+- content: federation
+- content: federation execution
+- content: federation object model
+- content: framework
+- content: High Level Architecture
+- content: instance attribute
+- content: instance attribute ownership
+- content: interaction class
+- content: joined federate
+- content: object class
+- content: object model template
+- content: rules
+- content: runtime infrastructure
+- content: simulation object model
+- content: time-constrained
+- content: time-regulating
 editorialgroup:
   committee:
   - Simulation Interoperability Stds Organization/Stds Activity Committee of the IEEE

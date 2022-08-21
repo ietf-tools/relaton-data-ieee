@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE935-1989
 title:
-- type: main
-  content: IEEE Guide on Terminology for Tools and Equipment to Be Used in Live Line
+- content: IEEE Guide on Terminology for Tools and Equipment to Be Used in Live Line
     Working
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/89787
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,22 +68,23 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1989'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Maintenance
-- Standards
-- live line
-- tools
-- equipment
-- terminology
-- Power transmission maintenance
-- Power distribution maintenance
-- Power cables
-- Electric shock
+- content: Maintenance
+- content: Standards
+- content: live line
+- content: tools
+- content: equipment
+- content: terminology
+- content: Power transmission maintenance
+- content: Power distribution maintenance
+- content: Power cables
+- content: Electric shock
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society

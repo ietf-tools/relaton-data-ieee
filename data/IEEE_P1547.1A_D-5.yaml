@@ -1,10 +1,10 @@
 ---
 id: IEEEP1547.1a/D-5
 title:
-- type: main
-  content: IEEE Approved Draft Standard Conformance Test Procedures for Equipment
+- content: IEEE Approved Draft Standard Conformance Test Procedures for Equipment
     Interconnecting Distributed Resources with Electric Power Systems Amendment 1
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7003964
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -59,8 +60,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2015'
 relation:
@@ -81,13 +83,13 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Interconnections
-- Distributed processing
-- Electric power systems
-- Equipment testing
+- content: IEEE Standards
+- content: Interconnections
+- content: Distributed processing
+- content: Electric power systems
+- content: Equipment testing
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

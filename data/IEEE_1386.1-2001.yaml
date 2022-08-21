@@ -1,10 +1,10 @@
 ---
 id: IEEE1386.1-2001
 title:
-- type: main
-  content: 'IEEE Standard Physical and Environmental Layers for PCI Mezzanine Cards:
+- content: 'IEEE Standard Physical and Environmental Layers for PCI Mezzanine Cards:
     PMC'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/944007
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,34 +69,35 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2001'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Data buses
-- backplane I/O
-- bezel
-- board
-- card
-- CompactPCI
-- face plate
-- front panel I/O
-- metric
-- host computer
-- I/O
-- local bus
-- mezzanine
-- module
-- modular I/O
-- PCI
-- Multibus I
-- Multibus II
-- VME
-- VME64
-- VME64x
-- VMEbus
+- content: Data buses
+- content: backplane I/O
+- content: bezel
+- content: board
+- content: card
+- content: CompactPCI
+- content: face plate
+- content: front panel I/O
+- content: metric
+- content: host computer
+- content: I/O
+- content: local bus
+- content: mezzanine
+- content: module
+- content: modular I/O
+- content: PCI
+- content: Multibus I
+- content: Multibus II
+- content: VME
+- content: VME64
+- content: VME64x
+- content: VMEbus
 editorialgroup:
   committee:
   - Microprocessor Standards Committee of the IEEE Computer Society

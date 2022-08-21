@@ -1,10 +1,10 @@
 ---
 id: IEEE1815-2012
 title:
-- type: main
-  content: IEEE Standard for Electric Power Systems Communications-Distributed Network
+- content: IEEE Standard for Electric Power Systems Communications-Distributed Network
     Protocol (DNP3)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6327578
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,8 +67,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2012'
 relation:
@@ -88,21 +90,21 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Distributed processing
-- Power system planning
-- Communication systems
-- Substations
-- Automation
-- Distributed Network Protocol (DNP3)
-- distribution automation
-- distribution feeder
-- electric power communication systems
-- IEEE 1815
-- master station
-- substation automation
+- content: IEEE standards
+- content: Distributed processing
+- content: Power system planning
+- content: Communication systems
+- content: Substations
+- content: Automation
+- content: Distributed Network Protocol (DNP3)
+- content: distribution automation
+- content: distribution feeder
+- content: electric power communication systems
+- content: IEEE 1815
+- content: master station
+- content: substation automation
 editorialgroup:
   committee:
   - IEEE Power and Energy Society

@@ -1,9 +1,9 @@
 ---
 id: IEEE820-2005
 title:
-- type: main
-  content: IEEE Standard Telephone Loop Performance Characteristics
+- content: IEEE Standard Telephone Loop Performance Characteristics
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9419812
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -60,19 +61,20 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2005'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Telephone loop
-- Classification
-- Performance evaluation
-- performance characteristics
-- performance classifications
-- telephone loop
+- content: IEEE Standards
+- content: Telephone loop
+- content: Classification
+- content: Performance evaluation
+- content: performance characteristics
+- content: performance classifications
+- content: telephone loop
 editorialgroup:
   committee:
   - IEEE Power and Energy Society

@@ -1,10 +1,10 @@
 ---
 id: IEEE802.1Q-1998
 title:
-- type: main
-  content: 'IEEE Standards for Local and Metropolitan Area Networks: Virtual Bridged
+- content: 'IEEE Standards for Local and Metropolitan Area Networks: Virtual Bridged
     Local Area Networks'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/753056
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1999'
 relation:
@@ -77,13 +79,13 @@ relation:
     formattedref:
       content: IEEE 802.1Q-2005
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- local area networks
-- media access control bridges
-- virtual LAN
-- MAC Bridge management
+- content: IEEE standards
+- content: local area networks
+- content: media access control bridges
+- content: virtual LAN
+- content: MAC Bridge management
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

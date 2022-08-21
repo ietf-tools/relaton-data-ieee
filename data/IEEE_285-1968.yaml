@@ -1,10 +1,10 @@
 ---
 id: IEEE285-1968
 title:
-- type: main
-  content: IEEE Standards Report on State-of-the-Art of Measuring Phase Shift at Frequencies
+- content: IEEE Standards Report on State-of-the-Art of Measuring Phase Shift at Frequencies
     above 1 Ghz
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7445121
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,17 +67,19 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - American National Standards Institute
-    abbreviation: ANSI
+    - content: American National Standards Institute
+    abbreviation:
+      content: ANSI
     url: https://www.ansi.org
   from: '1968'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ANSI Standards
-- Frequency measurement
-- Phase measurement
+- content: IEEE Standards
+- content: ANSI Standards
+- content: Frequency measurement
+- content: Phase measurement

@@ -1,9 +1,9 @@
 ---
 id: IEEE2780-2019
 title:
-- type: main
-  content: IEEE Standard for Insulation-Piercing Connectors
+- content: IEEE Standard for Insulation-Piercing Connectors
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8764100
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,24 +64,25 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2019'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Insulation
-- Power distribution
-- Splicing
-- Connectors
-- Testing
-- IEEE 2780
-- insulation-piercing connector
-- IPC
-- power-distribution network
-- splicing
-- test
+- content: IEEE Standards
+- content: Insulation
+- content: Power distribution
+- content: Splicing
+- content: Connectors
+- content: Testing
+- content: IEEE 2780
+- content: insulation-piercing connector
+- content: IPC
+- content: power-distribution network
+- content: splicing
+- content: test
 editorialgroup:
   committee:
   - Corporate Advisory Group of the IEEE-SA Board of Governors

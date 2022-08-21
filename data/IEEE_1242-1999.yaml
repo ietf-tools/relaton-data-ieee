@@ -1,10 +1,10 @@
 ---
 id: IEEE1242-1999
 title:
-- type: main
-  content: IEEE Guide for Specifying and Selecting Power, Control, and Special-Purpose
+- content: IEEE Guide for Specifying and Selecting Power, Control, and Special-Purpose
     Cable for Petroleum and Chemical Plants
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/798783
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1999'
 relation:
@@ -78,12 +80,12 @@ relation:
     formattedref:
       content: IEEE 1242-2016
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Petroleum industry
-- cable insulation
-- low-voltage cable
-- medium-voltage cable
+- content: Petroleum industry
+- content: cable insulation
+- content: low-voltage cable
+- content: medium-voltage cable
 editorialgroup:
   committee:
   - Petroleum &amp; Chemical Industry of the IEEE Industry Applications Society

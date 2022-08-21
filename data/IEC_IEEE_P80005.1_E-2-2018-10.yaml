@@ -1,10 +1,10 @@
 ---
 id: IEC/IEEEP80005.1/E-2-2018-10
 title:
-- type: main
-  content: 'IEC/IEEE Draft International Standard - Utility Connections in Port--Part
+- content: 'IEC/IEEE Draft International Standard - Utility Connections in Port--Part
     1: High Voltage Shore Connection (HVSC) Systems--General requirements'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8509656
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -50,11 +51,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2018'
 relation:
 - type: updates
@@ -91,13 +93,13 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- Electricity supply industry
-- High-voltage techniques
-- Voltage control
+- content: IEEE Standards
+- content: IEC Standards
+- content: Electricity supply industry
+- content: High-voltage techniques
+- content: Voltage control
 editorialgroup:
   committee:
   - Petroleum &amp; Chemical Industry of the IEEE Industry Applications Society

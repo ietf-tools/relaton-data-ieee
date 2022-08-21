@@ -1,9 +1,9 @@
 ---
 id: IEEE1596-1992
 title:
-- type: main
-  content: IEEE Standard for Scalable Coherent Interface (SCI)
+- content: IEEE Standard for Scalable Coherent Interface (SCI)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6182605
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -70,39 +71,40 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1992'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Optical fiber communication
-- Distributed processing
-- System buses
-- Cache storage
-- Multiprocessing systems
-- scalable
-- coherent
-- interface
-- bus architecture
-- bus standard
-- cache coherence
-- distributed memory
-- fiber optic
-- interconnect
-- IO system
-- link
-- mesh
-- multiprocessor
-- network
-- packet protocol
-- ring
-- shared memory
-- switch
-- transaction set
-- Seamless distributed computer
-- I/O system
+- content: IEEE standards
+- content: Optical fiber communication
+- content: Distributed processing
+- content: System buses
+- content: Cache storage
+- content: Multiprocessing systems
+- content: scalable
+- content: coherent
+- content: interface
+- content: bus architecture
+- content: bus standard
+- content: cache coherence
+- content: distributed memory
+- content: fiber optic
+- content: interconnect
+- content: IO system
+- content: link
+- content: mesh
+- content: multiprocessor
+- content: network
+- content: packet protocol
+- content: ring
+- content: shared memory
+- content: switch
+- content: transaction set
+- content: Seamless distributed computer
+- content: I/O system
 editorialgroup:
   committee:
   - Microprocessor Standards Committee of the IEEE Computer Society

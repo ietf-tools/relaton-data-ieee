@@ -1,9 +1,9 @@
 ---
 id: IEEE1481-1999
 title:
-- type: main
-  content: IEEE Standard for Integrated Circuit (IC) Delay and Power Calculation System
+- content: IEEE Standard for Integrated Circuit (IC) Delay and Power Calculation System
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7395044
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1999'
 relation:
@@ -80,18 +82,18 @@ relation:
     formattedref:
       content: IEEE 1481-2009
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Delays
-- 'Electronic design automation '
-- Integrated circuits
-- Circuit synthesis
-- Power calculations
-- chip delay
-- electronic design automation (EDA)
-- integrated circuit design
-- power calculation
+- content: IEEE Standards
+- content: Delays
+- content: 'Electronic design automation '
+- content: Integrated circuits
+- content: Circuit synthesis
+- content: Power calculations
+- content: chip delay
+- content: electronic design automation (EDA)
+- content: integrated circuit design
+- content: power calculation
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

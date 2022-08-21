@@ -1,10 +1,10 @@
 ---
 id: IEEEC37.51-1989
 title:
-- type: main
-  content: American National Standard for Switchgear--Metal-Enclosed Low-Voltage AC
+- content: American National Standard for Switchgear--Metal-Enclosed Low-Voltage AC
     Power- Circuit-Breaker Switchgear Assemblies--Conformance Test Procedures
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4140810
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -52,17 +53,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1989'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- ANSI
-- Consumer electronics
-- Conformance testing
-- Circuit breakers
-- Instruments
+- content: ANSI
+- content: Consumer electronics
+- content: Conformance testing
+- content: Circuit breakers
+- content: Instruments
 ics:
 - code: 29.130.20
   text: Low voltage switchgear and controlgear

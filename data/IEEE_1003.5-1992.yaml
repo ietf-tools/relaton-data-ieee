@@ -1,10 +1,10 @@
 ---
 id: IEEE1003.5-1992
 title:
-- type: main
-  content: 'IEEE Standard for Information Technology--POSIX(R) Ada Language Interfaces--PART
+- content: 'IEEE Standard for Information Technology--POSIX(R) Ada Language Interfaces--PART
     1: Binding for System Application Program Interface (API)'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7160863
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -73,27 +74,28 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1992'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Information technology
-- Appication programming interfaces
-- Operating systems
-- Computer languages
-- Portability
-- Ada
-- API
-- operating system
-- portable application
-- POSIX
-- POSIX language bindings
-- Open systems
-- Computer language bindings
-- Application portability
+- content: IEEE standards
+- content: Information technology
+- content: Appication programming interfaces
+- content: Operating systems
+- content: Computer languages
+- content: Portability
+- content: Ada
+- content: API
+- content: operating system
+- content: portable application
+- content: POSIX
+- content: POSIX language bindings
+- content: Open systems
+- content: Computer language bindings
+- content: Application portability
 editorialgroup:
   committee:
   - Portable Applications of the IEEE Computer Society

@@ -1,10 +1,10 @@
 ---
 id: IEEE1450.4-2017
 title:
-- type: main
-  content: IEEE Standard for Extensions to Standard Test Interface Language (STIL)
+- content: IEEE Standard for Extensions to Standard Test Interface Language (STIL)
     (IEEE Std 1450-1999) for Test Flow Specification
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8283877
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -74,32 +75,33 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2018'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Automatic testing
-- Integrated circuits
-- Computer aided engineering
-- Programming
-- ATPG
-- ATPRG
-- automatic test program generator or generation
-- binning
-- CAE
-- computer-aided engineering
-- device under test
-- DUT
-- IC test
-- IEEE 1450.4(TM)
-- integrated circuit test
-- test flow
-- test program description
-- test program language
-- TPG
+- content: IEEE Standards
+- content: Automatic testing
+- content: Integrated circuits
+- content: Computer aided engineering
+- content: Programming
+- content: ATPG
+- content: ATPRG
+- content: automatic test program generator or generation
+- content: binning
+- content: CAE
+- content: computer-aided engineering
+- content: device under test
+- content: DUT
+- content: IC test
+- content: IEEE 1450.4(TM)
+- content: integrated circuit test
+- content: test flow
+- content: test program description
+- content: test program language
+- content: TPG
 editorialgroup:
   committee:
   - Test Technology of the IEEE Computer Society

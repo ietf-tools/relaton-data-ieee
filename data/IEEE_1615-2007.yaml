@@ -1,9 +1,9 @@
 ---
 id: IEEE1615-2007
 title:
-- type: main
-  content: IEEE Recommended Practice for Network Communication in Electric Power Substations
+- content: IEEE Recommended Practice for Network Communication in Electric Power Substations
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4288669
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2007'
 relation:
@@ -79,30 +81,30 @@ relation:
     formattedref:
       content: IEEE 1615-2019
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- address allocation
-- communication media
-- DNP3
-- electric utility
-- Ethernet
-- fiber-optic
-- IEC 60870-5
-- IEC 61850
-- Intelligent Electronic Device (IED)
-- Internet protocol (IP)
-- managed switch
-- network
-- network cable
-- network devices
-- noise sources
-- non-operational data
-- operational data
-- security awareness
-- substation
-- transmission control protocol (TCP)
-- time synchronization
-- wireless network
+- content: address allocation
+- content: communication media
+- content: DNP3
+- content: electric utility
+- content: Ethernet
+- content: fiber-optic
+- content: IEC 60870-5
+- content: IEC 61850
+- content: Intelligent Electronic Device (IED)
+- content: Internet protocol (IP)
+- content: managed switch
+- content: network
+- content: network cable
+- content: network devices
+- content: noise sources
+- content: non-operational data
+- content: operational data
+- content: security awareness
+- content: substation
+- content: transmission control protocol (TCP)
+- content: time synchronization
+- content: wireless network
 editorialgroup:
   committee:
   - IEEE Power and Energy Society

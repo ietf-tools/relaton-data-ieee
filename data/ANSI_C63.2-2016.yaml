@@ -1,11 +1,11 @@
 ---
 id: ANSIC63.2-2016
 title:
-- type: main
-  content: American National Standard for Specifications of Electromagnetic Interference
+- content: American National Standard for Specifications of Electromagnetic Interference
     and Field Strength Measuring Instrumentation in the Frequency Range 9 kHz to 40
     GHz
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7852424
   type: src
@@ -35,8 +35,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,12 +65,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - American National Standards Institute
-    abbreviation: ANSI
+    - content: American National Standards Institute
+    abbreviation:
+      content: ANSI
     url: https://www.ansi.org
   from: '2016'
 relation:
@@ -90,22 +93,22 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ANSI Standards
-- Electromagnetic interference
-- Electromagnetic measurements
-- Peak detection
-- Electromagnetic compatibility
-- ANSI C63.2
-- average detection
-- electromagnetic compatibility
-- electromagnetic interference
-- EMI Receiver
-- field strength measurement instrumentation
-- peak detection
-- quasi-peak detection
+- content: IEEE Standards
+- content: ANSI Standards
+- content: Electromagnetic interference
+- content: Electromagnetic measurements
+- content: Peak detection
+- content: Electromagnetic compatibility
+- content: ANSI C63.2
+- content: average detection
+- content: electromagnetic compatibility
+- content: electromagnetic interference
+- content: EMI Receiver
+- content: field strength measurement instrumentation
+- content: peak detection
+- content: quasi-peak detection
 editorialgroup:
   committee:
   - Accredited Standards Committee on Electromagnetic Compatibility

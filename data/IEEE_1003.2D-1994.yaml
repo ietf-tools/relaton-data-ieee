@@ -1,10 +1,10 @@
 ---
 id: IEEE1003.2d-1994
 title:
-- type: main
-  content: 'IEEE Standard for Information Technology--Portable Operating System Interface
+- content: 'IEEE Standard for Information Technology--Portable Operating System Interface
     (POSIX(TM))--Part 2: Shell and Utilities--Amendment 1: Batch Environment'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7379697
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,8 +67,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1994'
 relation:
@@ -88,17 +90,17 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Batch processing
-- Operating systems
-- Information technology
-- Queueing analysis
-- batch
-- batch extensions
-- distributed batch
-- queuing
+- content: IEEE Standards
+- content: Batch processing
+- content: Operating systems
+- content: Information technology
+- content: Queueing analysis
+- content: batch
+- content: batch extensions
+- content: distributed batch
+- content: queuing
 editorialgroup:
   committee:
   - Portable Applications of the IEEE Computer Society

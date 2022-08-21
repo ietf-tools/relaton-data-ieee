@@ -1,10 +1,10 @@
 ---
 id: ISO/IEC/IEEE18880-2015
 title:
-- type: main
-  content: ISO/IEC/IEEE Information technology- Ubiquitous green community control
+- content: ISO/IEC/IEEE Information technology- Ubiquitous green community control
     network protocol
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7098298
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,44 +69,45 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2015'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- ISO Standards
-- Actuators
-- Communication protocols
-- Storage automation
-- Green design
-- Energy management
-- Gateways
-- Access interface
-- access interface
-- actuator
-- APP
-- application
-- communication protocol
-- component
-- data structure
-- energy management
-- energy saving
-- facility networking
-- gateway
-- GW
-- IEEE 1888(TM)
-- point
-- registry
-- sensor
-- SOAP
-- storage
+- content: IEEE Standards
+- content: IEC Standards
+- content: ISO Standards
+- content: Actuators
+- content: Communication protocols
+- content: Storage automation
+- content: Green design
+- content: Energy management
+- content: Gateways
+- content: Access interface
+- content: access interface
+- content: actuator
+- content: APP
+- content: application
+- content: communication protocol
+- content: component
+- content: data structure
+- content: energy management
+- content: energy saving
+- content: facility networking
+- content: gateway
+- content: GW
+- content: IEEE 1888(TM)
+- content: point
+- content: registry
+- content: sensor
+- content: SOAP
+- content: storage
 ics:
 - code: '35.110'
   text: Networking

@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE1296-1987
 title:
-- type: main
-  content: 'IEEE Standard for a High-Performance Synchronous 32-Bit Bus: MULTIBUS
+- content: 'IEEE Standard for a High-Performance Synchronous 32-Bit Bus: MULTIBUS
     II'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/26494
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -71,19 +72,20 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1988'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Computer interfaces
-- Standards
-- high
-- performance
-- '32'
-- bit
-- bus
+- content: Computer interfaces
+- content: Standards
+- content: high
+- content: performance
+- content: '32'
+- content: bit
+- content: bus
 editorialgroup:
   committee:
   - Microprocessor Standards Committee of the IEEE Computer Society

@@ -1,10 +1,10 @@
 ---
 id: IEEE1642-2015
 title:
-- type: main
-  content: IEEE Recommended Practice for Protecting Publicly Accessible Computer Systems
+- content: IEEE Recommended Practice for Protecting Publicly Accessible Computer Systems
     from Intentional Electromagnetic Interference (IEMI)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7031355
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -74,22 +75,23 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2015'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Electromagnetic interference
-- Computer systems
-- Electromagnetic measurements
-- electromagnetic protection
-- IEEE 1624(TM)
-- intentional electromagnetic interference
-- IEMI
-- high-power electromagnetics
-- HPEM
+- content: IEEE Standards
+- content: Electromagnetic interference
+- content: Computer systems
+- content: Electromagnetic measurements
+- content: electromagnetic protection
+- content: IEEE 1624(TM)
+- content: intentional electromagnetic interference
+- content: IEMI
+- content: high-power electromagnetics
+- content: HPEM
 editorialgroup:
   committee:
   - Standards Development Committee of the IEEE Electromagnetic Compatibility Society

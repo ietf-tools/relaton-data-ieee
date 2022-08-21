@@ -1,10 +1,10 @@
 ---
 id: IEEE338-1971
 title:
-- type: main
-  content: IEEE Trial-Use Criteria for the Periodic Testing of Nuclear Power Generating
+- content: IEEE Trial-Use Criteria for the Periodic Testing of Nuclear Power Generating
     Station Protection Systems
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7112055
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,18 +68,19 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1971'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Test equipment
-- Nuclear power generation
-- Power system tesing
-- Power system reliability
-- Electrical safety
+- content: IEEE standards
+- content: Test equipment
+- content: Nuclear power generation
+- content: Power system tesing
+- content: Power system reliability
+- content: Electrical safety
 editorialgroup:
   committee:
   - Nuclear Power Engineering of the IEEE Power and Energy Society

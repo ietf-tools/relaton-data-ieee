@@ -1,12 +1,12 @@
 ---
 id: IEEE802.3an-2006
 title:
-- type: main
-  content: 'Standard for Information Technology - Telecommunications and Information
+- content: 'Standard for Information Technology - Telecommunications and Information
     Exchange Between Systems – LAN/MAN - Specific Requirements Part 3: CSMA/CD Access
     Method and Physical Layer Specifications - Amendment: Physical Layer and Management
     Parameters for 10 Gb/s Operation, Type 10GBASE-T'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1700008
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2006'
 relation:
@@ -86,22 +88,22 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE 802.3 Standard
-- EPON
-- Physical layer
-- Local area networks
-- Information technology
-- 802.3an
-- 10GBASE-T
-- 10 Gigabit Ethernet
-- Auto-Negotiation
-- Physical Coding Sublayer (PCS)
-- Physical Medium Attachment (PMA) sublayer
-- structured cabling
-- XAUI
-- XGMII
+- content: IEEE 802.3 Standard
+- content: EPON
+- content: Physical layer
+- content: Local area networks
+- content: Information technology
+- content: 802.3an
+- content: 10GBASE-T
+- content: 10 Gigabit Ethernet
+- content: Auto-Negotiation
+- content: Physical Coding Sublayer (PCS)
+- content: Physical Medium Attachment (PMA) sublayer
+- content: structured cabling
+- content: XAUI
+- content: XGMII
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

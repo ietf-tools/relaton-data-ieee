@@ -1,9 +1,9 @@
 ---
 id: IEEE660-1986
 title:
-- type: main
-  content: IEEE Standard for Semiconductor Memory Test Pattern Language
+- content: IEEE Standard for Semiconductor Memory Test Pattern Language
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7434526
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,18 +66,19 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1986'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Semiconductor memory
-- Pattern recognition
-- Test patterns
-- Radiation detectors
-- Memory devices
+- content: IEEE Standards
+- content: Semiconductor memory
+- content: Pattern recognition
+- content: Test patterns
+- content: Radiation detectors
+- content: Memory devices
 editorialgroup:
   committee:
   - Test Technology of the IEEE Computer Society

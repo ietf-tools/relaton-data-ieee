@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE432-1976
 title:
-- type: main
-  content: IEEE Guide for Insulation Maintenance for Rotating Electrical Machinery
+- content: IEEE Guide for Insulation Maintenance for Rotating Electrical Machinery
     (5 hp to less than 10 000 hp)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/19481
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,20 +62,21 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1976'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Insulation testing
-- Maintenance
-- Standards
-- insulation
-- maintenance
-- rotating
-- electrical
-- machinery
+- content: Insulation testing
+- content: Maintenance
+- content: Standards
+- content: insulation
+- content: maintenance
+- content: rotating
+- content: electrical
+- content: machinery
 editorialgroup:
   committee:
   - Electric Machinery of the IEEE Power and Energy Society

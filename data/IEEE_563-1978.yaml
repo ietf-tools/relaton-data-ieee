@@ -1,9 +1,9 @@
 ---
 id: IEEE563-1978
 title:
-- type: main
-  content: IEEE Guide on Conductor Self-Damping Measurements
+- content: IEEE Guide on Conductor Self-Damping Measurements
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9678143
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,18 +64,19 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1978'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Power system measurements
-- Power cables
-- Mechanical systems
-- Power system measurements
-- Power cable mechanical factors
+- content: IEEE Standards
+- content: Power system measurements
+- content: Power cables
+- content: Mechanical systems
+- content: Power system measurements
+- content: Power cable mechanical factors
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society

@@ -1,10 +1,10 @@
 ---
 id: IEEE1874-2013
 title:
-- type: main
-  content: IEEE Standard for Documentation Schema for Repair and Assembly of Electronic
+- content: IEEE Standard for Documentation Schema for Repair and Assembly of Electronic
     Devices
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6712032
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -70,23 +71,24 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2014'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Maintenance engineering
-- Equipment maintenance
-- IEEE 1874(TM)
-- JSON
-- manual
-- oEmbed
-- oManual
-- RESTful API
-- XML
-- ZIP
+- content: IEEE standards
+- content: Maintenance engineering
+- content: Equipment maintenance
+- content: IEEE 1874(TM)
+- content: JSON
+- content: manual
+- content: oEmbed
+- content: oManual
+- content: RESTful API
+- content: XML
+- content: ZIP
 editorialgroup:
   committee:
   - Standards Committee of the IEEE Consumer Electronics Society

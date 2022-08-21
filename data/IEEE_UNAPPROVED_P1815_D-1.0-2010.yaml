@@ -1,10 +1,10 @@
 ---
 id: IEEEUnapprovedP1815/D-1.0-2010
 title:
-- type: main
-  content: IEEE Draft Standard for Electric Power Systems Communications - Distributed
+- content: IEEE Draft Standard for Electric Power Systems Communications - Distributed
     Network Protocol (DNP3)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5434907
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -60,15 +61,16 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2010'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Power systems
-- Distributed processing
+- content: IEEE standards
+- content: Power systems
+- content: Distributed processing
 ics:
 - code: '33.200'
   text: Telecontrol. Telemetering

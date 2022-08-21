@@ -1,10 +1,10 @@
 ---
 id: IEC/IEEECDP60980.344
 title:
-- type: main
-  content: IEEE Draft Standard - Nuclear Facilities - Equipment Important to Safety
+- content: IEEE Draft Standard - Nuclear Facilities - Equipment Important to Safety
     - Seismic Qualification
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8765650
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -50,19 +51,20 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2019'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Nuclear power generation
-- Safety
-- Power system reliability
-- Seismic measurements
+- content: IEEE Standards
+- content: Nuclear power generation
+- content: Safety
+- content: Power system reliability
+- content: Seismic measurements
 editorialgroup:
   committee:
   - Nuclear Power Engineering of the IEEE Power and Energy Society

@@ -1,10 +1,10 @@
 ---
 id: IEEEP572/D-3
 title:
-- type: main
-  content: Unapproved IEEE Draft Standard for Qualification of Class 1E Connection
+- content: Unapproved IEEE Draft Standard for Qualification of Class 1E Connection
     Assemblies for Nuclear Power Generating Stations (Revision of IEEE 572-1985)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4040609
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -56,11 +57,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2006'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: 27.120.20
   text: Nuclear power plants. Safety

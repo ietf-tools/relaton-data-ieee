@@ -1,10 +1,10 @@
 ---
 id: IEEEUnapprovedP605a/D-2-2009
 title:
-- type: main
-  content: IEEE Draft Guide for Bus Design in Air Insulated Substations-Amendment
+- content: IEEE Draft Guide for Bus Design in Air Insulated Substations-Amendment
     1
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5281232
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -54,11 +55,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: '31.200'
   text: Integrated circuits. Microelectronics

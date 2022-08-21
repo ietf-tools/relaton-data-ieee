@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE511-1979
 title:
-- type: main
-  content: IEEE Standard on Video Signal Transmission Measurement of Linear Waveform
+- content: IEEE Standard on Video Signal Transmission Measurement of Linear Waveform
     Distortion
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/19501
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,18 +66,19 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1979'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Measurement standards
-- video
-- signal
-- transmission
-- waveform
-- distortion
+- content: Measurement standards
+- content: video
+- content: signal
+- content: transmission
+- content: waveform
+- content: distortion
 editorialgroup:
   committee:
   - IEEE Broadcast Technology Society

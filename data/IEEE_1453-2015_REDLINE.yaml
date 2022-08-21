@@ -1,14 +1,14 @@
 ---
 id: IEEE1453-2015Redline
 title:
-- type: title-main
-  content: IEEE Recommended Practice for the Analysis of Fluctuating Installations
+- content: IEEE Recommended Practice for the Analysis of Fluctuating Installations
     on Power Systems
   format: text/plain
-- type: main
-  content: IEEE Recommended Practice for the Analysis of Fluctuating Installations
+  type: title-main
+- content: IEEE Recommended Practice for the Analysis of Fluctuating Installations
     on Power Systems - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7374638
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,8 +69,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2015'
 relation:
@@ -90,16 +92,16 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Flicker
-- Power system reliability
-- Fluctuations
-- flicker
-- fluctuating loads
-- IEEE 1453
-- power systems
+- content: IEEE Standards
+- content: Flicker
+- content: Power system reliability
+- content: Fluctuations
+- content: flicker
+- content: fluctuating loads
+- content: IEEE 1453
+- content: power systems
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society

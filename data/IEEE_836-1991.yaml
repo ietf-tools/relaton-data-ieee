@@ -1,9 +1,9 @@
 ---
 id: IEEE836-1991
 title:
-- type: main
-  content: IEEE Recommended Practice for Precision Centrifuge Testing of Linear Accelerometers
+- content: IEEE Recommended Practice for Precision Centrifuge Testing of Linear Accelerometers
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/239582
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,8 +69,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1992'
 relation:
@@ -83,13 +85,13 @@ relation:
     formattedref:
       content: IEEE 836-2001
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Acceleration measurement
-- Measurement errors
-- centrifuge
-- accelerometer test
-- Linear accelerometer
+- content: Acceleration measurement
+- content: Measurement errors
+- content: centrifuge
+- content: accelerometer test
+- content: Linear accelerometer
 editorialgroup:
   committee:
   - Gyro Accelerometer Panel of the IEEE Aerospace and Electronic Systems Society

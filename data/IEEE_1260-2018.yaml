@@ -1,10 +1,10 @@
 ---
 id: IEEE1260-2018
 title:
-- type: main
-  content: IEEE Guide on the Prediction,Measurement, and Analysis of AM Broadcast
+- content: IEEE Guide on the Prediction,Measurement, and Analysis of AM Broadcast
     Reradiation by Power Lines
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8649791
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,23 +67,24 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2019'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Radiation monitoring
-- Power transmission lines
-- Broadcasting
-- Interference
-- AM broadcast
-- IEEE 1260&#8482;
-- interference prediction
-- measurement
-- power lines
-- reradiation
+- content: IEEE Standards
+- content: Radiation monitoring
+- content: Power transmission lines
+- content: Broadcasting
+- content: Interference
+- content: AM broadcast
+- content: IEEE 1260&#8482;
+- content: interference prediction
+- content: measurement
+- content: power lines
+- content: reradiation
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society

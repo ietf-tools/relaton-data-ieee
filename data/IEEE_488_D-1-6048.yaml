@@ -1,10 +1,10 @@
 ---
 id: IEEE488/D-1-6048
 title:
-- type: main
-  content: 'IEC/IEEE International Standard - Higher Performance Protocol for the
+- content: 'IEC/IEEE International Standard - Higher Performance Protocol for the
     Standard Digital Interface for Programmable Instrumentation - Part 1: General'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1405845
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -72,21 +73,22 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2004'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- Programmable instrumentation
-- Standard Digital Interface
-- GPIB
-- HPIB
-- HS488
-- non-interlocked handshake
-- three-wire handshake
+- content: IEEE Standards
+- content: IEC Standards
+- content: Programmable instrumentation
+- content: Standard Digital Interface
+- content: GPIB
+- content: HPIB
+- content: HS488
+- content: non-interlocked handshake
+- content: three-wire handshake
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

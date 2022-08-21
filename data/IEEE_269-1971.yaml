@@ -1,10 +1,10 @@
 ---
 id: IEEE269-1971
 title:
-- type: main
-  content: IEEE Standard Method for Measuring Transmission Performance of Telephone
+- content: IEEE Standard Method for Measuring Transmission Performance of Telephone
     Sets
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7393426
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -72,8 +73,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1971'
 relation:
@@ -87,11 +89,11 @@ relation:
     formattedref:
       content: IEEE 269-1983
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Telephone sets
-- Performance evaluation
-- Telephone equipment
-- Measurement standards
-- Acoustics
+- content: IEEE Standards
+- content: Telephone sets
+- content: Performance evaluation
+- content: Telephone equipment
+- content: Measurement standards
+- content: Acoustics

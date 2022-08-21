@@ -1,10 +1,10 @@
 ---
 id: IEEE2941-2021
 title:
-- type: main
-  content: IEEE Standard for Artificial Intelligence (AI) Model Representation, Compression,
+- content: IEEE Standard for Artificial Intelligence (AI) Model Representation, Compression,
     Distribution, and Management
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9739118
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,27 +62,28 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2022'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Convolutional neural networks
-- Neural networks
-- Artificial intelligence
-- Interoperability
-- Data compression
-- Information representation
-- coding format
-- compact representation
-- convolution neural networks
-- encapsulated format
-- IEEE 2941
-- interoperable representation
-- model compression
-- neural network representation
+- content: IEEE Standards
+- content: Convolutional neural networks
+- content: Neural networks
+- content: Artificial intelligence
+- content: Interoperability
+- content: Data compression
+- content: Information representation
+- content: coding format
+- content: compact representation
+- content: convolution neural networks
+- content: encapsulated format
+- content: IEEE 2941
+- content: interoperable representation
+- content: model compression
+- content: neural network representation
 editorialgroup:
   committee:
   - Data Compression Standards Committee of the IEEE Computer Society

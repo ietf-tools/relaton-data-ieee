@@ -1,10 +1,10 @@
 ---
 id: IEEEUnapprovedP14102/D-1-2010
 title:
-- type: main
-  content: IEEE Draft Standard Adoption of ISO/IEC 14102:2008 Information Technology
+- content: IEEE Draft Standard Adoption of ISO/IEC 14102:2008 Information Technology
     - Guideline for the Evaluation and Selection of CASE Tools
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5422018
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -58,16 +59,17 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2010'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Information technology
-- ISO standards
-- IEC standards
+- content: IEEE standards
+- content: Information technology
+- content: ISO standards
+- content: IEC standards
 ics:
 - code: '35.080'
   text: Software

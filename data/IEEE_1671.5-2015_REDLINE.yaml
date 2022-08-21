@@ -1,13 +1,13 @@
 ---
 id: IEEE1671.5-2015Redline
 title:
-- type: title-main
-  content: IEEE Standard for Automatic Test Markup Language (ATML) Test Adapter Description
+- content: IEEE Standard for Automatic Test Markup Language (ATML) Test Adapter Description
   format: text/plain
-- type: main
-  content: IEEE Standard for Automatic Test Markup Language (ATML) Test Adapter Description
+  type: title-main
+- content: IEEE Standard for Automatic Test Markup Language (ATML) Test Adapter Description
     - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7166298
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,27 +64,28 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2015'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- XML
-- Automatic test equipment
-- Automatic test markup language
-- Test adpaters
-- ATML instance document
-- automatic test equipment (ATE)
-- automatic test markup language (ATML)
-- automatic test system (ATS)
-- IEEE 1671.5(TM)
-- interface device (ID)
-- interface test adapter (ITA)
-- test adapter
-- test fixture
-- XML schema
+- content: IEEE Standards
+- content: XML
+- content: Automatic test equipment
+- content: Automatic test markup language
+- content: Test adpaters
+- content: ATML instance document
+- content: automatic test equipment (ATE)
+- content: automatic test markup language (ATML)
+- content: automatic test system (ATS)
+- content: IEEE 1671.5(TM)
+- content: interface device (ID)
+- content: interface test adapter (ITA)
+- content: test adapter
+- content: test fixture
+- content: XML schema
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

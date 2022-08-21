@@ -1,10 +1,10 @@
 ---
 id: IEC62270
 title:
-- type: main
-  content: IEC/IEEE Guide for Computer-based Control for Hydroelectric Power Plant
+- content: IEC/IEEE Guide for Computer-based Control for Hydroelectric Power Plant
     Automation
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6613508
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,11 +65,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2013'
 relation:
 - type: updates
@@ -88,14 +90,14 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- IEC standards
-- Power generation
-- Hydroelectric power generation
-- Control systems
-- Computerized monitoring
+- content: IEEE standards
+- content: IEC standards
+- content: Power generation
+- content: Hydroelectric power generation
+- content: Control systems
+- content: Computerized monitoring
 editorialgroup:
   committee:
   - Energy Development &amp; Power Generation of the IEEE Power and Energy Society

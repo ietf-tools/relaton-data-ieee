@@ -1,12 +1,12 @@
 ---
 id: IEEE802.3-2002
 title:
-- type: main
-  content: 'IEEE Standard for Information technology-Telecommunications and information
+- content: 'IEEE Standard for Information technology-Telecommunications and information
     exchange between systems-Local and metropolitan area networks-Specific requirements
     Part 3: Carrier sense multiple access with collision detection (CSMA/CD) access
     method and physical layer specifications'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/988967
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -77,8 +78,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2002'
 relation:
@@ -99,17 +101,17 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE 802.3 Standard
-- EPON
-- Physical layer
-- ISO Standards
-- IEC Standards
-- ggregated Link; Aggregator; Auto Negotiation; Category 5; copper; data processing;
-  Ethernet; gigabit; information interchange
-- Link Aggregation; local area networks
-- management; MASTER-SLAVE; medium dependent interface
+- content: IEEE 802.3 Standard
+- content: EPON
+- content: Physical layer
+- content: ISO Standards
+- content: IEC Standards
+- content: ggregated Link; Aggregator; Auto Negotiation; Category 5; copper; data
+    processing; Ethernet; gigabit; information interchange
+- content: Link Aggregation; local area networks
+- content: management; MASTER-SLAVE; medium dependent interface
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

@@ -1,11 +1,11 @@
 ---
 id: IEEEP802.16n/D-6-2012-10
 title:
-- type: main
-  content: 'IEEE Draft Standard for Local and metropolitan area networks Part 16:
+- content: 'IEEE Draft Standard for Local and metropolitan area networks Part 16:
     Air Interface for Broadband Wireless Access Systems Amendment: Higher Reliability
     Networks'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6341012
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2012'
 relation:
@@ -85,14 +87,14 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Local area networks
-- Metropolitan area networks
-- Broadband
-- Air interfaces
-- Wireless networks
+- content: IEEE standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Broadband
+- content: Air interfaces
+- content: Wireless networks
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

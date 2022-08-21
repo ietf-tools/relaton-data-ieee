@@ -1,10 +1,10 @@
 ---
 id: ISO/IEC/IEEEFDISP26512/D-3-2017
 title:
-- type: main
-  content: ISO/IEC/IEEE Draft International Standard - Systems and Software Engineering
+- content: ISO/IEC/IEEE Draft International Standard - Systems and Software Engineering
     -- Requirements for Acquirers and Suppliers of Information for Users
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7862715
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -50,13 +51,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2017'
 relation:
 - type: updates
@@ -76,13 +78,13 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- ISO Standards
-- Software engineering
-- System analysis and design
+- content: IEEE Standards
+- content: IEC Standards
+- content: ISO Standards
+- content: Software engineering
+- content: System analysis and design
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

@@ -1,10 +1,10 @@
 ---
 id: IEEE55-1953
 title:
-- type: main
-  content: IEEE Guide for Temperature Correlation in the Connection of Insulated Wire
+- content: IEEE Guide for Temperature Correlation in the Connection of Insulated Wire
     and Cables to Electronic Equipment
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/109453
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,20 +70,21 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1953'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Cable insulation
-- Connectors
-- Electronic equipment testing
-- Power cables
-- Standards
-- temperature correlation
-- insulated wire
-- electronic equipment
+- content: Cable insulation
+- content: Connectors
+- content: Electronic equipment testing
+- content: Power cables
+- content: Standards
+- content: temperature correlation
+- content: insulated wire
+- content: electronic equipment
 editorialgroup:
   committee:
   - Insulated Conductors of the IEEE Power and Energy Society

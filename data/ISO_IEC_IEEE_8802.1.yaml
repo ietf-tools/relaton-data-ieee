@@ -1,11 +1,11 @@
 ---
 id: ISO/IEC/IEEE8802.1
 title:
-- type: main
-  content: 'Iso/iec/ieee international standard--telecommunications and exchange between
+- content: 'Iso/iec/ieee international standard--telecommunications and exchange between
     information technology systems--requirements for local and metropolitan area networks--part
     1cs: link-local registration protocol'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9825639
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,13 +66,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2022'
 relation:
 - type: adoptedFrom
@@ -84,29 +86,29 @@ relation:
     formattedref:
       content: IEEE 802.1
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ISO Standards
-- IEC Standards
-- Local area networks
-- Metropolitan area networks
-- Bridge circuts
-- Media Access Protocol
-- Virtual LAN
-- Bridged Local Area Networks
-- bridges
-- bridging
-- IEEE 802
-- IEEE 802.1CS
-- IEEE 802.1Q
-- Link-local Registration Protocol
-- local area networks (LANs)
-- LRP
-- MAC Bridges
-- Time-Sensitive Networking
-- TSN
-- Virtual Bridged Local Area Networks (virtual LANs)
+- content: IEEE Standards
+- content: ISO Standards
+- content: IEC Standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Bridge circuts
+- content: Media Access Protocol
+- content: Virtual LAN
+- content: Bridged Local Area Networks
+- content: bridges
+- content: bridging
+- content: IEEE 802
+- content: IEEE 802.1CS
+- content: IEEE 802.1Q
+- content: Link-local Registration Protocol
+- content: local area networks (LANs)
+- content: LRP
+- content: MAC Bridges
+- content: Time-Sensitive Networking
+- content: TSN
+- content: Virtual Bridged Local Area Networks (virtual LANs)
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

@@ -1,9 +1,9 @@
 ---
 id: ANSI/IEEE492-1974
 title:
-- type: main
-  content: IEEE Guide for Operation and Maintenance of Hydro-Generators
+- content: IEEE Guide for Operation and Maintenance of Hydro-Generators
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/20982
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,20 +64,21 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1974'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Hydroelectric generators
-- Maintenance
-- Standards
-- guide
-- operation
-- maintenance
-- hydro
-- generators
+- content: Hydroelectric generators
+- content: Maintenance
+- content: Standards
+- content: guide
+- content: operation
+- content: maintenance
+- content: hydro
+- content: generators
 editorialgroup:
   committee:
   - Electric Machinery of the IEEE Power and Energy Society

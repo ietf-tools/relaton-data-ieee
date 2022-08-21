@@ -1,9 +1,9 @@
 ---
 id: IEEE167A-1987
 title:
-- type: main
-  content: IEEE Standard Facsimile Test Charts (Revised as 167A.1)
+- content: IEEE Standard Facsimile Test Charts (Revised as 167A.1)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/29052
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -58,17 +59,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1987'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Facsimile
-- Standards
-- 167A
-- facsimile
-- test chart
+- content: Facsimile
+- content: Standards
+- content: 167A
+- content: facsimile
+- content: test chart
 editorialgroup:
   committee:
   - IEEE Communications Society

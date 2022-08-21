@@ -1,12 +1,12 @@
 ---
 id: ISO/IEC8802.11/Amd4-2005
 title:
-- type: main
-  content: 'ISO/IEC/IEEE 8802-11:2005/AMD4 [IEEE Std 802.11g-2003] Information technology--
+- content: 'ISO/IEC/IEEE 8802-11:2005/AMD4 [IEEE Std 802.11g-2003] Information technology--
     Local and metropolitan area networks-- Part 11: Wireless LAN Medium Access Control
     (Mac) and Physical Layer (PHY) Specifications--Amendment 4: Further Higher Data
     Rate Extension in the 2.4 GHz Band'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4014509
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,21 +65,22 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2003'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ISO Standards
-- Wireless LAN
-- IEC Standards
-- Information technology
-- LAN
-- local area network
-- radio frequency
-- wireless
+- content: IEEE Standards
+- content: ISO Standards
+- content: Wireless LAN
+- content: IEC Standards
+- content: Information technology
+- content: LAN
+- content: local area network
+- content: radio frequency
+- content: wireless
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

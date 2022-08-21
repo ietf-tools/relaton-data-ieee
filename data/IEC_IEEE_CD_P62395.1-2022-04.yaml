@@ -1,10 +1,10 @@
 ---
 id: IEC/IEEECDP62395.1-2022-04
 title:
-- type: main
-  content: 'IEEE/IEC Draft Standard - Electrical Resistance Trace Heating Systems
+- content: 'IEEE/IEC Draft Standard - Electrical Resistance Trace Heating Systems
     for Industrial and Commercial Applications – Part 1: General and testing requirements'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9766297
   type: src
@@ -28,8 +28,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -47,11 +48,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2022'
 relation:
 - type: updates
@@ -71,13 +73,13 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- Heating systems
-- Industrial power systems
-- Resistance
+- content: IEEE Standards
+- content: IEC Standards
+- content: Heating systems
+- content: Industrial power systems
+- content: Resistance
 editorialgroup:
   committee:
   - Petroleum and Chemical Industry of the IEEE Industry Applications Society

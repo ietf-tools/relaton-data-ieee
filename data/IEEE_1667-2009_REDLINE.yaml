@@ -1,14 +1,14 @@
 ---
 id: IEEE1667-2009Redline
 title:
-- type: title-main
-  content: IEEE Standard for Authentication in Host Attachments of Transient Storage
+- content: IEEE Standard for Authentication in Host Attachments of Transient Storage
     Devices
   format: text/plain
-- type: main
-  content: IEEE Standard for Authentication in Host Attachments of Transient Storage
+  type: title-main
+- content: IEEE Standard for Authentication in Host Attachments of Transient Storage
     Devices - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5953417
   type: src
@@ -36,8 +36,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -70,8 +71,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2011'
 relation:
@@ -102,20 +104,20 @@ relation:
     formattedref:
       content: IEEE 1667-2015
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Storage automation
-- Authentication
-- Universal Serial Bus
-- Transient analysis
-- 1667-2009
-- authentication
-- certificates
-- discovery
-- probe
-- removable storage
-- security
+- content: IEEE standards
+- content: Storage automation
+- content: Authentication
+- content: Universal Serial Bus
+- content: Transient analysis
+- content: 1667-2009
+- content: authentication
+- content: certificates
+- content: discovery
+- content: probe
+- content: removable storage
+- content: security
 editorialgroup:
   committee:
   - Cybersecurity and Privacy Standards Committee of the IEEE Computer Society

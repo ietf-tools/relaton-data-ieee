@@ -1,10 +1,10 @@
 ---
 id: IEEE1474.1-1999
 title:
-- type: main
-  content: IEEE Standard for Communication Based Train Control Performance Requirements
+- content: IEEE Standard for Communication Based Train Control Performance Requirements
     and Functional Requirements
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/815310
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,8 +69,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1999'
 relation:
@@ -83,12 +85,12 @@ relation:
     formattedref:
       content: IEEE 1474.1-2004
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Rail transportation
-- communications
-- signaling
-- train control
+- content: Rail transportation
+- content: communications
+- content: signaling
+- content: train control
 editorialgroup:
   committee:
   - Rail Transportation Standards Committee of the IEEE Vehicular Technology Society

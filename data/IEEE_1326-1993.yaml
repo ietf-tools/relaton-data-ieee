@@ -1,11 +1,11 @@
 ---
 id: IEEE1326-1993
 title:
-- type: main
-  content: IEEE Standard for Information Technology--Test Methods for Measuring Conformance
+- content: IEEE Standard for Information Technology--Test Methods for Measuring Conformance
     to Open Systems Interconnection (OSI) Abstract Data Manipulation - Application
     Program Interface (API) [Language Independent]
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/286079
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,23 +65,24 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1993'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Computer languages
-- Open systems
-- Consumer electronics
-- Application programming interfaces
-- Patents
-- API
-- OSI
-- Test methods
-- Language independent
-- Abstract data manipulation
+- content: IEEE Standards
+- content: Computer languages
+- content: Open systems
+- content: Consumer electronics
+- content: Application programming interfaces
+- content: Patents
+- content: API
+- content: OSI
+- content: Test methods
+- content: Language independent
+- content: Abstract data manipulation
 editorialgroup:
   committee:
   - Portable Applications of the IEEE Computer Society

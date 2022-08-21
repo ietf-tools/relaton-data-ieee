@@ -1,9 +1,9 @@
 ---
 id: IEEE1285-2005
 title:
-- type: main
-  content: IEEE Standard for Scalable Storage Interface
+- content: IEEE Standard for Scalable Storage Interface
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1611109
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,22 +64,23 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2006'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Standards
-- IEEE Standards
-- Patents
-- Uniform resource locators
-- Warranties
-- Trademarks
-- Microprocessors
-- storage interface
-- mass-storage
-- controller
+- content: Standards
+- content: IEEE Standards
+- content: Patents
+- content: Uniform resource locators
+- content: Warranties
+- content: Trademarks
+- content: Microprocessors
+- content: storage interface
+- content: mass-storage
+- content: controller
 editorialgroup:
   committee:
   - Microprocessor Standards Committee of the IEEE Computer Society

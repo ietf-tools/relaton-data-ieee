@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE400-1980
 title:
-- type: main
-  content: IEEE Guide for Making High-Direct-Voltage Tests on Power Cable Systems
+- content: IEEE Guide for Making High-Direct-Voltage Tests on Power Cable Systems
     in the Field
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/27778
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1980'
 relation:
@@ -77,17 +79,17 @@ relation:
     formattedref:
       content: IEEE 400-1991
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Cable insulation
-- Maintenance
-- Power cables
-- Standards
-- dc
-- tests
-- field
-- cable
-- high voltage
+- content: Cable insulation
+- content: Maintenance
+- content: Power cables
+- content: Standards
+- content: dc
+- content: tests
+- content: field
+- content: cable
+- content: high voltage
 editorialgroup:
   committee:
   - Insulated Conductors of the IEEE Power and Energy Society

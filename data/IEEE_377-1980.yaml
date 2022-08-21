@@ -1,10 +1,10 @@
 ---
 id: IEEE377-1980
 title:
-- type: main
-  content: IEEE Recommended Practice for Measurement of Spurious Emission From Land-Mobile
+- content: IEEE Recommended Practice for Measurement of Spurious Emission From Land-Mobile
     Communication Transmitters
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/29063
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,16 +67,17 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1980'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Electromagnetic interference
-- Measurement standards
-- Mobile communication
-- Transmitters
+- content: Electromagnetic interference
+- content: Measurement standards
+- content: Mobile communication
+- content: Transmitters
 editorialgroup:
   committee:
   - Standards Development Committee of the IEEE Electromagnetic Compatibility Society

@@ -1,9 +1,9 @@
 ---
 id: IEEES
 title:
-- type: main
-  content: IEEE- PECEA Power Cable Ampacities Copper Conductors Aluminum Conductors
+- content: IEEE- PECEA Power Cable Ampacities Copper Conductors Aluminum Conductors
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8694198
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,14 +62,15 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1962'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Power cables
-- Conductors
-- Copper
-- Aluminum
+- content: IEEE Standards
+- content: Power cables
+- content: Conductors
+- content: Copper
+- content: Aluminum

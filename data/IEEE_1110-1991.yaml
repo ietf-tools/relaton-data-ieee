@@ -1,9 +1,9 @@
 ---
 id: IEEE1110-1991
 title:
-- type: main
-  content: IEEE Guide for Synchronous Generator Modeling Practices in Stability Analyses
+- content: IEEE Guide for Synchronous Generator Modeling Practices in Stability Analyses
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/159388
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -77,8 +78,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1991'
 relation:
@@ -92,18 +94,18 @@ relation:
     formattedref:
       content: IEEE 1110-2002
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Power systems
-- Stability
-- Synchronous generators
-- models
-- application
-- analyses
-- Synchronous generator stability
-- Stability data determination
-- Saturation practices
-- Modeling practices
+- content: Power systems
+- content: Stability
+- content: Synchronous generators
+- content: models
+- content: application
+- content: analyses
+- content: Synchronous generator stability
+- content: Stability data determination
+- content: Saturation practices
+- content: Modeling practices
 editorialgroup:
   committee:
   - Electric Machinery of the IEEE Power and Energy Society

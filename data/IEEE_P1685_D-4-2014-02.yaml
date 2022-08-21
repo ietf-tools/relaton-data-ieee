@@ -1,10 +1,10 @@
 ---
 id: IEEEP1685/D-4-2014-02
 title:
-- type: main
-  content: IEEE Draft Standard for IP-XACT, Standard Structure for Packaging, Integrating,
+- content: IEEE Draft Standard for IP-XACT, Standard Structure for Packaging, Integrating,
     and Reusing IP within Tool Flows
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6755439
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,8 +69,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2014'
 relation:
@@ -90,36 +92,36 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Electronic design automation and methodology
-- XML
-- Metadata
-- Interoperability
-- Registration
-- Semantics
-- User interfaces
-- abstraction definitions
-- address space specification
-- bus definitions
-- designenvironment
-- EDA
-- electronic design automation
-- electronic system level
-- ESL
-- implementationconstraints
-- IP-XACT
-- register transfer level
-- RTL
-- SCRs
-- semantic consistency rules
-- TGI
-- tightgenerator interface
-- tool and data interoperability
-- use models
-- XML design meta-data
-- XMLschema
+- content: IEEE standards
+- content: Electronic design automation and methodology
+- content: XML
+- content: Metadata
+- content: Interoperability
+- content: Registration
+- content: Semantics
+- content: User interfaces
+- content: abstraction definitions
+- content: address space specification
+- content: bus definitions
+- content: designenvironment
+- content: EDA
+- content: electronic design automation
+- content: electronic system level
+- content: ESL
+- content: implementationconstraints
+- content: IP-XACT
+- content: register transfer level
+- content: RTL
+- content: SCRs
+- content: semantic consistency rules
+- content: TGI
+- content: tightgenerator interface
+- content: tool and data interoperability
+- content: use models
+- content: XML design meta-data
+- content: XMLschema
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

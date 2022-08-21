@@ -1,9 +1,9 @@
 ---
 id: IEEEUnapprovedP1675/D-16-2007
 title:
-- type: main
-  content: IEEE Draft Standard for Broadband Over Powerline Hardware
+- content: IEEE Draft Standard for Broadband Over Powerline Hardware
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4410493
   type: src
@@ -25,8 +25,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -54,17 +55,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2007'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Broadband Powerline
-- Communications
-- Coupler
-- Installation
-- Medium Voltage
+- content: Broadband Powerline
+- content: Communications
+- content: Coupler
+- content: Installation
+- content: Medium Voltage
 ics:
 - code: 33.040.60
   text: Powerline telecommunications

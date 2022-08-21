@@ -1,10 +1,10 @@
 ---
 id: ISO/IEC/IEEECDP29119.2/E-2-2019-08
 title:
-- type: main
-  content: 'ISO/IEC/IEEE Draft International Standard - Software and systems engineering
+- content: 'ISO/IEC/IEEE Draft International Standard - Software and systems engineering
     - Software testing -- Part 2: Test processes'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8894223
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -50,13 +51,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2019'
 relation:
 - type: updates
@@ -93,14 +95,14 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- ISO Standards
-- Software engineering
-- Systems engineering and theory
-- Software testing
+- content: IEEE Standards
+- content: IEC Standards
+- content: ISO Standards
+- content: Software engineering
+- content: Systems engineering and theory
+- content: Software testing
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

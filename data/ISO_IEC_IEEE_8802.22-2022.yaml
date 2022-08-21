@@ -1,14 +1,14 @@
 ---
 id: ISO/IEC/IEEE8802.22-2022
 title:
-- type: main
-  content: 'ISO/IEC/IEEE International Standard--Telecommunications and information
+- content: 'ISO/IEC/IEEE International Standard--Telecommunications and information
     exchange between systems--Wireless Regional Area Networks (WRAN)--Specific requirements--Part
     22: Cognitive Wireless RAN Medium Access Control (MAC) and Physical Layer (PHY)
     Specifications: Policies and procedures for operation in the bands that allow
     spectrum sharing where the communications devices may opportunistically operate
     in the spectrum of primary service'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9794390
   type: src
@@ -36,8 +36,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,13 +70,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2022'
 relation:
 - type: adoptedFrom
@@ -88,27 +90,27 @@ relation:
     formattedref:
       content: IEEE 802.22-2019
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ISO Standards
-- IEC Standards
-- Local area networks
-- Metropolitan area networks
-- Physical layer
-- Regional area networks
-- Radio access networks
-- Information exchange
-- Media Access Protocol
-- Spread spectrum communication
-- broadband wireless access network
-- cognitive radio
-- fixed user terminals
-- IEEE 802.22
-- portable user terminals
-- radio spectrum sensing
-- regional area network
-- WRAN standards ISO/IEC/IEEE FDIS 8802-22:2021(E) ISO/IEC/IEEE 8802-22:2022(E)
+- content: IEEE Standards
+- content: ISO Standards
+- content: IEC Standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Physical layer
+- content: Regional area networks
+- content: Radio access networks
+- content: Information exchange
+- content: Media Access Protocol
+- content: Spread spectrum communication
+- content: broadband wireless access network
+- content: cognitive radio
+- content: fixed user terminals
+- content: IEEE 802.22
+- content: portable user terminals
+- content: radio spectrum sensing
+- content: regional area network
+- content: WRAN standards ISO/IEC/IEEE FDIS 8802-22:2021(E) ISO/IEC/IEEE 8802-22:2022(E)
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

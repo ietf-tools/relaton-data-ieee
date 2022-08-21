@@ -1,9 +1,9 @@
 ---
 id: IEEEP1559/D-10-2022
 title:
-- type: main
-  content: IEEE Draft Standard for Inertial Systems Terminology
+- content: IEEE Draft Standard for Inertial Systems Terminology
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9687448
   type: src
@@ -29,8 +29,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,8 +62,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2022'
 relation:
@@ -83,14 +85,14 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Aerospace engineering
-- Inertial navigation
-- Terminology
-- inertial systems technology
-- inertial systems terminology
+- content: IEEE Standards
+- content: Aerospace engineering
+- content: Inertial navigation
+- content: Terminology
+- content: inertial systems technology
+- content: inertial systems terminology
 editorialgroup:
   committee:
   - Gyro Accelerometer Panel of the IEEE Aerospace and Electronic Systems Society

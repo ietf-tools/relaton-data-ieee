@@ -1,11 +1,11 @@
 ---
 id: IEC/IEEECDVP62582.4-2021-03
 title:
-- type: main
-  content: 'IEC/IEEE Draft International Standard - Nuclear power plants - Instrumentation
+- content: 'IEC/IEEE Draft International Standard - Nuclear power plants - Instrumentation
     and control important to safety - Electrical equipment condition monitoring methods
     - Part 4: Oxidation induction techniques'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9475151
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -51,11 +52,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2021'
 relation:
 - type: updates
@@ -75,16 +77,16 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- Temperature measurement
-- Nuclear power generation
-- Power system measurements
-- Oxidation
-- Condition monitoring
-- Safety
+- content: IEEE Standards
+- content: IEC Standards
+- content: Temperature measurement
+- content: Nuclear power generation
+- content: Power system measurements
+- content: Oxidation
+- content: Condition monitoring
+- content: Safety
 editorialgroup:
   committee:
   - Nuclear Power Engineering of the IEEE Power and Energy Society

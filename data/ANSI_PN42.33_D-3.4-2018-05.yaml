@@ -1,10 +1,10 @@
 ---
 id: ANSIPN42.33/D-3.4-2018-05
 title:
-- type: main
-  content: IEEE/ANSI Draft Standard for Portable Gamma and Radiation Detection Instrumentation
+- content: IEEE/ANSI Draft Standard for Portable Gamma and Radiation Detection Instrumentation
     for Homeland Security
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8620479
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,12 +62,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - American National Standards Institute
-    abbreviation: ANSI
+    - content: American National Standards Institute
+    abbreviation:
+      content: ANSI
     url: https://www.ansi.org
   from: '2019'
 relation:
@@ -87,20 +90,20 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ANSI Standards
-- Radiation detectors
-- Performance evaluation
-- Radiation protection
-- Radiation monitoring
-- ANSI N42.33
-- design criteria
-- initial response [consequence management]
-- performance requirements
-- performance tests
-- portable radiation detectors
+- content: IEEE Standards
+- content: ANSI Standards
+- content: Radiation detectors
+- content: Performance evaluation
+- content: Radiation protection
+- content: Radiation monitoring
+- content: ANSI N42.33
+- content: design criteria
+- content: initial response [consequence management]
+- content: performance requirements
+- content: performance tests
+- content: portable radiation detectors
 editorialgroup:
   committee:
   - National Committee on Radiation Instrumentation

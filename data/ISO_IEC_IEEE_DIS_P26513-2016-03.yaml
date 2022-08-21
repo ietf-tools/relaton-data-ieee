@@ -1,10 +1,10 @@
 ---
 id: ISO/IEC/IEEEDISP26513-2016-03
 title:
-- type: main
-  content: ISO/IEC/IEEE International Draft Standard - Systems and Software Engineering
+- content: ISO/IEC/IEEE International Draft Standard - Systems and Software Engineering
     -- Requirements for Testers and Reviewers of User Documentation
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7469978
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -70,13 +71,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2016'
 relation:
 - type: updates
@@ -96,18 +98,18 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ISO Standards
-- IEC Standards
-- Software engineering
-- Software testing
-- software documentation review
-- software documentation testing
-- user documentation
-- testing and reviewing user documentation
-- usability testing
+- content: IEEE Standards
+- content: ISO Standards
+- content: IEC Standards
+- content: Software engineering
+- content: Software testing
+- content: software documentation review
+- content: software documentation testing
+- content: user documentation
+- content: testing and reviewing user documentation
+- content: usability testing
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

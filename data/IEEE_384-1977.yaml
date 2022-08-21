@@ -1,9 +1,9 @@
 ---
 id: IEEE384-1977
 title:
-- type: main
-  content: IEEE Standard Criteria for Independence of Class 1E Equipment and Circuits
+- content: IEEE Standard Criteria for Independence of Class 1E Equipment and Circuits
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7414358
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1977'
 relation:
@@ -79,11 +81,11 @@ relation:
     formattedref:
       content: ANSI/IEEE 384-1981
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Power supplies
-- Power cables
-- Mechanical systems
-- Electrical equipment
-- Circuits
+- content: IEEE Standards
+- content: Power supplies
+- content: Power cables
+- content: Mechanical systems
+- content: Electrical equipment
+- content: Circuits

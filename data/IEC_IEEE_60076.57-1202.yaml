@@ -1,10 +1,10 @@
 ---
 id: IEC/IEEE60076.57-1202
 title:
-- type: main
-  content: 'IEC/IEEE International Standard Power transformers --Part 57-1202: Liquid
+- content: 'IEC/IEEE International Standard Power transformers --Part 57-1202: Liquid
     immersed phase-shifting transformers'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7932247
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,19 +67,20 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2016'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- Power transformers
-- Immersion cooling
-- Phase shifters
+- content: IEEE Standards
+- content: IEC Standards
+- content: Power transformers
+- content: Immersion cooling
+- content: Phase shifters
 editorialgroup:
   committee:
   - Transformers of the IEEE Power and Energy Society

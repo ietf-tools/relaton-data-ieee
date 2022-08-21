@@ -1,11 +1,11 @@
 ---
 id: IEEE1671.3-2007
 title:
-- type: main
-  content: 'IEEE Standard for Automatic Test Markup Language (ATML) for Exchanging
+- content: 'IEEE Standard for Automatic Test Markup Language (ATML) for Exchanging
     Automatic Test Information via XML (eXtensible Markup Language): Exchanging UUT
     (Unit Under Test) Description Information'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4479571
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2008'
 relation:
@@ -78,20 +80,20 @@ relation:
     formattedref:
       content: IEEE 1671.3-2017
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- XML
-- Trademarks
-- Patents
-- Warranties
-- Hardware
-- automatic test equipment (ATE)
-- Automatic Test Markup Language (ATML)
-- ATML instance document
-- automatic test system (ATS)
-- unit under test (UUT)
-- XML schema
+- content: IEEE Standards
+- content: XML
+- content: Trademarks
+- content: Patents
+- content: Warranties
+- content: Hardware
+- content: automatic test equipment (ATE)
+- content: Automatic Test Markup Language (ATML)
+- content: ATML instance document
+- content: automatic test system (ATS)
+- content: unit under test (UUT)
+- content: XML schema
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

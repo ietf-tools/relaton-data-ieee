@@ -1,10 +1,10 @@
 ---
 id: IEEE599-1985
 title:
-- type: main
-  content: IEEE Standard Definitions of Power Systems Data Transmission and Related
+- content: IEEE Standard Definitions of Power Systems Data Transmission and Related
     Channel Terminology
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/574219
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,16 +63,17 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1985'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- power
-- system
-- data
-- transmission
+- content: power
+- content: system
+- content: data
+- content: transmission
 editorialgroup:
   committee:
   - IEEE Power and Energy Society

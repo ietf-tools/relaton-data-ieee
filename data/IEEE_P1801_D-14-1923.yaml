@@ -1,9 +1,9 @@
 ---
 id: IEEEP1801/D-14-1923
 title:
-- type: main
-  content: IEEE Standard for Design and Verification of Low-Power Integrated Circuits
+- content: IEEE Standard for Design and Verification of Low-Power Integrated Circuits
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6422312
   type: src
@@ -29,8 +29,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -60,8 +61,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2013'
 relation:
@@ -82,28 +84,28 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Semantics
-- Power system planning
-- Interface states
-- Low power electronics
-- Integrated circuits
-- corruption semantics
-- IEEE 1801
-- interface specification
-- IP reuse
-- isolation
-- level-shifting
-- power-aware design
-- power domains
-- power intent
-- power modes
-- power states
-- progressive design refinement
-- retention
-- retention strategies
+- content: IEEE standards
+- content: Semantics
+- content: Power system planning
+- content: Interface states
+- content: Low power electronics
+- content: Integrated circuits
+- content: corruption semantics
+- content: IEEE 1801
+- content: interface specification
+- content: IP reuse
+- content: isolation
+- content: level-shifting
+- content: power-aware design
+- content: power domains
+- content: power intent
+- content: power modes
+- content: power states
+- content: progressive design refinement
+- content: retention
+- content: retention strategies
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

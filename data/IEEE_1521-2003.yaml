@@ -1,9 +1,9 @@
 ---
 id: IEEE1521-2003
 title:
-- type: main
-  content: IEEE Trial-Use Standard for Measurement of Video Jitter and Wander
+- content: IEEE Trial-Use Standard for Measurement of Video Jitter and Wander
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1266041
   type: src
@@ -29,8 +29,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   role:
   - publisher
@@ -55,16 +56,17 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2004'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Jitter
-- Measurement uncertainty
-- Frequency control
+- content: IEEE Standards
+- content: Jitter
+- content: Measurement uncertainty
+- content: Frequency control
 editorialgroup:
   committee:
   - G-2.1 Audio Video Techniques Committee of the IEEE Broadcast Technology Society

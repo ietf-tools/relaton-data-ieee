@@ -1,10 +1,10 @@
 ---
 id: IEEEUnapprovedP1647/D-9-2007
 title:
-- type: main
-  content: IEEE Draft Standard for the Functional Verification Language 'E' (Revision
+- content: IEEE Draft Standard for the Functional Verification Language 'E' (Revision
     of IEEE 1647-2006)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4459200
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,21 +64,22 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2008'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- assertion
-- concurrent programming
-- constraint
-- dynamic verification
-- functional coverage
-- functional verification
-- simulation
-- temporal logic
-- test generation
+- content: assertion
+- content: concurrent programming
+- content: constraint
+- content: dynamic verification
+- content: functional coverage
+- content: functional verification
+- content: simulation
+- content: temporal logic
+- content: test generation
 ics:
 - code: '35.060'
   text: Languages used in information technology

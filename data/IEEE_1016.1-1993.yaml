@@ -1,9 +1,9 @@
 ---
 id: IEEE1016.1-1993
 title:
-- type: main
-  content: IEEE Guide to Software Design Descriptions
+- content: IEEE Guide to Software Design Descriptions
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/278258
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,18 +65,19 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1993'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Software engineering
-- Standards
-- Software design process
-- Design view
-- Design method
-- Design entity
+- content: Software engineering
+- content: Standards
+- content: Software design process
+- content: Design view
+- content: Design method
+- content: Design entity
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

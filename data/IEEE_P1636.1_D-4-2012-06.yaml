@@ -1,11 +1,11 @@
 ---
 id: IEEEP1636.1/D-4-2012-06
 title:
-- type: main
-  content: 'IEEE Draft Standard for Software Interface for Maintenance Information
+- content: 'IEEE Draft Standard for Software Interface for Maintenance Information
     Collection and Analysis (SIMICA): Exchanging Test Results and Session Information
     via the eXtensible Markup Language(XML)'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6218728
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2012'
 relation:
@@ -85,19 +87,20 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- XML
-- Maintenance engineering
-- Software interfaces
-- Testing
-- Automated Test System (ATS)
-- eXtensible markup language (XML)
-- Software Interface for Maintenance Information Collection and Analysis (SIMICA)
-- test results
-- session information
-- XML schema
+- content: IEEE standards
+- content: XML
+- content: Maintenance engineering
+- content: Software interfaces
+- content: Testing
+- content: Automated Test System (ATS)
+- content: eXtensible markup language (XML)
+- content: Software Interface for Maintenance Information Collection and Analysis
+    (SIMICA)
+- content: test results
+- content: session information
+- content: XML schema
 editorialgroup:
   committee:
   - SCC20 - Test and Diagnosis for Electronic Systems

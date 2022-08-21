@@ -1,9 +1,9 @@
 ---
 id: IEEEC57.120-1991
 title:
-- type: main
-  content: IEEE Loss Evaluation Guide for Power Transformers and Reactors
+- content: IEEE Loss Evaluation Guide for Power Transformers and Reactors
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/211017
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1992'
 relation:
@@ -80,17 +82,17 @@ relation:
     formattedref:
       content: IEEE C57.120-2017
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Economics
-- Losses
-- Power transformers
-- Inductors
-- Standards
-- economic
-- reactors
-- transformers
-- Loss evaluation
+- content: Economics
+- content: Losses
+- content: Power transformers
+- content: Inductors
+- content: Standards
+- content: economic
+- content: reactors
+- content: transformers
+- content: Loss evaluation
 editorialgroup:
   committee:
   - Transformers of the IEEE Power and Energy Society

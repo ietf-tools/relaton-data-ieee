@@ -1,10 +1,10 @@
 ---
 id: IEEE802.3ct-2021
 title:
-- type: main
-  content: IEEE Standard for Ethernet Amendment 13:Physical Layers and Management
+- content: IEEE Standard for Ethernet Amendment 13:Physical Layers and Management
     Parameters for 100 Gb/s Operation over DWDM Systems
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9497042
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2021'
 relation:
@@ -86,27 +88,27 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Wavelength division multiplexing
-- Ethernet
-- Forward error correction
-- Physical layer
-- Local area networks
-- Metropolitan area networks
-- 100 Gb/s Ethernet
-- 100GBASE-ZR
-- DP-DQPSK
-- dense wavelength division multiplexing (DWDM)
-- DWDM black link
-- Energy-Efficient Ethernet (EEE)
-- Ethernet
-- forward error correction (FEC)
-- IEEE 802.3
-- IEEE 802.3ct
-- Physical Medium Dependent (PMD) sublayer
-- single-mode fiber (SMF)
+- content: IEEE Standards
+- content: Wavelength division multiplexing
+- content: Ethernet
+- content: Forward error correction
+- content: Physical layer
+- content: Local area networks
+- content: Metropolitan area networks
+- content: 100 Gb/s Ethernet
+- content: 100GBASE-ZR
+- content: DP-DQPSK
+- content: dense wavelength division multiplexing (DWDM)
+- content: DWDM black link
+- content: Energy-Efficient Ethernet (EEE)
+- content: Ethernet
+- content: forward error correction (FEC)
+- content: IEEE 802.3
+- content: IEEE 802.3ct
+- content: Physical Medium Dependent (PMD) sublayer
+- content: single-mode fiber (SMF)
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

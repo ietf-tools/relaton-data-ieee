@@ -1,10 +1,10 @@
 ---
 id: IEEE1621-2004
 title:
-- type: main
-  content: IEEE Standard for User Interface Elements in Power Control of Electronic
+- content: IEEE Standard for User Interface Elements in Power Control of Electronic
     Devices Employed in Office/Consumer Environments
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1453037
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,18 +63,19 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2005'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- electronic device
-- power control
-- power indicator
-- power state
-- sleep state
-- user interface
+- content: electronic device
+- content: power control
+- content: power indicator
+- content: power state
+- content: sleep state
+- content: user interface
 editorialgroup:
   committee:
   - Microprocessor Standards Committee of the IEEE Computer Society

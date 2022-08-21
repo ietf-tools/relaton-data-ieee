@@ -1,16 +1,16 @@
 ---
 id: IEEE115-2009Redline
 title:
-- type: title-main
-  content: IEEE Guide for Test Procedures for Synchronous Machines Part I—Acceptance
+- content: IEEE Guide for Test Procedures for Synchronous Machines Part I—Acceptance
     and Performance Testing Part II—Test Procedures and Parameter Determination for
     Dynamic Analysis
   format: text/plain
-- type: main
-  content: IEEE Guide for Test Procedures for Synchronous Machines Part I—Acceptance
+  type: title-main
+- content: IEEE Guide for Test Procedures for Synchronous Machines Part I—Acceptance
     and Performance Testing Part II—Test Procedures and Parameter Determination for
     Dynamic Analysis - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5953453
   type: src
@@ -38,8 +38,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -70,8 +71,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2011'
 relation:
@@ -92,18 +94,18 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Synchronous machines
-- Reluctance machines
-- Testing
-- Performance evaluation
-- Protocols
-- acceptance and performance testing
-- dynamic analysis
-- parameter determination
-- synchronous machines
+- content: IEEE standards
+- content: Synchronous machines
+- content: Reluctance machines
+- content: Testing
+- content: Performance evaluation
+- content: Protocols
+- content: acceptance and performance testing
+- content: dynamic analysis
+- content: parameter determination
+- content: synchronous machines
 editorialgroup:
   committee:
   - Electric Machinery of the IEEE Power and Energy Society

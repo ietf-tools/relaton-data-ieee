@@ -1,11 +1,11 @@
 ---
 id: ISO/IEC/IEEE8802.3-2-2021
 title:
-- type: main
-  content: IEEE/ISO/IEC International Standard for Telecommunications and exchange
+- content: IEEE/ISO/IEC International Standard for Telecommunications and exchange
     between information technology systems--Requirements for local and metropolitan
     area networks--Part 3-2:Standard for Ethernet YANG data model definitions
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9641795
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,13 +62,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2021'
 relation:
 - type: adoptedFrom
@@ -80,21 +82,21 @@ relation:
     formattedref:
       content: IEEE 802.3.2-2019
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- ISO Standards
-- Local area networks
-- Metropolitan area networks
-- Data models
-- Information technology
-- Information exchange
-- Ethernet
-- '802.3'
-- 802.3.2
-- Ethernet
-- YANG
+- content: IEEE Standards
+- content: IEC Standards
+- content: ISO Standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Data models
+- content: Information technology
+- content: Information exchange
+- content: Ethernet
+- content: '802.3'
+- content: 802.3.2
+- content: Ethernet
+- content: YANG
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

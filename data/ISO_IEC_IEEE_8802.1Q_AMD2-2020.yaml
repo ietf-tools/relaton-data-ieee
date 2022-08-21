@@ -1,11 +1,11 @@
 ---
 id: ISO/IEC/IEEE8802.1Q/Amd2-2020
 title:
-- type: main
-  content: 'IEEE/ISO/IEC International Standard-Telecommunications and exchange between
+- content: 'IEEE/ISO/IEC International Standard-Telecommunications and exchange between
     information technology systems — Requirements for local and metropolitan area
     networks — Part 1Q: Bridges and bridged networks AMENDMENT 2: YANG data model'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9546749
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,13 +63,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2021'
 relation:
 - type: adoptedFrom
@@ -81,23 +83,23 @@ relation:
     formattedref:
       content: IEEE 802.1Qcp-2018
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ISO Standards
-- IEC Standards
-- Local area networks
-- Metropolitan area networks
-- Bridge circuits
-- Bridged Local Area Networks
-- IEEE 802&#174;
-- IEEE 802.1Q&#8482;
-- IEEE 802.1Qcp&#8482;
-- local area networks (LANs)
-- MAC Bridges
-- metropolitan area networks
-- Virtual Bridged Local Area Networks (virtual LANs)
-- YANG
+- content: IEEE Standards
+- content: ISO Standards
+- content: IEC Standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Bridge circuits
+- content: Bridged Local Area Networks
+- content: IEEE 802&#174;
+- content: IEEE 802.1Q&#8482;
+- content: IEEE 802.1Qcp&#8482;
+- content: local area networks (LANs)
+- content: MAC Bridges
+- content: metropolitan area networks
+- content: Virtual Bridged Local Area Networks (virtual LANs)
+- content: YANG
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

@@ -1,10 +1,10 @@
 ---
 id: IEEE802.20.2-2010
 title:
-- type: main
-  content: IEEE Standard for Conformance to IEEE 802.20 Systems--Protocol Implementation
+- content: IEEE Standard for Conformance to IEEE 802.20 Systems--Protocol Implementation
     Conformance Statement (PICS) Proforma
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5456308
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,22 +65,23 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2010'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Protocols
-- Conformance testing
-- 802.20.2-2010
-- PICS
-- Protocol
-- Implementation
-- Conformance
-- Statement
-- Proforma
+- content: IEEE standards
+- content: Protocols
+- content: Conformance testing
+- content: 802.20.2-2010
+- content: PICS
+- content: Protocol
+- content: Implementation
+- content: Conformance
+- content: Statement
+- content: Proforma
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

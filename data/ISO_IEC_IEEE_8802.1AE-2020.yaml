@@ -1,11 +1,11 @@
 ---
 id: ISO/IEC/IEEE8802.1AE-2020
 title:
-- type: main
-  content: 'IEEE/ISO/IEC International Standard - Telecommunications and exchange
+- content: 'IEEE/ISO/IEC International Standard - Telecommunications and exchange
     between information technology systems-Requirements for local and metropolitan
     area networks-Part 1AE: Media access control (MAC) security'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9179118
   type: src
@@ -35,8 +35,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,13 +66,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2020'
 relation:
 - type: adoptedFrom
@@ -84,36 +86,36 @@ relation:
     formattedref:
       content: IEEE 802.1AE-2018
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Local area networks
-- Metropolitan area networks
-- Media Access Protocol
-- Access control
-- Security
-- Bridge circuits
-- IEC Standards
-- ISO Standards
-- authorized port
-- confidentiality
-- data origin authenticity
-- IEEE 802.1AE
-- IEEE 802.1AEbn
-- IEEE 802.1AEbw
-- IEEE 802.1AEcg
-- integrity
-- LANs
-- local area networks
-- MAC Bridges
-- MAC security
-- MAC Service
-- MANs
-- metropolitan area networks
-- port-based network access control
-- secure association
-- security
-- transparent bridging
+- content: IEEE Standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Media Access Protocol
+- content: Access control
+- content: Security
+- content: Bridge circuits
+- content: IEC Standards
+- content: ISO Standards
+- content: authorized port
+- content: confidentiality
+- content: data origin authenticity
+- content: IEEE 802.1AE
+- content: IEEE 802.1AEbn
+- content: IEEE 802.1AEbw
+- content: IEEE 802.1AEcg
+- content: integrity
+- content: LANs
+- content: local area networks
+- content: MAC Bridges
+- content: MAC security
+- content: MAC Service
+- content: MANs
+- content: metropolitan area networks
+- content: port-based network access control
+- content: secure association
+- content: security
+- content: transparent bridging
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

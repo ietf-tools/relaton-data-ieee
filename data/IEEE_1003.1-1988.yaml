@@ -1,10 +1,10 @@
 ---
 id: IEEE1003.1-1988
 title:
-- type: main
-  content: IEEE Standards Interpretations for IEEE Standard Portable Operating System
+- content: IEEE Standards Interpretations for IEEE Standard Portable Operating System
     Interface for Computer Environments (IEEE Std 1003.1-1988)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/182902
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,15 +62,16 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1992'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Operating systems
-- Software portability
-- Standards
+- content: Operating systems
+- content: Software portability
+- content: Standards
 editorialgroup:
   committee:
   - Portable Applications of the IEEE Computer Society

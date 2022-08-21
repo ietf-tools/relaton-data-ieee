@@ -1,9 +1,9 @@
 ---
 id: IEEEANSI
 title:
-- type: main
-  content: IEEE Standard for Control Switchboards
+- content: IEEE Standard for Control Switchboards
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/27881
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,18 +66,19 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1988'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Electric control equipment
-- Standards
-- Switchgear
-- Testing
-- Switchgear testing
-- Switches
+- content: Electric control equipment
+- content: Standards
+- content: Switchgear
+- content: Testing
+- content: Switchgear testing
+- content: Switches
 editorialgroup:
   committee:
   - Switchgear of the IEEE Power and Energy Society

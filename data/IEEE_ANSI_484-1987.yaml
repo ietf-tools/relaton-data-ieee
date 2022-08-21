@@ -1,10 +1,10 @@
 ---
 id: IEEE/ANSI484-1987
 title:
-- type: main
-  content: IEEE Recommended Practice for Installation Design and Installation of Large
+- content: IEEE Recommended Practice for Installation Design and Installation of Large
     Lead Storage Batteries for Generating Stations and Substations
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/29040
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1987'
 relation:
@@ -79,15 +81,15 @@ relation:
     formattedref:
       content: IEEE 484-1996
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Lead
-- Batteries
-- Substations
-- installation
-- lead
-- storage
-- batteries
+- content: Lead
+- content: Batteries
+- content: Substations
+- content: installation
+- content: lead
+- content: storage
+- content: batteries
 editorialgroup:
   committee:
   - Energy Development &amp; Power Generation of the IEEE Power and Energy Society

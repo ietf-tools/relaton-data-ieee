@@ -1,11 +1,11 @@
 ---
 id: ISO/IEC/IEEE24748.2-2018
 title:
-- type: main
-  content: 'ISO/IEC/IEEE International Standard - Systems and Software Engineering--
+- content: 'ISO/IEC/IEEE International Standard - Systems and Software Engineering--
     Life Cycle Management-- Part 2: Guidelines for the Application of ISO/IEC/IEEE
     15288 (System Life Cycle Processes)'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8764712
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -73,13 +74,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2018'
 relation:
 - type: updates
@@ -99,26 +101,26 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ISO Standards
-- IEC Standards
-- Software engineering
-- Software development management
-- Information management
-- Quality assessment
-- Software quality
-- '26511'
-- development
-- information management
-- life cycle
-- productivity
-- quality
-- quality measurement
-- services
-- software
-- systems
+- content: IEEE Standards
+- content: ISO Standards
+- content: IEC Standards
+- content: Software engineering
+- content: Software development management
+- content: Information management
+- content: Quality assessment
+- content: Software quality
+- content: '26511'
+- content: development
+- content: information management
+- content: life cycle
+- content: productivity
+- content: quality
+- content: quality measurement
+- content: services
+- content: software
+- content: systems
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

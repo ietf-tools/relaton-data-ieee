@@ -1,11 +1,11 @@
 ---
 id: IEC/IEEECDVP63195-2020-02
 title:
-- type: main
-  content: IEEE/IEC Draft Standard Measurement procedure for the assessment of power
+- content: IEEE/IEC Draft Standard Measurement procedure for the assessment of power
     density of human exposure to radio frequency fields from wireless devices operating
     in close proximity to the head and body - Frequency range of 6 GHz to 300 GHz
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9023633
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -51,21 +52,22 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2020'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- Power system measurements
-- Density measurement
-- Radio frequency
-- Wireless communication
-- Radiation monitoring
+- content: IEEE Standards
+- content: IEC Standards
+- content: Power system measurements
+- content: Density measurement
+- content: Radio frequency
+- content: Wireless communication
+- content: Radiation monitoring
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

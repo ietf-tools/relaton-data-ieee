@@ -1,9 +1,9 @@
 ---
 id: IEEEUnapprovedP802.11.2/D-1.01-2008-02
 title:
-- type: main
-  content: IEEE Draft Recommended Practice for the Evaluation of 802.11 Wireless Performance
+- content: IEEE Draft Recommended Practice for the Evaluation of 802.11 Wireless Performance
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4478276
   type: src
@@ -25,8 +25,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -56,11 +57,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2008'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: 35.100.10
   text: Physical layer

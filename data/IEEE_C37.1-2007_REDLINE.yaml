@@ -1,12 +1,12 @@
 ---
 id: IEEEC37.1-2007Redline
 title:
-- type: title-main
-  content: IEEE Standard for SCADA and Automation Systems
+- content: IEEE Standard for SCADA and Automation Systems
   format: text/plain
-- type: main
-  content: IEEE Standard for SCADA and Automation Systems - Redline
+  type: title-main
+- content: IEEE Standard for SCADA and Automation Systems - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6581844
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,26 +67,27 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2011'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Automtatic control
-- Substations
-- Supervisory control
-- SCADA systems
-- C37.1-2007
-- automatic control
-- data acquisition
-- IED
-- Intelligent Electronic Device
-- SCADA
-- substation integration
-- substation automation
-- supervisory control
+- content: IEEE standards
+- content: Automtatic control
+- content: Substations
+- content: Supervisory control
+- content: SCADA systems
+- content: C37.1-2007
+- content: automatic control
+- content: data acquisition
+- content: IED
+- content: Intelligent Electronic Device
+- content: SCADA
+- content: substation integration
+- content: substation automation
+- content: supervisory control
 editorialgroup:
   committee:
   - Power System Relaying and Control of the IEEE Power and Energy Society

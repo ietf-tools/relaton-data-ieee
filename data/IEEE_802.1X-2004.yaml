@@ -1,10 +1,10 @@
 ---
 id: IEEE802.1X-2004
 title:
-- type: main
-  content: IEEE Standard for Local and metropolitan area networks - Port-Based Network
+- content: IEEE Standard for Local and metropolitan area networks - Port-Based Network
     Access Control
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1438730
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2004'
 relation:
@@ -96,20 +98,20 @@ relation:
     formattedref:
       content: IEEE Unapproved P802.1af/D-1.7-2007-11
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Patents
-- Local area networks
-- Access control
-- Licenses
-- authentication
-- authorization
-- controlled port
-- local area networks
-- metropolitan area networks
-- port access control
-- uncontrolled port
+- content: IEEE Standards
+- content: Patents
+- content: Local area networks
+- content: Access control
+- content: Licenses
+- content: authentication
+- content: authorization
+- content: controlled port
+- content: local area networks
+- content: metropolitan area networks
+- content: port access control
+- content: uncontrolled port
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

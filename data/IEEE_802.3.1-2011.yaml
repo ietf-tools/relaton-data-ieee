@@ -1,9 +1,9 @@
 ---
 id: IEEE802.3.1-2011
 title:
-- type: main
-  content: IEEE Standard for Management Information Base (MIB) Definitions for Ethernet
+- content: IEEE Standard for Management Information Base (MIB) Definitions for Ethernet
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5951710
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2011'
 relation:
@@ -80,18 +82,18 @@ relation:
     formattedref:
       content: IEEE 802.3.1-2013
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Management information systems
-- Ethernet networks
-- Ethernet
-- GDMO
-- IEEE 802.3.1
-- MIB
-- network management
-- SNMP
-- SMIv2
+- content: IEEE standards
+- content: Management information systems
+- content: Ethernet networks
+- content: Ethernet
+- content: GDMO
+- content: IEEE 802.3.1
+- content: MIB
+- content: network management
+- content: SNMP
+- content: SMIv2
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

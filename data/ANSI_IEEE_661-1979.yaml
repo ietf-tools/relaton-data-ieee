@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE661-1979
 title:
-- type: main
-  content: IEEE Standard Method for Determining Objective Loudness Ratings of Telephone
+- content: IEEE Standard Method for Determining Objective Loudness Ratings of Telephone
     Connections
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/574716
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,19 +64,20 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1979'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Noise measurement
-- Telephone sets
-- objective
-- loudness
-- telephone
-- connections
+- content: IEEE Standards
+- content: Noise measurement
+- content: Telephone sets
+- content: objective
+- content: loudness
+- content: telephone
+- content: connections
 editorialgroup:
   committee:
   - Standards Development Board of the IEEE Communications Society

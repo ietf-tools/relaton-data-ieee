@@ -1,10 +1,10 @@
 ---
 id: IEC62526-2007
 title:
-- type: main
-  content: 'IEC 62526 Ed. 1 (IEEE Std 1450.1(TM)-2005): Standard for Extensions to
+- content: 'IEC 62526 Ed. 1 (IEEE Std 1450.1(TM)-2005): Standard for Extensions to
     Standard Test Interface Language (STIL) for Semiconductor Design Environments'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8671481
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,34 +64,35 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2007'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- Feedback
-- Test equipment
-- Semiconductor materials
-- System-on-chip
-- Test pattern generation
-- Protocols
-- advanced scan architecture
-- core
-- environment
-- fail feedback
-- lockstep
-- parallel patterns
-- parameterized data
-- pattern tiling
-- pragma
-- signal variable
-- system on chip (SoC)
-- test protocol
+- content: IEEE Standards
+- content: IEC Standards
+- content: Feedback
+- content: Test equipment
+- content: Semiconductor materials
+- content: System-on-chip
+- content: Test pattern generation
+- content: Protocols
+- content: advanced scan architecture
+- content: core
+- content: environment
+- content: fail feedback
+- content: lockstep
+- content: parallel patterns
+- content: parameterized data
+- content: pattern tiling
+- content: pragma
+- content: signal variable
+- content: system on chip (SoC)
+- content: test protocol
 editorialgroup:
   committee:
   - Test Technology of the IEEE Computer Society

@@ -1,9 +1,9 @@
 ---
 id: ANSI/IEEE421.1-1986
 title:
-- type: main
-  content: IEEE Standard Definitions for Excitation Systems for Synchronous Machines
+- content: IEEE Standard Definitions for Excitation Systems for Synchronous Machines
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/29115
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1986'
 relation:
@@ -79,12 +81,12 @@ relation:
     formattedref:
       content: IEEE 421.1-2007
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Standards
-- Synchronous machines
-- excitation system
-- synchronous machines
+- content: Standards
+- content: Synchronous machines
+- content: excitation system
+- content: synchronous machines
 editorialgroup:
   committee:
   - Energy Development &amp; Power Generation of the IEEE Power and Energy Society

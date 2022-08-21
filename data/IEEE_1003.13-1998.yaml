@@ -1,10 +1,10 @@
 ---
 id: IEEE1003.13-1998
 title:
-- type: main
-  content: IEEE Standard for Information Technology - Standardized Application Environment
+- content: IEEE Standard for Information Technology - Standardized Application Environment
     Profile - POSIX(TM) Realtime Application Support
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/798785
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -60,8 +61,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1999'
 relation:
@@ -75,19 +77,19 @@ relation:
     formattedref:
       content: IEEE 1003.13-2003
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- AEP
-- application portability
-- data processing
-- environment
-- open systems
-- operating system
-- portable application
-- POSIX profiles
-- realtime application environments
-- realtime environment
+- content: IEEE standards
+- content: AEP
+- content: application portability
+- content: data processing
+- content: environment
+- content: open systems
+- content: operating system
+- content: portable application
+- content: POSIX profiles
+- content: realtime application environments
+- content: realtime environment
 editorialgroup:
   committee:
   - Portable Applications of the IEEE Computer Society

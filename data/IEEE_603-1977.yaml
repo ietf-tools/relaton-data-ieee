@@ -1,10 +1,10 @@
 ---
 id: IEEE603-1977
 title:
-- type: main
-  content: IEEE Trial Use Standard for Safety Systems for Nuclear Power Generating
+- content: IEEE Trial Use Standard for Safety Systems for Nuclear Power Generating
     Stations
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7431912
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -71,8 +72,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1977'
 relation:
@@ -86,11 +88,11 @@ relation:
     formattedref:
       content: IEEE 603-1980
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Nuclear power generation
-- Electrical safety
-- Safety
-- Maintenance engineering
-- Power system reliability
+- content: IEEE Standards
+- content: Nuclear power generation
+- content: Electrical safety
+- content: Safety
+- content: Maintenance engineering
+- content: Power system reliability

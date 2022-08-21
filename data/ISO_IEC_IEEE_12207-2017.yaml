@@ -1,10 +1,10 @@
 ---
 id: ISO/IEC/IEEE12207-2017
 title:
-- type: main
-  content: ISO/IEC/IEEE International Standard - Systems and software engineering
+- content: ISO/IEC/IEEE International Standard - Systems and software engineering
     -- Software life cycle processes
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8100771
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -52,13 +53,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2017'
 relation:
 - type: updates
@@ -78,61 +80,61 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ISO Standards
-- IEC Standards
-- Software engineering
-- Systems engineering and theory
-- Decision making
-- Software maintenance
-- Product life cycle management
-- acquisition
-- agreement
-- architecture
-- design
-- assessment
-- audit
-- configuration management
-- decision management
-- development
-- disposal
-- enabling system
-- implementation
-- information management
-- infrastructure
-- integration
-- life cycle
-- life cycle model
-- life cycle stages
-- maintenance
-- measurement
-- operation
-- planning
-- process
-- process improvement
-- process reference model
-- process tailoring
-- process view
-- product
-- portfolio
-- quality management
-- requirements
-- retirement
-- risk management
-- service
-- software
-- stages
-- stakeholder requirements
-- supply
-- system
-- system structure
-- system-of-interest
-- tailoring
-- transition
-- validation
-- verification
+- content: IEEE Standards
+- content: ISO Standards
+- content: IEC Standards
+- content: Software engineering
+- content: Systems engineering and theory
+- content: Decision making
+- content: Software maintenance
+- content: Product life cycle management
+- content: acquisition
+- content: agreement
+- content: architecture
+- content: design
+- content: assessment
+- content: audit
+- content: configuration management
+- content: decision management
+- content: development
+- content: disposal
+- content: enabling system
+- content: implementation
+- content: information management
+- content: infrastructure
+- content: integration
+- content: life cycle
+- content: life cycle model
+- content: life cycle stages
+- content: maintenance
+- content: measurement
+- content: operation
+- content: planning
+- content: process
+- content: process improvement
+- content: process reference model
+- content: process tailoring
+- content: process view
+- content: product
+- content: portfolio
+- content: quality management
+- content: requirements
+- content: retirement
+- content: risk management
+- content: service
+- content: software
+- content: stages
+- content: stakeholder requirements
+- content: supply
+- content: system
+- content: system structure
+- content: system-of-interest
+- content: tailoring
+- content: transition
+- content: validation
+- content: verification
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

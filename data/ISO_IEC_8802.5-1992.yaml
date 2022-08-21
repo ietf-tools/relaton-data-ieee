@@ -1,11 +1,11 @@
 ---
 id: ISO/IEC8802.5-1992
 title:
-- type: main
-  content: 'ISO/IEC/IEEE International Standard - Information technology - Local and
+- content: 'ISO/IEC/IEEE International Standard - Information technology - Local and
     metropolitan area networks - Part 5: Token ring access method and physical layer
     specifications'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7438707
   type: src
@@ -35,8 +35,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -80,29 +81,30 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '1992'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ISO Standards
-- IEC Standards
-- Information technology
-- Local area networks
-- Metropolitan area networks
-- Physical layer
-- Token networks
-- Media Access Protocol
-- data processing interconnection
-- local area network (LAN)
-- medium access control (MAC)
-- token ring
+- content: IEEE Standards
+- content: ISO Standards
+- content: IEC Standards
+- content: Information technology
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Physical layer
+- content: Token networks
+- content: Media Access Protocol
+- content: data processing interconnection
+- content: local area network (LAN)
+- content: medium access control (MAC)
+- content: token ring
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

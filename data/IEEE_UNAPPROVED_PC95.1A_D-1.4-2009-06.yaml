@@ -1,12 +1,12 @@
 ---
 id: IEEEUnapprovedPC95.1a/D-1.4-2009-06
 title:
-- type: main
-  content: 'IEEE Draft Standard for Safety Levels with Respect to Human Exposure to
+- content: 'IEEE Draft Standard for Safety Levels with Respect to Human Exposure to
     Radio Frequency Electromagnetic Fields, 3 kHz to 300 GHz - Amendment: Specifies
     Ceiling Limits for Induced and Contact Current, Clarifies Distinctions between
     Localized Exposure and Spatial Peak Power Density'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5200226
   type: src
@@ -28,8 +28,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -56,17 +57,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Radio frequency (RF) safety levels
-- human exposure RF energy
-- localized exposure
-- peak power density
-- RF induced and contact current.
+- content: Radio frequency (RF) safety levels
+- content: human exposure RF energy
+- content: localized exposure
+- content: peak power density
+- content: RF induced and contact current.
 ics:
 - code: '13.280'
   text: Radiation protection

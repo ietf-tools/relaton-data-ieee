@@ -1,14 +1,14 @@
 ---
 id: ISO/IEC/IEEE15289-2015Redline
 title:
-- type: title-main
-  content: ISO/IEC/IEEE International Standard Systems and software engineering --
+- content: ISO/IEC/IEEE International Standard Systems and software engineering --
     Content of life-cycle information items (documentation)
   format: text/plain
-- type: main
-  content: ISO/IEC/IEEE International Standard Systems and software engineering --
+  type: title-main
+- content: ISO/IEC/IEEE International Standard Systems and software engineering --
     Content of life-cycle information items (documentation) - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7270964
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -77,13 +78,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2015'
 relation:
 - type: obsoletedBy
@@ -123,17 +125,17 @@ relation:
     formattedref:
       content: ISO/IEC/IEEE 15289-2017
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- ISO Standards
-- Software engineering
-- Product life cycle management
-- '15289'
-- life cycle
-- life cycle process
-- software
+- content: IEEE Standards
+- content: IEC Standards
+- content: ISO Standards
+- content: Software engineering
+- content: Product life cycle management
+- content: '15289'
+- content: life cycle
+- content: life cycle process
+- content: software
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

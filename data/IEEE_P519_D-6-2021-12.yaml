@@ -1,9 +1,9 @@
 ---
 id: IEEEP519/D-6-2021-12
 title:
-- type: main
-  content: IEEE Draft Standard for Harmonic Control in Electric Power Systems
+- content: IEEE Draft Standard for Harmonic Control in Electric Power Systems
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9642964
   type: src
@@ -29,8 +29,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2021'
 relation:
@@ -87,16 +89,16 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Power system harmonics
-- Harmonic analysis
-- Control systems
-- Regulation
-- harmonics
-- IEEE 519
-- power quality
+- content: IEEE Standards
+- content: Power system harmonics
+- content: Harmonic analysis
+- content: Control systems
+- content: Regulation
+- content: harmonics
+- content: IEEE 519
+- content: power quality
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society

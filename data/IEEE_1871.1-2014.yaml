@@ -1,12 +1,12 @@
 ---
 id: IEEE1871.1-2014
 title:
-- type: main
-  content: IEEE Recommended Practice for Using IEEE 1671.2(TM) Instrument Description
+- content: IEEE Recommended Practice for Using IEEE 1671.2(TM) Instrument Description
     Templates for Describing Synthetic Instrumentation for Classes of Instruments
     such as Waveform Generators, Digitizers, External Oscillators, and Up and Down
     Converters
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7039189
   type: src
@@ -36,8 +36,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -70,31 +71,32 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2015'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- XML
-- Instrumentation
-- Generators
-- Oscillators
-- Signal generators
-- Aerospace electronics
-- Military equipment
-- ATML instance document
-- ATS
-- automatic test equipment (ATE)
-- Automatic Test Markup Language (ATML)
-- automatic test system
-- IEEE 1671.2(TM)
-- IEEE 1871.1(TM)
-- instrument
-- instrumentation
-- synthetic instrument
-- XML schema
+- content: IEEE Standards
+- content: XML
+- content: Instrumentation
+- content: Generators
+- content: Oscillators
+- content: Signal generators
+- content: Aerospace electronics
+- content: Military equipment
+- content: ATML instance document
+- content: ATS
+- content: automatic test equipment (ATE)
+- content: Automatic Test Markup Language (ATML)
+- content: automatic test system
+- content: IEEE 1671.2(TM)
+- content: IEEE 1871.1(TM)
+- content: instrument
+- content: instrumentation
+- content: synthetic instrument
+- content: XML schema
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

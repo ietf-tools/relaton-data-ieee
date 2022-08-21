@@ -1,10 +1,10 @@
 ---
 id: IEEE1889-2018
 title:
-- type: main
-  content: IEEE Guide for Evaluating and Testing the Electrical Performance of Energy
+- content: IEEE Guide for Evaluating and Testing the Electrical Performance of Energy
     Saving Devices
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8633035
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -75,23 +76,24 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2019'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Energy consumption
-- Power measurement
-- Power electronics
-- Energy conservation
-- electrical energy consumption
-- electrical test protocol
-- energy saving device
-- ESD
-- IEEE 1889(TM) RESD
-- retrofit energy saving device
+- content: IEEE Standards
+- content: Energy consumption
+- content: Power measurement
+- content: Power electronics
+- content: Energy conservation
+- content: electrical energy consumption
+- content: electrical test protocol
+- content: energy saving device
+- content: ESD
+- content: IEEE 1889(TM) RESD
+- content: retrofit energy saving device
 editorialgroup:
   committee:
   - Power System Instrumentation and Measurements of the IEEE Power and Energy Society

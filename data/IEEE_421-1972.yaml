@@ -1,10 +1,10 @@
 ---
 id: IEEE421-1972
 title:
-- type: main
-  content: IEEE Standard Criteria and Definitions for Excitation Systems for Synchronous
+- content: IEEE Standard Criteria and Definitions for Excitation Systems for Synchronous
     Machines
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7419180
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1972'
 relation:
@@ -79,9 +81,9 @@ relation:
     formattedref:
       content: ANSI/IEEE 421.1-1986
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Excitation systems
-- Synchronous machines
-- Terminology
+- content: IEEE Standards
+- content: Excitation systems
+- content: Synchronous machines
+- content: Terminology

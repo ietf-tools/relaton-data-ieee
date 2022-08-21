@@ -1,10 +1,10 @@
 ---
 id: IEEE1636-2018
 title:
-- type: main
-  content: IEEE Standard for Software Interface for Maintenance Information Collection
+- content: IEEE Standard for Software Interface for Maintenance Information Collection
     and Analysis (SIMICA)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8657407
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2018'
 relation:
@@ -87,22 +89,23 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Software maintenance
-- XML
-- Information analysis
-- Ontologies
-- Automatic test equipment
-- automated test system (ATS)
-- extensible markup language (XML)
-- IEEE 1636&#8482;
-- maintenance action information
-- OWL ontology
-- Software Interface for Maintenance Information Collection and Analysis (SIMICA)
-- test results and session information
-- XML schema
+- content: IEEE Standards
+- content: Software maintenance
+- content: XML
+- content: Information analysis
+- content: Ontologies
+- content: Automatic test equipment
+- content: automated test system (ATS)
+- content: extensible markup language (XML)
+- content: IEEE 1636&#8482;
+- content: maintenance action information
+- content: OWL ontology
+- content: Software Interface for Maintenance Information Collection and Analysis
+    (SIMICA)
+- content: test results and session information
+- content: XML schema
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

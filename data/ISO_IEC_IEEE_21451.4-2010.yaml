@@ -1,11 +1,11 @@
 ---
 id: ISO/IEC/IEEE21451.4-2010
 title:
-- type: main
-  content: 'ISO/IEC/IEEE Standard for Information technology -- Smart transducer interface
+- content: 'ISO/IEC/IEEE Standard for Information technology -- Smart transducer interface
     for sensors and actuators -- Part 4: Mixed-mode communication protocols and Transducer
     Electronic Data Sheet (TEDS) formats'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5668460
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,33 +64,34 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2010'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- IEC standards
-- ISO standards
-- Sensors
-- Transducers
-- Actuators
-- 21451-2
-- '1451'
-- '1451.2'
-- communication protocol
-- digital interface
-- microprocessor
-- NCAP
-- sensor interface
-- smart actuator
-- smart sensor
-- smart sensor interface
-- smart transducer
-- smart transducer interface
-- STIM
-- TEDS
+- content: IEEE standards
+- content: IEC standards
+- content: ISO standards
+- content: Sensors
+- content: Transducers
+- content: Actuators
+- content: 21451-2
+- content: '1451'
+- content: '1451.2'
+- content: communication protocol
+- content: digital interface
+- content: microprocessor
+- content: NCAP
+- content: sensor interface
+- content: smart actuator
+- content: smart sensor
+- content: smart sensor interface
+- content: smart transducer
+- content: smart transducer interface
+- content: STIM
+- content: TEDS
 editorialgroup:
   committee:
   - TC9 - Sensor Technology of the IEEE Instrumentation and Measurement Society

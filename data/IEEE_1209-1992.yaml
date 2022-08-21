@@ -1,9 +1,9 @@
 ---
 id: IEEE1209-1992
 title:
-- type: main
-  content: IEEE Recommended Practice for the Evaluation and Selection of CASE Tools
+- content: IEEE Recommended Practice for the Evaluation and Selection of CASE Tools
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/239579
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,20 +66,21 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1993'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Software engineering
-- Software packages
-- Software tools
-- Standards
-- criteria
-- User needs
-- CASE tool selection
-- CASE tool evaluation
+- content: Software engineering
+- content: Software packages
+- content: Software tools
+- content: Standards
+- content: criteria
+- content: User needs
+- content: CASE tool selection
+- content: CASE tool evaluation
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

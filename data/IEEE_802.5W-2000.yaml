@@ -1,11 +1,11 @@
 ---
 id: IEEE802.5w-2000
 title:
-- type: main
-  content: 'IEEE Corrigenda to Standard for Information Technology - Telecommunications
+- content: 'IEEE Corrigenda to Standard for Information Technology - Telecommunications
     and information exchange between systems - Local and metropolitan area networks
     - Part 5: Token Ring access method and physical layer specifications'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/929432
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,21 +66,22 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2001'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Local area networks
-- data processing interconnection
-- dedicated token ring
-- fibre optic media
-- full duplex operation
-- insertion key
-- LAN
-- MAC
-- token ring
+- content: Local area networks
+- content: data processing interconnection
+- content: dedicated token ring
+- content: fibre optic media
+- content: full duplex operation
+- content: insertion key
+- content: LAN
+- content: MAC
+- content: token ring
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

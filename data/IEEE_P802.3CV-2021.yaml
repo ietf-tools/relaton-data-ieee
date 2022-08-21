@@ -1,10 +1,10 @@
 ---
 id: IEEEP802.3cv-2021
 title:
-- type: main
-  content: 'IEEE Approved Draft Standard for Ethernet Amendment: Maintenance #15:
+- content: 'IEEE Approved Draft Standard for Ethernet Amendment: Maintenance #15:
     Power over Ethernet'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9350541
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -59,8 +60,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2021'
 relation:
@@ -81,21 +83,21 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEEE 802.3 Standard
-- EPON
-- Ethernet
-- Maintenance engineering
-- Power transmission
-- amendment
-- DTE power via MDI
-- Ethernet
-- IEEE 802.3&#8482;
-- IEEE 802.3bt&#8482;
-- PoE
-- Power over Ethernet
+- content: IEEE Standards
+- content: IEEE 802.3 Standard
+- content: EPON
+- content: Ethernet
+- content: Maintenance engineering
+- content: Power transmission
+- content: amendment
+- content: DTE power via MDI
+- content: Ethernet
+- content: IEEE 802.3&#8482;
+- content: IEEE 802.3bt&#8482;
+- content: PoE
+- content: Power over Ethernet
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

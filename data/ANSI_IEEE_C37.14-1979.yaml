@@ -1,9 +1,9 @@
 ---
 id: ANSI/IEEEC37.14-1979
 title:
-- type: main
-  content: IEEE Standard for Low-Voltage DC Power Circuit Breakers Used in Enclosures
+- content: IEEE Standard for Low-Voltage DC Power Circuit Breakers Used in Enclosures
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/598848
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,8 +67,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1979'
 relation:
@@ -81,14 +83,14 @@ relation:
     formattedref:
       content: IEEE C37.14-1992
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Circuit breakers
-- IEEE Standards
-- Rectifiers
-- Consumer electronics
-- Personnel
-- C37.14
+- content: Circuit breakers
+- content: IEEE Standards
+- content: Rectifiers
+- content: Consumer electronics
+- content: Personnel
+- content: C37.14
 editorialgroup:
   committee:
   - Switchgear of the IEEE Power and Energy Society

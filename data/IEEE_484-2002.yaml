@@ -1,10 +1,10 @@
 ---
 id: IEEE484-2002
 title:
-- type: main
-  content: IEEE Recommended Practice for Installation Design and Installation of Vented
+- content: IEEE Recommended Practice for Installation Design and Installation of Vented
     Lead-Acid Batteries for Stationary Applications
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1186714
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,8 +69,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2003'
 relation:
@@ -100,20 +102,20 @@ relation:
     formattedref:
       content: IEEE 484-2019
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- alarms
-- assembly
-- data collection
-- float operation
-- flooded cells
-- freshening charge
-- installation design criteria
-- installation procedures
-- instrumentation
-- internal ohmic measurements
-- mounting
-- precautions
+- content: alarms
+- content: assembly
+- content: data collection
+- content: float operation
+- content: flooded cells
+- content: freshening charge
+- content: installation design criteria
+- content: installation procedures
+- content: instrumentation
+- content: internal ohmic measurements
+- content: mounting
+- content: precautions
 editorialgroup:
   committee:
   - Energy Storage &amp; Stationary Battery Committee of the IEEE Power and Energy

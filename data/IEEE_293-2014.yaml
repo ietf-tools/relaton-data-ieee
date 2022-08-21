@@ -1,10 +1,10 @@
 ---
 id: IEEE293-2014
 title:
-- type: main
-  content: 'IEEE Standard for IEEE Test Procedure for Single-Degree-of-Freedom Spring-Restrained
+- content: 'IEEE Standard for IEEE Test Procedure for Single-Degree-of-Freedom Spring-Restrained
     Rate Gyros -- Corrigendum 1: Table 1 Heading'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6971047
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,16 +63,17 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2014'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Aerospace electronics
-- Gyroscopes
-- Springs
+- content: IEEE standards
+- content: Aerospace electronics
+- content: Gyroscopes
+- content: Springs
 editorialgroup:
   committee:
   - Gyro Accelerometer Panel of the IEEE Aerospace and Electronic Systems Society

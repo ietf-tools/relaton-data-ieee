@@ -1,10 +1,10 @@
 ---
 id: IEEE1636.99-2013
 title:
-- type: main
-  content: 'IEEE Std 1636.99-2013, IEEE Standard for Software Interface for Maintenance
+- content: 'IEEE Std 1636.99-2013, IEEE Standard for Software Interface for Maintenance
     Information Collection and Analysis (SIMICA): Common Information Elements.'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6662358
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,25 +65,27 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2013'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- XML
-- Software maintenance
-- Software testing
-- Automated testing
-- Information analysis
-- automated test system (ATS)
-- eXtensible markup language (XML)
-- IEEE 1636.99(TM)
-- session information
-- Software Interface for Maintenance Information Collection and Analysis (SIMICA)
-- test results
-- XML schema
+- content: IEEE standards
+- content: XML
+- content: Software maintenance
+- content: Software testing
+- content: Automated testing
+- content: Information analysis
+- content: automated test system (ATS)
+- content: eXtensible markup language (XML)
+- content: IEEE 1636.99(TM)
+- content: session information
+- content: Software Interface for Maintenance Information Collection and Analysis
+    (SIMICA)
+- content: test results
+- content: XML schema
 editorialgroup:
   committee:
   - SCC20 - Test and Diagnosis for Electronic Systems

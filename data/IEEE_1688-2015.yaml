@@ -1,10 +1,10 @@
 ---
 id: IEEE1688-2015
 title:
-- type: main
-  content: IEEE Standard Requirements for the Control of Electromagnetic Interference
+- content: IEEE Standard Requirements for the Control of Electromagnetic Interference
     Characteristics of Replaceable Electronic Modules
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7586235
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,31 +70,32 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2015'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Electromagnetic compatibility
-- Testing
-- Emissions
-- Electromagnetic inteference
-- Interference
-- Electrostatic discharge
-- electromagnetic compatibility
-- electromagnetic emission
-- electromagnetic interference
-- electromagnetic susceptibility
-- electrostatic discharge
-- EMC
-- EMI
-- ESD
-- IEEE 1688(TM)
-- REM
-- replaceable electronic module
-- test limits
+- content: IEEE Standards
+- content: Electromagnetic compatibility
+- content: Testing
+- content: Emissions
+- content: Electromagnetic inteference
+- content: Interference
+- content: Electrostatic discharge
+- content: electromagnetic compatibility
+- content: electromagnetic emission
+- content: electromagnetic interference
+- content: electromagnetic susceptibility
+- content: electrostatic discharge
+- content: EMC
+- content: EMI
+- content: ESD
+- content: IEEE 1688(TM)
+- content: REM
+- content: replaceable electronic module
+- content: test limits
 editorialgroup:
   committee:
   - Standards Development Committee of the IEEE Electromagnetic Compatibility Society

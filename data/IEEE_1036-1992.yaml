@@ -1,9 +1,9 @@
 ---
 id: IEEE1036-1992
 title:
-- type: main
-  content: IEEE Guide for Application of Shunt Power Capacitors
+- content: IEEE Guide for Application of Shunt Power Capacitors
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/211735
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1993'
 relation:
@@ -77,14 +79,14 @@ relation:
     formattedref:
       content: IEEE P1036/D-13a
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Power capacitors
-- Standards
-- capacitor
-- power factor correction
-- shunt power capacitor
-- voltage control
+- content: Power capacitors
+- content: Standards
+- content: capacitor
+- content: power factor correction
+- content: shunt power capacitor
+- content: voltage control
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society

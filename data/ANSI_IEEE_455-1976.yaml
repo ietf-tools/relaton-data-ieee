@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE455-1976
 title:
-- type: main
-  content: IEEE Standard Test Procedure for Measuring Longitudinal Balance of Telephone
+- content: IEEE Standard Test Procedure for Measuring Longitudinal Balance of Telephone
     Equipment Operating in the Voice Band
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7422618
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -81,12 +82,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - American National Standards Institute
-    abbreviation: ANSI
+    - content: American National Standards Institute
+    abbreviation:
+      content: ANSI
     url: https://www.ansi.org
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1976'
 relation:
@@ -100,10 +103,10 @@ relation:
     formattedref:
       content: ANSI/IEEE 455-1985
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Telehone equipment
-- Speech processing
-- 'Longitudinal balance '
-- Attenuation measurement
+- content: IEEE Standards
+- content: Telehone equipment
+- content: Speech processing
+- content: 'Longitudinal balance '
+- content: Attenuation measurement

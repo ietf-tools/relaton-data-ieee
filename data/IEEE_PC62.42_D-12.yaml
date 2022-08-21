@@ -1,11 +1,11 @@
 ---
 id: IEEEPC62.42/D-12
 title:
-- type: main
-  content: Unapproved IEEE Draft Guide for the Application of Component Surge-Protective
+- content: Unapproved IEEE Draft Guide for the Application of Component Surge-Protective
     Devices for Use in Low-Voltage (Equal to Or Less Than 1000 V rms Or 1200 V DC)
     Circuits (Revision of IEEE C62.42-1992) Superseded by Approved IEEE Draft PC62.42_D12
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4040831
   type: src
@@ -27,8 +27,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -57,11 +58,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2005'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: 29.120.50
   text: Fuses and other overcurrent protection devices

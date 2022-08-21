@@ -1,9 +1,9 @@
 ---
 id: IEEE1434-2000
 title:
-- type: main
-  content: IEEE Guide to the Measurement of Partial Discharges in Rotating Machinery
+- content: IEEE Guide to the Measurement of Partial Discharges in Rotating Machinery
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/863904
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,8 +62,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2000'
 relation:
@@ -86,14 +88,14 @@ relation:
     formattedref:
       content: IEEE 1434-2014
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Electric machines
-- electrical insulation
-- form-wound bars
-- form-wound coils
-- partial discharge
-- rotating machine windings
+- content: Electric machines
+- content: electrical insulation
+- content: form-wound bars
+- content: form-wound coils
+- content: partial discharge
+- content: rotating machine windings
 editorialgroup:
   committee:
   - Electric Machinery of the IEEE Power and Energy Society

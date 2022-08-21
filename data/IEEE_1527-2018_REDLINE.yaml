@@ -1,14 +1,14 @@
 ---
 id: IEEE1527-2018Redline
 title:
-- type: title-main
-  content: IEEE Recommended Practice for the Design of Buswork Located in Seismically
+- content: IEEE Recommended Practice for the Design of Buswork Located in Seismically
     Active Areas
   format: text/plain
-- type: main
-  content: IEEE Recommended Practice for the Design of Buswork Located in Seismically
+  type: title-main
+- content: IEEE Recommended Practice for the Design of Buswork Located in Seismically
     Active Areas - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8704498
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2018'
 relation:
@@ -85,30 +87,30 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Earthquakes
-- Seismic measurements
-- Electronics equipment
-- Substations
-- bus
-- buswork
-- conductor
-- connections
-- earthquakes
-- electrical equipment
-- flexible bus
-- flexible buswork
-- IEEE 1527&#8482;
-- interconnected equipment
-- interconnection
-- rigid bus
-- rigid buswork
-- seismic
-- seismic design
-- slack
-- substations
+- content: IEEE Standards
+- content: Earthquakes
+- content: Seismic measurements
+- content: Electronics equipment
+- content: Substations
+- content: bus
+- content: buswork
+- content: conductor
+- content: connections
+- content: earthquakes
+- content: electrical equipment
+- content: flexible bus
+- content: flexible buswork
+- content: IEEE 1527&#8482;
+- content: interconnected equipment
+- content: interconnection
+- content: rigid bus
+- content: rigid buswork
+- content: seismic
+- content: seismic design
+- content: slack
+- content: substations
 editorialgroup:
   committee:
   - Substations of the IEEE Power and Energy Society

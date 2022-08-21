@@ -1,10 +1,10 @@
 ---
 id: IEEE1188-1996
 title:
-- type: main
-  content: IEEE Recommended Practice for Maintenance, Testing, and Replacement of
+- content: IEEE Recommended Practice for Maintenance, Testing, and Replacement of
     Valve- Regulated Lead-Acid (VRLA) Batteries for Stationary Applications
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/511266
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1996'
 relation:
@@ -77,14 +79,14 @@ relation:
     formattedref:
       content: IEEE 336-2005
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- maintenance
-- testing
-- replacement
-- valve-regulated
-- batteries
+- content: IEEE standards
+- content: maintenance
+- content: testing
+- content: replacement
+- content: valve-regulated
+- content: batteries
 editorialgroup:
   committee:
   - Energy Storage &amp; Stationary Battery Committee of the IEEE Power and Energy

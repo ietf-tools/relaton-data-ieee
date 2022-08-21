@@ -1,9 +1,9 @@
 ---
 id: IEEE1388-2000
 title:
-- type: main
-  content: IEEE Standard for the Electronic Reporting of Transformer Test Data
+- content: IEEE Standard for the Electronic Reporting of Transformer Test Data
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/898185
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2001'
 relation:
@@ -77,16 +79,16 @@ relation:
     formattedref:
       content: IEEE C57.12.37-2006
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Patents
-- Law
-- Warranties
-- Licenses
-- distribution transformers
-- electronic reporting
-- test data
+- content: IEEE Standards
+- content: Patents
+- content: Law
+- content: Warranties
+- content: Licenses
+- content: distribution transformers
+- content: electronic reporting
+- content: test data
 editorialgroup:
   committee:
   - Transformers of the IEEE Power and Energy Society

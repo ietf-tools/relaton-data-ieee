@@ -1,10 +1,10 @@
 ---
 id: IEEE1149.1b-1994
 title:
-- type: main
-  content: IEEE Supplement to Standard Test Access Port and Boundary-Scan Architecture
+- content: IEEE Supplement to Standard Test Access Port and Boundary-Scan Architecture
     (1149.1)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/467487
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1995'
 relation:
@@ -85,17 +87,17 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Boundary scan testing
-- Hardware design languages
-- IEEE standards
-- boundary scan architure
-- description language
-- BSDL
-- test access port
-- VHDL
-- VHSIC Harware Description
+- content: Boundary scan testing
+- content: Hardware design languages
+- content: IEEE standards
+- content: boundary scan architure
+- content: description language
+- content: BSDL
+- content: test access port
+- content: VHDL
+- content: VHSIC Harware Description
 editorialgroup:
   committee:
   - Test Technology of the IEEE Computer Society

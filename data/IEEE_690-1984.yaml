@@ -1,10 +1,10 @@
 ---
 id: IEEE690-1984
 title:
-- type: main
-  content: IEEE Standard for the Design and Installation of Cable Systems for Class
+- content: IEEE Standard for the Design and Installation of Cable Systems for Class
     1E Circuits in Nuclear Power Generating Stations
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/573170
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1984'
 relation:
@@ -90,13 +92,13 @@ relation:
     formattedref:
       content: IEEE 690-2004
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- design
-- cable
-- systems
-- 1E
-- circuits
+- content: design
+- content: cable
+- content: systems
+- content: 1E
+- content: circuits
 editorialgroup:
   committee:
   - Nuclear Power Engineering of the IEEE Power and Energy Society

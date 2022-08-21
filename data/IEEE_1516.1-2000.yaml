@@ -1,10 +1,10 @@
 ---
 id: IEEE1516.1-2000
 title:
-- type: main
-  content: IEEE Standard for Modeling and Simulation (M&S) High Level Architecture
+- content: IEEE Standard for Modeling and Simulation (M&S) High Level Architecture
     (HLA) Federate Interface Specification
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/914368
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,8 +68,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2001'
 relation:
@@ -92,26 +94,26 @@ relation:
     formattedref:
       content: IEEE 1516.1-2010
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Computer architecture
-- Computational modeling
-- Patents
-- Synchronization
-- Data models
-- architecture
-- class attribute
-- data distribution management
-- federate
-- federation
-- federation execution
-- federation object model
-- high level architecture (HLA)
-- instance attribute
-- instance attribute ownership
-- interaction class
-- object class
+- content: IEEE Standards
+- content: Computer architecture
+- content: Computational modeling
+- content: Patents
+- content: Synchronization
+- content: Data models
+- content: architecture
+- content: class attribute
+- content: data distribution management
+- content: federate
+- content: federation
+- content: federation execution
+- content: federation object model
+- content: high level architecture (HLA)
+- content: instance attribute
+- content: instance attribute ownership
+- content: interaction class
+- content: object class
 editorialgroup:
   committee:
   - Simulation Interoperability Stds Organization/Stds Activity Committee of the IEEE

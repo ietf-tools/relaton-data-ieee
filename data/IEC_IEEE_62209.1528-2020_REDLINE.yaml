@@ -1,18 +1,18 @@
 ---
 id: IEC/IEEE62209.1528-2020Redline
 title:
-- type: title-main
-  content: 'IEC/IEEE International Standard - Measurement procedure for the assessment
+- content: 'IEC/IEEE International Standard - Measurement procedure for the assessment
     of specific absorption rate of human exposure to radio frequency fields from hand-held
     and body-mounted wireless communication devices – Part 1528: Human models, instrumentation,
     and procedures (Frequency range of 4 MHz to 10 GHz)'
   format: text/plain
-- type: main
-  content: 'IEC/IEEE International Standard - Measurement procedure for the assessment
+  type: title-main
+- content: 'IEC/IEEE International Standard - Measurement procedure for the assessment
     of specific absorption rate of human exposure to radio frequency fields from hand-held
     and body-mounted wireless communication devices – Part 1528: Human models, instrumentation,
     and procedures (Frequency range of 4 MHz to 10 GHz) - Redline'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9351795
   type: src
@@ -38,8 +38,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -58,11 +59,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2020'
 relation:
 - type: updates
@@ -82,13 +84,13 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- Frequency measurement
-- Wireless communication
-- Specific absorption rate
+- content: IEEE Standards
+- content: IEC Standards
+- content: Frequency measurement
+- content: Wireless communication
+- content: Specific absorption rate
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

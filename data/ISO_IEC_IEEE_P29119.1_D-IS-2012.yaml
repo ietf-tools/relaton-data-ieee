@@ -1,10 +1,10 @@
 ---
 id: ISO/IEC/IEEEP29119.1/D-IS-2012
 title:
-- type: main
-  content: 'SO/IEC/IEEE Draft Standard for Software and Systems Engineering--Software
+- content: 'SO/IEC/IEEE Draft Standard for Software and Systems Engineering--Software
     Testing--Part 1: Concepts and Definitions'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6309995
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,14 +70,15 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2012'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Software engineering
+- content: IEEE standards
+- content: Software engineering
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

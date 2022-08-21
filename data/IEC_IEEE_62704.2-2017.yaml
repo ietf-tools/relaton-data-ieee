@@ -1,12 +1,12 @@
 ---
 id: IEC/IEEE62704.2-2017
 title:
-- type: main
-  content: 'IEEE/IEC International Standard -- Determining the peak spatial-average
+- content: 'IEEE/IEC International Standard -- Determining the peak spatial-average
     specific absorption rate (SAR) in the human body from wireless communications
     devices, 30 MHz to 6 GHz -- Part 2: Specific requirements for finite difference
     time domain (FDTD) modelling of exposure from vehicle mounted antennas'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7964816
   type: src
@@ -36,8 +36,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -76,23 +77,24 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2017'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- Specific absorption rate
-- Finite difference methods
-- Time-domain analysis
-- Wireless communication
-- Biological system modeling
-- Antennas
-- Vehicles
+- content: IEEE Standards
+- content: IEC Standards
+- content: Specific absorption rate
+- content: Finite difference methods
+- content: Time-domain analysis
+- content: Wireless communication
+- content: Biological system modeling
+- content: Antennas
+- content: Vehicles
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

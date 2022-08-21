@@ -1,10 +1,10 @@
 ---
 id: IEEEP1615/D-8
 title:
-- type: main
-  content: Unapproved IEEE Draft Recommended Practice for Network Communication in
+- content: Unapproved IEEE Draft Recommended Practice for Network Communication in
     Electric Power Substations
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4040420
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -55,11 +56,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2006'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: 29.130.01
   text: Switchgear and controlgear in general

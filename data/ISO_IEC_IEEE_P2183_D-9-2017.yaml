@@ -1,10 +1,10 @@
 ---
 id: ISO/IEC/IEEEP2183/D-9-2017
 title:
-- type: main
-  content: ISO/IEC/IEEE Draft International Standard - Systems and Software Engineering
+- content: ISO/IEC/IEEE Draft International Standard - Systems and Software Engineering
     - Systems of Systems Considerations in Engineering of Systems
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7906475
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,23 +69,24 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2017'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ISO Standards
-- IEC Standards
-- Software engineering
-- System of systems
-- Terminology
-- Customer satisfaction
+- content: IEEE Standards
+- content: ISO Standards
+- content: IEC Standards
+- content: Software engineering
+- content: System of systems
+- content: Terminology
+- content: Customer satisfaction
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

@@ -1,9 +1,9 @@
 ---
 id: IEEE1020-1988
 title:
-- type: main
-  content: IEEE Guide for Control of Small Hydroelectric Power Plants
+- content: IEEE Guide for Control of Small Hydroelectric Power Plants
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/29139
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,8 +67,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1988'
 relation:
@@ -81,12 +83,12 @@ relation:
     formattedref:
       content: IEEE 1020-2011
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Hydroelectric power generation
-- Standards
-- Power generation control
-- Hydroelectric power generation
+- content: Hydroelectric power generation
+- content: Standards
+- content: Power generation control
+- content: Hydroelectric power generation
 editorialgroup:
   committee:
   - Energy Development &amp; Power Generation of the IEEE Power and Energy Society

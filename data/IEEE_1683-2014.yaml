@@ -1,10 +1,10 @@
 ---
 id: IEEE1683-2014
 title:
-- type: main
-  content: IEEE Guide for Motor Control Centers Rated up to and including 600 V AC
+- content: IEEE Guide for Motor Control Centers Rated up to and including 600 V AC
     or 1000 V DC with Recommendations Intended to Help Reduce Electrical Hazards
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6866103
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -77,32 +78,33 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2014'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Arc discharges
-- DC motors
-- Electrical safety
-- Thermal analysis
-- AC motors
-- Circuit breakers
-- Motor control
-- Shock absorbers
-- arc flash
-- arc resistant
-- circuit protection
-- electrical safety
-- IEEE 1683(TM)
-- low voltage
-- MCC
-- motor control centers
-- selectivity
-- shock
-- thermal monitoring
+- content: IEEE standards
+- content: Arc discharges
+- content: DC motors
+- content: Electrical safety
+- content: Thermal analysis
+- content: AC motors
+- content: Circuit breakers
+- content: Motor control
+- content: Shock absorbers
+- content: arc flash
+- content: arc resistant
+- content: circuit protection
+- content: electrical safety
+- content: IEEE 1683(TM)
+- content: low voltage
+- content: MCC
+- content: motor control centers
+- content: selectivity
+- content: shock
+- content: thermal monitoring
 editorialgroup:
   committee:
   - Petroleum &amp; Chemical Industry of the IEEE Industry Applications Society

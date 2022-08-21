@@ -1,10 +1,10 @@
 ---
 id: IEEEP1588/D-1.6-2019-08
 title:
-- type: main
-  content: IEEE Draft Standard for a Precision Clock Synchronization Protocol for
+- content: IEEE Draft Standard for a Precision Clock Synchronization Protocol for
     Networked Measurement and Control Systems
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8809974
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2019'
 relation:
@@ -104,22 +106,22 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Timing
-- Synchronization
-- Control systems
-- Security
-- Boundary Clock
-- clock
-- Grandmaster Clock
-- IEEE 1588
-- management
-- Ordinary Clock
-- security
-- synchronization
-- Transparent Clock
+- content: IEEE Standards
+- content: Timing
+- content: Synchronization
+- content: Control systems
+- content: Security
+- content: Boundary Clock
+- content: clock
+- content: Grandmaster Clock
+- content: IEEE 1588
+- content: management
+- content: Ordinary Clock
+- content: security
+- content: synchronization
+- content: Transparent Clock
 editorialgroup:
   committee:
   - TC9 - Sensor Technology of the IEEE Instrumentation and Measurement Society

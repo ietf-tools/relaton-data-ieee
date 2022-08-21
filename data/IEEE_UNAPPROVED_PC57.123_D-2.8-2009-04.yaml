@@ -1,9 +1,9 @@
 ---
 id: IEEEUnapprovedPC57.123/D-2.8-2009-04
 title:
-- type: main
-  content: IEEE Draft Guide for Transformer Loss Measurement
+- content: IEEE Draft Guide for Transformer Loss Measurement
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4977249
   type: src
@@ -25,8 +25,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -55,17 +56,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- calibration
-- load loss
-- no-load loss
-- testing
-- transformers
+- content: calibration
+- content: load loss
+- content: no-load loss
+- content: testing
+- content: transformers
 ics:
 - code: '29.180'
   text: Transformers. Reactors

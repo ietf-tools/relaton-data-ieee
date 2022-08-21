@@ -1,9 +1,9 @@
 ---
 id: IEEE182-1961
 title:
-- type: main
-  content: 'IEEE Standards on Radio Transmitters: Definitions of Terms'
+- content: 'IEEE Standards on Radio Transmitters: Definitions of Terms'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/19431
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -58,19 +59,20 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1961'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Terminology
-- Radio transmitters
-- Standards
-- radio
-- transmitters
-- terms
-- glossary
+- content: Terminology
+- content: Radio transmitters
+- content: Standards
+- content: radio
+- content: transmitters
+- content: terms
+- content: glossary
 editorialgroup:
   committee:
   - IEEE Broadcast Technology Society

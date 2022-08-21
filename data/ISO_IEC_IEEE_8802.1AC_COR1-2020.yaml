@@ -1,12 +1,12 @@
 ---
 id: ISO/IEC/IEEE8802.1AC/Cor1-2020
 title:
-- type: main
-  content: 'ISO/IEC/IEEE International Standard for Telecommunications and exchange
+- content: 'ISO/IEC/IEEE International Standard for Telecommunications and exchange
     between information technology systems — Requirements for local and metropolitan
     area networks -- Part 1AC:Media access control (MAC) service definition -- TECHNICAL
     CORRIGENDUM 1: Logical Link Control (LLC) Encpsulation EtherType'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9039950
   type: src
@@ -36,8 +36,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,13 +65,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2020'
 relation:
 - type: adoptedFrom
@@ -83,23 +85,23 @@ relation:
     formattedref:
       content: IEEE 802.1AC/Cor1-2018
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Local area networks
-- Metropolitan area networks
-- Media Access Protocol
-- Information technology
-- Information exchange
-- IEEE 802
-- IEEE 802.1AC
-- Internal Sublayer Service
-- ISS
-- LAN
-- local area network
-- MAC Service
-- MAN
-- metropolitan area network
+- content: IEEE Standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Media Access Protocol
+- content: Information technology
+- content: Information exchange
+- content: IEEE 802
+- content: IEEE 802.1AC
+- content: Internal Sublayer Service
+- content: ISS
+- content: LAN
+- content: local area network
+- content: MAC Service
+- content: MAN
+- content: metropolitan area network
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

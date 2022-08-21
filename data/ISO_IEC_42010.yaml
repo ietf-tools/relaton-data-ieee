@@ -1,10 +1,10 @@
 ---
 id: ISO/IEC42010
 title:
-- type: main
-  content: ISO/IEC Standard for Systems and Software Engineering - Recommended Practice
+- content: ISO/IEC Standard for Systems and Software Engineering - Recommended Practice
     for Architectural Description of Software-Intensive Systems
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4278472
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,25 +67,26 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2007'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- ISO Standards
-- IEC Standards
-- ISO
-- IEC
-- IEEE Standards
-- Computer architecture
-- architectural description
-- architecture
-- software-intensive system
-- stakeholder concerns
-- system stakeholder
-- view
-- viewpoint
+- content: ISO Standards
+- content: IEC Standards
+- content: ISO
+- content: IEC
+- content: IEEE Standards
+- content: Computer architecture
+- content: architectural description
+- content: architecture
+- content: software-intensive system
+- content: stakeholder concerns
+- content: system stakeholder
+- content: view
+- content: viewpoint
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

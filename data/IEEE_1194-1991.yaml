@@ -1,9 +1,9 @@
 ---
 id: IEEE1194-1991
 title:
-- type: main
-  content: IEEE Standard for Backplane Electrical Performance
+- content: IEEE Standard for Backplane Electrical Performance
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/159183
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,22 +66,23 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1991'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Computer interfaces
-- Standards
-- backplane
-- backplane bus
-- bus
-- high-performance backplanes
-- low-performance backplanes
-- measurement techniques
-- medium-performance backplanes
-- transmission lines
+- content: Computer interfaces
+- content: Standards
+- content: backplane
+- content: backplane bus
+- content: bus
+- content: high-performance backplanes
+- content: low-performance backplanes
+- content: measurement techniques
+- content: medium-performance backplanes
+- content: transmission lines
 editorialgroup:
   committee:
   - Microprocessor Standards Committee of the IEEE Computer Society

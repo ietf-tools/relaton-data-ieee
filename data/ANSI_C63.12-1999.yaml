@@ -1,10 +1,10 @@
 ---
 id: ANSIC63.12-1999
 title:
-- type: main
-  content: American National Standard for Electromagnetic Compatibility Limits--Recommended
+- content: American National Standard for Electromagnetic Compatibility Limits--Recommended
     Practice
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/836295
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,8 +62,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2000'
 relation:
@@ -76,12 +78,12 @@ relation:
     formattedref:
       content: ANSI C63.12-2015
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- ANSI standards
-- electromagnetic compatibility
-- electromagnetic noise
-- radio noise
+- content: ANSI standards
+- content: electromagnetic compatibility
+- content: electromagnetic noise
+- content: radio noise
 ics:
 - code: 33.100.01
   text: Electromagnetic compatibility (EMC) in general

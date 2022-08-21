@@ -1,11 +1,11 @@
 ---
 id: NACE/IEEEP1835/D-1a-2011
 title:
-- type: main
-  content: NACE International and IEEE Joint Standard Practice for Atmospheric (Above
+- content: NACE International and IEEE Joint Standard Practice for Atmospheric (Above
     Grade) Corrosion Control of Existing Electric Transmission, Distribution, and
     Substation Structures by Coating Systems
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8629401
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -76,20 +77,21 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2011'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- NACE International
-- Corrosion
-- Coatings
-- Power system reliability
-- Control systems
-- Substations
-- Maintenance engineering
+- content: IEEE Standards
+- content: NACE International
+- content: Corrosion
+- content: Coatings
+- content: Power system reliability
+- content: Control systems
+- content: Substations
+- content: Maintenance engineering
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society

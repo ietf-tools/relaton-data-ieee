@@ -1,9 +1,9 @@
 ---
 id: ANSI/IEEE770X3.160-1989
 title:
-- type: main
-  content: IEEE/ANSI Standard for the Programming Language Extended Pascal
+- content: IEEE/ANSI Standard for the Programming Language Extended Pascal
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/159330
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,20 +63,21 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1990'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- High-level languages
-- Software portability
-- Standards
-- Pascal
-- extended Pascal
-- portability
-- data processing systems
-- programming
+- content: High-level languages
+- content: Software portability
+- content: Standards
+- content: Pascal
+- content: extended Pascal
+- content: portability
+- content: data processing systems
+- content: programming
 editorialgroup:
   committee:
   - IEEE Computer Society

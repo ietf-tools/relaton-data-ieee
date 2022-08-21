@@ -1,10 +1,10 @@
 ---
 id: IEEE1471-2000
 title:
-- type: main
-  content: IEEE Recommended Practice for Architectural Description for Software-Intensive
+- content: IEEE Recommended Practice for Architectural Description for Software-Intensive
     Systems
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/875998
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2000'
 relation:
@@ -80,21 +82,21 @@ relation:
     formattedref:
       content: IEEE Unapproved P42010/D-6-2009
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Computer architecture
-- Patents
-- Software
-- Consumer electronics
-- Stakeholders
-- architectural description
-- architecture
-- software-intensive system
-- stakeholder con-cerns
-- system stakeholder
-- view
-- viewpoint
+- content: IEEE Standards
+- content: Computer architecture
+- content: Patents
+- content: Software
+- content: Consumer electronics
+- content: Stakeholders
+- content: architectural description
+- content: architecture
+- content: software-intensive system
+- content: stakeholder con-cerns
+- content: system stakeholder
+- content: view
+- content: viewpoint
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

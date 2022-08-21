@@ -1,9 +1,9 @@
 ---
 id: IEEE1460-1996
 title:
-- type: main
-  content: IEEE Guide for the Measurement of Quasi-Static Magnetic and Electric Fields
+- content: IEEE Guide for the Measurement of Quasi-Static Magnetic and Electric Fields
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/582155
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,18 +62,19 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1997'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Magnetic field measurement
-- measurement protocols
-- power frequency
-- power frequency harmonic fields
-- quasi-static magnetic fields
-- quasi-static electric fields
+- content: Magnetic field measurement
+- content: measurement protocols
+- content: power frequency
+- content: power frequency harmonic fields
+- content: quasi-static magnetic fields
+- content: quasi-static electric fields
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

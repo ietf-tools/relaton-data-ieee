@@ -1,11 +1,11 @@
 ---
 id: IEEEP15026.1/D-1-2010-10
 title:
-- type: main
-  content: 'IEEE Draft Trial-Use Standard for Adoption of ISO/IEC TR 15026-1:2010
+- content: 'IEEE Draft Trial-Use Standard for Adoption of ISO/IEC TR 15026-1:2010
     -- Systems and Software Engineering -- Systems and Software Assurance -- Part
     1: Concepts and Vocabulary'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5621028
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,16 +65,17 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2010'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- ISO standards
-- IEC standards
-- Software engineering
+- content: IEEE standards
+- content: ISO standards
+- content: IEC standards
+- content: Software engineering
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

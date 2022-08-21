@@ -1,9 +1,9 @@
 ---
 id: IEEE515-1983
 title:
-- type: main
-  content: IEEE Recommended Practice for Electrical Resistance Heat Tracing
+- content: IEEE Recommended Practice for Electrical Resistance Heat Tracing
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7426711
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1982'
 relation:
@@ -80,16 +82,16 @@ relation:
     formattedref:
       content: IEEE 515-1989
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Heat tracing
-- Electrical resistance
-- Resistance
-- electrical
-- resistance
-- heat
-- tracing
+- content: IEEE Standards
+- content: Heat tracing
+- content: Electrical resistance
+- content: Resistance
+- content: electrical
+- content: resistance
+- content: heat
+- content: tracing
 editorialgroup:
   committee:
   - Petroleum &amp; Chemical Industry of the IEEE Industry Applications Society

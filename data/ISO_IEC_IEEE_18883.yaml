@@ -1,10 +1,10 @@
 ---
 id: ISO/IEC/IEEE18883
 title:
-- type: main
-  content: ISO/IEC/IEEE International Standard -- Information technology -- Ubiquitous
+- content: ISO/IEC/IEEE International Standard -- Information technology -- Ubiquitous
     green community control network -- Security
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7442254
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,34 +67,35 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2016'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- ISO Standards
-- Access control
-- Authorizatoin
-- Information technology
-- Ubiquitous computing
-- Security
-- Control systems
-- access control
-- authorization
-- certificate
-- confidentiality
-- IEEE 1888(TM)
-- IEEE 1888.3(TM)
-- integrity
-- mutual authentication
-- security
+- content: IEEE Standards
+- content: IEC Standards
+- content: ISO Standards
+- content: Access control
+- content: Authorizatoin
+- content: Information technology
+- content: Ubiquitous computing
+- content: Security
+- content: Control systems
+- content: access control
+- content: authorization
+- content: certificate
+- content: confidentiality
+- content: IEEE 1888(TM)
+- content: IEEE 1888.3(TM)
+- content: integrity
+- content: mutual authentication
+- content: security
 editorialgroup:
   committee:
   - Corporate Advisory Group of the IEEE-SA Board of Governors

@@ -1,10 +1,10 @@
 ---
 id: ISO/IEC/IEEE26512
 title:
-- type: main
-  content: IEEE/ISO/IEC Systems and software engineering -- Requirements for acquirers
+- content: IEEE/ISO/IEC Systems and software engineering -- Requirements for acquirers
     and suppliers of user documentation
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5871663
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -79,13 +80,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2011'
 relation:
 - type: updates
@@ -115,19 +117,19 @@ relation:
     formattedref:
       content: ISO/IEC/IEEE 26512-2017
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Software engineering
-- Documentation
-- ISO standards
-- IEC standards
-- acquisition
-- information management
-- proposal
-- software user documentation
-- statement of work
-- supply
+- content: IEEE standards
+- content: Software engineering
+- content: Documentation
+- content: ISO standards
+- content: IEC standards
+- content: acquisition
+- content: information management
+- content: proposal
+- content: software user documentation
+- content: statement of work
+- content: supply
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

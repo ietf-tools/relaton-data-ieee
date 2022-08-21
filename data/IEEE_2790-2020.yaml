@@ -1,9 +1,9 @@
 ---
 id: IEEE2790-2020
 title:
-- type: main
-  content: IEEE Standard for Biometric Liveness Detection
+- content: IEEE Standard for Biometric Liveness Detection
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9080669
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -72,21 +73,22 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2020'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Biometrics (access control)
-- Cybersecurity
-- Communication system security
-- IEEE 2790
-- lifeless attack
-- lifeless attack instrument
-- liveness detection
-- presentation attack detection
+- content: IEEE Standards
+- content: Biometrics (access control)
+- content: Cybersecurity
+- content: Communication system security
+- content: IEEE 2790
+- content: lifeless attack
+- content: lifeless attack instrument
+- content: liveness detection
+- content: presentation attack detection
 editorialgroup:
   committee:
   - Cybersecurity and Privacy Standards Committee of the IEEE Computer Society

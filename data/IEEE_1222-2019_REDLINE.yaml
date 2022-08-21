@@ -1,14 +1,14 @@
 ---
 id: IEEE1222-2019Redline
 title:
-- type: title-main
-  content: IEEE Standard for Testing and Performance for All-Dielectric Self-Supporting
+- content: IEEE Standard for Testing and Performance for All-Dielectric Self-Supporting
     (ADSS) Fiber Optic Cable for Use on Electric Utility Power Lines
   format: text/plain
-- type: main
-  content: IEEE Standard for Testing and Performance for All-Dielectric Self-Supporting
+  type: title-main
+- content: IEEE Standard for Testing and Performance for All-Dielectric Self-Supporting
     (ADSS) Fiber Optic Cable for Use on Electric Utility Power Lines - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9080603
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2019'
 relation:
@@ -87,16 +89,16 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Dielectrics
-- Power transmission lines
-- Optical fiber communication
-- ADSS
-- all-dielectric self-supporting fiber optic cable
-- IEEE 1222
-- overhead utility
+- content: IEEE Standards
+- content: Dielectrics
+- content: Power transmission lines
+- content: Optical fiber communication
+- content: ADSS
+- content: all-dielectric self-supporting fiber optic cable
+- content: IEEE 1222
+- content: overhead utility
 editorialgroup:
   committee:
   - IEEE Power and Energy Society

@@ -1,10 +1,10 @@
 ---
 id: IEEE315-1975
 title:
-- type: main
-  content: IEEE Standard American National Standard Canadian Standard Graphic Symbols
+- content: IEEE Standard American National Standard Canadian Standard Graphic Symbols
     for Electrical and Electronics Diagrams (Including Reference Designation Letters)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/985670
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -49,16 +50,17 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1993'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Symbols
-- Graphics
-- Electrical engineering
+- content: IEEE Standards
+- content: Symbols
+- content: Graphics
+- content: Electrical engineering
 editorialgroup:
   committee:
   - Gyro Accelerometer Panel of the IEEE Aerospace and Electronic Systems Society

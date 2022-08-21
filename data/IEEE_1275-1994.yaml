@@ -1,10 +1,10 @@
 ---
 id: IEEE1275-1994
 title:
-- type: main
-  content: 'IEEE Standard for Boot (Initialization Configuration) Firmware: Core Requirements
+- content: 'IEEE Standard for Boot (Initialization Configuration) Firmware: Core Requirements
     and Practices'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/763383
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,27 +70,28 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1994'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Microprogramming
-- IEEE Standards
-- Hardware
-- Operating systems
-- Sun
-- Trademarks
-- ROM
-- Plug-in device
-- Initialization
-- Forth
-- Firmware
-- FCode
-- Debug
-- Configuration
-- Boot
+- content: Microprogramming
+- content: IEEE Standards
+- content: Hardware
+- content: Operating systems
+- content: Sun
+- content: Trademarks
+- content: ROM
+- content: Plug-in device
+- content: Initialization
+- content: Forth
+- content: Firmware
+- content: FCode
+- content: Debug
+- content: Configuration
+- content: Boot
 editorialgroup:
   committee:
   - Microprocessor Standards Committee of the IEEE Computer Society

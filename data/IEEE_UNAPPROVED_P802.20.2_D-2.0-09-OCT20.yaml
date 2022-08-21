@@ -1,10 +1,10 @@
 ---
 id: IEEEUnapprovedP802.20.2/D-2.0-09-Oct20
 title:
-- type: main
-  content: Draft Standard for Conformance to IEEE P802.20 Systems Protocol Implementation
+- content: Draft Standard for Conformance to IEEE P802.20 Systems Protocol Implementation
     Conformance 9 Statement (PICS) Proforma
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5434871
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -55,15 +56,16 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2010'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- IEEE 802.2 Standards
-- Protocols
+- content: IEEE standards
+- content: IEEE 802.2 Standards
+- content: Protocols
 ics:
 - code: '35.110'
   text: Networking

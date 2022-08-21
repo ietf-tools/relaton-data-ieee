@@ -1,11 +1,11 @@
 ---
 id: IEEE802.15.10a-2019
 title:
-- type: main
-  content: 'IEEE Recommended Practice for Routing Packets in IEEE 802.15.4(TM) Dynamically
+- content: 'IEEE Recommended Practice for Routing Packets in IEEE 802.15.4(TM) Dynamically
     Changing Wireless Networks - Amendment 1: Fully Defined Use of Addressing and
     Route Information Currently in IEEE Std 802.15.10'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8859682
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,8 +67,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2019'
 relation:
@@ -88,28 +90,29 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Real-time systems
-- Broadcasting
-- Routing protocols
-- Peer-to-peer computing
-- Unicast
-- amendment
-- discovery and addition of new nodes
-- IEEE 802.15.4
-- IEEE 802.15.10
-- IEEE 802.15.10a
-- dynamic route reconfiguration
-- frame forwarding
-- purging of inactive routes
-- real time link status information exchange
-- re-establishment of broken/lost routes
-- route establishment
-- single hop appearance at the networking layer (not breaking standard Layer 3 mechanisms)
-- support for broadcast
-- support for multicast
+- content: IEEE Standards
+- content: Real-time systems
+- content: Broadcasting
+- content: Routing protocols
+- content: Peer-to-peer computing
+- content: Unicast
+- content: amendment
+- content: discovery and addition of new nodes
+- content: IEEE 802.15.4
+- content: IEEE 802.15.10
+- content: IEEE 802.15.10a
+- content: dynamic route reconfiguration
+- content: frame forwarding
+- content: purging of inactive routes
+- content: real time link status information exchange
+- content: re-establishment of broken/lost routes
+- content: route establishment
+- content: single hop appearance at the networking layer (not breaking standard Layer
+    3 mechanisms)
+- content: support for broadcast
+- content: support for multicast
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

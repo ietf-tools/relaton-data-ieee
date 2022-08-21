@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE383-1974
 title:
-- type: main
-  content: IEEE Standard for Type Test of Class Ie Electric Cables, Field Splices,
+- content: IEEE Standard for Type Test of Class Ie Electric Cables, Field Splices,
     and Connections for Nuclear Power Generating Stations
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/20977
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1974'
 relation:
@@ -88,12 +90,12 @@ relation:
     formattedref:
       content: IEEE 383-2003
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Connectors
-- Nuclear power generation
-- Power cables
-- Standards
+- content: Connectors
+- content: Nuclear power generation
+- content: Power cables
+- content: Standards
 editorialgroup:
   committee:
   - Nuclear Power Engineering of the IEEE Power and Energy Society

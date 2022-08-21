@@ -1,9 +1,9 @@
 ---
 id: IEEEC57.91-1995
 title:
-- type: main
-  content: IEEE Guide for Loading Mineral-Oil-Immersed Transformers
+- content: IEEE Guide for Loading Mineral-Oil-Immersed Transformers
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/490538
   type: src
@@ -29,8 +29,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,8 +62,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1995'
 relation:
@@ -83,13 +85,13 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Power transformer insulation
-- Power transformer thermal factors
-- Oil insulation
-- Risk analysis
+- content: IEEE standards
+- content: Power transformer insulation
+- content: Power transformer thermal factors
+- content: Oil insulation
+- content: Risk analysis
 editorialgroup:
   committee:
   - Transformers of the IEEE Power and Energy Society

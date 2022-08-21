@@ -1,11 +1,11 @@
 ---
 id: IEC/IEEEFDISP62582.2-2022-06
 title:
-- type: main
-  content: 'IEC/IEEE International Standard - Nuclear power plants - Instrumentation
+- content: 'IEC/IEEE International Standard - Nuclear power plants - Instrumentation
     and control important to safety - Electrical equipment condition monitoring methods
     - Part 2: Indenter measurements'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9793335
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -51,11 +52,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2022'
 relation:
 - type: updates
@@ -75,15 +77,15 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- Nuclear power generation
-- Monitoring
-- Power system reliability
-- Measurements
-- Electronic equipment
+- content: IEEE Standards
+- content: IEC Standards
+- content: Nuclear power generation
+- content: Monitoring
+- content: Power system reliability
+- content: Measurements
+- content: Electronic equipment
 editorialgroup:
   committee:
   - Nuclear Power Engineering of the IEEE Power and Energy Society

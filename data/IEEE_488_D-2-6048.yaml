@@ -1,10 +1,10 @@
 ---
 id: IEEE488/D-2-6048
 title:
-- type: main
-  content: 'IEC/IEEE International - Standard Digital Interface for Programmable Instrumentation
+- content: 'IEC/IEEE International - Standard Digital Interface for Programmable Instrumentation
     - Part 2: Codes, formats, protocols and common commands'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1352831
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,25 +64,26 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2004'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEC Standards
-- Protocols
-- IEC
-- Customer services
-- Syntactics
-- Registers
-- IEEE Std 60488.3-1992
-- '60488.3'
-- 488.2 codes
-- communication protocols
-- commands
-- deminitions
-- instrument system applications
+- content: IEC Standards
+- content: Protocols
+- content: IEC
+- content: Customer services
+- content: Syntactics
+- content: Registers
+- content: IEEE Std 60488.3-1992
+- content: '60488.3'
+- content: 488.2 codes
+- content: communication protocols
+- content: commands
+- content: deminitions
+- content: instrument system applications
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

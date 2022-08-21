@@ -1,13 +1,13 @@
 ---
 id: IEEEP802.3af/D-4.3
 title:
-- type: main
-  content: 'Amendment to Information Technology Telecommunications and Information
+- content: 'Amendment to Information Technology Telecommunications and Information
     Exchange Between Systems Local and Metropolitan Area Networks Specific Requirements
     Part 3: Carrier Sense Multiple Access With Collision Detection (CSMA/CD) Access
     Method and Physical Layer Specificationsamendment: Data Terminal Equipment (DTE)
     Power Via Media Dependent Interface (MDI) (Amendment to IEEE Std. 802.3-2002)'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4039880
   type: src
@@ -29,8 +29,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -48,14 +49,15 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2003'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Information technology
+- content: IEEE standards
+- content: Information technology
 ics:
 - code: '35.110'
   text: Networking

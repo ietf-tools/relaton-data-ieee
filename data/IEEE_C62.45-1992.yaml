@@ -1,10 +1,10 @@
 ---
 id: IEEEC62.45-1992
 title:
-- type: main
-  content: IEEE Guide on Surge Testing for Equipment Connected to Low-Voltage AC Power
+- content: IEEE Guide on Surge Testing for Equipment Connected to Low-Voltage AC Power
     Circuits
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/278284
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1993'
 relation:
@@ -96,17 +98,17 @@ relation:
     formattedref:
       content: ANSI/IEEE C62.45-1987
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Surges
-- Testing
-- Transient analysis
-- Patents
-- IEC Standards
-- overvoltage
-- Test procedures
-- Surge-protective device
+- content: IEEE Standards
+- content: Surges
+- content: Testing
+- content: Transient analysis
+- content: Patents
+- content: IEC Standards
+- content: overvoltage
+- content: Test procedures
+- content: Surge-protective device
 editorialgroup:
   committee:
   - Surge Protective Devices/Low Voltage of the IEEE Power and Energy Society

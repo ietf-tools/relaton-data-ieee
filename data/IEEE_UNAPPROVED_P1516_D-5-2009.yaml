@@ -1,10 +1,10 @@
 ---
 id: IEEEUnapprovedP1516/D-5-2009
 title:
-- type: main
-  content: IEEE Draft Standard for Modeling and Simulation (M&S) High Level Architecture
+- content: IEEE Draft Standard for Modeling and Simulation (M&S) High Level Architecture
     (HLA) - Framework and Rules
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5347326
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,28 +63,29 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- architecture
-- class attribute
-- federate
-- federation
-- federation execution
-- federation object model
-- framework
-- high level architecture
-- instance attribute
-- interaction class
-- joined federate
-- object class
-- object model template
-- rules
-- runtime infrastructure
-- simulation object model.
+- content: architecture
+- content: class attribute
+- content: federate
+- content: federation
+- content: federation execution
+- content: federation object model
+- content: framework
+- content: high level architecture
+- content: instance attribute
+- content: interaction class
+- content: joined federate
+- content: object class
+- content: object model template
+- content: rules
+- content: runtime infrastructure
+- content: simulation object model.
 ics:
 - code: '35.080'
   text: Software

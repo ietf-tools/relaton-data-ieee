@@ -1,10 +1,10 @@
 ---
 id: IEEEPC37.13/D-21-2007
 title:
-- type: main
-  content: IEEE Draft Standard for Low-Voltage AC Power Circuit Breakers Used in Enclosures
+- content: IEEE Draft Standard for Low-Voltage AC Power Circuit Breakers Used in Enclosures
     (Revision of C37.13-2006)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4459209
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -60,17 +61,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2008'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- circuit breaker
-- fused circuit breaker
-- low-voltage ac power circuit breaker
-- open-fuse trip device
-- unfused circuit breaker
+- content: circuit breaker
+- content: fused circuit breaker
+- content: low-voltage ac power circuit breaker
+- content: open-fuse trip device
+- content: unfused circuit breaker
 ics:
 - code: 29.130.20
   text: Low voltage switchgear and controlgear

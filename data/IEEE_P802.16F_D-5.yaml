@@ -1,11 +1,11 @@
 ---
 id: IEEEP802.16f/D-5
 title:
-- type: main
-  content: 'Unapproved IEEE Draft Amendment to IEEE Standard for Local and Metropolitan
+- content: 'Unapproved IEEE Draft Amendment to IEEE Standard for Local and Metropolitan
     Area Networks - Part 16: Air Interface for Fixed Broadband Wireless Access Systems
     - Management Information Base (Superseded by Approved IEEE Draft 802.16f/D6)'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4039766
   type: src
@@ -27,8 +27,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -46,11 +47,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2005'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: '35.110'
   text: Networking

@@ -1,9 +1,9 @@
 ---
 id: ANSI/IEEEC37.20.2-1987
 title:
-- type: main
-  content: IEEE/ANSI Standard for Metal-Clad and Station-Type Cubicle Switchgear
+- content: IEEE/ANSI Standard for Metal-Clad and Station-Type Cubicle Switchgear
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/27856
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1987'
 relation:
@@ -77,11 +79,11 @@ relation:
     formattedref:
       content: IEEE C37.20.2-1993
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Circuit breakers
-- Standards
-- Switchgear
+- content: Circuit breakers
+- content: Standards
+- content: Switchgear
 editorialgroup:
   committee:
   - Switchgear of the IEEE Power and Energy Society

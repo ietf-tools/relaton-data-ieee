@@ -1,9 +1,9 @@
 ---
 id: IEEE1482.1-1999
 title:
-- type: main
-  content: IEEE Standard for Rail Transit Vehicle Event Recorders
+- content: IEEE Standard for Rail Transit Vehicle Event Recorders
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/798778
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1999'
 relation:
@@ -77,15 +79,15 @@ relation:
     formattedref:
       content: IEEE 1482.1-2013
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Rail transportation
-- crashworthiness
-- input signal
-- rail transit vehicle event recorder
-- rail vehicles
-- rapid transit
-- self-test
+- content: Rail transportation
+- content: crashworthiness
+- content: input signal
+- content: rail transit vehicle event recorder
+- content: rail vehicles
+- content: rapid transit
+- content: self-test
 editorialgroup:
   committee:
   - Rail Transportation Standards Committee of the IEEE Vehicular Technology Society

@@ -1,9 +1,9 @@
 ---
 id: ANSI/IEEE165-1977
 title:
-- type: main
-  content: IEEE Standard Definitions of Terms for Analog Computers
+- content: IEEE Standard Definitions of Terms for Analog Computers
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/21005
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -60,20 +61,21 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1977'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Programming
-- Analog computers
-- Terminology
-- computer
-- analog
-- terms
-- glossary
-- definitions
+- content: Programming
+- content: Analog computers
+- content: Terminology
+- content: computer
+- content: analog
+- content: terms
+- content: glossary
+- content: definitions
 editorialgroup:
   committee:
   - Microprocessor Standards Committee of the IEEE Computer Society

@@ -1,16 +1,16 @@
 ---
 id: IEEE1636.1-2013Redline
 title:
-- type: title-main
-  content: 'IEEE Standard for Software Interface for Maintenance Information Collection
+- content: 'IEEE Standard for Software Interface for Maintenance Information Collection
     and Analysis (SIMICA): Exchanging Test Results and Session Information via the
     eXtensible Markup Language (XML)'
   format: text/plain
-- type: main
-  content: 'IEEE Standard for Software Interface for Maintenance Information Collection
+  type: title-main
+- content: 'IEEE Standard for Software Interface for Maintenance Information Collection
     and Analysis (SIMICA): Exchanging Test Results and Session Information via the
     eXtensible Markup Language (XML) - Redline'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6759735
   type: src
@@ -36,8 +36,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,8 +69,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2013'
 relation:
@@ -83,22 +85,23 @@ relation:
     formattedref:
       content: IEEE 1636.1-2018
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Software maintenance
-- Computer interfaces
-- Information exchange
-- XML
-- Software testing
-- Automatic testing
-- automated test system (ATS)
-- eXtensible markup language (XML)
-- IEEE 1636.1(TM)
-- session information
-- Software Interface for Maintenance Information Collection and Analysis (SIMICA)
-- test results
-- XML schema
+- content: IEEE standards
+- content: Software maintenance
+- content: Computer interfaces
+- content: Information exchange
+- content: XML
+- content: Software testing
+- content: Automatic testing
+- content: automated test system (ATS)
+- content: eXtensible markup language (XML)
+- content: IEEE 1636.1(TM)
+- content: session information
+- content: Software Interface for Maintenance Information Collection and Analysis
+    (SIMICA)
+- content: test results
+- content: XML schema
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

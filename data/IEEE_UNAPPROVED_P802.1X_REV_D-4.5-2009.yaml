@@ -1,10 +1,10 @@
 ---
 id: IEEEUnapprovedP802.1X_REV/D-4.5-2009
 title:
-- type: main
-  content: IEEE Draft Standard for Local and Metropolitan Area Networks-Port-based
+- content: IEEE Draft Standard for Local and Metropolitan Area Networks-Port-based
     Network Access Control
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5286954
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -59,28 +60,29 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- local area networks
-- LANs
-- metropolitan area networks
-- MANs
-- security
-- MAC security
-- port based network access control
-- access control
-- authentication
-- authorization
-- MAC Service
-- service access point
-- controlled port
-- uncontrolled port
-- key agreement
-- secure association.
+- content: local area networks
+- content: LANs
+- content: metropolitan area networks
+- content: MANs
+- content: security
+- content: MAC security
+- content: port based network access control
+- content: access control
+- content: authentication
+- content: authorization
+- content: MAC Service
+- content: service access point
+- content: controlled port
+- content: uncontrolled port
+- content: key agreement
+- content: secure association.
 ics:
 - code: '35.110'
   text: Networking

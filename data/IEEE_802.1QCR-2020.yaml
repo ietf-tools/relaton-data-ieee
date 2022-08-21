@@ -1,10 +1,10 @@
 ---
 id: IEEE802.1Qcr-2020
 title:
-- type: main
-  content: IEEE Standard for Local and Metropolitan Area Networks--Bridges and Bridged
+- content: IEEE Standard for Local and Metropolitan Area Networks--Bridges and Bridged
     Networks - Amendment 34:Asynchronous Traffic Shaping
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9253013
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2020'
 relation:
@@ -85,26 +87,26 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Local area networks
-- Metropolitan area networks
-- Bridge circuits
-- Virtual LAN
-- Telecommunication traffic
-- Asynchronous transfer mode
-- amendment
-- Bridged Local Area Network
-- IEEE 802.1Q
-- IEEE 802.1Qcr
-- LAN
-- Local Area Network
-- MAC Bridge
-- Metropolitan Area Network
-- traffic shaping
-- Virtual Bridged Local Area Network
-- Virtual LAN
+- content: IEEE Standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Bridge circuits
+- content: Virtual LAN
+- content: Telecommunication traffic
+- content: Asynchronous transfer mode
+- content: amendment
+- content: Bridged Local Area Network
+- content: IEEE 802.1Q
+- content: IEEE 802.1Qcr
+- content: LAN
+- content: Local Area Network
+- content: MAC Bridge
+- content: Metropolitan Area Network
+- content: traffic shaping
+- content: Virtual Bridged Local Area Network
+- content: Virtual LAN
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

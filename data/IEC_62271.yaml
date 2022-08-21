@@ -1,12 +1,12 @@
 ---
 id: IEC62271
 title:
-- type: main
-  content: 'IEC 62271-111 Ed.1 (IEEE Std C37.60-2003-Compilation): High Voltage Switchgear
+- content: 'IEC 62271-111 Ed.1 (IEEE Std C37.60-2003-Compilation): High Voltage Switchgear
     and Controlgear — Part 111: Overhead, Pad-Mounted, Dry Vault, and Submersible
     Automatic Circuit Reclosers and Fault Interrupters for alternating current systems
     up to 38 kV'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7511635
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,8 +68,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2005'
 relation:
@@ -89,23 +91,23 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEC Standards
-- Dry vault
-- Interrupters
-- Switchgear
-- Circuit faults
-- Automatic voltage control
-- Underwater vehicles
-- dry vault
-- fault interrupter
-- overhead
-- pad-mounted
-- recloser
-- submersible
-- standard operating duty
-- switchgear
+- content: IEC Standards
+- content: Dry vault
+- content: Interrupters
+- content: Switchgear
+- content: Circuit faults
+- content: Automatic voltage control
+- content: Underwater vehicles
+- content: dry vault
+- content: fault interrupter
+- content: overhead
+- content: pad-mounted
+- content: recloser
+- content: submersible
+- content: standard operating duty
+- content: switchgear
 editorialgroup:
   committee:
   - Switchgear of the IEEE Power and Energy Society

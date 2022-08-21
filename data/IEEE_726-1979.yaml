@@ -1,9 +1,9 @@
 ---
 id: IEEE726-1979
 title:
-- type: main
-  content: IEEE Standard Real-Time BASIC for CAMAC
+- content: IEEE Standard Real-Time BASIC for CAMAC
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7435201
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -72,8 +73,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1979'
 relation:
@@ -87,12 +89,12 @@ relation:
     formattedref:
       content: ANSI/IEEE 726-1982
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- BASIC programing
-- Numerical analysis
-- Data processing
-- Programming
-- Computer languages
-- Computer applications
+- content: IEEE Standards
+- content: BASIC programing
+- content: Numerical analysis
+- content: Data processing
+- content: Programming
+- content: Computer languages
+- content: Computer applications

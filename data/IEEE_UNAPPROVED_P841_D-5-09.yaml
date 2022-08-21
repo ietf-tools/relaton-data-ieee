@@ -1,11 +1,11 @@
 ---
 id: IEEEUnapprovedP841/D-5-09
 title:
-- type: main
-  content: IEEE Draft Standard for Petroleum and Chemical Industry-Premium Efficiency
+- content: IEEE Draft Standard for Petroleum and Chemical Industry-Premium Efficiency
     Severe Duty Totally Enclosed Fan-Cooled (TEFC) Squirrel Cage Induction Motors-Up
     to and Including 370 Kw (500 hp)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4783147
   type: src
@@ -27,8 +27,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -60,11 +61,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: 29.160.30
   text: Motors

@@ -1,9 +1,9 @@
 ---
 id: IEEE1455-1999
 title:
-- type: main
-  content: IEEE Standard for Message Sets for Vehicle/Roadside Communications
+- content: IEEE Standard for Message Sets for Vehicle/Roadside Communications
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/798779
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,36 +66,37 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1999'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Dedicated short range communication
-- Consumer electronics
-- Transponders
-- Patents
-- Protocols
-- access control
-- application layer
-- automatic vehicle identification
-- AVI
-- beacon
-- Commercial Vehicle Operations
-- CVO
-- data authentication
-- data privacy
-- data security
-- dedicated short-range communications
-- DSRC
-- electronic toll collection
-- ETC
-- Layer 7
-- Mailbox
-- reader
-- r
+- content: IEEE Standards
+- content: Dedicated short range communication
+- content: Consumer electronics
+- content: Transponders
+- content: Patents
+- content: Protocols
+- content: access control
+- content: application layer
+- content: automatic vehicle identification
+- content: AVI
+- content: beacon
+- content: Commercial Vehicle Operations
+- content: CVO
+- content: data authentication
+- content: data privacy
+- content: data security
+- content: dedicated short-range communications
+- content: DSRC
+- content: electronic toll collection
+- content: ETC
+- content: Layer 7
+- content: Mailbox
+- content: reader
+- content: r
 editorialgroup:
   committee:
   - Intelligent Transportation Systems of the IEEE Vehicular Technology Society

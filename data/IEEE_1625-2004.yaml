@@ -1,9 +1,9 @@
 ---
 id: IEEE1625-2004
 title:
-- type: main
-  content: IEEE Standard for Rechargeable Batteries for Portable Computing
+- content: IEEE Standard for Rechargeable Batteries for Portable Computing
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8684626
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2004'
 relation:
@@ -77,16 +79,16 @@ relation:
     formattedref:
       content: IEEE 1625-2008
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- battery
-- battery pack
-- cell
-- host device
-- lithium-ion (Li-ion)
-- lithium-ion polymer (Li-ion polymer)
-- notebook computer
-- pack
+- content: battery
+- content: battery pack
+- content: cell
+- content: host device
+- content: lithium-ion (Li-ion)
+- content: lithium-ion polymer (Li-ion polymer)
+- content: notebook computer
+- content: pack
 editorialgroup:
   committee:
   - Energy Storage &amp; Stationary Battery Committee of the IEEE Power and Energy

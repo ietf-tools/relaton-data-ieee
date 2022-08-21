@@ -1,9 +1,9 @@
 ---
 id: IEEE1364-2001
 title:
-- type: main
-  content: IEEE Standard Verilog Hardware Description Language
+- content: IEEE Standard Verilog Hardware Description Language
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/954909
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2001'
 relation:
@@ -107,27 +109,27 @@ relation:
     formattedref:
       content: IEEE 1364-2005
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Hardware design languages
-- Hardware
-- Patents
-- Task analysis
-- Force
-- computer
-- computer languages
-- digital systems
-- electronic systems
-- hardware
-- hard-ware description languages
-- hardware design
-- HDL
-- PLI
-- programming language interface
-- VerilogHDL
-- Verilog PLI
-- Verilog &#174;
+- content: IEEE Standards
+- content: Hardware design languages
+- content: Hardware
+- content: Patents
+- content: Task analysis
+- content: Force
+- content: computer
+- content: computer languages
+- content: digital systems
+- content: electronic systems
+- content: hardware
+- content: hard-ware description languages
+- content: hardware design
+- content: HDL
+- content: PLI
+- content: programming language interface
+- content: VerilogHDL
+- content: Verilog PLI
+- content: Verilog &#174;
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

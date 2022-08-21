@@ -1,9 +1,9 @@
 ---
 id: IEEE896.3-1993
 title:
-- type: main
-  content: IEEE Recommended Practice for Futurebus+(R)
+- content: IEEE Recommended Practice for Futurebus+(R)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/392616
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,22 +68,23 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1994'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Computer architecture
-- Consumer electronics
-- Fault tolerance
-- Fault tolerant systems
-- backplane bus
-- bus architecture
-- futurebus+
-- Shared memory systems
-- Multiprocessor systems
+- content: IEEE Standards
+- content: Computer architecture
+- content: Consumer electronics
+- content: Fault tolerance
+- content: Fault tolerant systems
+- content: backplane bus
+- content: bus architecture
+- content: futurebus+
+- content: Shared memory systems
+- content: Multiprocessor systems
 editorialgroup:
   committee:
   - Microprocessor Standards Committee of the IEEE Computer Society

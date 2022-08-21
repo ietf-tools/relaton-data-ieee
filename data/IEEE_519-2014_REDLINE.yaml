@@ -1,14 +1,14 @@
 ---
 id: IEEE519-2014Redline
 title:
-- type: title-main
-  content: IEEE Recommended Practice and Requirements for Harmonic Control in Electric
+- content: IEEE Recommended Practice and Requirements for Harmonic Control in Electric
     Power Systems
   format: text/plain
-- type: main
-  content: IEEE Recommended Practice and Requirements for Harmonic Control in Electric
+  type: title-main
+- content: IEEE Recommended Practice and Requirements for Harmonic Control in Electric
     Power Systems - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9849490
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -71,8 +72,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2015'
 relation:
@@ -103,16 +105,16 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Power quality
-- Harmonic analysis
-- Power systems
-- Power distribution
-- harmonics
-- IEEE 519(TM)
-- power quality
+- content: IEEE Standards
+- content: Power quality
+- content: Harmonic analysis
+- content: Power systems
+- content: Power distribution
+- content: harmonics
+- content: IEEE 519(TM)
+- content: power quality
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society

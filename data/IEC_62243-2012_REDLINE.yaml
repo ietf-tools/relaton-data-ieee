@@ -1,14 +1,14 @@
 ---
 id: IEC62243-2012Redline
 title:
-- type: title-main
-  content: 'IEC 62243:2012(E) (IEEE Std 1232-2010): Artificial Intelligence Exchange
+- content: 'IEC 62243:2012(E) (IEEE Std 1232-2010): Artificial Intelligence Exchange
     and Service Tie to All Test Environments (AI-ESTATE)'
   format: text/plain
-- type: main
-  content: 'IEC 62243:2012(E) (IEEE Std 1232-2010): Artificial Intelligence Exchange
+  type: title-main
+- content: 'IEC 62243:2012(E) (IEEE Std 1232-2010): Artificial Intelligence Exchange
     and Service Tie to All Test Environments (AI-ESTATE) - Redline'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6383178
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,31 +70,32 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2012'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Artificial intelligent
-- Bayesian methods
-- Fault tolerance
-- Knowledge management
-- Testing
-- AI-ESTATE
-- Bayesian Network
-- diagnosis
-- diagnostic inference
-- diagnostic model
-- diagnostic services
-- D-matrix
-- fault tree
-- IEEE 1232
-- knowledge exchange
-- system test
+- content: IEEE standards
+- content: Artificial intelligent
+- content: Bayesian methods
+- content: Fault tolerance
+- content: Knowledge management
+- content: Testing
+- content: AI-ESTATE
+- content: Bayesian Network
+- content: diagnosis
+- content: diagnostic inference
+- content: diagnostic model
+- content: diagnostic services
+- content: D-matrix
+- content: fault tree
+- content: IEEE 1232
+- content: knowledge exchange
+- content: system test
 editorialgroup:
   committee:
   - SCC20 - Test and Diagnosis for Electronic Systems

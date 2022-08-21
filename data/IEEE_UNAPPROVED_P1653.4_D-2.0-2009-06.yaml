@@ -1,10 +1,10 @@
 ---
 id: IEEEUnapprovedP1653.4/D-2.0-2009-06
 title:
-- type: main
-  content: IEEE Standard for dc Traction Power System Field Testing and Acceptance
+- content: IEEE Standard for dc Traction Power System Field Testing and Acceptance
     Criteria for System Applications up to 1500 Volts dc Nominal
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5154163
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -53,11 +54,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: 45.060.10
   text: TrActive stock

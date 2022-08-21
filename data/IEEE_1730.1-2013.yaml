@@ -1,10 +1,10 @@
 ---
 id: IEEE1730.1-2013
 title:
-- type: main
-  content: IEEE Recommended Practice for Distributed Simulation Engineering and Execution
+- content: IEEE Recommended Practice for Distributed Simulation Engineering and Execution
     Process Multi-Architecture Overlay (DMAO)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6654219
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -72,34 +73,35 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2013'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Computational modeling
-- Computer architecture
-- Distributed processing
-- Systems engineering
-- Training
-- Simulation
-- Testing
-- DIS
-- Distributed Interactive Simulation
-- distributed simulation
-- Distributed Simulation Engineering and Execution Process
-- DMAO
-- DSEEP
-- High Level Architecture
-- HLA
-- IEEE 1730(TM)
-- IEEE 1730.1(TM)
-- multi-architecture
-- systems engineering methodology
-- TENA
-- Test and Training Enabling Architecture
+- content: IEEE standards
+- content: Computational modeling
+- content: Computer architecture
+- content: Distributed processing
+- content: Systems engineering
+- content: Training
+- content: Simulation
+- content: Testing
+- content: DIS
+- content: Distributed Interactive Simulation
+- content: distributed simulation
+- content: Distributed Simulation Engineering and Execution Process
+- content: DMAO
+- content: DSEEP
+- content: High Level Architecture
+- content: HLA
+- content: IEEE 1730(TM)
+- content: IEEE 1730.1(TM)
+- content: multi-architecture
+- content: systems engineering methodology
+- content: TENA
+- content: Test and Training Enabling Architecture
 editorialgroup:
   committee:
   - Simulation Interoperability Stds Organization/Stds Activities Committee of the

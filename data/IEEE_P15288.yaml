@@ -1,10 +1,10 @@
 ---
 id: IEEEP15288
 title:
-- type: main
-  content: Unapproved IEEE Draft Std 15288-2004 (Adoption of ISO/IEC 15288:2002, IDT),
+- content: Unapproved IEEE Draft Std 15288-2004 (Adoption of ISO/IEC 15288:2002, IDT),
     Systems Engineering---System Life Cycle Processes (Revision of ISO/IEC 15288:2004)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4040507
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,11 +62,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2006'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: '35.080'
   text: Software

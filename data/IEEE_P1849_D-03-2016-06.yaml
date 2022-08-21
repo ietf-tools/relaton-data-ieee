@@ -1,10 +1,10 @@
 ---
 id: IEEEP1849/D-03-2016-06
 title:
-- type: main
-  content: IEEE Approved Draft Standard for XES - eXtensible Event Stream - For Achieving
+- content: IEEE Approved Draft Standard for XES - eXtensible Event Stream - For Achieving
     Interoperability in Event Logs and Event Streams
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7508563
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,22 +65,23 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2016'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Patents
-- Licenses
-- Interoperability
-- XML
-- event log
-- event stream
-- system behavior
-- extensions
-- XML.
+- content: IEEE Standards
+- content: Patents
+- content: Licenses
+- content: Interoperability
+- content: XML
+- content: event log
+- content: event stream
+- content: system behavior
+- content: extensions
+- content: XML.
 editorialgroup:
   committee:
   - Standards Committee of the IEEE Computational Intelligence Society

@@ -1,9 +1,9 @@
 ---
 id: IEEENo.272
 title:
-- type: main
-  content: IEEE Standard for Computer-Type (Square-Loop) Pulse Transformers
+- content: IEEE Standard for Computer-Type (Square-Loop) Pulse Transformers
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/19465
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -70,19 +71,20 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1970'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Pulse transformers
-- Standards
-- cmputer
-- pulse
-- transformers
-- square
-- loop
+- content: Pulse transformers
+- content: Standards
+- content: cmputer
+- content: pulse
+- content: transformers
+- content: square
+- content: loop
 editorialgroup:
   committee:
   - IEEE Magnetics Society

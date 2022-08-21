@@ -1,10 +1,10 @@
 ---
 id: IEEE20000.1-2013
 title:
-- type: main
-  content: 'IEEE Standard - Adoption of ISO/IEC 20000-1:2011, Information technology
+- content: 'IEEE Standard - Adoption of ISO/IEC 20000-1:2011, Information technology
     -- Service management -- Part 1: Service management system requirements'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6517857
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -76,33 +77,34 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2013'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Management
-- Business
-- Security
-- Information management
-- Business relationship management
-- adoption
-- business relationship management
-- capacity management
-- configuration management
-- IEEE 20000-1
-- information security management
-- release management
-- service continuity and availability management
-- service delivery
-- service level management
-- service management system
-- service provider
-- service reporting
-- SMS
-- supplier management
+- content: IEEE standards
+- content: Management
+- content: Business
+- content: Security
+- content: Information management
+- content: Business relationship management
+- content: adoption
+- content: business relationship management
+- content: capacity management
+- content: configuration management
+- content: IEEE 20000-1
+- content: information security management
+- content: release management
+- content: service continuity and availability management
+- content: service delivery
+- content: service level management
+- content: service management system
+- content: service provider
+- content: service reporting
+- content: SMS
+- content: supplier management
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

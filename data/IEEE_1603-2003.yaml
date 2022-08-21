@@ -1,10 +1,10 @@
 ---
 id: IEEE1603-2003
 title:
-- type: main
-  content: IEEE Standard for an Advanced Library Format (ALF) Describing Integrated
+- content: IEEE Standard for an Advanced Library Format (ALF) Describing Integrated
     Circuit (IC) Technology, Cells, and Blocks
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1269678
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -72,37 +73,38 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2004'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Libraries
-- IEEE Standards
-- Integrated circuit modeling
-- Tools
-- Patents
-- behavioral
-- block
-- cell
-- derate
-- EDA
-- electrical
-- format
-- functional
-- gate-level
-- integratedcircuit
-- language
-- layout
-- library
-- modeling
-- physical
-- power
-- RTL
-- signal integrity
-- technology
-- timing
+- content: Libraries
+- content: IEEE Standards
+- content: Integrated circuit modeling
+- content: Tools
+- content: Patents
+- content: behavioral
+- content: block
+- content: cell
+- content: derate
+- content: EDA
+- content: electrical
+- content: format
+- content: functional
+- content: gate-level
+- content: integratedcircuit
+- content: language
+- content: layout
+- content: library
+- content: modeling
+- content: physical
+- content: power
+- content: RTL
+- content: signal integrity
+- content: technology
+- content: timing
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

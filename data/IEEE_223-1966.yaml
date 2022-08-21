@@ -1,9 +1,9 @@
 ---
 id: IEEE223-1966
 title:
-- type: main
-  content: IEEE Standard Definitions of Terms for Thyristors
+- content: IEEE Standard Definitions of Terms for Thyristors
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7378259
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,13 +63,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1966'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Thyristors
-- Terminology
-- Dictionaries
+- content: IEEE Standards
+- content: Thyristors
+- content: Terminology
+- content: Dictionaries

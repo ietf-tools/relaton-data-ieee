@@ -1,9 +1,9 @@
 ---
 id: IEEE1228-1994
 title:
-- type: main
-  content: IEEE Standard for Software Safety Plans
+- content: IEEE Standard for Software Safety Plans
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9097571
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,19 +65,20 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1994'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Software safety
-- Safety management
-- Software safety program
-- Software safety plan
-- Safety-critical software
-- Safety requirements
+- content: IEEE Standards
+- content: Software safety
+- content: Safety management
+- content: Software safety program
+- content: Software safety plan
+- content: Safety-critical software
+- content: Safety requirements
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

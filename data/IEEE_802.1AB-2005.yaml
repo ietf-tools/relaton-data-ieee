@@ -1,10 +1,10 @@
 ---
 id: IEEE802.1AB-2005
 title:
-- type: main
-  content: IEEE Standard for Local and metropolitan area networks -- Station and Media
+- content: IEEE Standard for Local and metropolitan area networks -- Station and Media
     Access Control Connectivity Discovery
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1490127
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2005'
 relation:
@@ -78,18 +80,18 @@ relation:
     formattedref:
       content: IEEE P802.1AB/D-2.2/R--2007-12
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Patents
-- Licenses
-- Local area networks
-- Metropolitan area networks
-- Media Access Protocol
-- link layer discovery protocol
-- management information base
-- topology discovery
-- topology information
+- content: IEEE Standards
+- content: Patents
+- content: Licenses
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Media Access Protocol
+- content: link layer discovery protocol
+- content: management information base
+- content: topology discovery
+- content: topology information
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

@@ -1,11 +1,11 @@
 ---
 id: IEEE802.1ABdh-2021
 title:
-- type: main
-  content: 'IEEE Standard for Local and metropolitan area networks-- Station and Media
+- content: 'IEEE Standard for Local and metropolitan area networks-- Station and Media
     Access Control Connectivity Discovery Amendment 2: Support for Multiframe Protocol
     Data Units'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9760302
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2022'
 relation:
@@ -85,22 +87,22 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Topology
-- Management information base
-- Media Access Protocol
-- Local area networks
-- Metropolitan area networks
-- IEEE 802
-- 802.1ABTM
-- 802.1ABdh
-- link layer discovery protocol
-- management information base
-- multiframe LLDPDUs
-- topology discovery
-- topology information
+- content: IEEE Standards
+- content: Topology
+- content: Management information base
+- content: Media Access Protocol
+- content: Local area networks
+- content: Metropolitan area networks
+- content: IEEE 802
+- content: 802.1ABTM
+- content: 802.1ABdh
+- content: link layer discovery protocol
+- content: management information base
+- content: multiframe LLDPDUs
+- content: topology discovery
+- content: topology information
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

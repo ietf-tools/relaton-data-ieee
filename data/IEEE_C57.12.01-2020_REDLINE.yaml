@@ -1,14 +1,14 @@
 ---
 id: IEEEC57.12.01-2020Redline
 title:
-- type: title-main
-  content: IEEE Standard for General Requirements for Dry-Type Distribution and Power
+- content: IEEE Standard for General Requirements for Dry-Type Distribution and Power
     Transformers
   format: text/plain
-- type: main
-  content: IEEE Standard for General Requirements for Dry-Type Distribution and Power
+  type: title-main
+- content: IEEE Standard for General Requirements for Dry-Type Distribution and Power
     Transformers - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9351804
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2020'
 relation:
@@ -86,18 +88,18 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Power transformers
-- Voltage control
-- Windings
-- Power distribution
-- autotransformer
-- dry-type distribution
-- IEEE C57.12.01
-- power transformer
-- voltage winding
+- content: IEEE Standards
+- content: Power transformers
+- content: Voltage control
+- content: Windings
+- content: Power distribution
+- content: autotransformer
+- content: dry-type distribution
+- content: IEEE C57.12.01
+- content: power transformer
+- content: voltage winding
 editorialgroup:
   committee:
   - Transformers of the IEEE Power and Energy Society

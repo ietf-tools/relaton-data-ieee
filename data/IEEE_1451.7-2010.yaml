@@ -1,11 +1,11 @@
 ---
 id: IEEE1451.7-2010
 title:
-- type: main
-  content: IEEE Standard for Smart Transducer Interface for Sensors and Actuators--Transducers
+- content: IEEE Standard for Smart Transducer Interface for Sensors and Actuators--Transducers
     to Radio Frequency Identification (RFID) Systems Communication Protocols and Transducer
     Electronic Data Sheet Formats
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5494713
   type: src
@@ -35,8 +35,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,27 +67,28 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2010'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Sensors
-- RFID tags
-- Transducers
-- Protocols
-- Identification
-- network capable application processor (NCAP)
-- radio frequency identification (RFID) tag
-- sensor command
-- sensor integration
-- sensor interface
-- sensor standard
-- smart RFID tags
-- transducer electronic data sheet (TEDS)
-- transducer interface module (TIM)
+- content: IEEE standards
+- content: Sensors
+- content: RFID tags
+- content: Transducers
+- content: Protocols
+- content: Identification
+- content: network capable application processor (NCAP)
+- content: radio frequency identification (RFID) tag
+- content: sensor command
+- content: sensor integration
+- content: sensor interface
+- content: sensor standard
+- content: smart RFID tags
+- content: transducer electronic data sheet (TEDS)
+- content: transducer interface module (TIM)
 editorialgroup:
   committee:
   - TC9 - Sensor Technology of the IEEE Instrumentation and Measurement Society

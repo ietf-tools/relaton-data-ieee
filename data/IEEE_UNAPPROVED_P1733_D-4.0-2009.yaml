@@ -1,10 +1,10 @@
 ---
 id: IEEEUnapprovedP1733/D-4.0-2009
 title:
-- type: main
-  content: IEEE Draft Standard for Layer Transport Protocol for Time Sensitive Applications
+- content: IEEE Draft Standard for Layer Transport Protocol for Time Sensitive Applications
     in Local Area Networks
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5154142
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -57,23 +58,24 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- RTP
-- RTCP
-- IEEE 802.1 AVB protocols
-- IEEE 802.1AS
-- IEEE 802.1Qat
-- IEEE 7 802.1Qav
-- time sensitive media streaming
-- QoS
-- LAN
-- bridged LAN
-- time synchronization
+- content: RTP
+- content: RTCP
+- content: IEEE 802.1 AVB protocols
+- content: IEEE 802.1AS
+- content: IEEE 802.1Qat
+- content: IEEE 7 802.1Qav
+- content: time sensitive media streaming
+- content: QoS
+- content: LAN
+- content: bridged LAN
+- content: time synchronization
 ics:
 - code: '35.110'
   text: Networking

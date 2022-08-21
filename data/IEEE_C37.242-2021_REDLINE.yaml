@@ -1,14 +1,14 @@
 ---
 id: IEEEC37.242-2021Redline
 title:
-- type: title-main
-  content: IEEE Guide for Synchronization, Calibration, Testing, and Installation
+- content: IEEE Guide for Synchronization, Calibration, Testing, and Installation
     of Phasor Measurement Units (PMUs) for Power System Protection and Control
   format: text/plain
-- type: main
-  content: IEEE Guide for Synchronization, Calibration, Testing, and Installation
+  type: title-main
+- content: IEEE Guide for Synchronization, Calibration, Testing, and Installation
     of Phasor Measurement Units (PMUs) for Power System Protection and Control - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9665413
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,8 +69,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2021'
 relation:
@@ -90,20 +92,20 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Calibration
-- Phasor measurement units
-- Power system measurement
-- Synchronization
-- calibration
-- GNSS
-- IEEE C37.242
-- phasor measurement unit
-- PMU
-- synchrophasor
-- testing
+- content: IEEE Standards
+- content: Calibration
+- content: Phasor measurement units
+- content: Power system measurement
+- content: Synchronization
+- content: calibration
+- content: GNSS
+- content: IEEE C37.242
+- content: phasor measurement unit
+- content: PMU
+- content: synchrophasor
+- content: testing
 editorialgroup:
   committee:
   - Power System Relaying and Control of the IEEE Power and Energy Society

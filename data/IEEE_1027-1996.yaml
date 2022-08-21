@@ -1,10 +1,10 @@
 ---
 id: IEEE1027-1996
 title:
-- type: main
-  content: IEEE Standard Method for Measurement of the Magnetic Field in the Vicinity
+- content: IEEE Standard Method for Measurement of the Magnetic Field in the Vicinity
     of a Telephone Receiver
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/627915
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -57,13 +58,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1996'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Telephone sets
+- content: Telephone sets
 editorialgroup:
   committee:
   - Standards Development Board of the IEEE Communications Society

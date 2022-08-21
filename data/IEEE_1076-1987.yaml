@@ -1,9 +1,9 @@
 ---
 id: IEEE1076-1987
 title:
-- type: main
-  content: IEEE Standard VHDL Language Reference Manual
+- content: IEEE Standard VHDL Language Reference Manual
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/26487
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -58,8 +59,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1988'
 relation:
@@ -73,15 +75,15 @@ relation:
     formattedref:
       content: ANSI/IEEE 1076-1993
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Design automation
-- Formal languages
-- Integrated circuit testing
-- Specification languages
-- Standards
-- Very-large-scale integration
-- 'Author: IEEE'
+- content: Design automation
+- content: Formal languages
+- content: Integrated circuit testing
+- content: Specification languages
+- content: Standards
+- content: Very-large-scale integration
+- content: 'Author: IEEE'
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

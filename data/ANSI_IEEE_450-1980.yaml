@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE450-1980
 title:
-- type: main
-  content: IEEE Recommended Practice for Maintenance, Testing , and Replacement of
+- content: IEEE Recommended Practice for Maintenance, Testing , and Replacement of
     Large Lead Storage Batteries for Generating Stations and Substations
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7419195
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -74,12 +75,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - American National Standards Institute
-    abbreviation: ANSI
+    - content: American National Standards Institute
+    abbreviation:
+      content: ANSI
     url: https://www.ansi.org
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1980'
 relation:
@@ -93,13 +96,13 @@ relation:
     formattedref:
       content: ANSI/IEEE 450-1987
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ANSI Standards
-- Batteries
-- Maintenance engineering
-- Substations
+- content: IEEE Standards
+- content: ANSI Standards
+- content: Batteries
+- content: Maintenance engineering
+- content: Substations
 ics:
 - code: 29.220.20
   text: Acid secondary cells and batteries

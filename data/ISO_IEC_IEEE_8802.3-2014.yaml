@@ -1,9 +1,9 @@
 ---
 id: ISO/IEC/IEEE8802.3-2014
 title:
-- type: main
-  content: ISO/IEC/IEEE International Standard for Ethernet
+- content: ISO/IEC/IEEE International Standard for Ethernet
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6781545
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,13 +70,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2014'
 relation:
 - type: adoptedFrom
@@ -88,49 +90,49 @@ relation:
     formattedref:
       content: IEEE 802.3-2012
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- ISO standards
-- IEC standards
-- Ethernet
-- Information exchange
-- Local area networks
-- Metropolitan area networks
-- 10BASE
-- 100BASE
-- 1000BASE
-- 10GBASE
-- 40GBASE
-- 100GBASE
-- 10 Gigabit Ethernet
-- 40 Gigabit Ethernet
-- 100 Gigabit Ethernet
-- attachment unit interface
-- AUI
-- Auto Negotiation
-- Backplane Ethernet
-- DTE Power via the MDI
-- EPON
-- Ethernet in the First Mile
-- Ethernet passive optical network
-- Gigabit Ethernet
-- GMII
-- IEEE 802.3
-- management
-- media independent interface
-- MDI
-- MIB
-- MII
-- PHY
-- physical coding sublayer
-- physical medium attachment
-- PMA
-- Power over Ethernet
-- repeater
-- type field
-- VLAN TAG
-- XGMII
+- content: IEEE standards
+- content: ISO standards
+- content: IEC standards
+- content: Ethernet
+- content: Information exchange
+- content: Local area networks
+- content: Metropolitan area networks
+- content: 10BASE
+- content: 100BASE
+- content: 1000BASE
+- content: 10GBASE
+- content: 40GBASE
+- content: 100GBASE
+- content: 10 Gigabit Ethernet
+- content: 40 Gigabit Ethernet
+- content: 100 Gigabit Ethernet
+- content: attachment unit interface
+- content: AUI
+- content: Auto Negotiation
+- content: Backplane Ethernet
+- content: DTE Power via the MDI
+- content: EPON
+- content: Ethernet in the First Mile
+- content: Ethernet passive optical network
+- content: Gigabit Ethernet
+- content: GMII
+- content: IEEE 802.3
+- content: management
+- content: media independent interface
+- content: MDI
+- content: MIB
+- content: MII
+- content: PHY
+- content: physical coding sublayer
+- content: physical medium attachment
+- content: PMA
+- content: Power over Ethernet
+- content: repeater
+- content: type field
+- content: VLAN TAG
+- content: XGMII
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

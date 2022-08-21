@@ -1,12 +1,12 @@
 ---
 id: IEEEC37.234-2021Redline
 title:
-- type: title-main
-  content: IEEE Guide for Protective Relay Applications to Power System Buses
+- content: IEEE Guide for Protective Relay Applications to Power System Buses
   format: text/plain
-- type: main
-  content: IEEE Guide for Protective Relay Applications to Power System Buses - Redline
+  type: title-main
+- content: IEEE Guide for Protective Relay Applications to Power System Buses - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9755296
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,8 +62,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2022'
 relation:
@@ -83,39 +85,39 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Power system control
-- Circuit breakers
-- Power system reliability
-- Voltage control
-- Power transformers
-- Relays
-- blocking zone-interlocked bus protection
-- breaker-and-a-half
-- breaker failure (BF) protection
-- breaker substitution
-- buses
-- check zone
-- CT saturation
-- current transformers
-- differential bus protection
-- double-bus double-breaker
-- double-bus single-breaker
-- dynamic bus replica
-- electric power substations
-- high-impedance differential
-- IEEE C37.234
-- main bus
-- partial differential
-- percentage-restrained differential
-- protective relaying
-- ring bus
-- single-bus single-breaker
-- stub bus
-- transfer bus
-- voltage trip supervision
+- content: IEEE Standards
+- content: Power system control
+- content: Circuit breakers
+- content: Power system reliability
+- content: Voltage control
+- content: Power transformers
+- content: Relays
+- content: blocking zone-interlocked bus protection
+- content: breaker-and-a-half
+- content: breaker failure (BF) protection
+- content: breaker substitution
+- content: buses
+- content: check zone
+- content: CT saturation
+- content: current transformers
+- content: differential bus protection
+- content: double-bus double-breaker
+- content: double-bus single-breaker
+- content: dynamic bus replica
+- content: electric power substations
+- content: high-impedance differential
+- content: IEEE C37.234
+- content: main bus
+- content: partial differential
+- content: percentage-restrained differential
+- content: protective relaying
+- content: ring bus
+- content: single-bus single-breaker
+- content: stub bus
+- content: transfer bus
+- content: voltage trip supervision
 editorialgroup:
   committee:
   - Power System Relaying and Control of the IEEE Power and Energy Society

@@ -1,11 +1,11 @@
 ---
 id: IEEEPC37.60/D-04
 title:
-- type: main
-  content: IEEE Draft Standard for Overhead, Pad Mounted, Dry Vault, and Submersible
+- content: IEEE Draft Standard for Overhead, Pad Mounted, Dry Vault, and Submersible
     Automatic Circuit Reclosers and Fault Interrupters for Alternating Current Systems
     up to 38 kV
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4588274
   type: src
@@ -27,8 +27,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -56,11 +57,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2008'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: 29.120.50
   text: Fuses and other overcurrent protection devices

@@ -1,14 +1,14 @@
 ---
 id: IEEEP802.3bf/D-3.2-2011-03
 title:
-- type: main
-  content: 'IEEE Draft Standard for Information technology--Telecommunications and
+- content: 'IEEE Draft Standard for Information technology--Telecommunications and
     information exchange between systems--Local and metropolitan area networks--Specific
     requirements Part 3: Carrier Sense Multiple Access with Collision Detection (CSMA/CD)
     Access Method and Physical Layer SpecificationsAmendment: Media Access Control
     (MAC) service interface and management parameters to support time synchronization
     protocols'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5740645
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,23 +66,24 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2011'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Synchronization
-- IEEE 802.3 Standards
-- Local area networks
-- Media Access Protocol
-- Ethernet networks
-- Collision avoidance
-- Metropolitan area networks
-- 802.3bf
-- 802.1AS
-- time synchronization protocol
+- content: IEEE standards
+- content: Synchronization
+- content: IEEE 802.3 Standards
+- content: Local area networks
+- content: Media Access Protocol
+- content: Ethernet networks
+- content: Collision avoidance
+- content: Metropolitan area networks
+- content: 802.3bf
+- content: 802.1AS
+- content: time synchronization protocol
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

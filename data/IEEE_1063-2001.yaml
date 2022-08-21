@@ -1,9 +1,9 @@
 ---
 id: IEEE1063-2001
 title:
-- type: main
-  content: IEEE Standard for Software User Documentation
+- content: IEEE Standard for Software User Documentation
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/974401
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,8 +62,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2001'
 relation:
@@ -83,12 +85,12 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Documentation
-- online help
-- software user documentation
-- user manual
+- content: Documentation
+- content: online help
+- content: software user documentation
+- content: user manual
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

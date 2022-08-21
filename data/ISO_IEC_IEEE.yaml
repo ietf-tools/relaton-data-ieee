@@ -1,10 +1,10 @@
 ---
 id: ISO/IEC/IEEE
 title:
-- type: main
-  content: ISO/IEC/IEEE International Standard - Systems and software engineering
+- content: ISO/IEC/IEEE International Standard - Systems and software engineering
     - Engineering and management of websites for systems, software, and services information
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7106438
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -79,13 +80,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2015'
 relation:
 - type: updates
@@ -105,19 +107,19 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- iSO Standards
-- Software engineering
-- Websites
-- Information management
-- Systems engineering and theory
-- '23026'
-- website management
-- website engineering
-- webmaster
+- content: IEEE Standards
+- content: IEC Standards
+- content: iSO Standards
+- content: Software engineering
+- content: Websites
+- content: Information management
+- content: Systems engineering and theory
+- content: '23026'
+- content: website management
+- content: website engineering
+- content: webmaster
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

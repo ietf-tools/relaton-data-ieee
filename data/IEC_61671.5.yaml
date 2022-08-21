@@ -1,10 +1,10 @@
 ---
 id: IEC61671.5
 title:
-- type: main
-  content: IEC/IEEE International Standard - Automatic Test Markup Language (ATML)
+- content: IEC/IEEE International Standard - Automatic Test Markup Language (ATML)
     Test Adapter Description
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7454658
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,30 +65,31 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2016'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- XML
-- Markup Languages
-- Automatic test equipment
-- Interface devices
-- ATML instance document
-- automatic test equipment (ATE)
-- automatic test markup language (ATML)
-- automatic test system (ATS)
-- IEEE 1671.5(TM)
-- interface device (ID)
-- interface test adapter (ITA)
-- test adapter
-- test fixture
-- XML schema
+- content: IEEE Standards
+- content: IEC Standards
+- content: XML
+- content: Markup Languages
+- content: Automatic test equipment
+- content: Interface devices
+- content: ATML instance document
+- content: automatic test equipment (ATE)
+- content: automatic test markup language (ATML)
+- content: automatic test system (ATS)
+- content: IEEE 1671.5(TM)
+- content: interface device (ID)
+- content: interface test adapter (ITA)
+- content: test adapter
+- content: test fixture
+- content: XML schema
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

@@ -1,10 +1,10 @@
 ---
 id: IEEEC135.63-1998
 title:
-- type: main
-  content: IEEE Standard for Shoulder Live Line Extension Links for Overhead Line
+- content: IEEE Standard for Shoulder Live Line Extension Links for Overhead Line
     Construction
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/713290
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -57,13 +58,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1998'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Maintenance
+- content: Maintenance
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society

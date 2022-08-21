@@ -1,9 +1,9 @@
 ---
 id: IEEE1118-1990
 title:
-- type: main
-  content: IEEE Standard for Microcontroller System Serial Control Bus
+- content: IEEE Standard for Microcontroller System Serial Control Bus
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/159173
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,19 +69,20 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1991'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Computer interfaces
-- Protocols
-- Standards
-- 88 inverse discrete cosine transform
-- IDCT
-- visual telephony
-- reconstruction loop
+- content: Computer interfaces
+- content: Protocols
+- content: Standards
+- content: 88 inverse discrete cosine transform
+- content: IDCT
+- content: visual telephony
+- content: reconstruction loop
 editorialgroup:
   committee:
   - TC8 - Automated Test Systems and Instrumentation of the IEEE Instrumentation and

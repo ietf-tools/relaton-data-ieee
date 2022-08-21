@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE656-1985
 title:
-- type: main
-  content: IEEE Standard for the Measurement of Audible Noise from Overhead Transmission
+- content: IEEE Standard for the Measurement of Audible Noise from Overhead Transmission
     Lines
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/29079
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,19 +66,20 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1985'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Acoustic noise measurement
-- Standards
-- audible
-- noise
-- overhead
-- transmission
-- lines
+- content: Acoustic noise measurement
+- content: Standards
+- content: audible
+- content: noise
+- content: overhead
+- content: transmission
+- content: lines
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society

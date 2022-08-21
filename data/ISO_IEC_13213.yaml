@@ -1,10 +1,10 @@
 ---
 id: ISO/IEC13213
 title:
-- type: main
-  content: ISO/IEC/IEEE International Standard for Information technology--Microprocessor
+- content: ISO/IEC/IEEE International Standard for Information technology--Microprocessor
     systems--Control and Status Registers (CSR) Architecture for microcomputer buses
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4140849
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,25 +63,26 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1994'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEC Standards
-- ISO Standards
-- Information technology
-- Microprocessors
-- Computer architecture
-- CSR architecture
-- bus architecture
-- bus standard
-- interoperability
-- microprocessors
-- node addressing
-- registers
-- transaction sets
+- content: IEC Standards
+- content: ISO Standards
+- content: Information technology
+- content: Microprocessors
+- content: Computer architecture
+- content: CSR architecture
+- content: bus architecture
+- content: bus standard
+- content: interoperability
+- content: microprocessors
+- content: node addressing
+- content: registers
+- content: transaction sets
 editorialgroup:
   committee:
   - Microprocessor Standards Committee of the IEEE Computer Society

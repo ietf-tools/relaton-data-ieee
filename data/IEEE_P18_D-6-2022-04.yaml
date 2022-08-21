@@ -1,9 +1,9 @@
 ---
 id: IEEEP18/D-6-2022-04
 title:
-- type: main
-  content: IEEE Draft Standard for Shunt Power Capacitors
+- content: IEEE Draft Standard for Shunt Power Capacitors
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9756398
   type: src
@@ -27,8 +27,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -55,8 +56,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2022'
 relation:
@@ -77,16 +79,16 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Capacitors
-- Power transmission
-- Power distribution
-- Shunts (electrical)
-- capacitors
-- shunt connection
-- transmission and distribution systems
+- content: IEEE Standards
+- content: Capacitors
+- content: Power transmission
+- content: Power distribution
+- content: Shunts (electrical)
+- content: capacitors
+- content: shunt connection
+- content: transmission and distribution systems
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society

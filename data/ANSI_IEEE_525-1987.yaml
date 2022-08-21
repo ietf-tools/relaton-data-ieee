@@ -1,9 +1,9 @@
 ---
 id: ANSI/IEEE525-1987
 title:
-- type: main
-  content: IEEE Guide for the Design and Installation of Cable Systems in Substations
+- content: IEEE Guide for the Design and Installation of Cable Systems in Substations
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/27813
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,8 +62,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1988'
 relation:
@@ -76,16 +78,16 @@ relation:
     formattedref:
       content: IEEE 525-1992
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Power cables
-- Standards
-- Substations
-- design
-- installation
-- cable
-- systems
-- substations
+- content: Power cables
+- content: Standards
+- content: Substations
+- content: design
+- content: installation
+- content: cable
+- content: systems
+- content: substations
 editorialgroup:
   committee:
   - Substations of the IEEE Power and Energy Society

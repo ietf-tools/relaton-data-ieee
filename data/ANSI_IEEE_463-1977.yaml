@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE463-1977
 title:
-- type: main
-  content: IEEE Standard for Electrical Safety Practices in Electrolytic Cell Line
+- content: IEEE Standard for Electrical Safety Practices in Electrolytic Cell Line
     Working Zones
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/35038
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1977'
 relation:
@@ -79,17 +81,17 @@ relation:
     formattedref:
       content: IEEE 463-1993
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Batteries
-- Conductors
-- Safety
-- Standards
-- electrical
-- safety
-- electrolytic
-- cell
-- zones
+- content: Batteries
+- content: Conductors
+- content: Safety
+- content: Standards
+- content: electrical
+- content: safety
+- content: electrolytic
+- content: cell
+- content: zones
 editorialgroup:
   committee:
   - Petroleum &amp; Chemical Industry of the IEEE Industry Applications Society

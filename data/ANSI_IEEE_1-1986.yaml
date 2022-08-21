@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE1-1986
 title:
-- type: main
-  content: IEEE Standard General Principles for Temperature Limits in the Rating of
+- content: IEEE Standard General Principles for Temperature Limits in the Rating of
     Electric Equipment and for the Evaluation of Electrical Insulation
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/29088
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1986'
 relation:
@@ -79,11 +81,11 @@ relation:
     formattedref:
       content: IEEE 1-2000
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Insulation testing
-- Measurement standards
-- Temperature measurement
+- content: Insulation testing
+- content: Measurement standards
+- content: Temperature measurement
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

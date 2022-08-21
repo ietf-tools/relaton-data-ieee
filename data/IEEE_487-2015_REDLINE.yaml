@@ -1,14 +1,14 @@
 ---
 id: IEEE487-2015Redline
 title:
-- type: title-main
-  content: IEEE Standard for the Electrical Protection of Communications Facilities
+- content: IEEE Standard for the Electrical Protection of Communications Facilities
     Serving Electric Supply Locations -- General Considerations
   format: text/plain
-- type: main
-  content: IEEE Standard for the Electrical Protection of Communications Facilities
+  type: title-main
+- content: IEEE Standard for the Electrical Protection of Communications Facilities
     Serving Electric Supply Locations -- General Considerations - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7361678
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -70,8 +71,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2015'
 relation:
@@ -92,19 +94,19 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Electricity supply industry
-- Voltage control
-- Power transmission lines
-- Power stations
-- electric supply locations
-- high-voltage tower
-- IEEE 487(TM)
-- power stations
-- protection
-- wire-line telecommunications
+- content: IEEE Standards
+- content: Electricity supply industry
+- content: Voltage control
+- content: Power transmission lines
+- content: Power stations
+- content: electric supply locations
+- content: high-voltage tower
+- content: IEEE 487(TM)
+- content: power stations
+- content: protection
+- content: wire-line telecommunications
 editorialgroup:
   committee:
   - Power System Communications of the IEEE Power and Energy Society

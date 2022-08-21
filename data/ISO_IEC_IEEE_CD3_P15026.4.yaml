@@ -1,10 +1,10 @@
 ---
 id: ISO/IEC/IEEECD3P15026.4
 title:
-- type: main
-  content: 'IEEE Draft Internation Standard - Systems and Software Engineering --
+- content: 'IEEE Draft Internation Standard - Systems and Software Engineering --
     Systems and Software Assurance -- Part 4: Assurance in the Life Cycle'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8755349
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,20 +62,21 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2019'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Software engineering
-- Systems analysis and design
-- Quality assurance
+- content: IEEE Standards
+- content: Software engineering
+- content: Systems analysis and design
+- content: Quality assurance
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

@@ -1,14 +1,14 @@
 ---
 id: IEEE1505.1-2019Redline
 title:
-- type: title-main
-  content: IEEE Standard for the Common Test Interface Pin Map Configuration for High-Density,
+- content: IEEE Standard for the Common Test Interface Pin Map Configuration for High-Density,
     Single-Tier Electronics Test Requirements Utilizing IEEE Std 1505
   format: text/plain
-- type: main
-  content: IEEE Standard for the Common Test Interface Pin Map Configuration for High-Density,
+  type: title-main
+- content: IEEE Standard for the Common Test Interface Pin Map Configuration for High-Density,
     Single-Tier Electronics Test Requirements Utilizing IEEE Std 1505 - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8866825
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,29 +69,30 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2019'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Power system reliability
-- Testing
-- Electronics equipment
-- Performance evaluation
-- automatic test equipment (ATE)
-- automatic test systems (ATS)
-- fixture
-- IEEE 1505.1TM
-- interconnecting device (ICD)
-- interface
-- interface test adapter (ITA)
-- mass termination
-- receiver
-- scalable
-- test program set (TPS)
-- unit under test (UUT)
+- content: IEEE Standards
+- content: Power system reliability
+- content: Testing
+- content: Electronics equipment
+- content: Performance evaluation
+- content: automatic test equipment (ATE)
+- content: automatic test systems (ATS)
+- content: fixture
+- content: IEEE 1505.1TM
+- content: interconnecting device (ICD)
+- content: interface
+- content: interface test adapter (ITA)
+- content: mass termination
+- content: receiver
+- content: scalable
+- content: test program set (TPS)
+- content: unit under test (UUT)
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

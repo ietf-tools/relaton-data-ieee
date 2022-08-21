@@ -1,12 +1,12 @@
 ---
 id: IEEE802.1Qcy-2019
 title:
-- type: main
-  content: 'IEEE Standard for Local and Metropolitan Area Networks--Bridges and Bridged
+- content: 'IEEE Standard for Local and Metropolitan Area Networks--Bridges and Bridged
     Networks Amendment 32: Virtual Station Interface (VSI) Discovery and Configuration
     Protocol (VDP) Extension to Support Network Virtualization Overlays Over Layer
     3 (NVO3)'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8728296
   type: src
@@ -36,8 +36,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,8 +69,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2019'
 relation:
@@ -90,20 +92,20 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Local area networks
-- Metropolitan area networks
-- Bridge circuits
-- Virtualization
-- Overlay networks
-- amendment
-- IEEE 802.1Q
-- IEEE 802.1Qcy
-- NVO3
-- VDP extension
-- VDP IP address extension
+- content: IEEE Standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Bridge circuits
+- content: Virtualization
+- content: Overlay networks
+- content: amendment
+- content: IEEE 802.1Q
+- content: IEEE 802.1Qcy
+- content: NVO3
+- content: VDP extension
+- content: VDP IP address extension
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

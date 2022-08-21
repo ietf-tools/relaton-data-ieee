@@ -1,10 +1,10 @@
 ---
 id: IEEE802.1
 title:
-- type: main
-  content: IEEE Standard for Local and Metropolitan Area Networks--Link-local Registration
+- content: IEEE Standard for Local and Metropolitan Area Networks--Link-local Registration
     Protocol
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9416320
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,32 +67,33 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2021'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Local area networks
-- Metropolitan area networks
-- Media Access Protocol
-- Bridge circuits
-- Timing
-- Urban areas
-- Bridged Local Area Networks
-- bridges
-- bridging
-- IEEE 802
-- IEEE 802.1CS
-- IEEE 802.1Q
-- Link-local Registration Protocol
-- local area networks (LANs)
-- LRP
-- MAC Bridges
-- Time-Sensitive Networking
-- TSN
-- Virtual Bridged Local Area Networks (virtual LANs)
+- content: IEEE Standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Media Access Protocol
+- content: Bridge circuits
+- content: Timing
+- content: Urban areas
+- content: Bridged Local Area Networks
+- content: bridges
+- content: bridging
+- content: IEEE 802
+- content: IEEE 802.1CS
+- content: IEEE 802.1Q
+- content: Link-local Registration Protocol
+- content: local area networks (LANs)
+- content: LRP
+- content: MAC Bridges
+- content: Time-Sensitive Networking
+- content: TSN
+- content: Virtual Bridged Local Area Networks (virtual LANs)
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

@@ -1,12 +1,12 @@
 ---
 id: IEEE/ISO/IEC8802.1Q/Amd1-2020
 title:
-- type: main
-  content: 'IEEE/ISO/IEC International Standard-Telecommunications and exchange between
+- content: 'IEEE/ISO/IEC International Standard-Telecommunications and exchange between
     information technology systems -- Requirements for local and metropolitan area
     networks -- Part 1Q: Bridges and bridged networks AMENDMENT 31: Stream Reservation
     Protocol (SRP) enhancements and performance improvements'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9599625
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,13 +63,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2021'
 relation:
 - type: adoptedFrom
@@ -81,28 +83,28 @@ relation:
     formattedref:
       content: IEEE 802.1Qcc-2018
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ISO Standards
-- IEC Standards
-- Local area nettworks
-- Metropolitan area networks
-- Information technology
-- Information exchange
-- Streaming media
-- Bridge circuits
-- amendment
-- Bridged Local Area Networks
-- IEEE 802&#169;
-- IEEE 802.1Q&#8482;
-- IEEE 802.1Qcc&#8482;
-- SRP
-- Stream Reservation Protocol
-- MSRP
-- Multiple Stream Registration Protocol
-- Time-Sensitive Networking
-- TSN
+- content: IEEE Standards
+- content: ISO Standards
+- content: IEC Standards
+- content: Local area nettworks
+- content: Metropolitan area networks
+- content: Information technology
+- content: Information exchange
+- content: Streaming media
+- content: Bridge circuits
+- content: amendment
+- content: Bridged Local Area Networks
+- content: IEEE 802&#169;
+- content: IEEE 802.1Q&#8482;
+- content: IEEE 802.1Qcc&#8482;
+- content: SRP
+- content: Stream Reservation Protocol
+- content: MSRP
+- content: Multiple Stream Registration Protocol
+- content: Time-Sensitive Networking
+- content: TSN
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

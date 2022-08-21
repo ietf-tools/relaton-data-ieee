@@ -1,9 +1,9 @@
 ---
 id: AIEE25-1945
 title:
-- type: main
-  content: AIEE Standards for Fuses Above 600 Volts
+- content: AIEE Standards for Fuses Above 600 Volts
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7381584
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,11 +62,11 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - AIEE
+    - content: AIEE
   from: '1945'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- AIEE Standards
-- Fuses
-- Voltage measurement
-- Power transmission
+- content: AIEE Standards
+- content: Fuses
+- content: Voltage measurement
+- content: Power transmission

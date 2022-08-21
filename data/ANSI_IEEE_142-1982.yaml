@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE142-1982
 title:
-- type: main
-  content: IEEE Recommended Practice for Grounding of Industrial and Commercial Power
+- content: IEEE Recommended Practice for Grounding of Industrial and Commercial Power
     Systems (IEEE Green Book)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/18475
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -74,8 +75,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1982'
 relation:
@@ -89,17 +91,17 @@ relation:
     formattedref:
       content: IEEE 142-1991
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Grounding
-- Electrostatic analysis
-- Power systems
-- Standards
-- grounding
-- industrial
-- commercial
-- power
-- systems
+- content: Grounding
+- content: Electrostatic analysis
+- content: Power systems
+- content: Standards
+- content: grounding
+- content: industrial
+- content: commercial
+- content: power
+- content: systems
 editorialgroup:
   committee:
   - Power Systems Engineering of the IEEE Industry Applications Society

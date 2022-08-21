@@ -1,14 +1,14 @@
 ---
 id: IEEE802.21-2017Redline
 title:
-- type: title-main
-  content: 'IEEE Standard for Local and metropolitan area networks--Part 21: Media
+- content: 'IEEE Standard for Local and metropolitan area networks--Part 21: Media
     Independent Services Framework'
   format: text/plain
-- type: main
-  content: 'IEEE Standard for Local and metropolitan area networks--Part 21: Media
+  type: title-main
+- content: 'IEEE Standard for Local and metropolitan area networks--Part 21: Media
     Independent Services Framework - Redline'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8082798
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,8 +67,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2017'
 relation:
@@ -88,33 +90,33 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Local area networks
-- Metropolitan area networks
-- Multicast communication
-- Network security
-- Authentication
-- Media
-- broadcast
-- downlink only
-- group
-- group management
-- group security
-- IEEE 802.21(TM)
-- management
-- media independent handover
-- media independent service
-- mobile node
-- mobility
-- multicast
-- point of attachment
-- point of service
-- proactive authentication
-- seamless
-- security protection
-- service access authentication
+- content: IEEE Standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Multicast communication
+- content: Network security
+- content: Authentication
+- content: Media
+- content: broadcast
+- content: downlink only
+- content: group
+- content: group management
+- content: group security
+- content: IEEE 802.21(TM)
+- content: management
+- content: media independent handover
+- content: media independent service
+- content: mobile node
+- content: mobility
+- content: multicast
+- content: point of attachment
+- content: point of service
+- content: proactive authentication
+- content: seamless
+- content: security protection
+- content: service access authentication
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

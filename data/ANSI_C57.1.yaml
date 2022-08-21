@@ -1,12 +1,12 @@
 ---
 id: ANSIC57.1
 title:
-- type: main
-  content: 'American National Standard for Transformers--Pad-Mounted, Compartmental-Type,
+- content: 'American National Standard for Transformers--Pad-Mounted, Compartmental-Type,
     Self-Cooled, Single-Phase Distribution Transformers with Separable Insulated High-Voltage
     Connectors: High Voltage (34 500 GrdY/19 920 Volts and Below) and Low-Voltage
     (240/120 Volts; 167 kVA and Smaller)'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6910350
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,22 +68,24 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - American National Standards Institute
-    abbreviation: ANSI
+    - content: American National Standards Institute
+    abbreviation:
+      content: ANSI
     url: https://www.ansi.org
   from: '1990'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- ANSI standards
-- Transformers
-- Voltage control
-- Connectors
-- High-voltage techniques
-- Voltage transformers
+- content: ANSI standards
+- content: Transformers
+- content: Voltage control
+- content: Connectors
+- content: High-voltage techniques
+- content: Voltage transformers
 editorialgroup:
   committee:
   - Transformers of the IEEE Power and Energy Society

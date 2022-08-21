@@ -1,10 +1,10 @@
 ---
 id: IEEEP1610/D-8-2016-04
 title:
-- type: main
-  content: IEEE Draft Guide for the Application of Faulted Circuit Indicators on Distribution
+- content: IEEE Draft Guide for the Application of Faulted Circuit Indicators on Distribution
     Circuits
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7469281
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -50,8 +51,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2016'
 relation:
@@ -72,15 +74,15 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Fault diagnosis
-- Sensors
-- Circuit faults
-- Fault Indicators
-- FCIs
-- Fault Sensors
+- content: IEEE Standards
+- content: Fault diagnosis
+- content: Sensors
+- content: Circuit faults
+- content: Fault Indicators
+- content: FCIs
+- content: Fault Sensors
 editorialgroup:
   committee:
   - Insulated Conductors of the IEEE Power and Energy Society

@@ -1,9 +1,9 @@
 ---
 id: IEEE961-1987
 title:
-- type: main
-  content: 'IEEE Standard for an 8-Bit Microcomputer Bus System: STD Bus'
+- content: 'IEEE Standard for an 8-Bit Microcomputer Bus System: STD Bus'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/89626
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,23 +68,24 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1988'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Computer interfaces
-- Microcomputers
-- Standards
-- eight
-- bit
-- bus
-- system
-- std bus
-- Multimicroprocessing
-- Microcomputer interfaces
-- Data buses
+- content: Computer interfaces
+- content: Microcomputers
+- content: Standards
+- content: eight
+- content: bit
+- content: bus
+- content: system
+- content: std bus
+- content: Multimicroprocessing
+- content: Microcomputer interfaces
+- content: Data buses
 editorialgroup:
   committee:
   - Microprocessor Standards Committee of the IEEE Computer Society

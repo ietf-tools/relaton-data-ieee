@@ -1,11 +1,11 @@
 ---
 id: IEEEP1588g/D-1.2-2022-03
 title:
-- type: main
-  content: 'IEEE Draft Standard for a Precision Clock Synchronization Protocol for
+- content: 'IEEE Draft Standard for a Precision Clock Synchronization Protocol for
     Networked Measurement and Control Systems Amendment: Master-slave optional alternative
     terminology'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9801689
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,8 +62,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2022'
 relation:
@@ -83,17 +85,17 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Main-Secondary
-- Synchronization
-- Clocks
-- PTP
-- master
-- slave
-- timeTransmitter
-- timeReceiver
+- content: IEEE Standards
+- content: Main-Secondary
+- content: Synchronization
+- content: Clocks
+- content: PTP
+- content: master
+- content: slave
+- content: timeTransmitter
+- content: timeReceiver
 editorialgroup:
   committee:
   - TC9 - Sensor Technology of the IEEE Instrumentation and Measurement Society

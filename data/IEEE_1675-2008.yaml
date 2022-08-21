@@ -1,9 +1,9 @@
 ---
 id: IEEE1675-2008
 title:
-- type: main
-  content: IEEE Standard for Broadband Over Powerline Hardware
+- content: IEEE Standard for Broadband Over Powerline Hardware
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8995814
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -51,24 +52,25 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Broadband
-- Power transmission lines
-- Medium voltage
-- Couplers
-- Voltage control
-- 1675-2008
-- broadband over power line communications
-- broadband power line
-- coupler
-- installation
-- medium voltage
+- content: IEEE Standards
+- content: Broadband
+- content: Power transmission lines
+- content: Medium voltage
+- content: Couplers
+- content: Voltage control
+- content: 1675-2008
+- content: broadband over power line communications
+- content: broadband power line
+- content: coupler
+- content: installation
+- content: medium voltage
 editorialgroup:
   committee:
   - IEEE Power and Energy Society

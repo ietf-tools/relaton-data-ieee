@@ -1,10 +1,10 @@
 ---
 id: IEEE2065-2020
 title:
-- type: main
-  content: IEEE Guide for Parameter Requirements and Test Method for Industrial Fiber
+- content: IEEE Guide for Parameter Requirements and Test Method for Industrial Fiber
     Laser
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9386025
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,19 +67,20 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2021'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Optical fiber testing
-- Fiber lasers
-- Lasers
-- IEEE 2065
-- industrial fiber laser
-- test method
+- content: IEEE Standards
+- content: Optical fiber testing
+- content: Fiber lasers
+- content: Lasers
+- content: IEEE 2065
+- content: industrial fiber laser
+- content: test method
 editorialgroup:
   committee:
   - Standards Committee of the IEEE Photonics Society

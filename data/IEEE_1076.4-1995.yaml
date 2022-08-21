@@ -1,10 +1,10 @@
 ---
 id: IEEE1076.4-1995
 title:
-- type: main
-  content: IEEE Standard VITAL Application-Specific Integrated Circuit (ASIC) Modeling
+- content: IEEE Standard VITAL Application-Specific Integrated Circuit (ASIC) Modeling
     Specification
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/499105
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1996'
 relation:
@@ -77,24 +79,24 @@ relation:
     formattedref:
       content: IEEE 1076.4-2000
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Application specific integrated circuits
-- Hardware design languages
-- Integrated circuit modeling
-- Circuit simulation
-- Simulation software
-- ASIC
-- computer languages
-- constraints
-- delay calculation
-- HDL
-- modeling
-- SDF
-- timing
-- verilog
-- VHDL
+- content: IEEE standards
+- content: Application specific integrated circuits
+- content: Hardware design languages
+- content: Integrated circuit modeling
+- content: Circuit simulation
+- content: Simulation software
+- content: ASIC
+- content: computer languages
+- content: constraints
+- content: delay calculation
+- content: HDL
+- content: modeling
+- content: SDF
+- content: timing
+- content: verilog
+- content: VHDL
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

@@ -1,9 +1,9 @@
 ---
 id: IEEE/ASTM
 title:
-- type: main
-  content: American National Standard for Metric Practice
+- content: American National Standard for Metric Practice
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5750142
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,11 +65,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ASTM
+    - content: ASTM
   from: '2011'
 relation:
 - type: updates
@@ -98,17 +100,17 @@ relation:
     formattedref:
       content: IEEE/ASTM SI 10.2016
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Measurement
-- Guidance for the use of the modern metric system is given. Known as the International
-  System of Units (abbreviated SI)
-- the system is the basis for worldwide standardization of measurement units. Information
-  is included on SI
-- a list of units recognized for use with SI
-- and a list of conversion factors
-- together with general guidance on proper style and usage.
+- content: IEEE standards
+- content: Measurement
+- content: Guidance for the use of the modern metric system is given. Known as the
+    International System of Units (abbreviated SI)
+- content: the system is the basis for worldwide standardization of measurement units.
+    Information is included on SI
+- content: a list of units recognized for use with SI
+- content: and a list of conversion factors
+- content: together with general guidance on proper style and usage.
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

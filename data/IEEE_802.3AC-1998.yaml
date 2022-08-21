@@ -1,12 +1,12 @@
 ---
 id: IEEE802.3ac-1998
 title:
-- type: main
-  content: 'IEEE Standard for Information technology - Telecommunications and information
+- content: 'IEEE Standard for Information technology - Telecommunications and information
     exchange between systems - Local and metropolitan area networks - Specific requirements
     Part 3: Carrier sense multiple access with collision detection (CSMA/CD) frame
     extensions for Virtual Bridged Local Area Networks (VLAN) tagging on 802.3 networks'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/729403
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1998'
 relation:
@@ -87,20 +89,20 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- data processing
-- Ethernet
-- information interchange
-- local area networks
-- local area networks
-- management
-- models
-- mode of data transmission
-- network interconnection
-- repeater
-- type field
+- content: IEEE standards
+- content: data processing
+- content: Ethernet
+- content: information interchange
+- content: local area networks
+- content: local area networks
+- content: management
+- content: models
+- content: mode of data transmission
+- content: network interconnection
+- content: repeater
+- content: type field
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

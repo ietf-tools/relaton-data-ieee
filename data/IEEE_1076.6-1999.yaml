@@ -1,9 +1,9 @@
 ---
 id: IEEE1076.6-1999
 title:
-- type: main
-  content: IEEE Standard for VHDL Register Transfer Level Synthesis
+- content: IEEE Standard for VHDL Register Transfer Level Synthesis
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/836335
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,8 +62,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2000'
 relation:
@@ -76,13 +78,13 @@ relation:
     formattedref:
       content: IEEE 1076.6-2004
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Hardware design languages
-- pragma
-- register transfer level (RTL)
-- synthesis
-- VHDL
+- content: Hardware design languages
+- content: pragma
+- content: register transfer level (RTL)
+- content: synthesis
+- content: VHDL
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

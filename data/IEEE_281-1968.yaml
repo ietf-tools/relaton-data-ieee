@@ -1,9 +1,9 @@
 ---
 id: IEEE281-1968
 title:
-- type: main
-  content: IEEE Standard Service Conditions for Power System Communications Apparatus
+- content: IEEE Standard Service Conditions for Power System Communications Apparatus
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7384653
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1968'
 relation:
@@ -77,9 +79,9 @@ relation:
     formattedref:
       content: IEEE 281-1984
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Service conditions
-- Telecommunication services
-- Communications technology
+- content: IEEE Standards
+- content: Service conditions
+- content: Telecommunication services
+- content: Communications technology

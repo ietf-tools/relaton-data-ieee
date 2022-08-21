@@ -1,10 +1,10 @@
 ---
 id: IEC62530
 title:
-- type: main
-  content: IEEE/IEC International Standard - SystemVerilog -- Unified Hardware Design,
+- content: IEEE/IEC International Standard - SystemVerilog -- Unified Hardware Design,
     Specification, and Verification Language
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5944940
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,30 +66,31 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2011'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Design methodology
-- Hardware
-- System-level design
-- Formal verification
-- assertions
-- design automation
-- design verification
-- hardware description language
-- HDL
-- HDVL
-- PLI
-- programming language interface
-- SystemVerilog
-- Verilog
-- VPI
+- content: IEEE standards
+- content: Design methodology
+- content: Hardware
+- content: System-level design
+- content: Formal verification
+- content: assertions
+- content: design automation
+- content: design verification
+- content: hardware description language
+- content: HDL
+- content: HDVL
+- content: PLI
+- content: programming language interface
+- content: SystemVerilog
+- content: Verilog
+- content: VPI
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

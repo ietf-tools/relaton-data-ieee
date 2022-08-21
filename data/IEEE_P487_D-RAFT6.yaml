@@ -1,10 +1,10 @@
 ---
 id: IEEEP487/D-raft6
 title:
-- type: main
-  content: IEEE Draft Recommended Practice for the Protection of Wire-Line Communication
+- content: IEEE Draft Recommended Practice for the Protection of Wire-Line Communication
     Facilities Serving Electric Supply Locations
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4040327
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,11 +63,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2006'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: '29.200'
   text: Rectifiers. Converters. Stabilized power supply

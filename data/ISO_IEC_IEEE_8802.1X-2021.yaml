@@ -1,11 +1,11 @@
 ---
 id: ISO/IEC/IEEE8802.1X-2021
 title:
-- type: main
-  content: IEEE/ISO/IEC International Standard-Telecommunications and exchange between
+- content: IEEE/ISO/IEC International Standard-Telecommunications and exchange between
     information technology systems--Requirements for local and metropolitan area networks--Part
     1X:Port-based network access control
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9650828
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,13 +68,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2021'
 relation:
 - type: adoptedFrom
@@ -86,41 +88,41 @@ relation:
     formattedref:
       content: IEEE 802.1X-2020
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ISO Standards
-- IEC Standards
-- Access control
-- Authentication
-- Local area networks
-- Metropolitan area networks
-- Media Access Protocol
-- Computer security
-- Information technology
-- Urban areas
-- access control
-- authentication
-- authorization
-- controlled port
-- EAP
-- EAPOL
-- IEEE 802.1X
-- key agreement
-- LANs
-- local area networks
-- MACsec
-- MACsec Key Agreement
-- MAC security
-- MAC Service
-- MANs
-- metropolitan area networks
-- MKA
-- port-based network access control
-- secure association
-- security
-- service access point
-- uncontrolled port
+- content: IEEE Standards
+- content: ISO Standards
+- content: IEC Standards
+- content: Access control
+- content: Authentication
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Media Access Protocol
+- content: Computer security
+- content: Information technology
+- content: Urban areas
+- content: access control
+- content: authentication
+- content: authorization
+- content: controlled port
+- content: EAP
+- content: EAPOL
+- content: IEEE 802.1X
+- content: key agreement
+- content: LANs
+- content: local area networks
+- content: MACsec
+- content: MACsec Key Agreement
+- content: MAC security
+- content: MAC Service
+- content: MANs
+- content: metropolitan area networks
+- content: MKA
+- content: port-based network access control
+- content: secure association
+- content: security
+- content: service access point
+- content: uncontrolled port
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

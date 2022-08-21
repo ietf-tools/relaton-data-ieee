@@ -1,10 +1,10 @@
 ---
 id: IEEEApprovedP1562/D-12-2007
 title:
-- type: main
-  content: IEEE Draft Guide for Array and Battery Sizing in Stand-Alone Photovoltaic
+- content: IEEE Draft Guide for Array and Battery Sizing in Stand-Alone Photovoltaic
     Systems
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4413106
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -57,15 +58,16 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2007'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- photovoltaic systems
-- PV array sizing
-- battery sizing
+- content: photovoltaic systems
+- content: PV array sizing
+- content: battery sizing
 ics:
 - code: '27.160'
   text: Solar energy engineering

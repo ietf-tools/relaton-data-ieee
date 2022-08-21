@@ -1,10 +1,10 @@
 ---
 id: IEEEC37.71-2001
 title:
-- type: main
-  content: IEEE Standard for Three-Phase Manually Operated Subsurface and Vault Load-Interrupting
+- content: IEEE Standard for Three-Phase Manually Operated Subsurface and Vault Load-Interrupting
     Switches for Alternating-Current Systems
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/935760
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2001'
 relation:
@@ -85,12 +87,12 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Switchgear
-- subsurface switchgear
-- switched way
-- vault switchgear
+- content: Switchgear
+- content: subsurface switchgear
+- content: switched way
+- content: vault switchgear
 editorialgroup:
   committee:
   - Switchgear of the IEEE Power and Energy Society

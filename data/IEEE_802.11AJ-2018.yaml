@@ -1,13 +1,13 @@
 ---
 id: IEEE802.11aj-2018
 title:
-- type: main
-  content: 'IEEE Standard for Information Technology--Telecommunications and information
+- content: 'IEEE Standard for Information Technology--Telecommunications and information
     exchange between systems Local and metropolitan area networks--Specific requirements
     Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications
     Amendment 3: Enhancements for Very High Throughput to Support Chinese Millimeter
     Wave Frequency Bands (60 GHz and 45 GHz)'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8345727
   type: src
@@ -35,8 +35,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,8 +68,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2018'
 relation:
@@ -99,29 +101,29 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Local area networks
-- Metropolitan area networks
-- Information exchange
-- Wireless LAN
-- Media Access Protocol
-- Physical layer
-- Information technology
-- beamforming
-- CDMG
-- China directional multi-gigabit
-- China millimeter-wave multigigabit
-- CMMG
-- DBC
-- DCS
-- dynamic bandwidth control
-- dynamic channel selection
-- IEEE 802.11&#8482;
-- IEEE 802.11aj&#8482;
-- opportunistic transmission
-- spatial sharing
+- content: IEEE Standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Information exchange
+- content: Wireless LAN
+- content: Media Access Protocol
+- content: Physical layer
+- content: Information technology
+- content: beamforming
+- content: CDMG
+- content: China directional multi-gigabit
+- content: China millimeter-wave multigigabit
+- content: CMMG
+- content: DBC
+- content: DCS
+- content: dynamic bandwidth control
+- content: dynamic channel selection
+- content: IEEE 802.11&#8482;
+- content: IEEE 802.11aj&#8482;
+- content: opportunistic transmission
+- content: spatial sharing
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

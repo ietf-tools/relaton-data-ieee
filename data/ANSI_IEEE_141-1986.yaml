@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE141-1986
 title:
-- type: main
-  content: IEEE Recommended Practice for Electric Power Distribution for Industrial
+- content: IEEE Recommended Practice for Electric Power Distribution for Industrial
     Plants (IEEE Red Book)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/35071
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,8 +69,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1986'
 relation:
@@ -83,11 +85,11 @@ relation:
     formattedref:
       content: IEEE 141-1993
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Industrial plants
-- Power supplies
-- Standards
+- content: Industrial plants
+- content: Power supplies
+- content: Standards
 editorialgroup:
   committee:
   - Power Systems Engineering of the IEEE Industry Applications Society

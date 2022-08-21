@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE802.3j-1993
 title:
-- type: main
-  content: Supplement to 802.3 - Fiber Optic Active and Passive Star-Based Segments,
+- content: Supplement to 802.3 - Fiber Optic Active and Passive Star-Based Segments,
     Type 10BASE-F (Sections 15-18)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/286112
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1993'
 relation:
@@ -85,19 +87,19 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE 802.3 Standard
-- EPON
-- Physical layer
-- Local area networks
-- Protocols
-- conformance requirements
-- fiber optic
-- star-based segments
-- type 10BASE-F
-- LAN
-- MAN
+- content: IEEE 802.3 Standard
+- content: EPON
+- content: Physical layer
+- content: Local area networks
+- content: Protocols
+- content: conformance requirements
+- content: fiber optic
+- content: star-based segments
+- content: type 10BASE-F
+- content: LAN
+- content: MAN
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

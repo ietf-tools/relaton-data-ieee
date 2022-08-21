@@ -1,9 +1,9 @@
 ---
 id: IEEE1062-2015
 title:
-- type: main
-  content: IEEE Recommended Practice for Software Acquisition
+- content: IEEE Recommended Practice for Software Acquisition
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7419835
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,8 +68,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2016'
 relation:
@@ -89,23 +91,23 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Software acquisition
-- Software-as-a-service
-- Software development
-- acquirer
-- custom developed
-- end user
-- FOSS
-- IEEE 1062(TM)
-- off-the-shelf
-- OTS
-- SaaS
-- software acquisition process
-- software as a service
-- supplier
+- content: IEEE Standards
+- content: Software acquisition
+- content: Software-as-a-service
+- content: Software development
+- content: acquirer
+- content: custom developed
+- content: end user
+- content: FOSS
+- content: IEEE 1062(TM)
+- content: off-the-shelf
+- content: OTS
+- content: SaaS
+- content: software acquisition process
+- content: software as a service
+- content: supplier
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

@@ -1,10 +1,10 @@
 ---
 id: ANSIC63.2-1987
 title:
-- type: main
-  content: American National Standard for Instrumentation - Electromagnetic Noise
+- content: American National Standard for Instrumentation - Electromagnetic Noise
     and Field Strength, 10kHz to 40 GHz - Specifications
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/26553
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,8 +62,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1988'
 relation:
@@ -76,17 +78,17 @@ relation:
     formattedref:
       content: ANSI C63.2-1996
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Current measurement
-- Electromagnetic compatibility
-- Standardization
-- Standards
-- Voltage measurement
-- Voltmeters
-- Voltage measurements
-- Electromagnetic measurements
-- Electromagnetic interference
+- content: Current measurement
+- content: Electromagnetic compatibility
+- content: Standardization
+- content: Standards
+- content: Voltage measurement
+- content: Voltmeters
+- content: Voltage measurements
+- content: Electromagnetic measurements
+- content: Electromagnetic interference
 ics:
 - code: 33.100.01
   text: Electromagnetic compatibility (EMC) in general

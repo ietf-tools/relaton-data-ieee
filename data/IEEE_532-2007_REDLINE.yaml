@@ -1,14 +1,14 @@
 ---
 id: IEEE532-2007Redline
 title:
-- type: title-main
-  content: IEEE Guide for Selecting and Testing Jackets for Power, Instrumentation,
+- content: IEEE Guide for Selecting and Testing Jackets for Power, Instrumentation,
     and Control Cables
   format: text/plain
-- type: main
-  content: IEEE Guide for Selecting and Testing Jackets for Power, Instrumentation,
+  type: title-main
+- content: IEEE Guide for Selecting and Testing Jackets for Power, Instrumentation,
     and Control Cables - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5961598
   type: src
@@ -36,8 +36,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,8 +70,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2008'
 relation:
@@ -91,17 +93,17 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Cable insulation
-- Cable shielding
-- Testing
-- Conductors
-- 532-2007
-- cables
-- jackets
-- testing
+- content: IEEE standards
+- content: Cable insulation
+- content: Cable shielding
+- content: Testing
+- content: Conductors
+- content: 532-2007
+- content: cables
+- content: jackets
+- content: testing
 editorialgroup:
   committee:
   - Insulated Conductors of the IEEE Power and Energy Society

@@ -1,9 +1,9 @@
 ---
 id: IEEE59
 title:
-- type: main
-  content: 'IRE Standards on Navigation Aids: Direction Finder Measurements, 1959'
+- content: 'IRE Standards on Navigation Aids: Direction Finder Measurements, 1959'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/18450
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,17 +64,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1959'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Measurement standards
-- Direction of arrival estimation
-- Electromagnetic radiative interference
-- Radio navigation
-- Standardization
+- content: Measurement standards
+- content: Direction of arrival estimation
+- content: Electromagnetic radiative interference
+- content: Radio navigation
+- content: Standardization
 ics:
 - code: '17.020'
   text: Metrology and measurement in general

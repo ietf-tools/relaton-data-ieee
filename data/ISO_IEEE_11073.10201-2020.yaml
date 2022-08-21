@@ -1,10 +1,10 @@
 ---
 id: ISO/IEEE11073.10201-2020
 title:
-- type: main
-  content: ISO/IEC/IEEE International Standard - Health informatics--Device interoperability--Part
+- content: ISO/IEC/IEEE International Standard - Health informatics--Device interoperability--Part
     10201:Point-of-care medical device communication--Domain information model
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9102466
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,13 +70,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2020'
 relation:
 - type: adoptedFrom
@@ -88,30 +90,30 @@ relation:
     formattedref:
       content: IEEE 11073.10201-2018
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- ISO Standards
-- Bioinformatics
-- Point of care
-- Medical devices
-- abstract syntax
-- alarm
-- alert
-- ASN.1
-- DIM
-- domain information model
-- IEEE 11073-10201
-- information model
-- medical device communications
-- medical information bus
-- MIB
-- object-oriented
-- patient
-- POC
-- point-of-care
-- remote control
+- content: IEEE Standards
+- content: IEC Standards
+- content: ISO Standards
+- content: Bioinformatics
+- content: Point of care
+- content: Medical devices
+- content: abstract syntax
+- content: alarm
+- content: alert
+- content: ASN.1
+- content: DIM
+- content: domain information model
+- content: IEEE 11073-10201
+- content: information model
+- content: medical device communications
+- content: medical information bus
+- content: MIB
+- content: object-oriented
+- content: patient
+- content: POC
+- content: point-of-care
+- content: remote control
 editorialgroup:
   committee:
   - IEEE 11073 Standards Committee of the IEEE Engineering in Medicine and Biology

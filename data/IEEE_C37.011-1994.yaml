@@ -1,10 +1,10 @@
 ---
 id: IEEEC37.011-1994
 title:
-- type: main
-  content: IEEE Application Guide for Transient Recovery Voltage for AC High-Voltage
+- content: IEEE Application Guide for Transient Recovery Voltage for AC High-Voltage
     Circuit Breakers Rated on a Symmetrical Current Basis
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/467530
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,8 +67,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1995'
 relation:
@@ -98,12 +100,12 @@ relation:
     formattedref:
       content: IEEE C37.011-2005
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- AC circuit breakers
-- IEEE standards
-- transient recovery voltage
-- High-voltage circuit breakers
+- content: AC circuit breakers
+- content: IEEE standards
+- content: transient recovery voltage
+- content: High-voltage circuit breakers
 editorialgroup:
   committee:
   - Switchgear of the IEEE Power and Energy Society

@@ -1,12 +1,12 @@
 ---
 id: IEEE802.5t-2000
 title:
-- type: main
-  content: 'IEEE Standard for Information Technology--Telecommunications and information
+- content: 'IEEE Standard for Information Technology--Telecommunications and information
     exchange between systems--Local and Metropolitan Area Networks--Part 5: Token
     Ring access method and physical layer specifications 100 Mbit/s Dedicated Token
     Ring Operation'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/827772
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -70,20 +71,21 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2000'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Communication standards
-- data processing interconnection
-- dedicated token ring
-- fill duplex operation
-- local area network (LAN)
-- medium access control (MAC)
-- 100 Mbit/s operation
-- token ring
+- content: Communication standards
+- content: data processing interconnection
+- content: dedicated token ring
+- content: fill duplex operation
+- content: local area network (LAN)
+- content: medium access control (MAC)
+- content: 100 Mbit/s operation
+- content: token ring
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

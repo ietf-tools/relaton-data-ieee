@@ -1,10 +1,10 @@
 ---
 id: IEEEC57.15-2009
 title:
-- type: main
-  content: IEEE Standard Requirements, Terminology, and Test Code for Step-Voltage
+- content: IEEE Standard Requirements, Terminology, and Test Code for Step-Voltage
     Regulators
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5352404
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,8 +69,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
 relation:
@@ -83,24 +85,24 @@ relation:
     formattedref:
       content: IEC 60076.21-2018
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Data mining
-- Probability density function
-- Standards Board
-- Committees
-- Dielectric loss measurement
-- C62.64-2009
-- control
-- design tests
-- position indicator
-- routine tests
-- series transformer
-- tap changer
-- Type A
-- Type B
-- voltage regulator
+- content: IEEE standards
+- content: Data mining
+- content: Probability density function
+- content: Standards Board
+- content: Committees
+- content: Dielectric loss measurement
+- content: C62.64-2009
+- content: control
+- content: design tests
+- content: position indicator
+- content: routine tests
+- content: series transformer
+- content: tap changer
+- content: Type A
+- content: Type B
+- content: voltage regulator
 editorialgroup:
   committee:
   - Transformers of the IEEE Power and Energy Society

@@ -1,11 +1,11 @@
 ---
 id: ISO/IEEE11073.20702-2018
 title:
-- type: main
-  content: 'ISO/IEEE International Standard for Health informatics -- Point-of-care
+- content: 'ISO/IEEE International Standard for Health informatics -- Point-of-care
     medical device communication -- Part 20702: Medical devices communication profile
     for web services'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8472336
   type: src
@@ -35,8 +35,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,11 +68,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   from: '2018'
 relation:
 - type: adoptedFrom
@@ -84,31 +86,31 @@ relation:
     formattedref:
       content: IEEE 11073.20702-2016
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ISO Standards
-- XML
-- Medical devices
-- Media streaming
-- Point of care
-- Knowledge discovery
-- Safety
-- 'Keywords: Devices Profle for Web Services'
-- DPWS
-- Eicient XML Interchange
-- EXI
-- IEEE 11073-20702&#8482;
-- ISO/IEEE 11073
-- MDC
-- medical device communication
-- PoC
-- point-of-care
-- safety
-- Simple Object Access Protocol
-- SOAP
-- Streaming Web Services
-- WS-Discovery
+- content: IEEE Standards
+- content: ISO Standards
+- content: XML
+- content: Medical devices
+- content: Media streaming
+- content: Point of care
+- content: Knowledge discovery
+- content: Safety
+- content: 'Keywords: Devices Profle for Web Services'
+- content: DPWS
+- content: Eicient XML Interchange
+- content: EXI
+- content: IEEE 11073-20702&#8482;
+- content: ISO/IEEE 11073
+- content: MDC
+- content: medical device communication
+- content: PoC
+- content: point-of-care
+- content: safety
+- content: Simple Object Access Protocol
+- content: SOAP
+- content: Streaming Web Services
+- content: WS-Discovery
 editorialgroup:
   committee:
   - IEEE 11073 Standards Committee of the IEEE Engineering in Medicine and Biology

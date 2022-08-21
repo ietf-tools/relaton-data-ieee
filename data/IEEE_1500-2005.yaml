@@ -1,9 +1,9 @@
 ---
 id: IEEE1500-2005
 title:
-- type: main
-  content: IEEE Standard Testability Method for Embedded Core-based Integrated Circuits
+- content: IEEE Standard Testability Method for Embedded Core-based Integrated Circuits
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1507591
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,21 +62,22 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2005'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Patents
-- Testing
-- System-on-chip
-- Trademarks
-- core test
-- embedded core test
-- IP test
-- test reuse
+- content: IEEE Standards
+- content: Patents
+- content: Testing
+- content: System-on-chip
+- content: Trademarks
+- content: core test
+- content: embedded core test
+- content: IP test
+- content: test reuse
 editorialgroup:
   committee:
   - Test Technology of the IEEE Computer Society

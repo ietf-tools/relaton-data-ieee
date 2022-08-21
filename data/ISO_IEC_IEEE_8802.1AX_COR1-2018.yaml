@@ -1,11 +1,11 @@
 ---
 id: ISO/IEC/IEEE8802.1AX/Cor1-2018
 title:
-- type: main
-  content: 'IEEE/ISO/IEC International Standard for Information technology -- Telecommunications
+- content: 'IEEE/ISO/IEC International Standard for Information technology -- Telecommunications
     and information exchange between systems -- Local and metropolitan area networks
     -- Specific requirements - Part 1AX: Link aggregation TECHNICAL CORRIGENDUM 1'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8490833
   type: src
@@ -35,8 +35,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,13 +64,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2018'
 relation:
 - type: adoptedFrom
@@ -82,29 +84,29 @@ relation:
     formattedref:
       content: IEEE 802.1AX/Cor1-2017
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ISO Standards
-- IEC Standards
-- Local area networks
-- Information technology
-- Information exchange
-- Metropolitan area networks
-- Aggregated Link
-- Aggregator
-- corrigendum
-- Distributed Resilient Network Interconnect
-- DRNI
-- IEEE 802&#174;
-- IEEE 802.1AX&#8482;
-- interconnect
-- Link Aggregation
-- Link Aggregation Group
-- local area network
-- management
-- Network-Network Interface
-- NNI
+- content: IEEE Standards
+- content: ISO Standards
+- content: IEC Standards
+- content: Local area networks
+- content: Information technology
+- content: Information exchange
+- content: Metropolitan area networks
+- content: Aggregated Link
+- content: Aggregator
+- content: corrigendum
+- content: Distributed Resilient Network Interconnect
+- content: DRNI
+- content: IEEE 802&#174;
+- content: IEEE 802.1AX&#8482;
+- content: interconnect
+- content: Link Aggregation
+- content: Link Aggregation Group
+- content: local area network
+- content: management
+- content: Network-Network Interface
+- content: NNI
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

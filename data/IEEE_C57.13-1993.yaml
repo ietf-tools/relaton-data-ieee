@@ -1,9 +1,9 @@
 ---
 id: IEEEC57.13-1993
 title:
-- type: main
-  content: IEEE Standard Requirements for Instrument Transformers
+- content: IEEE Standard Requirements for Instrument Transformers
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4014494
   type: src
@@ -29,8 +29,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1994'
 relation:
@@ -107,10 +109,10 @@ relation:
     formattedref:
       content: IEEE C57.13-2008
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Transformers
+- content: IEEE standards
+- content: Transformers
 editorialgroup:
   committee:
   - Transformers of the IEEE Power and Energy Society

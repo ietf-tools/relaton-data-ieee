@@ -1,10 +1,10 @@
 ---
 id: IEEE1420.1-1995
 title:
-- type: main
-  content: 'IEEE Standard for Information Technology - Software Reuse - Data Model
+- content: 'IEEE Standard for Information Technology - Software Reuse - Data Model
     for Reuse Library Interoperability: Basic Interoperability Data Model (BIDM)'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/499693
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -60,22 +61,23 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1996'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Software reusability
-- Data models
-- Open systems
-- Software standards
-- reuse library
-- software
-- interoperability
-- BIDM
-- software reuse
+- content: IEEE standards
+- content: Software reusability
+- content: Data models
+- content: Open systems
+- content: Software standards
+- content: reuse library
+- content: software
+- content: interoperability
+- content: BIDM
+- content: software reuse
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

@@ -1,10 +1,10 @@
 ---
 id: IEEE118.1/D-8-2018-01
 title:
-- type: main
-  content: 'IEEE/IEC Approved Draft International Standard - Measuring relays and
+- content: 'IEEE/IEC Approved Draft International Standard - Measuring relays and
     protection equipment - Part 118-1: Synchrophasor for power system - Measurements'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8287793
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,11 +65,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2018'
 relation:
 - type: updates
@@ -88,15 +90,15 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- Relays
-- Measurement
-- Synchronous machines
-- Frequency measurement
-- Power system dynamics
+- content: IEEE Standards
+- content: IEC Standards
+- content: Relays
+- content: Measurement
+- content: Synchronous machines
+- content: Frequency measurement
+- content: Power system dynamics
 editorialgroup:
   committee:
   - Power System Relaying and Control of the IEEE Power and Energy Society

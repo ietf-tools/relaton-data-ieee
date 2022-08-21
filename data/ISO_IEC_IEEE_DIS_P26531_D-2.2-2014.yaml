@@ -1,10 +1,10 @@
 ---
 id: ISO/IEC/IEEEDISP26531/D-2.2-2014
 title:
-- type: main
-  content: ISO/IEC/IEEE Draft International standard for Systems and software engineering
+- content: ISO/IEC/IEEE Draft International standard for Systems and software engineering
     -- Content management for product life-cycle, user, and service management documentation
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6780569
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -80,21 +81,22 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2014'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- IEC standards
-- ISO standards
-- Software engineering
-- Content management
-- Product life cycle management
-- Content management
-- component content management system
-- single source documentation
+- content: IEEE standards
+- content: IEC standards
+- content: ISO standards
+- content: Software engineering
+- content: Content management
+- content: Product life cycle management
+- content: Content management
+- content: component content management system
+- content: single source documentation
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

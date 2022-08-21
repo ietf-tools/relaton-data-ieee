@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE572-1985
 title:
-- type: main
-  content: IEEE Standard for Qualification of Class 1E Connection Assemblies for Nuclear
+- content: IEEE Standard for Qualification of Class 1E Connection Assemblies for Nuclear
     Power Generating Stations
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/27889
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -59,8 +60,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1985'
 relation:
@@ -84,11 +86,11 @@ relation:
     formattedref:
       content: IEEE 572-2006
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Connectors
-- Nuclear power generation
-- Standards
+- content: Connectors
+- content: Nuclear power generation
+- content: Standards
 editorialgroup:
   committee:
   - Nuclear Power Engineering of the IEEE Power and Energy Society

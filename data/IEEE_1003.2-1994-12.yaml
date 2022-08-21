@@ -1,10 +1,10 @@
 ---
 id: IEEE1003.2-1994-12
 title:
-- type: main
-  content: 'IEEE Standard for Information Technology--Portable Operating System Interfaces
+- content: 'IEEE Standard for Information Technology--Portable Operating System Interfaces
     (POSIX(R))--Part 2: Shell and Utilities'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6880751
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,35 +67,36 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1994'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Information technology
-- Operating systems
-- Computer interfaces
-- Portable computers
-- Computer applications
-- Data processing
-- User interfaces
-- computer
-- computer environments
-- interfaces
-- interpretations
-- shell
-- utility
-- API
-- portability
-- data
-- processing
-- open systems
-- operating system
-- portable application
-- POSIX
-- user
+- content: IEEE standards
+- content: Information technology
+- content: Operating systems
+- content: Computer interfaces
+- content: Portable computers
+- content: Computer applications
+- content: Data processing
+- content: User interfaces
+- content: computer
+- content: computer environments
+- content: interfaces
+- content: interpretations
+- content: shell
+- content: utility
+- content: API
+- content: portability
+- content: data
+- content: processing
+- content: open systems
+- content: operating system
+- content: portable application
+- content: POSIX
+- content: user
 editorialgroup:
   committee:
   - Portable Applications of the IEEE Computer Society

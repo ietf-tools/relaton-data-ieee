@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE683-1976
 title:
-- type: main
-  content: IEEE Recommended Practice for Block Transfers in CAMAC Systems (Computer
+- content: IEEE Recommended Practice for Block Transfers in CAMAC Systems (Computer
     Automated Measurement and Control)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/21002
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,18 +63,19 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1976'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- CAMAC
-- Standards
-- block
-- transfers
-- CAMAC
-- systems
+- content: CAMAC
+- content: Standards
+- content: block
+- content: transfers
+- content: CAMAC
+- content: systems
 editorialgroup:
   committee:
   - Nuclear Instruments and Detectors of the IEEE Nuclear and Plasma Sciences Society

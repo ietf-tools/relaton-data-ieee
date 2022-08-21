@@ -1,10 +1,10 @@
 ---
 id: IEEEUnapprovedPC37.27/D-16_Dec-07-20
 title:
-- type: main
-  content: IEEE Draft Application Guide for Low-Voltage AC Power Circuit Breakers
+- content: IEEE Draft Application Guide for Low-Voltage AC Power Circuit Breakers
     Using Separately Mounted Current-Limiting Fuses (Revision of IEEE C37.27-1987)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4459206
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -54,16 +55,17 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2008'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- circuit breaker
-- current-limiting fuse
-- low-voltage ac power circuit breaker
-- open-fuse trip device
+- content: circuit breaker
+- content: current-limiting fuse
+- content: low-voltage ac power circuit breaker
+- content: open-fuse trip device
 ics:
 - code: 29.130.20
   text: Low voltage switchgear and controlgear

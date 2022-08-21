@@ -1,13 +1,13 @@
 ---
 id: IEEEP802.16e/D-8
 title:
-- type: main
-  content: 'Unapproved IEEE Draft Amendment to IEEE Standard for Local and Metropolitan
+- content: 'Unapproved IEEE Draft Amendment to IEEE Standard for Local and Metropolitan
     Area Networks--Part 16: Air Interface for Fixed and Mobile Broadband Wireless
     Access Systems--Amendment for Physical and Medium Access Control Layers for Combined
     Fixed and Mobile Operation in Licensed Bands (Amendment and Corrigendum to IEEE
     Std 802.16-2004) (Superseded by Approved IEEE Draft)'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4039754
   type: src
@@ -29,8 +29,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -57,11 +58,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2005'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: '35.110'
   text: Networking

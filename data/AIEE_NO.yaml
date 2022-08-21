@@ -1,9 +1,9 @@
 ---
 id: AIEEno
 title:
-- type: main
-  content: AIEE Report on Aircraft D-C Apparatus Voltage Ratings
+- content: AIEE Report on Aircraft D-C Apparatus Voltage Ratings
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7436629
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -60,12 +61,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - AIEE
+    - content: AIEE
   from: '1945'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- AIEE Standards
-- DC machines
-- Voltage measurement
-- Aircraft
-- Aerospace electronics
+- content: AIEE Standards
+- content: DC machines
+- content: Voltage measurement
+- content: Aircraft
+- content: Aerospace electronics

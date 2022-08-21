@@ -1,11 +1,11 @@
 ---
 id: IEC/IEEE80005.1-2019
 title:
-- type: main
-  content: 'IEC/IEEE International Standard - Utility connections in port -- Part
+- content: 'IEC/IEEE International Standard - Utility connections in port -- Part
     1: High voltage shore connection (HVSC) systems--General requirements - Amendment
     1'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9705276
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -53,11 +54,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2021'
 relation:
 - type: updates
@@ -77,14 +79,14 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- Electricity utility industry
-- High-voltage techniques
-- Power distribution
-- Offshore installations
+- content: IEEE Standards
+- content: IEC Standards
+- content: Electricity utility industry
+- content: High-voltage techniques
+- content: Power distribution
+- content: Offshore installations
 editorialgroup:
   committee:
   - Petroleum and Chemical Industry of the IEEE Industry Applications Society

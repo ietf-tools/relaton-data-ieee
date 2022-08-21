@@ -1,10 +1,10 @@
 ---
 id: IEEE518-1977
 title:
-- type: main
-  content: IEEE Guide for the Installation of Electrical Equipment to Minimize Electrical
+- content: IEEE Guide for the Installation of Electrical Equipment to Minimize Electrical
     Noise Inputs to Controllers from External Sources
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8684418
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -70,8 +71,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1977'
 relation:
@@ -85,4 +87,4 @@ relation:
     formattedref:
       content: IEEE 518-1982
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'

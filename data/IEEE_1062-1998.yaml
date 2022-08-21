@@ -1,9 +1,9 @@
 ---
 id: IEEE1062-1998
 title:
-- type: main
-  content: IEEE Recommended Practice for Software Acquisition, 1998 Edition
+- content: IEEE Recommended Practice for Software Acquisition, 1998 Edition
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/741938
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1998'
 relation:
@@ -85,14 +87,14 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Software metrics
-- acquirer
-- modified-off-the-shelf software
-- software acquisition life cycle
-- software acquisition process
-- supplier
+- content: Software metrics
+- content: acquirer
+- content: modified-off-the-shelf software
+- content: software acquisition life cycle
+- content: software acquisition process
+- content: supplier
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

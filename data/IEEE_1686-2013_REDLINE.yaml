@@ -1,13 +1,13 @@
 ---
 id: IEEE1686-2013Redline
 title:
-- type: title-main
-  content: IEEE Standard for Intelligent Electronic Devices Cyber Security Capabilities
+- content: IEEE Standard for Intelligent Electronic Devices Cyber Security Capabilities
   format: text/plain
-- type: main
-  content: IEEE Standard for Intelligent Electronic Devices Cyber Security Capabilities
+  type: title-main
+- content: IEEE Standard for Intelligent Electronic Devices Cyber Security Capabilities
     - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6747946
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2013'
 relation:
@@ -87,21 +89,21 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Computer security
-- Substations
-- Power system reliability
-- Security
-- CIP
-- critical infrastructure protection
-- cyber
-- IED
-- IEEE 1686(TM)
-- intelligent electronic device
-- security
-- substation.
+- content: IEEE standards
+- content: Computer security
+- content: Substations
+- content: Power system reliability
+- content: Security
+- content: CIP
+- content: critical infrastructure protection
+- content: cyber
+- content: IED
+- content: IEEE 1686(TM)
+- content: intelligent electronic device
+- content: security
+- content: substation.
 editorialgroup:
   committee:
   - Substations of the IEEE Power and Energy Society

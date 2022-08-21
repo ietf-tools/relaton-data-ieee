@@ -1,10 +1,10 @@
 ---
 id: IEEE1067-1996
 title:
-- type: main
-  content: IEEE Guide for In-Service Use, Care, Maintenance, and Testing of Conductive
+- content: IEEE Guide for In-Service Use, Care, Maintenance, and Testing of Conductive
     Clothing for Use on Voltages up to 765 kV ac and ý 750 kV dc
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/499845
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1996'
 relation:
@@ -94,13 +96,13 @@ relation:
     formattedref:
       content: IEEE 1067-2005
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- conductive clothing
-- evaluation
-- NDE
-- nondestructive test
+- content: IEEE standards
+- content: conductive clothing
+- content: evaluation
+- content: NDE
+- content: nondestructive test
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society

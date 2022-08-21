@@ -1,10 +1,10 @@
 ---
 id: IEEE450-1972
 title:
-- type: main
-  content: IEEE Recommended Practice for Maintenance, Testing, and Replacement of
+- content: IEEE Recommended Practice for Maintenance, Testing, and Replacement of
     Large Stationary Type Power Plant and Substation Lead Storage Batteries
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6746221
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,18 +66,19 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1972'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Maintenance engineering
-- Substations
-- Industrial power plants
-- Batteries
-- Lead batteries
+- content: IEEE standards
+- content: Maintenance engineering
+- content: Substations
+- content: Industrial power plants
+- content: Batteries
+- content: Lead batteries
 ics:
 - code: 29.220.20
   text: Acid secondary cells and batteries

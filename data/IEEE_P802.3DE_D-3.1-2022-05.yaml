@@ -1,11 +1,11 @@
 ---
 id: IEEEP802.3de/D-3.1-2022-05
 title:
-- type: main
-  content: 'IEEE Draft Standard for Ethernet - Amendment 5: Enhancements to the MAC
+- content: 'IEEE Draft Standard for Ethernet - Amendment 5: Enhancements to the MAC
     Merge and Time Synchronization Service Interface for Point-to-Point 10 Mb/s Single
     Pair Ethernet'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9804358
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,8 +62,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2022'
 relation:
@@ -83,18 +85,18 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- 10BASE-T1L
-- 10BASE-T1S
-- copper
-- Ethernet
-- IEEE 802.3
-- IEEE 802.3cg&#8482;
-- IEEE 802.3de&#8482;
-- TSSI
-- express traffic
-- preemption.
+- content: 10BASE-T1L
+- content: 10BASE-T1S
+- content: copper
+- content: Ethernet
+- content: IEEE 802.3
+- content: IEEE 802.3cg&#8482;
+- content: IEEE 802.3de&#8482;
+- content: TSSI
+- content: express traffic
+- content: preemption.
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

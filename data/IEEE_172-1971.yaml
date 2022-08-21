@@ -1,9 +1,9 @@
 ---
 id: IEEE172-1971
 title:
-- type: main
-  content: 'IEEE Standard Definitions: Navigation Aid Terms'
+- content: 'IEEE Standard Definitions: Navigation Aid Terms'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7368861
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1971'
 relation:
@@ -87,12 +89,12 @@ relation:
     formattedref:
       content: IEEE 172-1983
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ANSI Standards
-- Definitions
-- Navigation
-- Terminology
-- Aircraft navigation
-- Aerospace and electronic systems
+- content: IEEE Standards
+- content: ANSI Standards
+- content: Definitions
+- content: Navigation
+- content: Terminology
+- content: Aircraft navigation
+- content: Aerospace and electronic systems

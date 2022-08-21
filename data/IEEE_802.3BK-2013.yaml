@@ -1,10 +1,10 @@
 ---
 id: IEEE802.3bk-2013
 title:
-- type: main
-  content: 'IEEE Standard for Ethernet - Amendment 1: Physical Layer Specifications
+- content: 'IEEE Standard for Ethernet - Amendment 1: Physical Layer Specifications
     and Management Parameters for Extended Ethernet Passive Optical Networks'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6587259
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2013'
 relation:
@@ -86,22 +88,22 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Ethernet
-- Time measurement
-- Synchronization
-- Passive optical networks
-- IEEE 802.3 Standard
-- Ethernet
-- extended EPON
-- IEEE 802.3&#8482;
-- IEEE 802.3bk&#8482;
-- PRX40
-- PR40
-- PX30
-- PX40
+- content: IEEE standards
+- content: Ethernet
+- content: Time measurement
+- content: Synchronization
+- content: Passive optical networks
+- content: IEEE 802.3 Standard
+- content: Ethernet
+- content: extended EPON
+- content: IEEE 802.3&#8482;
+- content: IEEE 802.3bk&#8482;
+- content: PRX40
+- content: PR40
+- content: PX30
+- content: PX40
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

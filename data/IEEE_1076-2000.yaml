@@ -1,9 +1,9 @@
 ---
 id: IEEE1076-2000
 title:
-- type: main
-  content: IEEE Standard VHDL Language Reference Manual
+- content: IEEE Standard VHDL Language Reference Manual
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/893288
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2000'
 relation:
@@ -96,16 +98,16 @@ relation:
     formattedref:
       content: IEEE 1076-2002
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Hardware
-- Consumer electronics
-- Patents
-- Very high speed integrated circuits
-- Hardware design languages
-- IEEE Std 1076
-- 2000 Edition.pdf
+- content: IEEE Standards
+- content: Hardware
+- content: Consumer electronics
+- content: Patents
+- content: Very high speed integrated circuits
+- content: Hardware design languages
+- content: IEEE Std 1076
+- content: 2000 Edition.pdf
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

@@ -1,9 +1,9 @@
 ---
 id: IEEE1873-2015
 title:
-- type: main
-  content: IEEE Standard for Robot Map Data Representation for Navigation
+- content: IEEE Standard for Robot Map Data Representation for Navigation
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7300355
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,21 +63,22 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2015'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Robots
-- Navigation
-- Map data representation
-- IEEE 1873(TM)
-- map data representation
-- metric map
-- robot navigation
-- topological map
+- content: IEEE Standards
+- content: Robots
+- content: Navigation
+- content: Map data representation
+- content: IEEE 1873(TM)
+- content: map data representation
+- content: metric map
+- content: robot navigation
+- content: topological map
 editorialgroup:
   committee:
   - Standing Committee for Standards of the IEEE Robotics and Automation Society

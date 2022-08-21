@@ -1,10 +1,10 @@
 ---
 id: IEEEP802.3dd/D-3.1-2022-03
 title:
-- type: main
-  content: 'IEEE Approved Draft Standard for Ethernet Amendment 1: Maintenance #17:
+- content: 'IEEE Approved Draft Standard for Ethernet Amendment 1: Maintenance #17:
     Power over Data Lines of Single Pair Ethernet'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9737074
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -60,8 +61,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2022'
 relation:
@@ -82,26 +84,26 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Local area networks
-- Metropolitan area networks
-- Ethernet
-- Maintenance engineering
-- Power transmission lines
-- 10BASE-T1L
-- 10BASE-T1S
-- 100BASE-T1
-- 1000BASE-T1
-- 2.5GBASE-T1
-- 5GBASE-T1
-- 10GBASE-T1
-- copper
-- Ethernet
-- IEEE 802.3
-- IEEE 802.3bu&#8482;
-- IEEE 802.3cg&#8482;; PoDL.
+- content: IEEE Standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Ethernet
+- content: Maintenance engineering
+- content: Power transmission lines
+- content: 10BASE-T1L
+- content: 10BASE-T1S
+- content: 100BASE-T1
+- content: 1000BASE-T1
+- content: 2.5GBASE-T1
+- content: 5GBASE-T1
+- content: 10GBASE-T1
+- content: copper
+- content: Ethernet
+- content: IEEE 802.3
+- content: IEEE 802.3bu&#8482;
+- content: IEEE 802.3cg&#8482;; PoDL.
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

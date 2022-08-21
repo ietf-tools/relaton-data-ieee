@@ -1,10 +1,10 @@
 ---
 id: IEEE1451.4-2004
 title:
-- type: main
-  content: IEEE Standard for A Smart Transducer Interface for Sensors and Actuators--Mixed-Mode
+- content: IEEE Standard for A Smart Transducer Interface for Sensors and Actuators--Mixed-Mode
     Communication Protocols and Transducer Electronic Data Sheet (TEDS) Formats
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1405786
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,37 +64,38 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2004'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Transducers
-- IEEE Standards
-- Intelligent sensors
-- Protocols
-- Instruments
-- appended TEDS
-- basic TEDS
-- device configuration file
-- family code
-- IEEE 1451.4 interface
-- IEEE 1451.4 transducer
-- mixed-mode Interface (MMI)
-- mixed-mode transducer (MMXDCR)
-- network capable application processor (NCAP)
-- plug-and-play
-- smart transducer
-- TEDS
-- template
-- template ID
-- transducer electronic data sheet (TEDS)
-- template description language
-- transparent protocol
-- template description language
-- tbom schema
-- transducer block
+- content: Transducers
+- content: IEEE Standards
+- content: Intelligent sensors
+- content: Protocols
+- content: Instruments
+- content: appended TEDS
+- content: basic TEDS
+- content: device configuration file
+- content: family code
+- content: IEEE 1451.4 interface
+- content: IEEE 1451.4 transducer
+- content: mixed-mode Interface (MMI)
+- content: mixed-mode transducer (MMXDCR)
+- content: network capable application processor (NCAP)
+- content: plug-and-play
+- content: smart transducer
+- content: TEDS
+- content: template
+- content: template ID
+- content: transducer electronic data sheet (TEDS)
+- content: template description language
+- content: transparent protocol
+- content: template description language
+- content: tbom schema
+- content: transducer block
 editorialgroup:
   committee:
   - TC9 - Sensor Technology of the IEEE Instrumentation and Measurement Society

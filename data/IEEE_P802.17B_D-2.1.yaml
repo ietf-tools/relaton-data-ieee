@@ -1,12 +1,12 @@
 ---
 id: IEEEP802.17b/D-2.1
 title:
-- type: main
-  content: 'ISO/IEC Standard for Information Technology Telecommunications and Information
+- content: 'ISO/IEC Standard for Information Technology Telecommunications and Information
     Exchange Between Systems Local and Metropolitan Area Networks Specific Requirements
     Resilient Packet Ring (Rpr) Access Method and Physical Layer Specifications -
     Amendment 1: Spatially Aware Sublayer'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4039793
   type: src
@@ -28,8 +28,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -47,11 +48,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2006'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: 35.100.10
   text: Physical layer

@@ -1,10 +1,10 @@
 ---
 id: IEEE474-1973
 title:
-- type: main
-  content: IEEE Standard Specifications and Test Methods for Fixed and Variable Attenuators,
+- content: IEEE Standard Specifications and Test Methods for Fixed and Variable Attenuators,
     DC-40 GHz
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7422624
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,22 +69,23 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1973'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Testing
-- Attenuators
-- Variable attenuators
-- Attenuation measurement
-- test
-- methods
-- fixed
-- variable
-- attenuators
+- content: IEEE Standards
+- content: Testing
+- content: Attenuators
+- content: Variable attenuators
+- content: Attenuation measurement
+- content: test
+- content: methods
+- content: fixed
+- content: variable
+- content: attenuators
 ics:
 - code: 01.040.11
   text: Health care technology (Vocabularies)

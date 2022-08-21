@@ -1,10 +1,10 @@
 ---
 id: IEEE94-1970
 title:
-- type: main
-  content: IEEE Standard Definitions of Terms for Automatic Generation Control on
+- content: IEEE Standard Definitions of Terms for Automatic Generation Control on
     Electric Power Systems
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7440744
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,17 +70,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1970'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Automatic generation
-- Power generation
-- Control systems
-- Power system control
+- content: IEEE Standards
+- content: Automatic generation
+- content: Power generation
+- content: Control systems
+- content: Power system control
 editorialgroup:
   committee:
   - IEEE Power and Energy Society

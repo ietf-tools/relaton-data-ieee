@@ -1,9 +1,9 @@
 ---
 id: IEEE2000.1-1999
 title:
-- type: main
-  content: 'IEEE Standard for Information Technology: Standard for Year 2000 Terminology'
+- content: 'IEEE Standard for Information Technology: Standard for Year 2000 Terminology'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1388752
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,21 +65,22 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1999'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Terminology
-- Trademarks
-- Standards organizations
-- Organizations
-- calendar information
-- date component
-- remediation techniques
-- Year 2000 compliant
+- content: IEEE Standards
+- content: Terminology
+- content: Trademarks
+- content: Standards organizations
+- content: Organizations
+- content: calendar information
+- content: date component
+- content: remediation techniques
+- content: Year 2000 compliant
 editorialgroup:
   committee:
   - Portable Applications of the IEEE Computer Society

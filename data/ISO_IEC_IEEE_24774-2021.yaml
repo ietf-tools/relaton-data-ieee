@@ -1,10 +1,10 @@
 ---
 id: ISO/IEC/IEEE24774-2021
 title:
-- type: main
-  content: ISO/IEC/IEEE International Standard -Systems and software engineering -
+- content: ISO/IEC/IEEE International Standard -Systems and software engineering -
     Life cycle management--Specification for process description
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9442426
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,13 +70,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2021'
 relation:
 - type: updates
@@ -95,14 +97,14 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standard
-- IEC Standards
-- ISO Standards
-- Software engineering
-- System analysis and design
-- Product life cycle management
+- content: IEEE Standard
+- content: IEC Standards
+- content: ISO Standards
+- content: Software engineering
+- content: System analysis and design
+- content: Product life cycle management
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

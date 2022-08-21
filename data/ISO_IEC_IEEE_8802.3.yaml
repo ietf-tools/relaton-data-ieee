@@ -1,12 +1,12 @@
 ---
 id: ISO/IEC/IEEE8802.3
 title:
-- type: main
-  content: 'Iso/iec/ieee international standard--telecommunications and exchange between
+- content: 'Iso/iec/ieee international standard--telecommunications and exchange between
     information technology systems--requirements for local and metropolitan area networks--part
     3: standard for ethernet amendment 11: physical layers and management parameters
     for 100 gb/s and 400 gb/s operation over singlemode fiber at 100 gb/s per wavelength'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9825642
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,13 +64,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2022'
 relation:
 - type: adoptedFrom
@@ -82,32 +84,32 @@ relation:
     formattedref:
       content: IEEE 802.3cu-2021
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ISO Standards
-- IEC Standards
-- Local area networks
-- Metropolitan area networks
-- Physical layer
-- Information technology
-- Information exchange
-- Optical fiber networks
-- Urban areas
-- 100 Gb/s Ethernet
-- 100GBASE-FR1
-- 100GBASE-LR1
-- 400 Gb/s Ethernet
-- 400GBASE-FR4
-- 400GBASE-LR4-6
-- Energy-Efficient Ethernet (EEE)
-- Ethernet
-- forward error correction (FEC)
-- IEEE 802.3
-- IEEE 802.3cu
-- PAM4
-- Physical Medium Dependent (PMD) sublayer
-- single-mode fiber (SMF)
+- content: IEEE Standards
+- content: ISO Standards
+- content: IEC Standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Physical layer
+- content: Information technology
+- content: Information exchange
+- content: Optical fiber networks
+- content: Urban areas
+- content: 100 Gb/s Ethernet
+- content: 100GBASE-FR1
+- content: 100GBASE-LR1
+- content: 400 Gb/s Ethernet
+- content: 400GBASE-FR4
+- content: 400GBASE-LR4-6
+- content: Energy-Efficient Ethernet (EEE)
+- content: Ethernet
+- content: forward error correction (FEC)
+- content: IEEE 802.3
+- content: IEEE 802.3cu
+- content: PAM4
+- content: Physical Medium Dependent (PMD) sublayer
+- content: single-mode fiber (SMF)
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

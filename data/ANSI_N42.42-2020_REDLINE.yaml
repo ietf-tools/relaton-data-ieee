@@ -1,14 +1,14 @@
 ---
 id: ANSIN42.42-2020Redline
 title:
-- type: title-main
-  content: American National Standard Data Format for Radiation Detectors Used for
+- content: American National Standard Data Format for Radiation Detectors Used for
     Homeland Security
   format: text/plain
-- type: main
-  content: American National Standard Data Format for Radiation Detectors Used for
+  type: title-main
+- content: American National Standard Data Format for Radiation Detectors Used for
     Homeland Security - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9351801
   type: src
@@ -36,8 +36,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,12 +69,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - American National Standards Institute
-    abbreviation: ANSI
+    - content: American National Standards Institute
+    abbreviation:
+      content: ANSI
     url: https://www.ansi.org
   from: '2020'
 relation:
@@ -94,19 +97,19 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Radiation detection
-- Radiation monitoring
-- Instrumentation
-- ANSI N42.42
-- data format
-- DHS standards
-- homeland security
-- radiation detectors
-- radiation instruments
-- radiation measurement instruments
+- content: IEEE Standards
+- content: Radiation detection
+- content: Radiation monitoring
+- content: Instrumentation
+- content: ANSI N42.42
+- content: data format
+- content: DHS standards
+- content: homeland security
+- content: radiation detectors
+- content: radiation instruments
+- content: radiation measurement instruments
 editorialgroup:
   committee:
   - National Committee on Radiation Instrumentation

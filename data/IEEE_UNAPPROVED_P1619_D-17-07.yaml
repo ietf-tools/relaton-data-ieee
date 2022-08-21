@@ -1,10 +1,10 @@
 ---
 id: IEEEUnapprovedP1619/D-17-07
 title:
-- type: main
-  content: Unapproved IEEE Draft Standard for Cryptographic Protection of Data on
+- content: Unapproved IEEE Draft Standard for Cryptographic Protection of Data on
     Block-Oriented Storage Devices
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4278958
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -45,11 +46,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2007'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: '35.040'
   text: Character sets and information coding

@@ -1,10 +1,10 @@
 ---
 id: IEEE2050-2018
 title:
-- type: main
-  content: IEEE Standard for a Real-Time Operating System (RTOS) for Small-Scale Embedded
+- content: IEEE Standard for a Real-Time Operating System (RTOS) for Small-Scale Embedded
     Systems
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8445674
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,56 +65,57 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2018'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Real-time systems
-- Task analysis
-- Embedded systems
-- Consumer electronics
-- 16-bit CPU
-- alarm handler
-- API
-- Application Programming Interface
-- cyclic handler
-- device management
-- embedded
-- event flag
-- fast lock
-- fast multi-lock
-- IEEE 2050&#8482;
-- interrupt handler
-- kernel
-- IoT edgenode
-- mailbox
-- memory pool
-- message buffer
-- mutex
-- non-task portion
-- physical timer
-- power management
-- power saving
-- priority-based
-- quasi-task portion
-- real time
-- real-time operating system (RTOS)
-- semaphore
-- service profile
-- single chip microcomputer
-- single chip micro-controller
-- small scale
-- system call
-- task
-- task dispatching
-- task portion
-- task independent portion
-- task scheduling
-- TRON
-- "&#956;T-Kernel"
+- content: IEEE Standards
+- content: Real-time systems
+- content: Task analysis
+- content: Embedded systems
+- content: Consumer electronics
+- content: 16-bit CPU
+- content: alarm handler
+- content: API
+- content: Application Programming Interface
+- content: cyclic handler
+- content: device management
+- content: embedded
+- content: event flag
+- content: fast lock
+- content: fast multi-lock
+- content: IEEE 2050&#8482;
+- content: interrupt handler
+- content: kernel
+- content: IoT edgenode
+- content: mailbox
+- content: memory pool
+- content: message buffer
+- content: mutex
+- content: non-task portion
+- content: physical timer
+- content: power management
+- content: power saving
+- content: priority-based
+- content: quasi-task portion
+- content: real time
+- content: real-time operating system (RTOS)
+- content: semaphore
+- content: service profile
+- content: single chip microcomputer
+- content: single chip micro-controller
+- content: small scale
+- content: system call
+- content: task
+- content: task dispatching
+- content: task portion
+- content: task independent portion
+- content: task scheduling
+- content: TRON
+- content: "&#956;T-Kernel"
 editorialgroup:
   committee:
   - Standards Committee of the IEEE Consumer Electronics Society

@@ -1,10 +1,10 @@
 ---
 id: IEEE1278.2-2015
 title:
-- type: main
-  content: IEEE Standard for Distributed Interactive Simulation (DIS) -- Communication
+- content: IEEE Standard for Distributed Interactive Simulation (DIS) -- Communication
     Services and Profiles
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7459689
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2015'
 relation:
@@ -87,21 +89,21 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Telecommunication services
-- Distributed processing
-- Multicast communication
-- Simulation networks
-- Interactive simulation
-- communication service
-- DIS
-- distributed interactive simulation
-- IEEE 1278.2(TM)
-- multicast
-- protocol data units (PDUs)
-- simulation network
+- content: IEEE Standards
+- content: Telecommunication services
+- content: Distributed processing
+- content: Multicast communication
+- content: Simulation networks
+- content: Interactive simulation
+- content: communication service
+- content: DIS
+- content: distributed interactive simulation
+- content: IEEE 1278.2(TM)
+- content: multicast
+- content: protocol data units (PDUs)
+- content: simulation network
 editorialgroup:
   committee:
   - Simulation Interoperability Stds Organization/Stds Activity Committee of the IEEE

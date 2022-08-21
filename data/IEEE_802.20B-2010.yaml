@@ -1,10 +1,10 @@
 ---
 id: IEEE802.20b-2010
 title:
-- type: main
-  content: 'IEEE Standard for Local and metropolitan area networks--Virtual Bridged
+- content: 'IEEE Standard for Local and metropolitan area networks--Virtual Bridged
     Local Area Networks - Amendment 15: Bridging of IEEE 802.20'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7327115
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -60,8 +61,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2010'
 relation:
@@ -82,15 +84,15 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Local area networks
-- Metropolitan area networks
-- Virtual LAN
-- Bridge circuits
-- '802.20'
-- bridging
+- content: IEEE Standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Virtual LAN
+- content: Bridge circuits
+- content: '802.20'
+- content: bridging
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

@@ -1,12 +1,12 @@
 ---
 id: ISO/IEC/IEEE8802.1AS-2021
 title:
-- type: main
-  content: IEEE/ISO/IEC International Standard for Information technology--Telecommunications
+- content: IEEE/ISO/IEC International Standard for Information technology--Telecommunications
     and information exchange between systems--Local and metropolitan area networks--Part
     1AS:Timing and synchronization for time-sensitive applications in bridged local
     area networks
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9620008
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,13 +66,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2021'
 relation:
 - type: adoptedFrom
@@ -84,28 +86,28 @@ relation:
     formattedref:
       content: IEEE 802.1AS-2020
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ISO Standards
-- IEC Standards
-- Local area networks
-- Metropolitan area networks
-- Information exchange
-- Urban areas
-- Synchronization
-- Bridge circuits
-- best master
-- frequency offset
-- Grandmaster Clock
-- Grandmaster PTP Instance
-- PTP End Instance
-- PTP Relay Instance
-- IEEE 802.1AS
-- phase offset
-- synchronization
-- syntonization
-- time-aware system
+- content: IEEE Standards
+- content: ISO Standards
+- content: IEC Standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Information exchange
+- content: Urban areas
+- content: Synchronization
+- content: Bridge circuits
+- content: best master
+- content: frequency offset
+- content: Grandmaster Clock
+- content: Grandmaster PTP Instance
+- content: PTP End Instance
+- content: PTP Relay Instance
+- content: IEEE 802.1AS
+- content: phase offset
+- content: synchronization
+- content: syntonization
+- content: time-aware system
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

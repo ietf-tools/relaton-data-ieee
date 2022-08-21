@@ -1,9 +1,9 @@
 ---
 id: ANSI/IEEE665-1987
 title:
-- type: main
-  content: IEEE Guide for Generating Station Grounding
+- content: IEEE Guide for Generating Station Grounding
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/26470
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,18 +64,19 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1987'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Grounding
-- Standards
-- Substations
-- generating
-- station
-- grounding
+- content: Grounding
+- content: Standards
+- content: Substations
+- content: generating
+- content: station
+- content: grounding
 editorialgroup:
   committee:
   - Energy Development &amp; Power Generation of the IEEE Power and Energy Society

@@ -1,10 +1,10 @@
 ---
 id: IEEE1346-1998
 title:
-- type: main
-  content: IEEE Recommended Practice for Evaluating Electric Power System Compatibility
+- content: IEEE Recommended Practice for Evaluating Electric Power System Compatibility
     With Electronic Process Equipment
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/694188
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,13 +62,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1998'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Power quality
+- content: Power quality
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

@@ -1,10 +1,10 @@
 ---
 id: IEEE1838-2019
 title:
-- type: main
-  content: IEEE Standard for Test Access Architecture for Three-Dimensional Stacked
+- content: IEEE Standard for Test Access Architecture for Three-Dimensional Stacked
     Integrated Circuits
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9036129
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,27 +70,28 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2020'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Integrated circuit interconnections
-- Testing
-- Through-silicon vias
-- 3D test access
-- flexible parallel port
-- FPP
-- IEEE 1838
-- multi-tower stack
-- primary test access port
-- scan
-- secondary test access port
-- test
-- through-silicon via
-- TSV
+- content: IEEE Standards
+- content: Integrated circuit interconnections
+- content: Testing
+- content: Through-silicon vias
+- content: 3D test access
+- content: flexible parallel port
+- content: FPP
+- content: IEEE 1838
+- content: multi-tower stack
+- content: primary test access port
+- content: scan
+- content: secondary test access port
+- content: test
+- content: through-silicon via
+- content: TSV
 editorialgroup:
   committee:
   - Test Technology of the IEEE Computer Society

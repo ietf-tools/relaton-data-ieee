@@ -1,9 +1,9 @@
 ---
 id: IEEE268A-1980
 title:
-- type: main
-  content: 'IEEE International System of Units Conversion Factors Card '
+- content: 'IEEE International System of Units Conversion Factors Card '
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/713350
   type: src
@@ -29,8 +29,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -48,19 +49,20 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1980'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Meters
-- Force
-- Reactive power
-- Permeability
-- Micrometers
-- Conductivity
-- Voltage
+- content: Meters
+- content: Force
+- content: Reactive power
+- content: Permeability
+- content: Micrometers
+- content: Conductivity
+- content: Voltage
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

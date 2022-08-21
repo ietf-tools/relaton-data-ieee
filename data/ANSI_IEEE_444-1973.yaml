@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE444-1973
 title:
-- type: main
-  content: IEEE Standard Practices and Requirements for Thyristor Converters for Motor
+- content: IEEE Standard Practices and Requirements for Thyristor Converters for Motor
     Drives Part 1- Converters for DC Motor Armature Supplies
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/18467
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,22 +69,23 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1974'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Drives
-- Power conversion
-- DC motors
-- Thyristor applications
-- requirements
-- thyristor
-- converters
-- motor drives
-- DC motor drives
+- content: IEEE standards
+- content: Drives
+- content: Power conversion
+- content: DC motors
+- content: Thyristor applications
+- content: requirements
+- content: thyristor
+- content: converters
+- content: motor drives
+- content: DC motor drives
 editorialgroup:
   committee:
   - Industrial Power Converter of the IEEE Industry Applications Society

@@ -1,14 +1,14 @@
 ---
 id: IEC/IEEE60780
 title:
-- type: title-main
-  content: IEC/IEEE International Standard - Nuclear facilities -- Electrical equipment
+- content: IEC/IEEE International Standard - Nuclear facilities -- Electrical equipment
     important to safety -- Qualification
   format: text/plain
-- type: main
-  content: IEC/IEEE International Standard - Nuclear facilities -- Electrical equipment
+  type: title-main
+- content: IEC/IEEE International Standard - Nuclear facilities -- Electrical equipment
     important to safety -- Qualification - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7484218
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -54,11 +55,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2016'
 relation:
 - type: updates
@@ -78,30 +80,30 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- Aging
-- Condition monitoring
-- Environmental factors
-- Electrical safety
-- Radiation effects
-- Nuclear power generation
-- age conditioning
-- aging
-- condition monitoring
-- design basis events
-- equipment qualification
-- harsh environment
-- margin
-- mild environment
-- qualification method
-- qualified life
-- radiation
-- safety related function
-- significant aging mechanism
-- test plan
+- content: IEEE Standards
+- content: IEC Standards
+- content: Aging
+- content: Condition monitoring
+- content: Environmental factors
+- content: Electrical safety
+- content: Radiation effects
+- content: Nuclear power generation
+- content: age conditioning
+- content: aging
+- content: condition monitoring
+- content: design basis events
+- content: equipment qualification
+- content: harsh environment
+- content: margin
+- content: mild environment
+- content: qualification method
+- content: qualified life
+- content: radiation
+- content: safety related function
+- content: significant aging mechanism
+- content: test plan
 editorialgroup:
   committee:
   - Nuclear Power Engineering of the IEEE Power and Energy Society

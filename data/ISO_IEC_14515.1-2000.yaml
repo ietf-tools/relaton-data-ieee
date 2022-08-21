@@ -1,11 +1,11 @@
 ---
 id: ISO/IEC14515.1-2000
 title:
-- type: main
-  content: 'ISO/IEC Standard for Information Technology--Portable Operating System
+- content: 'ISO/IEC Standard for Information Technology--Portable Operating System
     Interface (POSIX®) System--Test Methods for Measuring Conformance to POSIX®--Part
     1: System Interfaces'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4140777
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,19 +65,20 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2000'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ISO Standards
-- IEC Standards
-- Information technology
-- Operating systems
-- Systems engineering and theory
-- Conformance testing
+- content: IEEE Standards
+- content: ISO Standards
+- content: IEC Standards
+- content: Information technology
+- content: Operating systems
+- content: Systems engineering and theory
+- content: Conformance testing
 editorialgroup:
   committee:
   - Portable Applications Standards Committee of the IEEE Computer Society

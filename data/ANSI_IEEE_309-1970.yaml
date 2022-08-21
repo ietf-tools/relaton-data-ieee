@@ -1,9 +1,9 @@
 ---
 id: ANSI/IEEE309-1970
 title:
-- type: main
-  content: IEEE Standard Test Procedure for Geiger-Muller Counters
+- content: IEEE Standard Test Procedure for Geiger-Muller Counters
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/20965
   type: src
@@ -29,8 +29,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -59,8 +60,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1970'
 relation:
@@ -84,10 +86,10 @@ relation:
     formattedref:
       content: IEEE 309-1999
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Geiger counters
-- Standards
+- content: Geiger counters
+- content: Standards
 editorialgroup:
   committee:
   - Nuclear Instruments and Detectors of the IEEE Nuclear and Plasma Sciences Society

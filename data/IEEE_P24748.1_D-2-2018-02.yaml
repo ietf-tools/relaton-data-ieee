@@ -1,10 +1,10 @@
 ---
 id: IEEEP24748.1/D-2-2018-02
 title:
-- type: main
-  content: 'ISO/IEC/IEEE Draft International Standard - Systems and Software Engineering
+- content: 'ISO/IEC/IEEE Draft International Standard - Systems and Software Engineering
     - Life Cycle Management - Part 1: Guidelines for Life Cycle Management'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8290788
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,13 +67,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2018'
 relation:
 - type: updates
@@ -92,15 +94,15 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ISO Standards
-- IEC Standards
-- Process control
-- Adaptation models
-- Iterative methods
-- Software engineering
+- content: IEEE Standards
+- content: ISO Standards
+- content: IEC Standards
+- content: Process control
+- content: Adaptation models
+- content: Iterative methods
+- content: Software engineering
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

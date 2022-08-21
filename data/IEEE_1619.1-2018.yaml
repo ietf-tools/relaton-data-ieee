@@ -1,10 +1,10 @@
 ---
 id: IEEE1619.1-2018
 title:
-- type: main
-  content: IEEE Standard for Authenticated Encryption with Length Expansion for Storage
+- content: IEEE Standard for Authenticated Encryption with Length Expansion for Storage
     Devices
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8637991
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,30 +65,31 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2019'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Authentication
-- Security
-- Encryption
-- Data storage systems
-- authentication
-- CBC
-- CCM
-- cryptography
-- data storage
-- encryption
-- GCM
-- HMAC
-- IEEE 1619.1(TM)
-- security
-- tape drive
-- variable-length block
-- XTS
+- content: IEEE Standards
+- content: Authentication
+- content: Security
+- content: Encryption
+- content: Data storage systems
+- content: authentication
+- content: CBC
+- content: CCM
+- content: cryptography
+- content: data storage
+- content: encryption
+- content: GCM
+- content: HMAC
+- content: IEEE 1619.1(TM)
+- content: security
+- content: tape drive
+- content: variable-length block
+- content: XTS
 editorialgroup:
   committee:
   - Cybersecurity and Privacy Standards Committee of the IEEE Computer Society

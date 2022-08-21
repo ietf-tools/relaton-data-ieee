@@ -1,12 +1,12 @@
 ---
 id: IEEE1076-2008Redline
 title:
-- type: title-main
-  content: IEEE Standard VHDL Language Reference Manual
+- content: IEEE Standard VHDL Language Reference Manual
   format: text/plain
-- type: main
-  content: IEEE Standard VHDL Language Reference Manual - Redline
+  type: title-main
+- content: IEEE Standard VHDL Language Reference Manual - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5981354
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,8 +67,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2011'
 relation:
@@ -108,18 +110,18 @@ relation:
     formattedref:
       content: IEEE 1076-2019
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Computer languages
-- Hardware design languages
-- High speed integrated circuits
-- 1076-2008
-- computer languages
-- electronic systems
-- hardware
-- hardware design
-- VHDL
+- content: IEEE standards
+- content: Computer languages
+- content: Hardware design languages
+- content: High speed integrated circuits
+- content: 1076-2008
+- content: computer languages
+- content: electronic systems
+- content: hardware
+- content: hardware design
+- content: VHDL
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

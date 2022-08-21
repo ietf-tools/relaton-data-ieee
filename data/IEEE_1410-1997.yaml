@@ -1,10 +1,10 @@
 ---
 id: IEEE1410-1997
 title:
-- type: main
-  content: IEEE Guide for Improving the Lightning Performance of Electric Power Overhead
+- content: IEEE Guide for Improving the Lightning Performance of Electric Power Overhead
     Distribution Lines
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/643517
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1997'
 relation:
@@ -78,12 +80,13 @@ relation:
     formattedref:
       content: IEEE 1410-2004
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Power distribution lines
-- This scope will identify factors that contribute to lightning-caused faults on overhead
-  distribution lines and suggest improvements to existing and new constructions. This
-  guide is limited to the protection of distribution-line insulation for system volta
+- content: Power distribution lines
+- content: This scope will identify factors that contribute to lightning-caused faults
+    on overhead distribution lines and suggest improvements to existing and new constructions.
+    This guide is limited to the protection of distribution-line insulation for system
+    volta
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society

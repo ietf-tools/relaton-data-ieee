@@ -1,10 +1,10 @@
 ---
 id: IEEEUnapprovedP26512/D-1-2009
 title:
-- type: main
-  content: IEEE Draft Standard Systems and software engineering - Requirements for
+- content: IEEE Draft Standard Systems and software engineering - Requirements for
     acquirers and suppliers of user documentation
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5385177
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -71,18 +72,19 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- software user documentation
-- information management
-- acquisition
-- supply
-- proposal
-- statement of work
+- content: software user documentation
+- content: information management
+- content: acquisition
+- content: supply
+- content: proposal
+- content: statement of work
 ics:
 - code: '35.080'
   text: Software

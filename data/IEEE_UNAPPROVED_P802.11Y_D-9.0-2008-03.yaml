@@ -1,12 +1,12 @@
 ---
 id: IEEEUnapprovedP802.11y/D-9.0-2008-03
 title:
-- type: main
-  content: 'IEEE Draft Standard for Information Technology--Telecommunications and
+- content: 'IEEE Draft Standard for Information Technology--Telecommunications and
     Information Exchange Between Systems--Local and Metropolitan Area Networks--Specific
     Requirements--Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer
     (PHY) Specifications--Amendment 3: 3650-3700 MHz Operation in Usa'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4478273
   type: src
@@ -28,8 +28,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -55,11 +56,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2008'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: '35.110'
   text: Networking

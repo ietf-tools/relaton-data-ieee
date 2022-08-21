@@ -1,10 +1,10 @@
 ---
 id: IEEEP802.1AR/D-2.2/R--2017-09
 title:
-- type: main
-  content: IEEE Draft Standard for Local and Metropolitan Area Networks - Secure Device
+- content: IEEE Draft Standard for Local and Metropolitan Area Networks - Secure Device
     Identity
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8032509
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2017'
 relation:
@@ -84,27 +86,27 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Patents
-- Licenses
-- Authentication
-- access control
-- authentication
-- authorization
-- certificate
-- LANs
-- local area networks
-- MAC security
-- MANs
-- metropolitan area networks
-- PKI
-- port-based network access control
-- secure association
-- Secure Device Identifier
-- security
-- X.509
+- content: IEEE Standards
+- content: Patents
+- content: Licenses
+- content: Authentication
+- content: access control
+- content: authentication
+- content: authorization
+- content: certificate
+- content: LANs
+- content: local area networks
+- content: MAC security
+- content: MANs
+- content: metropolitan area networks
+- content: PKI
+- content: port-based network access control
+- content: secure association
+- content: Secure Device Identifier
+- content: security
+- content: X.509
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

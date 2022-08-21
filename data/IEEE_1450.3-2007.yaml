@@ -1,10 +1,10 @@
 ---
 id: IEEE1450.3-2007
 title:
-- type: main
-  content: IEEE Standard for Extensions to Standard Test Interface Language (STIL)
+- content: IEEE Standard for Extensions to Standard Test Interface Language (STIL)
     (IEEE Std. 1450-1999) for Tester Target Specification
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4301375
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,16 +69,17 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2007'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Tester rules checking (TRC)
-- tester resource reporting
-- tester resource targeting
-- tester resource loading
+- content: Tester rules checking (TRC)
+- content: tester resource reporting
+- content: tester resource targeting
+- content: tester resource loading
 editorialgroup:
   committee:
   - Test Technology of the IEEE Computer Society

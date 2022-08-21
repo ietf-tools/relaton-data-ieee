@@ -1,10 +1,10 @@
 ---
 id: IEC/IEEEP60780.323-2014-CDV1
 title:
-- type: main
-  content: IEC/IEEE Draft International Standard - Nuclear Facilities - Electrical
+- content: IEC/IEEE Draft International Standard - Nuclear Facilities - Electrical
     Equipment Important to Safety -Qualification
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6960012
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,11 +67,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2014'
 relation:
 - type: updates
@@ -90,28 +92,28 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Nuclear power generation
-- Electrical safety
-- Aging
-- Power system reliability
-- Radiation monitoring
-- age conditioning
-- aging
-- condition monitoring
-- design basis events
-- equipment qualification
-- harsh environment
-- margin
-- mild environment
-- qualification method
-- qualified life
-- radiation
-- safety related function
-- significant aging mechanism
-- test plan
+- content: IEEE standards
+- content: Nuclear power generation
+- content: Electrical safety
+- content: Aging
+- content: Power system reliability
+- content: Radiation monitoring
+- content: age conditioning
+- content: aging
+- content: condition monitoring
+- content: design basis events
+- content: equipment qualification
+- content: harsh environment
+- content: margin
+- content: mild environment
+- content: qualification method
+- content: qualified life
+- content: radiation
+- content: safety related function
+- content: significant aging mechanism
+- content: test plan
 editorialgroup:
   committee:
   - Nuclear Power Engineering of the IEEE Power and Energy Society

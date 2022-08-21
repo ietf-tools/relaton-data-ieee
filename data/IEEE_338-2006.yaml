@@ -1,10 +1,10 @@
 ---
 id: IEEE338-2006
 title:
-- type: main
-  content: IEEE Standard Criteria for the Periodic Surveillance Testing of Nuclear
+- content: IEEE Standard Criteria for the Periodic Surveillance Testing of Nuclear
     Power Generating Station Safety Systems
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8684665
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2007'
 relation:
@@ -107,14 +109,14 @@ relation:
     formattedref:
       content: IEEE 338-2012
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- firmware
-- IED
-- Intelligent Electronic Device
-- microprocessor
-- revisions
-- software
+- content: firmware
+- content: IED
+- content: Intelligent Electronic Device
+- content: microprocessor
+- content: revisions
+- content: software
 editorialgroup:
   committee:
   - Nuclear Power Engineering of the IEEE Power and Energy Society

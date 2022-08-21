@@ -1,9 +1,9 @@
 ---
 id: ANSI/IEEE858-1987
 title:
-- type: main
-  content: IEEE Standard Definitions in Power Operations Terminology
+- content: IEEE Standard Definitions in Power Operations Terminology
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/89784
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -58,17 +59,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1987'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Power systems
-- Standards
-- 858-1987
-- terminology
-- Power operations
+- content: Power systems
+- content: Standards
+- content: 858-1987
+- content: terminology
+- content: Power operations
 editorialgroup:
   committee:
   - IEEE Power and Energy Society

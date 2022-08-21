@@ -1,13 +1,13 @@
 ---
 id: IEEEP802.22b/D-4-2015-02
 title:
-- type: main
-  content: 'IEEE Draft Standard for Information Technology--Telecommunications and
+- content: 'IEEE Draft Standard for Information Technology--Telecommunications and
     information exchange between systems Wireless Regional Area Networks (WRAN)--Specific
     requirements Part 22: Cognitive Wireless RAN Medium Access Control (MAC) and Physical
     Layer (PHY) Specifications: Policies and Procedures for Operation in the TV Bands
     Amendment: Enhancement for Broadband Services and Monitoring Applications'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7038126
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -70,8 +71,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2015'
 relation:
@@ -92,19 +94,19 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Broadband communication
-- Wireless networks
-- Throughput
-- Wireless personal area networks
-- broadband wireless access network
-- enhanced broadband services
-- monitoring applications
-- high throughput
-- high capacity
-- WRAN standards
+- content: IEEE Standards
+- content: Broadband communication
+- content: Wireless networks
+- content: Throughput
+- content: Wireless personal area networks
+- content: broadband wireless access network
+- content: enhanced broadband services
+- content: monitoring applications
+- content: high throughput
+- content: high capacity
+- content: WRAN standards
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

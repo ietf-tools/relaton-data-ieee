@@ -1,9 +1,9 @@
 ---
 id: ANSI/IEEE101-1987
 title:
-- type: main
-  content: IEEE Guide for the Statistical Analysis of Thermal Life Test Data
+- content: IEEE Guide for the Statistical Analysis of Thermal Life Test Data
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7473795
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,28 +62,30 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - American National Standards Institute
-    abbreviation: ANSI
+    - content: American National Standards Institute
+    abbreviation:
+      content: ANSI
     url: https://www.ansi.org
   from: '1987'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Statistical analysis
-- Thermal analysis
-- Accelerated aging
-- Data analysis
-- Testing
-- Temperature distribution
-- statistical
-- analysis
-- thermal
-- life
-- test
+- content: IEEE Standards
+- content: Statistical analysis
+- content: Thermal analysis
+- content: Accelerated aging
+- content: Data analysis
+- content: Testing
+- content: Temperature distribution
+- content: statistical
+- content: analysis
+- content: thermal
+- content: life
+- content: test
 editorialgroup:
   committee:
   - Standards Committee of the IEEE Dielectrics and Electrical Insulation Society

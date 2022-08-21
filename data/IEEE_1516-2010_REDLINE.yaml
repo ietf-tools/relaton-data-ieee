@@ -1,14 +1,14 @@
 ---
 id: IEEE1516-2010Redline
 title:
-- type: title-main
-  content: IEEE Standard for Modeling and Simulation (M&S) High Level Architecture
+- content: IEEE Standard for Modeling and Simulation (M&S) High Level Architecture
     (HLA)-- Framework and Rules
   format: text/plain
-- type: main
-  content: IEEE Standard for Modeling and Simulation (M&S) High Level Architecture
+  type: title-main
+- content: IEEE Standard for Modeling and Simulation (M&S) High Level Architecture
     (HLA)-- Framework and Rules - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5953411
   type: src
@@ -36,8 +36,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -73,35 +74,36 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2011'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Computer architecture
-- Modeling
-- Simulation
-- Performance evaluation
-- Search engines
-- Metasearch
-- architecture
-- class attribute
-- federate
-- federation
-- federation execution
-- federation object model
-- framework
-- High Level Architecture
-- instance attribute
-- interaction class
-- joined federate
-- object class
-- object model template
-- rules
-- runtime infrastructure
-- simulation object model
+- content: IEEE standards
+- content: Computer architecture
+- content: Modeling
+- content: Simulation
+- content: Performance evaluation
+- content: Search engines
+- content: Metasearch
+- content: architecture
+- content: class attribute
+- content: federate
+- content: federation
+- content: federation execution
+- content: federation object model
+- content: framework
+- content: High Level Architecture
+- content: instance attribute
+- content: interaction class
+- content: joined federate
+- content: object class
+- content: object model template
+- content: rules
+- content: runtime infrastructure
+- content: simulation object model
 editorialgroup:
   committee:
   - Simulation Interoperability Stds Organization/Stds Activity Committee of the IEEE

@@ -1,11 +1,11 @@
 ---
 id: IEEEPC57.12.38/D-6.4
 title:
-- type: main
-  content: IEEE Draft Standard for Padmounted Type, Self-Cooled, Single Phase Distribution
+- content: IEEE Draft Standard for Padmounted Type, Self-Cooled, Single Phase Distribution
     Transformers; High voltage, 34 500 GrdY/19 920 Volts and below, Low voltage, 240/120
     Volts; 167 kVA and smaller
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4811181
   type: src
@@ -27,8 +27,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,18 +63,19 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Single-phase
-- padmounted
-- distribution transformers
-- single phase
-- pad-mounted
-- transformer
+- content: Single-phase
+- content: padmounted
+- content: distribution transformers
+- content: single phase
+- content: pad-mounted
+- content: transformer
 ics:
 - code: '29.180'
   text: Transformers. Reactors

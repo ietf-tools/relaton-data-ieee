@@ -1,12 +1,12 @@
 ---
 id: IEEEUnapprovedP802.17c/D-2.0-2009-10
 title:
-- type: main
-  content: 'IEEE Draft Standard for Information technology-Telecommunications and
+- content: 'IEEE Draft Standard for Information technology-Telecommunications and
     information exchange between systems-Local and metropolitan area networks-Specific
     requirements Part 17: Resilient packet ring (RPR) access method and physical layer
     specifications Amendment 2: Protected inter-ring connection'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5286921
   type: src
@@ -28,8 +28,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -57,23 +58,24 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- bridging
-- fairness
-- layer management
-- medium access control
-- metropolitan area network (MAN)
-- physical layer
-- protection switching
-- resilient packet ring (RPR)
-- ring topology
-- spatial reuse
-- topology detection
+- content: bridging
+- content: fairness
+- content: layer management
+- content: medium access control
+- content: metropolitan area network (MAN)
+- content: physical layer
+- content: protection switching
+- content: resilient packet ring (RPR)
+- content: ring topology
+- content: spatial reuse
+- content: topology detection
 ics:
 - code: 35.100.10
   text: Physical layer

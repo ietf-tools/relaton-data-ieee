@@ -1,13 +1,13 @@
 ---
 id: ISO/IEC/IEEE8802.3/Amd6-2017
 title:
-- type: main
-  content: 'ISO/IEC/IEEE International Standard - Information technology - Telecommunications
+- content: 'ISO/IEC/IEEE International Standard - Information technology - Telecommunications
     and information exchange between systems - Local and metropolitan area networks
     - Specific requirements - Part 3: Standard for Ethernet AMENDMENT 6: Physical
     layer specifications and management parameters for ethernet passive optical networks
     protocol over coax'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8575216
   type: src
@@ -35,8 +35,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,13 +65,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2018'
 relation:
 - type: adoptedFrom
@@ -83,32 +85,32 @@ relation:
     formattedref:
       content: IEEE 802.3bn-2016
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ISO Standards
-- IEC Standards
-- Information technology
-- Physical layer
-- Ethernet
-- Passive optical networks
-- Local area networks
-- Metropolitan area networks
-- Information exchange
-- amendment
-- EPoC
-- EPON
-- EPON Protocol over Coax
-- Ethernet; Ethernet Passive Optical Networks
-- IEEE 802.3
-- IEEE 802.3bn
-- Multi-Point MAC Control (MPMC)
-- orthogonal frequency division multiplexing (OFDM)
-- Physical Coding Sublayer (PCS)
-- Physical Media Attachment (PMA)
-- Physical Medium Dependent (PMD)
-- PON
-- point to multipoint (P2MP)
+- content: IEEE Standards
+- content: ISO Standards
+- content: IEC Standards
+- content: Information technology
+- content: Physical layer
+- content: Ethernet
+- content: Passive optical networks
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Information exchange
+- content: amendment
+- content: EPoC
+- content: EPON
+- content: EPON Protocol over Coax
+- content: Ethernet; Ethernet Passive Optical Networks
+- content: IEEE 802.3
+- content: IEEE 802.3bn
+- content: Multi-Point MAC Control (MPMC)
+- content: orthogonal frequency division multiplexing (OFDM)
+- content: Physical Coding Sublayer (PCS)
+- content: Physical Media Attachment (PMA)
+- content: Physical Medium Dependent (PMD)
+- content: PON
+- content: point to multipoint (P2MP)
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

@@ -1,11 +1,11 @@
 ---
 id: IEEEP802.1s/D-14.1
 title:
-- type: main
-  content: 'IEEE Draft Amendment 3 to 802.1Q Virtual Bridged Local Area Networks:
+- content: 'IEEE Draft Amendment 3 to 802.1Q Virtual Bridged Local Area Networks:
     Multiple Spanning Trees - IEEE Draft Amendment to IEEE Std 802.1Q-1999 (Superseded
     by 802.1S-2002) (Incorporated Into 802.1Q-2003)'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4039826
   type: src
@@ -27,8 +27,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -46,11 +47,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2002'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: '35.110'
   text: Networking

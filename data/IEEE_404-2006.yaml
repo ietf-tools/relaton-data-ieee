@@ -1,10 +1,10 @@
 ---
 id: IEEE404-2006
 title:
-- type: main
-  content: IEEE Standard for Extruded and Laminated Dielectric Shielded Cable Joints
+- content: IEEE Standard for Extruded and Laminated Dielectric Shielded Cable Joints
     Rated 2 500v to 500 000v
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4135887
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,8 +69,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2007'
 relation:
@@ -90,22 +92,22 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Power cables
-- Cable shielding
-- Dielectrics
-- Cable insulation
-- Power engineering
-- cable joints
-- dielectric integrity tests
-- extruded dielectric cable
-- impulse withstand voltage (BIL)
-- laminated dielectric cable
-- sheath/shield sectionalizers
-- transition joints
-- withstand voltage
+- content: IEEE Standards
+- content: Power cables
+- content: Cable shielding
+- content: Dielectrics
+- content: Cable insulation
+- content: Power engineering
+- content: cable joints
+- content: dielectric integrity tests
+- content: extruded dielectric cable
+- content: impulse withstand voltage (BIL)
+- content: laminated dielectric cable
+- content: sheath/shield sectionalizers
+- content: transition joints
+- content: withstand voltage
 editorialgroup:
   committee:
   - Insulated Conductors of the IEEE Power and Energy Society

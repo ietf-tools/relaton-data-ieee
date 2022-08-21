@@ -1,10 +1,10 @@
 ---
 id: IEEEStd
 title:
-- type: main
-  content: IEEE Standard Definitions of Physical Quantities for Fundamental Frequency
+- content: IEEE Standard Definitions of Physical Quantities for Fundamental Frequency
     and Time Metrology--Random Instabilities
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9464896
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,33 +66,34 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Metrology
-- Noise measurement
-- Time domain analysis
-- Frequency-domain analysis
-- Phase modulation
-- 1139-2008
-- AM noise
-- amplitude instability
-- FM noise
-- frequency domain
-- frequency instability
-- frequency metrology
-- frequency modulation
-- noise
-- phase instability
-- phase modulation
-- phase noise
-- PM noise
-- time domain
-- time metrology
+- content: IEEE Standards
+- content: Metrology
+- content: Noise measurement
+- content: Time domain analysis
+- content: Frequency-domain analysis
+- content: Phase modulation
+- content: 1139-2008
+- content: AM noise
+- content: amplitude instability
+- content: FM noise
+- content: frequency domain
+- content: frequency instability
+- content: frequency metrology
+- content: frequency modulation
+- content: noise
+- content: phase instability
+- content: phase modulation
+- content: phase noise
+- content: PM noise
+- content: time domain
+- content: time metrology
 editorialgroup:
   committee:
   - IEEE Ultrasonics, Ferroelectrics and Frequency Control of the IEEE Ultrasonics,

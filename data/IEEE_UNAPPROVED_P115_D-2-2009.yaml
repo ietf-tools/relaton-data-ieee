@@ -1,11 +1,11 @@
 ---
 id: IEEEUnapprovedP115/D-2-2009
 title:
-- type: main
-  content: IEEE Draft Guide for Test Procedures for Synchronous Machines Part I -
+- content: IEEE Draft Guide for Test Procedures for Synchronous Machines Part I -
     Acceptance and Performance Testing; Part II - Test Procedures and Parameter Determination
     for Dynamic Analysis
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5154154
   type: src
@@ -27,8 +27,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -58,16 +59,17 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- acceptance and performance testing
-- dynamic analysis
-- parameter determination
-- synchronous machines
+- content: acceptance and performance testing
+- content: dynamic analysis
+- content: parameter determination
+- content: synchronous machines
 ics:
 - code: 29.160.20
   text: Generators

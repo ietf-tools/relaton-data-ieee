@@ -1,9 +1,9 @@
 ---
 id: IEEE2804-2019
 title:
-- type: main
-  content: IEEE Standard for Software-Hardware Interface for Multi-Many-Core
+- content: IEEE Standard for Software-Hardware Interface for Multi-Many-Core
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8985663
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,24 +65,25 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2020'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Multicore processing
-- Software tools
-- Hardware
-- Software
-- Interface management
-- IEEE 2804
-- many-core
-- multicore
-- SHIM
-- software hardware interface
-- software tools
+- content: IEEE Standards
+- content: Multicore processing
+- content: Software tools
+- content: Hardware
+- content: Software
+- content: Interface management
+- content: IEEE 2804
+- content: many-core
+- content: multicore
+- content: SHIM
+- content: software hardware interface
+- content: software tools
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

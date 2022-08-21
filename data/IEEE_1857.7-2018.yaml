@@ -1,9 +1,9 @@
 ---
 id: IEEE1857.7-2018
 title:
-- type: main
-  content: IEEE Standard for Adaptive Streaming
+- content: IEEE Standard for Adaptive Streaming
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8667844
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,17 +66,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2018'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Adaptive systems
-- Media streaming
-- Media
-- Hypertext systems
+- content: IEEE Standards
+- content: Adaptive systems
+- content: Media streaming
+- content: Media
+- content: Hypertext systems
 editorialgroup:
   committee:
   - Standards Activities Board of the IEEE Computer Society

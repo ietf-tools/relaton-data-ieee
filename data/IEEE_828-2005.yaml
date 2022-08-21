@@ -1,9 +1,9 @@
 ---
 id: IEEE828-2005
 title:
-- type: main
-  content: IEEE Standard for Software Configuration Management Plans
+- content: IEEE Standard for Software Configuration Management Plans
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1502775
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2005'
 relation:
@@ -85,23 +87,23 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Software
-- Configuration management
-- Patents
-- Planning
-- Software engineering
-- configuration control
-- configuration control board
-- configuration identification
-- configuration item
-- configuration review
-- configuration status accounting
-- release management
-- software configuration management
-- software configuration management plan
+- content: IEEE Standards
+- content: Software
+- content: Configuration management
+- content: Patents
+- content: Planning
+- content: Software engineering
+- content: configuration control
+- content: configuration control board
+- content: configuration identification
+- content: configuration item
+- content: configuration review
+- content: configuration status accounting
+- content: release management
+- content: software configuration management
+- content: software configuration management plan
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

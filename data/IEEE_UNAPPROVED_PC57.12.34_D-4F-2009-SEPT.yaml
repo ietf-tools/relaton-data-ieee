@@ -1,12 +1,12 @@
 ---
 id: IEEEUnapprovedPC57.12.34/D-4F-2009-Sept
 title:
-- type: main
-  content: Draft Standard for Requirements for Pad-Mounted, Compartmental Type, Self
+- content: Draft Standard for Requirements for Pad-Mounted, Compartmental Type, Self
     Cooled, Three Phase Distribution Transformers, 5 MVA and Smaller; High Voltage,
     34.5 kV Nominal System Voltage and Below; Low Voltage, 15 kV Nominal System Voltage
     and Below
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5281220
   type: src
@@ -28,8 +28,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,21 +63,22 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Three-phase
-- pad-mount distribution transformers
-- loop
-- radial
-- three phase
-- compartmental
-- pad-mounted
-- connector arrangements
-- transformer
+- content: Three-phase
+- content: pad-mount distribution transformers
+- content: loop
+- content: radial
+- content: three phase
+- content: compartmental
+- content: pad-mounted
+- content: connector arrangements
+- content: transformer
 ics:
 - code: '29.180'
   text: Transformers. Reactors

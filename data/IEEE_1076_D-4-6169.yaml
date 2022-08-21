@@ -1,10 +1,10 @@
 ---
 id: IEEE1076/D-4-6169
 title:
-- type: main
-  content: 'IEC/IEEE International Standard - Behavioral Languages - Part 5: Standard
+- content: 'IEC/IEEE International Standard - Behavioral Languages - Part 5: Standard
     VITAL ASIC (Application Specific Integrated Circuit) Modeling Specification'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1405849
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,27 +63,28 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2004'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Application specific integrated circuits
-- Integrated circuits
-- Modeling
-- ASIC
-- computer
-- computer languages
-- constraints
-- delay calculation
-- HDL
-- modeling
-- SDF
-- timing
-- Verilog
-- VHDL
+- content: IEEE Standards
+- content: Application specific integrated circuits
+- content: Integrated circuits
+- content: Modeling
+- content: ASIC
+- content: computer
+- content: computer languages
+- content: constraints
+- content: delay calculation
+- content: HDL
+- content: modeling
+- content: SDF
+- content: timing
+- content: Verilog
+- content: VHDL
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

@@ -1,12 +1,12 @@
 ---
 id: IEEEUnapprovedP802.22.1/D-6-2009-02
 title:
-- type: main
-  content: 'IEEE Draft Standard for Information technology--Telecommunications and
+- content: 'IEEE Draft Standard for Information technology--Telecommunications and
     information exchange between systems--Local and metropolitan area networks--Specific
     requirements--Part 22.1: Standard to Enhance Harmful Interference Protection for
     Low Power Licensed Devices Operating in the TV Broadcast Bands'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4799087
   type: src
@@ -28,8 +28,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -60,16 +61,17 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- ad hoc network
-- beacons
-- TV white space
-- WRAN
+- content: ad hoc network
+- content: beacons
+- content: TV white space
+- content: WRAN
 ics:
 - code: '35.110'
   text: Networking

@@ -1,10 +1,10 @@
 ---
 id: IEEE1804-2017
 title:
-- type: main
-  content: IEEE Standard for Fault Accounting and Coverage Reporting (FACR) for Digital
+- content: IEEE Standard for Fault Accounting and Coverage Reporting (FACR) for Digital
     Modules
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8303873
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,23 +70,24 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2018'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Semiconductor device testing
-- Fault diagnosis
-- Semiconductor device reliability
-- ATPG
-- fault models
-- fault simulation
-- IEEE 1804(TM)
-- semiconductor testing
-- stuck-at faults
-- test coverage
+- content: IEEE Standards
+- content: Semiconductor device testing
+- content: Fault diagnosis
+- content: Semiconductor device reliability
+- content: ATPG
+- content: fault models
+- content: fault simulation
+- content: IEEE 1804(TM)
+- content: semiconductor testing
+- content: stuck-at faults
+- content: test coverage
 editorialgroup:
   committee:
   - Test Technology of the IEEE Computer Society

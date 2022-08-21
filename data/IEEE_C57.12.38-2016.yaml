@@ -1,11 +1,11 @@
 ---
 id: IEEEC57.12.38-2016
 title:
-- type: main
-  content: 'IEEE Standard for Pad-Mounted-Type, Self-Cooled, Single-Phase Distribution
+- content: 'IEEE Standard for Pad-Mounted-Type, Self-Cooled, Single-Phase Distribution
     Transformers 250 kVA and Smaller: High Voltage, 34 500 GrdY/19 920 V and Below;
     Low Voltage, 480/240 V and Below - Corrigendum 1: Figure 1A'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7884918
   type: src
@@ -35,8 +35,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2017'
 relation:
@@ -87,19 +89,19 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Power transformers
-- Transformers
-- Power distribution planning
-- distribution transformers
-- IEEE C57.12.38(TM)
-- pad-mounted
-- padmounted
-- single phase
-- single-phase
-- transformer
+- content: IEEE Standards
+- content: Power transformers
+- content: Transformers
+- content: Power distribution planning
+- content: distribution transformers
+- content: IEEE C57.12.38(TM)
+- content: pad-mounted
+- content: padmounted
+- content: single phase
+- content: single-phase
+- content: transformer
 editorialgroup:
   committee:
   - Transformers of the IEEE Power and Energy Society

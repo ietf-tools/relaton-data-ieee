@@ -1,10 +1,10 @@
 ---
 id: IEEE120-1955
 title:
-- type: main
-  content: IEEE Standard for Master Test Code for Electrical Measurements in Power
+- content: IEEE Standard for Master Test Code for Electrical Measurements in Power
     Circuits
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/18444
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,8 +69,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1955'
 relation:
@@ -83,19 +85,19 @@ relation:
     formattedref:
       content: ANSI/IEEE 120-1989
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Current measurement
-- Furnaces
-- Electric machines
-- Measurement standards
-- Power measurement
-- Power transformers
-- Rectifiers
-- Voltage measurement
-- measurements
-- power
-- circuits
+- content: Current measurement
+- content: Furnaces
+- content: Electric machines
+- content: Measurement standards
+- content: Power measurement
+- content: Power transformers
+- content: Rectifiers
+- content: Voltage measurement
+- content: measurements
+- content: power
+- content: circuits
 editorialgroup:
   committee:
   - Power System Instrumentation and Measurements of the IEEE Power and Energy Society

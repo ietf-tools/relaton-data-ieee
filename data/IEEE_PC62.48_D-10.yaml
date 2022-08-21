@@ -1,10 +1,10 @@
 ---
 id: IEEEPC62.48/D-10
 title:
-- type: main
-  content: Approved IEEE Draft Guide on Interactions Between Power System Disturbances
+- content: Approved IEEE Draft Guide on Interactions Between Power System Disturbances
     and Surge-Protective Devices (Revision of IEEE C62.48-1995) Replaced by C62.48-2005
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4040837
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -45,11 +46,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2003'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: 29.120.50
   text: Fuses and other overcurrent protection devices

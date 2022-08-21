@@ -1,9 +1,9 @@
 ---
 id: ANSI/IEEE802.1D-1998
 title:
-- type: main
-  content: IEEE Standard for Local Area Network MAC (Media Access Control) Bridges
+- content: IEEE Standard for Local Area Network MAC (Media Access Control) Bridges
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1389253
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1998'
 relation:
@@ -95,16 +97,16 @@ relation:
     formattedref:
       content: IEEE 802.1D-2004
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ISO Standards
-- IEC Standards
-- Bridges
-- Media Access Protocol
-- LAN
-- media access control bridges
-- MAC Bridge management
+- content: IEEE Standards
+- content: ISO Standards
+- content: IEC Standards
+- content: Bridges
+- content: Media Access Protocol
+- content: LAN
+- content: media access control bridges
+- content: MAC Bridge management
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

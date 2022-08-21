@@ -1,10 +1,10 @@
 ---
 id: IEEE1516-2000
 title:
-- type: main
-  content: IEEE Standard for Modeling and Simulation (M&S) High Level ARchitecture
+- content: IEEE Standard for Modeling and Simulation (M&S) High Level ARchitecture
     (HLA) - Framework and Rules
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/893287
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,8 +70,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2000'
 relation:
@@ -84,28 +86,28 @@ relation:
     formattedref:
       content: IEEE 1516-2010
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Computer architecture
-- Computational modeling
-- Interoperability
-- Patents
-- Runtime
-- architecture
-- class attribute
-- federate
-- federation
-- federation execution
-- federation object model
-- framework
-- high level architecture
-- instance attribute
-- interaction class
-- joined federate
-- object class
-- object model template
-- rules runtime infrastructure
+- content: IEEE Standards
+- content: Computer architecture
+- content: Computational modeling
+- content: Interoperability
+- content: Patents
+- content: Runtime
+- content: architecture
+- content: class attribute
+- content: federate
+- content: federation
+- content: federation execution
+- content: federation object model
+- content: framework
+- content: high level architecture
+- content: instance attribute
+- content: interaction class
+- content: joined federate
+- content: object class
+- content: object model template
+- content: rules runtime infrastructure
 editorialgroup:
   committee:
   - Simulation Interoperability Stds Organization/Stds Activity Committee of the IEEE

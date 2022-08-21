@@ -1,10 +1,10 @@
 ---
 id: IEEE2001-1999
 title:
-- type: main
-  content: IEEE Recommended Practice for Internet Practices - Web Page Engineering
+- content: IEEE Recommended Practice for Internet Practices - Web Page Engineering
     - Intranet/Extranet Applications
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/777783
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,20 +69,21 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1999'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Internet
-- accessibility
-- Internet best practices
-- Internet ease-of-use
-- risk reduction
-- Web management
-- Web page engineering
-- World Wide Web
+- content: Internet
+- content: accessibility
+- content: Internet best practices
+- content: Internet ease-of-use
+- content: risk reduction
+- content: Web management
+- content: Web page engineering
+- content: World Wide Web
 editorialgroup:
   committee:
   - IEEE Computer Society

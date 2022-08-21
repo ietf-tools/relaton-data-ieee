@@ -1,12 +1,12 @@
 ---
 id: IEEE1036-2020Redline
 title:
-- type: title-main
-  content: IEEE Guide for the Application of Shunt Power Capacitors
+- content: IEEE Guide for the Application of Shunt Power Capacitors
   format: text/plain
-- type: main
-  content: IEEE Guide for the Application of Shunt Power Capacitors - Redline
+  type: title-main
+- content: IEEE Guide for the Application of Shunt Power Capacitors - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9497880
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -52,8 +53,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2020'
 relation:
@@ -74,20 +76,20 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Capacitors
-- Fuses
-- Power factor correction
-- capacitor
-- capacitor banks
-- externally fused
-- fuseless
-- IEEE 1036&#8482;
-- internally fused
-- power factor correction
-- shunt power capacitors
+- content: IEEE Standards
+- content: Capacitors
+- content: Fuses
+- content: Power factor correction
+- content: capacitor
+- content: capacitor banks
+- content: externally fused
+- content: fuseless
+- content: IEEE 1036&#8482;
+- content: internally fused
+- content: power factor correction
+- content: shunt power capacitors
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society

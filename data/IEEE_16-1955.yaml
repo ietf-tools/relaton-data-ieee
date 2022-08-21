@@ -1,9 +1,9 @@
 ---
 id: IEEE16-1955
 title:
-- type: main
-  content: IEEE Standard for Electric Control Apparatus for Land Transportation Vehicles
+- content: IEEE Standard for Electric Control Apparatus for Land Transportation Vehicles
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7368054
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -51,16 +52,17 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1955'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Intelligent vehicles
-- Industrial control
-- Electronic control
+- content: IEEE Standards
+- content: Intelligent vehicles
+- content: Industrial control
+- content: Electronic control
 editorialgroup:
   committee:
   - Land Transportation of the IEEE Vehicular Technology Society

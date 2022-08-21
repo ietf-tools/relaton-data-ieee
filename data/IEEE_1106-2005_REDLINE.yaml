@@ -1,14 +1,14 @@
 ---
 id: IEEE1106-2005Redline
 title:
-- type: title-main
-  content: IEEE Recommended Practice for Installation, Maintenance, Testing, and Replacement
+- content: IEEE Recommended Practice for Installation, Maintenance, Testing, and Replacement
     of Vented Nickel-Cadmium Batteries for Stationary Applications
   format: text/plain
-- type: main
-  content: IEEE Recommended Practice for Installation, Maintenance, Testing, and Replacement
+  type: title-main
+- content: IEEE Recommended Practice for Installation, Maintenance, Testing, and Replacement
     of Vented Nickel-Cadmium Batteries for Stationary Applications - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6581824
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2005'
 relation:
@@ -96,16 +98,16 @@ relation:
     formattedref:
       content: IEEE 1106-2015
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Batteries
-- Testing
-- Cadmium batteries
-- battery tests
-- capacity test methods
-- stationary applications
-- vented nickel-cadmium batteries
+- content: IEEE standards
+- content: Batteries
+- content: Testing
+- content: Cadmium batteries
+- content: battery tests
+- content: capacity test methods
+- content: stationary applications
+- content: vented nickel-cadmium batteries
 editorialgroup:
   committee:
   - Energy Storage &amp; Stationary Battery Committee of the IEEE Power and Energy

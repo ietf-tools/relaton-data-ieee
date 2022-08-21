@@ -1,9 +1,9 @@
 ---
 id: ANSI/IEEEC62.41-1980
 title:
-- type: main
-  content: IEEE Guide for Surge Voltages in Low-Voltage AC Power Circuits
+- content: IEEE Guide for Surge Voltages in Low-Voltage AC Power Circuits
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/26654
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,8 +68,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1981'
 relation:
@@ -82,15 +84,15 @@ relation:
     formattedref:
       content: IEEE C62.41-1991
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Power systems
-- Standards
-- surge
-- voltages
-- lv
-- power
-- circuits
+- content: Power systems
+- content: Standards
+- content: surge
+- content: voltages
+- content: lv
+- content: power
+- content: circuits
 editorialgroup:
   committee:
   - Surge Protective Devices/Low Voltage of the IEEE Power and Energy Society

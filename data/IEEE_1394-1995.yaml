@@ -1,9 +1,9 @@
 ---
 id: IEEE1394-1995
 title:
-- type: main
-  content: IEEE Standard for a High Performance Serial Bus
+- content: IEEE Standard for a High Performance Serial Bus
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/526693
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1996'
 relation:
@@ -78,17 +80,17 @@ relation:
     formattedref:
       content: IEEE 1394-2008
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Data buses
-- firewire
-- fire wire
-- computers
-- high speed
-- serial bus
-- interconnect
-- parallel buses
-- parallel bus
+- content: Data buses
+- content: firewire
+- content: fire wire
+- content: computers
+- content: high speed
+- content: serial bus
+- content: interconnect
+- content: parallel buses
+- content: parallel bus
 editorialgroup:
   committee:
   - Microprocessor Standards Committee of the IEEE Computer Society

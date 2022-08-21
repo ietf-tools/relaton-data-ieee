@@ -1,12 +1,12 @@
 ---
 id: IEEE802.11d-2001
 title:
-- type: main
-  content: 'IEEE Standard for Information technology-- Local and metropolitan area
+- content: 'IEEE Standard for Information technology-- Local and metropolitan area
     networks-- Specific requirements-- Part 11: Wireless Medium Access Control (MAC)
     and Physical Layer (PHY) Specifications Amendment 3: Specification for operation
     in additional regulatory domains'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/946610
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,8 +70,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2001'
 relation:
@@ -91,17 +93,17 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- international roaming
-- local area network (LAN)
-- mobility
-- radio
-- roam
-- roaming
-- wireless
-- wireless network
+- content: IEEE standards
+- content: international roaming
+- content: local area network (LAN)
+- content: mobility
+- content: radio
+- content: roam
+- content: roaming
+- content: wireless
+- content: wireless network
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

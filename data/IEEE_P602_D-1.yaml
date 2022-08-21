@@ -1,10 +1,10 @@
 ---
 id: IEEEP602/D-1
 title:
-- type: main
-  content: IEEE Draft Recommended Practice for Electric Systems in Health Care Facilities
+- content: IEEE Draft Recommended Practice for Electric Systems in Health Care Facilities
     (Revision of IEEE 602-1996)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4040660
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -57,11 +58,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2006'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: '11.140'
   text: Hospital equipment

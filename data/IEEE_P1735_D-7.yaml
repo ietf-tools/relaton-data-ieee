@@ -1,10 +1,10 @@
 ---
 id: IEEEP1735/D-7
 title:
-- type: main
-  content: IEEE Approved Draft Recommended Practice for Encryption and Management
+- content: IEEE Approved Draft Recommended Practice for Encryption and Management
     of Electronic Design Intellectual Property (IP)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7274041
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,22 +64,23 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2014'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Encryption
-- Digital rights management
-- Trust management
-- Intellectual property
-- encrypted IP
-- digital envelope
-- trust model
-- keys
-- rights management
+- content: IEEE Standards
+- content: Encryption
+- content: Digital rights management
+- content: Trust management
+- content: Intellectual property
+- content: encrypted IP
+- content: digital envelope
+- content: trust model
+- content: keys
+- content: rights management
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

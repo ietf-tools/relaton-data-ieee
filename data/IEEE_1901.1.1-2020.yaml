@@ -1,10 +1,10 @@
 ---
 id: IEEE1901.1.1-2020
 title:
-- type: main
-  content: IEEE Standard Test Procedures for IEEE Std 1901.1(TM) for Medium Frequency
+- content: IEEE Standard Test Procedures for IEEE Std 1901.1(TM) for Medium Frequency
     (less than 15 MHz) Power Line Communications for Smart Grid Applications
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9381775
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,29 +67,30 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2020'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Broadband communication
-- Power transmission
-- Smart grids
-- Interoperability
-- Testing
-- IP networks
-- BPL
-- broadband power line
-- IEEE 1901.1
-- IEEE 1901.1.1
-- PLC
-- power line communication
-- smart grid
-- test standard
-- interoperability and compliance testing
-- certification
+- content: IEEE Standards
+- content: Broadband communication
+- content: Power transmission
+- content: Smart grids
+- content: Interoperability
+- content: Testing
+- content: IP networks
+- content: BPL
+- content: broadband power line
+- content: IEEE 1901.1
+- content: IEEE 1901.1.1
+- content: PLC
+- content: power line communication
+- content: smart grid
+- content: test standard
+- content: interoperability and compliance testing
+- content: certification
 editorialgroup:
   committee:
   - Power Line Communications of the IEEE Communications Society

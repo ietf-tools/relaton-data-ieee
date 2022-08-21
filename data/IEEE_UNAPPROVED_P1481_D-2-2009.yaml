@@ -1,10 +1,10 @@
 ---
 id: IEEEUnapprovedP1481/D-2-2009
 title:
-- type: main
-  content: IEEE Draft Standard for Integrated Circuit (IC) Open Library Architecture
+- content: IEEE Draft Standard for Integrated Circuit (IC) Open Library Architecture
     (OLA)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5174156
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -57,16 +58,17 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- chip delay
-- electronic design automation (EDA)
-- integrated circuit design
-- power calculation
+- content: chip delay
+- content: electronic design automation (EDA)
+- content: integrated circuit design
+- content: power calculation
 ics:
 - code: '31.200'
   text: Integrated circuits. Microelectronics

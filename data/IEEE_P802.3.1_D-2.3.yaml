@@ -1,10 +1,10 @@
 ---
 id: IEEEP802.3.1/D-2.3
 title:
-- type: main
-  content: IEEE Draft Standard for Management Information Base (MIB) Definitions for
+- content: IEEE Draft Standard for Management Information Base (MIB) Definitions for
     Ethernet
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5623443
   type: src
@@ -28,8 +28,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,23 +62,24 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2010'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Ethernet
-- Management information systems
-- Telecommunication network management
-- MIB
-- SNMP
-- SMIv2
-- GDMO
-- Ethernet
-- network management
-- '802.3'
+- content: IEEE standards
+- content: Ethernet
+- content: Management information systems
+- content: Telecommunication network management
+- content: MIB
+- content: SNMP
+- content: SMIv2
+- content: GDMO
+- content: Ethernet
+- content: network management
+- content: '802.3'
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

@@ -1,9 +1,9 @@
 ---
 id: IEEE1057-2007
 title:
-- type: main
-  content: IEEE Standard for Digitizing Waveform Recorders
+- content: IEEE Standard for Digitizing Waveform Recorders
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8291822
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,8 +67,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2008'
 relation:
@@ -98,24 +100,24 @@ relation:
     formattedref:
       content: IEEE 1057-2017
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Harmonic analysis
-- Distortion
-- Oscilloscopes
-- Analog-digital conversion
-- Pulse measurements
-- Frequency response
-- 1057-2007
-- effective number of bits
-- frequency response
-- noise
-- sine fitting
-- step pulse response
-- total harmonic distortion
-- transitions levels
-- waveform recorders
+- content: IEEE Standards
+- content: Harmonic analysis
+- content: Distortion
+- content: Oscilloscopes
+- content: Analog-digital conversion
+- content: Pulse measurements
+- content: Frequency response
+- content: 1057-2007
+- content: effective number of bits
+- content: frequency response
+- content: noise
+- content: sine fitting
+- content: step pulse response
+- content: total harmonic distortion
+- content: transitions levels
+- content: waveform recorders
 editorialgroup:
   committee:
   - TC10 - Waveform Generation Measurement and Analysis of the IEEE Instrumentation

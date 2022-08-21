@@ -1,10 +1,10 @@
 ---
 id: IEEE1-1969
 title:
-- type: main
-  content: IEEE General Priniciples for Temperature Limits in the Rating of Electric
+- content: IEEE General Priniciples for Temperature Limits in the Rating of Electric
     Equipment
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7363722
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,8 +70,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1969'
 relation:
@@ -94,10 +96,10 @@ relation:
     formattedref:
       content: ANSI/IEEE 1-1986
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Temperature measurement
-- Insulation
-- Temperature dependence
-- Electrical equipment
+- content: IEEE Standards
+- content: Temperature measurement
+- content: Insulation
+- content: Temperature dependence
+- content: Electrical equipment

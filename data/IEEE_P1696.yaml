@@ -1,10 +1,10 @@
 ---
 id: IEEEP1696
 title:
-- type: main
-  content: IEEE Approved Draft Standard for Terminology and Test Methods for Circuit
+- content: IEEE Approved Draft Standard for Terminology and Test Methods for Circuit
     Probes
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6687193
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -71,34 +72,35 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2013'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Circuit probes
-- Terminology
-- Testing
-- Frequency response
-- Scattering
-- Parameter estimation
-- common mode
-- frequency response
-- gain
-- input resistance
-- linearity
-- offset error
-- offset range
-- probe
-- probe-only
-- probe system
-- scattering parameters
-- test fixtutre
-- text methods
-- time response
-- transfer function
+- content: IEEE standards
+- content: Circuit probes
+- content: Terminology
+- content: Testing
+- content: Frequency response
+- content: Scattering
+- content: Parameter estimation
+- content: common mode
+- content: frequency response
+- content: gain
+- content: input resistance
+- content: linearity
+- content: offset error
+- content: offset range
+- content: probe
+- content: probe-only
+- content: probe system
+- content: scattering parameters
+- content: test fixtutre
+- content: text methods
+- content: time response
+- content: transfer function
 editorialgroup:
   committee:
   - TC10 - Waveform Generation Measurement and Analysis of the IEEE Instrumentation

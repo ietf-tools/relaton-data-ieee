@@ -1,10 +1,10 @@
 ---
 id: IEEEPC37.301/D-3
 title:
-- type: main
-  content: IEEE Draft Standard High Voltage (Above 1000 V) Tests Techniques - Partial
+- content: IEEE Draft Standard High Voltage (Above 1000 V) Tests Techniques - Partial
     Discharges Measurements
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4459194
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -55,18 +56,19 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2008'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- instrumentation
-- calibration
-- dielectric tests
-- partial discharge
-- switchgear
-- corona.
+- content: instrumentation
+- content: calibration
+- content: dielectric tests
+- content: partial discharge
+- content: switchgear
+- content: corona.
 ics:
 - code: 29.130.10
   text: High voltage switchgear and controlgear

@@ -1,9 +1,9 @@
 ---
 id: IEEE532-1982
 title:
-- type: main
-  content: IEEE Guide for Selecting and Testing Jackets for Cables
+- content: IEEE Guide for Selecting and Testing Jackets for Cables
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7430210
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,22 +64,23 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1982'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Cable shielding
-- Cable insulation
-- Power cables
-- Testing
-- Conductors
-- selecting
-- testing
-- jackets
-- cables
+- content: IEEE Standards
+- content: Cable shielding
+- content: Cable insulation
+- content: Power cables
+- content: Testing
+- content: Conductors
+- content: selecting
+- content: testing
+- content: jackets
+- content: cables
 editorialgroup:
   committee:
   - Insulated Conductors of the IEEE Power and Energy Society

@@ -1,10 +1,10 @@
 ---
 id: IEEE1800-2009
 title:
-- type: main
-  content: IEEE Standard for SystemVerilog--Unified Hardware Design, Specification,
+- content: IEEE Standard for SystemVerilog--Unified Hardware Design, Specification,
     and Verification Language
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5354441
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,8 +68,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
 relation:
@@ -99,27 +101,27 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Hardware design languages
-- Hardware
-- Design automation
-- IEEE Standards Association
-- Trademarks
-- 1800-2009
-- 1364-2005
-- assertions
-- design automation
-- design verification
-- hardware description language
-- HDL
-- HDVL
-- PLI
-- programming language interface
-- SystemVerilog
-- Verilog
-- VPI
+- content: IEEE Standards
+- content: Hardware design languages
+- content: Hardware
+- content: Design automation
+- content: IEEE Standards Association
+- content: Trademarks
+- content: 1800-2009
+- content: 1364-2005
+- content: assertions
+- content: design automation
+- content: design verification
+- content: hardware description language
+- content: HDL
+- content: HDVL
+- content: PLI
+- content: programming language interface
+- content: SystemVerilog
+- content: Verilog
+- content: VPI
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

@@ -1,9 +1,9 @@
 ---
 id: IEEE421.1-2021
 title:
-- type: main
-  content: IEEE Standard Definitions for Excitation Systems for Synchronous Machines
+- content: IEEE Standard Definitions for Excitation Systems for Synchronous Machines
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9737077
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2022'
 relation:
@@ -84,19 +86,19 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Control systems
-- Generators
-- Synchronous motors
-- Terminology
-- definitions of excitation controls
-- excitation block diagrams
-- excitation control systems
-- excitation systems terminology
-- '421.1'
-- synchronous generator controls
+- content: IEEE Standards
+- content: Control systems
+- content: Generators
+- content: Synchronous motors
+- content: Terminology
+- content: definitions of excitation controls
+- content: excitation block diagrams
+- content: excitation control systems
+- content: excitation systems terminology
+- content: '421.1'
+- content: synchronous generator controls
 editorialgroup:
   committee:
   - Energy Development &amp; Power Generation of the IEEE Power and Energy Society

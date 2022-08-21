@@ -1,9 +1,9 @@
 ---
 id: IEEE1647-2011
 title:
-- type: main
-  content: IEEE Standard for the Functional Verification Language e
+- content: IEEE Standard for the Functional Verification Language e
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6006495
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -71,8 +72,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2011'
 relation:
@@ -103,23 +105,23 @@ relation:
     formattedref:
       content: IEEE 1647-2016
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Concurrent computing
-- Formal verification
-- Simulation
-- Functional programming
-- assertion
-- concurrent programming
-- constraint
-- dynamic verification
-- functional coverage
-- functional verification
-- IEEE 1647
-- simulation
-- temporal logic
-- test generation
+- content: IEEE standards
+- content: Concurrent computing
+- content: Formal verification
+- content: Simulation
+- content: Functional programming
+- content: assertion
+- content: concurrent programming
+- content: constraint
+- content: dynamic verification
+- content: functional coverage
+- content: functional verification
+- content: IEEE 1647
+- content: simulation
+- content: temporal logic
+- content: test generation
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

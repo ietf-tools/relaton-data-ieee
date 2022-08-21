@@ -1,9 +1,9 @@
 ---
 id: IEC62529-2012
 title:
-- type: main
-  content: IEC 62529:2012(E) Standard for Signal and Test Definition
+- content: IEC 62529:2012(E) Standard for Signal and Test Definition
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6228489
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,11 +62,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2012'
 relation:
 - type: updates
@@ -85,23 +87,23 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- IEC standards
-- Automatic test equipment
-- Voltage measurement
-- Signal processing
-- ATE
-- ATLAS
-- automatic test equipment
-- IEEE 1641
-- signal definitions
-- test definitions
-- test requirements
-- test signals
-- unit under test
-- UUT
+- content: IEEE standards
+- content: IEC standards
+- content: Automatic test equipment
+- content: Voltage measurement
+- content: Signal processing
+- content: ATE
+- content: ATLAS
+- content: automatic test equipment
+- content: IEEE 1641
+- content: signal definitions
+- content: test definitions
+- content: test requirements
+- content: test signals
+- content: unit under test
+- content: UUT
 editorialgroup:
   committee:
   - SCC20 - Test and Diagnosis for Electronic Systems

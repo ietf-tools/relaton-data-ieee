@@ -1,9 +1,9 @@
 ---
 id: IEEE987-2001
 title:
-- type: main
-  content: IEEE Guide for Application of Composite Insulators
+- content: IEEE Guide for Application of Composite Insulators
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1000474
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,15 +64,16 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2002'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- composite insulators
-- non-ceramic insulators
-- polymer insulators
+- content: composite insulators
+- content: non-ceramic insulators
+- content: polymer insulators
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society

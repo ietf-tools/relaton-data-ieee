@@ -1,9 +1,9 @@
 ---
 id: IEEE118-1978
 title:
-- type: main
-  content: IEEE Standard Test Code for Resistance Measurement
+- content: IEEE Standard Test Code for Resistance Measurement
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/27744
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,18 +65,19 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1978'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Electric machines
-- Resistance measurement
-- Insulation testing
-- Measurement standards
-- resistance
-- measurement
+- content: Electric machines
+- content: Resistance measurement
+- content: Insulation testing
+- content: Measurement standards
+- content: resistance
+- content: measurement
 editorialgroup:
   committee:
   - Power System Instrumentation and Measurements of the IEEE Power and Energy Society

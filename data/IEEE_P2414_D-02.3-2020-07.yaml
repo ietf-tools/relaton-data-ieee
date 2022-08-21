@@ -1,9 +1,9 @@
 ---
 id: IEEEP2414/D-02.3-2020-07
 title:
-- type: main
-  content: IEEE Approved Draft Standard for Jitter and Phase Noise
+- content: IEEE Approved Draft Standard for Jitter and Phase Noise
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9140438
   type: src
@@ -29,8 +29,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,37 +64,38 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2020'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Noise measurement
-- Jitter
-- Timing analysis
-- Bit error rate
-- BER
-- bit-error rate
-- bounded uncorrelated jitter
-- BUJ
-- cycle-to-cycle jitter
-- data-dependent jitter
-- DDJ
-- deterministic jitter
-- DJ model total jitter
-- IEEE 2414
-- jitter
-- periodic jitter
-- period jitter
-- phase noise
-- PJ
-- random jitter
-- RMS and peak-to-peak jitter; time interval error
-- timing error
-- timing jitter
-- wander.
+- content: IEEE Standards
+- content: Noise measurement
+- content: Jitter
+- content: Timing analysis
+- content: Bit error rate
+- content: BER
+- content: bit-error rate
+- content: bounded uncorrelated jitter
+- content: BUJ
+- content: cycle-to-cycle jitter
+- content: data-dependent jitter
+- content: DDJ
+- content: deterministic jitter
+- content: DJ model total jitter
+- content: IEEE 2414
+- content: jitter
+- content: periodic jitter
+- content: period jitter
+- content: phase noise
+- content: PJ
+- content: random jitter
+- content: RMS and peak-to-peak jitter; time interval error
+- content: timing error
+- content: timing jitter
+- content: wander.
 editorialgroup:
   committee:
   - TC10 - Waveform Generation Measurement and Analysis of the IEEE Instrumentation

@@ -1,10 +1,10 @@
 ---
 id: IEEEUnapprovedP142/D-4-2007
 title:
-- type: main
-  content: Unapproved IEEE Draft Recommended Practice for Grounding of Industrial
+- content: Unapproved IEEE Draft Recommended Practice for Grounding of Industrial
     and Commercial Power Systems (Revision of IEEE Std 142-1991)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4197851
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -45,11 +46,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2007'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: 29.120.50
   text: Fuses and other overcurrent protection devices

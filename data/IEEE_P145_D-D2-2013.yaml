@@ -1,9 +1,9 @@
 ---
 id: IEEEP145/D-D2-2013
 title:
-- type: main
-  content: IEEE Draft Standard for Definitions of Terms for Antennas
+- content: IEEE Draft Standard for Definitions of Terms for Antennas
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6507228
   type: src
@@ -29,8 +29,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -57,8 +58,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2013'
 relation:
@@ -79,16 +81,16 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Antennas
-- Terminology
-- Dictionaries
-- antennas
-- definitions
-- IEEE 145
-- terms
+- content: IEEE standards
+- content: Antennas
+- content: Terminology
+- content: Dictionaries
+- content: antennas
+- content: definitions
+- content: IEEE 145
+- content: terms
 editorialgroup:
   committee:
   - Antennas and Propagation Standards Committee of the IEEE Antennas and Propagation

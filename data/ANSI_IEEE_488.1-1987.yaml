@@ -1,9 +1,9 @@
 ---
 id: ANSI/IEEE488.1-1987
 title:
-- type: main
-  content: IEEE Standard Digital Interface for Programmable Instrumentation
+- content: IEEE Standard Digital Interface for Programmable Instrumentation
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/29042
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,8 +69,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1988'
 relation:
@@ -83,16 +85,16 @@ relation:
     formattedref:
       content: IEEE 1003.13-1998
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Computer interfaces
-- Standards
-- '488.1'
-- programmable
-- system data
-- digital interface
-- instrumentation
-- Measurement system
+- content: Computer interfaces
+- content: Standards
+- content: '488.1'
+- content: programmable
+- content: system data
+- content: digital interface
+- content: instrumentation
+- content: Measurement system
 editorialgroup:
   committee:
   - TC8 - Automated Test Systems and Instrumentation of the IEEE Instrumentation and

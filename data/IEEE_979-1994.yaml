@@ -1,9 +1,9 @@
 ---
 id: IEEE979-1994
 title:
-- type: main
-  content: IEEE Guide for Substation Fire Protection
+- content: IEEE Guide for Substation Fire Protection
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6665162
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,8 +62,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1995'
 relation:
@@ -83,18 +85,18 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Fires
-- Substations
-- Emergency services
-- Hazards
-- substation design
-- fire
-- Substations
-- Safety
-- Fire protection
+- content: IEEE standards
+- content: Fires
+- content: Substations
+- content: Emergency services
+- content: Hazards
+- content: substation design
+- content: fire
+- content: Substations
+- content: Safety
+- content: Fire protection
 editorialgroup:
   committee:
   - Substations of the IEEE Power and Energy Society

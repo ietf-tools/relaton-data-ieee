@@ -1,10 +1,10 @@
 ---
 id: IEEE515-1997
 title:
-- type: main
-  content: IEEE Standard for the Testing, Design, Installation and Maintenance of
+- content: IEEE Standard for the Testing, Design, Installation and Maintenance of
     Electrical Resistance Heat Tracing for Industrial Applications
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/590305
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1997'
 relation:
@@ -96,15 +98,15 @@ relation:
     formattedref:
       content: IEEE 515-2004
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Resistance heating
-- electrical design
-- heat tracing
-- pipelines
-- series heating cables
-- surface heating devices
-- thermal design
+- content: Resistance heating
+- content: electrical design
+- content: heat tracing
+- content: pipelines
+- content: series heating cables
+- content: surface heating devices
+- content: thermal design
 editorialgroup:
   committee:
   - Petroleum &amp; Chemical Industry of the IEEE Industry Applications Society

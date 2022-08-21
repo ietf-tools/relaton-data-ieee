@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE485-1978
 title:
-- type: main
-  content: IEEE Recommended Practice for Sizing Large Lead Storage Batteries for Generating
+- content: IEEE Recommended Practice for Sizing Large Lead Storage Batteries for Generating
     Stations and Substations
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7425107
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,12 +69,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - American National Standards Institute
-    abbreviation: ANSI
+    - content: American National Standards Institute
+    abbreviation:
+      content: ANSI
     url: https://www.ansi.org
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1978'
 relation:
@@ -87,12 +90,12 @@ relation:
     formattedref:
       content: IEEE 485-1983
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Storage batteries
-- Battteries
-- 'Storage '
-- Generators
-- Design methodology
-- Substations
+- content: IEEE Standards
+- content: Storage batteries
+- content: Battteries
+- content: 'Storage '
+- content: Generators
+- content: Design methodology
+- content: Substations

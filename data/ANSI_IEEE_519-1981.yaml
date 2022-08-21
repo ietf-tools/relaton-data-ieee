@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE519-1981
 title:
-- type: main
-  content: IEEE Guide for Harmonic Control and Reactive Compensation of Static Power
+- content: IEEE Guide for Harmonic Control and Reactive Compensation of Static Power
     Convertors
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/27808
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1981'
 relation:
@@ -79,13 +81,13 @@ relation:
     formattedref:
       content: IEEE 519-1992
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Harmonic analysis
-- Power conversion
-- Reactive power control
-- Reactive power
-- Standards
+- content: Harmonic analysis
+- content: Power conversion
+- content: Reactive power control
+- content: Reactive power
+- content: Standards
 editorialgroup:
   committee:
   - Industrial Power Converter of the IEEE Industry Applications Society

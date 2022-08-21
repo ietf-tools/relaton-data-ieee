@@ -1,9 +1,9 @@
 ---
 id: IEEE1541-2002
 title:
-- type: main
-  content: IEEE Standard for Prefixes for Binary Multiples
+- content: IEEE Standard for Prefixes for Binary Multiples
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8685853
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,24 +63,25 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Binary sequences
-- binary
-- binary multiple
-- computer
-- exbi
-- gibi
-- kibi
-- mebi
-- pebi
-- prefix
-- tebi
+- content: IEEE Standards
+- content: Binary sequences
+- content: binary
+- content: binary multiple
+- content: computer
+- content: exbi
+- content: gibi
+- content: kibi
+- content: mebi
+- content: pebi
+- content: prefix
+- content: tebi
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

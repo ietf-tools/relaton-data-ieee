@@ -1,9 +1,9 @@
 ---
 id: IEEE1028-1997
 title:
-- type: main
-  content: IEEE Standard for Software Reviews
+- content: IEEE Standard for Software Reviews
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/663254
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,8 +62,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1998'
 relation:
@@ -93,14 +95,14 @@ relation:
     formattedref:
       content: IEEE 1028-2008
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Software reviews
-- Inspection
-- Patents
-- Software
-- Software engineering
+- content: IEEE Standards
+- content: Software reviews
+- content: Inspection
+- content: Patents
+- content: Software
+- content: Software engineering
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

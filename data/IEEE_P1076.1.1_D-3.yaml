@@ -1,10 +1,10 @@
 ---
 id: IEEEP1076.1.1/D-3
 title:
-- type: main
-  content: Unaproved Draft IEEE Standard for VHDL Analog and Mixed Signal Extensions
+- content: Unaproved Draft IEEE Standard for VHDL Analog and Mixed Signal Extensions
     - Packages for Multiple Energy Domain Support (Superseded by IEEE 1076.1.1-2004)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4040101
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -45,11 +46,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2004'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: '35.060'
   text: Languages used in information technology

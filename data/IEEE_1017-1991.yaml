@@ -1,9 +1,9 @@
 ---
 id: IEEE1017-1991
 title:
-- type: main
-  content: IEEE Recommended Practice for Field Testing Electric Submersible Pump Cable
+- content: IEEE Recommended Practice for Field Testing Electric Submersible Pump Cable
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/182796
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,17 +65,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1992'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Maintenance
-- Power cables
-- Pumps
-- conductors
-- Cable ampacity
+- content: Maintenance
+- content: Power cables
+- content: Pumps
+- content: conductors
+- content: Cable ampacity
 editorialgroup:
   committee:
   - Petroleum &amp; Chemical Industry of the IEEE Industry Applications Society

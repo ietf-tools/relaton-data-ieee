@@ -1,10 +1,10 @@
 ---
 id: IEEE1619-2007
 title:
-- type: main
-  content: IEEE Standard for Cryptographic Protection of Data on Block-Oriented Storage
+- content: IEEE Standard for Cryptographic Protection of Data on Block-Oriented Storage
     Devices
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4493450
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -60,8 +61,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2008'
 relation:
@@ -75,20 +77,20 @@ relation:
     formattedref:
       content: IEEE 1619-2018
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Cryptography
-- Trademarks
-- Patents
-- Warranties
-- 1619-2007
-- data-at-rest security
-- encryption
-- key management
-- security
-- storage
-- XTS
+- content: IEEE Standards
+- content: Cryptography
+- content: Trademarks
+- content: Patents
+- content: Warranties
+- content: 1619-2007
+- content: data-at-rest security
+- content: encryption
+- content: key management
+- content: security
+- content: storage
+- content: XTS
 editorialgroup:
   committee:
   - Storage Systems of the IEEE Computer Society

@@ -1,10 +1,10 @@
 ---
 id: ISO/IEC/IEEE15939-2017Redline
 title:
-- type: main
-  content: Iso/iec/ieee international standard - systems and software engineering--measurement
+- content: Iso/iec/ieee international standard - systems and software engineering--measurement
     process
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8337132
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,32 +69,33 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2017'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ISO Standards
-- IEC Standards
-- Software engineering
-- Systems engineering and theory
-- Software measurement
-- '15939'
-- measure
-- measurement
-- information needs
-- data
-- process
-- base measure
-- derived measure
-- indicator
-- measurable concept
+- content: IEEE Standards
+- content: ISO Standards
+- content: IEC Standards
+- content: Software engineering
+- content: Systems engineering and theory
+- content: Software measurement
+- content: '15939'
+- content: measure
+- content: measurement
+- content: information needs
+- content: data
+- content: process
+- content: base measure
+- content: derived measure
+- content: indicator
+- content: measurable concept
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

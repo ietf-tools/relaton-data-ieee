@@ -1,9 +1,9 @@
 ---
 id: IEEE666-1991
 title:
-- type: main
-  content: IEEE Design Guide for Electric Power Service Systems for Generating Stations
+- content: IEEE Design Guide for Electric Power Service Systems for Generating Stations
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/239615
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1993'
 relation:
@@ -79,17 +81,17 @@ relation:
     formattedref:
       content: IEEE 666-2007
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Power supplies
-- Standards
-- cable
-- motor
-- relay
-- transformer
-- voltage
-- Short circuit
-- Auxiliary systems
+- content: Power supplies
+- content: Standards
+- content: cable
+- content: motor
+- content: relay
+- content: transformer
+- content: voltage
+- content: Short circuit
+- content: Auxiliary systems
 editorialgroup:
   committee:
   - Energy Development &amp; Power Generation of the IEEE Power and Energy Society

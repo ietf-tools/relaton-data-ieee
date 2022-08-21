@@ -1,14 +1,14 @@
 ---
 id: IEEE421.3-2016Redline
 title:
-- type: title-main
-  content: IEEE Standard for High-Potential Test Requirements for Excitation Systems
+- content: IEEE Standard for High-Potential Test Requirements for Excitation Systems
     for Synchronous Machines
   format: text/plain
-- type: main
-  content: IEEE Standard for High-Potential Test Requirements for Excitation Systems
+  type: title-main
+- content: IEEE Standard for High-Potential Test Requirements for Excitation Systems
     for Synchronous Machines - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7874061
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2017'
 relation:
@@ -86,18 +88,18 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Dielectrics
-- Testing
-- Voltage control
-- Excitation systems
-- Synchronous machines
-- dielectric testing
-- excitation systems
-- IEEE 421.3(TM)
-- test voltages
+- content: IEEE Standards
+- content: Dielectrics
+- content: Testing
+- content: Voltage control
+- content: Excitation systems
+- content: Synchronous machines
+- content: dielectric testing
+- content: excitation systems
+- content: IEEE 421.3(TM)
+- content: test voltages
 editorialgroup:
   committee:
   - Energy Development &amp; Power Generation of the IEEE Power and Energy Society

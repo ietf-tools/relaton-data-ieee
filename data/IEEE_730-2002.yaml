@@ -1,9 +1,9 @@
 ---
 id: IEEE730-2002
 title:
-- type: main
-  content: IEEE Standard for Software Quality Assurance Plans
+- content: IEEE Standard for Software Quality Assurance Plans
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1040117
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -59,8 +60,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2002'
 relation:
@@ -91,16 +93,16 @@ relation:
     formattedref:
       content: IEEE 730-2014
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Software quality
-- Patents
-- Software engineering
-- Warranties
-- assurance
-- quality
-- software quality
+- content: IEEE Standards
+- content: Software quality
+- content: Patents
+- content: Software engineering
+- content: Warranties
+- content: assurance
+- content: quality
+- content: software quality
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

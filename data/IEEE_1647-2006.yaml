@@ -1,9 +1,9 @@
 ---
 id: IEEE1647-2006
 title:
-- type: main
-  content: IEEE Standard for the Functional Verification Language 'e'
+- content: IEEE Standard for the Functional Verification Language 'e'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1707465
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,8 +70,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2006'
 relation:
@@ -84,23 +86,23 @@ relation:
     formattedref:
       content: IEEE 1647-2008
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Trademarks
-- Design automation
-- Patents
-- Warranties
-- ANSI
-- assertion
-- concurrent programming
-- constraint
-- dynamic verification
-- functional coverage
-- functional verification
-- simulation
-- temporal logic
-- test generation
+- content: IEEE Standards
+- content: Trademarks
+- content: Design automation
+- content: Patents
+- content: Warranties
+- content: ANSI
+- content: assertion
+- content: concurrent programming
+- content: constraint
+- content: dynamic verification
+- content: functional coverage
+- content: functional verification
+- content: simulation
+- content: temporal logic
+- content: test generation
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

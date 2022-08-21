@@ -1,9 +1,9 @@
 ---
 id: IEEEP1647/D-9-2011-02
 title:
-- type: main
-  content: IEEE Draft Standard for the Functional Verification Language e
+- content: IEEE Draft Standard for the Functional Verification Language e
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5724256
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,8 +70,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2011'
 relation:
@@ -101,21 +103,21 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Formal verification
-- Computer languages
-- assertion
-- concurrent programming
-- constraint
-- dynamic verification
-- functional coverage
-- functional verification
-- IEEE 1647
-- simulation
-- temporal logic
-- test generation
+- content: IEEE standards
+- content: Formal verification
+- content: Computer languages
+- content: assertion
+- content: concurrent programming
+- content: constraint
+- content: dynamic verification
+- content: functional coverage
+- content: functional verification
+- content: IEEE 1647
+- content: simulation
+- content: temporal logic
+- content: test generation
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

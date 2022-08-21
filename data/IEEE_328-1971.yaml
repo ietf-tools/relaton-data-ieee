@@ -1,10 +1,10 @@
 ---
 id: IEEE328-1971
 title:
-- type: main
-  content: IEEE Application Guide for Transient Recovery Voltage for AC High-Voltage
+- content: IEEE Application Guide for Transient Recovery Voltage for AC High-Voltage
     Circuit Breakers rated on a symmetrical current basis.
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9507394
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -52,11 +53,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1971'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: 01.040.11
   text: Health care technology (Vocabularies)

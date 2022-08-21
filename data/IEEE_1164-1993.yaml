@@ -1,9 +1,9 @@
 ---
 id: IEEE1164-1993
 title:
-- type: main
-  content: IEEE Standard Multivalue Logic System for VHDL Model Interoperability (Std_logic_1164)
+- content: IEEE Standard Multivalue Logic System for VHDL Model Interoperability (Std_logic_1164)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/257627
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -60,21 +61,22 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1993'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Design automation
-- Multivalued logic
-- Specification languages
-- Standards
-- standard logic
-- multivalue
-- logic system
-- VHDL model interoperability
-- Std_logic_1164
+- content: Design automation
+- content: Multivalued logic
+- content: Specification languages
+- content: Standards
+- content: standard logic
+- content: multivalue
+- content: logic system
+- content: VHDL model interoperability
+- content: Std_logic_1164
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

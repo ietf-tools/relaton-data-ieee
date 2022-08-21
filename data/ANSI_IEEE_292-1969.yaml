@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE292-1969
 title:
-- type: main
-  content: IEEE Specification Format for Single-Degree-of-Freedom Spring-Restrained
+- content: IEEE Specification Format for Single-Degree-of-Freedom Spring-Restrained
     Rate Gyros
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9404074
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,20 +64,21 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1969'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Mathematical model
-- Accelerometers
-- Terminology
-- Rotors
-- Reliability
-- Optical switches
-- Gyroscopes
+- content: IEEE Standards
+- content: Mathematical model
+- content: Accelerometers
+- content: Terminology
+- content: Rotors
+- content: Reliability
+- content: Optical switches
+- content: Gyroscopes
 editorialgroup:
   committee:
   - Gyro Accelerometer Panel of the IEEE Aerospace and Electronic Systems Society

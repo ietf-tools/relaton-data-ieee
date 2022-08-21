@@ -1,9 +1,9 @@
 ---
 id: IEEE2140.1-2020
 title:
-- type: main
-  content: IEEE Standard for General Requirements for Cryptocurrency Exchanges
+- content: IEEE Standard for General Requirements for Cryptocurrency Exchanges
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9248667
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,20 +67,21 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2020'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Blockchain
-- Cryptocurrency
-- cryptocurrency
-- exchange
-- IEEE 2140.1
-- self-discipline
-- transaction
+- content: IEEE Standards
+- content: Blockchain
+- content: Cryptocurrency
+- content: cryptocurrency
+- content: exchange
+- content: IEEE 2140.1
+- content: self-discipline
+- content: transaction
 editorialgroup:
   committee:
   - Blockchain Standards Committee of the IEEE Consumer Technology Society

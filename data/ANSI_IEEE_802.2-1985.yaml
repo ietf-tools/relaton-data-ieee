@@ -1,9 +1,9 @@
 ---
 id: ANSI/IEEE802.2-1985
 title:
-- type: main
-  content: IEEE Standard for Local Area Networks - Logical Link Control
+- content: IEEE Standard for Local Area Networks - Logical Link Control
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/30705
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -72,8 +73,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1984'
 relation:
@@ -87,11 +89,11 @@ relation:
     formattedref:
       content: ISO 8802.2
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Local area networks
-- Protocols
-- Standards
+- content: Local area networks
+- content: Protocols
+- content: Standards
 ics:
 - code: '35.110'
   text: Networking

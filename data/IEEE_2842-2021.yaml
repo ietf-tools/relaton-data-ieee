@@ -1,9 +1,9 @@
 ---
 id: IEEE2842-2021
 title:
-- type: main
-  content: IEEE Recommended Practice for Secure Multi-Party Computation
+- content: IEEE Recommended Practice for Secure Multi-Party Computation
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9604029
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,19 +66,20 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2021'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Security
-- Computation theory
-- IEEE 2842
-- MPC
-- secure multi-party computation
-- technical framework
+- content: IEEE Standards
+- content: Security
+- content: Computation theory
+- content: IEEE 2842
+- content: MPC
+- content: secure multi-party computation
+- content: technical framework
 editorialgroup:
   committee:
   - Standards Activities Board of the IEEE Computer Society

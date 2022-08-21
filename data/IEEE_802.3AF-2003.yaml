@@ -1,13 +1,13 @@
 ---
 id: IEEE802.3af-2003
 title:
-- type: main
-  content: 'IEEEE Standard for Information Technology - Telecommunications and Information
+- content: 'IEEEE Standard for Information Technology - Telecommunications and Information
     Exchange Between Systems - Local and Metropolitan Area Networks - Specific Requirements
     - Part 3: Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Access
     Method and Physical Layer Specifications - Data Terminal Equipment (DTE) Power
     Via Media Dependent Interface (MDI)'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1213877
   type: src
@@ -35,8 +35,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -70,8 +71,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2003'
 relation:
@@ -92,23 +94,23 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE 802.3 Standard
-- EPON
-- Physical layer
-- Protocols
-- Patents
-- 802.3af
-- Link Section
-- midspan
-- MPS
-- PD
-- PI
-- POE
-- power
-- Power over Ethernet
-- PSE
+- content: IEEE 802.3 Standard
+- content: EPON
+- content: Physical layer
+- content: Protocols
+- content: Patents
+- content: 802.3af
+- content: Link Section
+- content: midspan
+- content: MPS
+- content: PD
+- content: PI
+- content: POE
+- content: power
+- content: Power over Ethernet
+- content: PSE
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

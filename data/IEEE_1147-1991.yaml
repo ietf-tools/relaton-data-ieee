@@ -1,9 +1,9 @@
 ---
 id: IEEE1147-1991
 title:
-- type: main
-  content: IEEE Guide for the Rehabilitation of Hydroelectric Power Plants
+- content: IEEE Guide for the Rehabilitation of Hydroelectric Power Plants
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/159448
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1992'
 relation:
@@ -77,11 +79,11 @@ relation:
     formattedref:
       content: IEEE 1147-2005
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Hydroelectric power generation
-- rehabilitation
-- Hydroelectric power plant
+- content: Hydroelectric power generation
+- content: rehabilitation
+- content: Hydroelectric power plant
 editorialgroup:
   committee:
   - Energy Development &amp; Power Generation of the IEEE Power and Energy Society

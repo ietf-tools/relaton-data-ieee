@@ -1,11 +1,11 @@
 ---
 id: IEEEP1036/D-13a
 title:
-- type: main
-  content: IEEE Draft Guide for the Application of Shunt Power Capacitors Prepared
+- content: IEEE Draft Guide for the Application of Shunt Power Capacitors Prepared
     by the Shunt Capacitor Application Guide Working Group of the Capacitor Subcommittee
     of the IEEE Transmission & Distribution Committee
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4040017
   type: src
@@ -27,8 +27,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -59,11 +60,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2006'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: 31.060.70
   text: Power capacitors

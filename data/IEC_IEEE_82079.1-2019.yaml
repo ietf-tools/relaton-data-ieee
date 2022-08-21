@@ -1,10 +1,10 @@
 ---
 id: IEC/IEEE82079.1-2019
 title:
-- type: main
-  content: 'IEEE/IEC International Standard for Preparation of information for use
+- content: 'IEEE/IEC International Standard for Preparation of information for use
     (instructions for use) of products - Part 1: Principles and general requirements'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8715838
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -52,18 +53,19 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2019'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- Measurement
-- Manuals
+- content: IEEE Standards
+- content: IEC Standards
+- content: Measurement
+- content: Manuals
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

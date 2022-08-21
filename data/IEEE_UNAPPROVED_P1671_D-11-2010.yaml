@@ -1,10 +1,10 @@
 ---
 id: IEEEUnapprovedP1671/D-11-2010
 title:
-- type: main
-  content: IEEE Draft Standard for Automatic Test Markup Language (ATML) for Exchanging
+- content: IEEE Draft Standard for Automatic Test Markup Language (ATML) for Exchanging
     Automatic Test Equipment 4 and Test Information via XML
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5385195
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -54,27 +55,28 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2010'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- XML
-- Automatic test equipment
-- ATE description
-- ATE test results
-- Automatic test equipment (ATE)
-- Automatic Test Markup Language (ATML)
-- Automatic test system (ATS)
-- Interface test adapter (ITA)
-- Synthetic instrumentation (SI)
-- Test configuration
-- Unit under test (UUT) description
-- UUT maintenance
-- XML instance document
-- XML schema
+- content: IEEE standards
+- content: XML
+- content: Automatic test equipment
+- content: ATE description
+- content: ATE test results
+- content: Automatic test equipment (ATE)
+- content: Automatic Test Markup Language (ATML)
+- content: Automatic test system (ATS)
+- content: Interface test adapter (ITA)
+- content: Synthetic instrumentation (SI)
+- content: Test configuration
+- content: Unit under test (UUT) description
+- content: UUT maintenance
+- content: XML instance document
+- content: XML schema
 ics:
 - code: '19.080'
   text: Electrical and electronic testing

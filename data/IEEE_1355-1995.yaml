@@ -1,10 +1,10 @@
 ---
 id: IEEE1355-1995
 title:
-- type: main
-  content: IEEE Standard for Heterogeneous InterConnect (HIC), (Low-Cost, Low-Latency
+- content: IEEE Standard for Heterogeneous InterConnect (HIC), (Low-Cost, Low-Latency
     Scalable Serial Interconnect for Parallel System Construction)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/500300
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,32 +64,33 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1996'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Protocols
-- flow control
-- encoding schemes
-- OMI
-- HIC
-- packet routing
-- parallelism
-- point to point
-- serial scalable
-- scalable
-- protocols
-- routing fabric
-- serial links
-- serialization
-- silicon integration
-- switch chip
-- transaction layer
-- wormhole routing
-- heterogeneous
-- low latency
+- content: Protocols
+- content: flow control
+- content: encoding schemes
+- content: OMI
+- content: HIC
+- content: packet routing
+- content: parallelism
+- content: point to point
+- content: serial scalable
+- content: scalable
+- content: protocols
+- content: routing fabric
+- content: serial links
+- content: serialization
+- content: silicon integration
+- content: switch chip
+- content: transaction layer
+- content: wormhole routing
+- content: heterogeneous
+- content: low latency
 editorialgroup:
   committee:
   - Microprocessor Standards Committee of the IEEE Computer Society

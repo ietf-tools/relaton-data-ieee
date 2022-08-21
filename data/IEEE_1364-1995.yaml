@@ -1,10 +1,10 @@
 ---
 id: IEEE1364-1995
 title:
-- type: main
-  content: IEEE Standard Hardware Description Language Based on the Verilog(R) Hardware
+- content: IEEE Standard Hardware Description Language Based on the Verilog(R) Hardware
     Description Language
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/803556
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1996'
 relation:
@@ -80,21 +82,21 @@ relation:
     formattedref:
       content: IEEE 1364-2001
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Hardware design languages
-- computer
-- computer languages
-- electronic systems
-- digital systems
-- hardware design
-- hardware description language
-- HDL
-- programming language
-- language interface
-- PLI
-- verilog HDL
-- verilog PLI
+- content: Hardware design languages
+- content: computer
+- content: computer languages
+- content: electronic systems
+- content: digital systems
+- content: hardware design
+- content: hardware description language
+- content: HDL
+- content: programming language
+- content: language interface
+- content: PLI
+- content: verilog HDL
+- content: verilog PLI
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

@@ -1,10 +1,10 @@
 ---
 id: IEEE802.3x-1997
 title:
-- type: main
-  content: 'IEEE Standards for Local and Metropolitan Area Networks: Specification
+- content: 'IEEE Standards for Local and Metropolitan Area Networks: Specification
     for 802.3 Full Duplex Operation'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9768038
   type: src
@@ -28,8 +28,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,8 +62,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1997'
 relation:
@@ -83,25 +85,25 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Local area networks
-- Metropolitan area networks
-- EPON
-- IEEE 802.3 Standard
-- Transceivers
-- Physical layer
-- 100BASE-T2
-- Category 3
-- flow control
-- full duplex
-- MAC Control
-- management
-- Media Independent Interface
-- MII
-- pause
-- repeater
+- content: IEEE Standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: EPON
+- content: IEEE 802.3 Standard
+- content: Transceivers
+- content: Physical layer
+- content: 100BASE-T2
+- content: Category 3
+- content: flow control
+- content: full duplex
+- content: MAC Control
+- content: management
+- content: Media Independent Interface
+- content: MII
+- content: pause
+- content: repeater
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

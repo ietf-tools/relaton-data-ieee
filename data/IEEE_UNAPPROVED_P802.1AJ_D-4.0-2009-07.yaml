@@ -1,10 +1,10 @@
 ---
 id: IEEEUnapprovedP802.1aj/D-4.0-2009-07
 title:
-- type: main
-  content: 'IEEE Draft Standard for Local and Metropolitan Area Networks-Virtual Bridged
+- content: 'IEEE Draft Standard for Local and Metropolitan Area Networks-Virtual Bridged
     Local Area Networks - Amendment 08: Two-Port Media Access Control (MAC) Relay'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5174174
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -54,17 +55,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Virtual Bridged Local Area Networks
-- Virtual LANs
-- VLANs
-- Provider Bridged Networks
-- MAC Relay
+- content: Virtual Bridged Local Area Networks
+- content: Virtual LANs
+- content: VLANs
+- content: Provider Bridged Networks
+- content: MAC Relay
 ics:
 - code: '35.110'
   text: Networking

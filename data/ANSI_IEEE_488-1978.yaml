@@ -1,9 +1,9 @@
 ---
 id: ANSI/IEEE488-1978
 title:
-- type: main
-  content: IEEE Standard Digital Interface for Programmable Instrumentation
+- content: IEEE Standard Digital Interface for Programmable Instrumentation
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7425098
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -74,12 +75,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - American National Standards Institute
-    abbreviation: ANSI
+    - content: American National Standards Institute
+    abbreviation:
+      content: ANSI
     url: https://www.ansi.org
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1978'
 relation:
@@ -93,9 +96,9 @@ relation:
     formattedref:
       content: ANSI/IEEE 488.1-1987
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Digital systems
-- Programming
-- Computer programs
+- content: IEEE Standards
+- content: Digital systems
+- content: Programming
+- content: Computer programs

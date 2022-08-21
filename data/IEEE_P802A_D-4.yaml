@@ -1,11 +1,11 @@
 ---
 id: IEEEP802a/D-4
 title:
-- type: main
-  content: 'IEEE Draft Standard for Local and Metropolitan Area Networks Overview
+- content: 'IEEE Draft Standard for Local and Metropolitan Area Networks Overview
     and Architecture Amendment 1: Ethertypes for Prototype and Vendorspecific Protocol
     Development (Amendment to IEEE Std 802-2002) (Replaced by IEEE Std802A-2003)'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4039966
   type: src
@@ -27,8 +27,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -46,11 +47,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2003'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: '35.110'
   text: Networking

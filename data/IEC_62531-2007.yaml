@@ -1,10 +1,10 @@
 ---
 id: IEC62531-2007
 title:
-- type: main
-  content: 'IEC 62531 Ed. 1 (2007-11) (IEEE Std 1850-2005): Standard for Property
+- content: 'IEC 62531 Ed. 1 (2007-11) (IEEE Std 1850-2005): Standard for Property
     Specification Language (PSL)'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4408637
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -72,8 +73,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2007'
 relation:
@@ -87,25 +89,25 @@ relation:
     formattedref:
       content: IEC 62531-2012
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEC Standards
-- IEC
-- Syntactics
-- IEEE Standards
-- Specification languages
-- Trademarks
-- ABV
-- assertion
-- assertion-based verification
-- assumption
-- cover
-- model checking
-- property
-- PSL
-- specification
-- temporal logic
-- verification
+- content: IEC Standards
+- content: IEC
+- content: Syntactics
+- content: IEEE Standards
+- content: Specification languages
+- content: Trademarks
+- content: ABV
+- content: assertion
+- content: assertion-based verification
+- content: assumption
+- content: cover
+- content: model checking
+- content: property
+- content: PSL
+- content: specification
+- content: temporal logic
+- content: verification
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

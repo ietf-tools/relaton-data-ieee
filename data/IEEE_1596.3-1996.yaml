@@ -1,10 +1,10 @@
 ---
 id: IEEE1596.3-1996
 title:
-- type: main
-  content: IEEE Standard for Low-Voltage Differential Signals (LVDS) for Scalable
+- content: IEEE Standard for Low-Voltage Differential Signals (LVDS) for Scalable
     Coherent Interface (SCI)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/503756
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -72,21 +73,22 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1996'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Data buses
-- backplane
-- bus
-- cable
-- differential
-- low power
-- point to point
-- scalable
-- signal
+- content: Data buses
+- content: backplane
+- content: bus
+- content: cable
+- content: differential
+- content: low power
+- content: point to point
+- content: scalable
+- content: signal
 editorialgroup:
   committee:
   - Microprocessor Standards Committee of the IEEE Computer Society

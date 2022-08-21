@@ -1,10 +1,10 @@
 ---
 id: ISO/IEC/IEEECDP23026-2022-01
 title:
-- type: main
-  content: ISO/IEC/IEEE International Standard - Systems and Software Engineering
+- content: ISO/IEC/IEEE International Standard - Systems and Software Engineering
     -- Content Management for Product Life Cycle, User, and Service Management Documentation
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9729144
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -50,13 +51,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2022'
 relation:
 - type: updates
@@ -76,15 +78,15 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ISO Standards
-- IEC Standards
-- Content management
-- Software engineering
-- Documentation
-- Product lifecycle management
+- content: IEEE Standards
+- content: ISO Standards
+- content: IEC Standards
+- content: Content management
+- content: Software engineering
+- content: Documentation
+- content: Product lifecycle management
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

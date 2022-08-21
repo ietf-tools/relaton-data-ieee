@@ -1,9 +1,9 @@
 ---
 id: IEEE1100-1999
 title:
-- type: main
-  content: IEEE Recommended Practice for Powering and Grounding Electronic Equipment
+- content: IEEE Recommended Practice for Powering and Grounding Electronic Equipment
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/798784
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -70,8 +71,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1999'
 relation:
@@ -102,14 +104,14 @@ relation:
     formattedref:
       content: IEEE 1100-2005
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- commercial applications
-- electrical power
-- grounding
-- industrial applications
-- sen-sitive equipment
+- content: IEEE standards
+- content: commercial applications
+- content: electrical power
+- content: grounding
+- content: industrial applications
+- content: sen-sitive equipment
 editorialgroup:
   committee:
   - Power Systems Engineering of the IEEE Industry Applications Society

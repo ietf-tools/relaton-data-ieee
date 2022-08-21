@@ -1,16 +1,16 @@
 ---
 id: ANSIC63.5-2017Redline
 title:
-- type: title-main
-  content: American National Standard for Electromagnetic Compatibility--Radiated
+- content: American National Standard for Electromagnetic Compatibility--Radiated
     Emission Measurements in Electromagnetic Interference (EMI) Control--Calibration
     and Qualification of Antennas (9 kHz to 40 GHz)
   format: text/plain
-- type: main
-  content: American National Standard for Electromagnetic Compatibility--Radiated
+  type: title-main
+- content: American National Standard for Electromagnetic Compatibility--Radiated
     Emission Measurements in Electromagnetic Interference (EMI) Control--Calibration
     and Qualification of Antennas (9 kHz to 40 GHz) - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8337135
   type: src
@@ -36,8 +36,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -71,12 +72,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - American National Standards Institute
-    abbreviation: ANSI
+    - content: American National Standards Institute
+    abbreviation:
+      content: ANSI
     url: https://www.ansi.org
   from: '2018'
 relation:
@@ -97,26 +100,26 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ANSI Standards
-- Emissions
-- Dipole antennas
-- Antenna measurements
-- Transmitting antennas
-- Electromagnetic interference
-- Antenna arrays
-- Electromangetic compatibility
-- ANSI C63.5
-- antenna factors
-- equivalent capacitance substitution
-- linearly polarized antennas
-- near-free space
-- reference antenna method
-- standard antenna method
-- standard site method
-- standard transmit loop method
+- content: IEEE Standards
+- content: ANSI Standards
+- content: Emissions
+- content: Dipole antennas
+- content: Antenna measurements
+- content: Transmitting antennas
+- content: Electromagnetic interference
+- content: Antenna arrays
+- content: Electromangetic compatibility
+- content: ANSI C63.5
+- content: antenna factors
+- content: equivalent capacitance substitution
+- content: linearly polarized antennas
+- content: near-free space
+- content: reference antenna method
+- content: standard antenna method
+- content: standard site method
+- content: standard transmit loop method
 editorialgroup:
   committee:
   - IEEE Electromagnetic Compatibility Society

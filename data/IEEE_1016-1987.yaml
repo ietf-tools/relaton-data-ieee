@@ -1,9 +1,9 @@
 ---
 id: IEEE1016-1987
 title:
-- type: main
-  content: IEEE Recommended Practice for Software Design Descriptions
+- content: IEEE Recommended Practice for Software Design Descriptions
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/565312
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1987'
 relation:
@@ -80,17 +82,17 @@ relation:
     formattedref:
       content: IEEE 1016-1998
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Software design
-- Organizations
-- Jacobian matrices
-- IEEE Standards
-- Lifting equipment
-- software
-- design
-- descriptions
-- Software development
+- content: Software design
+- content: Organizations
+- content: Jacobian matrices
+- content: IEEE Standards
+- content: Lifting equipment
+- content: software
+- content: design
+- content: descriptions
+- content: Software development
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

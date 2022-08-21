@@ -1,9 +1,9 @@
 ---
 id: IEEEC37.37a-1992
 title:
-- type: main
-  content: IEEE Loading Guide for AC High-Voltage Air Switches Under Emergency Conditions
+- content: IEEE Loading Guide for AC High-Voltage Air Switches Under Emergency Conditions
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8684580
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1992'
 relation:
@@ -85,10 +87,10 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- ac high-voltage air switches
-- Emergency conditions
+- content: ac high-voltage air switches
+- content: Emergency conditions
 editorialgroup:
   committee:
   - Switchgear of the IEEE Power and Energy Society

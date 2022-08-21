@@ -1,11 +1,11 @@
 ---
 id: IEEEP802.16c/D-4
 title:
-- type: main
-  content: 'Draft Amendment to IEEE Standard for Local and Metropolitan Area Networks
+- content: 'Draft Amendment to IEEE Standard for Local and Metropolitan Area Networks
     Part 16: Air Interface for Fixed Broadband Wireless Access Systems Detailed System
     Profiles for 10-66 GHz Incorporated Into 802-16-2004.'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4039730
   type: src
@@ -27,8 +27,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -46,11 +47,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2002'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: '35.110'
   text: Networking

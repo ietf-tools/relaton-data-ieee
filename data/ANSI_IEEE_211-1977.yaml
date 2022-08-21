@@ -1,9 +1,9 @@
 ---
 id: ANSI/IEEE211-1977
 title:
-- type: main
-  content: IEEE Standard Definitions of Terms for Radio Wave Propagation
+- content: IEEE Standard Definitions of Terms for Radio Wave Propagation
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/21008
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,8 +62,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1977'
 relation:
@@ -76,16 +78,16 @@ relation:
     formattedref:
       content: IEEE 211-1990
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Terminology
-- Radio propagation
-- IEEE standards
-- radio
-- wave
-- propagation
-- definition
-- terms
+- content: Terminology
+- content: Radio propagation
+- content: IEEE standards
+- content: radio
+- content: wave
+- content: propagation
+- content: definition
+- content: terms
 editorialgroup:
   committee:
   - Antennas and Propagation Standards Committee of the IEEE Antennas and Propagation

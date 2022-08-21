@@ -1,11 +1,11 @@
 ---
 id: IEEE802.1G-1998
 title:
-- type: main
-  content: 'ISO/IEC/IEEE International Standard - Information Technology -- Telecommunications
+- content: 'ISO/IEC/IEEE International Standard - Information Technology -- Telecommunications
     and information exchange between systems -- Local and metropolitan area networks
     -- Common specifications -- Part 5: Remote Media Access Control (MAC) bridging'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4140825
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,17 +67,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1998'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- MAC
-- Sublayer
-- Interconnection
-- geographically
-- LAN
+- content: MAC
+- content: Sublayer
+- content: Interconnection
+- content: geographically
+- content: LAN
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

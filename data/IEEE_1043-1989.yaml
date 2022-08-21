@@ -1,10 +1,10 @@
 ---
 id: IEEE1043-1989
 title:
-- type: main
-  content: IEEE Recommended Practice for Voltage-Endurance Testing of Form-Wound Bars
+- content: IEEE Recommended Practice for Voltage-Endurance Testing of Form-Wound Bars
     and Coils
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/89796
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -60,8 +61,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1989'
 relation:
@@ -75,14 +77,14 @@ relation:
     formattedref:
       content: IEEE 1043-1996
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Electric machines
-- Machine windings
-- Standards
-- coils
-- bars
-- voltage-endurance testing
+- content: Electric machines
+- content: Machine windings
+- content: Standards
+- content: coils
+- content: bars
+- content: voltage-endurance testing
 editorialgroup:
   committee:
   - Voltage Endurance of the IEEE Dielectrics and Electrical Insulation Society

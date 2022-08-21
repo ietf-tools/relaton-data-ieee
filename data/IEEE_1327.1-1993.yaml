@@ -1,10 +1,10 @@
 ---
 id: IEEE1327.1-1993
 title:
-- type: main
-  content: IEEE Standard for Information Technology--X.400 Based Electronic Messaging
+- content: IEEE Standard for Information Technology--X.400 Based Electronic Messaging
     C Language Interfaces--Binding for Application Program Interfaces (API)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/286092
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,23 +64,24 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1993'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Consumer electronics
-- C languages
-- Information technology
-- Patents
-- Electronic messaging
-- X.400
-- Language binding
-- C language
-- Application program interface
-- API
+- content: IEEE Standards
+- content: Consumer electronics
+- content: C languages
+- content: Information technology
+- content: Patents
+- content: Electronic messaging
+- content: X.400
+- content: Language binding
+- content: C language
+- content: Application program interface
+- content: API
 editorialgroup:
   committee:
   - Portable Applications of the IEEE Computer Society

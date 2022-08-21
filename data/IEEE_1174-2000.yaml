@@ -1,9 +1,9 @@
 ---
 id: IEEE1174-2000
 title:
-- type: main
-  content: IEEE Standard Serial Interface for Programmable Instrumentation
+- content: IEEE Standard Serial Interface for Programmable Instrumentation
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/903083
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -60,24 +61,25 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2001'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- controller
-- data communication equipment (DCE)
-- data terminal equipment (DTE)
-- device
-- IEEE 488.1
-- IEEE 488.2
-- interchange circuit
-- null modem cable
-- observation
-- permission
-- recommendation
-- rule
+- content: controller
+- content: data communication equipment (DCE)
+- content: data terminal equipment (DTE)
+- content: device
+- content: IEEE 488.1
+- content: IEEE 488.2
+- content: interchange circuit
+- content: null modem cable
+- content: observation
+- content: permission
+- content: recommendation
+- content: rule
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

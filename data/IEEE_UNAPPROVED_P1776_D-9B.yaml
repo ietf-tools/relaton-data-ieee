@@ -1,11 +1,11 @@
 ---
 id: IEEEUnapprovedP1776/D-9b
 title:
-- type: main
-  content: IEEE Draft Recommended Practice for Thermal Evaluation of Unsealed Or Sealed
+- content: IEEE Draft Recommended Practice for Thermal Evaluation of Unsealed Or Sealed
     Insulation Systems for AC Electric Machinery Employing Form-Wound Pre-Insulated
     Stator Coils for Machines Rated 15000 V and Below
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4489721
   type: src
@@ -27,8 +27,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -57,11 +58,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2008'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: 29.080.30
   text: Insulation systems

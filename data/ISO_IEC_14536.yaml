@@ -1,10 +1,10 @@
 ---
 id: ISO/IEC14536
 title:
-- type: main
-  content: ISO/IEC 14536:1995 [ANSI/IEEE Std 896.5-1995] Information technology -
+- content: ISO/IEC 14536:1995 [ANSI/IEEE Std 896.5-1995] Information technology -
     Microprocessor systems - Futurebus+(R), Profile M (Military)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4140852
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -70,28 +71,29 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1995'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEC Standards
-- ISO Standards
-- Information technology
-- Microprocessors
-- Computer security
-- bus architecture
-- error logging
-- fault logging
-- futurebus+
-- live insertion
-- military profiles
-- multiprocessor
-- node management
-- open architecture
-- serial bus
-- software debug
+- content: IEC Standards
+- content: ISO Standards
+- content: Information technology
+- content: Microprocessors
+- content: Computer security
+- content: bus architecture
+- content: error logging
+- content: fault logging
+- content: futurebus+
+- content: live insertion
+- content: military profiles
+- content: multiprocessor
+- content: node management
+- content: open architecture
+- content: serial bus
+- content: software debug
 editorialgroup:
   committee:
   - Gyro Accelerometer Panel of the IEEE Aerospace and Electronic Systems Society

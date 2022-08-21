@@ -1,12 +1,12 @@
 ---
 id: IEEEP802.15.4a/D-5
 title:
-- type: main
-  content: 'IEEE Draft Amendment to IEEE Standard for Information Technology-Telecommunications
+- content: 'IEEE Draft Amendment to IEEE Standard for Information Technology-Telecommunications
     and Information Exchange Between Systems-Part 15.4:Wireless Medium Access Control
     (MAC) and Physical Layer (PHY) Specifications for Low-Rate Wireless Personal Area
     Networks (LR-WPANS): Amendment to Add Alternate Phy (Amendment of IEEE Std 802.15.4)'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4040999
   type: src
@@ -28,8 +28,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -47,11 +48,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2006'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: '35.110'
   text: Networking

@@ -1,9 +1,9 @@
 ---
 id: ANSI/IEEEC37.18-1979
 title:
-- type: main
-  content: IEEE Standard Field Discharge Circuit Breakers for Rotating Electric Machinery
+- content: IEEE Standard Field Discharge Circuit Breakers for Rotating Electric Machinery
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/573175
   type: src
@@ -29,8 +29,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -48,11 +49,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1980'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 editorialgroup:
   committee:
   - Switchgear of the IEEE Power and Energy Society

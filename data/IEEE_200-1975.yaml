@@ -1,10 +1,10 @@
 ---
 id: IEEE200-1975
 title:
-- type: main
-  content: IEEE Standard Reference Designations for Electrical and Electronics Parts
+- content: IEEE Standard Reference Designations for Electrical and Electronics Parts
     and Equipments
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4483758
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -95,22 +96,23 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1975'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Consumer electronics
-- US Department of Defense
-- Industries
-- Military aircraft
-- reference
-- designations
-- parts
-- equipment
-- Symbols
+- content: IEEE Standards
+- content: Consumer electronics
+- content: US Department of Defense
+- content: Industries
+- content: Military aircraft
+- content: reference
+- content: designations
+- content: parts
+- content: equipment
+- content: Symbols
 editorialgroup:
   committee:
   - IEEE-SASB

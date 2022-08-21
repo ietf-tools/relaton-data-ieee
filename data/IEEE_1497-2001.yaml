@@ -1,10 +1,10 @@
 ---
 id: IEEE1497-2001
 title:
-- type: main
-  content: IEEE Standard for Standard Delay Format (SDF) for the Electronic Design
+- content: IEEE Standard for Standard Delay Format (SDF) for the Electronic Design
     Process
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/972829
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,24 +67,25 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2001'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Timing
-- computer languages
-- delay backannotation
-- digital systems
-- electronic systems
-- hardware
-- hardware design
-- SDF
-- timing
-- timing analysis
-- timing back annotation
-- timing verification
+- content: Timing
+- content: computer languages
+- content: delay backannotation
+- content: digital systems
+- content: electronic systems
+- content: hardware
+- content: hardware design
+- content: SDF
+- content: timing
+- content: timing analysis
+- content: timing back annotation
+- content: timing verification
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

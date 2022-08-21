@@ -1,10 +1,10 @@
 ---
 id: IEEE1351-1994
 title:
-- type: main
-  content: IEEE Standard for Information Technology--ACSE and Presentation Layer Services--Application
+- content: IEEE Standard for Information Technology--ACSE and Presentation Layer Services--Application
     Program Interface (API) [C Language Independent]
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/469125
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,25 +64,26 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1994'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- ISO
-- Open systems
-- Software portability
-- ACSE
-- API
-- application layer
-- application portability
-- language independent
-- open systems
-- open system interconnection
-- OSI
-- presentation layer
+- content: IEEE standards
+- content: ISO
+- content: Open systems
+- content: Software portability
+- content: ACSE
+- content: API
+- content: application layer
+- content: application portability
+- content: language independent
+- content: open systems
+- content: open system interconnection
+- content: OSI
+- content: presentation layer
 editorialgroup:
   committee:
   - Portable Applications of the IEEE Computer Society

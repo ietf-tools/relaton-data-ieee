@@ -1,10 +1,10 @@
 ---
 id: IEC/IEEE60980.344-2020
 title:
-- type: main
-  content: IEEE/IEC International Standard - Nuclear facilities - Equipment important
+- content: IEEE/IEC International Standard - Nuclear facilities - Equipment important
     to safety - Seismic qualification
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9231295
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -52,20 +53,21 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2020'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- Nuclear power generation
-- Seismic measurements
-- Safety
-- Power system reliability
+- content: IEEE Standards
+- content: IEC Standards
+- content: Nuclear power generation
+- content: Seismic measurements
+- content: Safety
+- content: Power system reliability
 editorialgroup:
   committee:
   - Nuclear Power Engineering of the IEEE Power and Energy Society

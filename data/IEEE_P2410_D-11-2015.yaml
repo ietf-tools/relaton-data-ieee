@@ -1,9 +1,9 @@
 ---
 id: IEEEP2410/D-11-2015
 title:
-- type: main
-  content: IEEE Standard for Biometric Open Protocol
+- content: IEEE Standard for Biometric Open Protocol
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7243264
   type: src
@@ -29,8 +29,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -75,33 +76,34 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2015'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Biometrics
-- Biomedical measurements
-- Medical devices
-- Site administration
-- admin console
-- application
-- BOPS admin
-- BOPS cluster
-- BOPS server
-- BOPS IDS
-- client device IDS
-- Jena Rules
-- IDS cluster
-- IEEE 2410(TM)
-- liveness
-- original site admin
-- site admin
-- trusted adjudicated data
-- user
-- user device
+- content: IEEE Standards
+- content: Biometrics
+- content: Biomedical measurements
+- content: Medical devices
+- content: Site administration
+- content: admin console
+- content: application
+- content: BOPS admin
+- content: BOPS cluster
+- content: BOPS server
+- content: BOPS IDS
+- content: client device IDS
+- content: Jena Rules
+- content: IDS cluster
+- content: IEEE 2410(TM)
+- content: liveness
+- content: original site admin
+- content: site admin
+- content: trusted adjudicated data
+- content: user
+- content: user device
 editorialgroup:
   committee:
   - Standards Development Board of the IEEE Communications Society

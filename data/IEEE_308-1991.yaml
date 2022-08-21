@@ -1,10 +1,10 @@
 ---
 id: IEEE308-1991
 title:
-- type: main
-  content: IEEE Standard Criteria for Class 1E Power Systems for Nuclear Power Generating
+- content: IEEE Standard Criteria for Class 1E Power Systems for Nuclear Power Generating
     Stations
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/182803
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,8 +67,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1992'
 relation:
@@ -98,20 +100,20 @@ relation:
     formattedref:
       content: IEEE 308-2001
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Fission reactor safety
-- Nuclear power generation
-- Power supplies
-- Power systems
-- systems
-- nuclear
-- safety
-- station
-- design
-- Nuclear safety
-- Nuclear power station design
-- Class 1E power systems
+- content: Fission reactor safety
+- content: Nuclear power generation
+- content: Power supplies
+- content: Power systems
+- content: systems
+- content: nuclear
+- content: safety
+- content: station
+- content: design
+- content: Nuclear safety
+- content: Nuclear power station design
+- content: Class 1E power systems
 editorialgroup:
   committee:
   - Nuclear Power Engineering of the IEEE Power and Energy Society

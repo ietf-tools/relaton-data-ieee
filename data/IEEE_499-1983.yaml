@@ -1,10 +1,10 @@
 ---
 id: IEEE499-1983
 title:
-- type: main
-  content: IEEE Recommended Practices for Cement Plant Electric Drives and Related
+- content: IEEE Recommended Practices for Cement Plant Electric Drives and Related
     Electric Equipment
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8684561
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,8 +68,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1983'
 relation:
@@ -92,12 +94,12 @@ relation:
     formattedref:
       content: ANSI/IEEE 499-1989
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- cement
-- plant
-- electric
-- drives
+- content: cement
+- content: plant
+- content: electric
+- content: drives
 editorialgroup:
   committee:
   - Cement Industry of the IEEE Industry Applications Society

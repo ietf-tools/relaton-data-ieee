@@ -1,10 +1,10 @@
 ---
 id: IEEEUnapprovedP1662/D-2.0-2008
 title:
-- type: main
-  content: Guide for the The Design and Application of Power Electronics in Electrical
+- content: Guide for the The Design and Application of Power Electronics in Electrical
     Power Systems on Ships
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4588310
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -57,11 +58,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2008'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: 47.020.60
   text: Electrical equipment for ships or marine structures

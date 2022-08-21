@@ -1,14 +1,14 @@
 ---
 id: IEEE11073.20601-2019Redline
 title:
-- type: title-main
-  content: 'IEEE Health informatics--Personal health device communication - Part 20601:
+- content: 'IEEE Health informatics--Personal health device communication - Part 20601:
     Application profile--Optimized Exchange Protocol'
   format: text/plain
-- type: main
-  content: 'IEEE Health informatics--Personal health device communication - Part 20601:
+  type: title-main
+- content: 'IEEE Health informatics--Personal health device communication - Part 20601:
     Application profile--Optimized Exchange Protocol - Redline'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9003627
   type: src
@@ -36,8 +36,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,8 +70,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2019'
 relation:
@@ -91,17 +93,17 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Bioinformatics
-- Medical devices
-- Information exchange
-- Protocols
-- Communications technology
-- IEEE 11073-20601
-- medical device communication
-- personal health devices
+- content: IEEE Standards
+- content: Bioinformatics
+- content: Medical devices
+- content: Information exchange
+- content: Protocols
+- content: Communications technology
+- content: IEEE 11073-20601
+- content: medical device communication
+- content: personal health devices
 editorialgroup:
   committee:
   - IEEE 11073 Standards Committee of the IEEE Engineering in Medicine and Biology

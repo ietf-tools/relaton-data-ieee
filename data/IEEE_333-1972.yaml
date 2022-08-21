@@ -1,10 +1,10 @@
 ---
 id: IEEE333-1972
 title:
-- type: main
-  content: IEEE Standard for Electrical Installation of Packaging Machinery and Associated
+- content: IEEE Standard for Electrical Installation of Packaging Machinery and Associated
     Equipment
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7407581
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -72,8 +73,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1972'
 relation:
@@ -87,10 +89,10 @@ relation:
     formattedref:
       content: ANSI/IEEE 333-1980
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Installations
-- Machinery
-- Packaging machines
-- Chemicals
+- content: IEEE Standards
+- content: Installations
+- content: Machinery
+- content: Packaging machines
+- content: Chemicals

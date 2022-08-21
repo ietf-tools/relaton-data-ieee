@@ -1,12 +1,12 @@
 ---
 id: IEEE802.3-1998
 title:
-- type: main
-  content: 'IEEE Standards for Information technology—Telecommunications and information
+- content: 'IEEE Standards for Information technology—Telecommunications and information
     exchange between systems—Local and metropolitan area networks-Specific requirements-Part
     3: Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Access Method
     and Physical Layer Specifications'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/720570
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -74,8 +75,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1998'
 relation:
@@ -106,13 +108,13 @@ relation:
     formattedref:
       content: IEEE 802.3-2000
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- data processing; Ethernet; information interchange
-- local area networks; local area networks
-- management; mode of data transmission; network interconnection; models; repeater;
-  type field
+- content: IEEE standards
+- content: data processing; Ethernet; information interchange
+- content: local area networks; local area networks
+- content: management; mode of data transmission; network interconnection; models;
+    repeater; type field
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

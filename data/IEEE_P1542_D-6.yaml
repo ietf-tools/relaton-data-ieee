@@ -1,10 +1,10 @@
 ---
 id: IEEEP1542/D-6
 title:
-- type: main
-  content: Unapproved IEEE Draft Guide for Installation, Maintenance and Operation
+- content: Unapproved IEEE Draft Guide for Installation, Maintenance and Operation
     of Irrigation Equipment Located Near or Under Power Lines
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4040333
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -57,11 +58,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2006'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: 65.060.35
   text: Irrigation and drainage equipment

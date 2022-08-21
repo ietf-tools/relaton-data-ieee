@@ -1,11 +1,11 @@
 ---
 id: ISO/IEC/IEEE8802.1X-2013
 title:
-- type: main
-  content: 'IEEE/ISO/IEC Information technology -- Telecommunications and information
+- content: 'IEEE/ISO/IEC Information technology -- Telecommunications and information
     exchange between systems -- Local and metropolitan area networks -- Part 1X: Port-based
     network access control'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6679204
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,13 +68,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2013'
 relation:
 - type: adoptedFrom
@@ -86,33 +88,33 @@ relation:
     formattedref:
       content: IEEE 802.1X-2010
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- ISO standards
-- IEC standards
-- Information exchange
-- Local area networks
-- Metropolitan area networks
-- Network security
-- Authentication
-- Access controls
-- access control
-- authentication
-- authorization
-- controlled port
-- key agreement
-- LANs
-- local area networks
-- MAC security
-- MAC Service
-- MANs
-- metropolitan area networks
-- port-based network access control
-- secure association
-- security
-- service access point
-- uncontrolled port
+- content: IEEE standards
+- content: ISO standards
+- content: IEC standards
+- content: Information exchange
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Network security
+- content: Authentication
+- content: Access controls
+- content: access control
+- content: authentication
+- content: authorization
+- content: controlled port
+- content: key agreement
+- content: LANs
+- content: local area networks
+- content: MAC security
+- content: MAC Service
+- content: MANs
+- content: metropolitan area networks
+- content: port-based network access control
+- content: secure association
+- content: security
+- content: service access point
+- content: uncontrolled port
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

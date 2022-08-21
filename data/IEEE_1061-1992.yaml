@@ -1,9 +1,9 @@
 ---
 id: IEEE1061-1992
 title:
-- type: main
-  content: IEEE Standard for a Software Quality Metrics Methodology
+- content: IEEE Standard for a Software Quality Metrics Methodology
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/237006
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1993'
 relation:
@@ -77,16 +79,16 @@ relation:
     formattedref:
       content: IEEE 1061-1998
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Software metrics
-- Software quality
-- Standards
-- direct metric
-- factor
-- metrics framework
-- software quality metric
-- subfactor
+- content: Software metrics
+- content: Software quality
+- content: Standards
+- content: direct metric
+- content: factor
+- content: metrics framework
+- content: software quality metric
+- content: subfactor
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

@@ -1,9 +1,9 @@
 ---
 id: IEEE1219-1998
 title:
-- type: main
-  content: IEEE Standard for Software Maintenance
+- content: IEEE Standard for Software Maintenance
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/720567
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -59,8 +60,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1998'
 relation:
@@ -91,13 +93,13 @@ relation:
     formattedref:
       content: ISO/IEC 14764-2006
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Software maintenance
-- life cycle
-- maintenance
-- software
-- software maintenance
+- content: Software maintenance
+- content: life cycle
+- content: maintenance
+- content: software
+- content: software maintenance
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

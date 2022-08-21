@@ -1,11 +1,11 @@
 ---
 id: IEEE802.9c-1995
 title:
-- type: main
-  content: 'IEEE Standard for Local and Metropolitan Area Networks: Supplement to
+- content: 'IEEE Standard for Local and Metropolitan Area Networks: Supplement to
     Integrated Services (IS) LAN Interface at the Medium Access Control (MAC) and
     Physical (PHY) Layers: Managed Object Conformance Statement (MOCS) Proforma'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/490348
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,29 +67,30 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1996'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- hybrid multiplexer
-- HMUX
-- implementation under test
-- integrated service
-- IUT
-- IS
-- ISDN
-- LAN
-- MAN
-- system parameters
-- system under test
-- SUT
-- physical signalling (PS) sublayer
-- protocol data units
-- protocol capabilities
-- physical medium dependent (PMD)
+- content: IEEE standards
+- content: hybrid multiplexer
+- content: HMUX
+- content: implementation under test
+- content: integrated service
+- content: IUT
+- content: IS
+- content: ISDN
+- content: LAN
+- content: MAN
+- content: system parameters
+- content: system under test
+- content: SUT
+- content: physical signalling (PS) sublayer
+- content: protocol data units
+- content: protocol capabilities
+- content: physical medium dependent (PMD)
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

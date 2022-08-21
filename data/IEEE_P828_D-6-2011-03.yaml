@@ -1,9 +1,9 @@
 ---
 id: IEEEP828/D-6-2011-03
 title:
-- type: main
-  content: IEEE Draft Standard for Software and Software Systems Configuration Management
+- content: IEEE Draft Standard for Software and Software Systems Configuration Management
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5750121
   type: src
@@ -29,8 +29,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,24 +68,25 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2011'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Software development
-- Software architecture
-- Systems engineering and theory
-- change control
-- configuration accounting
-- configuration audit
-- configuration item
-- release engineering
-- software builds
-- software configuration management
-- system configuration management
+- content: IEEE standards
+- content: Software development
+- content: Software architecture
+- content: Systems engineering and theory
+- content: change control
+- content: configuration accounting
+- content: configuration audit
+- content: configuration item
+- content: release engineering
+- content: software builds
+- content: software configuration management
+- content: system configuration management
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

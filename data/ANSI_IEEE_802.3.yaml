@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE802.3
 title:
-- type: main
-  content: 'IEEE Standards for Local Area Networks: Supplements to Carrier Sense Multiple
+- content: 'IEEE Standards for Local Area Networks: Supplements to Carrier Sense Multiple
     Access with Collision Detection (CSMA/CD) Access Method and Physical Layer Specifications'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/26520
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1987'
 relation:
@@ -87,11 +89,11 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Local area networks
-- Multiaccess communication
-- Standards
+- content: Local area networks
+- content: Multiaccess communication
+- content: Standards
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

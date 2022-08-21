@@ -1,9 +1,9 @@
 ---
 id: IEEEUnapprovedP1028/D-9-2008
 title:
-- type: main
-  content: IEEE Draft Standard for Software Reviews and Audits
+- content: IEEE Draft Standard for Software Reviews and Audits
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4497177
   type: src
@@ -25,8 +25,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -56,19 +57,20 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2008'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Software reviews
-- Inspection
-- Standards
-- Software
-- Permission
-- IEEE activities
+- content: IEEE standards
+- content: Software reviews
+- content: Inspection
+- content: Standards
+- content: Software
+- content: Permission
+- content: IEEE activities
 ics:
 - code: '35.080'
   text: Software

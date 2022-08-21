@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE577-1976
 title:
-- type: main
-  content: IEEE Standard Requirements for Reliability Analysis in the Design and Operation
+- content: IEEE Standard Requirements for Reliability Analysis in the Design and Operation
     of Safety Systems for Nuclear Power Generating Stations
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/20997
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1976'
 relation:
@@ -89,12 +91,12 @@ relation:
     formattedref:
       content: IEEE 577-2004
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Nuclear power generation
-- Reliability
-- Safety
-- Standards
+- content: Nuclear power generation
+- content: Reliability
+- content: Safety
+- content: Standards
 editorialgroup:
   committee:
   - Nuclear Power Engineering of the IEEE Power and Energy Society

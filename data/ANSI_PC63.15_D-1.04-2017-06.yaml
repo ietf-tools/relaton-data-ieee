@@ -1,10 +1,10 @@
 ---
 id: ANSIPC63.15/D-1.04-2017-06
 title:
-- type: main
-  content: Approved Draft American National Standard Recommended Practice for the
+- content: Approved Draft American National Standard Recommended Practice for the
     Immunity Measurement of Electrical and Electronic Equipment
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7993106
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,12 +65,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - American National Standards Institute
-    abbreviation: ANSI
+    - content: American National Standards Institute
+    abbreviation:
+      content: ANSI
     url: https://www.ansi.org
   from: '2017'
 relation:
@@ -90,18 +93,18 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Measurement
-- Equipment
-- Electromagnetic compatibility
-- Immunity testing
-- ANSI C63.15
-- electromagnetic compatibility
-- EMC
-- immunity testing
-- RF immunity
+- content: IEEE Standards
+- content: Measurement
+- content: Equipment
+- content: Electromagnetic compatibility
+- content: Immunity testing
+- content: ANSI C63.15
+- content: electromagnetic compatibility
+- content: EMC
+- content: immunity testing
+- content: RF immunity
 editorialgroup:
   committee:
   - Accredited Standards Committee on Electromagnetic Compatibility

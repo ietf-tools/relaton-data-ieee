@@ -1,11 +1,11 @@
 ---
 id: IEEE802.3bm-2015
 title:
-- type: main
-  content: 'IEEE Standard for Ethernet - Amendment 3: Physical Layer Specifications
+- content: 'IEEE Standard for Ethernet - Amendment 3: Physical Layer Specifications
     and Management Parameters for 40 Gb/s and 100 Gb/s Operation over Fiber Optic
     Cables'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7435210
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2015'
 relation:
@@ -87,34 +89,34 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Ethernet
-- Time measurement
-- Synchronization
-- Passive optical networks
-- IEEE 802.3 Standard
-- 100 Gb/s Ethernet
-- 100GBASE-ER4
-- 100GBASE-LR4
-- 100GBASE-SR10
-- 100GBASE-SR4
-- 40 Gb/s Ethernet
-- 40GBASE-ER4
-- 40GBASE-FR
-- 40GBASE-LR4
-- 40GBASE-SR4
-- amendment
-- CAUI-4
-- Energy Efficient Ethernet (EEE)
-- Ethernet
-- forward error correction (FEC)
-- IEEE 802.3(TM)
-- IEEE 802.3bm(TM)
-- MMF
-- Physical Medium Dependent (PMD) sublayer
-- SMF
+- content: IEEE Standards
+- content: Ethernet
+- content: Time measurement
+- content: Synchronization
+- content: Passive optical networks
+- content: IEEE 802.3 Standard
+- content: 100 Gb/s Ethernet
+- content: 100GBASE-ER4
+- content: 100GBASE-LR4
+- content: 100GBASE-SR10
+- content: 100GBASE-SR4
+- content: 40 Gb/s Ethernet
+- content: 40GBASE-ER4
+- content: 40GBASE-FR
+- content: 40GBASE-LR4
+- content: 40GBASE-SR4
+- content: amendment
+- content: CAUI-4
+- content: Energy Efficient Ethernet (EEE)
+- content: Ethernet
+- content: forward error correction (FEC)
+- content: IEEE 802.3(TM)
+- content: IEEE 802.3bm(TM)
+- content: MMF
+- content: Physical Medium Dependent (PMD) sublayer
+- content: SMF
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

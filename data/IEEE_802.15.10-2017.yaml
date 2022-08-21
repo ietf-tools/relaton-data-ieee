@@ -1,10 +1,10 @@
 ---
 id: IEEE802.15.10-2017
 title:
-- type: main
-  content: IEEE Recommended Practice for Routing Packets in IEEE 802.15.4 Dynamically
+- content: IEEE Recommended Practice for Routing Packets in IEEE 802.15.4 Dynamically
     Changing Wireless Networks
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7912218
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,20 +64,21 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2017'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Wireless networks
-- Routing protocols
-- Mesh networks
-- IEEE 802.15.4(TM)
-- layer 2 routing
-- mesh-under routing
-- mesh
+- content: IEEE Standards
+- content: Wireless networks
+- content: Routing protocols
+- content: Mesh networks
+- content: IEEE 802.15.4(TM)
+- content: layer 2 routing
+- content: mesh-under routing
+- content: mesh
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

@@ -1,11 +1,11 @@
 ---
 id: IEC/IEEE61886.1-2021
 title:
-- type: main
-  content: 'IEEE/IEC International Standard for Subsea equipment--Part 1: Power connectors,
+- content: 'IEEE/IEC International Standard for Subsea equipment--Part 1: Power connectors,
     penetrators and jumper assemblies with rated voltage from 3 kV (Umax = 3,6 kV)
     to 30 kV (Umax = 36 kV)'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9415479
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -53,19 +54,20 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2021'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- Underwater cables
-- Voltage control
-- Assembly
+- content: IEEE Standards
+- content: IEC Standards
+- content: Underwater cables
+- content: Voltage control
+- content: Assembly
 editorialgroup:
   committee:
   - Petroleum &amp; Chemical Industry of the IEEE Industry Applications Society

@@ -1,10 +1,10 @@
 ---
 id: IEEE1127-1990
 title:
-- type: main
-  content: IEEE Guide for the Design, Construction, and Operation of Safe and Reliable
+- content: IEEE Guide for the Design, Construction, and Operation of Safe and Reliable
     Substations for Environmental Acceptance
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8684574
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1990'
 relation:
@@ -88,15 +90,15 @@ relation:
     formattedref:
       content: IEEE 1127-1998
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- A-weighted sound level
-- commercial zoning
-- hazardous material
-- industrial zoning
-- noise
-- residential zoning
-- wetlands
+- content: A-weighted sound level
+- content: commercial zoning
+- content: hazardous material
+- content: industrial zoning
+- content: noise
+- content: residential zoning
+- content: wetlands
 editorialgroup:
   committee:
   - Substations of the IEEE Power and Energy Society

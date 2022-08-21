@@ -1,9 +1,9 @@
 ---
 id: IEEEC37.102-2006
 title:
-- type: main
-  content: IEEE Guide for AC Generator Protection
+- content: IEEE Guide for AC Generator Protection
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8526571
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,8 +62,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2006'
 relation:
@@ -83,16 +85,16 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- AC motors
-- Generators
-- Relays
-- Synchronous motors
-- ac generator protection
-- relay protection
-- synchronous generator
+- content: IEEE Standards
+- content: AC motors
+- content: Generators
+- content: Relays
+- content: Synchronous motors
+- content: ac generator protection
+- content: relay protection
+- content: synchronous generator
 editorialgroup:
   committee:
   - Power System Relaying and Control of the IEEE Power and Energy Society

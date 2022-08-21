@@ -1,12 +1,12 @@
 ---
 id: IEEE/ISO/IEC8802.3/Amd8-2021
 title:
-- type: main
-  content: 'IEEE/ISO/IEC Telecommunications and exchange between information technology
+- content: 'IEEE/ISO/IEC Telecommunications and exchange between information technology
     systems -- Requirements for local and metropolitan area networks -- Part 3:Standard
     for Ethernet AMENDMENT 8: Physical layer specifications and management parameters
     for 2.5 Gb/s, 5 Gb/s, and 10 Gb/s automotive electrical ethernet'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9599619
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,13 +64,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2021'
 relation:
 - type: adoptedFrom
@@ -82,26 +84,26 @@ relation:
     formattedref:
       content: IEEE 802.3ch-2020
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ISO Standards
-- IEC Standards
-- Local area nettworks
-- Metropolitan area networks
-- Information technology
-- Information exchange
-- Physical layer
-- Ethernet
-- 2.5GBASE-T1
-- 5GBASE-T1
-- 10GBASE-T1
-- Ethernet
-- IEEE 802.3ch&#8482;
-- MASTER-SLAVE
-- Medium layer
-- Physical Layer
-- Physical Medium Attachment
+- content: IEEE Standards
+- content: ISO Standards
+- content: IEC Standards
+- content: Local area nettworks
+- content: Metropolitan area networks
+- content: Information technology
+- content: Information exchange
+- content: Physical layer
+- content: Ethernet
+- content: 2.5GBASE-T1
+- content: 5GBASE-T1
+- content: 10GBASE-T1
+- content: Ethernet
+- content: IEEE 802.3ch&#8482;
+- content: MASTER-SLAVE
+- content: Medium layer
+- content: Physical Layer
+- content: Physical Medium Attachment
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

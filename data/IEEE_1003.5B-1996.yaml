@@ -1,11 +1,11 @@
 ---
 id: IEEE1003.5b-1996
 title:
-- type: main
-  content: 'IEEE Standard for Information Technology--POSIX(R) Ada Language Interfaces--Part
+- content: 'IEEE Standard for Information Technology--POSIX(R) Ada Language Interfaces--Part
     1: Binding for System Application Program Interface (API)--Amendment 1: Realtime
     Extensions'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8569012
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -71,32 +72,33 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1997'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Operating systems
-- Computer applications
-- Real-time systems
-- Computer languages
-- Application programming interfaces
-- Open systems
-- Information technology
-- realtime extensions
-- ADA
-- API
-- application portability
-- computer language bindings
-- open systems
-- operating systems
-- portable application
-- POSIX
-- POSIX language bindings
-- realtime
-- thread
+- content: IEEE Standards
+- content: Operating systems
+- content: Computer applications
+- content: Real-time systems
+- content: Computer languages
+- content: Application programming interfaces
+- content: Open systems
+- content: Information technology
+- content: realtime extensions
+- content: ADA
+- content: API
+- content: application portability
+- content: computer language bindings
+- content: open systems
+- content: operating systems
+- content: portable application
+- content: POSIX
+- content: POSIX language bindings
+- content: realtime
+- content: thread
 editorialgroup:
   committee:
   - Gyro Accelerometer Panel of the IEEE Aerospace and Electronic Systems Society

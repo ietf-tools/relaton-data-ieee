@@ -1,10 +1,10 @@
 ---
 id: IEEEC57.21-1990
 title:
-- type: main
-  content: IEEE Standard Requirements, Terminology, and Test Code for Shunt Reactors
+- content: IEEE Standard Requirements, Terminology, and Test Code for Shunt Reactors
     Rated Over 500 kVA
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/159282
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1991'
 relation:
@@ -104,13 +106,13 @@ relation:
     formattedref:
       content: IEEE C57.21-2008
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Design methodology
-- Insulation
-- Losses
-- Standards
-- Testing
+- content: Design methodology
+- content: Insulation
+- content: Losses
+- content: Standards
+- content: Testing
 editorialgroup:
   committee:
   - Transformers of the IEEE Power and Energy Society

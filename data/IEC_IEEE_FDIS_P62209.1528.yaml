@@ -1,12 +1,12 @@
 ---
 id: IEC/IEEEFDISP62209.1528
 title:
-- type: main
-  content: IIEC/IEEE Approved Draft International Standard - Measurement Procedures
+- content: IIEC/IEEE Approved Draft International Standard - Measurement Procedures
     for the Assessment of Specific Absorption Rate (SAR) of Human Exposure to Radio
     Frequency Fields From Hand-Held and Body-Worn Wireless Communication Devices (Frequency
     Range of 4 MHz to 10 GHz)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9096657
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -52,20 +53,21 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2020'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- Frequency measurement
-- Specific absorption rate
-- Hand held devices
-- Wireless communication
+- content: IEEE Standards
+- content: IEC Standards
+- content: Frequency measurement
+- content: Specific absorption rate
+- content: Hand held devices
+- content: Wireless communication
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

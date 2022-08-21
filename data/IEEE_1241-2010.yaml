@@ -1,9 +1,9 @@
 ---
 id: IEEE1241-2010
 title:
-- type: main
-  content: IEEE Standard for Terminology and Test Methods for Analog-to-Digital Converters
+- content: IEEE Standard for Terminology and Test Methods for Analog-to-Digital Converters
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5692956
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,33 +69,34 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2011'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Testing
-- Quantization
-- Analog-digital conversion
-- ADC
-- analog-to-digital converter
-- code transition level
-- coherent sampling
-- DNL
-- ENOB
-- histogram
-- INL
-- LSB
-- missing codes
-- noise power ratio
-- noncoherent sampling
-- quantization error
-- quantization noise
-- SAR
-- SFDR
-- sine fitting
+- content: IEEE standards
+- content: Testing
+- content: Quantization
+- content: Analog-digital conversion
+- content: ADC
+- content: analog-to-digital converter
+- content: code transition level
+- content: coherent sampling
+- content: DNL
+- content: ENOB
+- content: histogram
+- content: INL
+- content: LSB
+- content: missing codes
+- content: noise power ratio
+- content: noncoherent sampling
+- content: quantization error
+- content: quantization noise
+- content: SAR
+- content: SFDR
+- content: sine fitting
 editorialgroup:
   committee:
   - TC10 - Waveform Generation Measurement and Analysis of the IEEE Instrumentation

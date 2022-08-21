@@ -1,10 +1,10 @@
 ---
 id: IEEEP802.1AB/D-13
 title:
-- type: main
-  content: 'IEEE Draft Standard for Local and Metropolitan Networks: Station and Media
+- content: 'IEEE Draft Standard for Local and Metropolitan Networks: Station and Media
     Access Control Connectivity Discovery (Replaced by 802.1AB-2005)'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4039802
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -45,11 +46,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2004'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: '35.110'
   text: Networking

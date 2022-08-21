@@ -1,9 +1,9 @@
 ---
 id: IEEE896.1-1991
 title:
-- type: main
-  content: IEEE Standard for Futurebus+(R) -- Logical Protocol Specification
+- content: IEEE Standard for Futurebus+(R) -- Logical Protocol Specification
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/159471
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -73,19 +74,20 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1992'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Computer interfaces
-- Protocols
-- Standards
-- bus architecture
-- futurebus+
-- logical protocol
-- multiprocessor systems
+- content: Computer interfaces
+- content: Protocols
+- content: Standards
+- content: bus architecture
+- content: futurebus+
+- content: logical protocol
+- content: multiprocessor systems
 editorialgroup:
   committee:
   - Microprocessor Standards Committee of the IEEE Computer Society

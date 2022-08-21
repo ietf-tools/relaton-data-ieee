@@ -1,10 +1,10 @@
 ---
 id: IEEE1516.3-2003
 title:
-- type: main
-  content: IEEE Recommended Practice for High Level Architecture (HLA) Federation
+- content: IEEE Recommended Practice for High Level Architecture (HLA) Federation
     Development and Execution Process (FEDEP)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1196921
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2003'
 relation:
@@ -79,21 +81,21 @@ relation:
     formattedref:
       content: IEEE 1730-2010
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Modeling
-- Interoperability
-- Patents
-- Organizations
-- Computer architecture
-- federate
-- federation
-- Federation Development and Execution Process (FEDEP)
-- HighLevel Architecture (HLA)
-- Object Model (OM)
-- runtime infrastructure (RTI)
-- '1730'
+- content: IEEE Standards
+- content: Modeling
+- content: Interoperability
+- content: Patents
+- content: Organizations
+- content: Computer architecture
+- content: federate
+- content: federation
+- content: Federation Development and Execution Process (FEDEP)
+- content: HighLevel Architecture (HLA)
+- content: Object Model (OM)
+- content: runtime infrastructure (RTI)
+- content: '1730'
 editorialgroup:
   committee:
   - Simulation Interoperability Stds Organization/Stds Activity Committee of the IEEE

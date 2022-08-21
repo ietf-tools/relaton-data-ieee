@@ -1,10 +1,10 @@
 ---
 id: IEEE692-1986
 title:
-- type: main
-  content: IEEE Standard Criteria for Security Systems for Nuclear Power Generating
+- content: IEEE Standard Criteria for Security Systems for Nuclear Power Generating
     Stations
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/27851
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1986'
 relation:
@@ -78,17 +80,17 @@ relation:
     formattedref:
       content: IEEE 692-1997
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Alarm systems
-- Monitoring
-- Nuclear power generation
-- Standards
-- criteria
-- security
-- systems
-- NPGS
-- Nuclear power generation protection
+- content: Alarm systems
+- content: Monitoring
+- content: Nuclear power generation
+- content: Standards
+- content: criteria
+- content: security
+- content: systems
+- content: NPGS
+- content: Nuclear power generation protection
 editorialgroup:
   committee:
   - Nuclear Power Engineering of the IEEE Power and Energy Society

@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE802.4-1990
 title:
-- type: main
-  content: 'IEEE Standard for Information processing systems -- Local area networks
+- content: 'IEEE Standard for Information processing systems -- Local area networks
     --Part 4: Standard for Token-Passing Bus Access Method and Physical Layer Specifications'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7229456
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,21 +70,22 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1990'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Local area networks
-- Token passing
-- Information processing
-- LAN
-- token-passing
-- bus
-- Protocols
-- Local area networks
+- content: IEEE Standards
+- content: Local area networks
+- content: Token passing
+- content: Information processing
+- content: LAN
+- content: token-passing
+- content: bus
+- content: Protocols
+- content: Local area networks
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

@@ -1,9 +1,9 @@
 ---
 id: IEEE828-1983
 title:
-- type: main
-  content: IEEE Standard for Software Configuration Management Plans
+- content: IEEE Standard for Software Configuration Management Plans
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7439689
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1983'
 relation:
@@ -78,17 +80,17 @@ relation:
     formattedref:
       content: IEEE 828-1990
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Software engineering
-- Software configuration
-- Software management
-- Planning
-- software
-- configuration
-- management
-- plans
+- content: IEEE Standards
+- content: Software engineering
+- content: Software configuration
+- content: Software management
+- content: Planning
+- content: software
+- content: configuration
+- content: management
+- content: plans
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

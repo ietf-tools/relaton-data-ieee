@@ -1,10 +1,10 @@
 ---
 id: IEEE1658-2011
 title:
-- type: main
-  content: IEEE Standard for Terminology and Test Methods of Digital-to-Analog Converter
+- content: IEEE Standard for Terminology and Test Methods of Digital-to-Analog Converter
     Devices
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6152113
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,24 +63,25 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2012'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Testing
-- Digital-analog conversion
-- Converters
-- DAC
-- digital-to-analog converter
-- IEEE 1658
-- SFDR
-- SNR
-- spectrum
-- test terminology
-- test methods
+- content: IEEE standards
+- content: Testing
+- content: Digital-analog conversion
+- content: Converters
+- content: DAC
+- content: digital-to-analog converter
+- content: IEEE 1658
+- content: SFDR
+- content: SNR
+- content: spectrum
+- content: test terminology
+- content: test methods
 editorialgroup:
   committee:
   - TC10 - Waveform Generation Measurement and Analysis of the IEEE Instrumentation

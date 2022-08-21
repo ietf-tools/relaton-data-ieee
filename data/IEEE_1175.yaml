@@ -1,9 +1,9 @@
 ---
 id: IEEE1175
 title:
-- type: main
-  content: IEEE Standard Reference Model for Computing System Tool Interconnections
+- content: IEEE Standard Reference Model for Computing System Tool Interconnections
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/573339
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,22 +68,23 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1992'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Electronic data interchange
-- tools
-- engineering
-- computing
-- system
-- Tool-to-platform interconnection
-- Tool-to-organization interconnection
-- Semantic transfer language (STL)
-- Reference model
-- Information transfer
+- content: Electronic data interchange
+- content: tools
+- content: engineering
+- content: computing
+- content: system
+- content: Tool-to-platform interconnection
+- content: Tool-to-organization interconnection
+- content: Semantic transfer language (STL)
+- content: Reference model
+- content: Information transfer
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

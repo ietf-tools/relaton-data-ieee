@@ -1,13 +1,13 @@
 ---
 id: ISO/IEC/IEEE8802.3/Amd4-2017
 title:
-- type: main
-  content: 'ISO/IEC/IEEE International Standard - Information technology -- Telecommunications
+- content: 'ISO/IEC/IEEE International Standard - Information technology -- Telecommunications
     and information exchange between systems -- Local and metropolitan area networks
     -- Specific requirements -- Part 3: Standard for Ethernet Amendment 4: Physical
     Layer Specifications and Management Parameters for 1 Gb/s Operation over a Single
     Twisted-Pair Copper Cable'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8314566
   type: src
@@ -35,8 +35,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,13 +65,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2018'
 relation:
 - type: adoptedFrom
@@ -83,22 +85,22 @@ relation:
     formattedref:
       content: IEEE 802.3bp-2016
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- ISO Standards
-- Ethernet
-- Information technology
-- Local area networks
-- Metropolitan area networks
-- Physical layer
-- Information exchange
-- 1000BASE-T1
-- Ethernet
-- IEEE 802&#174;
-- IEEE 802.3&#8482;
-- IEEE 802.3bp&#8482;
+- content: IEEE Standards
+- content: IEC Standards
+- content: ISO Standards
+- content: Ethernet
+- content: Information technology
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Physical layer
+- content: Information exchange
+- content: 1000BASE-T1
+- content: Ethernet
+- content: IEEE 802&#174;
+- content: IEEE 802.3&#8482;
+- content: IEEE 802.3bp&#8482;
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

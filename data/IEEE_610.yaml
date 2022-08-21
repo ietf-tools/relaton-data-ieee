@@ -1,10 +1,10 @@
 ---
 id: IEEE610
 title:
-- type: main
-  content: 'IEEE Standard Computer Dictionary: A Compilation of IEEE Standard Computer
+- content: 'IEEE Standard Computer Dictionary: A Compilation of IEEE Standard Computer
     Glossaries'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/182763
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,20 +62,21 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1991'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Terminology
-- terminology
-- computer
-- applications
-- glossary
-- definitions
-- dictionary
-- '610'
+- content: Terminology
+- content: terminology
+- content: computer
+- content: applications
+- content: glossary
+- content: definitions
+- content: dictionary
+- content: '610'
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

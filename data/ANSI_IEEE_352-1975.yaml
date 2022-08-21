@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE352-1975
 title:
-- type: main
-  content: IEEE Guide for General Principles of Reliability Analysis of Nuclear Power
+- content: IEEE Guide for General Principles of Reliability Analysis of Nuclear Power
     Generating Station Protection Systems
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7409888
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -77,8 +78,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1974'
 relation:
@@ -92,16 +94,16 @@ relation:
     formattedref:
       content: ANSI/IEEE 352-1987
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Nuclear power generation
-- Power system reliability
-- Reliability engineering
-- Maintenance engineering
-- Capacitors
-- Safety
-- ANSI Standards
+- content: IEEE Standards
+- content: Nuclear power generation
+- content: Power system reliability
+- content: Reliability engineering
+- content: Maintenance engineering
+- content: Capacitors
+- content: Safety
+- content: ANSI Standards
 editorialgroup:
   committee:
   - Nuclear Power Engineering of the IEEE Power and Energy Society

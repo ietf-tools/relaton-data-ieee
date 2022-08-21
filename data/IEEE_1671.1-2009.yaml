@@ -1,10 +1,10 @@
 ---
 id: IEEE1671.1-2009
 title:
-- type: main
-  content: 'IEEE Standard for Automatic Test Markup Language (ATML) for Exchanging
+- content: 'IEEE Standard for Automatic Test Markup Language (ATML) for Exchanging
     Automatic Test Equipment and Test Information via XML: Exchanging Test Descriptions'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6781521
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2013'
 relation:
@@ -89,25 +91,25 @@ relation:
     formattedref:
       content: EEE 1671.1-2017
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Markup languages
-- XML
-- Automatic test equipment
-- Testing
-- Test requirements
-- 1671.1-2009
-- automatic test equipment (ATE)
-- Automatic Test Markup Language (ATML)
-- Automatic Test Markup Language (ATML) instance document
-- automatic test system (ATS)
-- diagnostic requirements
-- test description
-- Test Program Set (TPS)
-- test requirements
-- Test Requirements Document (TRD)
-- XML schema
+- content: IEEE standards
+- content: Markup languages
+- content: XML
+- content: Automatic test equipment
+- content: Testing
+- content: Test requirements
+- content: 1671.1-2009
+- content: automatic test equipment (ATE)
+- content: Automatic Test Markup Language (ATML)
+- content: Automatic Test Markup Language (ATML) instance document
+- content: automatic test system (ATS)
+- content: diagnostic requirements
+- content: test description
+- content: Test Program Set (TPS)
+- content: test requirements
+- content: Test Requirements Document (TRD)
+- content: XML schema
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

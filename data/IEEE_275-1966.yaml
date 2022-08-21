@@ -1,12 +1,12 @@
 ---
 id: IEEE275-1966
 title:
-- type: main
-  content: IEEE Proposed Test Procedure for Evaluation of Systems of Insulating Materials
+- content: IEEE Proposed Test Procedure for Evaluation of Systems of Insulating Materials
     for A-C Electric Machinery Employing Form-Wound Preinsulated Stator Coils for
     Machines Rated at 50 to 2000 horsepower 35 to 1500 Kilowatts mechanical output
     and below 6600 volts
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7394899
   type: src
@@ -36,8 +36,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,8 +70,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1966'
 relation:
@@ -94,12 +96,12 @@ relation:
     formattedref:
       content: ANSI/IEEE 275-1981
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Stators
-- Coils
-- AC machines
-- Insulation
-- Machinery
-- Voltage measurement
+- content: IEEE Standards
+- content: Stators
+- content: Coils
+- content: AC machines
+- content: Insulation
+- content: Machinery
+- content: Voltage measurement

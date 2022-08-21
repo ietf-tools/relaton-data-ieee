@@ -1,10 +1,10 @@
 ---
 id: IEEE802a-2003
 title:
-- type: main
-  content: 'IEEE Standard for Local and Metropolitan Area Networks: Overview and Architecture
+- content: 'IEEE Standard for Local and Metropolitan Area Networks: Overview and Architecture
     - Amendment 1: Ethertypes for Prototype and Vendor-Specific Protocol Development'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1237561
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2003'
 relation:
@@ -84,21 +86,21 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Protocols
-- Patents
-- Urban areas
-- Computer architecture
-- Prototypes
-- Ethertype protocol development
-- Local Area Networks (LANs)
-- LAN/MAN architecture
-- LAN/MAN reference model
-- Metropolitan Area Networks (MANs)
-- protocol identifier
-- protocol type
+- content: IEEE Standards
+- content: Protocols
+- content: Patents
+- content: Urban areas
+- content: Computer architecture
+- content: Prototypes
+- content: Ethertype protocol development
+- content: Local Area Networks (LANs)
+- content: LAN/MAN architecture
+- content: LAN/MAN reference model
+- content: Metropolitan Area Networks (MANs)
+- content: protocol identifier
+- content: protocol type
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

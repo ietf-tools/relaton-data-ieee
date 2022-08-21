@@ -1,10 +1,10 @@
 ---
 id: IEEEP404/D-13
 title:
-- type: main
-  content: IEEE Draft Standard for Extruded and Laminated Dielectric Shielded Cable
+- content: IEEE Draft Standard for Extruded and Laminated Dielectric Shielded Cable
     Joints Rated 2500 V?500 000 V
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4040083
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -57,11 +58,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2006'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: 29.120.20
   text: Connecting devices

@@ -1,9 +1,9 @@
 ---
 id: IEEE1298-1992
 title:
-- type: main
-  content: 'IEEE Standard Software Quality Management System Part 1: Requirements'
+- content: 'IEEE Standard Software Quality Management System Part 1: Requirements'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/213723
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,17 +63,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1993'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Contracts
-- Software quality
-- Standards
-- software development
-- software quality management
+- content: Contracts
+- content: Software quality
+- content: Standards
+- content: software development
+- content: software quality management
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

@@ -1,11 +1,11 @@
 ---
 id: IEEE1900.1a-2012
 title:
-- type: main
-  content: 'IEEE Standard Definitions and Concepts for Dynamic Spectrum Access: Terminology
+- content: 'IEEE Standard Definitions and Concepts for Dynamic Spectrum Access: Terminology
     Relating to Emerging Wireless Networks, System Functionality, and Spectrum Management
     Amendment 1: Addition of New Terms and Associated Definitions'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6422300
   type: src
@@ -35,8 +35,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2013'
 relation:
@@ -85,20 +87,20 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Cognitive radio
-- Software radio
-- Radio spectrum management
-- cognitive radio
-- cognitive radio networks
-- dynamic spectrum access
-- IEEE 1900.1
-- policy-based radio
-- software-controlled radio
-- software-defined radio
-- spectrum management
+- content: IEEE standards
+- content: Cognitive radio
+- content: Software radio
+- content: Radio spectrum management
+- content: cognitive radio
+- content: cognitive radio networks
+- content: dynamic spectrum access
+- content: IEEE 1900.1
+- content: policy-based radio
+- content: software-controlled radio
+- content: software-defined radio
+- content: spectrum management
 editorialgroup:
   committee:
   - Dynamic Spectrum Access Networks Standards Committee of the IEEE Communications

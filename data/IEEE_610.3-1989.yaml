@@ -1,9 +1,9 @@
 ---
 id: IEEE610.3-1989
 title:
-- type: main
-  content: IEEE Standard Glossary of Modeling and Simulation Terminology
+- content: IEEE Standard Glossary of Modeling and Simulation Terminology
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/89695
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,23 +64,24 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1989'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Game theory
-- Terminology
-- Modeling
-- Queuing analysis
-- Simulation
-- Standards
-- glossary
-- modeling
-- simulation
-- terminology
-- dictionary
+- content: Game theory
+- content: Terminology
+- content: Modeling
+- content: Queuing analysis
+- content: Simulation
+- content: Standards
+- content: glossary
+- content: modeling
+- content: simulation
+- content: terminology
+- content: dictionary
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

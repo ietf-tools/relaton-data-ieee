@@ -1,10 +1,10 @@
 ---
 id: IEEESId
 title:
-- type: main
-  content: American National Standard Application Guide for Capacitance Current Switching
+- content: American National Standard Application Guide for Capacitance Current Switching
     for AC High-Voltage Circuit Breakers Rated on a Symmetrical Current Basis
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7445115
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,23 +70,25 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - American National Standards Institute
-    abbreviation: ANSI
+    - content: American National Standards Institute
+    abbreviation:
+      content: ANSI
     url: https://www.ansi.org
   from: '1972'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ANSI Standards
-- AC machines
-- Capacitance
-- Switching circuits
-- Circuit breakers
-- Current estimation
+- content: IEEE Standards
+- content: ANSI Standards
+- content: AC machines
+- content: Capacitance
+- content: Switching circuits
+- content: Circuit breakers
+- content: Current estimation
 editorialgroup:
   committee:
   - Accredited Standards Committee on Power Switchgear

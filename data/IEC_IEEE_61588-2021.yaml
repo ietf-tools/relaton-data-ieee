@@ -1,10 +1,10 @@
 ---
 id: IEC/IEEE61588-2021
 title:
-- type: main
-  content: IEC/IEEE International Standard - Precision Clock Synchronization Protocol
+- content: IEC/IEEE International Standard - Precision Clock Synchronization Protocol
     for Networked Measurement and Control Systems
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9456762
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,11 +68,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2021'
 relation:
 - type: adoptedFrom
@@ -84,25 +86,25 @@ relation:
     formattedref:
       content: IEEE 1588-2019
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- Synchronization
-- Protocols
-- Networked control systems
-- Clocks
-- Security
-- Precision engineering
-- Boundary Clock
-- clock
-- Grandmaster Clock
-- IEEE 1588TM
-- management
-- Ordinary Clock
-- security
-- synchronization
-- Transparent Clock
+- content: IEEE Standards
+- content: IEC Standards
+- content: Synchronization
+- content: Protocols
+- content: Networked control systems
+- content: Clocks
+- content: Security
+- content: Precision engineering
+- content: Boundary Clock
+- content: clock
+- content: Grandmaster Clock
+- content: IEEE 1588TM
+- content: management
+- content: Ordinary Clock
+- content: security
+- content: synchronization
+- content: Transparent Clock
 editorialgroup:
   committee:
   - TC9 - Sensor Technology of the IEEE Instrumentation and Measurement Society

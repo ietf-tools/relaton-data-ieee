@@ -1,9 +1,9 @@
 ---
 id: IEEEP1680.4/D-2
 title:
-- type: main
-  content: IEEE/NSF Draft Standard for Environmental Assessment of Servers
+- content: IEEE/NSF Draft Standard for Environmental Assessment of Servers
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7835642
   type: src
@@ -29,8 +29,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,21 +63,22 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - NSF
+    - content: NSF
   from: '2017'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Servers
-- Environmental factors
-- Energy conservation
-- Product life cycle management
-- Materials processing
-- Packaging
+- content: IEEE Standards
+- content: Servers
+- content: Environmental factors
+- content: Energy conservation
+- content: Product life cycle management
+- content: Materials processing
+- content: Packaging
 editorialgroup:
   committee:
   - Standards Activities Board of the IEEE Computer Society

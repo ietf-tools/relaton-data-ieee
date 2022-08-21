@@ -1,10 +1,10 @@
 ---
 id: IEEEP1615/D-11-2016-11
 title:
-- type: main
-  content: IEEE Draft Recommended Practice for Network Communication in Electric Power
+- content: IEEE Draft Recommended Practice for Network Communication in Electric Power
     Substations
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7748415
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2016'
 relation:
@@ -85,33 +87,33 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Substations
-- IP networks
-- 'Power transmission '
-- Telecommunication services
-- Distributed Network Protocol 3 (DNP3)
-- Ethernet
-- fiber-optic
-- IEC 60870-5
-- IEC 61850
-- IEEE 1615
-- intelligent electronic device (IED)
-- Internet Protocol (IP)
-- managed switch
-- network
-- network devices
-- noise sources
-- non-operational data
-- operational data
-- RS-232
-- RS-485
-- security awareness
-- Transmission Control Protocol (TCP)
-- time synchronization
-- wireless network
+- content: IEEE Standards
+- content: Substations
+- content: IP networks
+- content: 'Power transmission '
+- content: Telecommunication services
+- content: Distributed Network Protocol 3 (DNP3)
+- content: Ethernet
+- content: fiber-optic
+- content: IEC 60870-5
+- content: IEC 61850
+- content: IEEE 1615
+- content: intelligent electronic device (IED)
+- content: Internet Protocol (IP)
+- content: managed switch
+- content: network
+- content: network devices
+- content: noise sources
+- content: non-operational data
+- content: operational data
+- content: RS-232
+- content: RS-485
+- content: security awareness
+- content: Transmission Control Protocol (TCP)
+- content: time synchronization
+- content: wireless network
 editorialgroup:
   committee:
   - IEEE Power and Energy Society

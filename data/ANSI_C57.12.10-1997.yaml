@@ -1,12 +1,12 @@
 ---
 id: ANSIC57.12.10-1997
 title:
-- type: main
-  content: American National Standard for Transformers-230 kV and Below 833 / 958
+- content: American National Standard for Transformers-230 kV and Below 833 / 958
     through 8333 / 10 417 kVA, Single-Phase, and 750 / 862 through 60 000 / 80 000
     / 100 000 kVA, Three-Phase Without Load Tap Changing; and 3750 / 4687 through
     60 000 / 80 000 / 100 000 kVA with Load Tap Changing-Safety Requirement
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1389302
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1997'
 relation:
@@ -87,15 +89,15 @@ relation:
     formattedref:
       content: IEEE C57.12.10-2010
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Current transformers
-- Power transformer insulation
-- Oil insulation
-- Automatic voltage control
-- ANSI
-- IEEE C57.12
-- IEEE C57.12.10
+- content: Current transformers
+- content: Power transformer insulation
+- content: Oil insulation
+- content: Automatic voltage control
+- content: ANSI
+- content: IEEE C57.12
+- content: IEEE C57.12.10
 editorialgroup:
   committee:
   - Transformers of the IEEE Power and Energy Society

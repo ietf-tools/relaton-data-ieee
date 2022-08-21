@@ -1,10 +1,10 @@
 ---
 id: IEEE1451.1-1999
 title:
-- type: main
-  content: IEEE Standard for a Smart Transducer Interface for Sensors and Actuators
+- content: IEEE Standard for a Smart Transducer Interface for Sensors and Actuators
     - Network Capable Application Processor Information Model
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/841361
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,17 +64,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2000'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- actuators
-- communication network
-- object model
-- sensors
+- content: IEEE standards
+- content: actuators
+- content: communication network
+- content: object model
+- content: sensors
 editorialgroup:
   committee:
   - TC9 - Sensor Technology of the IEEE Instrumentation and Measurement Society

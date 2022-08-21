@@ -1,10 +1,10 @@
 ---
 id: IEEEP802.16k/D-3
 title:
-- type: main
-  content: 'IEEE Draft Standard for Local and Metropolitan Area Networks: Media Access
+- content: 'IEEE Draft Standard for Local and Metropolitan Area Networks: Media Access
     Control (MAC) Bridges Amendment 2: Bridging of IEEE 802.16<sup>TM</sup>'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4039778
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -45,11 +46,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2006'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: '35.110'
   text: Networking

@@ -1,9 +1,9 @@
 ---
 id: IEEE1029.1-1991
 title:
-- type: main
-  content: IEEE Standard for Waveform and Vector Exchange (WAVES)
+- content: IEEE Standard for Waveform and Vector Exchange (WAVES)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/182904
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,8 +62,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1992'
 relation:
@@ -76,15 +78,15 @@ relation:
     formattedref:
       content: IEEE 1029.1-1998
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Design automation
-- Specification languages
-- Standards
-- Very-large-scale integration
-- VHDL
-- WAVES standard packages
-- WAVES datasets
+- content: Design automation
+- content: Specification languages
+- content: Standards
+- content: Very-large-scale integration
+- content: VHDL
+- content: WAVES standard packages
+- content: WAVES datasets
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

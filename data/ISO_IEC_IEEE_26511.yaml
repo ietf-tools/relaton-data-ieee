@@ -1,10 +1,10 @@
 ---
 id: ISO/IEC/IEEE26511
 title:
-- type: main
-  content: ISO/IEC/IEEE International Standard - Systems and software engineering
+- content: ISO/IEC/IEEE International Standard - Systems and software engineering
     -- Requirements for managers of user documentation
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6170926
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -78,13 +79,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2012'
 relation:
 - type: updates
@@ -104,17 +106,17 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Software engineering
-- Documentation
-- Software development management
-- Information management
-- software user documentation
-- information management
-- documentation management
-- documentation management plan
+- content: IEEE standards
+- content: Software engineering
+- content: Documentation
+- content: Software development management
+- content: Information management
+- content: software user documentation
+- content: information management
+- content: documentation management
+- content: documentation management plan
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

@@ -1,10 +1,10 @@
 ---
 id: IEEEP1650/D-10
 title:
-- type: main
-  content: Approved IEEE Draft Standard Test Methods for Measurement of Electrical
+- content: Approved IEEE Draft Standard Test Methods for Measurement of Electrical
     Properties of Carbon Nanotubes (Replaced by 1650-2005)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4040450
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -45,11 +46,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2005'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: '07.030'
   text: Physics. Chemistry

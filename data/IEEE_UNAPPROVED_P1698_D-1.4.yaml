@@ -1,10 +1,10 @@
 ---
 id: IEEEUnapprovedP1698/D-1.4
 title:
-- type: main
-  content: IEEE Draft Guide for the Calculation of Braking Distances for Rail Transit
+- content: IEEE Draft Guide for the Calculation of Braking Distances for Rail Transit
     Vehicles
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5089359
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -58,19 +59,20 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Rail transit
-- fixed guideway transit
-- braking
-- braking distance
-- signal systems
-- train control
-- TO/ATC/ATP
+- content: Rail transit
+- content: fixed guideway transit
+- content: braking
+- content: braking distance
+- content: signal systems
+- content: train control
+- content: TO/ATC/ATP
 ics:
 - code: 29.240.20
   text: Power transmission and distribution lines

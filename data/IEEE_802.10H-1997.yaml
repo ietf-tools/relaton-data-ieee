@@ -1,10 +1,10 @@
 ---
 id: IEEE802.10h-1997
 title:
-- type: main
-  content: IEEE Standard Secure Data Exchange (SDE) - Protocol Implementation Conformance
+- content: IEEE Standard Secure Data Exchange (SDE) - Protocol Implementation Conformance
     Statement (PICS) Proforma (Annex 2L)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/590311
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1997'
 relation:
@@ -84,16 +86,16 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- proforma
-- protocol implementation
-- conformance statement
-- secure data exchange
-- security association
-- security protocol
-- security services
+- content: IEEE standards
+- content: proforma
+- content: protocol implementation
+- content: conformance statement
+- content: secure data exchange
+- content: security association
+- content: security protocol
+- content: security services
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

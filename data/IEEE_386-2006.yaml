@@ -1,10 +1,10 @@
 ---
 id: IEEE386-2006
 title:
-- type: main
-  content: IEEE Standard for Separable Insulated Connector Systems for Power Distribution
+- content: IEEE Standard for Separable Insulated Connector Systems for Power Distribution
     Systems above 600 V
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7592496
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2007'
 relation:
@@ -106,20 +108,20 @@ relation:
     formattedref:
       content: IEEE 386-2016
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Connectors
-- Power distribution
-- Conductors
-- Power engineering
-- Trademarks
-- deadbreak connector
-- elbow connector
-- loadbreak connector
-- power distribution systems
-- separable conductor
-- separable insulated connector systems
+- content: IEEE Standards
+- content: Connectors
+- content: Power distribution
+- content: Conductors
+- content: Power engineering
+- content: Trademarks
+- content: deadbreak connector
+- content: elbow connector
+- content: loadbreak connector
+- content: power distribution systems
+- content: separable conductor
+- content: separable insulated connector systems
 editorialgroup:
   committee:
   - Insulated Conductors of the IEEE Power and Energy Society

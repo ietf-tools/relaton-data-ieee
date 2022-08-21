@@ -1,9 +1,9 @@
 ---
 id: AIEE30-1937
 title:
-- type: main
-  content: AIEE Definitions and General Standards for Wires and Cables
+- content: AIEE Definitions and General Standards for Wires and Cables
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7405213
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,7 +64,7 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - AIEE
+    - content: AIEE
   from: '1937'
 relation:
 - type: obsoletedBy
@@ -76,10 +77,10 @@ relation:
     formattedref:
       content: AIEE 30-1944
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- AIEE Standards
-- Wiring
-- Cables
-- Power cables
-- Terminology
+- content: AIEE Standards
+- content: Wiring
+- content: Cables
+- content: Power cables
+- content: Terminology

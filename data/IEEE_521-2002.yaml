@@ -1,9 +1,9 @@
 ---
 id: IEEE521-2002
 title:
-- type: main
-  content: IEEE Standard Letter Designations for Radar-Frequency Bands
+- content: IEEE Standard Letter Designations for Radar-Frequency Bands
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1160089
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,8 +69,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2003'
 relation:
@@ -100,11 +102,11 @@ relation:
     formattedref:
       content: IEEE 521-2019
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- frequency
-- letter band
-- radar
+- content: frequency
+- content: letter band
+- content: radar
 editorialgroup:
   committee:
   - Radar Systems Panel of the IEEE Aerospace and Electronic Systems Society

@@ -1,10 +1,10 @@
 ---
 id: IEEEP802.1Qcr/D-2.3
 title:
-- type: main
-  content: 'IEEE Approved Draft Standard for Local and metropolitan area networks--Bridges
+- content: 'IEEE Approved Draft Standard for Local and metropolitan area networks--Bridges
     and Bridged Networks Amendment: Asynchronous Traffic Shaping'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9098152
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -59,8 +60,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2020'
 relation:
@@ -81,21 +83,21 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Local area networks
-- Metropolitan area networks
-- Bridge circuits
-- Telecommunication traffic
-- Media Access Protocol
-- Virtual LAN
-- Bridged Local Area Networks
-- Local Area Networks (LANs)
-- MAC Bridges
-- Metropolitan Area Networks
-- Virtual Bridged Local Area Networks (virtual LANs)
-- Traffic Shaping
+- content: IEEE Standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Bridge circuits
+- content: Telecommunication traffic
+- content: Media Access Protocol
+- content: Virtual LAN
+- content: Bridged Local Area Networks
+- content: Local Area Networks (LANs)
+- content: MAC Bridges
+- content: Metropolitan Area Networks
+- content: Virtual Bridged Local Area Networks (virtual LANs)
+- content: Traffic Shaping
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

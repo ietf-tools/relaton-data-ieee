@@ -1,9 +1,9 @@
 ---
 id: ANSI/IEEE643-1980
 title:
-- type: main
-  content: IEEE Guide for Power-Line Carrier Applications
+- content: IEEE Guide for Power-Line Carrier Applications
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/27873
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,8 +68,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1981'
 relation:
@@ -82,16 +84,16 @@ relation:
     formattedref:
       content: IEEE 643-2004
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Standards
-- guide
-- power
-- line
-- carrier
-- applications
-- Power distribution communication
-- Couplers
+- content: Standards
+- content: guide
+- content: power
+- content: line
+- content: carrier
+- content: applications
+- content: Power distribution communication
+- content: Couplers
 editorialgroup:
   committee:
   - IEEE Power and Energy Society

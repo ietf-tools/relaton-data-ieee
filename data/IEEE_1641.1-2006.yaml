@@ -1,9 +1,9 @@
 ---
 id: IEEE1641.1-2006
 title:
-- type: main
-  content: IEEE Guide for the Use of IEEE Std 1641, Standard for Signal and Test Definition
+- content: IEEE Guide for the Use of IEEE Std 1641, Standard for Signal and Test Definition
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4197455
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,28 +62,29 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2007'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Trademarks
-- Patents
-- Warranties
-- Automatic test equipment
-- ATE
-- ATLAS
-- ATML
-- ATS
-- automatic test equipment
-- signal definitions
-- test definitions
-- test requirements
-- test signals
-- unit under test
-- UUT
+- content: IEEE Standards
+- content: Trademarks
+- content: Patents
+- content: Warranties
+- content: Automatic test equipment
+- content: ATE
+- content: ATLAS
+- content: ATML
+- content: ATS
+- content: automatic test equipment
+- content: signal definitions
+- content: test definitions
+- content: test requirements
+- content: test signals
+- content: unit under test
+- content: UUT
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

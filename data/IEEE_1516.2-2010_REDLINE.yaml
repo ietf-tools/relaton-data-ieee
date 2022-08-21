@@ -1,14 +1,14 @@
 ---
 id: IEEE1516.2-2010Redline
 title:
-- type: title-main
-  content: IEEE Standard for Modeling and Simulation (M&S) High Level Architecture
+- content: IEEE Standard for Modeling and Simulation (M&S) High Level Architecture
     (HLA)-- Object Model Template (OMT) Specification
   format: text/plain
-- type: main
-  content: IEEE Standard for Modeling and Simulation (M&S) High Level Architecture
+  type: title-main
+- content: IEEE Standard for Modeling and Simulation (M&S) High Level Architecture
     (HLA)-- Object Model Template (OMT) Specification - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5953408
   type: src
@@ -36,8 +36,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -72,39 +73,40 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2011'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Modeling
-- Simulation
-- Computer architecture
-- Performance evaluation
-- Metasearch
-- Search engines
-- architecture
-- class attribute
-- data distribution management
-- federate
-- federation
-- federation execution
-- federation object model
-- framework
-- High Level Architecture
-- instance attribute
-- instance attribute ownership
-- interaction class
-- joined federate
-- object class
-- object model template
-- rules
-- runtime infrastructure
-- simulation object model
-- time-constrained
-- time-regulating
+- content: IEEE standards
+- content: Modeling
+- content: Simulation
+- content: Computer architecture
+- content: Performance evaluation
+- content: Metasearch
+- content: Search engines
+- content: architecture
+- content: class attribute
+- content: data distribution management
+- content: federate
+- content: federation
+- content: federation execution
+- content: federation object model
+- content: framework
+- content: High Level Architecture
+- content: instance attribute
+- content: instance attribute ownership
+- content: interaction class
+- content: joined federate
+- content: object class
+- content: object model template
+- content: rules
+- content: runtime infrastructure
+- content: simulation object model
+- content: time-constrained
+- content: time-regulating
 editorialgroup:
   committee:
   - Simulation Interoperability Stds Organization/Stds Activity Committee of the IEEE

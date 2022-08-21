@@ -1,9 +1,9 @@
 ---
 id: IEEE662-1992
 title:
-- type: main
-  content: IEEE Standard Terminology for Semiconductor Memory
+- content: IEEE Standard Terminology for Semiconductor Memory
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/182893
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,17 +63,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1992'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Semiconductor memories
-- Standardization
-- Professional communication
-- terminology
-- Semiconductor memory devices
+- content: Semiconductor memories
+- content: Standardization
+- content: Professional communication
+- content: terminology
+- content: Semiconductor memory devices
 editorialgroup:
   committee:
   - Test Technology of the IEEE Computer Society

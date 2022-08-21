@@ -1,10 +1,10 @@
 ---
 id: IEEE802.1AS-2011
 title:
-- type: main
-  content: IEEE Standard for Local and Metropolitan Area Networks - Timing and Synchronization
+- content: IEEE Standard for Local and Metropolitan Area Networks - Timing and Synchronization
     for Time-Sensitive Applications in Bridged Local Area Networks
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6099522
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,8 +62,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2011'
 relation:
@@ -86,21 +88,21 @@ relation:
     formattedref:
       content: IEEE 802.1AS-2020
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Testing
-- Power cables
-- Insulation
-- Voltage measurements
-- best master
-- frequency offset
-- grandmaster
-- IEEE 802.1AS
-- phase offset
-- synchronization
-- syntonization
-- time-aware system
+- content: IEEE standards
+- content: Testing
+- content: Power cables
+- content: Insulation
+- content: Voltage measurements
+- content: best master
+- content: frequency offset
+- content: grandmaster
+- content: IEEE 802.1AS
+- content: phase offset
+- content: synchronization
+- content: syntonization
+- content: time-aware system
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

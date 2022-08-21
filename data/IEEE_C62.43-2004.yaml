@@ -1,11 +1,11 @@
 ---
 id: IEEEC62.43-2004
 title:
-- type: main
-  content: IEEE Guide for the Application of Surge Protectors Used in Low-Voltage
+- content: IEEE Guide for the Application of Surge Protectors Used in Low-Voltage
     (Equal to Or Less Than 1000 V, RMS, Or 1200 V, DC) Data, Communications, and Signaling
     Circuits
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1577468
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   role:
   - publisher
@@ -57,17 +58,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2005'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Data communication
-- Surge protection
-- Low voltage
-- Signal processing
+- content: IEEE Standards
+- content: Data communication
+- content: Surge protection
+- content: Low voltage
+- content: Signal processing
 editorialgroup:
   committee:
   - Surge Protective Devices Committee of the IEEE Power Engineering Society

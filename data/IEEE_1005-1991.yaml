@@ -1,10 +1,10 @@
 ---
 id: IEEE1005-1991
 title:
-- type: main
-  content: IEEE Standard Definitions and Characterization of Floating Gate Semiconductor
+- content: IEEE Standard Definitions and Characterization of Floating Gate Semiconductor
     Arrays
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/159369
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -72,20 +73,21 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1991'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Cellular logic arrays
-- Circuit reliability
-- Failure analysis
-- Semiconductor memories
-- Memory architecture
-- array
-- Nonvolatile memory
-- Floating gate
+- content: Cellular logic arrays
+- content: Circuit reliability
+- content: Failure analysis
+- content: Semiconductor memories
+- content: Memory architecture
+- content: array
+- content: Nonvolatile memory
+- content: Floating gate
 editorialgroup:
   committee:
   - IEEE Electron Devices Society

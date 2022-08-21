@@ -1,9 +1,9 @@
 ---
 id: IEEE1014.1-1994
 title:
-- type: main
-  content: IEEE Standard for a Futurebus+(R)/VME64 Bridge
+- content: IEEE Standard for a Futurebus+(R)/VME64 Bridge
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/467523
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,19 +66,20 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1995'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Protocols
-- Data buses
-- Bus Bridge
-- Futurebus+
-- VMEbus
-- VME64
+- content: IEEE standards
+- content: Protocols
+- content: Data buses
+- content: Bus Bridge
+- content: Futurebus+
+- content: VMEbus
+- content: VME64
 editorialgroup:
   committee:
   - Microprocessor Standards Committee of the IEEE Computer Society

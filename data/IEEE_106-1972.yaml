@@ -1,10 +1,10 @@
 ---
 id: IEEE106-1972
 title:
-- type: main
-  content: IEEE Standard Test procedure for Test Procedure for Toroidal Magnetic Amplifier
+- content: IEEE Standard Test procedure for Test Procedure for Toroidal Magnetic Amplifier
     Cores (Including Core Material Data)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7361714
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,14 +65,15 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1972'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Testing
-- Magnetic cores
-- Torodial magnetic fields
-- Power amplifiers
+- content: IEEE Standards
+- content: Testing
+- content: Magnetic cores
+- content: Torodial magnetic fields
+- content: Power amplifiers

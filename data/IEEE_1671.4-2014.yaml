@@ -1,9 +1,9 @@
 ---
 id: IEEE1671.4-2014
 title:
-- type: main
-  content: IEEE Standard for Automatic Test Markup Language (ATML) Test Configuration
+- content: IEEE Standard for Automatic Test Markup Language (ATML) Test Configuration
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6808402
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2014'
 relation:
@@ -84,21 +86,21 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- XML
-- Test configuration
-- ATML instance document
-- automatic test equipment (ATE)
-- Automatic Test Markup Language (ATML)
-- automatic test system (ATS)
-- IEEE 1671.4(TM)
-- Master Configuration Control Document (MCCD)
-- Master Test Program Set Index (MTPSI)
-- station configuration file
-- test configuration
-- XML schema
+- content: IEEE standards
+- content: XML
+- content: Test configuration
+- content: ATML instance document
+- content: automatic test equipment (ATE)
+- content: Automatic Test Markup Language (ATML)
+- content: automatic test system (ATS)
+- content: IEEE 1671.4(TM)
+- content: Master Configuration Control Document (MCCD)
+- content: Master Test Program Set Index (MTPSI)
+- content: station configuration file
+- content: test configuration
+- content: XML schema
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

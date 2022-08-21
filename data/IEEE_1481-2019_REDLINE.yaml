@@ -1,13 +1,13 @@
 ---
 id: IEEE1481-2019Redline
 title:
-- type: title-main
-  content: IEEE Standard for Integrated Circuit (IC) Open Library Architecture (OLA)
+- content: IEEE Standard for Integrated Circuit (IC) Open Library Architecture (OLA)
   format: text/plain
-- type: main
-  content: IEEE Standard for Integrated Circuit (IC) Open Library Architecture (OLA)
+  type: title-main
+- content: IEEE Standard for Integrated Circuit (IC) Open Library Architecture (OLA)
     - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9080678
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2020'
 relation:
@@ -87,18 +89,18 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Integrated circuits
-- Design automation
-- Timing anlaysis
-- Performance evaluation
-- chip delay
-- electronic design automation (EDA)
-- IEEE 1481
-- integrated circuit (IC) design
-- power calculation
+- content: IEEE Standards
+- content: Integrated circuits
+- content: Design automation
+- content: Timing anlaysis
+- content: Performance evaluation
+- content: chip delay
+- content: electronic design automation (EDA)
+- content: IEEE 1481
+- content: integrated circuit (IC) design
+- content: power calculation
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

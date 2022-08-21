@@ -1,10 +1,10 @@
 ---
 id: IEEE1003.1/Cor2-2004
 title:
-- type: main
-  content: IEEE Standard for Information Technology - Portable Operating System Interface
+- content: IEEE Standard for Information Technology - Portable Operating System Interface
     (POSIX(TM)) - Technical Corrigendum 2
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1282224
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2004'
 relation:
@@ -84,28 +86,28 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Licenses
-- Patents
-- Operating systems
-- Authorization
-- Warranties
-- application program interface (API)
-- argument
-- asynchronous
-- basic regular expression (BRE)
-- batch job
-- batch system
-- built-in utility
-- byte
-- child
-- command language interpreter
-- CPU
-- extended regular expression (ERE)
-- FIFO
-- file access cont
+- content: IEEE Standards
+- content: Licenses
+- content: Patents
+- content: Operating systems
+- content: Authorization
+- content: Warranties
+- content: application program interface (API)
+- content: argument
+- content: asynchronous
+- content: basic regular expression (BRE)
+- content: batch job
+- content: batch system
+- content: built-in utility
+- content: byte
+- content: child
+- content: command language interpreter
+- content: CPU
+- content: extended regular expression (ERE)
+- content: FIFO
+- content: file access cont
 editorialgroup:
   committee:
   - Portable Applications of the IEEE Computer Society

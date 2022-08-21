@@ -1,10 +1,10 @@
 ---
 id: ANSIPN42.34/D-9a-15
 title:
-- type: main
-  content: ANSI/IEEE Draft American National Standard Performance Criteria for Hand-Held
+- content: ANSI/IEEE Draft American National Standard Performance Criteria for Hand-Held
     Instruments for the Detection and Identification of Radionuclides
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7337350
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,12 +66,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - American National Standards Institute
-    abbreviation: ANSI
+    - content: American National Standards Institute
+    abbreviation:
+      content: ANSI
     url: https://www.ansi.org
   from: '2015'
 relation:
@@ -91,21 +94,21 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- ANSI Standards
-- US Department of Homeland Security
-- Security
-- Gamma-ray detection
-- Neutrons
-- Radionuclides
-- IEEE Standards
-- gamma rays
-- neutrons
-- medical radionuclides
-- industrial radionuclides
-- special nuclear material (SNM)
-- homeland security.
+- content: ANSI Standards
+- content: US Department of Homeland Security
+- content: Security
+- content: Gamma-ray detection
+- content: Neutrons
+- content: Radionuclides
+- content: IEEE Standards
+- content: gamma rays
+- content: neutrons
+- content: medical radionuclides
+- content: industrial radionuclides
+- content: special nuclear material (SNM)
+- content: homeland security.
 ics:
 - code: '17.240'
   text: Radiation measurements

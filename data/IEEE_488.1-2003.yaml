@@ -1,10 +1,10 @@
 ---
 id: IEEE488.1-2003
 title:
-- type: main
-  content: IEEE Standard For Higher Performance Protocol for the Standard Digital
+- content: IEEE Standard For Higher Performance Protocol for the Standard Digital
     Interface for Programmable Instrumentation
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1258186
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -71,23 +72,24 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2003'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Instruments
-- Patents
-- Protocols
-- Trademarks
-- GPIB
-- HPIB
-- HS488
-- non-interlocked handshake
-- three-wire handshake
-- SCPI
+- content: IEEE Standards
+- content: Instruments
+- content: Patents
+- content: Protocols
+- content: Trademarks
+- content: GPIB
+- content: HPIB
+- content: HS488
+- content: non-interlocked handshake
+- content: three-wire handshake
+- content: SCPI
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

@@ -1,10 +1,10 @@
 ---
 id: IEEE1517-2010
 title:
-- type: main
-  content: IEEE Standard for Information Technology--System and Software Life Cycle
+- content: IEEE Standard for Information Technology--System and Software Life Cycle
     Processes--Reuse Processes
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5551093
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,23 +67,24 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2010'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Software
-- Asset management
-- Standards Coordinating Committees
-- Life testing
-- asset
-- domain engineering
-- process
-- reuse
-- software life cycle
-- system life cycle
+- content: IEEE standards
+- content: Software
+- content: Asset management
+- content: Standards Coordinating Committees
+- content: Life testing
+- content: asset
+- content: domain engineering
+- content: process
+- content: reuse
+- content: software life cycle
+- content: system life cycle
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

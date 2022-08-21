@@ -1,10 +1,10 @@
 ---
 id: IEEEP1490/D-1-2011-05
 title:
-- type: main
-  content: 'IEEE Draft Guide: Adoption of the Project Management Institute (PMI) Standard:
+- content: 'IEEE Draft Guide: Adoption of the Project Management Institute (PMI) Standard:
     A Guide to the Project Management Body of Knowledge (PMBOK Guide)-2008 (4th edition)'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5937011
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,15 +64,16 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2011'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Project management
-- Management
+- content: IEEE standards
+- content: Project management
+- content: Management
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

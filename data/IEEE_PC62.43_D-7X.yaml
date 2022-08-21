@@ -1,11 +1,11 @@
 ---
 id: IEEEPC62.43/D-7x
 title:
-- type: main
-  content: IEEE Approved Draft Guide for the Application of Surge Protectors Used
+- content: IEEE Approved Draft Guide for the Application of Surge Protectors Used
     in Low-Voltage (Equal to or Less than 1000 Vrms or 1200 Vdc) Data, Communications,
     and Signaling Circuits
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4040834
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2004'
 relation:
@@ -85,15 +87,15 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- current-limiting device
-- dc-limiting voltage test
-- impulse-limiting voltage test
-- multiple component protector
-- multiport coupling test
-- signaling circuit
-- surge protector
+- content: current-limiting device
+- content: dc-limiting voltage test
+- content: impulse-limiting voltage test
+- content: multiple component protector
+- content: multiport coupling test
+- content: signaling circuit
+- content: surge protector
 editorialgroup:
   committee:
   - Surge Protective Devices/Low Voltage of the IEEE Power and Energy Society

@@ -1,14 +1,14 @@
 ---
 id: IEEE1349-2021Redline
 title:
-- type: title-main
-  content: IEEE Guide for the Application of Electric Machines in Zone 2 and Class
+- content: IEEE Guide for the Application of Electric Machines in Zone 2 and Class
     I, Division 2 Hazardous (Classified) Locations
   format: text/plain
-- type: main
-  content: IEEE Guide for the Application of Electric Machines in Zone 2 and Class
+  type: title-main
+- content: IEEE Guide for the Application of Electric Machines in Zone 2 and Class
     I, Division 2 Hazardous (Classified) Locations - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9687480
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -75,8 +76,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2021'
 relation:
@@ -97,21 +99,22 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Electric machines
-- Hazards
-- Variable speed drives
-- Temperature measurement
-- Rotors
-- Synchronous motors
-- adjustable speed drive; autoignition temperature; Class I
-- Division 2; classified locations; electric machine; enclosure sparking; generator;
-  hazardous locations; IEEE 1349; induction motor; label test; motor; motor enclosure;
-  motor temperature; multisection motor; paint test; rotor; rotor sparking; rotor
-  temperature; space heater test; synchronous motor; T Code; temperature code
-- Zone 2
+- content: IEEE Standards
+- content: Electric machines
+- content: Hazards
+- content: Variable speed drives
+- content: Temperature measurement
+- content: Rotors
+- content: Synchronous motors
+- content: adjustable speed drive; autoignition temperature; Class I
+- content: Division 2; classified locations; electric machine; enclosure sparking;
+    generator; hazardous locations; IEEE 1349; induction motor; label test; motor;
+    motor enclosure; motor temperature; multisection motor; paint test; rotor; rotor
+    sparking; rotor temperature; space heater test; synchronous motor; T Code; temperature
+    code
+- content: Zone 2
 editorialgroup:
   committee:
   - Petroleum &amp; Chemical Industry of the IEEE Industry Applications Society

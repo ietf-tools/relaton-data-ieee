@@ -1,10 +1,10 @@
 ---
 id: IEEE344-1971
 title:
-- type: main
-  content: IEEE Trial-Use Guide for Seismic Qualification of Class I Electric Equipment
+- content: IEEE Trial-Use Guide for Seismic Qualification of Class I Electric Equipment
     for Nuclear Power Generating Stations
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6634312
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1971'
 relation:
@@ -89,14 +91,14 @@ relation:
     formattedref:
       content: ANSI/IEEE 344-1975
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Nuclear power generation
-- Seismic measurements
-- Electric equipment
-- Earthquakes
-- Performance evaluation
+- content: IEEE standards
+- content: Nuclear power generation
+- content: Seismic measurements
+- content: Electric equipment
+- content: Earthquakes
+- content: Performance evaluation
 editorialgroup:
   committee:
   - Nuclear Power Engineering of the IEEE Power and Energy Society

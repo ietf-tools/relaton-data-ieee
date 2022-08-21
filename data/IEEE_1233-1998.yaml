@@ -1,9 +1,9 @@
 ---
 id: IEEE1233-1998
 title:
-- type: main
-  content: IEEE Guide for Developing System Requirements Specifications
+- content: IEEE Guide for Developing System Requirements Specifications
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/741940
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1998'
 relation:
@@ -87,13 +89,13 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- System analysis and design
-- requirement
-- SyRS
-- system
-- system requirements specification
+- content: System analysis and design
+- content: requirement
+- content: SyRS
+- content: system
+- content: system requirements specification
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

@@ -1,9 +1,9 @@
 ---
 id: IEEE802.3.2-2019
 title:
-- type: main
-  content: IEEE Standard for Ethernet - YANG Data Model Definitions
+- content: IEEE Standard for Ethernet - YANG Data Model Definitions
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8737019
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,19 +64,20 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2019'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Ethernet
-- Collision avoidance
-- EPON
-- IEEE 802.3 Standard
-- 802.3 Ethernet
-- YANG.
+- content: IEEE Standards
+- content: Ethernet
+- content: Collision avoidance
+- content: EPON
+- content: IEEE 802.3 Standard
+- content: 802.3 Ethernet
+- content: YANG.
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

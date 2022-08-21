@@ -1,10 +1,10 @@
 ---
 id: IEEE1012a-1998
 title:
-- type: main
-  content: IEEE Standard for Software Verification and Validation - Content Map to
+- content: IEEE Standard for Software Verification and Validation - Content Map to
     IEEE 12207.1
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6936453
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1998'
 relation:
@@ -85,15 +87,15 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Software standards
-- Software testing
-- Formal verification
-- life cycle data plans
-- qualification test
-- verification and validation
+- content: IEEE standards
+- content: Software standards
+- content: Software testing
+- content: Formal verification
+- content: life cycle data plans
+- content: qualification test
+- content: verification and validation
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

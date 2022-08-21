@@ -1,10 +1,10 @@
 ---
 id: ISO/IEC/IEEE26515
 title:
-- type: main
-  content: ISO/IEC/IEEE International Standard - Systems and software engineering
+- content: ISO/IEC/IEEE International Standard - Systems and software engineering
     -- Developing user documentation in an agile environment
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6170923
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -72,13 +73,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2012'
 relation:
 - type: obsoletedBy
@@ -91,16 +93,16 @@ relation:
     formattedref:
       content: ISO/IEC/IEEE 26515-2018
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Software engineering
-- Software systems
-- Agile manufacturing
-- Documentation
-- agile development
-- incremental development
-- software user documentation
+- content: IEEE standards
+- content: Software engineering
+- content: Software systems
+- content: Agile manufacturing
+- content: Documentation
+- content: agile development
+- content: incremental development
+- content: software user documentation
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

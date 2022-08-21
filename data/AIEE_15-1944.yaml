@@ -1,9 +1,9 @@
 ---
 id: AIEE15-1944
 title:
-- type: main
-  content: AIEE American Standard for Industrial Control Apparatus
+- content: AIEE American Standard for Industrial Control Apparatus
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7368069
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -51,7 +52,7 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - AIEE
+    - content: AIEE
   from: '1944'
 relation:
 - type: updates
@@ -71,9 +72,9 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- AIEE Standards
-- Industrial control
-- Industrial electronics
-- Equipment
+- content: AIEE Standards
+- content: Industrial control
+- content: Industrial electronics
+- content: Equipment

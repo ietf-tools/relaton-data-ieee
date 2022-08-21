@@ -1,10 +1,10 @@
 ---
 id: IEEE982.2-1988
 title:
-- type: main
-  content: IEEE Guide for the Use of IEEE Standard Dictionary of Measures to Produce
+- content: IEEE Guide for the Use of IEEE Standard Dictionary of Measures to Produce
     Reliable Software
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/26479
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -74,21 +75,22 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1989'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Terminology
-- Software reliability
-- Standards
-- dictionary
-- measures
-- produce
-- reliable
-- Software metrics
-- Software development management
+- content: Terminology
+- content: Software reliability
+- content: Standards
+- content: dictionary
+- content: measures
+- content: produce
+- content: reliable
+- content: Software metrics
+- content: Software development management
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

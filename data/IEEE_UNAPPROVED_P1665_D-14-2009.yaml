@@ -1,10 +1,10 @@
 ---
 id: IEEEUnapprovedP1665/D-14-2009
 title:
-- type: main
-  content: IEEE Draft Guide for the Rewind of Synchronous Generators, 50 and 60 Hz,
+- content: IEEE Draft Guide for the Rewind of Synchronous Generators, 50 and 60 Hz,
     rated 1 MVA and above
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4977279
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -60,18 +61,19 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- synchronous generator
-- stator rewind
-- rotor rewind
-- cylindrical pole rotor
-- salient pole rotor
-- insulation
+- content: synchronous generator
+- content: stator rewind
+- content: rotor rewind
+- content: cylindrical pole rotor
+- content: salient pole rotor
+- content: insulation
 ics:
 - code: 29.160.20
   text: Generators

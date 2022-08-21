@@ -1,10 +1,10 @@
 ---
 id: IEEE1465-1998
 title:
-- type: main
-  content: IEEE Standard - Adoption of International Standard ISO/IEC 12119:1994(E)
+- content: IEEE Standard - Adoption of International Standard ISO/IEC 12119:1994(E)
     - Information Technology - Software Packages - Quality Requirements and Testing
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4301416
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,23 +65,24 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1998'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- ISO standards
-- Software
-- Data mining
-- Standards Board
-- IEC standards
-- quality requirements
-- software
-- software engineering
-- software package
-- testing
+- content: IEEE standards
+- content: ISO standards
+- content: Software
+- content: Data mining
+- content: Standards Board
+- content: IEC standards
+- content: quality requirements
+- content: software
+- content: software engineering
+- content: software package
+- content: testing
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

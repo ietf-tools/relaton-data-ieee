@@ -1,9 +1,9 @@
 ---
 id: IEEENo.311
 title:
-- type: main
-  content: IEEE Standard Specification of General-Purpose Laboratory Cathode-Ray Oscilloscopes
+- content: IEEE Standard Specification of General-Purpose Laboratory Cathode-Ray Oscilloscopes
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/27697
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,20 +66,21 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1970'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Oscilloscopes
-- Electronic equipment testing
-- Measurement standards
-- oscilloscopes
-- laboratory
-- general
-- purpose
-- cathode-ray
+- content: Oscilloscopes
+- content: Electronic equipment testing
+- content: Measurement standards
+- content: oscilloscopes
+- content: laboratory
+- content: general
+- content: purpose
+- content: cathode-ray
 editorialgroup:
   committee:
   - IEEE Instrumentation and Measurement Society

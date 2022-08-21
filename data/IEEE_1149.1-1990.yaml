@@ -1,9 +1,9 @@
 ---
 id: IEEE1149.1-1990
 title:
-- type: main
-  content: IEEE Standard Test Access Port and Boundary-Scan Architecture
+- content: IEEE Standard Test Access Port and Boundary-Scan Architecture
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/211226
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1990'
 relation:
@@ -78,20 +80,20 @@ relation:
     formattedref:
       content: IEEE 1149.1-2001
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Computer interfaces
-- Logic circuit testing
-- Printed circuit testing
-- Standards
-- testability
-- bus
-- architecture
-- Test ports
-- Printed circuit boards
-- Circuitry
-- Circuit boards
-- Boundary-scan register
+- content: Computer interfaces
+- content: Logic circuit testing
+- content: Printed circuit testing
+- content: Standards
+- content: testability
+- content: bus
+- content: architecture
+- content: Test ports
+- content: Printed circuit boards
+- content: Circuitry
+- content: Circuit boards
+- content: Boundary-scan register
 editorialgroup:
   committee:
   - Test Technology of the IEEE Computer Society

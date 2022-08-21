@@ -1,9 +1,9 @@
 ---
 id: IEEE1366-1998
 title:
-- type: main
-  content: IEEE Guide for Electric Power Distribution Reliability Indices
+- content: IEEE Guide for Electric Power Distribution Reliability Indices
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/769684
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1999'
 relation:
@@ -77,14 +79,14 @@ relation:
     formattedref:
       content: IEEE 1366-2003
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- circuits
-- distribution reliability indices
-- distribution systems
-- electric power
-- reliability indices
+- content: IEEE standards
+- content: circuits
+- content: distribution reliability indices
+- content: distribution systems
+- content: electric power
+- content: reliability indices
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society

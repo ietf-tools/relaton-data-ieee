@@ -1,9 +1,9 @@
 ---
 id: ANSI/IEEE754-1985
 title:
-- type: main
-  content: IEEE Standard for Binary Floating-Point Arithmetic
+- content: IEEE Standard for Binary Floating-Point Arithmetic
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/30711
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1985'
 relation:
@@ -79,12 +81,12 @@ relation:
     formattedref:
       content: IEEE 754-2008
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Digital arithmetic
-- Standards
-- binary
-- Floating-point arithmetic
+- content: Digital arithmetic
+- content: Standards
+- content: binary
+- content: Floating-point arithmetic
 editorialgroup:
   committee:
   - Microprocessor Standards Committee of the IEEE Computer Society

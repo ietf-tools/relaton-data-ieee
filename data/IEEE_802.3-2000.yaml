@@ -1,11 +1,11 @@
 ---
 id: IEEE802.3-2000
 title:
-- type: main
-  content: 'IEEE Standard for Information Technology - LAN/MAN - Specific Requirements
+- content: 'IEEE Standard for Information Technology - LAN/MAN - Specific Requirements
     -Part 3: Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Access
     Method and Physical Layer Specifications'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/879000
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -78,8 +79,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2000'
 relation:
@@ -110,23 +112,23 @@ relation:
     formattedref:
       content: IEEE 802.3-2002
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE 802.3 Standard
-- EPON
-- ISO Standards
-- IEC Standards
-- Media Access Protocol
-- Aggregated Link; Aggregator; Auto Negotiation; Category 5; copper; data processing;
-  Ethernet
-- gigabit
-- information interchange
-- Link Aggregation; local area networks
-- management
-- MASTER-SLAVE; medium dependent interface; mode of data transmission; models
-- network interconnection; physical coding sublayer; Physical Layer; physical medium
-  attachment; repeater
-- type field; VLAN TAG
+- content: IEEE 802.3 Standard
+- content: EPON
+- content: ISO Standards
+- content: IEC Standards
+- content: Media Access Protocol
+- content: Aggregated Link; Aggregator; Auto Negotiation; Category 5; copper; data
+    processing; Ethernet
+- content: gigabit
+- content: information interchange
+- content: Link Aggregation; local area networks
+- content: management
+- content: MASTER-SLAVE; medium dependent interface; mode of data transmission; models
+- content: network interconnection; physical coding sublayer; Physical Layer; physical
+    medium attachment; repeater
+- content: type field; VLAN TAG
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

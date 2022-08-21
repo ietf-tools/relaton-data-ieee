@@ -1,10 +1,10 @@
 ---
 id: IEEE259-1999
 title:
-- type: main
-  content: IEEE Standard Test Procedure for Evaluation of Systems of Insulation for
+- content: IEEE Standard Test Procedure for Evaluation of Systems of Insulation for
     Dry-Type Specialty and General-Purpose Transformers
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/798777
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,19 +63,20 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1999'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Power transformer insulation
-- aging
-- evaluation
-- dry-type
-- insulation system
-- thermal
-- transformers
+- content: Power transformer insulation
+- content: aging
+- content: evaluation
+- content: dry-type
+- content: insulation system
+- content: thermal
+- content: transformers
 editorialgroup:
   committee:
   - Transformers of the IEEE Power and Energy Society

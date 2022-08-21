@@ -1,9 +1,9 @@
 ---
 id: IEEE1364.1-2002
 title:
-- type: main
-  content: IEEE Standard for Verilog Register Transfer Level Synthesis
+- content: IEEE Standard for Verilog Register Transfer Level Synthesis
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1146718
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,23 +70,24 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2002'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Hardware design languages
-- Syntactics
-- Patents
-- Semantics
-- Registers
-- hardware description language
-- HDL
-- RTL
-- synthesis
-- Verilog &#174;
+- content: IEEE Standards
+- content: Hardware design languages
+- content: Syntactics
+- content: Patents
+- content: Semantics
+- content: Registers
+- content: hardware description language
+- content: HDL
+- content: RTL
+- content: synthesis
+- content: Verilog &#174;
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

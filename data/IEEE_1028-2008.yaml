@@ -1,9 +1,9 @@
 ---
 id: IEEE1028-2008
 title:
-- type: main
-  content: IEEE Standard for Software Reviews and Audits
+- content: IEEE Standard for Software Reviews and Audits
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4601584
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,21 +66,22 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2008'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Software testing
-- Performance evaluation
-- Software maintenance
-- 1028-2008
-- audit
-- inspection
-- review
-- walk-through
+- content: IEEE Standards
+- content: Software testing
+- content: Performance evaluation
+- content: Software maintenance
+- content: 1028-2008
+- content: audit
+- content: inspection
+- content: review
+- content: walk-through
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

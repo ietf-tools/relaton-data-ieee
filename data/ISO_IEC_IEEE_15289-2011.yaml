@@ -1,10 +1,10 @@
 ---
 id: ISO/IEC/IEEE15289-2011
 title:
-- type: main
-  content: ISO/IEC/IEEE Systems and software engineering -- Content of life-cycle
+- content: ISO/IEC/IEEE Systems and software engineering -- Content of life-cycle
     information products (documentation)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6104079
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -75,13 +76,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2011'
 relation:
 - type: updates
@@ -111,27 +113,27 @@ relation:
     formattedref:
       content: ISO/IEC/IEEE 15289-2015
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Software engineering
-- Systems engineering and theory
-- Product life cycle management
-- Information technology
-- data management
-- description
-- document management
-- IEEE 15289
-- information items
-- information management
-- plan
-- policy
-- procedure
-- records
-- report
-- request
-- software documentation
-- specification
+- content: IEEE standards
+- content: Software engineering
+- content: Systems engineering and theory
+- content: Product life cycle management
+- content: Information technology
+- content: data management
+- content: description
+- content: document management
+- content: IEEE 15289
+- content: information items
+- content: information management
+- content: plan
+- content: policy
+- content: procedure
+- content: records
+- content: report
+- content: request
+- content: software documentation
+- content: specification
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

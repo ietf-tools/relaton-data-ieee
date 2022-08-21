@@ -1,10 +1,10 @@
 ---
 id: IEEE1073.3.2-2000
 title:
-- type: main
-  content: IEEE Standard for Medical Device Communications - Transport Profile - IrDA
+- content: IEEE Standard for Medical Device Communications - Transport Profile - IrDA
     Based - Cable Connected
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/839659
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,24 +64,25 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2000'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Biomedical equipment
-- Medical services
-- bedside
-- Infrared Data Association
-- IrDA
-- legacy device
-- medical device
-- medical device communications
-- MIB
-- patient
-- SNTP
+- content: IEEE standards
+- content: Biomedical equipment
+- content: Medical services
+- content: bedside
+- content: Infrared Data Association
+- content: IrDA
+- content: legacy device
+- content: medical device
+- content: medical device communications
+- content: MIB
+- content: patient
+- content: SNTP
 editorialgroup:
   committee:
   - IEEE 11073 Standards Committee of the IEEE Engineering in Medicine and Biology

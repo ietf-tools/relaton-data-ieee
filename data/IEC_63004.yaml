@@ -1,9 +1,9 @@
 ---
 id: IEC63004
 title:
-- type: main
-  content: IEC/IEEE International standard for receiver fixture interface
+- content: IEC/IEEE International standard for receiver fixture interface
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7358449
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -78,11 +79,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2015'
 relation:
 - type: adoptedFrom
@@ -95,22 +97,22 @@ relation:
     formattedref:
       content: IEEE 1505-2010
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEC Standards
-- IEC Standards
-- Receivers
-- Connectors
-- Interoperability
-- connector
-- fixture
-- framework
-- interface
-- interoperability
-- mass-interconnect
-- quick disconnect
-- receiver
-- specification
+- content: IEC Standards
+- content: IEC Standards
+- content: Receivers
+- content: Connectors
+- content: Interoperability
+- content: connector
+- content: fixture
+- content: framework
+- content: interface
+- content: interoperability
+- content: mass-interconnect
+- content: quick disconnect
+- content: receiver
+- content: specification
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

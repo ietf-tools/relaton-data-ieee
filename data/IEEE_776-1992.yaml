@@ -1,10 +1,10 @@
 ---
 id: IEEE776-1992
 title:
-- type: main
-  content: IEEE Recommended Practice for Inductive Coordination of Electric Supply
+- content: IEEE Recommended Practice for Inductive Coordination of Electric Supply
     and Communication Lines
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/239617
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,8 +62,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1992'
 relation:
@@ -86,12 +88,12 @@ relation:
     formattedref:
       content: IEEE 776-2018
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Electromagnetic induction
-- Power transmission lines
-- Standards
-- Wire communication cables
+- content: Electromagnetic induction
+- content: Power transmission lines
+- content: Standards
+- content: Wire communication cables
 editorialgroup:
   committee:
   - IEEE Power and Energy Society

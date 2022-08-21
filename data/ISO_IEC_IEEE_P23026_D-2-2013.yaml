@@ -1,10 +1,10 @@
 ---
 id: ISO/IEC/IEEEP23026/D-2-2013
 title:
-- type: main
-  content: ISO/IEC/IEEE Draft Systems and software engineering - Engineering and management
+- content: ISO/IEC/IEEE Draft Systems and software engineering - Engineering and management
     of websites for systems, software, and services information
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6776384
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -75,13 +76,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2014'
 relation:
 - type: updates
@@ -101,21 +103,21 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- IEC standards
-- ISO standards
-- Software engineering
-- Management
-- Software development management
-- Internet
-- Web sites
-- Web design
-- '23026'
-- website management
-- website engineering
-- webmaster
+- content: IEEE standards
+- content: IEC standards
+- content: ISO standards
+- content: Software engineering
+- content: Management
+- content: Software development management
+- content: Internet
+- content: Web sites
+- content: Web design
+- content: '23026'
+- content: website management
+- content: website engineering
+- content: webmaster
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

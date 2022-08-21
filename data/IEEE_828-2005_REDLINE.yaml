@@ -1,12 +1,12 @@
 ---
 id: IEEE828-2005Redline
 title:
-- type: title-main
-  content: IEEE Standard for Software Configuration Management Plans
+- content: IEEE Standard for Software Configuration Management Plans
   format: text/plain
-- type: main
-  content: IEEE Standard for Software Configuration Management Plans - Redline
+  type: title-main
+- content: IEEE Standard for Software Configuration Management Plans - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6044675
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,8 +67,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2011'
 relation:
@@ -88,21 +90,21 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Software development management
-- Software architecture
-- Software maintenance
-- configuration control
-- configuration control board
-- configuration identification
-- configuration item
-- configuration review
-- configuration status accounting
-- release management
-- software configuration management
-- software configuration management plan
+- content: IEEE standards
+- content: Software development management
+- content: Software architecture
+- content: Software maintenance
+- content: configuration control
+- content: configuration control board
+- content: configuration identification
+- content: configuration item
+- content: configuration review
+- content: configuration status accounting
+- content: release management
+- content: software configuration management
+- content: software configuration management plan
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

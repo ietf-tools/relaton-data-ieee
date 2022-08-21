@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE539-1979
 title:
-- type: main
-  content: IEEE Standard Definitions of Terms Relating to Overhead-Power-Line Corona
+- content: IEEE Standard Definitions of Terms Relating to Overhead-Power-Line Corona
     and Radio Noise
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/21021
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,8 +67,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1979'
 relation:
@@ -81,16 +83,16 @@ relation:
     formattedref:
       content: IEEE 539-1990
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Corona
-- Electromagnetic radiative interference
-- Standards
-- overhead
-- power
-- lines
-- radio
-- noise
+- content: Corona
+- content: Electromagnetic radiative interference
+- content: Standards
+- content: overhead
+- content: power
+- content: lines
+- content: radio
+- content: noise
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society

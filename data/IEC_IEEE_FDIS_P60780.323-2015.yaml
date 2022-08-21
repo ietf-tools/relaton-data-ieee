@@ -1,10 +1,10 @@
 ---
 id: IEC/IEEEFDISP60780.323-2015
 title:
-- type: main
-  content: IEC/IEEE Draft International Standard - Nuclear Facilities - Electrical
+- content: IEC/IEEE Draft International Standard - Nuclear Facilities - Electrical
     Equipment Important to Safety - Qualification
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7307913
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,11 +67,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2015'
 relation:
 - type: updates
@@ -90,28 +92,28 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEC Standards
-- Qualifications
-- IEC
-- IEEE publications
-- Documentation
-- Patents
-- age conditioning
-- aging
-- condition monitoring
-- design basis events
-- equipment qualification
-- harsh environment
-- margin
-- mild environment
-- qualification method
-- qualified life
-- radiation
-- safety related function
-- significant aging mechanism
-- test plan
+- content: IEC Standards
+- content: Qualifications
+- content: IEC
+- content: IEEE publications
+- content: Documentation
+- content: Patents
+- content: age conditioning
+- content: aging
+- content: condition monitoring
+- content: design basis events
+- content: equipment qualification
+- content: harsh environment
+- content: margin
+- content: mild environment
+- content: qualification method
+- content: qualified life
+- content: radiation
+- content: safety related function
+- content: significant aging mechanism
+- content: test plan
 editorialgroup:
   committee:
   - Nuclear Power Engineering of the IEEE Power and Energy Society

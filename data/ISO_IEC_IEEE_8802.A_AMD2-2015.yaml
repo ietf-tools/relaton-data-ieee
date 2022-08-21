@@ -1,10 +1,10 @@
 ---
 id: ISO/IEC/IEEE8802.A/Amd2-2015
 title:
-- type: main
-  content: 'ISO/IEC/IEEE International Standard - Local and Metropolitan Area Networks:Overview
+- content: 'ISO/IEC/IEEE International Standard - Local and Metropolitan Area Networks:Overview
     and Architecture--Amendment 2: Local Medium Access Control (MAC) Address Usage'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8664708
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,13 +68,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2019'
 relation:
 - type: adoptedFrom
@@ -86,30 +88,30 @@ relation:
     formattedref:
       content: IEEE 802c-2017
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ISO Standards
-- IEC Standards
-- Local area networks
-- Metropolitan area networks
-- Media Access Protocol
-- AAI
-- Administratively Assigned Identifier
-- CID
-- Company ID
-- ELI
-- Extended Local global address
-- IEEE 802&#174;
-- IEEE Registration Authority
-- local address
-- MAC
-- medium Identifier
-- access control
-- SAI
-- SLAP
-- Standard Assigned Identifier
-- Structured Local Address Plan
+- content: IEEE Standards
+- content: ISO Standards
+- content: IEC Standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Media Access Protocol
+- content: AAI
+- content: Administratively Assigned Identifier
+- content: CID
+- content: Company ID
+- content: ELI
+- content: Extended Local global address
+- content: IEEE 802&#174;
+- content: IEEE Registration Authority
+- content: local address
+- content: MAC
+- content: medium Identifier
+- content: access control
+- content: SAI
+- content: SLAP
+- content: Standard Assigned Identifier
+- content: Structured Local Address Plan
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

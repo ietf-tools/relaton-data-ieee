@@ -1,9 +1,9 @@
 ---
 id: IEEE1801-2013
 title:
-- type: main
-  content: IEEE Standard for Design and Verification of Low-Power Integrated Circuits
+- content: IEEE Standard for Design and Verification of Low-Power Integrated Circuits
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6521327
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2013'
 relation:
@@ -104,30 +106,30 @@ relation:
     formattedref:
       content: IEEE 1801-2015
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Semantics
-- Design methodology
-- Retention strategies
-- Low power electronics
-- Integrated  circuits
-- Formal verification
-- Power system restoration
-- corruption semantics
-- IEEE 1801&#8482;
-- interface specification
-- IP reuse
-- isolation
-- level-shifting
-- power-aware design
-- power domains
-- power intent
-- power modes
-- power states
-- progressive design refinement
-- retention
-- retention strategies
+- content: IEEE standards
+- content: Semantics
+- content: Design methodology
+- content: Retention strategies
+- content: Low power electronics
+- content: Integrated  circuits
+- content: Formal verification
+- content: Power system restoration
+- content: corruption semantics
+- content: IEEE 1801&#8482;
+- content: interface specification
+- content: IP reuse
+- content: isolation
+- content: level-shifting
+- content: power-aware design
+- content: power domains
+- content: power intent
+- content: power modes
+- content: power states
+- content: progressive design refinement
+- content: retention
+- content: retention strategies
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

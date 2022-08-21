@@ -1,10 +1,10 @@
 ---
 id: IEEE577-2022
 title:
-- type: main
-  content: IEEE Standard Requirements for Reliability Analysis in the Design and Operation
+- content: IEEE Standard Requirements for Reliability Analysis in the Design and Operation
     of Safety Systems for Nuclear Power Generating Stations and Other Nuclear Facilities
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9761118
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2022'
 relation:
@@ -87,16 +89,16 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Power system reliability
-- Nuclear power generation
-- Safety
-- IEEE 577
-- nuclear facilities
-- reliability analysis
-- safety systems
+- content: IEEE Standards
+- content: Power system reliability
+- content: Nuclear power generation
+- content: Safety
+- content: IEEE 577
+- content: nuclear facilities
+- content: reliability analysis
+- content: safety systems
 editorialgroup:
   committee:
   - Nuclear Power Engineering of the IEEE Power and Energy Society

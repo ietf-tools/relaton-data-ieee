@@ -1,10 +1,10 @@
 ---
 id: IEEE1695-2016
 title:
-- type: main
-  content: IEEE Guide to Understanding, Diagnosing, and Mitigating Stray and Contact
+- content: IEEE Guide to Understanding, Diagnosing, and Mitigating Stray and Contact
     Voltage
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7508856
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,19 +67,20 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2016'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Voltage measurement
-- Stray voltage
-- Power system reliability
-- contact voltage
-- IEEE 1695(TM)
-- stray voltage
+- content: IEEE Standards
+- content: Voltage measurement
+- content: Stray voltage
+- content: Power system reliability
+- content: contact voltage
+- content: IEEE 1695(TM)
+- content: stray voltage
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society

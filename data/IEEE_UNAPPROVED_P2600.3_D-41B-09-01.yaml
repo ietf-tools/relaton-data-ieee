@@ -1,10 +1,10 @@
 ---
 id: IEEEUnapprovedP2600.3/D-41b-09-01
 title:
-- type: main
-  content: IEEE Draft Standard for a Protection Profile in Operational Environment
+- content: IEEE Draft Standard for a Protection Profile in Operational Environment
     C
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4783120
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -57,11 +58,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: '35.180'
   text: IT terminal and other peripheral equipment

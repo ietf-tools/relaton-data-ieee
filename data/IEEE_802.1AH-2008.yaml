@@ -1,10 +1,10 @@
 ---
 id: IEEE802.1ah-2008
 title:
-- type: main
-  content: 'IEEE Standard for Local and metropolitan area networks -- Virtual Bridged
+- content: 'IEEE Standard for Local and metropolitan area networks -- Virtual Bridged
     Local Area Networks Amendment 7: Provider Backbone Bridges'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4602826
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2008'
 relation:
@@ -85,15 +87,15 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Local area networks
-- Patents
-- Bridges
-- Protocols
-- IEEE Standards Association
-- update:3689
+- content: IEEE Standards
+- content: Local area networks
+- content: Patents
+- content: Bridges
+- content: Protocols
+- content: IEEE Standards Association
+- content: update:3689
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

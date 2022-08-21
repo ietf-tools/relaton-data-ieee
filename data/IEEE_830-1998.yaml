@@ -1,9 +1,9 @@
 ---
 id: IEEE830-1998
 title:
-- type: main
-  content: IEEE Recommended Practice for Software Requirements Specifications
+- content: IEEE Recommended Practice for Software Requirements Specifications
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/720574
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1998'
 relation:
@@ -85,15 +87,15 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Software requirements and specifications
-- contract
-- customer
-- prototyping
-- software requirements specification
-- supplier
-- system requirements specifications
+- content: Software requirements and specifications
+- content: contract
+- content: customer
+- content: prototyping
+- content: software requirements specification
+- content: supplier
+- content: system requirements specifications
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

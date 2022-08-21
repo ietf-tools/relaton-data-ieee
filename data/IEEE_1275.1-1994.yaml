@@ -1,10 +1,10 @@
 ---
 id: IEEE1275.1-1994
 title:
-- type: main
-  content: 'IEEE Standard for Boot (Initialization Configuration) Firmware: Instruction
+- content: 'IEEE Standard for Boot (Initialization Configuration) Firmware: Instruction
     Set Architecture (ISA) Supplement for IEEE 1754'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/467437
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,23 +70,24 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1994'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Computer instructions
-- boot
-- configuration
-- debug
-- FCode
-- firmware
-- Forth
-- initialization
-- plug-in device
-- ROM
+- content: IEEE standards
+- content: Computer instructions
+- content: boot
+- content: configuration
+- content: debug
+- content: FCode
+- content: firmware
+- content: Forth
+- content: initialization
+- content: plug-in device
+- content: ROM
 editorialgroup:
   committee:
   - Microprocessor Standards Committee of the IEEE Computer Society

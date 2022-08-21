@@ -1,10 +1,10 @@
 ---
 id: IEEEP1547.3/D-3.08-2022-03
 title:
-- type: main
-  content: IEEE Draft Guide for Cybersecurity of Distributed Energy Resources Interconnected
+- content: IEEE Draft Guide for Cybersecurity of Distributed Energy Resources Interconnected
     with Electric Power Systems
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9751215
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -50,8 +51,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2022'
 relation:
@@ -72,15 +74,15 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Distributed power generation
-- Energy management
-- Power systems
-- Computer security
-- Information exchange
-- Information security
+- content: IEEE Standards
+- content: Distributed power generation
+- content: Energy management
+- content: Power systems
+- content: Computer security
+- content: Information exchange
+- content: Information security
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

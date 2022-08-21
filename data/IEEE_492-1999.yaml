@@ -1,9 +1,9 @@
 ---
 id: IEEE492-1999
 title:
-- type: main
-  content: IEEE Guide for Operation and Maintenance of Hydro-Generators
+- content: IEEE Guide for Operation and Maintenance of Hydro-Generators
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/749037
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,21 +64,22 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1999'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Hydroelectric generators
-- generator generator/motor
-- horizontal hydro-generator
-- hydro-generator loading
-- maintenance
-- operation
-- pumped-storage system
-- synchronous hydro-generator
-- vertical hydro-generator
+- content: Hydroelectric generators
+- content: generator generator/motor
+- content: horizontal hydro-generator
+- content: hydro-generator loading
+- content: maintenance
+- content: operation
+- content: pumped-storage system
+- content: synchronous hydro-generator
+- content: vertical hydro-generator
 editorialgroup:
   committee:
   - Electric Machinery of the IEEE Power and Energy Society

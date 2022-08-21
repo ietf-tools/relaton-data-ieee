@@ -1,9 +1,9 @@
 ---
 id: IEEE977-1991
 title:
-- type: main
-  content: IEEE Guide to Installation of Foundations for Transmission Line Structures
+- content: IEEE Guide to Installation of Foundations for Transmission Line Structures
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/159161
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1991'
 relation:
@@ -87,13 +89,13 @@ relation:
     formattedref:
       content: IEEE 977-2010
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Poles and towers
-- Standards
-- anchor
-- foundation
-- pile
+- content: Poles and towers
+- content: Standards
+- content: anchor
+- content: foundation
+- content: pile
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society

@@ -1,10 +1,10 @@
 ---
 id: IEEE/ISO/IECFDISP29119.4-2020-12
 title:
-- type: main
-  content: 'IEEE/ISO/IEC Draft International Standard - Software and systems engineering--Software
+- content: 'IEEE/ISO/IEC Draft International Standard - Software and systems engineering--Software
     testing--Part 4: Test techniques'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9334488
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -70,13 +71,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2021'
 relation:
 - type: updates
@@ -96,14 +98,14 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- ISO Standards
-- Software engineering
-- Systems engineering and theory
-- Software testing
+- content: IEEE Standards
+- content: IEC Standards
+- content: ISO Standards
+- content: Software engineering
+- content: Systems engineering and theory
+- content: Software testing
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

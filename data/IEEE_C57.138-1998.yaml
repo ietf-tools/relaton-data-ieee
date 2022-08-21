@@ -1,9 +1,9 @@
 ---
 id: IEEEC57.138-1998
 title:
-- type: main
-  content: IEEE Recommended Practice for Routine Impulse Test for Distribution Transformers
+- content: IEEE Recommended Practice for Routine Impulse Test for Distribution Transformers
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/694189
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1998'
 relation:
@@ -77,12 +79,12 @@ relation:
     formattedref:
       content: IEEE C57.138-2016
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- distribution transformers
-- routine impulse test
-- production line testing
+- content: IEEE standards
+- content: distribution transformers
+- content: routine impulse test
+- content: production line testing
 editorialgroup:
   committee:
   - Transformers of the IEEE Power and Energy Society

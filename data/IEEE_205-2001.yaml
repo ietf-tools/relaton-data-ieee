@@ -1,9 +1,9 @@
 ---
 id: IEEE205-2001
 title:
-- type: main
-  content: 'IEEE Standard on Television: Measurement of Luminance Signal Levels'
+- content: 'IEEE Standard on Television: Measurement of Luminance Signal Levels'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/948501
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,20 +65,21 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2001'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- chrominance
-- filter
-- luminance
-- luminance measurement filter
-- NTSC
-- SMPTE 170M
-- video
-- waveform monitor
+- content: chrominance
+- content: filter
+- content: luminance
+- content: luminance measurement filter
+- content: NTSC
+- content: SMPTE 170M
+- content: video
+- content: waveform monitor
 editorialgroup:
   committee:
   - Audio and Visual Techniques of the IEEE Broadcast Technology Society

@@ -1,9 +1,9 @@
 ---
 id: IEEE730.1-1989
 title:
-- type: main
-  content: IEEE Standard for Software Quality Assurance Plans
+- content: IEEE Standard for Software Quality Assurance Plans
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/213705
   type: src
@@ -29,8 +29,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,8 +68,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1989'
 relation:
@@ -89,12 +91,12 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Quality control
-- Software quality
-- Software reliability
-- Standards
+- content: Quality control
+- content: Software quality
+- content: Software reliability
+- content: Standards
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

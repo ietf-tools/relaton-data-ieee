@@ -1,14 +1,14 @@
 ---
 id: IEEE1679-2020Redline
 title:
-- type: title-main
-  content: IEEE Recommended Practice for the Characterization and Evaluation of Energy
+- content: IEEE Recommended Practice for the Characterization and Evaluation of Energy
     Storage Technologies in Stationary Applications
   format: text/plain
-- type: main
-  content: IEEE Recommended Practice for the Characterization and Evaluation of Energy
+  type: title-main
+- content: IEEE Recommended Practice for the Characterization and Evaluation of Energy
     Storage Technologies in Stationary Applications - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9080675
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -74,8 +75,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2020'
 relation:
@@ -96,21 +98,21 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Capacitors
-- Batteries
-- Flywheels
-- Energy storage
-- battery
-- cycling service
-- electric double-layer capacitor
-- energy storage
-- flywheel
-- IEEE 1679
-- standby service
-- stationary application
+- content: IEEE Standards
+- content: Capacitors
+- content: Batteries
+- content: Flywheels
+- content: Energy storage
+- content: battery
+- content: cycling service
+- content: electric double-layer capacitor
+- content: energy storage
+- content: flywheel
+- content: IEEE 1679
+- content: standby service
+- content: stationary application
 editorialgroup:
   committee:
   - Energy Storage &amp; Stationary Battery Committee of the IEEE Power and Energy

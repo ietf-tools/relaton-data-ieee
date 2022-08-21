@@ -1,9 +1,9 @@
 ---
 id: IEEE1278.1-1995
 title:
-- type: main
-  content: IEEE Standard for Distributed Interactive Simulation - Application Protocols
+- content: IEEE Standard for Distributed Interactive Simulation - Application Protocols
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/499701
   type: src
@@ -29,8 +29,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -59,17 +60,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1996'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Distributed computing
-- Simulation software
-- Software standards
-- IEEE standards
-- Protocols
+- content: Distributed computing
+- content: Simulation software
+- content: Software standards
+- content: IEEE standards
+- content: Protocols
 editorialgroup:
   committee:
   - Simulation Interoperability Stds Organization/Stds Activity Committee of the IEEE

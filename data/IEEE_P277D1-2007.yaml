@@ -1,9 +1,9 @@
 ---
 id: IEEEP277D1-2007
 title:
-- type: main
-  content: IEEE Approved Draft Recommended Practice for Cement Plant Power Distribution
+- content: IEEE Approved Draft Recommended Practice for Cement Plant Power Distribution
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4152695
   type: src
@@ -29,8 +29,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -59,8 +60,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2007'
 relation:
@@ -81,14 +83,14 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- alternate power source
-- power distribution
-- primary distribution voltage
-- quarry distribution
-- secondary unit substation
-- surge arresters
+- content: alternate power source
+- content: power distribution
+- content: primary distribution voltage
+- content: quarry distribution
+- content: secondary unit substation
+- content: surge arresters
 editorialgroup:
   committee:
   - Cement Industry of the IEEE Industry Applications Society

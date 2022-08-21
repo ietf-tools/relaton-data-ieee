@@ -1,11 +1,11 @@
 ---
 id: IEEE792
 title:
-- type: main
-  content: IEEE Trial-Use Recommended Practice for the Evaluation of the Impulse Voltage
+- content: IEEE Trial-Use Recommended Practice for the Evaluation of the Impulse Voltage
     Capability of Insulation Systems for AC Electric Machinery Employing Form-Wound
     Stator Coils
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6936450
   type: src
@@ -35,8 +35,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -71,19 +72,20 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1988'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Insulation
-- Voltage control
-- Coils
-- Stators
-- Wound stator coils
-- AC motors
+- content: IEEE standards
+- content: Insulation
+- content: Voltage control
+- content: Coils
+- content: Stators
+- content: Wound stator coils
+- content: AC motors
 editorialgroup:
   committee:
   - Electric Machinery of the IEEE Power and Energy Society

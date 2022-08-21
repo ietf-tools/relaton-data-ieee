@@ -1,10 +1,10 @@
 ---
 id: IEEE1566-2005
 title:
-- type: main
-  content: IEEE Standard for Performance of Adjustable Speed AC Drives Rated 375 kW
+- content: IEEE Standard for Performance of Adjustable Speed AC Drives Rated 375 kW
     and Larger
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1642554
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,8 +69,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2006'
 relation:
@@ -83,15 +85,15 @@ relation:
     formattedref:
       content: IEEE 1566-2015
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Variable speed drives
-- AC motors
-- Power distribution
-- Performance evaluation
-- adjustable speed
-- large drives
+- content: IEEE standards
+- content: Variable speed drives
+- content: AC motors
+- content: Power distribution
+- content: Performance evaluation
+- content: adjustable speed
+- content: large drives
 editorialgroup:
   committee:
   - Petroleum &amp; Chemical Industry of the IEEE Industry Applications Society

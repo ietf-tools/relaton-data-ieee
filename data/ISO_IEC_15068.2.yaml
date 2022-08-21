@@ -1,11 +1,11 @@
 ---
 id: ISO/IEC15068.2
 title:
-- type: main
-  content: 'ISO/IEC 15068-2 : 1999 (IEEE 1387.2-1995), International Standard Information
+- content: 'ISO/IEC 15068-2 : 1999 (IEEE 1387.2-1995), International Standard Information
     technology - Portable Operating System Interface (POSIX(TM)) system administration
     - Part 2: Software administration'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6334499
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,29 +64,30 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1999'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Data processing
-- Software development
-- Operating systems
-- Open systems
-- IEC standards
-- data processing
-- open systems
-- operating system
-- packaging
-- portable application
-- POSIX
-- software
-- system administration
-- utilities
-- ISO/IEC 15068
-- ISO/IEC 15068-2
+- content: IEEE standards
+- content: Data processing
+- content: Software development
+- content: Operating systems
+- content: Open systems
+- content: IEC standards
+- content: data processing
+- content: open systems
+- content: operating system
+- content: packaging
+- content: portable application
+- content: POSIX
+- content: software
+- content: system administration
+- content: utilities
+- content: ISO/IEC 15068
+- content: ISO/IEC 15068-2
 ics:
 - code: 01.040.11
   text: Health care technology (Vocabularies)

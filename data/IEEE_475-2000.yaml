@@ -1,10 +1,10 @@
 ---
 id: IEEE475-2000
 title:
-- type: main
-  content: IEEE Standard Measurement Procedure for Field Disturbance Sensors 300 MHz
+- content: IEEE Standard Measurement Procedure for Field Disturbance Sensors 300 MHz
     to 40 GHz
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/847754
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2000'
 relation:
@@ -84,23 +86,23 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Emissions
-- Sensors
-- Instrumentation
-- Frequency measurement
-- Power system harmonics
-- Harmonic analysis
-- Microwave measurement
-- Density measurement
-- field disturbance sensors
-- field strength measurements
-- measurement instrumentation
-- spurious emissions
-- test sites
-- test reports
+- content: IEEE Standards
+- content: Emissions
+- content: Sensors
+- content: Instrumentation
+- content: Frequency measurement
+- content: Power system harmonics
+- content: Harmonic analysis
+- content: Microwave measurement
+- content: Density measurement
+- content: field disturbance sensors
+- content: field strength measurements
+- content: measurement instrumentation
+- content: spurious emissions
+- content: test sites
+- content: test reports
 editorialgroup:
   committee:
   - Standards Development Committee of the IEEE Electromagnetic Compatibility Society

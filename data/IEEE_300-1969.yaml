@@ -1,10 +1,10 @@
 ---
 id: IEEE300-1969
 title:
-- type: main
-  content: USA Standard and IEEE Test Procedure for Semiconductor Radiation Detectors
+- content: USA Standard and IEEE Test Procedure for Semiconductor Radiation Detectors
     (For Ionizing Radiation)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7405207
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -74,14 +75,15 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1969'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Radiation detectors
-- Semiconductor radiation detectors
-- Preamplifiers
-- Ionizing radiation
+- content: IEEE Standards
+- content: Radiation detectors
+- content: Semiconductor radiation detectors
+- content: Preamplifiers
+- content: Ionizing radiation

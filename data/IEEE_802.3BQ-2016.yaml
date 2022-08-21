@@ -1,10 +1,10 @@
 ---
 id: IEEE802.3bq-2016
 title:
-- type: main
-  content: 'IEEE Standard for Ethernet Amendment 3: Physical Layer and Management
+- content: 'IEEE Standard for Ethernet Amendment 3: Physical Layer and Management
     Parameters for 25 Gb/s and 40 Gb/s Operation, Types 25GBASE-T and 40GBASE-T'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7572861
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2016'
 relation:
@@ -80,28 +82,28 @@ relation:
     formattedref:
       content: ISO/IEC/IEEE 8802.3/Amd3-2017
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Ethernet
-- Time measurement
-- Synchronization
-- Passive optical networks
-- IEEE 802.3 Standard
-- 25GBASE-T
-- 25 Gigabit Ethernet
-- 25GMII
-- 40GBASE-T
-- 40 Gigabit Ethernet
-- Auto-Negotiation
-- Ethernet
-- IEEE 802&#174;
-- IEEE 802.3&#8482;
-- IEEE 802.3bq&#8482;
-- Physical Coding Sublayer (PCS)
-- Physical Medium Attachment (PMA) sublayer
-- structured cabling
-- XLGMII
+- content: IEEE Standards
+- content: Ethernet
+- content: Time measurement
+- content: Synchronization
+- content: Passive optical networks
+- content: IEEE 802.3 Standard
+- content: 25GBASE-T
+- content: 25 Gigabit Ethernet
+- content: 25GMII
+- content: 40GBASE-T
+- content: 40 Gigabit Ethernet
+- content: Auto-Negotiation
+- content: Ethernet
+- content: IEEE 802&#174;
+- content: IEEE 802.3&#8482;
+- content: IEEE 802.3bq&#8482;
+- content: Physical Coding Sublayer (PCS)
+- content: Physical Medium Attachment (PMA) sublayer
+- content: structured cabling
+- content: XLGMII
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

@@ -1,9 +1,9 @@
 ---
 id: IEEE1267-1999
 title:
-- type: main
-  content: IEEE Guide for Development of Specification for Turnkey Substation Projects
+- content: IEEE Guide for Development of Specification for Turnkey Substation Projects
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/815312
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1999'
 relation:
@@ -77,9 +79,9 @@ relation:
     formattedref:
       content: IEEE 1267-2019
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Substations
+- content: Substations
 editorialgroup:
   committee:
   - Substations of the IEEE Power and Energy Society

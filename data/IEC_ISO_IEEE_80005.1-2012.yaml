@@ -1,10 +1,10 @@
 ---
 id: IEC/ISO/IEEE80005.1-2012
 title:
-- type: main
-  content: 'IEC/ISO/IEEE Utility Connections in Port--Part 1: High Voltage Shore Connection
+- content: 'IEC/ISO/IEEE Utility Connections in Port--Part 1: High Voltage Shore Connection
     (HVSC) Systems--General requirements'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6243150
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,13 +66,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2012'
 relation:
 - type: obsoletedBy
@@ -84,16 +86,16 @@ relation:
     formattedref:
       content: IEC/IEEE 80005.1-2019
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Marine vehicles
-- Voltage measurement
-- Communication networks
-- 80005-1
-- high voltage shore connection
-- HVSC
-- shore-to-ship connection
+- content: IEEE standards
+- content: Marine vehicles
+- content: Voltage measurement
+- content: Communication networks
+- content: 80005-1
+- content: high voltage shore connection
+- content: HVSC
+- content: shore-to-ship connection
 editorialgroup:
   committee:
   - Petroleum &amp; Chemical Industry of the IEEE Industry Applications Society

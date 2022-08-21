@@ -1,10 +1,10 @@
 ---
 id: IEEE1560-2005
 title:
-- type: main
-  content: IEEE Standard for Methods of Measurement of Radio Frequency Power Line
+- content: IEEE Standard for Methods of Measurement of Radio Frequency Power Line
     Interference Filter in the Range of 100 Hz to 10 GHz
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1602705
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,31 +66,32 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2006'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Attenuation
-- Radiofrequency interference
-- Frequency control
-- Load management
-- Nonlinear systems
-- Power measurement
-- Frequency measurement
-- attenuation measurements
-- crest factor
-- dB
-- electromagnetic interference power-linefilters
-- EMI/RFI filters
-- insertion loss
-- LISN
-- no-load insertion loss
-- nonlinear load
-- radio-frequencycurrent injection
-- S-parameters
+- content: IEEE Standards
+- content: Attenuation
+- content: Radiofrequency interference
+- content: Frequency control
+- content: Load management
+- content: Nonlinear systems
+- content: Power measurement
+- content: Frequency measurement
+- content: attenuation measurements
+- content: crest factor
+- content: dB
+- content: electromagnetic interference power-linefilters
+- content: EMI/RFI filters
+- content: insertion loss
+- content: LISN
+- content: no-load insertion loss
+- content: nonlinear load
+- content: radio-frequencycurrent injection
+- content: S-parameters
 editorialgroup:
   committee:
   - Standards Development Committee of the IEEE Electromagnetic Compatibility Society

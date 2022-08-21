@@ -1,9 +1,9 @@
 ---
 id: IEEE695-1990
 title:
-- type: main
-  content: IEEE Standard for Microprocessor Universal Format for Object Modules
+- content: IEEE Standard for Microprocessor Universal Format for Object Modules
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/159333
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,22 +70,23 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1990'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Microprocessors
-- Program processors
-- Software portability
-- Standards
-- microprocessor
-- universal
-- object
-- format
-- modules
-- Microcomputer software
+- content: Microprocessors
+- content: Program processors
+- content: Software portability
+- content: Standards
+- content: microprocessor
+- content: universal
+- content: object
+- content: format
+- content: modules
+- content: Microcomputer software
 editorialgroup:
   committee:
   - Microprocessor Standards Committee of the IEEE Computer Society

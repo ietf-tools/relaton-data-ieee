@@ -1,10 +1,10 @@
 ---
 id: IEEE95-2002
 title:
-- type: main
-  content: IEEE Recommended Practice for Insulation Testing of AC Electric Machinery
+- content: IEEE Recommended Practice for Insulation Testing of AC Electric Machinery
     (2300 V and Above) With High Direct Voltage
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/996345
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,8 +62,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2002'
 relation:
@@ -83,15 +85,15 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Electric machines
-- Insulation testing
-- High-voltage techniques
-- electric machine windings
-- electrical insulation
-- high direct voltage
+- content: IEEE Standards
+- content: Electric machines
+- content: Insulation testing
+- content: High-voltage techniques
+- content: electric machine windings
+- content: electrical insulation
+- content: high direct voltage
 editorialgroup:
   committee:
   - Electric Machinery of the IEEE Power and Energy Society

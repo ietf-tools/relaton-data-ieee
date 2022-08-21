@@ -1,11 +1,11 @@
 ---
 id: ISO/IEC14515.1/Amd1-2000
 title:
-- type: main
-  content: 'ISO/IEC Standard for Information Technology---Portable Operating System
+- content: 'ISO/IEC Standard for Information Technology---Portable Operating System
     Interface (POSIX®)---Test Methods for Measuring Conformance to POSIX---Part 1:
     System Interfaces---Amendment 1: Realtime Extension (C Language)'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4140780
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -50,18 +51,19 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2000'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ISO Standards
-- IEC Standards
-- Information technology
-- Conformance testing
-- Operating systems
+- content: IEEE Standards
+- content: ISO Standards
+- content: IEC Standards
+- content: Information technology
+- content: Conformance testing
+- content: Operating systems
 editorialgroup:
   committee:
   - Portable Applications of the IEEE Computer Society

@@ -1,10 +1,10 @@
 ---
 id: IEEE1110-2019
 title:
-- type: main
-  content: IEEE Guide for Synchronous Generator Modeling Practices and Parameter Verification
+- content: IEEE Guide for Synchronous Generator Modeling Practices and Parameter Verification
     with Applications in Power System Stability Analyses
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9020274
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -79,8 +80,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2020'
 relation:
@@ -101,18 +103,18 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Synchronous generators
-- Power system staility
-- Power system control
-- Stability analysis
-- IEEE 1110
-- modeling practices
-- saturation practices
-- stability data determination and application
-- synchronous generator stability models
+- content: IEEE Standards
+- content: Synchronous generators
+- content: Power system staility
+- content: Power system control
+- content: Stability analysis
+- content: IEEE 1110
+- content: modeling practices
+- content: saturation practices
+- content: stability data determination and application
+- content: synchronous generator stability models
 editorialgroup:
   committee:
   - Electric Machinery of the IEEE Power and Energy Society

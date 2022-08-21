@@ -1,10 +1,10 @@
 ---
 id: IEEEP1364/D-7
 title:
-- type: main
-  content: IEEE Unapproved IEEE Draft Standard for Verilog? Hardware Description Language
+- content: IEEE Unapproved IEEE Draft Standard for Verilog? Hardware Description Language
     (Revision of 1364-1995) Replaced by Approved IEEE Draft
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4040196
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -45,11 +46,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2005'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: '35.060'
   text: Languages used in information technology

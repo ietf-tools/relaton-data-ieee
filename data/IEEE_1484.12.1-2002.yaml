@@ -1,9 +1,9 @@
 ---
 id: IEEE1484.12.1-2002
 title:
-- type: main
-  content: IEEE Standard for Learning Object Metadata
+- content: IEEE Standard for Learning Object Metadata
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1032843
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -59,20 +60,21 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2002'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- category
-- data type
-- extended data element
-- Lang String
-- learning object
-- learning object metadata (LOM)
-- smallest permitted maximum
-- value space
+- content: category
+- content: data type
+- content: extended data element
+- content: Lang String
+- content: learning object
+- content: learning object metadata (LOM)
+- content: smallest permitted maximum
+- content: value space
 editorialgroup:
   committee:
   - Learning Technology of the IEEE Computer Society

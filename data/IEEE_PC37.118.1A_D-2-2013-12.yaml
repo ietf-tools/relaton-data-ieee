@@ -1,10 +1,10 @@
 ---
 id: IEEEPC37.118.1a/D-2-2013-12
 title:
-- type: main
-  content: IEEE Draft Standard for Synchrophasor Measurements for Power Systems Amendment
+- content: IEEE Draft Standard for Synchrophasor Measurements for Power Systems Amendment
     to modify selected performance requirements
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6755430
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2013'
 relation:
@@ -87,14 +89,14 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Power systems measurements
-- Synchronization
-- Harmonic analysis
-- DIstortion
-- Noise measurement
+- content: IEEE standards
+- content: Power systems measurements
+- content: Synchronization
+- content: Harmonic analysis
+- content: DIstortion
+- content: Noise measurement
 editorialgroup:
   committee:
   - Power System Relaying of the IEEE Power and Energy Society

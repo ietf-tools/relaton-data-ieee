@@ -1,10 +1,10 @@
 ---
 id: IEEEUnapprovedP15939/D-3-2008
 title:
-- type: main
-  content: IEEE Standard Adoption of ISO/IEC 15939:2007--Systems and Software Engineering--Measurement
+- content: IEEE Standard Adoption of ISO/IEC 15939:2007--Systems and Software Engineering--Measurement
     Process
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4664992
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -70,8 +71,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2008'
 relation:
@@ -85,11 +87,11 @@ relation:
     formattedref:
       content: ISO/IEC/IEEE 15939-2017
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- 15939-2008
-- measurement
-- metric
+- content: 15939-2008
+- content: measurement
+- content: metric
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

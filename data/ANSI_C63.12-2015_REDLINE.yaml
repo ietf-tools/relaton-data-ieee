@@ -1,14 +1,14 @@
 ---
 id: ANSIC63.12-2015Redline
 title:
-- type: title-main
-  content: American National Standard Recommended Practice for Electromagnetic Compatibility
+- content: American National Standard Recommended Practice for Electromagnetic Compatibility
     Limits and Test Levels
   format: text/plain
-- type: main
-  content: American National Standard Recommended Practice for Electromagnetic Compatibility
+  type: title-main
+- content: American National Standard Recommended Practice for Electromagnetic Compatibility
     Limits and Test Levels - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7493584
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -77,12 +78,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - American National Standards Institute
-    abbreviation: ANSI
+    - content: American National Standards Institute
+    abbreviation:
+      content: ANSI
     url: https://www.ansi.org
   from: '2016'
 relation:
@@ -103,24 +106,24 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- ANSI Standards
-- Noise measurement
-- Atmospheric measurements
-- Emissions
-- Electromagnetic compatibility
-- Electromagnetic measurements
-- ambient noise levels
-- ANSI C63.12
-- atmospheric noise
-- electromagnetic compatibility (EMC)
-- emissions
-- galactic noise
-- immunity
-- limits
-- man-made noise
-- test levels
+- content: ANSI Standards
+- content: Noise measurement
+- content: Atmospheric measurements
+- content: Emissions
+- content: Electromagnetic compatibility
+- content: Electromagnetic measurements
+- content: ambient noise levels
+- content: ANSI C63.12
+- content: atmospheric noise
+- content: electromagnetic compatibility (EMC)
+- content: emissions
+- content: galactic noise
+- content: immunity
+- content: limits
+- content: man-made noise
+- content: test levels
 ics:
 - code: 33.100.01
   text: Electromagnetic compatibility (EMC) in general

@@ -1,10 +1,10 @@
 ---
 id: IEEE1363a-2004
 title:
-- type: main
-  content: 'IEEE Standard Specifications for Public-Key Cryptography - Amendment 1:
+- content: 'IEEE Standard Specifications for Public-Key Cryptography - Amendment 1:
     Additional Techniques'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1335427
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,16 +62,17 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2004'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- digital signature
-- encryption
-- key agreement
-- public-key cryptography
+- content: digital signature
+- content: encryption
+- content: key agreement
+- content: public-key cryptography
 editorialgroup:
   committee:
   - Microprocessor Standards Committee of the IEEE Computer Society

@@ -1,10 +1,10 @@
 ---
 id: IEEEP1484.12.1
 title:
-- type: main
-  content: 'IEEE Draft Standard for Learning Object Metadata - Corrigendum 1: Corrigenda
+- content: 'IEEE Draft Standard for Learning Object Metadata - Corrigendum 1: Corrigenda
     for 1484.12.1 LOM (Learning Object Metadata)'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5445243
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -53,19 +54,20 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2010'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Learning systems
-- Metadata
-- learning object
-- learning object metadata (LOM)
-- metadata
-- reuse
+- content: IEEE standards
+- content: Learning systems
+- content: Metadata
+- content: learning object
+- content: learning object metadata (LOM)
+- content: metadata
+- content: reuse
 ics:
 - code: 35.240.99
   text: IT applications in other fields

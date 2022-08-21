@@ -1,10 +1,10 @@
 ---
 id: IEEEC37.118.1a-2014
 title:
-- type: main
-  content: 'IEEE Standard for Synchrophasor Measurements for Power Systems -- Amendment
+- content: 'IEEE Standard for Synchrophasor Measurements for Power Systems -- Amendment
     1: Modification of Selected Performance Requirements'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6804630
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,8 +70,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2014'
 relation:
@@ -91,14 +93,14 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Synchronization
-- Power systems planning
-- Phasors
-- Performance evaluation
-- Power system measurements
+- content: IEEE standards
+- content: Synchronization
+- content: Power systems planning
+- content: Phasors
+- content: Performance evaluation
+- content: Power system measurements
 editorialgroup:
   committee:
   - Power System Relaying and Control of the IEEE Power and Energy Society

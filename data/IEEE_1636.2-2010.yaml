@@ -1,11 +1,11 @@
 ---
 id: IEEE1636.2-2010
 title:
-- type: main
-  content: 'IEEE Standard for Software Interface for Maintenance Information Collection
+- content: 'IEEE Standard for Software Interface for Maintenance Information Collection
     and Analysis (SIMICA): Exchanging Maintenance Action Information via the Extensible
     Markup Language (XML)'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6781494
   type: src
@@ -35,8 +35,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,8 +69,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2013'
 relation:
@@ -103,21 +105,22 @@ relation:
     formattedref:
       content: IEEE 1636.2-2018
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Automatic test equipment
-- XML
-- Markup languages
-- Software engineering
-- Software interfaces
-- Software maintenance
-- Information analysis
-- automated test system (ATS)
-- eXtensible markup language (XML)
-- maintenance action information (MAI)
-- Software Interface for Maintenance Information Collection and Analysis (SIMICA)
-- XML schema
+- content: IEEE standards
+- content: Automatic test equipment
+- content: XML
+- content: Markup languages
+- content: Software engineering
+- content: Software interfaces
+- content: Software maintenance
+- content: Information analysis
+- content: automated test system (ATS)
+- content: eXtensible markup language (XML)
+- content: maintenance action information (MAI)
+- content: Software Interface for Maintenance Information Collection and Analysis
+    (SIMICA)
+- content: XML schema
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

@@ -1,9 +1,9 @@
 ---
 id: IEEE1473-1999
 title:
-- type: main
-  content: IEEE Standard for Communications Protocol Aboard Trains
+- content: IEEE Standard for Communications Protocol Aboard Trains
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/789960
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1999'
 relation:
@@ -77,16 +79,16 @@ relation:
     formattedref:
       content: IEEE 1473-2010
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- communications networks
-- communications protocol
-- commuter rail transit
-- light rail transit
-- rail transit
-- train bus
-- vehicle bus
+- content: IEEE standards
+- content: communications networks
+- content: communications protocol
+- content: commuter rail transit
+- content: light rail transit
+- content: rail transit
+- content: train bus
+- content: vehicle bus
 editorialgroup:
   committee:
   - Rail Transportation Standards Committee of the IEEE Vehicular Technology Society

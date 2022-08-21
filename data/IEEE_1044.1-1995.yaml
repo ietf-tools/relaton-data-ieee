@@ -1,9 +1,9 @@
 ---
 id: IEEE1044.1-1995
 title:
-- type: main
-  content: IEEE Guide to Classification for Software Anomalies
+- content: IEEE Guide to Classification for Software Anomalies
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/511092
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,19 +64,20 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1996'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- anomaly
-- category
-- classification
-- software
-- supporting data item
-- anomalies
+- content: IEEE standards
+- content: anomaly
+- content: category
+- content: classification
+- content: software
+- content: supporting data item
+- content: anomalies
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

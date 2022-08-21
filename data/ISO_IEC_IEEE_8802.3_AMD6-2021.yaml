@@ -1,12 +1,12 @@
 ---
 id: ISO/IEC/IEEE8802.3/Amd6-2021
 title:
-- type: main
-  content: 'IEEE/ISO/IEC-International Standard-Telecommunications and exchange between
+- content: 'IEEE/ISO/IEC-International Standard-Telecommunications and exchange between
     information technology systems--Requirements for local and metropolitan area networks--Part
     3:Standard for Ethernet AMENDMENT 6: Maintenance #13:Power over ethernet over
     2 pairs'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9604023
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,13 +63,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2021'
 relation:
 - type: adoptedFrom
@@ -81,26 +83,26 @@ relation:
     formattedref:
       content: IEEE 802.3cq-2020
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ISO Standards
-- IEC Standards
-- Ethernet
-- Information technology
-- Information exchange
-- Power distribution
-- Maintenance engineering
-- Urban areas
-- Local area networks
-- Metropolitan area networks
-- '802.3'
-- 802.3cq
-- amendment
-- Ethernet
-- DTE power via MDI
-- Power over Ethernet
-- PoE
+- content: IEEE Standards
+- content: ISO Standards
+- content: IEC Standards
+- content: Ethernet
+- content: Information technology
+- content: Information exchange
+- content: Power distribution
+- content: Maintenance engineering
+- content: Urban areas
+- content: Local area networks
+- content: Metropolitan area networks
+- content: '802.3'
+- content: 802.3cq
+- content: amendment
+- content: Ethernet
+- content: DTE power via MDI
+- content: Power over Ethernet
+- content: PoE
 ics:
 - code: 35.100.10
   text: Physical layer

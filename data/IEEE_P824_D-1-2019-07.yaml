@@ -1,9 +1,9 @@
 ---
 id: IEEEP824/D-1-2019-07
 title:
-- type: main
-  content: IEEE Draft Standard for Series Capacitor Banks in Power Systems
+- content: IEEE Draft Standard for Series Capacitor Banks in Power Systems
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8818733
   type: src
@@ -29,8 +29,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -49,8 +50,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2019'
 relation:
@@ -71,12 +73,12 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Capacitors
-- Power distribution planning
-- Power systems
+- content: IEEE Standards
+- content: Capacitors
+- content: Power distribution planning
+- content: Power systems
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society

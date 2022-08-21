@@ -1,9 +1,9 @@
 ---
 id: IEEE693-1984
 title:
-- type: main
-  content: IEEE Recommended Practices for Seismic Design of Substations
+- content: IEEE Recommended Practices for Seismic Design of Substations
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/30680
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1984'
 relation:
@@ -78,14 +80,14 @@ relation:
     formattedref:
       content: IEEE 693-1997
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Earthquakes
-- Standards
-- Substations
-- design
-- substations
-- Seismic factors
+- content: Earthquakes
+- content: Standards
+- content: Substations
+- content: design
+- content: substations
+- content: Seismic factors
 editorialgroup:
   committee:
   - Substations of the IEEE Power and Energy Society

@@ -1,10 +1,10 @@
 ---
 id: IEEE937-2007
 title:
-- type: main
-  content: IEEE Recommended Practice for Installation and Maintenance of Lead-Acid
+- content: IEEE Recommended Practice for Installation and Maintenance of Lead-Acid
     Batteries for Photovoltaic (PV) Systems
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4238866
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2007'
 relation:
@@ -87,12 +89,12 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- battery
-- battery installation
-- battery maintenance
-- photovoltaic power system
+- content: battery
+- content: battery installation
+- content: battery maintenance
+- content: photovoltaic power system
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

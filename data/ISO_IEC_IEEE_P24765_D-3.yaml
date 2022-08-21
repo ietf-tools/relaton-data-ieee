@@ -1,10 +1,10 @@
 ---
 id: ISO/IEC/IEEEP24765/D-3
 title:
-- type: main
-  content: ISO/IEC/IEEE Approved Draft International Standard - Systems and Software
+- content: ISO/IEC/IEEE Approved Draft International Standard - Systems and Software
     Engineering - Vocabulary
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7891866
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,13 +70,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2017'
 relation:
 - type: updates
@@ -95,14 +97,14 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- ISO Standards
-- Terminology
-- Dictionaries
-- Software engineering
+- content: IEEE Standards
+- content: IEC Standards
+- content: ISO Standards
+- content: Terminology
+- content: Dictionaries
+- content: Software engineering
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

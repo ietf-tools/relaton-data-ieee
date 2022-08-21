@@ -1,10 +1,10 @@
 ---
 id: IEEE519-2014
 title:
-- type: main
-  content: IEEE Recommended Practice and Requirements for Harmonic Control in Electric
+- content: IEEE Recommended Practice and Requirements for Harmonic Control in Electric
     Power Systems
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6826459
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,8 +70,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2014'
 relation:
@@ -101,16 +103,16 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Harmonic analysis
-- Power quality
-- Power systems reliability
-- Electric power systems
-- harmonics
-- IEEE 519(TM)
-- power quality
+- content: IEEE standards
+- content: Harmonic analysis
+- content: Power quality
+- content: Power systems reliability
+- content: Electric power systems
+- content: harmonics
+- content: IEEE 519(TM)
+- content: power quality
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society

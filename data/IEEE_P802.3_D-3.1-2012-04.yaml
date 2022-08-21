@@ -1,9 +1,9 @@
 ---
 id: IEEEP802.3/D-3.1-2012-04
 title:
-- type: main
-  content: IEEE Standard for Ethernet
+- content: IEEE Standard for Ethernet
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7297773
   type: src
@@ -29,8 +29,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,61 +68,62 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2012'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Ethernet
-- Information exchange
-- 10BASE
-- 100BASE
-- Data processing
-- EPON
-- Local area networks
-- 10BASE
-- 100BASE
-- 1000BASE
-- 10GBASE
-- 40GBASE
-- 100GBASE
-- 10 Gigabit Ethernet
-- 40 Gigabit Ethernet
-- 100 Gigabit Ethernet
-- attachment unit interface
-- AUI
-- Auto Negotiation
-- Backplane Ethernet
-- data processing
-- DTE Power via the MDI
-- EPON
-- Ethernet
-- Ethernet in the First Mile
-- Ethernet passive optical network
-- Fast Ethernet
-- Gigabit Ethernet
-- GMII
-- information exchange
-- IEEE 802.3
-- local area network
-- management
-- medium dependent interface
-- media independent interface
-- MDI
-- MIB
-- MII
-- PHY
-- physical coding sublayer
-- Physical Layer
-- physical medium attachment
-- PMA
-- Power over Ethernet
-- repeater
-- type field
-- VLAN TAG
-- XGMII
+- content: IEEE Standards
+- content: Ethernet
+- content: Information exchange
+- content: 10BASE
+- content: 100BASE
+- content: Data processing
+- content: EPON
+- content: Local area networks
+- content: 10BASE
+- content: 100BASE
+- content: 1000BASE
+- content: 10GBASE
+- content: 40GBASE
+- content: 100GBASE
+- content: 10 Gigabit Ethernet
+- content: 40 Gigabit Ethernet
+- content: 100 Gigabit Ethernet
+- content: attachment unit interface
+- content: AUI
+- content: Auto Negotiation
+- content: Backplane Ethernet
+- content: data processing
+- content: DTE Power via the MDI
+- content: EPON
+- content: Ethernet
+- content: Ethernet in the First Mile
+- content: Ethernet passive optical network
+- content: Fast Ethernet
+- content: Gigabit Ethernet
+- content: GMII
+- content: information exchange
+- content: IEEE 802.3
+- content: local area network
+- content: management
+- content: medium dependent interface
+- content: media independent interface
+- content: MDI
+- content: MIB
+- content: MII
+- content: PHY
+- content: physical coding sublayer
+- content: Physical Layer
+- content: physical medium attachment
+- content: PMA
+- content: Power over Ethernet
+- content: repeater
+- content: type field
+- content: VLAN TAG
+- content: XGMII
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

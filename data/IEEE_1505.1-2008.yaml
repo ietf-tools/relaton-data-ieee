@@ -1,11 +1,11 @@
 ---
 id: IEEE1505.1-2008
 title:
-- type: main
-  content: IEEE Trial-Use Standard for the Common Test Interface Pin Map Configuration
+- content: IEEE Trial-Use Standard for the Common Test Interface Pin Map Configuration
     for High-Density, Single-Tier Electronics Test Requirements Utilizing IEEE Std
     1505
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4689504
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,31 +68,32 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2008'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Receivers
-- Scalability
-- Switches
-- Performance evaluation
-- Interoperability
-- FIxtures
-- 1505.1-2008
-- ATE
-- ATS
-- fixture
-- ICD
-- interface
-- ITA
-- mass termination
-- receiver
-- scalable
-- TPS
-- UUT
+- content: IEEE Standards
+- content: Receivers
+- content: Scalability
+- content: Switches
+- content: Performance evaluation
+- content: Interoperability
+- content: FIxtures
+- content: 1505.1-2008
+- content: ATE
+- content: ATS
+- content: fixture
+- content: ICD
+- content: interface
+- content: ITA
+- content: mass termination
+- content: receiver
+- content: scalable
+- content: TPS
+- content: UUT
 editorialgroup:
   committee:
   - SCC20 - Test and Diagnosis for Electronic Systems

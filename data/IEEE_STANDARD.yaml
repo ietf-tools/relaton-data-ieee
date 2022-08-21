@@ -1,9 +1,9 @@
 ---
 id: IEEEStandard
 title:
-- type: main
-  content: IEEE Shunt Power Capacitors
+- content: IEEE Shunt Power Capacitors
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8684439
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -51,12 +52,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - American National Standards Institute
-    abbreviation: ANSI
+    - content: American National Standards Institute
+    abbreviation:
+      content: ANSI
     url: https://www.ansi.org
   from: '1968'
-fetched: '2022-08-20'
+fetched: '2022-08-21'

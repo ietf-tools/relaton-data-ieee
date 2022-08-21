@@ -1,12 +1,12 @@
 ---
 id: IEEE802.17c-2010
 title:
-- type: main
-  content: 'IEEE Standard for Information technology--Telecommunications and information
+- content: 'IEEE Standard for Information technology--Telecommunications and information
     exchange between systems--Local and metropolitan area networks--Specific requirements
     Part 17: Resilient packet ring (RPR) access method and physical layer specifications
     Amendment 2: Protected inter-ring connection'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5465041
   type: src
@@ -36,8 +36,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,8 +67,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2010'
 relation:
@@ -88,23 +90,23 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Metropolitan area networks
-- Media access protocol
-- topology
-- bridging
-- fairness
-- layer management
-- medium access control
-- metropolitan area network (MAN)
-- physical layer
-- protection switching
-- resilient packet ring (RPR)
-- ring topology
-- spatial reuse
-- topology detection
+- content: IEEE standards
+- content: Metropolitan area networks
+- content: Media access protocol
+- content: topology
+- content: bridging
+- content: fairness
+- content: layer management
+- content: medium access control
+- content: metropolitan area network (MAN)
+- content: physical layer
+- content: protection switching
+- content: resilient packet ring (RPR)
+- content: ring topology
+- content: spatial reuse
+- content: topology detection
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

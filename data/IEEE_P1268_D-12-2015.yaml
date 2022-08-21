@@ -1,9 +1,9 @@
 ---
 id: IEEEP1268/D-12-2015
 title:
-- type: main
-  content: IEEE Draft Guide for Safety in the Installation of Mobile Substation Equipment
+- content: IEEE Draft Guide for Safety in the Installation of Mobile Substation Equipment
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7272721
   type: src
@@ -29,8 +29,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -57,8 +58,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2015'
 relation:
@@ -79,16 +81,16 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Grounding
-- Mobile communication
-- Substations
-- Surge protection
-- Voltage control
-- Installation
-- update:5230
+- content: IEEE Standards
+- content: Grounding
+- content: Mobile communication
+- content: Substations
+- content: Surge protection
+- content: Voltage control
+- content: Installation
+- content: update:5230
 editorialgroup:
   committee:
   - Substations of the IEEE Power and Energy Society

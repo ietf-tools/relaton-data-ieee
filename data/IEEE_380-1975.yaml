@@ -1,10 +1,10 @@
 ---
 id: IEEE380-1975
 title:
-- type: main
-  content: IEEE Definitions of Terms Used in IEEE Standards on Nuclear Power Generating
+- content: IEEE Definitions of Terms Used in IEEE Standards on Nuclear Power Generating
     Stations
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7409879
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -73,12 +74,13 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1975'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Nuclear power generation
-- Terminology
+- content: IEEE Standards
+- content: Nuclear power generation
+- content: Terminology

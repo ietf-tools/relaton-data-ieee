@@ -1,13 +1,13 @@
 ---
 id: IEEEP802.15.3c/D-13
 title:
-- type: main
-  content: 'IEEE Draft Amendment to IEEE Standard for Information technology--Telecommunications
+- content: 'IEEE Draft Amendment to IEEE Standard for Information technology--Telecommunications
     and information exchange between systems--Local and metropolitan area networks
     Specific requirements Part 15.3c: Wireless Medium Access Control (MAC) and Physical
     Layer (PHY) Specifications for High Rate Wireless Personal Area Networks (WPANs):
     Amendment 2: Millimeter-wave based Alternative Physical Layer Extension'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5174147
   type: src
@@ -29,8 +29,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -59,14 +60,15 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Information technology
+- content: IEEE standards
+- content: Information technology
 ics:
 - code: '35.110'
   text: Networking

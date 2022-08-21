@@ -1,12 +1,12 @@
 ---
 id: IEEEP1641.1a/D-6-2017-12
 title:
-- type: main
-  content: IEEE Draft Guide for the Use of IEEE Std 1641, IEEE Standard for Signal
+- content: IEEE Draft Guide for the Use of IEEE Std 1641, IEEE Standard for Signal
     and Test Definition Amendment to add Guidelines for producing reusable Test Signal
     Frameworks (TSFs) for use on platforms utilizing Automatic Test Markup Language
     (ATML)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8237220
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,20 +67,21 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2017'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Guidelines
-- Testing
-- Markup languages
-- XML
-- ATLAS
-- IEEE 1641.1™
-- TSF Library
+- content: IEEE Standards
+- content: Guidelines
+- content: Testing
+- content: Markup languages
+- content: XML
+- content: ATLAS
+- content: IEEE 1641.1™
+- content: TSF Library
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

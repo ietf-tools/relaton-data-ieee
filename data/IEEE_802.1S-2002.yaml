@@ -1,10 +1,10 @@
 ---
 id: IEEE802.1s-2002
 title:
-- type: main
-  content: 'IEEE Standards for Local and Metropolitan Area Networks - Amendment to
+- content: 'IEEE Standards for Local and Metropolitan Area Networks - Amendment to
     802.1Q Virtual Bridged Local Area Networks: Multiple Spanning Trees'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1159618
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -59,8 +60,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2002'
 relation:
@@ -81,19 +83,19 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Local area networks
-- ISO Standards
-- IEC Standards
-- Patents
-- Protocols
-- local area networks
-- media access control (MAC) bridges
-- MAC bridge management
-- multiple spanning tree
-- virtual LANs
+- content: IEEE Standards
+- content: Local area networks
+- content: ISO Standards
+- content: IEC Standards
+- content: Patents
+- content: Protocols
+- content: local area networks
+- content: media access control (MAC) bridges
+- content: MAC bridge management
+- content: multiple spanning tree
+- content: virtual LANs
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

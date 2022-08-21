@@ -1,9 +1,9 @@
 ---
 id: IEEE/NEMIPR
 title:
-- type: main
-  content: IEEE/NEMI Low-Cost Open Architecture Controller Specification
+- content: IEEE/NEMI Low-Cost Open Architecture Controller Specification
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4607301
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,23 +63,24 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1998'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Computer architecture
-- Controllers
-- Product life cycle management
-- Open systems
-- axis parameters
-- IEEE/NEMI low-cost open architecture controller specification
-- controller management
-- motion control
-- exception handling
-- mechanism parameters
+- content: IEEE Standards
+- content: Computer architecture
+- content: Controllers
+- content: Product life cycle management
+- content: Open systems
+- content: axis parameters
+- content: IEEE/NEMI low-cost open architecture controller specification
+- content: controller management
+- content: motion control
+- content: exception handling
+- content: mechanism parameters
 ics:
 - code: '31.180'
   text: Printed circuits and boards

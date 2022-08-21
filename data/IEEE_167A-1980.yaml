@@ -1,9 +1,9 @@
 ---
 id: IEEE167A-1980
 title:
-- type: main
-  content: IEEE Standard Facsimile Test Chart
+- content: IEEE Standard Facsimile Test Chart
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8684395
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -58,8 +59,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1980'
 relation:
@@ -110,12 +112,12 @@ relation:
     formattedref:
       content: IEEE 167A-1987
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Reflection
-- Testing
-- NIST
-- IEEE Standards
-- Facsimile
-- Frequency modulation
-- Reflectivity
+- content: Reflection
+- content: Testing
+- content: NIST
+- content: IEEE Standards
+- content: Facsimile
+- content: Frequency modulation
+- content: Reflectivity

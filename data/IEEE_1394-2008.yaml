@@ -1,9 +1,9 @@
 ---
 id: IEEE1394-2008
 title:
-- type: main
-  content: IEEE Standard for a High-Performance Serial Bus
+- content: IEEE Standard for a High-Performance Serial Bus
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4659233
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,32 +68,33 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2008'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Standards
-- IEEE 1394 Standard
-- Trademarks
-- Warranties
-- Plastic optical fiber
-- Patents
-- Microprocessors
-- 1394-2008
-- asynchronous
-- bus
-- computers
-- high-speed serial bus
-- interconnect
-- isochronous
-- optical fiber
-- plastic optical fiber
-- POF
-- unshielded twisted pair
-- UTP
-- firewire (TM)
+- content: Standards
+- content: IEEE 1394 Standard
+- content: Trademarks
+- content: Warranties
+- content: Plastic optical fiber
+- content: Patents
+- content: Microprocessors
+- content: 1394-2008
+- content: asynchronous
+- content: bus
+- content: computers
+- content: high-speed serial bus
+- content: interconnect
+- content: isochronous
+- content: optical fiber
+- content: plastic optical fiber
+- content: POF
+- content: unshielded twisted pair
+- content: UTP
+- content: firewire (TM)
 editorialgroup:
   committee:
   - Microprocessor Standards Committee of the IEEE Computer Society

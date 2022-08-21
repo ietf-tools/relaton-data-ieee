@@ -1,10 +1,10 @@
 ---
 id: IEEE86-1975
 title:
-- type: main
-  content: IEEE Standard Definitions of Basic Per Unit Quantities for Alternating-
+- content: IEEE Standard Definitions of Basic Per Unit Quantities for Alternating-
     Current Rotating Machines
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7439719
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -73,8 +74,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1975'
 relation:
@@ -88,13 +90,13 @@ relation:
     formattedref:
       content: IEEE 86-1987
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- AC machines
-- Rotating machines
-- Current measurement
-- Torque control
-- Synchronous generators
-- Reactive power
-- Power generation
+- content: IEEE Standards
+- content: AC machines
+- content: Rotating machines
+- content: Current measurement
+- content: Torque control
+- content: Synchronous generators
+- content: Reactive power
+- content: Power generation

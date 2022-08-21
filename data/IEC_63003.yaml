@@ -1,11 +1,11 @@
 ---
 id: IEC63003
 title:
-- type: main
-  content: IEC/IEEE International standard for the common test interface pin map configuration
+- content: IEC/IEEE International standard for the common test interface pin map configuration
     for high-density, single-tier electronics test requirements utilizing IEEE Std
     1505(TM)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7358452
   type: src
@@ -35,8 +35,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,32 +70,33 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2015'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEC Standards
-- IEC Standards
-- Receivers
-- Scalability
-- Testing
-- High density testing
-- ATE
-- ATS
-- fixture
-- ICD
-- IEEE 1505.1(TM)
-- interface
-- ITA
-- mass termination
-- receiver
-- scalable
-- TPS
-- UUT
+- content: IEC Standards
+- content: IEC Standards
+- content: Receivers
+- content: Scalability
+- content: Testing
+- content: High density testing
+- content: ATE
+- content: ATS
+- content: fixture
+- content: ICD
+- content: IEEE 1505.1(TM)
+- content: interface
+- content: ITA
+- content: mass termination
+- content: receiver
+- content: scalable
+- content: TPS
+- content: UUT
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

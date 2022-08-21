@@ -1,12 +1,12 @@
 ---
 id: IEC/IEEEP62704.1/D-2-2013-10
 title:
-- type: main
-  content: 'IEC/IEEE Draft Standard for Determining the Peak Spatial Average Specific
+- content: 'IEC/IEEE Draft Standard for Determining the Peak Spatial Average Specific
     Absorption Rate (SAR) in the Human Body from Wireless Communications Devices,
     30 MHz - 6 GHz. Part 1: General Requirements for using the Finite Difference Time
     Domain (FDTD) Method for SAR Calculations'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6646187
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,20 +70,21 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2013'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Specific absorption rate
-- Human factors
-- Wireless communication
-- Handheld devices
-- Peak to average power ratio
+- content: IEEE standards
+- content: Specific absorption rate
+- content: Human factors
+- content: Wireless communication
+- content: Handheld devices
+- content: Peak to average power ratio
 editorialgroup:
   committee:
   - SCC39 - International Committee on Electromagnetic Safety

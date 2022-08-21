@@ -1,14 +1,14 @@
 ---
 id: IEEE11073.10408-2019Redline
 title:
-- type: title-main
-  content: 'Health informatics--Personal health device communication Part 10408: Device
+- content: 'Health informatics--Personal health device communication Part 10408: Device
     specialization--Thermometer'
   format: text/plain
-- type: main
-  content: 'Health informatics--Personal health device communication Part 10408: Device
+  type: title-main
+- content: 'Health informatics--Personal health device communication Part 10408: Device
     specialization--Thermometer - Redline'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9067788
   type: src
@@ -36,8 +36,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -73,8 +74,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2019'
 relation:
@@ -95,17 +97,17 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Thermometers
-- Biomedical monitoring
-- Medical devices
-- Bioinformatics
-- IEEE 11073-10408
-- medical device communication
-- personal health devices
-- thermometer
+- content: IEEE Standards
+- content: Thermometers
+- content: Biomedical monitoring
+- content: Medical devices
+- content: Bioinformatics
+- content: IEEE 11073-10408
+- content: medical device communication
+- content: personal health devices
+- content: thermometer
 editorialgroup:
   committee:
   - IEEE 11073 Standards Committee of the IEEE Engineering in Medicine and Biology

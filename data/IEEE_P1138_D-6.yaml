@@ -1,10 +1,10 @@
 ---
 id: IEEEP1138/D-6
 title:
-- type: main
-  content: IEEE Draft Standard for Testing and Performance for Optical Ground Wire
+- content: IEEE Draft Standard for Testing and Performance for Optical Ground Wire
     (OPGW) for Use on Electric Utility Power Lines
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9350538
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2021'
 relation:
@@ -85,21 +87,21 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Quality function deployment
-- Optical fiber communication
-- Grounding
-- Wiring
-- Performance evaluation
-- Testing
-- fiber optic ground wire
-- IEEE 1138
-- laboratory tests
-- OPGW
-- optical ground wire
-- type tests
+- content: IEEE Standards
+- content: Quality function deployment
+- content: Optical fiber communication
+- content: Grounding
+- content: Wiring
+- content: Performance evaluation
+- content: Testing
+- content: fiber optic ground wire
+- content: IEEE 1138
+- content: laboratory tests
+- content: OPGW
+- content: optical ground wire
+- content: type tests
 editorialgroup:
   committee:
   - IEEE Power and Energy Society

@@ -1,10 +1,10 @@
 ---
 id: IEC61588-2009
 title:
-- type: main
-  content: IEC/IEEE International Standard - Precision Clock Synchronization Protocol
+- content: IEC/IEEE International Standard - Precision Clock Synchronization Protocol
     for Networked Measurement and Control Systems
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4839002
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,8 +70,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
 relation:
@@ -84,21 +86,21 @@ relation:
     formattedref:
       content: IEEE 1588-2008
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Synchronization
-- Distributed management
-- Clocks
-- Real-time systems
-- boundary clock
-- clock
-- distributed system
-- master clock
-- measurement and control system
-- real-time clock
-- synchronized clock
-- transparent clock
+- content: IEEE Standards
+- content: Synchronization
+- content: Distributed management
+- content: Clocks
+- content: Real-time systems
+- content: boundary clock
+- content: clock
+- content: distributed system
+- content: master clock
+- content: measurement and control system
+- content: real-time clock
+- content: synchronized clock
+- content: transparent clock
 editorialgroup:
   committee:
   - TC9 - Sensor Technology of the IEEE Instrumentation and Measurement Society

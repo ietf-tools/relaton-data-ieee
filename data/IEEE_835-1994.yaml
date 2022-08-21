@@ -1,9 +1,9 @@
 ---
 id: IEEE835-1994
 title:
-- type: main
-  content: IEEE Standard Power Cable Ampacity Tables
+- content: IEEE Standard Power Cable Ampacity Tables
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7297793
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -59,23 +60,24 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1994'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Ampacity
-- Power cables
-- Dielectrics
-- ampacity
-- cable
-- dielectric
-- extruded
-- laminar
-- power
-- black book
+- content: IEEE Standards
+- content: Ampacity
+- content: Power cables
+- content: Dielectrics
+- content: ampacity
+- content: cable
+- content: dielectric
+- content: extruded
+- content: laminar
+- content: power
+- content: black book
 editorialgroup:
   committee:
   - Insulated Conductors of the IEEE Power and Energy Society

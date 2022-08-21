@@ -1,10 +1,10 @@
 ---
 id: IEC63147
 title:
-- type: main
-  content: IEEE/IEC International Standard - Criteria for accident monitoring instrumentation
+- content: IEEE/IEC International Standard - Criteria for accident monitoring instrumentation
     for nuclear power generating stations
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8237239
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,28 +62,29 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2017'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEC Standards
-- IEEE Standards
-- Monitoring
-- Nuclear power generation
-- Accidents
-- Safety
-- accident monitoring
-- design criteria
-- display criteria
-- IEEE 497(TM)
-- performance criteria
-- selection criteria
-- severe accidents
-- type variables
+- content: IEC Standards
+- content: IEEE Standards
+- content: Monitoring
+- content: Nuclear power generation
+- content: Accidents
+- content: Safety
+- content: accident monitoring
+- content: design criteria
+- content: display criteria
+- content: IEEE 497(TM)
+- content: performance criteria
+- content: selection criteria
+- content: severe accidents
+- content: type variables
 editorialgroup:
   committee:
   - Nuclear Power Engineering of the IEEE Power and Energy Society

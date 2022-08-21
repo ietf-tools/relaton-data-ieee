@@ -1,10 +1,10 @@
 ---
 id: IEEEUnapprovedP26514/D-1-2009
 title:
-- type: main
-  content: IEEE Draft Standard Adoption of ISO/IEC 26514:2008 - Systems and Software
+- content: IEEE Draft Standard Adoption of ISO/IEC 26514:2008 - Systems and Software
     Engineering - Requirements for Designers and Developers of User Documentation
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5385186
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -59,17 +60,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- software user documentation
-- information design
-- information development
-- procedures
-- user manual
+- content: software user documentation
+- content: information design
+- content: information development
+- content: procedures
+- content: user manual
 ics:
 - code: '35.080'
   text: Software

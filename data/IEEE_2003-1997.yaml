@@ -1,11 +1,11 @@
 ---
 id: IEEE2003-1997
 title:
-- type: main
-  content: IEEE Standard for Information Technology - Requirements and Guidelines
+- content: IEEE Standard for Information Technology - Requirements and Guidelines
     for Test Methods Specifications and Test Method Implementations for Measuring
     Conformance to POSIX(R) Standards
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/750046
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,13 +62,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1998'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
+- content: IEEE standards
 editorialgroup:
   committee:
   - Portable Applications of the IEEE Computer Society

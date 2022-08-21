@@ -1,10 +1,10 @@
 ---
 id: IEEE802d-2017
 title:
-- type: main
-  content: 'IEEE Standard for Local and Metropolitan Area Networks:Overview and Architecture
+- content: 'IEEE Standard for Local and Metropolitan Area Networks:Overview and Architecture
     Amendment 1: Allocation of Uniform Resource Name (URN) Values in IEEE 802(R) Standards'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7890375
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2017'
 relation:
@@ -84,16 +86,16 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Uniform resource locators
-- Internet
-- Local area networks
-- Metropolitan area networks
-- IEEE 802(R)
-- Uniform Resource Name
-- URN
+- content: IEEE Standards
+- content: Uniform resource locators
+- content: Internet
+- content: Local area networks
+- content: Metropolitan area networks
+- content: IEEE 802(R)
+- content: Uniform Resource Name
+- content: URN
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

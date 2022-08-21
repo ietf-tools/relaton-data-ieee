@@ -1,9 +1,9 @@
 ---
 id: IEEE802.3-2015
 title:
-- type: main
-  content: IEEE Standard for Ethernet
+- content: IEEE Standard for Ethernet
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7428776
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -72,8 +73,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2015'
 relation:
@@ -104,20 +106,20 @@ relation:
     formattedref:
       content: IEEE 802.3-2018
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Ethernet
-- Time measurement
-- Synchronization
-- Passive optical networks
-- IEEE 802.3 Standard
-- 10BASE; 100BASE; 1000BASE; 10GBASE; 40GBASE; 100GBASE; 10 Gigabit Ethernet; 40 Gigabit
-  Ethernet; 100 Gigabit Ethernet; attachment unit interface; AUI; Auto Negotiation;
-  Backplane Ethernet DTE Power via the MDI; EPON; Ethernet in the First Mile; Ethernet
-  passive optical network; Fast Ethernet; Gigabit Ethernet; GMII; IEEE 802.3; medium
-  dependent interface; media MDI; MIB; MII; XGMII; PHY; physical coding sublayer;
-  PMA; Power over Ethernet; type field; VLAN TAG
+- content: IEEE Standards
+- content: Ethernet
+- content: Time measurement
+- content: Synchronization
+- content: Passive optical networks
+- content: IEEE 802.3 Standard
+- content: 10BASE; 100BASE; 1000BASE; 10GBASE; 40GBASE; 100GBASE; 10 Gigabit Ethernet;
+    40 Gigabit Ethernet; 100 Gigabit Ethernet; attachment unit interface; AUI; Auto
+    Negotiation; Backplane Ethernet DTE Power via the MDI; EPON; Ethernet in the First
+    Mile; Ethernet passive optical network; Fast Ethernet; Gigabit Ethernet; GMII;
+    IEEE 802.3; medium dependent interface; media MDI; MIB; MII; XGMII; PHY; physical
+    coding sublayer; PMA; Power over Ethernet; type field; VLAN TAG
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

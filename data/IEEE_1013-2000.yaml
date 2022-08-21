@@ -1,10 +1,10 @@
 ---
 id: IEEE1013-2000
 title:
-- type: main
-  content: IEEE Recommended Practice for Sizing Lead-Acid Batteries for Photovoltaic
+- content: IEEE Recommended Practice for Sizing Lead-Acid Batteries for Photovoltaic
     (PV) Systems
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/912951
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2001'
 relation:
@@ -78,11 +80,11 @@ relation:
     formattedref:
       content: IEEE 1013-2007
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- photovoltaic power systems
-- sizing lead-acid battery
+- content: IEEE standards
+- content: photovoltaic power systems
+- content: sizing lead-acid battery
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

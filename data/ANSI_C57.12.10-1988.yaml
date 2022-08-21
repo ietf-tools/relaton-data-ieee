@@ -1,12 +1,12 @@
 ---
 id: ANSIC57.12.10-1988
 title:
-- type: main
-  content: American National Standard for Transformers - 230 kV and Below 833/958
+- content: American National Standard for Transformers - 230 kV and Below 833/958
     Through 8333/10 417 kVA, Single-Phase, and 750/862 Through 60 000/80 000/100 000
     vKA, Three-Phase Without Load Tap Changing; and 3750/4687 Through 60 000/80 000/100
     000 kVA With Load Tap Changing - Safety Requirements
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/587252
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -51,11 +52,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1988'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 editorialgroup:
   committee:
   - Transformers of the IEEE Power and Energy Society

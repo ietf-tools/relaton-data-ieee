@@ -1,10 +1,10 @@
 ---
 id: IEEE946-1985
 title:
-- type: main
-  content: IEEE Recommended Practice for the Design of Safety-Related DC Auxiliary
+- content: IEEE Recommended Practice for the Design of Safety-Related DC Auxiliary
     Power Systems for Nuclear Power Generating Stations
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/587785
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1985'
 relation:
@@ -79,13 +81,13 @@ relation:
     formattedref:
       content: IEEE 946-1992
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Nuclear power generation
-- Qualifications
-- Testing
-- Lead acid batteries
+- content: IEEE Standards
+- content: Nuclear power generation
+- content: Qualifications
+- content: Testing
+- content: Lead acid batteries
 editorialgroup:
   committee:
   - Energy Development &amp; Power Generation of the IEEE Power and Energy Society

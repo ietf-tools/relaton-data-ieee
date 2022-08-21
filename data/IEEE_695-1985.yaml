@@ -1,10 +1,10 @@
 ---
 id: IEEE695-1985
 title:
-- type: main
-  content: IEEE Trial Use Standard for Microprocessor Universal Format for Object
+- content: IEEE Trial Use Standard for Microprocessor Universal Format for Object
     Modules
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7435216
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,8 +69,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1985'
 relation:
@@ -83,10 +85,10 @@ relation:
     formattedref:
       content: IEEE 695-1990
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Microprocessors
-- Processor scheduling
-- Integrated circuits
-- Object modules
+- content: IEEE standards
+- content: Microprocessors
+- content: Processor scheduling
+- content: Integrated circuits
+- content: Object modules

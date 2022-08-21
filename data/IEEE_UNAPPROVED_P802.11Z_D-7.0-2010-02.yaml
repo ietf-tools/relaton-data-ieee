@@ -1,12 +1,12 @@
 ---
 id: IEEEUnapprovedP802.11z/D-7.0-2010-02
 title:
-- type: main
-  content: 'IEEE Draft Standard for Information Technology - Telecommunications and
+- content: 'IEEE Draft Standard for Information Technology - Telecommunications and
     information exchange between systems - Local and Metropolitan Area networks -
     Specific requirements - Part 11: Wireless LAN Medium Access Control (MAC) and
     Physical Layer (PHY) specifications - Amendment: Extensions to Direct Link Setup(DLS)'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5422042
   type: src
@@ -28,8 +28,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -57,17 +58,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2010'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Information technology
-- Information processing
-- Direct Link
-- Power Saving
+- content: IEEE standards
+- content: Information technology
+- content: Information processing
+- content: Direct Link
+- content: Power Saving
 ics:
 - code: '35.110'
   text: Networking

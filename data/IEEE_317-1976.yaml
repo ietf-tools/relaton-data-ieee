@@ -1,10 +1,10 @@
 ---
 id: IEEE317-1976
 title:
-- type: main
-  content: IEEE Standard for Electric Penetration Assemblies in Containment Structures
+- content: IEEE Standard for Electric Penetration Assemblies in Containment Structures
     for Nuclear Power Generating Stations
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7407238
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1976'
 relation:
@@ -80,9 +82,9 @@ relation:
     formattedref:
       content: IEEE 317-1983
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Nuclear power generation
-- 'Containment '
-- Safety
+- content: IEEE Standards
+- content: Nuclear power generation
+- content: 'Containment '
+- content: Safety

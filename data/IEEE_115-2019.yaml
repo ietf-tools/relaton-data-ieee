@@ -1,10 +1,10 @@
 ---
 id: IEEE115-2019
 title:
-- type: main
-  content: IEEE Guide for Test Procedures for Synchronous Machines Including Acceptance
+- content: IEEE Guide for Test Procedures for Synchronous Machines Including Acceptance
     and Performance Testing and Parameter Determination for Dynamic Analysis
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9050934
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,8 +67,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2020'
 relation:
@@ -88,17 +90,17 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Synchronous motors
-- Performance evaluation
-- Parameter estimation
-- acceptance and performance testing
-- dynamic analysis
-- IEEE 115
-- parameter determination
-- synchronous machines
+- content: IEEE Standards
+- content: Synchronous motors
+- content: Performance evaluation
+- content: Parameter estimation
+- content: acceptance and performance testing
+- content: dynamic analysis
+- content: IEEE 115
+- content: parameter determination
+- content: synchronous machines
 editorialgroup:
   committee:
   - Electric Machinery of the IEEE Power and Energy Society

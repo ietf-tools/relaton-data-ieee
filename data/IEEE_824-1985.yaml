@@ -1,9 +1,9 @@
 ---
 id: IEEE824-1985
 title:
-- type: main
-  content: IEEE Standard for Series Capacitors in Power Systems
+- content: IEEE Standard for Series Capacitors in Power Systems
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/29147
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,17 +65,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1985'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Power capacitors
-- Power systems
-- Safety
-- Standards
-- Testing
+- content: Power capacitors
+- content: Power systems
+- content: Safety
+- content: Standards
+- content: Testing
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society

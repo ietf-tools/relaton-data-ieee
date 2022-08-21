@@ -1,10 +1,10 @@
 ---
 id: ISO/IEC/IEEE16326
 title:
-- type: main
-  content: ISO/IEC/IEEE International Standard - Systems and Software Engineering--Life
+- content: ISO/IEC/IEEE International Standard - Systems and Software Engineering--Life
     Cycle Processes--Project Management
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5372630
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,8 +69,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
 relation:
@@ -90,14 +92,14 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- 16326-2009
-- 1058-1998
-- management plans
-- project management plans
-- software intensive system project management plans
-- software project management plans
+- content: 16326-2009
+- content: 1058-1998
+- content: management plans
+- content: project management plans
+- content: software intensive system project management plans
+- content: software project management plans
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

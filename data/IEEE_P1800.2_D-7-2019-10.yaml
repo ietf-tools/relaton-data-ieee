@@ -1,10 +1,10 @@
 ---
 id: IEEEP1800.2/D-7-2019-10
 title:
-- type: main
-  content: IEEE Draft Standard for Universal Verification Methodology Language Reference
+- content: IEEE Draft Standard for Universal Verification Methodology Language Reference
     Manual
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8922964
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2019'
 relation:
@@ -85,37 +87,37 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Formal verification
-- Registers
-- Manuals
-- agent
-- blocking
-- callback
-- class
-- component
-- consumer
-- driver
-- event
-- export
-- factory
-- function
-- generator
-- IEEE 1800.2&#8482;
-- member
-- method
-- monitor
-- non-blocking
-- phase
-- port
-- register
-- resource
-- sequence
-- sequencer
-- transaction level modeling
-- verification methodology
+- content: IEEE Standards
+- content: Formal verification
+- content: Registers
+- content: Manuals
+- content: agent
+- content: blocking
+- content: callback
+- content: class
+- content: component
+- content: consumer
+- content: driver
+- content: event
+- content: export
+- content: factory
+- content: function
+- content: generator
+- content: IEEE 1800.2&#8482;
+- content: member
+- content: method
+- content: monitor
+- content: non-blocking
+- content: phase
+- content: port
+- content: register
+- content: resource
+- content: sequence
+- content: sequencer
+- content: transaction level modeling
+- content: verification methodology
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

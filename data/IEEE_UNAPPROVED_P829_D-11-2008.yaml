@@ -1,10 +1,10 @@
 ---
 id: IEEEUnapprovedP829/D-11-2008
 title:
-- type: main
-  content: Draft IEEE Standard for Software and System Test Documentation (Revision
+- content: Draft IEEE Standard for Software and System Test Documentation (Revision
     of IEEE 829-1998)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4459218
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,16 +63,17 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2008'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Testing
-- test documentation
-- integrity level
-- and life cycle
+- content: Testing
+- content: test documentation
+- content: integrity level
+- content: and life cycle
 ics:
 - code: '35.080'
   text: Software

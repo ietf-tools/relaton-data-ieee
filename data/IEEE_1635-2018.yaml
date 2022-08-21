@@ -1,10 +1,10 @@
 ---
 id: IEEE1635-2018
 title:
-- type: main
-  content: IEEE/ASHRAE Guide for the Ventilation and Thermal Management of Batteries
+- content: IEEE/ASHRAE Guide for the Ventilation and Thermal Management of Batteries
     for Stationary Applications
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8423472
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,11 +69,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ASHRAE
+    - content: ASHRAE
   from: '2018'
 relation:
 - type: updates
@@ -92,26 +94,26 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Batteries
-- Ventilation
-- Thermal management
-- ASHRAE Guideline 21
-- battery
-- battery cabinets
-- battery gassing
-- battery room
-- battery vaults
-- forced ventilation
-- hydrogen
-- IEEE 1635&#8482;
-- natural ventilation
-- stationary battery
-- thermal management
-- ventilation
-- ventilation system maintenance
+- content: IEEE Standards
+- content: Batteries
+- content: Ventilation
+- content: Thermal management
+- content: ASHRAE Guideline 21
+- content: battery
+- content: battery cabinets
+- content: battery gassing
+- content: battery room
+- content: battery vaults
+- content: forced ventilation
+- content: hydrogen
+- content: IEEE 1635&#8482;
+- content: natural ventilation
+- content: stationary battery
+- content: thermal management
+- content: ventilation
+- content: ventilation system maintenance
 editorialgroup:
   committee:
   - Energy Storage &amp; Stationary Battery Committee of the IEEE Power and Energy

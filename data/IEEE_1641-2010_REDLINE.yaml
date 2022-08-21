@@ -1,12 +1,12 @@
 ---
 id: IEEE1641-2010Redline
 title:
-- type: title-main
-  content: IEEE Standard for Signal and Test Definition
+- content: IEEE Standard for Signal and Test Definition
   format: text/plain
-- type: main
-  content: IEEE Standard for Signal and Test Definition - Redline
+  type: title-main
+- content: IEEE Standard for Signal and Test Definition - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5953414
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,29 +65,30 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2011'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Signal processing
-- Testing
-- Performance evaluation
-- Programming environments
-- Text processing
-- Digital signal processing
-- ATE
-- ATLAS
-- automatic test equipment
-- IEEE 1641
-- signal definitions
-- test definitions
-- test requirements
-- test signals
-- unit under test
-- UUT
+- content: IEEE standards
+- content: Signal processing
+- content: Testing
+- content: Performance evaluation
+- content: Programming environments
+- content: Text processing
+- content: Digital signal processing
+- content: ATE
+- content: ATLAS
+- content: automatic test equipment
+- content: IEEE 1641
+- content: signal definitions
+- content: test definitions
+- content: test requirements
+- content: test signals
+- content: unit under test
+- content: UUT
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

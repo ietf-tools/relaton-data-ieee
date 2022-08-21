@@ -1,10 +1,10 @@
 ---
 id: IEEEP1234/D-17-2019-02
 title:
-- type: main
-  content: IEEE Approved Draft Guide for Fault Locating Techniques on Shielded Power
+- content: IEEE Approved Draft Guide for Fault Locating Techniques on Shielded Power
     Cable Systems
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8675722
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,8 +62,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2019'
 relation:
@@ -83,24 +85,24 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Fault diagnosis
-- Grounding
-- System testing
-- Time-domain analysis
-- Reflectometry
-- arc reflection
-- cable fault locating
-- cable testing
-- grounding
-- IEEE 1234
-- safety
-- sectionalizing
-- thumping
-- time domain reflectometry
-- "(TDR)"
+- content: IEEE Standards
+- content: Fault diagnosis
+- content: Grounding
+- content: System testing
+- content: Time-domain analysis
+- content: Reflectometry
+- content: arc reflection
+- content: cable fault locating
+- content: cable testing
+- content: grounding
+- content: IEEE 1234
+- content: safety
+- content: sectionalizing
+- content: thumping
+- content: time domain reflectometry
+- content: "(TDR)"
 editorialgroup:
   committee:
   - Insulated Conductors of the IEEE Power and Energy Society

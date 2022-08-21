@@ -1,13 +1,13 @@
 ---
 id: IEEEP802.15.1/D-5/R-a
 title:
-- type: main
-  content: 'Unapproved IEEE Draft Standard for Information Technology-- Telecommunications
+- content: 'Unapproved IEEE Draft Standard for Information Technology-- Telecommunications
     and Information Exchange Between Systems-- Local and Metropolitan Area Networks--
     Specific Requirements Part 15.1Reva: Wireless Medium Access Control (MAC) and
     Physical Layer (PHY) Specifications for Wireless Personal Area Networks (WPANs)
     (Revision of IEEE 802.15-2002)'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4040969
   type: src
@@ -29,8 +29,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -48,11 +49,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2004'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: 35.100.10
   text: Physical layer

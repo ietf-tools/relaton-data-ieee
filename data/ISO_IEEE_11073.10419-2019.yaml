@@ -1,10 +1,10 @@
 ---
 id: ISO/IEEE11073.10419-2019
 title:
-- type: main
-  content: 'ISO/IEEE International Standard - Health informatics--Personal health
+- content: 'ISO/IEEE International Standard - Health informatics--Personal health
     device communication - Part 10419: Device Specialization--Insulin Pump'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8686397
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,11 +70,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   from: '2019'
 relation:
 - type: adoptedFrom
@@ -86,19 +88,19 @@ relation:
     formattedref:
       content: IEEE 11073.10419-2017
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Medical devices
-- Pumps
-- Insulin
-- Biomedical monitoring
-- Biomedical measurements
-- Patient monitoring
-- IEEE 11073-10419&#8482;
-- insulin pump
-- medical device communication
-- personal health devices
+- content: IEEE Standards
+- content: Medical devices
+- content: Pumps
+- content: Insulin
+- content: Biomedical monitoring
+- content: Biomedical measurements
+- content: Patient monitoring
+- content: IEEE 11073-10419&#8482;
+- content: insulin pump
+- content: medical device communication
+- content: personal health devices
 ics:
 - code: 35.240.80
   text: IT applications in health care technology

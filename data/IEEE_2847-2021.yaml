@@ -1,9 +1,9 @@
 ---
 id: IEEE2847-2021
 title:
-- type: main
-  content: IEEE Standard for DC Power Transmission and Communication to DC Loads
+- content: IEEE Standard for DC Power Transmission and Communication to DC Loads
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9744620
   type: src
@@ -29,8 +29,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,27 +67,28 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2022'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- DC machines
-- Power transmission lines
-- Signal processing
-- DC
-- dc loads
-- dc power
-- dc power line communication
-- dc power transmission
-- differential signal
-- differential signal communication
-- high-power differential signal power line communication
-- IEEE 2847
-- PLC
-- power line communication
+- content: IEEE Standards
+- content: DC machines
+- content: Power transmission lines
+- content: Signal processing
+- content: DC
+- content: dc loads
+- content: dc power
+- content: dc power line communication
+- content: dc power transmission
+- content: differential signal
+- content: differential signal communication
+- content: high-power differential signal power line communication
+- content: IEEE 2847
+- content: PLC
+- content: power line communication
 editorialgroup:
   committee:
   - Power Line Communications of the IEEE Communications Society

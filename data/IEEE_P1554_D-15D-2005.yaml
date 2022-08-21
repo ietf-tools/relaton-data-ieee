@@ -1,10 +1,10 @@
 ---
 id: IEEEP1554/D-15d-2005
 title:
-- type: main
-  content: IEEE Draft Recommended Practice for Inertial Sensor Test Equipment, Instrumentation,
+- content: IEEE Draft Recommended Practice for Inertial Sensor Test Equipment, Instrumentation,
     Data Acquisition, and Analysis
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4152507
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -45,11 +46,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2005'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: '49.140'
   text: Space systems and operations

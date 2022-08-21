@@ -1,10 +1,10 @@
 ---
 id: ISO/IEC/IEEE32430-2021
 title:
-- type: main
-  content: IEEE/ISO/IEC International Standard--Software engineering--Trial use standard
+- content: IEEE/ISO/IEC International Standard--Software engineering--Trial use standard
     for software non-functional sizing measurements
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9604026
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -73,13 +74,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2021'
 relation:
 - type: adoptedFrom
@@ -92,19 +94,19 @@ relation:
     formattedref:
       content: IEEE 2430-2019
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ISO Standards
-- IEC Standards
-- Software engineering
-- Software measurement
-- Size measurement
-- IEEE 2430
-- IFPUG
-- non-functional size measurements
-- non-functional requirements
-- SNAP
+- content: IEEE Standards
+- content: ISO Standards
+- content: IEC Standards
+- content: Software engineering
+- content: Software measurement
+- content: Size measurement
+- content: IEEE 2430
+- content: IFPUG
+- content: non-functional size measurements
+- content: non-functional requirements
+- content: SNAP
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

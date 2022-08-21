@@ -1,9 +1,9 @@
 ---
 id: IEEEUnapprovedP1413/D-2-2009
 title:
-- type: main
-  content: IEEE Draft Standard Framework for Reliability Prediction of Hardware
+- content: IEEE Draft Standard Framework for Reliability Prediction of Hardware
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5347314
   type: src
@@ -25,8 +25,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -58,15 +59,16 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- reliability
-- reliability prediction
-- assessment of reliability prediction
+- content: reliability
+- content: reliability prediction
+- content: assessment of reliability prediction
 ics:
 - code: '31.020'
   text: Electronic components in general

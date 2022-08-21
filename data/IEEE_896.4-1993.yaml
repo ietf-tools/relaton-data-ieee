@@ -1,9 +1,9 @@
 ---
 id: IEEE896.4-1993
 title:
-- type: main
-  content: IEEE Standard for Conformance Test Requirements for Futurebus+(R)
+- content: IEEE Standard for Conformance Test Requirements for Futurebus+(R)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/392558
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,22 +68,23 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1994'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Testing
-- Information processing
-- AEP
-- block copy
-- interactive BICS
-- Implementation under test (IUT)
-- BIXIT proforma
-- BICS proforma
-- Application environment profile
+- content: IEEE standards
+- content: Testing
+- content: Information processing
+- content: AEP
+- content: block copy
+- content: interactive BICS
+- content: Implementation under test (IUT)
+- content: BIXIT proforma
+- content: BICS proforma
+- content: Application environment profile
 editorialgroup:
   committee:
   - Microprocessor Standards Committee of the IEEE Computer Society

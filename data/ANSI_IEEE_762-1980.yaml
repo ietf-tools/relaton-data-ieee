@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE762-1980
 title:
-- type: main
-  content: IEEE Trial use Standard Definitions for Use in Reporting Electric Generating
+- content: IEEE Trial use Standard Definitions for Use in Reporting Electric Generating
     Unit Reliability, Availability, and Productivity
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7437350
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,12 +68,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - American National Standards Institute
-    abbreviation: ANSI
+    - content: American National Standards Institute
+    abbreviation:
+      content: ANSI
     url: https://www.ansi.org
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1980'
 relation:
@@ -86,10 +89,10 @@ relation:
     formattedref:
       content: ANSI/IEEE 762-1987
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Electrical machinery
-- Power system reliability
-- Productivity
-- Terminology
+- content: IEEE Standards
+- content: Electrical machinery
+- content: Power system reliability
+- content: Productivity
+- content: Terminology

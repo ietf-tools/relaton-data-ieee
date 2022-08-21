@@ -1,10 +1,10 @@
 ---
 id: ASAC37.35-1962
 title:
-- type: main
-  content: ASA American Standard Guide for the Operation and Maintenance of High Voltage
+- content: ASA American Standard Guide for the Operation and Maintenance of High Voltage
     Disconnecting Switches
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7440738
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,11 +68,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ASA
+    - content: ASA
   from: '1962'
 relation:
 - type: updates
@@ -108,14 +110,14 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ANSI Standards
-- High voltage techniques
-- Voltage measurement
-- Maintenance engineering
-- Disconnecting switching systems
+- content: IEEE Standards
+- content: ANSI Standards
+- content: High voltage techniques
+- content: Voltage measurement
+- content: Maintenance engineering
+- content: Disconnecting switching systems
 ics:
 - code: 29.130.10
   text: High voltage switchgear and controlgear

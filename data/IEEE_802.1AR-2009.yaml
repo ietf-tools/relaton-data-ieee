@@ -1,10 +1,10 @@
 ---
 id: IEEE802.1AR-2009
 title:
-- type: main
-  content: IEEE Standard for Local and metropolitan area networks - Secure Device
+- content: IEEE Standard for Local and metropolitan area networks - Secure Device
     Identity
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5367679
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,8 +67,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
 relation:
@@ -81,34 +83,35 @@ relation:
     formattedref:
       content: IEEE 802.1AR-2018
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Authentication
-- Local area networks
-- Metropolitan area networks
-- Object recognition
-- Protocols
-- 802.1AR-2009
-- access control
-- authentication
-- authorization
-- certificate
-- LANs
-- local area networks
-- MAC security
-- MANs
-- metropolitan area networks
-- PKI
-- port-based network access control
-- secure association
-- secure device identifier
-- security
-- X.509
-- access control, authentication, authorization, certificate, LANs, local area networks,
-- MAC security, MANs, metropolitan area networks, PKI, port-based network access control,
-  secure
-- association, secure device identifier, security, X.509
+- content: IEEE Standards
+- content: Authentication
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Object recognition
+- content: Protocols
+- content: 802.1AR-2009
+- content: access control
+- content: authentication
+- content: authorization
+- content: certificate
+- content: LANs
+- content: local area networks
+- content: MAC security
+- content: MANs
+- content: metropolitan area networks
+- content: PKI
+- content: port-based network access control
+- content: secure association
+- content: secure device identifier
+- content: security
+- content: X.509
+- content: access control, authentication, authorization, certificate, LANs, local
+    area networks,
+- content: MAC security, MANs, metropolitan area networks, PKI, port-based network
+    access control, secure
+- content: association, secure device identifier, security, X.509
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

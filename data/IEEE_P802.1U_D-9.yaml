@@ -1,11 +1,11 @@
 ---
 id: IEEEP802.1u/D-9
 title:
-- type: main
-  content: 'IEEE Standard for Local and Metropolitan Area Networks--- Virtual Bridged
+- content: 'IEEE Standard for Local and Metropolitan Area Networks--- Virtual Bridged
     Local Area Networks---Amendment 1: Technical and Editorial Corrections (Amendment
     to IEEE Std 802.1Q, 1998 Edition) (Incorporated Into 802.1Q-2003)'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4039832
   type: src
@@ -27,8 +27,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -46,11 +47,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2000'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: '35.110'
   text: Networking

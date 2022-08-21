@@ -1,9 +1,9 @@
 ---
 id: IEEE1633-2016
 title:
-- type: main
-  content: IEEE Recommended Practice on Software Reliability
+- content: IEEE Recommended Practice on Software Reliability
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7827907
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,8 +67,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2017'
 relation:
@@ -88,14 +90,14 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Software reliability
-- Failure analysis
-- IEEE 1633
-- software failure modes
-- software reliability
+- content: IEEE Standards
+- content: Software reliability
+- content: Failure analysis
+- content: IEEE 1633
+- content: software failure modes
+- content: software reliability
 editorialgroup:
   committee:
   - IEEE Reliability of the IEEE Reliability Society

@@ -1,10 +1,10 @@
 ---
 id: IEEEC37.111-2013
 title:
-- type: main
-  content: 'IEEE/IEC Measuring relays and protection equipment – Part 24: Common format
+- content: 'IEEE/IEC Measuring relays and protection equipment – Part 24: Common format
     for transient data exchange (COMTRADE) for power systems'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6512503
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -72,11 +73,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2013'
 relation:
 - type: updates
@@ -96,14 +98,14 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Power system p protection
-- Relays
-- Information exchange
-- Data handling
-- Power systems planning
+- content: IEEE standards
+- content: Power system p protection
+- content: Relays
+- content: Information exchange
+- content: Data handling
+- content: Power systems planning
 editorialgroup:
   committee:
   - Power System Relaying and Control of the IEEE Power and Energy Society

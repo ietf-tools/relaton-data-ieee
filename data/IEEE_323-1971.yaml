@@ -1,10 +1,10 @@
 ---
 id: IEEE323-1971
 title:
-- type: main
-  content: 'IEEE Trial-Use Standard: General Guide for Qualifying Class I Electric
+- content: 'IEEE Trial-Use Standard: General Guide for Qualifying Class I Electric
     Equipment for Nuclear Power Generating Stations'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6529090
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1974'
 relation:
@@ -79,13 +81,13 @@ relation:
     formattedref:
       content: IEEE 323-1983
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Nuclear power generation
-- Electric equipment
-- Power system reliability
-- Performance evaluation
+- content: IEEE standards
+- content: Nuclear power generation
+- content: Electric equipment
+- content: Power system reliability
+- content: Performance evaluation
 editorialgroup:
   committee:
   - Nuclear Power Engineering of the IEEE Power and Energy Society

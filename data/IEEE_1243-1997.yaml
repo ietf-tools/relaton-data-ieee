@@ -1,9 +1,9 @@
 ---
 id: IEEE1243-1997
 title:
-- type: main
-  content: IEEE Guide for Improving the Lightning Performance of Transmission Lines
+- content: IEEE Guide for Improving the Lightning Performance of Transmission Lines
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/640303
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,17 +63,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1997'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Power transmission lines
-- grounding
-- lightning protection
-- overhead electric power transmission
-- shielding
+- content: Power transmission lines
+- content: grounding
+- content: lightning protection
+- content: overhead electric power transmission
+- content: shielding
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society

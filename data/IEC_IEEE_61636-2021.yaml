@@ -1,10 +1,10 @@
 ---
 id: IEC/IEEE61636-2021
 title:
-- type: main
-  content: International Standard-Software Interface for Maintenance Information Collection
+- content: International Standard-Software Interface for Maintenance Information Collection
     and Analysis (SIMICA)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9451889
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,11 +64,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2021'
 relation:
 - type: adoptedFrom
@@ -80,20 +82,21 @@ relation:
     formattedref:
       content: IEEE 1636-2018
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- XML
-- Software maintenance
-- Automated test equipment
-- automated test system (ATS)
-- extensible markup language (XML)
-- IEEE 1636
-- maintenance action information
-- OWL ontology
-- Software Interface for Maintenance Information Collection and Analysis (SIMICA)
-- test results and session information
-- XML schema
+- content: IEEE Standards
+- content: XML
+- content: Software maintenance
+- content: Automated test equipment
+- content: automated test system (ATS)
+- content: extensible markup language (XML)
+- content: IEEE 1636
+- content: maintenance action information
+- content: OWL ontology
+- content: Software Interface for Maintenance Information Collection and Analysis
+    (SIMICA)
+- content: test results and session information
+- content: XML schema
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

@@ -1,10 +1,10 @@
 ---
 id: IEEE308-1978
 title:
-- type: main
-  content: IEEE Standard Criteria for Class 1E Power Systems for Nuclear Power Generating
+- content: IEEE Standard Criteria for Class 1E Power Systems for Nuclear Power Generating
     Stations
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7407235
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1978'
 relation:
@@ -86,11 +88,11 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Power system planning
-- Nuclear power generation
+- content: IEEE Standards
+- content: Power system planning
+- content: Nuclear power generation
 ics:
 - code: 27.120.30
   text: Fissile materials and nuclear fuel technology

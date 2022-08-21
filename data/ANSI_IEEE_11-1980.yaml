@@ -1,9 +1,9 @@
 ---
 id: ANSI/IEEE11-1980
 title:
-- type: main
-  content: IEEE Standard for Rotating Electric Machinery for Rail and Road Vehicles
+- content: IEEE Standard for Rotating Electric Machinery for Rail and Road Vehicles
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7736242
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,8 +65,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1980'
 relation:
@@ -79,15 +81,15 @@ relation:
     formattedref:
       content: IEEE 11-2000
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Road vehicles
-- Electric machinery
-- Generators
-- Rail transportation
-- Generators
-- Compressor motors
+- content: IEEE Standards
+- content: Road vehicles
+- content: Electric machinery
+- content: Generators
+- content: Rail transportation
+- content: Generators
+- content: Compressor motors
 editorialgroup:
   committee:
   - Electric Machinery of the IEEE Power and Energy Society

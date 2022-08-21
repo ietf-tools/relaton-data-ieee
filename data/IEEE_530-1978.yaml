@@ -1,10 +1,10 @@
 ---
 id: IEEE530-1978
 title:
-- type: main
-  content: IEEE Standard Specification Format Guide and Test Procedure for Linear,
+- content: IEEE Standard Specification Format Guide and Test Procedure for Linear,
     Single-Axis, Digital, Torque-Balance Accelerometer
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/27755
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,22 +68,23 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1978'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Acceleration measurement
-- Digital measurements
-- Measurement standards
-- linear
-- single axis
-- digital
-- torque
-- accelerometer
-- Torque measurement
-- Acceleration measurement
+- content: Acceleration measurement
+- content: Digital measurements
+- content: Measurement standards
+- content: linear
+- content: single axis
+- content: digital
+- content: torque
+- content: accelerometer
+- content: Torque measurement
+- content: Acceleration measurement
 editorialgroup:
   committee:
   - Gyro Accelerometer Panel of the IEEE Aerospace and Electronic Systems Society

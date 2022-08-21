@@ -1,10 +1,10 @@
 ---
 id: IEEEC37.110-1996
 title:
-- type: main
-  content: IEEE Guide for the Application of Current Transformers Used for Protective
+- content: IEEE Guide for the Application of Current Transformers Used for Protective
     Relaying Purposes
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/552898
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1996'
 relation:
@@ -78,10 +80,10 @@ relation:
     formattedref:
       content: IEEE C37.110-2007
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- current transformers
-- protective relaying
+- content: current transformers
+- content: protective relaying
 editorialgroup:
   committee:
   - Power System Relaying and Control of the IEEE Power and Energy Society

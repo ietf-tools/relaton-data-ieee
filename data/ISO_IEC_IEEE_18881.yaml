@@ -1,10 +1,10 @@
 ---
 id: ISO/IEC/IEEE18881
 title:
-- type: main
-  content: ISO/IEC/IEEE International Standard -- Information technology -- Ubiquitous
+- content: ISO/IEC/IEEE International Standard -- Information technology -- Ubiquitous
     green community control network -- Control and management
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7442027
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,33 +69,34 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2016'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ISO Standards
-- IEC Stndards
-- Access control
-- Configuration management
-- Event management
-- Information technology
-- Green design
-- Control systems
-- Ubiquitous computing
-- access
-- configuration
-- control
-- event handling
-- IEEE 1888.1(TM)
-- management
-- running status
+- content: IEEE Standards
+- content: ISO Standards
+- content: IEC Stndards
+- content: Access control
+- content: Configuration management
+- content: Event management
+- content: Information technology
+- content: Green design
+- content: Control systems
+- content: Ubiquitous computing
+- content: access
+- content: configuration
+- content: control
+- content: event handling
+- content: IEEE 1888.1(TM)
+- content: management
+- content: running status
 editorialgroup:
   committee:
   - Corporate Advisory Group of the IEEE-SA Board of Governors

@@ -1,12 +1,12 @@
 ---
 id: IEEEP802.11az/D-3.0-2021-01
 title:
-- type: main
-  content: 'IEEE Draft Standard for Information technology - Telecommunications and
+- content: 'IEEE Draft Standard for Information technology - Telecommunications and
     information exchange between systems Local and metropolitan area networks - Specific
     requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer
     (PHY) Specifications - Amendment 3: Enhancements for positioning'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9439344
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2021'
 relation:
@@ -85,21 +87,21 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEEE 802.11 Standard
-- Physical layer
-- Media Access Protocol
-- Wireless LAN
-- Local area networks
-- Metropolitan area networks
-- Information technology
-- Information exchange
-- Fine Timing Measurement (FTM)
-- positioning
-- ranging
-- direction measurement
+- content: IEEE Standards
+- content: IEEE 802.11 Standard
+- content: Physical layer
+- content: Media Access Protocol
+- content: Wireless LAN
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Information technology
+- content: Information exchange
+- content: Fine Timing Measurement (FTM)
+- content: positioning
+- content: ranging
+- content: direction measurement
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

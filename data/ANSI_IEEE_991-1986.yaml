@@ -1,9 +1,9 @@
 ---
 id: ANSI/IEEE991-1986
 title:
-- type: main
-  content: IEEE Standard for Logic Circuit Diagrams
+- content: IEEE Standard for Logic Circuit Diagrams
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/35042
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,17 +64,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1986'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Logic circuits
-- Standards
-- diagrams
-- Logic functions
-- Logic circuits
+- content: Logic circuits
+- content: Standards
+- content: diagrams
+- content: Logic functions
+- content: Logic circuits
 editorialgroup:
   committee:
   - Gyro Accelerometer Panel of the IEEE Aerospace and Electronic Systems Society

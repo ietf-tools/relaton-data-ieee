@@ -1,9 +1,9 @@
 ---
 id: IEEE62-1978
 title:
-- type: main
-  content: IEEE Guide for Field Testing Power Apparatus Insulation
+- content: IEEE Guide for Field Testing Power Apparatus Insulation
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/27742
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1978'
 relation:
@@ -78,15 +80,15 @@ relation:
     formattedref:
       content: IEEE 62-1995
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Insulation testing
-- Standards
-- insulation
-- apparatus
-- testing
-- field
-- power
+- content: Insulation testing
+- content: Standards
+- content: insulation
+- content: apparatus
+- content: testing
+- content: field
+- content: power
 editorialgroup:
   committee:
   - Power System Instrumentation and Measurements of the IEEE Power and Energy Society

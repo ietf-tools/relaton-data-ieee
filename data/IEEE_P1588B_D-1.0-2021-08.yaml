@@ -1,11 +1,11 @@
 ---
 id: IEEEP1588b/D-1.0-2021-08
 title:
-- type: main
-  content: 'IEEE Draft Standard for a Precision Clock Synchronization Protocol for
+- content: 'IEEE Draft Standard for a Precision Clock Synchronization Protocol for
     Networked Measurement and Control Systems Amendment: Addition of Precision Time
     Protocol (PTP) mapping for transport over Optical Transport Network (OTN)'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9535437
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,8 +62,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2021'
 relation:
@@ -83,19 +85,19 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Optical variables measurement
-- TIme measurement
-- Synchronization
-- Control systems
-- Optical fiber networks
-- Adaptive optics
-- Transport protocols
-- PTP
-- OTN
-- Synchronization
+- content: IEEE Standards
+- content: Optical variables measurement
+- content: TIme measurement
+- content: Synchronization
+- content: Control systems
+- content: Optical fiber networks
+- content: Adaptive optics
+- content: Transport protocols
+- content: PTP
+- content: OTN
+- content: Synchronization
 editorialgroup:
   committee:
   - TC9 - Sensor Technology of the IEEE Instrumentation and Measurement Society

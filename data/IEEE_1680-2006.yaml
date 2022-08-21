@@ -1,11 +1,11 @@
 ---
 id: IEEE1680-2006
 title:
-- type: main
-  content: IEEE Standard for Environmental Assessment of Personal Computer Products,
+- content: IEEE Standard for Environmental Assessment of Personal Computer Products,
     including Laptop Personal Computers, Desktop Personal Computers, and Personal
     Computer Monitors
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1633760
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -75,8 +76,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2006'
 relation:
@@ -90,21 +92,21 @@ relation:
     formattedref:
       content: IEEE 1680-2009
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Microcomputers
-- Patents
-- Monitoring
-- computer
-- computer monitor
-- electronic product
-- electronic product design
-- environment
-- environmental leadership
-- environmental performance
-- notebook computer
-- personal computer
+- content: IEEE Standards
+- content: Microcomputers
+- content: Patents
+- content: Monitoring
+- content: computer
+- content: computer monitor
+- content: electronic product
+- content: electronic product design
+- content: environment
+- content: environmental leadership
+- content: environmental performance
+- content: notebook computer
+- content: personal computer
 editorialgroup:
   committee:
   - Environmental Assessment of Standards Committee of the IEEE Computer Society

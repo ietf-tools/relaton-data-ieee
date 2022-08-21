@@ -1,11 +1,11 @@
 ---
 id: IEEEP1636.1/D-1
 title:
-- type: main
-  content: 'IEEE Draft Trial-Use Standard for Software Interface for Maintenance Information
+- content: 'IEEE Draft Trial-Use Standard for Software Interface for Maintenance Information
     Collection and Analysis (SIMICA): Exchanging Test Results and Session Information
     Via the Extensible Markup Language (XML) '
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4040432
   type: src
@@ -27,8 +27,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -46,11 +47,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2006'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: '35.040'
   text: Character sets and information coding

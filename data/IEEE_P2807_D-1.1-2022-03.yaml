@@ -1,9 +1,9 @@
 ---
 id: IEEEP2807/D-1.1-2022-03
 title:
-- type: main
-  content: IEEE Draft Framework of Knowledge Graphs
+- content: IEEE Draft Framework of Knowledge Graphs
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9765803
   type: src
@@ -29,8 +29,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,21 +62,22 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2022'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Knowledge engineering
-- Graph theory
-- Knowledge representation
-- knowledge graph
-- stakeholder
-- knowledge graph construction
-- knowledge graph integration
-- knowledge graph application
+- content: IEEE Standards
+- content: Knowledge engineering
+- content: Graph theory
+- content: Knowledge representation
+- content: knowledge graph
+- content: stakeholder
+- content: knowledge graph construction
+- content: knowledge graph integration
+- content: knowledge graph application
 editorialgroup:
   committee:
   - Standards Activities Board of the IEEE Computer Society

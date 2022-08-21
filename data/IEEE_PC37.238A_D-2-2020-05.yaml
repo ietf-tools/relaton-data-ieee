@@ -1,12 +1,12 @@
 ---
 id: IEEEPC37.238a/D-2-2020-05
 title:
-- type: main
-  content: 'IEEE Draft Standard Profile for Use of IEEE 1588 Precision Time Protocol
+- content: 'IEEE Draft Standard Profile for Use of IEEE 1588 Precision Time Protocol
     in Power System Applications Amendment 1: Adding a Type-Length-Value (TLV) to
     indicate the latest International Earth Rotation Service (IERS)-specified Universal
     Time Coordinated (UTC) Leap Second Event'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9096648
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,8 +62,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2020'
 relation:
@@ -83,24 +85,24 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Synchronization
-- Clocks
-- Timing analysis
-- Precision engineering
-- grandmaster clock
-- IEEE 1588&#8482;
-- IEEE C37.238&#8482;
-- power substation
-- precise time synchronization
-- Precision Time Protocol
-- PTP
-- sample synchronization
-- slave-only clock
-- synchrophasors
-- transparent clock
+- content: IEEE Standards
+- content: Synchronization
+- content: Clocks
+- content: Timing analysis
+- content: Precision engineering
+- content: grandmaster clock
+- content: IEEE 1588&#8482;
+- content: IEEE C37.238&#8482;
+- content: power substation
+- content: precise time synchronization
+- content: Precision Time Protocol
+- content: PTP
+- content: sample synchronization
+- content: slave-only clock
+- content: synchrophasors
+- content: transparent clock
 editorialgroup:
   committee:
   - IEEE Power and Energy Society

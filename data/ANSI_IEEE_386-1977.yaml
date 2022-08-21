@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE386-1977
 title:
-- type: main
-  content: ANSI/IEEE Separable Insulated Connector Systems for Power Distribution
+- content: ANSI/IEEE Separable Insulated Connector Systems for Power Distribution
     Systems above 600 V
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7415875
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,18 +69,20 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - American National Standards Institute
-    abbreviation: ANSI
+    - content: American National Standards Institute
+    abbreviation:
+      content: ANSI
     url: https://www.ansi.org
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1977'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- ANSI Standards
-- Insulation
-- Connectors
-- Power distribution planning
+- content: IEEE standards
+- content: ANSI Standards
+- content: Insulation
+- content: Connectors
+- content: Power distribution planning

@@ -1,9 +1,9 @@
 ---
 id: IEEEP1641/D-10-2022-07
 title:
-- type: main
-  content: IEEE Draft Standard for Signal and Test Definition
+- content: IEEE Draft Standard for Signal and Test Definition
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9826600
   type: src
@@ -29,8 +29,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -59,8 +60,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2022'
 relation:
@@ -81,22 +83,22 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Test equipment
-- Signal processing
-- Automatic test equipment
-- ATE
-- ATLAS
-- automatic test equipment
-- IEEE 1641
-- signal definitions
-- test definitions
-- test requirements
-- test signals
-- unit under test
-- UUT
+- content: IEEE Standards
+- content: Test equipment
+- content: Signal processing
+- content: Automatic test equipment
+- content: ATE
+- content: ATLAS
+- content: automatic test equipment
+- content: IEEE 1641
+- content: signal definitions
+- content: test definitions
+- content: test requirements
+- content: test signals
+- content: unit under test
+- content: UUT
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

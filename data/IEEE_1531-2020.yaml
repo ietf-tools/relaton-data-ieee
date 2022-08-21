@@ -1,9 +1,9 @@
 ---
 id: IEEE1531-2020
 title:
-- type: main
-  content: IEEE Guide for the Application and Specification of Harmonic Filters
+- content: IEEE Guide for the Application and Specification of Harmonic Filters
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9336377
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,8 +67,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2020'
 relation:
@@ -88,23 +90,23 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Harmonic filters
-- Capacitors
-- Power system reliability
-- Filters
-- capacitors
-- harmonic filters
-- IEEE 1531
-- inductors
-- notch filters
-- passive filters
-- power filters
-- power system harmonics
-- reactors
-- switched capacitor filters
+- content: IEEE Standards
+- content: Harmonic filters
+- content: Capacitors
+- content: Power system reliability
+- content: Filters
+- content: capacitors
+- content: harmonic filters
+- content: IEEE 1531
+- content: inductors
+- content: notch filters
+- content: passive filters
+- content: power filters
+- content: power system harmonics
+- content: reactors
+- content: switched capacitor filters
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society

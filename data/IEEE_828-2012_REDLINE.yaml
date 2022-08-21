@@ -1,13 +1,13 @@
 ---
 id: IEEE828-2012Redline
 title:
-- type: title-main
-  content: IEEE Standard for Configuration Management in Systems and Software Engineering
+- content: IEEE Standard for Configuration Management in Systems and Software Engineering
   format: text/plain
-- type: main
-  content: IEEE Standard for Configuration Management in Systems and Software Engineering
+  type: title-main
+- content: IEEE Standard for Configuration Management in Systems and Software Engineering
     - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6197683
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -71,8 +72,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2012'
 relation:
@@ -93,21 +95,21 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Software engineering
-- Configuration management
-- Systems engineering and theory
-- change control
-- configuration accounting
-- configuration audit
-- configuration item
-- IEEE 828
-- release engineering
-- software builds
-- software configuration management
-- system configuration management
+- content: IEEE standards
+- content: Software engineering
+- content: Configuration management
+- content: Systems engineering and theory
+- content: change control
+- content: configuration accounting
+- content: configuration audit
+- content: configuration item
+- content: IEEE 828
+- content: release engineering
+- content: software builds
+- content: software configuration management
+- content: system configuration management
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

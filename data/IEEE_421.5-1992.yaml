@@ -1,10 +1,10 @@
 ---
 id: IEEE421.5-1992
 title:
-- type: main
-  content: IEEE Recommended Practice for Excitation System Models for Power System
+- content: IEEE Recommended Practice for Excitation System Models for Power System
     Stability Studies
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/182869
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1992'
 relation:
@@ -80,14 +82,14 @@ relation:
     formattedref:
       content: IEEE 421.5-2005
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Power system control
-- Power system stability
-- Standards
-- Synchronous machines
-- excitation systems
-- power system stability
+- content: Power system control
+- content: Power system stability
+- content: Standards
+- content: Synchronous machines
+- content: excitation systems
+- content: power system stability
 editorialgroup:
   committee:
   - Energy Development &amp; Power Generation of the IEEE Power and Energy Society

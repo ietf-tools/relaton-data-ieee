@@ -1,13 +1,13 @@
 ---
 id: ISO/IEC/IEEE8802.3/Amd5-2021
 title:
-- type: main
-  content: 'IEEE/ISO/IEC International Standard-Telecommunications and exchange between
+- content: 'IEEE/ISO/IEC International Standard-Telecommunications and exchange between
     information technology systems — Requirements for local and metropolitan area
     networks —Part 3: Standard for Ethernet AMENDMENT 5: Physical layers specifications
     and management parameters for 10 Mb/s operation and associated power delivery
     over a single balanced pair of conductors'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9650822
   type: src
@@ -35,8 +35,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,13 +66,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '2021'
 relation:
 - type: adoptedFrom
@@ -84,33 +86,33 @@ relation:
     formattedref:
       content: IEEE 802.3cg-2019
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ISO Standards
-- IEC Standards
-- Ethernet
-- Main-secondary
-- Local area networks
-- Metropolitan area networks
-- Information technology
-- Physical layer
-- Power transmission
-- Conductors
-- 10BASE-T1L
-- 10BASE-T1S
-- amendment
-- copper
-- Ethernet
-- IEEE 802.3
-- IEEE 802.3cg
-- MASTER-SLAVE
-- medium dependent interface
-- physical coding sublayer
-- Physical Layer
-- Physical Layer Collision Avoidance
-- PLCA
-- physical medium attachment
+- content: IEEE Standards
+- content: ISO Standards
+- content: IEC Standards
+- content: Ethernet
+- content: Main-secondary
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Information technology
+- content: Physical layer
+- content: Power transmission
+- content: Conductors
+- content: 10BASE-T1L
+- content: 10BASE-T1S
+- content: amendment
+- content: copper
+- content: Ethernet
+- content: IEEE 802.3
+- content: IEEE 802.3cg
+- content: MASTER-SLAVE
+- content: medium dependent interface
+- content: physical coding sublayer
+- content: Physical Layer
+- content: Physical Layer Collision Avoidance
+- content: PLCA
+- content: physical medium attachment
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

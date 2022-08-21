@@ -1,11 +1,11 @@
 ---
 id: IEEEUnapprovedP802.16h/D-14-2010-01
 title:
-- type: main
-  content: 'IEEE Draft Standard for Local and Metropolitan Area Networks - Part 16:
+- content: 'IEEE Draft Standard for Local and Metropolitan Area Networks - Part 16:
     Air Interface for Fixed Broadband Wireless Access Systems - Improved Coexistence
     Mechanisms for License-Exempt Operation Amendment'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5407639
   type: src
@@ -27,8 +27,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -56,17 +57,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2010'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Local area networks
-- Metropolitan area networks
-- Broadband communication
-- Wireless communication
+- content: IEEE standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Broadband communication
+- content: Wireless communication
 ics:
 - code: '35.110'
   text: Networking

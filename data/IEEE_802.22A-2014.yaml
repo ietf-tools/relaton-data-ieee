@@ -1,14 +1,14 @@
 ---
 id: IEEE802.22a-2014
 title:
-- type: main
-  content: 'IEEE Standard for Information Technology--Telecommunications and information
+- content: 'IEEE Standard for Information Technology--Telecommunications and information
     exchange between systems Wireless Regional Area Networks (WRAN)--Specific requirements
     - Part 22: Cognitive Wireless RAN Medium Access Control (MAC) and Physical Layer
     (PHY) Specifications: Policies and Procedures forOperation in the TV Bands Amendment
     1: Management and Control Plane Interfaces and Procedures and Enhancement to the
     Management Information Base (MIB)'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6823051
   type: src
@@ -38,8 +38,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,8 +69,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2014'
 relation:
@@ -90,28 +92,28 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Wireless communication
-- Broadband
-- Cognitive radio
-- Spread spectrum management
-- Information exchange
-- TV
-- Wide area networks
-- Physical layer
-- Media Access Protocol
-- Local area networks
-- Metropolitan area networks
-- broadband wireless access network
-- cognitive radio
-- fixed user terminals
-- IEEE 802.22a(TM)
-- portable user terminals
-- radio spectrum sensing
-- regional area network
-- WRAN standards
+- content: IEEE standards
+- content: Wireless communication
+- content: Broadband
+- content: Cognitive radio
+- content: Spread spectrum management
+- content: Information exchange
+- content: TV
+- content: Wide area networks
+- content: Physical layer
+- content: Media Access Protocol
+- content: Local area networks
+- content: Metropolitan area networks
+- content: broadband wireless access network
+- content: cognitive radio
+- content: fixed user terminals
+- content: IEEE 802.22a(TM)
+- content: portable user terminals
+- content: radio spectrum sensing
+- content: regional area network
+- content: WRAN standards
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

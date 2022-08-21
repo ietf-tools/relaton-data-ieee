@@ -1,10 +1,10 @@
 ---
 id: IEEEUnapprovedP62.32/D-12-2009-11
 title:
-- type: main
-  content: IEEE Draft Standard Test Methods for Avalanche Junction Semiconductor Surge-Protective
+- content: IEEE Draft Standard Test Methods for Avalanche Junction Semiconductor Surge-Protective
     Device Components
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5399262
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,30 +62,31 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- avalanche breakdown diode
-- avalanche junction semiconductor
-- breakdown voltage
-- communication circuits
-- power circuits
-- SPD
-- surge
-- surge-protective device
-- surge protector
-- transient voltage suppressor
-- TVS
-- zener
-- clamping
-- stand-by current
-- impulse
-- limiting
-- silicon avalanche diode
-- SAD
+- content: avalanche breakdown diode
+- content: avalanche junction semiconductor
+- content: breakdown voltage
+- content: communication circuits
+- content: power circuits
+- content: SPD
+- content: surge
+- content: surge-protective device
+- content: surge protector
+- content: transient voltage suppressor
+- content: TVS
+- content: zener
+- content: clamping
+- content: stand-by current
+- content: impulse
+- content: limiting
+- content: silicon avalanche diode
+- content: SAD
 ics:
 - code: 29.240.10
   text: Substations. Surge arresters

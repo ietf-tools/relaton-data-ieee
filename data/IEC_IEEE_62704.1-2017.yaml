@@ -1,12 +1,12 @@
 ---
 id: IEC/IEEE62704.1-2017
 title:
-- type: main
-  content: 'IEC/IEEE International Standard -- Determining the peak spatial-average
+- content: 'IEC/IEEE International Standard -- Determining the peak spatial-average
     specific absorption rate (SAR) in the human body from wireless communications
     devices, 30 MHz to 6 GHz - Part 1: General requirements for using the finite-difference
     time-domain (FDTD) method for SAR calculations'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8088404
   type: src
@@ -36,8 +36,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -71,21 +72,22 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - IEC
+    - content: IEC
   from: '2017'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- IEC Standards
-- Specific absorption rate
-- Finite difference methods
-- TIme domain analysis
-- Peak to average power ratio
-- Biomedical measurements
+- content: IEEE Standards
+- content: IEC Standards
+- content: Specific absorption rate
+- content: Finite difference methods
+- content: TIme domain analysis
+- content: Peak to average power ratio
+- content: Biomedical measurements
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

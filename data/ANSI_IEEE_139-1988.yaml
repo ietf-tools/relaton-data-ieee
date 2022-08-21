@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE139-1988
 title:
-- type: main
-  content: IEEE Recommended Practice for the Measurement of Radio Frequency Emission
+- content: IEEE Recommended Practice for the Measurement of Radio Frequency Emission
     from Industrial, Scientific, and Medical (ISM) Equipment Installed on User's Premises
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/26500
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -76,20 +77,21 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1988'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Electronic equipment testing
-- Measurement standards
-- Electromagnetic radiative interference
-- EUT
-- ISM equipment
-- radio frequency electromagnetic field measurement
-- rf energy
-- field-strength measurement
+- content: Electronic equipment testing
+- content: Measurement standards
+- content: Electromagnetic radiative interference
+- content: EUT
+- content: ISM equipment
+- content: radio frequency electromagnetic field measurement
+- content: rf energy
+- content: field-strength measurement
 editorialgroup:
   committee:
   - Standards Development Committee of the IEEE Electromagnetic Compatibility Society

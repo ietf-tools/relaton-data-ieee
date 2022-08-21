@@ -1,10 +1,10 @@
 ---
 id: IEEE1847-2019
 title:
-- type: main
-  content: IEEE Recommended Practice for Common Framework of Location Services for
+- content: IEEE Recommended Practice for Common Framework of Location Services for
     Healthcare
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8995820
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,20 +64,21 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2020'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Medical devices
-- Location awareness
-- Terminology
-- conceptual model
-- healthcare
-- IEEE 1847
-- Location Services
+- content: IEEE Standards
+- content: Medical devices
+- content: Location awareness
+- content: Terminology
+- content: conceptual model
+- content: healthcare
+- content: IEEE 1847
+- content: Location Services
 editorialgroup:
   committee:
   - Standards Committee of the IEEE Engineering in Medicine and Biology Society

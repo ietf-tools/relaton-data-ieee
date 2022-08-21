@@ -1,10 +1,10 @@
 ---
 id: IEEEP1547a/D-2-2013-06
 title:
-- type: main
-  content: IEEE Draft Standard for Interconnecting Distributed Resources with Electric
+- content: IEEE Draft Standard for Interconnecting Distributed Resources with Electric
     Power Systems - Amendment 1
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6574199
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -60,8 +61,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2013'
 relation:
@@ -82,12 +84,12 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Power distribution
-- Electric power
-- Distributed processing
+- content: IEEE standards
+- content: Power distribution
+- content: Electric power
+- content: Distributed processing
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

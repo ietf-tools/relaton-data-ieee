@@ -1,10 +1,10 @@
 ---
 id: IEEE1202-1991
 title:
-- type: main
-  content: IEEE Standard for Flame Testing of Cables for Use in Cable Tray in Industrial
+- content: IEEE Standard for Flame Testing of Cables for Use in Cable Tray in Industrial
     and Commercial Occupancies
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/159227
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -69,8 +70,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1991'
 relation:
@@ -84,15 +86,15 @@ relation:
     formattedref:
       content: IEEE 1202-2006
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Power cables
-- Standards
-- cable tray
-- flame test facility
-- cable testing
-- Flame testing of cables
-- Cable flame testing
+- content: Power cables
+- content: Standards
+- content: cable tray
+- content: flame test facility
+- content: cable testing
+- content: Flame testing of cables
+- content: Cable flame testing
 editorialgroup:
   committee:
   - Insulated Conductors of the IEEE Power and Energy Society

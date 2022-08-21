@@ -1,10 +1,10 @@
 ---
 id: IEEEP1635/ASHRAE21/D-4-2010
 title:
-- type: main
-  content: IEEE/ASHRAE Draft Guide for the Ventilation and Thermal Management of Batteries
+- content: IEEE/ASHRAE Draft Guide for the Ventilation and Thermal Management of Batteries
     for Stationary Applications
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5399268
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -54,19 +55,20 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2010'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Batteries
-- Thermal management
-- batteries
-- HVAC
-- thermal
-- stationary applications
+- content: IEEE standards
+- content: Batteries
+- content: Thermal management
+- content: batteries
+- content: HVAC
+- content: thermal
+- content: stationary applications
 ics:
 - code: 29.220.01
   text: Galvanic cells and batteries in general

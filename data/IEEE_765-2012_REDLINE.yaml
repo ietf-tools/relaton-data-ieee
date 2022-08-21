@@ -1,14 +1,14 @@
 ---
 id: IEEE765-2012Redline
 title:
-- type: title-main
-  content: IEEE Standard for Preferred Power Supply (PPS) for Nuclear Power Generating
+- content: IEEE Standard for Preferred Power Supply (PPS) for Nuclear Power Generating
     Stations (NPGS)
   format: text/plain
-- type: main
-  content: IEEE Standard for Preferred Power Supply (PPS) for Nuclear Power Generating
+  type: title-main
+- content: IEEE Standard for Preferred Power Supply (PPS) for Nuclear Power Generating
     Stations (NPGS) - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/6523050
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,8 +67,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2013'
 relation:
@@ -88,23 +90,23 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- AC machines
-- 'Nuclear power generation '
-- Power transmission
-- Switching systems
-- AAC
-- alternate ac source
-- Class 1E
-- IEEE 765
-- NPGS
-- nuclear power generating station
-- PPS
-- preferred power supply
-- switchyard
-- transmission system
+- content: IEEE standards
+- content: AC machines
+- content: 'Nuclear power generation '
+- content: Power transmission
+- content: Switching systems
+- content: AAC
+- content: alternate ac source
+- content: Class 1E
+- content: IEEE 765
+- content: NPGS
+- content: nuclear power generating station
+- content: PPS
+- content: preferred power supply
+- content: switchyard
+- content: transmission system
 editorialgroup:
   committee:
   - Nuclear Power Engineering of the IEEE Power and Energy Society

@@ -1,10 +1,10 @@
 ---
 id: IEEE960.1989-1177-Std
 title:
-- type: main
-  content: IEEE Standard FASTBUS Modular High-Speed Data Acquisition and Control System
+- content: IEEE Standard FASTBUS Modular High-Speed Data Acquisition and Control System
     and IEEE FASTBUS Standard Routines
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/91628
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,8 +68,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1990'
 relation:
@@ -89,12 +91,12 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Computer interfaces
-- bus system
-- data acquisition
-- FASTBUS
+- content: Computer interfaces
+- content: bus system
+- content: data acquisition
+- content: FASTBUS
 editorialgroup:
   committee:
   - Nuclear Instruments and Detectors of the IEEE Nuclear and Plasma Sciences Society

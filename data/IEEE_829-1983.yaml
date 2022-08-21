@@ -1,9 +1,9 @@
 ---
 id: IEEE829-1983
 title:
-- type: main
-  content: IEEE Standard for Software Test Documentation
+- content: IEEE Standard for Software Test Documentation
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/573169
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,8 +67,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1983'
 relation:
@@ -81,16 +83,16 @@ relation:
     formattedref:
       content: IEEE 829-1998
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Testing
-- Software
-- Documentation
-- Personnel
-- Software engineering
-- documentation
-- Software testing
+- content: IEEE Standards
+- content: Testing
+- content: Software
+- content: Documentation
+- content: Personnel
+- content: Software engineering
+- content: documentation
+- content: Software testing
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society

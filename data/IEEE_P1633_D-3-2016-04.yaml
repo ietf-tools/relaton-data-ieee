@@ -1,9 +1,9 @@
 ---
 id: IEEEP1633/D-3-2016-04
 title:
-- type: main
-  content: IEEE Approved Draft Recommended Practice on Software Reliability
+- content: IEEE Approved Draft Recommended Practice on Software Reliability
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7502041
   type: src
@@ -29,8 +29,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2016'
 relation:
@@ -84,15 +86,15 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Software reliability
-- Reliability engineering
-- Particle measurements
-- Atmospheric measurements
-- Predictive models
-- software reliability
+- content: IEEE Standards
+- content: Software reliability
+- content: Reliability engineering
+- content: Particle measurements
+- content: Atmospheric measurements
+- content: Predictive models
+- content: software reliability
 editorialgroup:
   committee:
   - IEEE Reliability of the IEEE Reliability Society

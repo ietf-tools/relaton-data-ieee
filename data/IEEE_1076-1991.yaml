@@ -1,10 +1,10 @@
 ---
 id: IEEE1076-1991
 title:
-- type: main
-  content: 'IEEE Standards Interpretations: IEEE Std 1076-1987, IEEE Standard VHDL
+- content: 'IEEE Standards Interpretations: IEEE Std 1076-1987, IEEE Standard VHDL
     Language Reference Manual'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/159455
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,21 +65,22 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1992'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Design automation
-- Specification languages
-- Standards
-- interpretations
-- LRM
-- VHDL
-- VHSIC
-- Hardware
-- language
+- content: Design automation
+- content: Specification languages
+- content: Standards
+- content: interpretations
+- content: LRM
+- content: VHDL
+- content: VHSIC
+- content: Hardware
+- content: language
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

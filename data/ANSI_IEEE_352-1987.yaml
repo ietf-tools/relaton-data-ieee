@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE352-1987
 title:
-- type: main
-  content: IEEE Guide for General Principles of Reliability Analysis of Nuclear Power
+- content: IEEE Guide for General Principles of Reliability Analysis of Nuclear Power
     Generating Station Safety Systems
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/159367
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,8 +69,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1987'
 relation:
@@ -110,17 +112,17 @@ relation:
     formattedref:
       content: IEEE 352-2016
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Nuclear power generation
-- Reliability
-- Safety
-- Standards
-- reliability
-- nuclear
-- safety
-- analysis
-- generating
+- content: Nuclear power generation
+- content: Reliability
+- content: Safety
+- content: Standards
+- content: reliability
+- content: nuclear
+- content: safety
+- content: analysis
+- content: generating
 editorialgroup:
   committee:
   - Nuclear Power Engineering of the IEEE Power and Energy Society

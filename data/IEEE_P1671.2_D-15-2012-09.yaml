@@ -1,10 +1,10 @@
 ---
 id: IEEEP1671.2/D-15-2012-09
 title:
-- type: main
-  content: IEEE Approved Draft Standard for Automatic Test Markup Language (ATML)
+- content: IEEE Approved Draft Standard for Automatic Test Markup Language (ATML)
     Instrument Description
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8734166
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -59,8 +60,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2012'
 relation:
@@ -98,23 +100,23 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Automatic test equipment
-- Instruments
-- Document management
-- XML
-- ATML instance document
-- ATS
-- automatic test equipment (ATE)
-- Automatic Test Markup Language (ATML)
-- automatic test system
-- IEEE 1671.2
-- instrument
-- instrumentation
-- synthetic instrument
-- XML schema
+- content: IEEE Standards
+- content: Automatic test equipment
+- content: Instruments
+- content: Document management
+- content: XML
+- content: ATML instance document
+- content: ATS
+- content: automatic test equipment (ATE)
+- content: Automatic Test Markup Language (ATML)
+- content: automatic test system
+- content: IEEE 1671.2
+- content: instrument
+- content: instrumentation
+- content: synthetic instrument
+- content: XML schema
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

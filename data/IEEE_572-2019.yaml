@@ -1,10 +1,10 @@
 ---
 id: IEEE572-2019
 title:
-- type: main
-  content: IEEE Standard for Qualification of Class 1E Connection Assemblies for Nuclear
+- content: IEEE Standard for Qualification of Class 1E Connection Assemblies for Nuclear
     Power Generating Stations and Other Nuclear Facilities
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8704243
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -73,8 +74,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2019'
 relation:
@@ -95,40 +97,40 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Nuclear power generation
-- Power system reliability
-- Aging
-- Radiation safety
-- Radiation monitoring
-- age
-- age conditioning
-- aging
-- baseline parameter
-- cable
-- cable assembly
-- condition monitoring
-- connection assemblies
-- connector
-- equipment qualification
-- generic qualification
-- harsh environment
-- IEEE 572
-- interface
-- margin
-- mild environment
-- nuclear
-- qualification methods
-- qualified life
-- radiation
-- safety-related function
-- significant aging mechanism
-- termination
-- test plan
-- test sequence
-- type testing
+- content: IEEE Standards
+- content: Nuclear power generation
+- content: Power system reliability
+- content: Aging
+- content: Radiation safety
+- content: Radiation monitoring
+- content: age
+- content: age conditioning
+- content: aging
+- content: baseline parameter
+- content: cable
+- content: cable assembly
+- content: condition monitoring
+- content: connection assemblies
+- content: connector
+- content: equipment qualification
+- content: generic qualification
+- content: harsh environment
+- content: IEEE 572
+- content: interface
+- content: margin
+- content: mild environment
+- content: nuclear
+- content: qualification methods
+- content: qualified life
+- content: radiation
+- content: safety-related function
+- content: significant aging mechanism
+- content: termination
+- content: test plan
+- content: test sequence
+- content: type testing
 editorialgroup:
   committee:
   - Nuclear Power Engineering of the IEEE Power and Energy Society

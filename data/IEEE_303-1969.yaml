@@ -1,10 +1,10 @@
 ---
 id: IEEE303-1969
 title:
-- type: main
-  content: IEEE Recommended Practice for Auxiliary Devices for Motors in Class I,-
+- content: IEEE Recommended Practice for Auxiliary Devices for Motors in Class I,-
     Groups A, B, C, and D, Division 2 Locations
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7405216
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -52,8 +53,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1969'
 relation:
@@ -67,8 +69,8 @@ relation:
     formattedref:
       content: IEEE 303-1984
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Motors
-- Auxiliary devices
+- content: IEEE Standards
+- content: Motors
+- content: Auxiliary devices

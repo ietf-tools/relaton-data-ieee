@@ -1,10 +1,10 @@
 ---
 id: IEEE1515-2000
 title:
-- type: main
-  content: 'IEEE Recommended Practice for Electronic Power Subsystems: Parameter Definitions,
+- content: 'IEEE Recommended Practice for Electronic Power Subsystems: Parameter Definitions,
     Test Conditions, and Test Methods'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/868942
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,17 +67,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2000'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- electronic power distribution
-- power supply
-- specification
-- specification language
+- content: IEEE standards
+- content: electronic power distribution
+- content: power supply
+- content: specification
+- content: specification language
 editorialgroup:
   committee:
   - Standards Committee of the IEEE Power Electronics Society

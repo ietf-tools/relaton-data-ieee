@@ -1,10 +1,10 @@
 ---
 id: IEEE1848-2020
 title:
-- type: main
-  content: IEEE Standard for Techniques and Measurement to Manage Functional Safety
+- content: IEEE Standard for Techniques and Measurement to Manage Functional Safety
     and Other Risks with Regards to Electromagnetic Disturbances
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9416938
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -75,31 +76,32 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2020'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Electromagnetic compatibility
-- Safety
-- Risk management
-- Maintenance engineering
-- Digital systems
-- Electromagnetic interference
-- Software measurement
-- Microprogramming
-- digital systems
-- electromagnetic interference
-- EMI
-- electromagnetic compatibility
-- EMC
-- electromagnetic disturbances
-- functional safety
-- IEEE 1848&#8482;
-- risk management
-- risk reduction
+- content: IEEE Standards
+- content: Electromagnetic compatibility
+- content: Safety
+- content: Risk management
+- content: Maintenance engineering
+- content: Digital systems
+- content: Electromagnetic interference
+- content: Software measurement
+- content: Microprogramming
+- content: digital systems
+- content: electromagnetic interference
+- content: EMI
+- content: electromagnetic compatibility
+- content: EMC
+- content: electromagnetic disturbances
+- content: functional safety
+- content: IEEE 1848&#8482;
+- content: risk management
+- content: risk reduction
 editorialgroup:
   committee:
   - Standards Development Committee of the IEEE Electromagnetic Compatibility Society

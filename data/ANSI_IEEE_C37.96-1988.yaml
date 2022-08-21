@@ -1,9 +1,9 @@
 ---
 id: ANSI/IEEEC37.96-1988
 title:
-- type: main
-  content: IEEE Guide for AC Motor Protection
+- content: IEEE Guide for AC Motor Protection
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/26496
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,17 +67,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1989'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- AC motors
-- Protective relaying
-- relay protection
-- AC
-- motor protection
+- content: AC motors
+- content: Protective relaying
+- content: relay protection
+- content: AC
+- content: motor protection
 editorialgroup:
   committee:
   - Power System Relaying and Control of the IEEE Power and Energy Society

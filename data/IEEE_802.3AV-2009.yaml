@@ -1,12 +1,12 @@
 ---
 id: IEEE802.3av-2009
 title:
-- type: main
-  content: 'IEEE Standard for Information technology-- Local and metropolitan area
+- content: 'IEEE Standard for Information technology-- Local and metropolitan area
     networks-- Specific requirements-- Part 3: CSMA/CD Access Method and Physical
     Layer Specifications Amendment 1: Physical Layer Specifications and Management
     Parameters for 10 Gb/s Passive Optical Networks'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/5294950
   type: src
@@ -36,8 +36,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -73,28 +74,29 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE 802.3 Standard
-- EPON
-- Physical layer
-- Passive optical networks
-- Encoding
-- 802.3-2008
-- 802.3av-2009
-- 10 Gb/s Ethernet Passive Optical Networks (10G-EPON)
-- forward error correction (FEC)
-- Multi-Point MAC Control (MPMC)
-- Physical Coding Sublayer (PCS)
-- Physical Media Attachment (PMA)
-- Physical Medium Dependent (PMD)
-- PON
-- Point to Multipoint (P2MP)
-- Reconciliation Sublayer (RS)
+- content: IEEE 802.3 Standard
+- content: EPON
+- content: Physical layer
+- content: Passive optical networks
+- content: Encoding
+- content: 802.3-2008
+- content: 802.3av-2009
+- content: 10 Gb/s Ethernet Passive Optical Networks (10G-EPON)
+- content: forward error correction (FEC)
+- content: Multi-Point MAC Control (MPMC)
+- content: Physical Coding Sublayer (PCS)
+- content: Physical Media Attachment (PMA)
+- content: Physical Medium Dependent (PMD)
+- content: PON
+- content: Point to Multipoint (P2MP)
+- content: Reconciliation Sublayer (RS)
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

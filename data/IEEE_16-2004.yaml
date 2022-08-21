@@ -1,9 +1,9 @@
 ---
 id: IEEE16-2004
 title:
-- type: main
-  content: IEEE Standard for Electrical and Electronic Control Apparatus on Rail Vehicles
+- content: IEEE Standard for Electrical and Electronic Control Apparatus on Rail Vehicles
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/1490125
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2005'
 relation:
@@ -94,20 +96,20 @@ relation:
     formattedref:
       content: IEEE 16-2020
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- apparatus
-- control
-- design
-- electrical
-- electrohydraulic
-- electronic
-- electropneumatic
-- rail
-- routine test
-- test
-- transit
-- type test
+- content: apparatus
+- content: control
+- content: design
+- content: electrical
+- content: electrohydraulic
+- content: electronic
+- content: electropneumatic
+- content: rail
+- content: routine test
+- content: test
+- content: transit
+- content: type test
 editorialgroup:
   committee:
   - Rail Transportation Standards Committee of the IEEE Vehicular Technology Society

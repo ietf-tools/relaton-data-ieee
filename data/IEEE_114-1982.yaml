@@ -1,9 +1,9 @@
 ---
 id: IEEE114-1982
 title:
-- type: main
-  content: IEEE Standard Test Procedure for Single-Phase Induction Motors
+- content: IEEE Standard Test Procedure for Single-Phase Induction Motors
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/29034
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -61,19 +62,20 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1982'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Induction motors
-- Standards
-- induction motors
-- single-phase
-- test procedure
-- measurements
-- performance testing
+- content: Induction motors
+- content: Standards
+- content: induction motors
+- content: single-phase
+- content: test procedure
+- content: measurements
+- content: performance testing
 editorialgroup:
   committee:
   - Industrial Drives of the IEEE Industry Applications Society

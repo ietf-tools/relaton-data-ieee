@@ -1,11 +1,11 @@
 ---
 id: ISO/IEC8802.2-1998
 title:
-- type: main
-  content: 'IEEE International Standard for Information technology -- Telecommunications
+- content: 'IEEE International Standard for Information technology -- Telecommunications
     and information exchange between systems -- Local and metropolitan area networks
     -- Specific requirements -- Part 2: Logical Link Control'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8684692
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -76,13 +77,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - ISO
+    - content: ISO
   - name:
-    - IEC
+    - content: IEC
   from: '1998'
 relation:
 - type: updates
@@ -102,10 +104,10 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- local area networks
-- protocols; logical link control
+- content: local area networks
+- content: protocols; logical link control
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

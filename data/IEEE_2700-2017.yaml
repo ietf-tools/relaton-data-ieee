@@ -1,9 +1,9 @@
 ---
 id: IEEE2700-2017
 title:
-- type: main
-  content: IEEE Standard for Sensor Performance Parameter Definitions
+- content: IEEE Standard for Sensor Performance Parameter Definitions
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8277147
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2017'
 relation:
@@ -84,31 +86,31 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Performance evaluation
-- Micromechanical devices
-- Microelectromechanical systems
-- Barometers
-- Accelerometers
-- Sensors
-- Temperature measurement
-- accelerometer
-- ambient light
-- barometer
-- combination sensor
-- gyroscope
-- humidity
-- IEEE 2700&#8482;
-- magnetometer
-- MEMS
-- microelectromechanical
-- pressure
-- proximity
-- sensors systems
-- temperature
-- terminology
+- content: IEEE Standards
+- content: Performance evaluation
+- content: Micromechanical devices
+- content: Microelectromechanical systems
+- content: Barometers
+- content: Accelerometers
+- content: Sensors
+- content: Temperature measurement
+- content: accelerometer
+- content: ambient light
+- content: barometer
+- content: combination sensor
+- content: gyroscope
+- content: humidity
+- content: IEEE 2700&#8482;
+- content: magnetometer
+- content: MEMS
+- content: microelectromechanical
+- content: pressure
+- content: proximity
+- content: sensors systems
+- content: temperature
+- content: terminology
 editorialgroup:
   committee:
   - Strategic and Emerging Standards Committee of the IEEE SA Board of Governors

@@ -1,10 +1,10 @@
 ---
 id: IEEE1631-2008
 title:
-- type: main
-  content: IEEE Recommended Practice for Measurement of 8-VSB Digital Television Transmission
+- content: IEEE Recommended Practice for Measurement of 8-VSB Digital Television Transmission
     Mask Compliance for the USA
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4599188
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -66,34 +67,35 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2008'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- 1631-2008
-- 8-VSB
-- 8-VSB emissions
-- 500 kHz sub-band
-- adjacent channel
-- ATSC digital TV standard
-- average filter attenuation modeling
-- band-stop filter
-- DTV
-- DTV emissions
-- FCC emissions compliance
-- DTV emissions measurement procedure
-- DTV emissions measurement theory
-- digital signal intermodulation
-- emission mask
-- LPTV DTV transmitter
-- noise-floor correction
-- noise bandwidth
-- pilot frequency offset
-- simple emission mask
-- spectrum analyzer
-- stringent emission mask
+- content: 1631-2008
+- content: 8-VSB
+- content: 8-VSB emissions
+- content: 500 kHz sub-band
+- content: adjacent channel
+- content: ATSC digital TV standard
+- content: average filter attenuation modeling
+- content: band-stop filter
+- content: DTV
+- content: DTV emissions
+- content: FCC emissions compliance
+- content: DTV emissions measurement procedure
+- content: DTV emissions measurement theory
+- content: digital signal intermodulation
+- content: emission mask
+- content: LPTV DTV transmitter
+- content: noise-floor correction
+- content: noise bandwidth
+- content: pilot frequency offset
+- content: simple emission mask
+- content: spectrum analyzer
+- content: stringent emission mask
 editorialgroup:
   committee:
   - RF Techniques of the IEEE Broadcast Technology Society

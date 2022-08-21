@@ -1,9 +1,9 @@
 ---
 id: IEEE1647/D-3-2016-04
 title:
-- type: main
-  content: IEEE Approved Draft Standard for the Functional Verification Language e
+- content: IEEE Approved Draft Standard for the Functional Verification Language e
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7456155
   type: src
@@ -29,8 +29,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,8 +68,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2016'
 relation:
@@ -89,23 +91,23 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Concurrent programming
-- Formal verification
-- Temporal logic
-- Test generation
-- Computer languages
-- assertion
-- concurrent programming
-- constraint
-- dynamic verification
-- functional coverage
-- functional verification
-- simulation
-- temporal logic
-- test generation
+- content: IEEE standards
+- content: Concurrent programming
+- content: Formal verification
+- content: Temporal logic
+- content: Test generation
+- content: Computer languages
+- content: assertion
+- content: concurrent programming
+- content: constraint
+- content: dynamic verification
+- content: functional coverage
+- content: functional verification
+- content: simulation
+- content: temporal logic
+- content: test generation
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society

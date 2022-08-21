@@ -1,11 +1,11 @@
 ---
 id: IEEEP1106/D-12
 title:
-- type: main
-  content: Approved IEEE Draft Recommended Practice for Installation, Maintenance,
+- content: Approved IEEE Draft Recommended Practice for Installation, Maintenance,
     Testing, and Replacement of Vented Nickel-Cadmium Batteries for Stationary Applications
     (Supeseded by IEEE 1106-2005)
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4040107
   type: src
@@ -27,8 +27,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -46,11 +47,12 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2005'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 ics:
 - code: 29.220.30
   text: Alkaline secondary cells and batteries

@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE620-1981
 title:
-- type: main
-  content: IEEE Trial Use Guide for Construction and Interpretation of Thermal Limit
+- content: IEEE Trial Use Guide for Construction and Interpretation of Thermal Limit
     Curves for Squirrel-Cage Motors Over 500 hp
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7431909
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,17 +66,19 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - American National Standards Institute
-    abbreviation: ANSI
+    - content: American National Standards Institute
+    abbreviation:
+      content: ANSI
     url: https://www.ansi.org
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1981'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Thermal analysis
-- Squirrel cage motors
-- Electrical motors
+- content: IEEE Standards
+- content: Thermal analysis
+- content: Squirrel cage motors
+- content: Electrical motors

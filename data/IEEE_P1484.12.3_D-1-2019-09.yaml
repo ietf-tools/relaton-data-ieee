@@ -1,10 +1,10 @@
 ---
 id: IEEEP1484.12.3/D-1-2019-09
 title:
-- type: main
-  content: IEEE Draft Standard for Extensible Markup Language (XML) Schema Definition
+- content: IEEE Draft Standard for Extensible Markup Language (XML) Schema Definition
     Language Binding for Learning Object Metadata
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8844370
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -63,8 +64,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2019'
 relation:
@@ -85,21 +87,21 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- XML
-- Metadata
-- Terminology
-- Learning systems
-- 1484.12.1&#8211;2002
-- Extensible Markup Language (XML)
-- learning object metadata (LOM)
-- LOM XML instance
-- LOM XML Schema binding
-- metadata
-- W3C XML Schema definition language
-- XML Schema definition (XSD)
+- content: IEEE Standards
+- content: XML
+- content: Metadata
+- content: Terminology
+- content: Learning systems
+- content: 1484.12.1&#8211;2002
+- content: Extensible Markup Language (XML)
+- content: learning object metadata (LOM)
+- content: LOM XML instance
+- content: LOM XML Schema binding
+- content: metadata
+- content: W3C XML Schema definition language
+- content: XML Schema definition (XSD)
 editorialgroup:
   committee:
   - Learning Technology of the IEEE Computer Society

@@ -1,9 +1,9 @@
 ---
 id: ANSI/IEEE716-1985
 title:
-- type: main
-  content: IEEE Standard C/ATLAS Test Language
+- content: IEEE Standard C/ATLAS Test Language
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/35069
   type: src
@@ -29,8 +29,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -68,8 +69,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1985'
 relation:
@@ -93,11 +95,11 @@ relation:
     formattedref:
       content: IEEE 716-1995
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Automatic test equipment
-- High-level languages
-- Standards
+- content: Automatic test equipment
+- content: High-level languages
+- content: Standards
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees

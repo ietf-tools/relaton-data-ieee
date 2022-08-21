@@ -1,10 +1,10 @@
 ---
 id: IEEE1363.1-2008
 title:
-- type: main
-  content: IEEE Standard Specification for Public Key Cryptographic Techniques Based
+- content: IEEE Standard Specification for Public Key Cryptographic Techniques Based
     on Hard Problems over Lattices
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4800404
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,16 +68,17 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- 1363.1-2008
-- encryption
-- lattice-based cryptography
-- public key cryptography
+- content: 1363.1-2008
+- content: encryption
+- content: lattice-based cryptography
+- content: public key cryptography
 editorialgroup:
   committee:
   - Microprocessor Standards Committee of the IEEE Computer Society

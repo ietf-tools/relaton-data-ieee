@@ -1,9 +1,9 @@
 ---
 id: IEEE112-1991
 title:
-- type: main
-  content: IEEE Standard Test Procedure for Polyphase Induction Motors and Generators
+- content: IEEE Standard Test Procedure for Polyphase Induction Motors and Generators
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/8684570
   type: src
@@ -31,8 +31,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -62,8 +63,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1991'
 relation:
@@ -104,16 +106,16 @@ relation:
     formattedref:
       content: IEEE 112-1996
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Generators
-- Induction motors
-- Consumer electronics
-- Power engineering
-- generators
-- motors
-- tests
+- content: IEEE Standards
+- content: Generators
+- content: Induction motors
+- content: Consumer electronics
+- content: Power engineering
+- content: generators
+- content: motors
+- content: tests
 editorialgroup:
   committee:
   - Electric Machinery of the IEEE Power and Energy Society

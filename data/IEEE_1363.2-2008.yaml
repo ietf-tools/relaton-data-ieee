@@ -1,10 +1,10 @@
 ---
 id: IEEE1363.2-2008
 title:
-- type: main
-  content: IEEE Standard Specification for Password-Based Public-Key Cryptographic
+- content: IEEE Standard Specification for Password-Based Public-Key Cryptographic
     Techniques
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4773330
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,17 +68,18 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- 1363.2-2008
-- authentication
-- key agreement
-- password
-- public-key cryptography
+- content: 1363.2-2008
+- content: authentication
+- content: key agreement
+- content: password
+- content: public-key cryptography
 editorialgroup:
   committee:
   - Microprocessor Standards Committee of the IEEE Computer Society

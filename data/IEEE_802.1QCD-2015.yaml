@@ -1,11 +1,11 @@
 ---
 id: IEEE802.1Qcd-2015
 title:
-- type: main
-  content: 'IEEE Standard for Local and metropolitan area networks-- Bridges and Bridged
+- content: 'IEEE Standard for Local and metropolitan area networks-- Bridges and Bridged
     Networks - Amendment 23: Application Virtual Local Area Network (VLAN) Type, Length,
     Value (TLV)'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7062078
   type: src
@@ -35,8 +35,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -65,8 +66,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2015'
 relation:
@@ -97,26 +99,26 @@ relation:
     formattedref:
       content: ISO/IEC/IEEE 8802.1Q/Amd2-2016
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Bridged circuits
-- Data centers
-- Local area networks
-- Metropolitan area networks
-- Media Access Protocol
-- Virtual LAN
-- Bridged Networks
-- Data Center Bridging (DCB)
-- Data Center Bridging eXchange protocol (DCBX)
-- IEEE 802(R)
-- IEEE 802.1Q(TM)
-- IEEE 802.1Qcd(TM)
-- local area networks (LANs)
-- MAC Bridges
-- metropolitan area networks
-- Virtual Bridged Networks (virtual LANs)
-- VLAN Bridges
+- content: IEEE Standards
+- content: Bridged circuits
+- content: Data centers
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Media Access Protocol
+- content: Virtual LAN
+- content: Bridged Networks
+- content: Data Center Bridging (DCB)
+- content: Data Center Bridging eXchange protocol (DCBX)
+- content: IEEE 802(R)
+- content: IEEE 802.1Q(TM)
+- content: IEEE 802.1Qcd(TM)
+- content: local area networks (LANs)
+- content: MAC Bridges
+- content: metropolitan area networks
+- content: Virtual Bridged Networks (virtual LANs)
+- content: VLAN Bridges
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

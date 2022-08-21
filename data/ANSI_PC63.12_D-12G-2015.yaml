@@ -1,10 +1,10 @@
 ---
 id: ANSIPC63.12/D-12g-2015
 title:
-- type: main
-  content: IEEE/ANSI Draft Recommended Practice for Electromagnetic Compatibility
+- content: IEEE/ANSI Draft Recommended Practice for Electromagnetic Compatibility
     Limits and Test Levels
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7132678
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -72,12 +73,14 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   - name:
-    - American National Standards Institute
-    abbreviation: ANSI
+    - content: American National Standards Institute
+    abbreviation:
+      content: ANSI
     url: https://www.ansi.org
   from: '2015'
 relation:
@@ -98,23 +101,23 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- ANSI Standards
-- Electromagnetic compatibility
-- Emissions
-- Testing
-- Noise measurement
-- Ambient networks
-- Electromagnetic compatibility (EMC)
-- emissions
-- immunity
-- limits
-- test levels
-- ambient noise levels (atmospheric
-- man-made
-- and galactic).
+- content: IEEE Standards
+- content: ANSI Standards
+- content: Electromagnetic compatibility
+- content: Emissions
+- content: Testing
+- content: Noise measurement
+- content: Ambient networks
+- content: Electromagnetic compatibility (EMC)
+- content: emissions
+- content: immunity
+- content: limits
+- content: test levels
+- content: ambient noise levels (atmospheric
+- content: man-made
+- content: and galactic).
 editorialgroup:
   committee:
   - Accredited Standards Committee on Electromagnetic Compatibility

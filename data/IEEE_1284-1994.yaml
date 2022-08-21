@@ -1,10 +1,10 @@
 ---
 id: IEEE1284-1994
 title:
-- type: main
-  content: IEEE Standard Signaling Method for a Bidirectional Parallel Peripheral
+- content: IEEE Standard Signaling Method for a Bidirectional Parallel Peripheral
     Interface for Personal Computers
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/469123
   type: src
@@ -30,8 +30,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -59,8 +60,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1994'
 relation:
@@ -84,10 +86,10 @@ relation:
     formattedref:
       content: IEEE 1284-2000
       format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE standards
-- Communication system signaling
+- content: IEEE standards
+- content: Communication system signaling
 editorialgroup:
   committee:
   - Microprocessor Standards Committee of the IEEE Computer Society

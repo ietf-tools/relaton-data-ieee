@@ -1,9 +1,9 @@
 ---
 id: IEEE190-1960
 title:
-- type: main
-  content: IEEE Standard Methods of Testing Monochrome Television Broadcast Receivers
+- content: IEEE Standard Methods of Testing Monochrome Television Broadcast Receivers
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7369893
   type: src
@@ -33,8 +33,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,19 +65,20 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1960'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Television broadcast receivers
-- Monochrome receivers
-- Broadcasting
-- TV
-- Receivers
-- Testing
+- content: IEEE Standards
+- content: Television broadcast receivers
+- content: Monochrome receivers
+- content: Broadcasting
+- content: TV
+- content: Receivers
+- content: Testing
 editorialgroup:
   committee:
   - IEEE Broadcast Technology Society

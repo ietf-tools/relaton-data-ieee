@@ -1,14 +1,14 @@
 ---
 id: IEEE946-2020Redline
 title:
-- type: title-main
-  content: IEEE Recommended Practice for the Design of DC Power Systems for Stationary
+- content: IEEE Recommended Practice for the Design of DC Power Systems for Stationary
     Applications
   format: text/plain
-- type: main
-  content: IEEE Recommended Practice for the Design of DC Power Systems for Stationary
+  type: title-main
+- content: IEEE Recommended Practice for the Design of DC Power Systems for Stationary
     Applications - Redline
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/9356506
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,8 +68,9 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2020'
 relation:
@@ -89,36 +91,36 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- DC machines
-- Power systems
-- Design methodology
-- auxiliary
-- backup
-- battery
-- battery charger
-- charger sizing
-- control
-- cross-tie
-- dc
-- direct current
-- distribution
-- duty cycle
-- generating station
-- ground detection
-- IEEE 946
-- instrumentation
-- nuclear
-- panels
-- protection coordination
-- rectifiers
-- reserve
-- selective protection
-- short-circuit
-- substation
-- telecommunication
+- content: IEEE Standards
+- content: DC machines
+- content: Power systems
+- content: Design methodology
+- content: auxiliary
+- content: backup
+- content: battery
+- content: battery charger
+- content: charger sizing
+- content: control
+- content: cross-tie
+- content: dc
+- content: direct current
+- content: distribution
+- content: duty cycle
+- content: generating station
+- content: ground detection
+- content: IEEE 946
+- content: instrumentation
+- content: nuclear
+- content: panels
+- content: protection coordination
+- content: rectifiers
+- content: reserve
+- content: selective protection
+- content: short-circuit
+- content: substation
+- content: telecommunication
 editorialgroup:
   committee:
   - Energy Storage &amp; Stationary Battery Committee of the IEEE Power and Energy

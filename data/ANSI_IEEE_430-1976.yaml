@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE430-1976
 title:
-- type: main
-  content: IEEE Standard Procedures for the Measurement of Radio Noise from Overhead
+- content: IEEE Standard Procedures for the Measurement of Radio Noise from Overhead
     Power Lines
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/7419189
   type: src
@@ -34,8 +34,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -67,17 +68,19 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - American National Standards Institute
-    abbreviation: ANSI
+    - content: American National Standards Institute
+    abbreviation:
+      content: ANSI
     url: https://www.ansi.org
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1976'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- IEEE Standards
-- Noise measurement
-- Power transmission lines
-- Power system measurement
+- content: IEEE Standards
+- content: Noise measurement
+- content: Power transmission lines
+- content: Power system measurement

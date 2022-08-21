@@ -1,10 +1,10 @@
 ---
 id: ANSI/IEEE381-1977
 title:
-- type: main
-  content: IEEE Standard Criteria for Type Tests of Class 1E Modules Used in Nuclear
+- content: IEEE Standard Criteria for Type Tests of Class 1E Modules Used in Nuclear
     Power Generating Stations
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/29019
   type: src
@@ -32,8 +32,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -64,20 +65,21 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '1977'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- Nuclear power generation
-- Standards
-- Testing
-- type
-- tests
-- clas 1E
-- nuclear
-- modules
+- content: Nuclear power generation
+- content: Standards
+- content: Testing
+- content: type
+- content: tests
+- content: clas 1E
+- content: nuclear
+- content: modules
 editorialgroup:
   committee:
   - Nuclear Power Engineering of the IEEE Power and Energy Society

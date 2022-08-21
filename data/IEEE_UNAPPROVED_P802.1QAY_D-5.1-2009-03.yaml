@@ -1,10 +1,10 @@
 ---
 id: IEEEUnapprovedP802.1Qay/D-5.1-2009-03
 title:
-- type: main
-  content: 'IEEE Draft Standard for Local and Metropolitan Area Networks--Virtual
+- content: 'IEEE Draft Standard for Local and Metropolitan Area Networks--Virtual
     Bridged Local Area Networks--Amendment: Provider Backbone Bridge Traffic Engineering'
   format: text/plain
+  type: main
 link:
 - content: https://ieeexplore.ieee.org/document/4811164
   type: src
@@ -26,8 +26,9 @@ date:
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
     contact:
     - address:
@@ -54,25 +55,26 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - Institute of Electrical and Electronics Engineers
-    abbreviation: IEEE
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
     url: http://www.ieee.org
   from: '2009'
-fetched: '2022-08-20'
+fetched: '2022-08-21'
 keyword:
-- LANs
-- local area networks
-- metropolitan area networks
-- MAC Bridges
-- Bridged Local Area Networks
-- virtual LANs
-- Virtual Bridged Local Area Networks
-- Provider Bridged Local Area Networks
-- Multiple Spanning Tree Protocol (MSTP)
-- Multiple Registration Protocol (MRP)
-- Multiple VLAN Registration Protocol (MVRP)
-- Provider Backbone Bridge
-- Connectivity Fault Management.
+- content: LANs
+- content: local area networks
+- content: metropolitan area networks
+- content: MAC Bridges
+- content: Bridged Local Area Networks
+- content: virtual LANs
+- content: Virtual Bridged Local Area Networks
+- content: Provider Bridged Local Area Networks
+- content: Multiple Spanning Tree Protocol (MSTP)
+- content: Multiple Registration Protocol (MRP)
+- content: Multiple VLAN Registration Protocol (MVRP)
+- content: Provider Backbone Bridge
+- content: Connectivity Fault Management.
 ics:
 - code: '35.110'
   text: Networking
