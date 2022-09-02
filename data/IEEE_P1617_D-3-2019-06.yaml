@@ -45,9 +45,22 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: A summary of the methods for detection, mitigation, and control of metallic
+    shield corrosion in 5 kV to 46 kV underground distribution cable installed in
+    conduit or direct buried is provided in this guide. The causes of corrosion in
+    metallic shields and the methods available to detect this corrosion are described.
+    The purpose of the metallic shield and the consequences of significant loss of
+    the metallic shield are discussed. Recommendations are made for the mitigation
+    and control of the cable metallic shield corrosion.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: Inactive
 copyright:
 - owner:
   - name:
@@ -74,12 +87,42 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-09-01'
+- type: updates
+  bibitem:
+    id: IEEE1617-2007
+    docid:
+    - id: IEEE 1617-2007
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1617-2007
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+fetched: '2022-09-02'
 keyword:
 - content: IEEE Standards
 - content: Dielectrics
 - content: Corrosion
 - content: Metals
+- content: ac resistance
+- content: cable
+- content: cable systems
+- content: dc resistance
+- content: concentric neutral
+- content: corrosion
+- content: insulated conductor
+- content: IEEE 1617
+- content: jacketed cable
+- content: metallic shield
+- content: power cable
+- content: time domain reflectometry (TDR)
+- content: unjacketed cable
 editorialgroup:
   committee:
   - Insulated Conductors of the IEEE Power and Energy Society
