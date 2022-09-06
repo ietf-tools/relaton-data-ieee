@@ -25,7 +25,7 @@ date:
 - type: created
   value: '1998'
 - type: published
-  value: '2019-04-05'
+  value: '2002-08-06'
 - type: issued
   value: '1997-09-16'
 contributor:
@@ -41,7 +41,7 @@ contributor:
         country: USA
   role:
   - publisher
-revdate: '2019-04-05'
+revdate: '2002-08-06'
 language:
 - en
 script:
@@ -94,9 +94,20 @@ relation:
     formattedref:
       content: IEEE 686-2008
       format: text/plain
-fetched: '2022-09-05'
+- type: obsoletedBy
+  bibitem:
+    id: IEEE686-2008
+    docid:
+    - id: IEEE 686-2008
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 686-2008
+      format: text/plain
+fetched: '2022-09-06'
 keyword:
 - content: Radar
+- content: Terminology
 - content: radar
 - content: terminology
 editorialgroup:
