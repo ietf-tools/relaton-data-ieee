@@ -59,7 +59,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: Inactive
 copyright:
 - owner:
   - name:
@@ -86,7 +86,24 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-09-22'
+- type: updates
+  bibitem:
+    id: IEEEC37.92-2005
+    docid:
+    - id: IEEE C37.92-2005
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.92-2005
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+fetched: '2022-09-23'
 keyword:
 - content: IEEE Standards
 - content: Relays
