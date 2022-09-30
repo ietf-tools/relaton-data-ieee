@@ -26,7 +26,7 @@ date:
 - type: published
   value: '2020-07-03'
 - type: issued
-  value: '2020'
+  value: '2022-02-09'
 contributor:
 - organization:
     name:
@@ -46,8 +46,9 @@ language:
 script:
 - Latn
 abstract:
-- content: This recommended practice describes very low frequency withstand and diagnostic
-    tests that are performed on the stator windings of ac electric machines.
+- content: Described in this recommended practice are very low frequency withstand
+    and diagnostic tests that are performed on the stator windings of ac electric
+    machines.
   language:
   - en
   script:
@@ -55,7 +56,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: Inactive
 copyright:
 - owner:
   - name:
@@ -82,17 +83,35 @@ relation:
     script:
     - Latn
     format: text/plain
-fetched: '2022-09-29'
+- type: updates
+  bibitem:
+    id: IEEE433-2009
+    docid:
+    - id: IEEE 433-2009
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 433-2009
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+fetched: '2022-09-30'
 keyword:
 - content: IEEE Standards
 - content: AC machines
 - content: Electric machines
 - content: Testing
 - content: Safety
-- content: ac electric machines
 - content: ac electric machine testing
+- content: ac electric machines
 - content: diagnostic test
 - content: high-potential (hipotential) test
+- content: IEEE 433
 - content: over potential test
 - content: proof testing
 - content: safety
@@ -105,3 +124,5 @@ editorialgroup:
 ics:
 - code: 29.080.01
   text: Electrical insulation in general
+- code: 29.160.01
+  text: Rotating machinery in general
