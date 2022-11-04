@@ -1,30 +1,30 @@
 ---
-id: ISO/IEC/IEEECDP23026-2022-01
+id: IEEEPC62.22.1/D-10-2022-07
 title:
-- content: ISO/IEC/IEEE International Standard - Systems and Software Engineering
-    -- Content Management for Product Life Cycle, User, and Service Management Documentation
+- content: IEEE Draft Guide for Connection of Surge Arresters to Protect Insulated
+    Shielded Electric Power Cable Systems Up to 46 kV
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/9729144
+- content: https://ieeexplore.ieee.org/document/9934862
   type: src
 type: standard
 docid:
-- id: ISO/IEC/IEEE CD P23026-2022-01
+- id: IEEE PC62.22.1/D-10-2022-07
   type: IEEE
   primary: true
-- id: ISO/IEC/IEEE CD P23026™-2022-01
+- id: IEEE PC62.22.1™/D-10-2022-07
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-8493-0
+- id: 978-1-5044-9147-1
   type: ISBN
-docnumber: ISO/IEC/IEEE CD P23026-2022-01
+docnumber: IEEE PC62.22.1/D-10-2022-07
 date:
 - type: created
-  value: '2022'
+  value: '2022-10-31'
 - type: published
-  value: '2022-03-04'
+  value: '2022-11-02'
 - type: issued
   value: '2022'
 contributor:
@@ -40,14 +40,14 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-03-04'
+revdate: '2022-11-02'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: Inactive
+    value: Active
 copyright:
 - owner:
   - name:
@@ -55,21 +55,17 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  - name:
-    - content: ISO
-  - name:
-    - content: IEC
   from: '2022'
 relation:
 - type: updates
   bibitem:
-    id: ISO/IEC/IEEE
+    id: IEEE1299
     docid:
-    - id: ISO/IEC/ IEEE
+    - id: IEEE 1299
       type: IEEE
       primary: true
     formattedref:
-      content: ISO/IEC/ IEEE
+      content: IEEE 1299
       format: text/plain
   description:
     content: revises
@@ -80,15 +76,19 @@ relation:
     format: text/plain
 keyword:
 - content: IEEE Standards
-- content: ISO Standards
-- content: IEC Standards
-- content: Content management
-- content: Software engineering
-- content: Documentation
-- content: Product lifecycle management
+- content: Surge protection
+- content: Arresters
+- content: Voltage control
+- content: Transient analysis
+- content: Cable insulation
+- content: Cable shielding
+- content: cable
+- content: IEEE C62.22.1TM
+- content: installation method
+- content: surge arrester and transient voltage
 editorialgroup:
   committee:
-  - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society
+  - Insulated Conductors of the IEEE Power and Energy Society
 ics:
-- code: '35.080'
-  text: Software
+- code: 33.120.99
+  text: Other components and accessories

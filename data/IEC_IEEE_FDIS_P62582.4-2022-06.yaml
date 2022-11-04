@@ -46,9 +46,16 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: This standard contains both English and French
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: Inactive
 copyright:
 - owner:
   - name:
