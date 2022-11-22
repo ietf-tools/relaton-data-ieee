@@ -1,33 +1,33 @@
 ---
-id: IEEE1366-2003
+id: IEEE1366-2022
 title:
 - content: IEEE Guide for Electric Power Distribution Reliability Indices
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/1300984
+- content: https://ieeexplore.ieee.org/document/9955492
   type: src
 type: standard
 docid:
-- id: IEEE 1366-2003
+- id: IEEE 1366-2022
   type: IEEE
   primary: true
-- id: IEEE 1366™-2003
+- id: IEEE 1366™-2022
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-0-7381-3890-9
+- id: 978-1-5044-9006-1
   type: ISBN
-- id: 10.1109/IEEESTD.2004.94548
+- id: 10.1109/IEEESTD.2022.9955492
   type: DOI
-docnumber: IEEE 1366-2003
+docnumber: IEEE 1366-2022
 date:
 - type: created
-  value: '2004-05-14'
+  value: '2022-11-22'
 - type: published
-  value: '2013-07-17'
+  value: '2022-11-18'
 - type: issued
-  value: '2003-12-10'
+  value: '2022-09-21'
 contributor:
 - organization:
     name:
@@ -41,7 +41,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2013-07-17'
+revdate: '2022-11-18'
 language:
 - en
 script:
@@ -49,8 +49,7 @@ script:
 abstract:
 - content: Distribution reliability indices and factors that affect their calculations
     are defined in this guide. The indices are intended to apply to distribution systems,
-    substations, circuits, and defined regions. An interpretation is available at
-    http://standards.ieee.org/findstds/interps/1366-2003.html
+    substations, circuits, and defined regions..
   language:
   - en
   script:
@@ -58,7 +57,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Superseded
+    value: Active
 copyright:
 - owner:
   - name:
@@ -66,26 +65,9 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2004'
+  from: '2022'
 relation:
 - type: updates
-  bibitem:
-    id: IEEE1366-2001
-    docid:
-    - id: IEEE 1366-2001
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1366-2001
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: obsoletedBy
   bibitem:
     id: IEEE1366-2012
     docid:
@@ -95,12 +77,19 @@ relation:
     formattedref:
       content: IEEE 1366-2012
       format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
-- content: IEEE standards
 - content: circuits
 - content: distribution reliability indices
 - content: distribution systems
 - content: electric power
+- content: IEEE 1366
 - content: reliability indices
 editorialgroup:
   committee:
