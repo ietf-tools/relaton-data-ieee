@@ -1,9 +1,8 @@
 ---
 id: IEEEP1765/D-3-2022-03
 title:
-- content: IEEE Approved Draft Recommended Practice for Estimating the Uncertainty
-    in Error Vector Magnitude of Measured Digitally Modulated Signals for Wireless
-    Communications
+- content: IEEE Draft Recommended Practice for Estimating the Uncertainty in Error
+    Vector Magnitude of Measured Digitally Modulated Signals for Wireless Communications
   format: text/plain
   type: main
 link:
@@ -47,9 +46,10 @@ language:
 script:
 - Latn
 abstract:
-- content: This document provides recommended practices for the evaluation of receiver
-    measurements of error vector magnitude of a digitally modulated wireless communication
-    signal and the evaluation of the associated uncertainty.
+- content: 'Recommended practices for the evaluation of receiver measurements of error
+    vector magnitude of a digitally modulated wireless communication signal and the
+    evaluation of the associated uncertainty are provided in this recommended practice.
+    NOTE: Source codes are available at https://opensource.ieee.org/1765/1765/'
   language:
   - en
   script:
@@ -57,7 +57,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: Inactive
 copyright:
 - owner:
   - name:
@@ -74,9 +74,14 @@ keyword:
 - content: Performance evaluation
 - content: digitally modulated communication signal
 - content: error vector magnitude (EVM)
-- content: IEEE 1765&#8482;
+- content: IEEE 1765
 - content: measurement uncertainty
 - content: wireless telecommunications
 editorialgroup:
   committee:
-  - IEEE Microwave Theory and Techniques Society
+  - Standards Committee of the IEEE Microwave Theory and Techniques Society
+ics:
+- code: 33.060.20
+  text: Receiving and transmitting equipment
+- code: '35.110'
+  text: Networking
