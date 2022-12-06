@@ -1,5 +1,6 @@
 ---
-id: IEEEPC37.114/D-8-2014-04
+schema-version: v1.2.1
+id: IEEEPC37.114-D-8-2014-04
 title:
 - content: IEEE Draft Guide for Determining Fault Location on AC Transmission and
     Distribution Lines
@@ -64,7 +65,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -73,24 +74,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2014'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC37.114-2004
-    docid:
-    - id: IEEE C37.114-2004
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.114-2004
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Fault diagnosis
@@ -111,3 +94,5 @@ editorialgroup:
 ics:
 - code: '29.240'
   text: Power transmission and distribution lines
+ext:
+  schema-version: v1.0.0

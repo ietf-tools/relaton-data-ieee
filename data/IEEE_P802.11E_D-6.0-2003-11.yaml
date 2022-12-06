@@ -1,5 +1,6 @@
 ---
-id: IEEEP802.11e/D-6.0-2003-11
+schema-version: v1.2.1
+id: IEEEP802.11e-D-6.0-2003-11
 title:
 - content: 'IEEE Draft Amendment to Standard for Information technology-- Local and
     metropolitan area networks-- Specific requirements-- Part 11: Wireless LAN Medium
@@ -59,7 +60,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -68,41 +69,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2003'
-relation:
-- type: updates
-  bibitem:
-    id: ANSI/IEEE802.11-1999
-    docid:
-    - id: ANSI/IEEE 802.11-1999
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI/IEEE 802.11-1999
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: ANSI/IEEE802.11-1999
-    docid:
-    - id: ANSI/IEEE 802.11-1999
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI/IEEE 802.11-1999
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Information technology
@@ -121,3 +87,5 @@ ics:
   text: Networking
 - code: 35.100.20
   text: Data link layer
+ext:
+  schema-version: v1.0.0

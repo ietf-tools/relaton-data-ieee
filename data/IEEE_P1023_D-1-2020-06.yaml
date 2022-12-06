@@ -1,5 +1,6 @@
 ---
-id: IEEEP1023/D-1-2020-06
+schema-version: v1.2.1
+id: IEEEP1023-D-1-2020-06
 title:
 - content: IEEE Approved Draft Recommended Practice for the Application of Human Factors
     Engineering to Systems, Equipment, and Facilities of Nuclear Power Generating
@@ -57,7 +58,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -66,6 +67,41 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2020'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1023-2004
+    docid:
+    - id: IEEE 1023-2004
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1023-2004
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1023-2004
+    docid:
+    - id: IEEE 1023-2004
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1023-2004
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Ergonomics
@@ -90,3 +126,5 @@ editorialgroup:
 ics:
 - code: '13.180'
   text: Ergonomics
+ext:
+  schema-version: v1.0.0

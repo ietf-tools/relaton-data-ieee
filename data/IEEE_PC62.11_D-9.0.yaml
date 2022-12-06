@@ -1,5 +1,6 @@
 ---
-id: IEEEPC62.11/D-9.0
+schema-version: v1.2.1
+id: IEEEPC62.11-D-9.0
 title:
 - content: IEEE Approved Draft Standard for Metal-Oxide Surge Arresters for AC Power
     Circuits (> 1 kV)
@@ -61,7 +62,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -70,6 +71,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2020'
+relation:
+- type: updates
+  bibitem:
+    id: IEEEC62.11-2012
+    docid:
+    - id: IEEE C62.11-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C62.11-2012
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Electric discharge
@@ -98,3 +117,5 @@ editorialgroup:
 ics:
 - code: 29.120.50
   text: Fuses and other overcurrent protection devices
+ext:
+  schema-version: v1.0.0

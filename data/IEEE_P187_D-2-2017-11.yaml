@@ -1,5 +1,6 @@
 ---
-id: IEEEP187/D-2-2017-11
+schema-version: v1.2.1
+id: IEEEP187-D-2-2017-11
 title:
 - content: IEEE Draft Standard Measurement Methods of Emissions from FM and Television
     Broadcast Receivers in the Frequency Range of 9 kHz to 40 GHz
@@ -57,7 +58,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -66,24 +67,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2017'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE187-2003
-    docid:
-    - id: IEEE 187-2003
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 187-2003
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Emissions
@@ -104,3 +87,5 @@ editorialgroup:
 ics:
 - code: 33.100.10
   text: Emission
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IEEEP81/D-10
+schema-version: v1.2.1
+id: IEEEP81-D-10
 title:
 - content: IEEE Draft Guide for Measuring Earth Resistivity, Ground Impedance, and
     Earth Surface Potentials of a Grounding System
@@ -61,7 +62,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -70,24 +71,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2012'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE81-1983
-    docid:
-    - id: IEEE 81-1983
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 81-1983
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Grounding
@@ -110,3 +93,5 @@ editorialgroup:
 ics:
 - code: 29.120.50
   text: Fuses and other overcurrent protection devices
+ext:
+  schema-version: v1.0.0

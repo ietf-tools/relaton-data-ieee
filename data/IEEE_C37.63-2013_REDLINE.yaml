@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEEC37.63-2013Redline
 title:
 - content: IEEE Standard Requirements for Overhead, Pad-Mounted, Dry-Vault, and Submersible
@@ -61,7 +62,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -70,24 +71,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2013'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC37.63-2005
-    docid:
-    - id: IEEE C37.63-2005
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.63-2005
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Power cables
@@ -107,3 +90,5 @@ editorialgroup:
 ics:
 - code: 29.120.40
   text: Switches
+ext:
+  schema-version: v1.0.0

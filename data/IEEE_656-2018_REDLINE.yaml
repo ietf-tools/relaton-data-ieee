@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE656-2018Redline
 title:
 - content: IEEE Standard for the Measurement of Audible Noise from Overhead Transmission
@@ -64,7 +65,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -73,24 +74,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2018'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE656-1992
-    docid:
-    - id: IEEE 656-1992
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 656-1992
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Power transmission lines
@@ -107,3 +90,5 @@ ics:
   text: Noise emitted by machines and equipment
 - code: 29.240.20
   text: Power transmission and distribution lines
+ext:
+  schema-version: v1.0.0

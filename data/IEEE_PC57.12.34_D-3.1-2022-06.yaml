@@ -1,5 +1,6 @@
 ---
-id: IEEEPC57.12.34/D-3.1-2022-06
+schema-version: v1.2.1
+id: IEEEPC57.12.34-D-3.1-2022-06
 title:
 - content: IEEE Approved Draft Standard Requirements for Pad-Mounted, Compartmental-Type,
     Self-Cooled, Three-Phase Distribution Transformers, 10 MVA and Smaller; High-Voltage,
@@ -49,7 +50,7 @@ script:
 - Latn
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -58,6 +59,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2022'
+relation:
+- type: updates
+  bibitem:
+    id: IEEEC57.12.34-2015
+    docid:
+    - id: IEEE C57.12.34-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C57.12.34-2015
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Power transformers
@@ -78,3 +97,5 @@ editorialgroup:
 ics:
 - code: '29.180'
   text: Transformers. Reactors
+ext:
+  schema-version: v1.0.0

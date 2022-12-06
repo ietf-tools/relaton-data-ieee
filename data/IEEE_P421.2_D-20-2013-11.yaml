@@ -1,5 +1,6 @@
 ---
-id: IEEEP421.2/D-20-2013-11
+schema-version: v1.2.1
+id: IEEEP421.2-D-20-2013-11
 title:
 - content: IEEE Draft Guide for Identification, Testing, and Evaluation of the Dynamic
     Performance of Excitation Control Systems
@@ -56,7 +57,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -65,24 +66,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2013'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE421.2-1990
-    docid:
-    - id: IEEE 421.2-1990
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 421.2-1990
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Testing
@@ -95,3 +78,5 @@ editorialgroup:
 ics:
 - code: 29.160.10
   text: Components for rotating machinery
+ext:
+  schema-version: v1.0.0

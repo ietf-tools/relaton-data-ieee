@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE2410-2019Redline
 title:
 - content: IEEE Standard for Biometric Open Protocol
@@ -64,7 +65,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Superseded
+    value: approved
 copyright:
 - owner:
   - name:
@@ -73,17 +74,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2019'
-relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE2410-2021
-    docid:
-    - id: IEEE 2410-2021
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 2410-2021
-      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Biometrics
@@ -99,3 +89,5 @@ editorialgroup:
 ics:
 - code: 35.240.15
   text: Identification cards. Chip cards. Biometrics
+ext:
+  schema-version: v1.0.0

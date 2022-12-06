@@ -1,5 +1,6 @@
 ---
-id: ISO/IEC/IEEEP15288/D-IS
+schema-version: v1.2.1
+id: ISO-IEC-IEEEP15288-D-IS
 title:
 - content: ISO/IEC/IEEE Draft Standard - Systems and Software engineering -- System
     Life Cycle Processes
@@ -44,7 +45,7 @@ script:
 - Latn
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -57,6 +58,24 @@ copyright:
   - name:
     - content: IEC
   from: '2022'
+relation:
+- type: updates
+  bibitem:
+    id: ISO-IEC-IEEE15288
+    docid:
+    - id: ISO/IEC/IEEE 15288
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ISO/IEC/IEEE 15288
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: IEC Standards
@@ -70,3 +89,5 @@ editorialgroup:
 ics:
 - code: '35.080'
   text: Software
+ext:
+  schema-version: v1.0.0

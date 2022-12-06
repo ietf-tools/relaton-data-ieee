@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE1139-2008
 title:
 - content: IEEE Standard Definitions of Physical Quantities for Fundamental Frequency
@@ -62,7 +63,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -71,24 +72,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2009'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1139-1999
-    docid:
-    - id: IEEE 1139-1999
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1139-1999
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Noise measurement
@@ -119,3 +102,5 @@ editorialgroup:
 ics:
 - code: '17.080'
   text: Measurement of time, velocity, acceleration, angular velocity
+ext:
+  schema-version: v1.0.0

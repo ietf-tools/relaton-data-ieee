@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE802.15.3f-2017
 title:
 - content: 'IEEE Standard for High Data Rate Wireless Multi-Media Networks Amendment
@@ -58,7 +59,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -67,6 +68,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2018'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE802.15.3-2016
+    docid:
+    - id: IEEE 802.15.3-2016
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.15.3-2016
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Wireless communication
@@ -84,3 +103,5 @@ editorialgroup:
 ics:
 - code: '35.110'
   text: Networking
+ext:
+  schema-version: v1.0.0

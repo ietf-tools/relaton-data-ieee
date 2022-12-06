@@ -1,5 +1,6 @@
 ---
-id: IEEEP1609.2/D-13-2022-10
+schema-version: v1.2.1
+id: IEEEP1609.2-D-13-2022-10
 title:
 - content: IEEE Draft Standard for Wireless Access in Vehicular Environments--Security
     Services for Applications and Management Messages
@@ -47,7 +48,7 @@ script:
 - Latn
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -56,6 +57,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2022'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1609.2-2016
+    docid:
+    - id: IEEE 1609.2-2016
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1609.2-2016
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Cyrptography
@@ -73,3 +92,5 @@ editorialgroup:
 ics:
 - code: 35.240.60
   text: IT applications in transport
+ext:
+  schema-version: v1.0.0

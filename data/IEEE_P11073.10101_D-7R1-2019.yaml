@@ -1,5 +1,6 @@
 ---
-id: IEEEP11073.10101/D-7r1-2019
+schema-version: v1.2.1
+id: IEEEP11073.10101-D-7r1-2019
 title:
 - content: 'IEEE Draft Standard for Health Informatics--Point-of-Care Medical Device
     Communication--Part 10101: Nomenclature'
@@ -64,7 +65,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -73,24 +74,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2019'
-relation:
-- type: updates
-  bibitem:
-    id: ISO/IEEE11073.10101-2004
-    docid:
-    - id: ISO/IEEE 11073.10101-2004
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ISO/IEEE 11073.10101-2004
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Point of care
@@ -124,3 +107,5 @@ ics:
   text: Information technology (Vocabularies)
 - code: 35.240.80
   text: IT applications in health care technology
+ext:
+  schema-version: v1.0.0

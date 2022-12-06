@@ -1,5 +1,6 @@
 ---
-id: ANSI/IEEEC62.41-1980
+schema-version: v1.2.1
+id: ANSI-IEEEC62.41-1980
 title:
 - content: IEEE Guide for Surge Voltages in Low-Voltage AC Power Circuits
   format: text/plain
@@ -64,7 +65,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -73,17 +74,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '1981'
-relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEEC62.41-1991
-    docid:
-    - id: IEEE C62.41-1991
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C62.41-1991
-      format: text/plain
 keyword:
 - content: Power systems
 - content: Standards
@@ -98,3 +88,5 @@ editorialgroup:
 ics:
 - code: 29.120.50
   text: Fuses and other overcurrent protection devices
+ext:
+  schema-version: v1.0.0

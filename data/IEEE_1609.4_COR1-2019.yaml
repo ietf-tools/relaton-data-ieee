@@ -1,5 +1,6 @@
 ---
-id: IEEE1609.4/Cor1-2019
+schema-version: v1.2.1
+id: IEEE1609.4-Cor1-2019
 title:
 - content: 'IEEE Standard for Wireless Access in Vehicular Environments (WAVE)--Multi-Channel
     Operation - Corrigendum 1: Miscellaneous Corrections'
@@ -61,7 +62,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -70,6 +71,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2019'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1609.4-2016
+    docid:
+    - id: IEEE 1609.4-2016
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1609.4-2016
+      format: text/plain
+  description:
+    content: corrects
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Channel estimation
@@ -87,3 +106,5 @@ editorialgroup:
 ics:
 - code: 35.240.60
   text: IT applications in transport
+ext:
+  schema-version: v1.0.0

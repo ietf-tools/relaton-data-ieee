@@ -1,5 +1,6 @@
 ---
-id: ANSIPC63.10/D-14-2020-04
+schema-version: v1.2.1
+id: ANSIPC63.10-D-14-2020-04
 title:
 - content: Approved Draft Standard for American National Standard of Procedures for
     Compliance Testing of Unlicensed Wireless Devices
@@ -64,7 +65,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -78,6 +79,41 @@ copyright:
       content: ANSI
     url: https://www.ansi.org
   from: '2020'
+relation:
+- type: updates
+  bibitem:
+    id: ANSIC63.10-2013
+    docid:
+    - id: ANSI C63.10-2013
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI C63.10-2013
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: ANSIC63.10-2013
+    docid:
+    - id: ANSI C63.10-2013
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI C63.10-2013
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: ANSI Standards
@@ -103,3 +139,5 @@ ics:
   text: Mobile services in general
 - code: 33.100.10
   text: Emission
+ext:
+  schema-version: v1.0.0

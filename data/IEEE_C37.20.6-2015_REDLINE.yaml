@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEEC37.20.6-2015Redline
 title:
 - content: IEEE Standard for 4.76 kV to 38 kV Rated Ground and Test Devices Used in
@@ -61,7 +62,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -70,24 +71,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2015'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC37.20.6-2007
-    docid:
-    - id: IEEE C37.20.6-2007
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.20.6-2007
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Enclosures
@@ -107,3 +90,5 @@ editorialgroup:
 ics:
 - code: 29.130.10
   text: High voltage switchgear and controlgear
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEEC37.109-2006
 title:
 - content: IEEE Guide for the Protection of Shunt Reactors
@@ -56,7 +57,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -65,24 +66,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2007'
-relation:
-- type: updates
-  bibitem:
-    id: ANSI/IEEEC37.109-1988
-    docid:
-    - id: ANSI/IEEE C37.109-1988
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI/IEEE C37.109-1988
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Protective relaying
@@ -111,3 +94,5 @@ editorialgroup:
 ics:
 - code: '29.180'
   text: Transformers. Reactors
+ext:
+  schema-version: v1.0.0

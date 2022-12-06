@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEEP1547.3
 title:
 - content: IEEE Draft Guide for Cybersecurity of Distributed Energy Resources Interconnected
@@ -47,7 +48,7 @@ script:
 - Latn
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -56,6 +57,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2022'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1547.3-2007
+    docid:
+    - id: IEEE 1547.3-2007
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1547.3-2007
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Power systems
@@ -68,3 +87,5 @@ editorialgroup:
 ics:
 - code: '27.100'
   text: Power stations in general
+ext:
+  schema-version: v1.0.0

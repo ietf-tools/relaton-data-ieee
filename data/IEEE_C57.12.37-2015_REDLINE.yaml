@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEEC57.12.37-2015Redline
 title:
 - content: IEEE Standard for the Electronic Reporting of Distribution Transformer
@@ -62,7 +63,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -71,24 +72,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2015'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC57.12.37-2006
-    docid:
-    - id: IEEE C57.12.37-2006
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C57.12.37-2006
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Power distribution
@@ -105,3 +88,5 @@ editorialgroup:
 ics:
 - code: '29.180'
   text: Transformers. Reactors
+ext:
+  schema-version: v1.0.0

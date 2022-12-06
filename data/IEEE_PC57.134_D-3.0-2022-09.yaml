@@ -1,5 +1,6 @@
 ---
-id: IEEEPC57.134/D-3.0-2022-09
+schema-version: v1.2.1
+id: IEEEPC57.134-D-3.0-2022-09
 title:
 - content: IEEE Draft Guide for Determination of Hottest-Spot Temperature in Dry-Type
     Distribution and Power Transformers
@@ -47,7 +48,7 @@ script:
 - Latn
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -56,6 +57,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2022'
+relation:
+- type: updates
+  bibitem:
+    id: IEEEC57.134-2013
+    docid:
+    - id: IEEE C57.134-2013
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C57.134-2013
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: ambient temperature
 - content: average winding temperature rise
@@ -73,3 +92,5 @@ editorialgroup:
 ics:
 - code: '29.180'
   text: Transformers. Reactors
+ext:
+  schema-version: v1.0.0

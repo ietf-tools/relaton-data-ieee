@@ -1,5 +1,6 @@
 ---
-id: IEEEP1685/D-2-2022-07
+schema-version: v1.2.1
+id: IEEEP1685-D-2-2022-07
 title:
 - content: IEEE Approved Draft Standard for IP-XACT, Standard Structure for Packaging,
     Integrating, and Reusing IP within Tool Flows
@@ -65,7 +66,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -74,6 +75,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2022'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1685-2014
+    docid:
+    - id: IEEE 1685-2014
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1685-2014
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Design automation
@@ -105,3 +124,5 @@ editorialgroup:
 ics:
 - code: 35.240.99
   text: IT applications in other fields
+ext:
+  schema-version: v1.0.0

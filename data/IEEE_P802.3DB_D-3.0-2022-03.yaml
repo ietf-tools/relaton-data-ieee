@@ -1,5 +1,6 @@
 ---
-id: IEEEP802.3db/D-3.0-2022-03
+schema-version: v1.2.1
+id: IEEEP802.3db-D-3.0-2022-03
 title:
 - content: 'IEEE Draft Standard for Ethernet - Amendment 4: Physical Layer Specifications
     and Management Parameters for 100 Gb/s, 200 Gb/s, and 400 Gb/s Operation over
@@ -57,7 +58,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -117,3 +118,5 @@ ics:
   text: Physical layer
 - code: '35.110'
   text: Networking
+ext:
+  schema-version: v1.0.0

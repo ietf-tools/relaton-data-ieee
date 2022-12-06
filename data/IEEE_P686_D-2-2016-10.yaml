@@ -1,5 +1,6 @@
 ---
-id: IEEEP686/D-2-2016-10
+schema-version: v1.2.1
+id: IEEEP686-D-2-2016-10
 title:
 - content: IEEE Standard for Radar Definitions
   format: text/plain
@@ -55,7 +56,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -64,24 +65,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2016'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE686-2008
-    docid:
-    - id: IEEE 686-2008
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 686-2008
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Radar
@@ -98,3 +81,5 @@ ics:
   text: Telecommunications. Audio and video engineering (Vocabularies)
 - code: 33.060.99
   text: Other equipment for radiocommunications
+ext:
+  schema-version: v1.0.0

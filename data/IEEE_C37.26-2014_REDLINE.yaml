@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEEC37.26-2014Redline
 title:
 - content: IEEE Guide for Methods of Power-Factor Measurement for Low-Voltage (1000
@@ -66,7 +67,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -75,24 +76,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2014'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC37.26-2003
-    docid:
-    - id: IEEE C37.26-2003
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.26-2003
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Testing
@@ -111,3 +94,5 @@ editorialgroup:
 ics:
 - code: 29.130.20
   text: Low voltage switchgear and controlgear
+ext:
+  schema-version: v1.0.0

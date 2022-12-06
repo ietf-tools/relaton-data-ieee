@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE1019-2013
 title:
 - content: IEEE Recommended Practice for Specifying Electric Submersible Pump Cable—Polypropylene
@@ -23,6 +24,8 @@ docid:
   type: DOI
 docnumber: IEEE 1019-2013
 date:
+- type: updated
+  value: '2013-06-14'
 - type: created
   value: '2013'
 - type: published
@@ -36,10 +39,6 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-    contact:
-    - address:
-        city: New York
-        country: USA
   role:
   - type: publisher
 revdate: '2013-05-02'
@@ -63,7 +62,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Superseded
+    value: approved
 copyright:
 - owner:
   - name:
@@ -95,3 +94,5 @@ editorialgroup:
 ics:
 - code: 29.060.20
   text: Cables
+ext:
+  schema-version: v1.0.0

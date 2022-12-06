@@ -1,5 +1,6 @@
 ---
-id: IEEEPC37.99/D-7-2012-07
+schema-version: v1.2.1
+id: IEEEPC37.99-D-7-2012-07
 title:
 - content: IEEE Draft Guide for the Protection of Shunt Capacitor Banks
   format: text/plain
@@ -57,7 +58,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -66,24 +67,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2012'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC37.99-2000
-    docid:
-    - id: IEEE C37.99-2000
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.99-2000
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Voltage control
@@ -108,3 +91,5 @@ editorialgroup:
 ics:
 - code: 31.060.70
   text: Power capacitors
+ext:
+  schema-version: v1.0.0

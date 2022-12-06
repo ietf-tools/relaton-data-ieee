@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.1
+id: IEEEP1450.3-D-15
+title:
+- content: Unapproved IEEE Draft for Extensions to Standard Test Interface Language
+    (STIL) (IEEE Std. 1450-1999) for DC Level Specification
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/4040246
+  type: src
+type: standard
+docid:
+- id: IEEE P1450.3/D-15
+  type: IEEE
+  primary: true
+- id: IEEE P1450.3™/D-15
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-1-5044-2948-1
+  type: ISBN
+docnumber: IEEE P1450.3/D-15
+date:
+- type: created
+  value: '2006'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Define structures in STIL for the specification of resource mapping of
+    ATE hardware architectures. An example of resource mapping is the assignment of
+    tester resources to waveform characters that are used in STIL-vectors. Define
+    structures in STIL for including ATE specific instructions in-line with the STIL
+    data. Define structures in STIL that allow for 'incremental processing' whereby,
+    a set of STIL files may be targeted to mutliple ATE systems by allowing separately
+    identified ATE data to co-exist. Define structures in STIL for defining tester
+    rules checks to ensure that the set of generated STIL files conform to the selected
+    resources on one or more ATE systems. Define structures in STIL for the specification
+    of the resources required for the execution of a set of STIL files on a given
+    ATE system.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: inapproved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2006'
+ics:
+- code: '35.060'
+  text: Languages used in information technology
+ext:
+  schema-version: v1.0.0

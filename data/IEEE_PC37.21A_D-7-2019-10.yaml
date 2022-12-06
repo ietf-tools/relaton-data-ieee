@@ -1,5 +1,6 @@
 ---
-id: IEEEPC37.21a/D-7-2019-10
+schema-version: v1.2.1
+id: IEEEPC37.21a-D-7-2019-10
 title:
 - content: 'IEEE Approved Draft Standard for Control Switchboards Amendment 1: Control
     and Secondary Circuits and Devices, and All Wiring'
@@ -56,7 +57,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -65,6 +66,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2020'
+relation:
+- type: updates
+  bibitem:
+    id: IEEEC37.21-2017
+    docid:
+    - id: IEEE C37.21-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.21-2017
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Control systems
@@ -89,3 +108,5 @@ editorialgroup:
 ics:
 - code: 29.130.99
   text: Other switchgear and controlgear
+ext:
+  schema-version: v1.0.0

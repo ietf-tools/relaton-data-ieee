@@ -1,5 +1,6 @@
 ---
-id: IEEEP485/D-7-2020-03
+schema-version: v1.2.1
+id: IEEEP485-D-7-2020-03
 title:
 - content: IEEE Approved Draft Recommended Practice for Sizing Lead-Acid Batteries
     for Stationary Applications
@@ -60,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -69,24 +70,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2020'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE485-2010
-    docid:
-    - id: IEEE 485-2010
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 485-2010
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Batteries
@@ -111,3 +94,5 @@ editorialgroup:
 ics:
 - code: 29.220.20
   text: Acid secondary cells and batteries
+ext:
+  schema-version: v1.0.0

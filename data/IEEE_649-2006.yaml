@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE649-2006
 title:
 - content: IEEE Standard for Qualifying Class 1E Motor Control Centers for Nuclear
@@ -63,7 +64,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -72,24 +73,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2006'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE649-1991
-    docid:
-    - id: IEEE 649-1991
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 649-1991
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Motor drives
@@ -116,3 +99,5 @@ editorialgroup:
 ics:
 - code: 29.160.30
   text: Motors
+ext:
+  schema-version: v1.0.0

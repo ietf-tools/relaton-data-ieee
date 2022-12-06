@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE421.1-2021Redline
 title:
 - content: IEEE Standard Definitions for Excitation Systems for Synchronous Machines
@@ -61,7 +62,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -70,6 +71,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2022'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE421.1-2007
+    docid:
+    - id: IEEE 421.1-2007
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 421.1-2007
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Synchronous machines
@@ -87,3 +106,5 @@ editorialgroup:
 ics:
 - code: 29.160.99
   text: Other standards related to rotating machinery
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IEEEP1303/D-1-2010-10
+schema-version: v1.2.1
+id: IEEEP1303-D-1-2010-10
 title:
 - content: IEEE Draft Guide for Static Var Compensator Field Tests
   format: text/plain
@@ -57,7 +58,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -66,24 +67,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2010'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1303-1994
-    docid:
-    - id: IEEE 1303-1994
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1303-1994
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Valves
@@ -101,3 +84,5 @@ editorialgroup:
 ics:
 - code: '29.020'
   text: Electrical engineering in general
+ext:
+  schema-version: v1.0.0

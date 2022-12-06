@@ -1,5 +1,6 @@
 ---
-id: IEEEPC57.12.36/D-6-2016-10
+schema-version: v1.2.1
+id: IEEEPC57.12.36-D-6-2016-10
 title:
 - content: IEEE Approved Draft Standard Requirements for Liquid-Immersed Distribution
     Substation Transformers
@@ -66,7 +67,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -75,24 +76,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2017'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC57.12.36-2007
-    docid:
-    - id: IEEE C57.12.36-2007
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C57.12.36-2007
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Power transformers
@@ -113,3 +96,5 @@ editorialgroup:
 ics:
 - code: 29.240.10
   text: Substations. Surge arresters
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE1455-1999
 title:
 - content: IEEE Standard for Message Sets for Vehicle/Roadside Communications
@@ -62,7 +63,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -104,3 +105,5 @@ ics:
   text: IT applications in transport and trade
 - code: 43.040.15
   text: Car informatics. On-board computer systems
+ext:
+  schema-version: v1.0.0

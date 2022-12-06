@@ -1,5 +1,6 @@
 ---
-id: IEEEP1250/D-13-2011
+schema-version: v1.2.1
+id: IEEEP1250-D-13-2011
 title:
 - content: IEEE Guide for Identifying and Improving Voltage Quality in Power Systems
   format: text/plain
@@ -60,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -69,24 +70,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2011'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1250-1995
-    docid:
-    - id: IEEE 1250-1995
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1250-1995
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Voltage fluctuations
@@ -113,3 +96,5 @@ editorialgroup:
 ics:
 - code: 29.240.01
   text: Power transmission and distribution networks in general
+ext:
+  schema-version: v1.0.0

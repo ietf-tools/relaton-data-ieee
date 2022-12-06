@@ -1,5 +1,6 @@
 ---
-id: IEEEP317/D-5-2013-01
+schema-version: v1.2.1
+id: IEEEP317-D-5-2013-01
 title:
 - content: IEEE Approved Draft Standard for Electric Penetrations Assemblies in Containment
     Structures for Nuclear Power Generating Stations
@@ -67,7 +68,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -76,24 +77,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2013'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE317-1983
-    docid:
-    - id: IEEE 317-1983
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 317-1983
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Nuclear power generation
@@ -125,3 +108,5 @@ editorialgroup:
 ics:
 - code: 27.120.10
   text: Reactor engineering
+ext:
+  schema-version: v1.0.0

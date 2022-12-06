@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE1221-1993
 title:
 - content: IEEE Guide for Fire Hazard Assessment of Electrical Insulating Materials
@@ -46,7 +47,7 @@ script:
 - Latn
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -63,3 +64,5 @@ ics:
   text: Ignitability and burning behaviour of materials and products
 - code: 29.035.01
   text: Insulating materials in general
+ext:
+  schema-version: v1.0.0

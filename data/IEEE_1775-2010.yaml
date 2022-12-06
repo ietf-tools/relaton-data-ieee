@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE1775-2010
 title:
 - content: IEEE Standard for Power Line Communication Equipment--Electromagnetic Compatibility
@@ -60,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -98,3 +99,5 @@ ics:
   text: Powerline telecommunications
 - code: 33.100.20
   text: Immunity
+ext:
+  schema-version: v1.0.0

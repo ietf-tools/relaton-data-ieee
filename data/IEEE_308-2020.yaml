@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE308-2020
 title:
 - content: IEEE Standard Criteria for Class 1E Power Systems for Nuclear Power Generating
@@ -62,7 +63,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -71,24 +72,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2020'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE308-2012
-    docid:
-    - id: IEEE 308-2012
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 308-2012
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Nuclear power generation
@@ -106,3 +89,5 @@ ics:
   text: Fissile materials and nuclear fuel technology
 - code: 29.240.01
   text: Power transmission and distribution networks in general
+ext:
+  schema-version: v1.0.0

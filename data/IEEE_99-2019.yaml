@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE99-2019
 title:
 - content: IEEE Recommended Practice for the Preparation of Test Procedures forthe
@@ -64,7 +65,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -73,24 +74,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2020'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE99-2007
-    docid:
-    - id: IEEE 99-2007
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 99-2007
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Insulation
@@ -115,3 +98,5 @@ editorialgroup:
 ics:
 - code: 29.080.30
   text: Insulation systems
+ext:
+  schema-version: v1.0.0

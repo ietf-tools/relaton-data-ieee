@@ -1,5 +1,6 @@
 ---
-id: IEEEPC37.119/D-2-2015-07
+schema-version: v1.2.1
+id: IEEEPC37.119-D-2-2015-07
 title:
 - content: IEEE Draft Guide for Breaker Failure Protection of Power Circuit Breakers
   format: text/plain
@@ -62,7 +63,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -71,24 +72,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2015'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC37.119-2005
-    docid:
-    - id: IEEE C37.119-2005
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.119-2005
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Circuit breakers
@@ -102,3 +85,5 @@ editorialgroup:
 ics:
 - code: 29.120.40
   text: Switches
+ext:
+  schema-version: v1.0.0

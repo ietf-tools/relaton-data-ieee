@@ -1,5 +1,6 @@
 ---
-id: ISO/IEC/IEEEDISP14764-2021-01
+schema-version: v1.2.1
+id: ISO-IEC-IEEEDISP14764-2021-01
 title:
 - content: ISO/IEC/IEEE Draft International Standard - Software Engineering - Software
     Life Cycle Processes - Maintenance
@@ -47,7 +48,7 @@ script:
 - Latn
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -63,7 +64,7 @@ copyright:
 relation:
 - type: updates
   bibitem:
-    id: ISO/IEC14764-2006
+    id: ISO-IEC14764-2006
     docid:
     - id: ISO/IEC 14764-2006
       type: IEEE
@@ -90,3 +91,5 @@ editorialgroup:
 ics:
 - code: '35.080'
   text: Software
+ext:
+  schema-version: v1.0.0

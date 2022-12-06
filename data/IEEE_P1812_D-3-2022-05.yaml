@@ -1,5 +1,6 @@
 ---
-id: IEEEP1812/D-3-2022-05
+schema-version: v1.2.1
+id: IEEEP1812-D-3-2022-05
 title:
 - content: IEEE Draft Guide for Testing Permanent Magnet Machines
   format: text/plain
@@ -46,7 +47,7 @@ script:
 - Latn
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -55,6 +56,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2022'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1812-2014
+    docid:
+    - id: IEEE 1812-2014
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1812-2014
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Permanent magnet machines
@@ -71,3 +90,5 @@ ics:
   text: Motors
 - code: '19.080'
   text: Electrical and electronic testing
+ext:
+  schema-version: v1.0.0

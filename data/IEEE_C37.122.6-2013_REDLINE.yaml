@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEEC37.122.6-2013Redline
 title:
 - content: IEEE Recommended Practice for the Interface of New Gas-Insulated Equipment
@@ -60,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -69,24 +70,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2014'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1416-1998
-    docid:
-    - id: IEEE 1416-1998
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1416-1998
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Substations
@@ -107,3 +90,5 @@ ics:
   text: Insulating gases
 - code: 29.080.01
   text: Electrical insulation in general
+ext:
+  schema-version: v1.0.0

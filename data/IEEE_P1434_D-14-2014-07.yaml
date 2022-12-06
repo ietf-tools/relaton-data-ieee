@@ -1,5 +1,6 @@
 ---
-id: IEEEP1434/D-14-2014-07
+schema-version: v1.2.1
+id: IEEEP1434-D-14-2014-07
 title:
 - content: IEEE Approved Draft Guide for the Measurement of Partial Discharges in
     AC Electric Machinery
@@ -57,7 +58,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -66,24 +67,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2014'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1434-2000
-    docid:
-    - id: IEEE 1434-2000
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1434-2000
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Electric machines
@@ -103,3 +86,5 @@ editorialgroup:
 ics:
 - code: 29.160.01
   text: Rotating machinery in general
+ext:
+  schema-version: v1.0.0

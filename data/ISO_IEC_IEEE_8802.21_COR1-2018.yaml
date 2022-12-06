@@ -1,5 +1,6 @@
 ---
-id: ISO/IEC/IEEE8802.21/Cor1-2018
+schema-version: v1.2.1
+id: ISO-IEC-IEEE8802.21-Cor1-2018
 title:
 - content: 'ISO/IEC/IEEE International Standard - Information technology - Telecommunications
     and information exchange between systems - Local and metropolitan area networks
@@ -59,7 +60,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -72,6 +73,17 @@ copyright:
   - name:
     - content: IEC
   from: '2018'
+relation:
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.21-Cor1-2017
+    docid:
+    - id: IEEE 802.21/Cor1-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.21/Cor1-2017
+      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: ISO Standards
@@ -92,3 +104,5 @@ editorialgroup:
 ics:
 - code: '35.110'
   text: Networking
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IEEEP11073.10417/D-3-2022-11
+schema-version: v1.2.1
+id: IEEEP11073.10417-D-3-2022-11
 title:
 - content: 'IEEE Draft Standard for Health Informatics -- Personal Health Device Communication
     Part 10417: Device Specialization -- Glucose Meter'
@@ -64,7 +65,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -73,6 +74,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2022'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE11073.10417-2015
+    docid:
+    - id: IEEE 11073.10417-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 11073.10417-2015
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Glucose
@@ -92,3 +111,5 @@ editorialgroup:
 ics:
 - code: 35.240.80
   text: IT applications in health care technology
+ext:
+  schema-version: v1.0.0

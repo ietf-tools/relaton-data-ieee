@@ -1,0 +1,119 @@
+---
+schema-version: v1.2.1
+id: IEEE1905.1a-2014
+title:
+- content: 'IEEE Standard for a Convergent Digital Home Network for Heterogeneous
+    Technologies Amendment 1: Support of New MAC/PHYs and Enhancements'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/7050223
+  type: src
+type: standard
+docid:
+- id: IEEE 1905.1a-2014
+  type: IEEE
+  primary: true
+- id: IEEE 1905.1a™-2014
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-0-7381-9496-7
+  type: ISBN
+- id: 10.1109/IEEESTD.2015.7050223
+  type: DOI
+docnumber: IEEE 1905.1a-2014
+date:
+- type: updated
+  value: '2015-03-13'
+- type: created
+  value: '2015-02-20'
+- type: published
+  value: '2015-02-26'
+- type: issued
+  value: '2014-12-23'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  role:
+  - type: publisher
+revdate: '2015-02-26'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'An abstraction layer for multiple home networking technologies that provides
+    a common interface to widely deployed home networking technologies is defined
+    in this standard: IEEE 1901&#x2122; over power lines, IEEE 802.11&#x2122; for
+    wireless, Ethernet over twisted pair cable, and MoCA 1.1 over coax. Additional
+    network technologies are supported by an extensible mechanism using an IEEE OUI
+    and an XML-formatted document. Connectivity selection for transmission of packets
+    arriving from any interface or application is supported by the 1905 abstraction
+    layer. Modification to the underlying home networking technologies is not required
+    by the 1905 abstraction layer, and hence it does not change the behavior or implementation
+    of existing home networking technologies. The 1905 abstraction layer is between
+    layers 2 and 3 and abstracts the individual details of each interface, aggregates
+    available bandwidth, and facilitates seamless integration. The 1905 abstraction
+    layer also facilitates end-to-end quality of service (QoS) while simplifying the
+    introduction of new devices to the network, establishing secure connections, extending
+    network coverage, and facilitating advanced network management features including
+    discovery, path selection, autoconfiguration, and QoS negotiation.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2015'
+keyword:
+- content: IEEE Standards
+- content: Home automation
+- content: Data models
+- content: Network topology
+- content: Registration
+- content: Digital TV
+- content: Digital systems
+- content: Media Access Protocol
+- content: Physical layer
+- content: abstraction layer
+- content: access point (AP) autoconfiguration
+- content: data models
+- content: extensibility
+- content: fragmentation and reassembly
+- content: Generic Phy
+- content: IEEE 802.1(TM) bridge discovery
+- content: IEEE Std 802.11(TM)
+- content: IEEE Std 1901(TM)
+- content: IEEE Std 1905.1(TM)
+- content: L2
+- content: MoCA(R)
+- content: pairwise master key
+- content: power management
+- content: push button
+- content: registration
+- content: security
+- content: topology discovery protocol
+- content: Wi-Fi(R)
+- content: XML
+editorialgroup:
+  committee:
+  - Power Line Communications of the IEEE Communications Society
+ics:
+- code: '35.110'
+  text: Networking
+ext:
+  schema-version: v1.0.0

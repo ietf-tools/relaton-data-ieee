@@ -1,5 +1,6 @@
 ---
-id: ISO/IEC/IEEE8802.3/Amd3-2017
+schema-version: v1.2.1
+id: ISO-IEC-IEEE8802.3-Amd3-2017
 title:
 - content: 'ISO/IEC/IEEE International Standard for Ethernet Amendment 3: Physical
     Layer and Management Parameters for 25 Gb/s and 40 Gb/s Operation, Types 25GBASE-T
@@ -61,7 +62,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Superseded
+    value: approved
 copyright:
 - owner:
   - name:
@@ -89,9 +90,9 @@ keyword:
 - content: 40 Gigabit Ethernet
 - content: Auto-Negotiation
 - content: Ethernet
-- content: IEEE 802&#174;
-- content: IEEE 802.3&#8482;
-- content: IEEE 802.3bq&#8482;
+- content: IEEE 802(R)
+- content: IEEE 802.3(TM)
+- content: IEEE 802.3bq(TM)
 - content: Physical Coding Sublayer (PCS)
 - content: Physical Medium Attachment (PMA) sublayer
 - content: structured cabling
@@ -104,3 +105,17 @@ ics:
   text: Physical layer
 - code: '35.110'
   text: Networking
+- code: 35.100.10
+  text: Physical layer
+- code: '35.110'
+  text: Networking
+- code: 35.100.10
+  text: Physical layer
+- code: '35.110'
+  text: Networking
+- code: 35.100.10
+  text: Physical layer
+- code: '35.110'
+  text: Networking
+ext:
+  schema-version: v1.0.0

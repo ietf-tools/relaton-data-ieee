@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE1076-2008Redline
 title:
 - content: IEEE Standard VHDL Language Reference Manual
@@ -19,7 +20,7 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-7423-8
+- id: 978-0-7381-6853-1
   type: ISBN
 docnumber: IEEE 1076-2008 Redline
 date:
@@ -63,7 +64,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Superseded
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -73,16 +74,6 @@ copyright:
     url: http://www.ieee.org
   from: '2011'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE1076-2019
-    docid:
-    - id: IEEE 1076-2019
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1076-2019
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEE1076-2002
@@ -127,3 +118,5 @@ editorialgroup:
 ics:
 - code: '35.060'
   text: Languages used in information technology
+ext:
+  schema-version: v1.0.0

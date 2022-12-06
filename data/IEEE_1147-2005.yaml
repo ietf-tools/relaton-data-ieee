@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE1147-2005
 title:
 - content: IEEE Guide for the Rehabilitation of Hydroelectric Power Plants
@@ -63,7 +64,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Superseded
+    value: approved
 copyright:
 - owner:
   - name:
@@ -72,42 +73,7 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2006'
-relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE1147-2005
-    docid:
-    - id: IEEE 1147-2005
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1147-2005
-      format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1147-2005
-    docid:
-    - id: IEEE 1147-2005
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1147-2005
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
-- content: IEEE Standards
-- content: Standards
-- content: Patents
-- content: Trademarks
-- content: Hydroelectric power generation
-- content: Warranties
-- content: Transformers
 - content: cable and raceway
 - content: compressed air
 - content: control
@@ -137,3 +103,5 @@ editorialgroup:
 ics:
 - code: '27.140'
   text: Hydraulic energy engineering
+ext:
+  schema-version: v1.0.0

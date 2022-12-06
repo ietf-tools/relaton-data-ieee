@@ -1,5 +1,6 @@
 ---
-id: IEEEP1453/D-4.1-2021-05
+schema-version: v1.2.1
+id: IEEEP1453-D-4.1-2021-05
 title:
 - content: IEEE Draft Standard for Measurement and Limits of Voltage Fluctuations
     and Associated Light Flicker on AC Power Systems
@@ -73,7 +74,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -82,6 +83,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2021'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1453-2015
+    docid:
+    - id: IEEE 1453-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1453-2015
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Voltage flucuations
@@ -103,3 +122,5 @@ editorialgroup:
 ics:
 - code: 33.100.10
   text: Emission
+ext:
+  schema-version: v1.0.0

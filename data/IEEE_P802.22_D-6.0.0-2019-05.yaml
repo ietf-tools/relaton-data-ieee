@@ -1,5 +1,6 @@
 ---
-id: IEEEP802.22/D-6.0.0-2019-05
+schema-version: v1.2.1
+id: IEEEP802.22-D-6.0.0-2019-05
 title:
 - content: 'IEEE Draft Standard for Information Technology - Local and Metropolitan
     Area Networks - Specific Requirements - Part 22: Cognitive Radio Wireless Regional
@@ -64,7 +65,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -73,24 +74,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2019'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE802.22-2011
-    docid:
-    - id: IEEE 802.22-2011
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.22-2011
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Local area networks
@@ -117,3 +100,5 @@ editorialgroup:
 ics:
 - code: '35.110'
   text: Networking
+ext:
+  schema-version: v1.0.0

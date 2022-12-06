@@ -1,0 +1,101 @@
+---
+schema-version: v1.2.1
+id: IEEEP802.1Qcz-D-2.4-2022-11
+title:
+- content: 'IEEE Draft Standard for Local and Metropolitan Area Networks--Bridges
+    and Bridged Networks -- Amendment 35: Congestion Isolation'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/9969564
+  type: src
+type: standard
+docid:
+- id: IEEE P802.1Qcz/D-2.4-2022-11
+  type: IEEE
+  primary: true
+- id: IEEE P802.1Qcz™/D-2.4-2022-11
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-1-5044-9229-4
+  type: ISBN
+docnumber: IEEE P802.1Qcz/D-2.4-2022-11
+date:
+- type: created
+  value: '2022-12-01'
+- type: published
+  value: '2022-12-02'
+- type: issued
+  value: '2022'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2022-12-02'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This amendment to IEEE Std 802.1Q&#8482;-2022 specifies protocols, procedures
+    and managed objects that support the isolation of congesting data flows within
+    data center environments.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2022'
+relation:
+- type: updates
+  bibitem:
+    id: IEEEP802.1Q-D-1.2-R--2022-05
+    docid:
+    - id: IEEE P802.1Q/D-1.2/R--2022-05
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE P802.1Q/D-1.2/R--2022-05
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: Bridged Local Area Networks
+- content: Local Area Networks (LANs)
+- content: MAC Bridges
+- content: Virtual Bridged Local Area Networks (virtual LANs)
+- content: Data Center Bridging
+- content: priority
+- content: flow control
+- content: congestion
+- content: congestion isolation.
+editorialgroup:
+  committee:
+  - LAN/MAN Standards Committee of the IEEE Computer Society
+ext:
+  schema-version: v1.0.0

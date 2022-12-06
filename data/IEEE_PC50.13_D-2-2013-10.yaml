@@ -1,5 +1,6 @@
 ---
-id: IEEEPC50.13/D-2-2013-10
+schema-version: v1.2.1
+id: IEEEPC50.13-D-2-2013-10
 title:
 - content: IEEE Draft Standard for Cylindrical-Rotor 50 Hz and 60 Hz Synchronous Generators
     Rated 10 MVA and Above
@@ -59,7 +60,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -68,24 +69,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2013'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC50.13-2005
-    docid:
-    - id: IEEE C50.13-2005
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C50.13-2005
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: AC motors
@@ -106,3 +89,5 @@ editorialgroup:
 ics:
 - code: 29.160.20
   text: Generators
+ext:
+  schema-version: v1.0.0

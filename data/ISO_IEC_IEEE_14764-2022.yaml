@@ -1,5 +1,6 @@
 ---
-id: ISO/IEC/IEEE14764-2022
+schema-version: v1.2.1
+id: ISO-IEC-IEEE14764-2022
 title:
 - content: ISO/IEC/IEEE International Standard - Software engineering - Software life
     cycle processes - Maintenance
@@ -49,7 +50,7 @@ script:
 - Latn
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -65,7 +66,7 @@ copyright:
 relation:
 - type: updates
   bibitem:
-    id: ISO/IEC14764-2006
+    id: ISO-IEC14764-2006
     docid:
     - id: ISO/IEC 14764-2006
       type: IEEE
@@ -93,3 +94,5 @@ editorialgroup:
 ics:
 - code: '35.080'
   text: Software
+ext:
+  schema-version: v1.0.0

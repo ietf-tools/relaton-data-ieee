@@ -1,5 +1,6 @@
 ---
-id: IEEEPC62.92.4/D-6.0-2013-07
+schema-version: v1.2.1
+id: IEEEPC62.92.4-D-6.0-2013-07
 title:
 - content: IEEE Draft Guide for the Application of Neutral Grounding in Electrical
     Utility Systems, Part IV - Distribution
@@ -61,7 +62,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -70,24 +71,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2013'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC62.92.4-1991
-    docid:
-    - id: IEEE C62.92.4-1991
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C62.92.4-1991
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Power distribution
@@ -105,3 +88,5 @@ editorialgroup:
 ics:
 - code: 29.120.50
   text: Fuses and other overcurrent protection devices
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IEEEPC62.31/D-8-2020-07
+schema-version: v1.2.1
+id: IEEEPC62.31-D-8-2020-07
 title:
 - content: IEEE Approved Draft Standard for Test Methods and Preferred Values for
     Low-Voltage Gas Discharge Tube Surge-Protective Components
@@ -60,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -70,74 +71,6 @@ copyright:
     url: http://www.ieee.org
   from: '2020'
 relation:
-- type: updates
-  bibitem:
-    id: IEEE649-2006
-    docid:
-    - id: IEEE 649-2006
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 649-2006
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE649-2006
-    docid:
-    - id: IEEE 649-2006
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 649-2006
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE649-2006
-    docid:
-    - id: IEEE 649-2006
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 649-2006
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE649-2006
-    docid:
-    - id: IEEE 649-2006
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 649-2006
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: updates
   bibitem:
     id: IEEE649-2006
@@ -196,3 +129,5 @@ editorialgroup:
 ics:
 - code: 29.120.50
   text: Fuses and other overcurrent protection devices
+ext:
+  schema-version: v1.0.0

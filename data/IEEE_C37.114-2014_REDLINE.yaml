@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEEC37.114-2014Redline
 title:
 - content: IEEE Guide for Determining Fault Location on AC Transmission and Distribution
@@ -68,7 +69,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -77,24 +78,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2015'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC37.114-2004
-    docid:
-    - id: IEEE C37.114-2004
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.114-2004
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Fault diagnosis
@@ -115,3 +98,5 @@ editorialgroup:
 ics:
 - code: 29.240.20
   text: Power transmission and distribution lines
+ext:
+  schema-version: v1.0.0

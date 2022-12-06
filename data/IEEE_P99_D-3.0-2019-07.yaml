@@ -1,5 +1,6 @@
 ---
-id: IEEEP99/D-3.0-2019-07
+schema-version: v1.2.1
+id: IEEEP99-D-3.0-2019-07
 title:
 - content: IEEE Approved Draft Recommended Practice for the Preparation of Test Procedures
     for the Thermal Evaluation of Insulation Systems for Electrical Equipment
@@ -60,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -69,24 +70,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2019'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE99-2007
-    docid:
-    - id: IEEE 99-2007
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 99-2007
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Cable insulation
@@ -108,3 +91,5 @@ editorialgroup:
 ics:
 - code: 29.080.30
   text: Insulation systems
+ext:
+  schema-version: v1.0.0

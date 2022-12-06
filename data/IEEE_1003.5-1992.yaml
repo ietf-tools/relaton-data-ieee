@@ -1,0 +1,104 @@
+---
+schema-version: v1.2.1
+id: IEEE1003.5-1992
+title:
+- content: 'IEEE Standard for Information Technology--POSIX(R) Ada Language Interfaces--PART
+    1: Binding for System Application Program Interface (API)'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/7160863
+  type: src
+type: standard
+docid:
+- id: IEEE 1003.5-1992
+  type: IEEE
+  primary: true
+- id: IEEE 1003.5™-1992
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-1-55937-229-9
+  type: ISBN
+- id: 10.1109/IEEESTD.1994.7160863
+  type: DOI
+docnumber: IEEE 1003.5-1992
+date:
+- type: updated
+  value: '2015-08-07'
+- type: created
+  value: '1994'
+- type: published
+  value: '2015-07-16'
+- type: issued
+  value: '1992-06-18'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  role:
+  - type: publisher
+revdate: '2015-07-16'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This standard is part of the POSIX series of standards for applications
+    and user interfaces to open systems. It defines the Ada language bindings as package
+    specifications and accompanying textual descriptions to the application program
+    interface (API). This standard supports application portability at the source
+    level through the binding between ISO 8652:1987 (Ada) and ISO/IEC 9945-1:1990
+    (IEEE Std 1003.1-1990) (POSIX). Terminology and general requirements, process
+    primitives, the process environment, files and directories, input and output primitives,
+    device- and class-specific functions, language-specific services for Ada, and
+    system databases are covered. It also specifies behavior to support the binding
+    that must be provided by the Ada compilation system. The emphasis in POSIX is
+    on application programs, so the interfaces in this document are not sufficient
+    to implement an Ada compilation system or a POSIX shell, nor is this standard
+    meant to be sufficient for real-time applications.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: inapproved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '1992'
+keyword:
+- content: IEEE standards
+- content: Information technology
+- content: Appication programming interfaces
+- content: Operating systems
+- content: Computer languages
+- content: Portability
+- content: Ada
+- content: API
+- content: operating system
+- content: portable application
+- content: POSIX
+- content: POSIX language bindings
+- content: Open systems
+- content: Computer language bindings
+- content: Application portability
+editorialgroup:
+  committee:
+  - Portable Applications of the IEEE Computer Society
+ics:
+- code: '35.060'
+  text: Languages used in information technology
+- code: '35.080'
+  text: Software
+ext:
+  schema-version: v1.0.0

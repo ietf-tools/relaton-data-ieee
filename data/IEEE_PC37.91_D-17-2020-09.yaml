@@ -1,5 +1,6 @@
 ---
-id: IEEEPC37.91/D-17-2020-09
+schema-version: v1.2.1
+id: IEEEPC37.91-D-17-2020-09
 title:
 - content: IEEE Approved Draft Guide for Protecting Power Transformers
   format: text/plain
@@ -64,7 +65,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -73,6 +74,41 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2020'
+relation:
+- type: updates
+  bibitem:
+    id: IEEEC37.91-2008
+    docid:
+    - id: IEEE C37.91-2008
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.91-2008
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC37.91-2008
+    docid:
+    - id: IEEE C37.91-2008
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.91-2008
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Power transformers
@@ -100,3 +136,5 @@ editorialgroup:
 ics:
 - code: 29.120.70
   text: Relays
+ext:
+  schema-version: v1.0.0

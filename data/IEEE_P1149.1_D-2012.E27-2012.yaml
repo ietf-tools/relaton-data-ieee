@@ -1,5 +1,6 @@
 ---
-id: IEEEP1149.1/D-2012.e27-2012
+schema-version: v1.2.1
+id: IEEEP1149.1-D-2012.e27-2012
 title:
 - content: IEEE Draft Standard Test Access Port and Boundary Scan Architecture
   format: text/plain
@@ -60,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -69,24 +70,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2012'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1149.1-2001
-    docid:
-    - id: IEEE 1149.1-2001
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1149.1-2001
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Integrated circuits
@@ -116,3 +99,5 @@ ics:
   text: Printed circuits and boards
 - code: '31.200'
   text: Integrated circuits. Microelectronics
+ext:
+  schema-version: v1.0.0

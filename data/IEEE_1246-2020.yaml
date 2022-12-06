@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE1246-2020
 title:
 - content: IEEE Guide for Temporary Protective Grounding Systems Used in Substations
@@ -59,7 +60,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -68,6 +69,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2021'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1246-2011
+    docid:
+    - id: IEEE 1246-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1246-2011
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Surge protection
@@ -88,3 +107,5 @@ editorialgroup:
 ics:
 - code: 29.120.50
   text: Fuses and other overcurrent protection devices
+ext:
+  schema-version: v1.0.0

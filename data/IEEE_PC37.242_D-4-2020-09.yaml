@@ -1,5 +1,6 @@
 ---
-id: IEEEPC37.242/D-4-2020-09
+schema-version: v1.2.1
+id: IEEEPC37.242-D-4-2020-09
 title:
 - content: IEEE Draft Guide for Synchronization, Calibration, Testing, and Installation
     of Phasor Measurement Units (PMUs) for Power System Protection and Control
@@ -61,7 +62,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -70,6 +71,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2021'
+relation:
+- type: updates
+  bibitem:
+    id: IEEEC37.242-2013
+    docid:
+    - id: IEEE C37.242-2013
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.242-2013
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Phasor measurement units
@@ -90,3 +109,5 @@ editorialgroup:
 ics:
 - code: 33.040.40
   text: Data communication networks
+ext:
+  schema-version: v1.0.0

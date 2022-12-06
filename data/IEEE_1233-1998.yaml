@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE1233-1998
 title:
 - content: IEEE Guide for Developing System Requirements Specifications
@@ -62,7 +63,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -71,24 +72,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '1998'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1233-1996
-    docid:
-    - id: IEEE 1233-1996
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1233-1996
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: System analysis and design
 - content: requirement
@@ -101,3 +84,5 @@ editorialgroup:
 ics:
 - code: '35.080'
   text: Software
+ext:
+  schema-version: v1.0.0

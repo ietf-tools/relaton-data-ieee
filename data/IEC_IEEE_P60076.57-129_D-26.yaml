@@ -1,5 +1,6 @@
 ---
-id: IEC/IEEEP60076.57-129/D-26
+schema-version: v1.2.1
+id: IEC-IEEEP60076.57-129-D-26
 title:
 - content: 'IEEE/IEC Draft International Standard - Power Transformers - Part 57-129:
     Transformers for HVDC applications'
@@ -47,7 +48,7 @@ script:
 - Latn
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -58,24 +59,6 @@ copyright:
   - name:
     - content: IEC
   from: '2016'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC57.129-2007
-    docid:
-    - id: IEEE C57.129-2007
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C57.129-2007
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Converters
@@ -87,3 +70,5 @@ editorialgroup:
 ics:
 - code: '29.180'
   text: Transformers. Reactors
+ext:
+  schema-version: v1.0.0

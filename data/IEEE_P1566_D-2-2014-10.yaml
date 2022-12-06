@@ -1,5 +1,6 @@
 ---
-id: IEEEP1566/D-2-2014-10
+schema-version: v1.2.1
+id: IEEEP1566-D-2-2014-10
 title:
 - content: IEEE Draft Standard for Performance of Adjustable Speed AC Drives Rated
     375 kW and Larger
@@ -63,7 +64,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -72,24 +73,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2014'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1566-2005
-    docid:
-    - id: IEEE 1566-2005
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1566-2005
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: AC motors
@@ -104,3 +87,5 @@ editorialgroup:
 ics:
 - code: 29.160.30
   text: Motors
+ext:
+  schema-version: v1.0.0

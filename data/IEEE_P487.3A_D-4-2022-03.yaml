@@ -1,5 +1,6 @@
 ---
-id: IEEEP487.3a/D-4-2022-03
+schema-version: v1.2.1
+id: IEEEP487.3a-D-4-2022-03
 title:
 - content: 'IEEE Draft Standard for the Electrical Protection of Communication Facilities
     Serving Electric Supply Locations Through the Use of Hybrid Facilities Amendment
@@ -60,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -69,6 +70,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2022'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE487.3-2014
+    docid:
+    - id: IEEE 487.3-2014
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 487.3-2014
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Power system reliability
@@ -94,3 +113,5 @@ editorialgroup:
 ics:
 - code: 33.040.01
   text: Telecommunication systems in general
+ext:
+  schema-version: v1.0.0

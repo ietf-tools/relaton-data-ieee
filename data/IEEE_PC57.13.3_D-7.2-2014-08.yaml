@@ -1,5 +1,6 @@
 ---
-id: IEEEPC57.13.3/D-7.2-2014-08
+schema-version: v1.2.1
+id: IEEEPC57.13.3-D-7.2-2014-08
 title:
 - content: IEEE Draft Guide for Grounding of Instrument Transformer Secondary Circuits
     and Cases
@@ -60,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -69,24 +70,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2014'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC57.13.3-2005
-    docid:
-    - id: IEEE C57.13.3-2005
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C57.13.3-2005
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Grounding
@@ -113,3 +96,5 @@ editorialgroup:
 ics:
 - code: 29.100.99
   text: Other components for electrical equipment
+ext:
+  schema-version: v1.0.0

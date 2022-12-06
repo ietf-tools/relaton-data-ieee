@@ -1,5 +1,6 @@
 ---
-id: IEEEPC37.20.3/D-5.1-2022-04
+schema-version: v1.2.1
+id: IEEEPC37.20.3-D-5.1-2022-04
 title:
 - content: IEEE Draft Standard for Metal-Enclosed Interrupter Switchgear Rated Above
     1 kV ac up to and Including 48.3 kV ac
@@ -56,7 +57,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -65,6 +66,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2022'
+relation:
+- type: updates
+  bibitem:
+    id: IEEEC37.20.3-2013
+    docid:
+    - id: IEEE C37.20.3-2013
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.20.3-2013
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Switchgear
@@ -82,3 +101,5 @@ editorialgroup:
 ics:
 - code: 29.130.99
   text: Other switchgear and controlgear
+ext:
+  schema-version: v1.0.0

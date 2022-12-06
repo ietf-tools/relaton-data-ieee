@@ -1,5 +1,6 @@
 ---
-id: IEEEP1547/D-6.7.2-2017-05
+schema-version: v1.2.1
+id: IEEEP1547-D-6.7.2-2017-05
 title:
 - content: IEEE Draft Standard for Interconnection and Interoperability of Distributed
     Energy Resources with Associated Electric Power Systems Interfaces
@@ -68,7 +69,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -77,24 +78,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2017'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1547-2003
-    docid:
-    - id: IEEE 1547-2003
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1547-2003
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Resource management
@@ -166,3 +149,5 @@ editorialgroup:
 ics:
 - code: '27.100'
   text: Power stations in general
+ext:
+  schema-version: v1.0.0

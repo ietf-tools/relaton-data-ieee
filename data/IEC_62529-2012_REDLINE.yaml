@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEC62529-2012Redline
 title:
 - content: IEC 62529:2012(E) Standard for Signal and Test Definition
@@ -59,7 +60,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -70,24 +71,6 @@ copyright:
   - name:
     - content: IEC
   from: '2013'
-relation:
-- type: updates
-  bibitem:
-    id: IEC62529-2007
-    docid:
-    - id: IEC 62529-2007
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEC 62529-2007
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEC standards
 - content: Automatic test equipment
@@ -113,3 +96,5 @@ ics:
   text: Electronic components in general
 - code: '35.060'
   text: Languages used in information technology
+ext:
+  schema-version: v1.0.0

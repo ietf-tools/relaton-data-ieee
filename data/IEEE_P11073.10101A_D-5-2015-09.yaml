@@ -1,5 +1,6 @@
 ---
-id: IEEEP11073.10101a/D-5-2015-09
+schema-version: v1.2.1
+id: IEEEP11073.10101a-D-5-2015-09
 title:
 - content: 'IEEE Draft Standard Health informatics - Point-of-care medical device
     communication - Nomenclature Amendment 1: Additional definitions'
@@ -63,7 +64,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -72,24 +73,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2015'
-relation:
-- type: updates
-  bibitem:
-    id: ISO/IEEE11073.10101-2004
-    docid:
-    - id: ISO/IEEE 11073.10101-2004
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ISO/IEEE 11073.10101-2004
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Bioinformatics
@@ -136,3 +119,5 @@ ics:
   text: Information technology. Office machines (Vocabularies)
 - code: 35.240.80
   text: IT applications in health care technology
+ext:
+  schema-version: v1.0.0

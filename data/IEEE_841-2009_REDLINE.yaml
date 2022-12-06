@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE841-2009Redline
 title:
 - content: IEEE Standard for Petroleum and Chemical Industry--Premium-Efficiency,
@@ -44,7 +45,7 @@ contributor:
     url: http://www.ieee.org
     contact:
     - address:
-        city: New York
+        city: Piscataway
         country: USA
   role:
   - type: publisher
@@ -69,7 +70,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Superseded
+    value: approved
 copyright:
 - owner:
   - name:
@@ -78,34 +79,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2011'
-relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEEP841/D-3-2018-05
-    docid:
-    - id: IEEE P841/D-3-2018-05
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE P841/D-3-2018-05
-      format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE841-2001
-    docid:
-    - id: IEEE 841-2001
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 841-2001
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Petroleum industry
@@ -114,9 +87,10 @@ keyword:
 - content: Fans
 - content: Induction motors
 - content: 841-2009
-- content: NEMA frame motors; polyphase induction motor
+- content: NEMA frame motors
+- content: polyphase induction motor
 - content: severe duty motors
-- content: squirrel cage motors
+- content: squirrel cagemotors
 - content: totally enclosed fan-cooled (TEFC) motors
 editorialgroup:
   committee:
@@ -124,3 +98,5 @@ editorialgroup:
 ics:
 - code: 29.160.30
   text: Motors
+ext:
+  schema-version: v1.0.0

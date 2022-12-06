@@ -1,5 +1,6 @@
 ---
-id: IEEEPC57.12.44/D-10-2013-Novemer
+schema-version: v1.2.1
+id: IEEEPC57.12.44-D-10-2013-Novemer
 title:
 - content: IEEE Approved Draft Standard Requirements for Secondary Network Protectors
   format: text/plain
@@ -59,7 +60,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -68,24 +69,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2013'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC57.12.44-2005
-    docid:
-    - id: IEEE C57.12.44-2005
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C57.12.44-2005
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Power grids
@@ -104,3 +87,5 @@ editorialgroup:
 ics:
 - code: 29.120.50
   text: Fuses and other overcurrent protection devices
+ext:
+  schema-version: v1.0.0

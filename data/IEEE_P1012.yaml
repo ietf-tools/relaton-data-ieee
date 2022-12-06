@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEEP1012
 title:
 - content: IEEE Draft Standard for System, Software and Hardware Verification and
@@ -65,7 +66,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -74,6 +75,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2017'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1012-2016
+    docid:
+    - id: IEEE 1012-2016
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1012-2016
+      format: text/plain
+  description:
+    content: corrects
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Product life cycle management
@@ -143,3 +162,5 @@ editorialgroup:
 ics:
 - code: '35.080'
   text: Software
+ext:
+  schema-version: v1.0.0

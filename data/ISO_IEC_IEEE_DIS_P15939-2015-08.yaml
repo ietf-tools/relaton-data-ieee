@@ -1,5 +1,6 @@
 ---
-id: ISO/IEC/IEEEDISP15939-2015-08
+schema-version: v1.2.1
+id: ISO-IEC-IEEEDISP15939-2015-08
 title:
 - content: ISO/IEC/IEEE Draft Standard - Systems and software engineering - Measurement
     process
@@ -47,7 +48,7 @@ script:
 - Latn
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -60,24 +61,6 @@ copyright:
   - name:
     - content: IEC
   from: '2015'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE15939-2008
-    docid:
-    - id: IEEE 15939-2008
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 15939-2008
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: IEC Standards
@@ -91,3 +74,5 @@ editorialgroup:
 ics:
 - code: '35.080'
   text: Software
+ext:
+  schema-version: v1.0.0

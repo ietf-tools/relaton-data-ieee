@@ -1,5 +1,6 @@
 ---
-id: IEEEP802.1Xbx/D-1.6-2014
+schema-version: v1.2.1
+id: IEEEP802.1Xbx-D-1.6-2014
 title:
 - content: 'IEEE Approved Draft Standard for Local and metropolitan area networks
     Port-Based Network Access Control Amendment 1: MAC Security Key Agreement protocol
@@ -59,7 +60,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -68,24 +69,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2014'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE802.1X-2010
-    docid:
-    - id: IEEE 802.1X-2010
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.1X-2010
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Local area networks
@@ -114,3 +97,5 @@ editorialgroup:
 ics:
 - code: '35.110'
   text: Networking
+ext:
+  schema-version: v1.0.0

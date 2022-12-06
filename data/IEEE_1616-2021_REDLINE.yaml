@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE1616-2021Redline
 title:
 - content: IEEE Standard for Motor Vehicle Event Data Recorder (MVEDR)
@@ -65,7 +66,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -142,3 +143,5 @@ editorialgroup:
 ics:
 - code: 43.040.15
   text: Car informatics. On board computer systems
+ext:
+  schema-version: v1.0.0

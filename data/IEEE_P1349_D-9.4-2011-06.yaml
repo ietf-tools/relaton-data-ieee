@@ -1,5 +1,6 @@
 ---
-id: IEEEP1349/D-9.4-2011-06
+schema-version: v1.2.1
+id: IEEEP1349-D-9.4-2011-06
 title:
 - content: IEEE Draft Guide for Application of Electric Motors in Class I, Division
     2 and Class I, Zone 2 Hazardous (Classified) Locations
@@ -69,7 +70,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -78,24 +79,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2011'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1349-2001
-    docid:
-    - id: IEEE 1349-2001
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1349-2001
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Electric motors
@@ -116,3 +99,5 @@ ics:
   text: Motors
 - code: 29.260.20
   text: Electrical apparatus for explosive atmospheres
+ext:
+  schema-version: v1.0.0

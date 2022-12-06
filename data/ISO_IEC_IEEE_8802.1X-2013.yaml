@@ -1,5 +1,6 @@
 ---
-id: ISO/IEC/IEEE8802.1X-2013
+schema-version: v1.2.1
+id: ISO-IEC-IEEE8802.1X-2013
 title:
 - content: 'IEEE/ISO/IEC Information technology -- Telecommunications and information
     exchange between systems -- Local and metropolitan area networks -- Part 1X: Port-based
@@ -24,12 +25,14 @@ docid:
   type: DOI
 docnumber: ISO/IEC/IEEE 8802.1X-2013
 date:
+- type: updated
+  value: '2014-01-17'
 - type: created
   value: '2013-12-06'
 - type: published
   value: '2013-12-06'
 - type: issued
-  value: '2013'
+  value: '2013-12-06'
 contributor:
 - organization:
     name:
@@ -37,10 +40,6 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-    contact:
-    - address:
-        city: New York
-        country: USA
   role:
   - type: publisher
 revdate: '2013-12-06'
@@ -64,7 +63,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Superseded
+    value: approved
 copyright:
 - owner:
   - name:
@@ -77,17 +76,6 @@ copyright:
   - name:
     - content: IEC
   from: '2013'
-relation:
-- type: adoptedFrom
-  bibitem:
-    id: IEEE802.1X-2010
-    docid:
-    - id: IEEE 802.1X-2010
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.1X-2010
-      format: text/plain
 keyword:
 - content: IEEE standards
 - content: ISO standards
@@ -120,3 +108,5 @@ editorialgroup:
 ics:
 - code: '35.110'
   text: Networking
+ext:
+  schema-version: v1.0.0

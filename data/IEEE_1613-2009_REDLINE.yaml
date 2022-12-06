@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE1613-2009Redline
 title:
 - content: IEEE Standard Environmental and Testing Requirements for Communications
@@ -62,7 +63,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -71,24 +72,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2011'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1613-2003
-    docid:
-    - id: IEEE 1613-2003
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1613-2003
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Communication equipment
@@ -130,3 +113,5 @@ editorialgroup:
 ics:
 - code: 29.240.10
   text: Substations. Surge arresters
+ext:
+  schema-version: v1.0.0

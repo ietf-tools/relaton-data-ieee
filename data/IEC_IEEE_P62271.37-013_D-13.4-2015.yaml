@@ -1,5 +1,6 @@
 ---
-id: IEC/IEEEP62271.37-013/D-13.4-2015
+schema-version: v1.2.1
+id: IEC-IEEEP62271.37-013-D-13.4-2015
 title:
 - content: 'IEEE Approved Draft International Standard for High-Voltage Switchgear
     and Controlgear - Part 37-013: Alternating-current generator circuit-breakers'
@@ -64,7 +65,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -73,24 +74,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2015'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC37.013-1997
-    docid:
-    - id: IEEE C37.013-1997
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.013-1997
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Switchgear
@@ -105,3 +88,5 @@ editorialgroup:
 ics:
 - code: 29.120.40
   text: Switches
+ext:
+  schema-version: v1.0.0

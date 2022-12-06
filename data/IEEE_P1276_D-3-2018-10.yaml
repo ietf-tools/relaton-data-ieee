@@ -1,5 +1,6 @@
 ---
-id: IEEEP1276/D-3-2018-10
+schema-version: v1.2.1
+id: IEEEP1276-D-3-2018-10
 title:
 - content: IEEE Draft Guide for the Application of High-Temperature Insulation Materials
     in Liquid-Immersed Distribution, Power and Regulating Transformers
@@ -61,7 +62,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -70,24 +71,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2018'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1276-1997
-    docid:
-    - id: IEEE 1276-1997
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1276-1997
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Immersion cooling
@@ -112,3 +95,5 @@ editorialgroup:
 ics:
 - code: 29.035.01
   text: Insulating materials in general
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE802.3cq-2019
 title:
 - content: 'IEEE Standard for Ethernet Amendment 6: Maintenance #13: Power over Ethernet
@@ -59,7 +60,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -107,3 +108,5 @@ ics:
   text: Physical layer
 - code: '35.110'
   text: Networking
+ext:
+  schema-version: v1.0.0

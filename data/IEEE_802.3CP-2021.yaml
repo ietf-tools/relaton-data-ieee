@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE802.3cp-2021
 title:
 - content: 'IEEE Standard for Ethernet -- Amendment 14: Bidirectional 10 Gb/s, 25
@@ -59,7 +60,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Superseded
+    value: approved
 copyright:
 - owner:
   - name:
@@ -118,3 +119,5 @@ ics:
   text: Physical layer
 - code: '35.110'
   text: Networking
+ext:
+  schema-version: v1.0.0

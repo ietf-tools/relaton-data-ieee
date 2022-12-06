@@ -1,5 +1,6 @@
 ---
-id: IEEEPC37.14/D-13-2014-12
+schema-version: v1.2.1
+id: IEEEPC37.14-D-13-2014-12
 title:
 - content: IEEE Draft Standard for DC (3200 V and below) Power Circuit Breakers Used
     in Enclosures
@@ -63,7 +64,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -72,24 +73,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2014'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC37.14-2002
-    docid:
-    - id: IEEE C37.14-2002
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.14-2002
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Current limiters
@@ -110,3 +93,5 @@ editorialgroup:
 ics:
 - code: 29.130.20
   text: Low voltage switchgear and controlgear
+ext:
+  schema-version: v1.0.0

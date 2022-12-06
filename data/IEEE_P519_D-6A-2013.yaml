@@ -1,5 +1,6 @@
 ---
-id: IEEEP519/D-6a-2013
+schema-version: v1.2.1
+id: IEEEP519-D-6a-2013
 title:
 - content: IEEE Draft Recommended Practices and Requirements for Harmonic Control
     in Electric Power Systems
@@ -64,7 +65,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -73,24 +74,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2013'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE519-1992
-    docid:
-    - id: IEEE 519-1992
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 519-1992
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Power systems planning
@@ -104,3 +87,5 @@ editorialgroup:
 ics:
 - code: '29.200'
   text: Rectifiers. Converters. Stabilized power supply
+ext:
+  schema-version: v1.0.0

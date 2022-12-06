@@ -1,5 +1,6 @@
 ---
-id: IEEEP149/D-8-2020-04
+schema-version: v1.2.1
+id: IEEEP149-D-8-2020-04
 title:
 - content: IEEE Draft Recommended Practice for Antenna Measurements
   format: text/plain
@@ -62,7 +63,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -74,7 +75,7 @@ copyright:
 relation:
 - type: updates
   bibitem:
-    id: ANSI/IEEE149-1979
+    id: ANSI-IEEE149-1979
     docid:
     - id: ANSI/IEEE 149-1979
       type: IEEE
@@ -91,7 +92,7 @@ relation:
     format: text/plain
 - type: updates
   bibitem:
-    id: ANSI/IEEE149-1979
+    id: ANSI-IEEE149-1979
     docid:
     - id: ANSI/IEEE 149-1979
       type: IEEE
@@ -183,3 +184,5 @@ ics:
   text: Measurement of electrical and magnetic quantities
 - code: 33.120.40
   text: Aerials
+ext:
+  schema-version: v1.0.0

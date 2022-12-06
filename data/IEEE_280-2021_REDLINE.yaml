@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE280-2021Redline
 title:
 - content: IEEE Standard Letter Symbols for Quantities Used in Electrical Science
@@ -59,7 +60,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -71,7 +72,7 @@ copyright:
 relation:
 - type: updates
   bibitem:
-    id: ANSI/IEEE280-1985
+    id: ANSI-IEEE280-1985
     docid:
     - id: ANSI/IEEE 280-1985
       type: IEEE
@@ -107,3 +108,5 @@ ics:
     diagrams, charts and in relevant technical product documentation
 - code: '29.020'
   text: Electrical engineering in general
+ext:
+  schema-version: v1.0.0

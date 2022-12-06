@@ -1,5 +1,6 @@
 ---
-id: IEEEPC37.122.6/D-8-2013-03
+schema-version: v1.2.1
+id: IEEEPC37.122.6-D-8-2013-03
 title:
 - content: IEEE Draft Recommended Practice for the Interface of New Gas-Insulated
     Equipment in Existing Gas-Insulated Substations Rated Above 52kV
@@ -56,7 +57,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -65,24 +66,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2013'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1416-1998
-    docid:
-    - id: IEEE 1416-1998
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1416-1998
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Gas insulation
@@ -101,3 +84,5 @@ ics:
   text: Insulating gases
 - code: 29.080.01
   text: Insulation in general
+ext:
+  schema-version: v1.0.0

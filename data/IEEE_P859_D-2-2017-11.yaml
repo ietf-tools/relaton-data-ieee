@@ -1,5 +1,6 @@
 ---
-id: IEEEP859/D-2-2017-11
+schema-version: v1.2.1
+id: IEEEP859-D-2-2017-11
 title:
 - content: IEEE Approved Draft Standard Terms for Reporting and Analyzing Outage Occurrences
     and Outage States of Electrical Transmission Facilities
@@ -60,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -69,24 +70,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2018'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE859-1987
-    docid:
-    - id: IEEE 859-1987
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 859-1987
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Power outages
@@ -109,3 +92,5 @@ editorialgroup:
 ics:
 - code: '29.020'
   text: Electrical engineering in general
+ext:
+  schema-version: v1.0.0

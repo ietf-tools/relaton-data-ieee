@@ -1,5 +1,6 @@
 ---
-id: IEEEPC37.13.1/D-4-2015-10
+schema-version: v1.2.1
+id: IEEEPC37.13.1-D-4-2015-10
 title:
 - content: IEEE Draft Standard for Definite-Purpose Switching Devices for Use in Metal-Enclosed
     Low-Voltage (600 Vac and Below) Power Circuit Breaker Switchgear
@@ -65,7 +66,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -74,24 +75,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2016'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC37.13.1-2006
-    docid:
-    - id: IEEE C37.13.1-2006
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.13.1-2006
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Low power electronics
@@ -106,3 +89,5 @@ editorialgroup:
 ics:
 - code: 29.120.40
   text: Switches
+ext:
+  schema-version: v1.0.0

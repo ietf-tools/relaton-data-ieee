@@ -1,5 +1,6 @@
 ---
-id: IEEEP1139/D-17-2022-11
+schema-version: v1.2.1
+id: IEEEP1139-D-17-2022-11
 title:
 - content: IEEE Draft Standard Definitions of Physical Quantities for Fundamental
     Frequency and Time Metrology--Random Instabilities
@@ -60,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -69,6 +70,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2022'
+relation:
+- type: updates
+  bibitem:
+    id: IEEEStd
+    docid:
+    - id: IEEE Std
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE Std
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Metrology
@@ -81,3 +100,5 @@ editorialgroup:
 ics:
 - code: '17.080'
   text: Measurement of time, velocity, acceleration, angular velocity
+ext:
+  schema-version: v1.0.0

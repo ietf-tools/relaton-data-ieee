@@ -1,5 +1,6 @@
 ---
-id: ISO/IEC/IEEE24774-2021
+schema-version: v1.2.1
+id: ISO-IEC-IEEE24774-2021
 title:
 - content: ISO/IEC/IEEE International Standard -Systems and software engineering -
     Life cycle management--Specification for process description
@@ -66,7 +67,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -79,6 +80,24 @@ copyright:
   - name:
     - content: IEC
   from: '2021'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE24774-2012
+    docid:
+    - id: IEEE 24774-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 24774-2012
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standard
 - content: IEC Standards
@@ -92,3 +111,5 @@ editorialgroup:
 ics:
 - code: '35.080'
   text: Software
+ext:
+  schema-version: v1.0.0

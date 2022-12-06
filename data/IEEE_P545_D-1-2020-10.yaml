@@ -1,5 +1,6 @@
 ---
-id: IEEEP545/D-1-2020-10
+schema-version: v1.2.1
+id: IEEEP545-D-1-2020-10
 title:
 - content: DO NOT USE THIS RECORD
   format: text/plain
@@ -60,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -69,6 +70,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2020'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE535-2013
+    docid:
+    - id: IEEE 535-2013
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 535-2013
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Qualifications
@@ -98,3 +117,5 @@ ics:
   text: Nuclear power plants. Safety
 - code: 29.220.20
   text: Acid secondary cells and batteries
+ext:
+  schema-version: v1.0.0

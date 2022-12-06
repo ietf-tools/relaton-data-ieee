@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE1692-2011
 title:
 - content: IEEE Guide for the Protection of Communication Installations from Lightning
@@ -58,7 +59,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -88,3 +89,5 @@ ics:
   text: Fuses and other overcurrent protection devices
 - code: 91.120.40
   text: Lightning protection
+ext:
+  schema-version: v1.0.0

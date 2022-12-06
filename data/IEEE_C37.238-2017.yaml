@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEEC37.238-2017
 title:
 - content: IEEE Standard Profile for Use of IEEE 1588 Precision Time Protocol in Power
@@ -58,7 +59,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -67,24 +68,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2016'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC37.238-2011
-    docid:
-    - id: IEEE C37.238-2011
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.238-2011
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Protocols
@@ -113,3 +96,5 @@ ics:
   text: Power transmission and distribution networks in general
 - code: 33.040.20
   text: Transmission systems
+ext:
+  schema-version: v1.0.0

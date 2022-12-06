@@ -1,5 +1,6 @@
 ---
-id: IEEEPC37.017/D-9-2020-11
+schema-version: v1.2.1
+id: IEEEPC37.017-D-9-2020-11
 title:
 - content: IEEE Approved Draft Standard for Bushings for High-Voltage [over 1000 V
     (ac)] Circuit Breakers and Gas-Insulated Switchgear
@@ -59,7 +60,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -68,6 +69,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2021'
+relation:
+- type: updates
+  bibitem:
+    id: IEEEC37.017-2010
+    docid:
+    - id: IEEE C37.017-2010
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.017-2010
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: High-voltage techniques
@@ -86,3 +105,5 @@ editorialgroup:
 ics:
 - code: 29.080.20
   text: Bushings
+ext:
+  schema-version: v1.0.0

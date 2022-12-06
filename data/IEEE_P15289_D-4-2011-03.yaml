@@ -1,5 +1,6 @@
 ---
-id: IEEEP15289/D-4-2011-03
+schema-version: v1.2.1
+id: IEEEP15289-D-4-2011-03
 title:
 - content: IEEE Draft Standard for Systems and Software Engineering - Content of Life
     Cycle Information Products (Documentation)
@@ -80,7 +81,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -89,24 +90,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2011'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE/EIA12207.1-1997
-    docid:
-    - id: IEEE/EIA 12207.1-1997
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE/EIA 12207.1-1997
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Software engineering
@@ -129,3 +112,5 @@ editorialgroup:
 ics:
 - code: '35.080'
   text: Software
+ext:
+  schema-version: v1.0.0

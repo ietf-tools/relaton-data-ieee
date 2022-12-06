@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEEPC37.10.1D5BA-2018
 title:
 - content: IEEE Approved Draft Guide for the Selection of Monitoring for Circuit Breakers
@@ -56,7 +57,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -65,24 +66,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2018'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC37.10.1-2000
-    docid:
-    - id: IEEE C37.10.1-2000
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.10.1-2000
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Circuit breakers
@@ -108,3 +91,5 @@ editorialgroup:
 ics:
 - code: 29.120.50
   text: Fuses and other overcurrent protection devices
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IEEEPC37.102/D-7.2-2022-08
+schema-version: v1.2.1
+id: IEEEPC37.102-D-7.2-2022-08
 title:
 - content: IEEE Draft Guide for AC Generator Protection
   format: text/plain
@@ -55,7 +56,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -64,6 +65,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2022'
+relation:
+- type: updates
+  bibitem:
+    id: IEEEC37.102-2006
+    docid:
+    - id: IEEE C37.102-2006
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.102-2006
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Generators
@@ -94,3 +113,5 @@ editorialgroup:
 ics:
 - code: 29.160.20
   text: Generators
+ext:
+  schema-version: v1.0.0

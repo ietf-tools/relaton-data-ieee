@@ -1,5 +1,6 @@
 ---
-id: IEEE1722.1/Cor1-2018
+schema-version: v1.2.1
+id: IEEE1722.1-Cor1-2018
 title:
 - content: IEEE Standard for Device Discovery, Connection Management, and Control
     Protocol for IEEE 1722(TM) Based Devices - Corrigendum 1:Technical and Editorial
@@ -24,6 +25,8 @@ docid:
   type: DOI
 docnumber: IEEE 1722.1/Cor1-2018
 date:
+- type: updated
+  value: '2020-05-22'
 - type: created
   value: '2019'
 - type: published
@@ -58,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Superseded
+    value: approved
 copyright:
 - owner:
   - name:
@@ -67,24 +70,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2019'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1722.1-2013
-    docid:
-    - id: IEEE 1722.1-2013
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1722.1-2013
-      format: text/plain
-  description:
-    content: corrects
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Local area networks
@@ -115,3 +100,5 @@ editorialgroup:
 ics:
 - code: '35.110'
   text: Networking
+ext:
+  schema-version: v1.0.0

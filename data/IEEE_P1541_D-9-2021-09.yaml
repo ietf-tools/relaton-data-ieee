@@ -1,5 +1,6 @@
 ---
-id: IEEEP1541/D-9-2021-09
+schema-version: v1.2.1
+id: IEEEP1541-D-9-2021-09
 title:
 - content: IEEE Draft Standard for Prefixes for Binary Multiples
   format: text/plain
@@ -57,7 +58,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -66,6 +67,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2021'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1541-2002
+    docid:
+    - id: IEEE 1541-2002
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1541-2002
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Binary codes
@@ -89,3 +108,5 @@ editorialgroup:
 ics:
 - code: '35.040'
   text: Information coding
+ext:
+  schema-version: v1.0.0

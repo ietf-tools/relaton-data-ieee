@@ -1,5 +1,6 @@
 ---
-id: IEEEUnapprovedP1115a/D-4-2007
+schema-version: v1.2.1
+id: IEEEUnapprovedP1115a-D-4-2007
 title:
 - content: 'Unapproved IEEE Draft Recommended Practice for Sizing Nickel-Cadmium Batteries
     for Stationary Applications Amendment 1: Additional Discussion on Sizing Margins'
@@ -44,7 +45,7 @@ script:
 - Latn
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -53,41 +54,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2007'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1115-2000
-    docid:
-    - id: IEEE 1115-2000
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1115-2000
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1115-2000
-    docid:
-    - id: IEEE 1115-2000
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1115-2000
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 editorialgroup:
   committee:
   - Energy Storage &amp; Stationary Battery Committee of the IEEE Power and Energy
@@ -95,3 +61,5 @@ editorialgroup:
 ics:
 - code: 29.220.30
   text: Alkaline secondary cells and batteries
+ext:
+  schema-version: v1.0.0

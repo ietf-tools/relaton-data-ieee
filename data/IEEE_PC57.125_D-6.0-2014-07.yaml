@@ -1,5 +1,6 @@
 ---
-id: IEEEPC57.125/D-6.0-2014-07
+schema-version: v1.2.1
+id: IEEEPC57.125-D-6.0-2014-07
 title:
 - content: IEEE Draft Guide for Failure Investigation, Documentation, Analysis, and
     Reporting for Power Transformers and Shunt Reactors
@@ -62,7 +63,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -71,24 +72,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2014'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC57.125-1991
-    docid:
-    - id: IEEE C57.125-1991
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C57.125-1991
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Testing
@@ -106,3 +89,5 @@ editorialgroup:
 ics:
 - code: '29.180'
   text: Transformers. Reactors
+ext:
+  schema-version: v1.0.0

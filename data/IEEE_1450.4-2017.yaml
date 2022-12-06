@@ -1,0 +1,105 @@
+---
+schema-version: v1.2.1
+id: IEEE1450.4-2017
+title:
+- content: IEEE Standard for Extensions to Standard Test Interface Language (STIL)
+    (IEEE Std 1450-1999) for Test Flow Specification
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/8283877
+  type: src
+type: standard
+docid:
+- id: IEEE 1450.4-2017
+  type: IEEE
+  primary: true
+- id: IEEE 1450.4™-2017
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-1-5044-4643-3
+  type: ISBN
+- id: 10.1109/IEEESTD.2018.8283877
+  type: DOI
+docnumber: IEEE 1450.4-2017
+date:
+- type: updated
+  value: '2018-03-10'
+- type: created
+  value: '2018-02-09'
+- type: published
+  value: '2018-02-07'
+- type: issued
+  value: '2017-12-06'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  role:
+  - type: publisher
+revdate: '2018-02-07'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: IEEE Std 1450&#x2122;-1999, which specifies the Standard Test Interface
+    Language (STIL), is extended by this standard to provide an interface between
+    test generation tools and test equipment with regard to the specification of the
+    flow of execution of test program components. It defines structures so that test
+    flows, sub-flows, and binning may be described in a manner that facilitates automated
+    generation, modification, and/or manual maintenance and, although not yet a complete
+    run-time test language, execution on automated test equipment (ATE). It also defines
+    an interface between tester configurations (described by IEEE Std 1450-1999 and
+    IEEE Std 1450.2&#x2122;-2002) and test program components. It also defines a hierarchy
+    of flows, sub-flows, and test components as well as structures for defining flow-related
+    variables and processing expressions involving those variables. It provides structures
+    that support automatic test program generation (ATPRG) and translation and that
+    support running it natively as an ATE programming language. As an adjunct, IEEE
+    Std 1450.3&#x2122;-2007 may be used by ATPRG for tester rules checking.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2018'
+keyword:
+- content: IEEE Standards
+- content: Automatic testing
+- content: Integrated circuits
+- content: Computer aided engineering
+- content: Programming
+- content: ATPG
+- content: ATPRG
+- content: automatic test program generator or generation
+- content: binning
+- content: CAE
+- content: computer-aided engineering
+- content: device under test
+- content: DUT
+- content: IC test
+- content: IEEE 1450.4(TM)
+- content: integrated circuit test
+- content: test flow
+- content: test program description
+- content: test program language
+- content: TPG
+editorialgroup:
+  committee:
+  - Test Technology of the IEEE Computer Society
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE2675-2021
 title:
 - content: ISO/IEC/IEEE International Standard--Information technology--DevOps--Building
@@ -63,7 +64,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -75,7 +76,7 @@ copyright:
 relation:
 - type: adoptedFrom
   bibitem:
-    id: ISO/IEC/IEEE32675-2022
+    id: ISO-IEC-IEEE32675-2022
     docid:
     - id: ISO/IEC/IEEE 32675-2022
       type: IEEE
@@ -103,3 +104,5 @@ editorialgroup:
 ics:
 - code: '35.080'
   text: Software
+ext:
+  schema-version: v1.0.0

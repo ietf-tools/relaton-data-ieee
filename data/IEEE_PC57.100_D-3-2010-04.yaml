@@ -1,5 +1,6 @@
 ---
-id: IEEEPC57.100/D-3-2010-04
+schema-version: v1.2.1
+id: IEEEPC57.100-D-3-2010-04
 title:
 - content: IEEE Draft Standard Test Procedure for Thermal Evaluation of Insulation
     Systems for Liquid-Immersed Distribution and Power Transformers
@@ -60,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -69,24 +70,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2010'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC57.100-1999
-    docid:
-    - id: IEEE C57.100-1999
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C57.100-1999
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Power transformer insulation
@@ -106,3 +89,5 @@ editorialgroup:
 ics:
 - code: '29.180'
   text: Transformers. Reactors
+ext:
+  schema-version: v1.0.0

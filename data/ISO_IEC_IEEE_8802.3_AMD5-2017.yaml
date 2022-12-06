@@ -1,5 +1,6 @@
 ---
-id: ISO/IEC/IEEE8802.3/Amd5-2017
+schema-version: v1.2.1
+id: ISO-IEC-IEEE8802.3-Amd5-2017
 title:
 - content: 'ISO/IEC/IEEE International Standard - Amendment 5: Specification and Management
     Parameters for Interspersing Express Traffic'
@@ -23,6 +24,8 @@ docid:
   type: DOI
 docnumber: ISO/IEC/IEEE 8802.3/Amd5-2017
 date:
+- type: updated
+  value: '2018-04-13'
 - type: created
   value: '2018'
 - type: published
@@ -36,10 +39,6 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-    contact:
-    - address:
-        city: New York
-        country: USA
   role:
   - type: publisher
 revdate: '2018-03-23'
@@ -58,7 +57,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Superseded
+    value: approved
 copyright:
 - owner:
   - name:
@@ -84,3 +83,5 @@ keyword:
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society
+ext:
+  schema-version: v1.0.0

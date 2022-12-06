@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE1584.1-2013
 title:
 - content: IEEE Guide for the Specification of Scope and Deliverable Requirements
@@ -23,6 +24,8 @@ docid:
   type: DOI
 docnumber: IEEE 1584.1-2013
 date:
+- type: updated
+  value: '2014-02-21'
 - type: created
   value: '2014-02-10'
 - type: published
@@ -36,10 +39,6 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-    contact:
-    - address:
-        city: New York
-        country: USA
   role:
   - type: publisher
 revdate: '2014-02-07'
@@ -60,7 +59,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Superseded
+    value: approved
 copyright:
 - owner:
   - name:
@@ -92,7 +91,9 @@ keyword:
 - content: working distances
 editorialgroup:
   committee:
-  - Petroleum and Chemical Industry of the IEEE Industry Applications Society
+  - Petroleum &amp; Chemical Industry of the IEEE Industry Applications Society
 ics:
 - code: 29.260.99
   text: Other electrical equipment for working in special conditions
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE1549-2011
 title:
 - content: IEEE Standard for Microwave Filter Definitions
@@ -56,7 +57,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -87,3 +88,5 @@ ics:
   text: Piezoelectric devices
 - code: '31.160'
   text: Electric filters
+ext:
+  schema-version: v1.0.0

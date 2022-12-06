@@ -1,5 +1,6 @@
 ---
-id: IEEEPC63.5/D-6.00-2016-06
+schema-version: v1.2.1
+id: IEEEPC63.5-D-6.00-2016-06
 title:
 - content: Draft American National Standard for Electromagnetic Compatibility--Radiated
     Emission Measurements in Electromagnetic Interference (EMI) Control--Calibration
@@ -63,7 +64,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -77,24 +78,6 @@ copyright:
       content: ANSI
     url: https://www.ansi.org
   from: '2016'
-relation:
-- type: updates
-  bibitem:
-    id: ANSIC63.5-2006
-    docid:
-    - id: ANSI C63.5-2006
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI C63.5-2006
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Antenna measurements
@@ -119,3 +102,5 @@ editorialgroup:
 ics:
 - code: 33.100.10
   text: Emission
+ext:
+  schema-version: v1.0.0

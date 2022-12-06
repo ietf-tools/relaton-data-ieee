@@ -1,5 +1,6 @@
 ---
-id: ISO/IEC/IEEEP23026/D-3-2014
+schema-version: v1.2.1
+id: ISO-IEC-IEEEP23026-D-3-2014
 title:
 - content: ISO/IEC/IEEE Approved Draft International Standard - Systems and software
     engineering - Engineering and management of websites for systems, software, and
@@ -73,7 +74,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -86,6 +87,24 @@ copyright:
   - name:
     - content: IEC
   from: '2014'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE2001-2002
+    docid:
+    - id: IEEE 2001-2002
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 2001-2002
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: IEC Standards
@@ -105,3 +124,5 @@ editorialgroup:
 ics:
 - code: 35.240.99
   text: IT applications in other fields
+ext:
+  schema-version: v1.0.0

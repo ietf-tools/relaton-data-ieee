@@ -1,5 +1,6 @@
 ---
-id: IEEEPC37.23/D-8.1-2015-09
+schema-version: v1.2.1
+id: IEEEPC37.23-D-8.1-2015-09
 title:
 - content: IEEE Approved Draft Standard for Metal-Enclosed Bus
   format: text/plain
@@ -63,7 +64,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -72,24 +73,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2015'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC37.23-2003
-    docid:
-    - id: IEEE C37.23-2003
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.23-2003
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Metal enclosed bus
@@ -110,3 +93,5 @@ editorialgroup:
 ics:
 - code: 29.060.10
   text: Wires
+ext:
+  schema-version: v1.0.0

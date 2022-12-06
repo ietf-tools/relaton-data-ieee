@@ -1,5 +1,6 @@
 ---
-id: IEEEPC62.34/D-15.2-2014-10
+schema-version: v1.2.1
+id: IEEEPC62.34-D-15.2-2014-10
 title:
 - content: IEEE Draft Standard for Test Methods and Performance of Low-Voltage (1000
     V rms or less) Surge Protective Devices Used on Secondary Distribution Systems
@@ -62,7 +63,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -71,24 +72,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2014'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC62.34-1996
-    docid:
-    - id: IEEE C62.34-1996
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C62.34-1996
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Surge protection
@@ -109,3 +92,5 @@ editorialgroup:
 ics:
 - code: 29.120.50
   text: Fuses and other overcurrent protection devices
+ext:
+  schema-version: v1.0.0

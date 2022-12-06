@@ -1,5 +1,6 @@
 ---
-id: IEEEP1484.11.2/D-6-2020-01
+schema-version: v1.2.1
+id: IEEEP1484.11.2-D-6-2020-01
 title:
 - content: IEEE Approved Draft Standard for Learning Technology - ECMAScript Application
     Programming Interface for Content to Runtime Services Communication
@@ -61,7 +62,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -70,58 +71,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2020'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1484.11.2-2003
-    docid:
-    - id: IEEE 1484.11.2-2003
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1484.11.2-2003
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1484.11.2-2003
-    docid:
-    - id: IEEE 1484.11.2-2003
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1484.11.2-2003
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1484.11.2-2003
-    docid:
-    - id: IEEE 1484.11.2-2003
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1484.11.2-2003
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Learning systems
@@ -146,3 +95,5 @@ editorialgroup:
 ics:
 - code: 35.240.99
   text: IT applications in other fields
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IEEEP802.1ABcu/D-2.3-2021-09
+schema-version: v1.2.1
+id: IEEEP802.1ABcu-D-2.3-2021-09
 title:
 - content: 'IEEE Approved Draft Standard for Local and Metropolitan Area Networks
     - Station and Media Access Control Connectivity Discovery Amendment: YANG Data
@@ -58,7 +59,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -67,6 +68,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2021'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE802.1AB-2016
+    docid:
+    - id: IEEE 802.1AB-2016
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1AB-2016
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Local area networks
@@ -88,3 +107,5 @@ editorialgroup:
 ics:
 - code: '35.110'
   text: Networking
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: ANSIPN42.33/D-3.4-2018-05
+schema-version: v1.2.1
+id: ANSIPN42.33-D-3.4-2018-05
 title:
 - content: IEEE/ANSI Draft Standard for Portable Gamma and Radiation Detection Instrumentation
     for Homeland Security
@@ -58,7 +59,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -72,24 +73,6 @@ copyright:
       content: ANSI
     url: https://www.ansi.org
   from: '2019'
-relation:
-- type: updates
-  bibitem:
-    id: ANSIN42.33-2006
-    docid:
-    - id: ANSI N42.33-2006
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI N42.33-2006
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: ANSI Standards
@@ -109,3 +92,5 @@ editorialgroup:
 ics:
 - code: '17.240'
   text: Radiation measurements
+ext:
+  schema-version: v1.0.0

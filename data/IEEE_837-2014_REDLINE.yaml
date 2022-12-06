@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE837-2014Redline
 title:
 - content: IEEE Standard for Qualifying Permanent Connections Used in Substation Grounding
@@ -61,7 +62,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -70,24 +71,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2015'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE837-2002
-    docid:
-    - id: IEEE 837-2002
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 837-2002
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Conductors
@@ -114,3 +97,5 @@ editorialgroup:
 ics:
 - code: 29.240.10
   text: Substations. Surge arresters
+ext:
+  schema-version: v1.0.0

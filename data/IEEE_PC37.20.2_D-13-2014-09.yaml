@@ -1,5 +1,6 @@
 ---
-id: IEEEPC37.20.2/D-13-2014-09
+schema-version: v1.2.1
+id: IEEEPC37.20.2-D-13-2014-09
 title:
 - content: IEEE Draft Standard for Metal-Clad Switchgear
   format: text/plain
@@ -62,7 +63,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -71,24 +72,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2014'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC37.20.2-1999
-    docid:
-    - id: IEEE C37.20.2-1999
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.20.2-1999
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Switchgear
@@ -116,3 +99,5 @@ editorialgroup:
 ics:
 - code: 29.130.99
   text: Other switchgear and controlgear
+ext:
+  schema-version: v1.0.0

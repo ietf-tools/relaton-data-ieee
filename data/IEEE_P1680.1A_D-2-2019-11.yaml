@@ -1,5 +1,6 @@
 ---
-id: IEEEP1680.1a/D-2-2019-11
+schema-version: v1.2.1
+id: IEEEP1680.1a-D-2-2019-11
 title:
 - content: IEEE Draft Standard for Environmental and Social Responsibility Assessment
     of Computers and Displays Amendment 1
@@ -58,7 +59,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -67,6 +68,41 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2019'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1680.1-2018
+    docid:
+    - id: IEEE 1680.1-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1680.1-2018
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1680.1-2018
+    docid:
+    - id: IEEE 1680.1-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1680.1-2018
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Product design
@@ -105,3 +141,5 @@ ics:
   text: Environmental impact assessment
 - code: '35.160'
   text: Microprocessor systems
+ext:
+  schema-version: v1.0.0

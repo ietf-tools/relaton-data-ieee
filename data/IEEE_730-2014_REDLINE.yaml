@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE730-2014Redline
 title:
 - content: IEEE Standard for Software Quality Assurance Processes
@@ -60,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -69,24 +70,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2014'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE730-2002
-    docid:
-    - id: IEEE 730-2002
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 730-2002
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Software qualty
@@ -110,3 +93,5 @@ editorialgroup:
 ics:
 - code: '35.080'
   text: Software
+ext:
+  schema-version: v1.0.0

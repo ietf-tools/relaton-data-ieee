@@ -1,5 +1,6 @@
 ---
-id: ISO/IEC/IEEEP26514/D-1-2020-03
+schema-version: v1.2.1
+id: ISO-IEC-IEEEP26514-D-1-2020-03
 title:
 - content: IEEE Draft International Standard - Systems and Software Engineering--Design
     and development of information for users
@@ -47,7 +48,7 @@ script:
 - Latn
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -60,6 +61,41 @@ copyright:
   - name:
     - content: IEC
   from: '2020'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE26514-2010
+    docid:
+    - id: IEEE 26514-2010
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 26514-2010
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE26514-2010
+    docid:
+    - id: IEEE 26514-2010
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 26514-2010
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Systems engineering and theory
@@ -71,3 +107,5 @@ editorialgroup:
 ics:
 - code: '35.080'
   text: Software
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,116 @@
+---
+schema-version: v1.2.1
+id: IEC62531-2007
+title:
+- content: 'IEC 62531 Ed. 1 (2007-11) (IEEE Std 1850-2005): Standard for Property
+    Specification Language (PSL)'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/4408637
+  type: src
+type: standard
+docid:
+- id: IEC 62531-2007
+  type: IEEE
+  primary: true
+- id: IEC 62531™-2007
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-0-7381-5727-6
+  type: ISBN
+- id: 10.1109/IEEESTD.2007.4408637
+  type: DOI
+docnumber: IEC 62531-2007
+date:
+- type: updated
+  value: '2008-03-17'
+- type: created
+  value: '2007-12-09'
+- type: published
+  value: '2012-06-29'
+- type: issued
+  value: '2007'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  role:
+  - type: publisher
+revdate: '2012-06-29'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The IEEE Property Specification Language (PSL) is defined in this standard.
+    PSL is a formal notation for specification of electronic system behavior, compatible
+    with multiple electronic system design languages, including IEEE Std 1076trade
+    (VHDL<sup>reg</sup>), IEEE Std 1364trade (Verilog<sup>reg</sup>), IEEE P1666trade
+    (SystemC<sup>reg</sup>), and IEEE P1800trade (SystemVerilog<sup>reg</sup>), thereby
+    enabling a common specification and verification flow for multi-language and mixed-language
+    designs. PSL captures design intent in a form suitable for simulation, formal
+    verification, formal analysis, and hybrid verification tools. PSL enhances communication
+    among architects, designers, and verification engineers to increase productivity
+    throughout the design and verification process. The primary audiences for this
+    standard are the implementors of tools supporting the language and advanced users
+    of the language.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2007'
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEC62531-2012
+    docid:
+    - id: IEC 62531-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEC 62531-2012
+      format: text/plain
+keyword:
+- content: IEC Standards
+- content: IEC
+- content: Syntactics
+- content: IEEE Standards
+- content: Specification languages
+- content: Trademarks
+- content: ABV
+- content: assertion
+- content: assertion-based verification
+- content: assumption
+- content: cover
+- content: model checking
+- content: property
+- content: PSL
+- content: specification
+- content: temporal logic
+- content: verification
+editorialgroup:
+  committee:
+  - Design Automation of the IEEE Computer Society
+ics:
+- code: '25.040'
+  text: Industrial automation systems
+- code: '35.060'
+  text: Languages used in information technology
+ext:
+  schema-version: v1.0.0

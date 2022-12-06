@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEC62270
 title:
 - content: IEC/IEEE Guide for Computer-based Control for Hydroelectric Power Plant
@@ -61,7 +62,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -72,24 +73,6 @@ copyright:
   - name:
     - content: IEC
   from: '2013'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1249-1996
-    docid:
-    - id: IEEE 1249-1996
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1249-1996
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: IEC standards
@@ -105,3 +88,5 @@ ics:
   text: Hydraulic energy engineering
 - code: 35.240.50
   text: IT applications in industry
+ext:
+  schema-version: v1.0.0

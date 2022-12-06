@@ -1,5 +1,6 @@
 ---
-id: IEEEPC62.92.2/D-6-2016-12
+schema-version: v1.2.1
+id: IEEEPC62.92.2-D-6-2016-12
 title:
 - content: IEEE Approved Draft Guide for the Application of Neutral Grounding In Electrical
     Utility Systems Part II - Synchronous Generator Systems
@@ -47,7 +48,7 @@ script:
 - Latn
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -56,24 +57,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2016'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC62.92.2-1989
-    docid:
-    - id: IEEE C62.92.2-1989
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C62.92.2-1989
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Grounding
@@ -92,3 +75,5 @@ editorialgroup:
 ics:
 - code: 29.120.50
   text: Fuses and other overcurrent protection devices
+ext:
+  schema-version: v1.0.0

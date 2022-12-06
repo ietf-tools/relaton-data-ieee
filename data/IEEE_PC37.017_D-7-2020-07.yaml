@@ -1,5 +1,6 @@
 ---
-id: IEEEPC37.017/D-7-2020-07
+schema-version: v1.2.1
+id: IEEEPC37.017-D-7-2020-07
 title:
 - content: IEEE Draft Standard for Bushings for High-Voltage [over 1000 V (ac)] Circuit
     Breakers and Gas-Insulated Switchgear
@@ -59,7 +60,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -68,6 +69,41 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2020'
+relation:
+- type: updates
+  bibitem:
+    id: IEEEC37.017-2010
+    docid:
+    - id: IEEE C37.017-2010
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.017-2010
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC37.017-2010
+    docid:
+    - id: IEEE C37.017-2010
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.017-2010
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Substations
@@ -89,3 +125,5 @@ editorialgroup:
 ics:
 - code: 29.080.20
   text: Bushings
+ext:
+  schema-version: v1.0.0

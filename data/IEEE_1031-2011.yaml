@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE1031-2011
 title:
 - content: IEEE Guide for the Functional Specification of Transmission Static Var
@@ -59,7 +60,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -68,24 +69,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2011'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1031-2000
-    docid:
-    - id: IEEE 1031-2000
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1031-2000
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Static VAr compensators
@@ -106,3 +89,5 @@ editorialgroup:
 ics:
 - code: 31.060.60
   text: Variable capacitors
+ext:
+  schema-version: v1.0.0

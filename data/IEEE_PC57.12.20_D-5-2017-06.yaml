@@ -1,5 +1,6 @@
 ---
-id: IEEEPC57.12.20/D-5-2017-06
+schema-version: v1.2.1
+id: IEEEPC57.12.20-D-5-2017-06
 title:
 - content: 'IEEE Draft Standard for Overhead-Type Distribution Transformers 500 kVA
     and Smaller: High Voltage, 34 500 V and Below; Low Voltage, 7970/13 800Y V and
@@ -58,7 +59,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -67,24 +68,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2017'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC57.12.20-2011
-    docid:
-    - id: IEEE C57.12.20-2011
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C57.12.20-2011
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Power transformers
@@ -103,3 +86,5 @@ editorialgroup:
 ics:
 - code: '29.180'
   text: Transformers. Reactors
+ext:
+  schema-version: v1.0.0

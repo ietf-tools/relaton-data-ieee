@@ -1,5 +1,6 @@
 ---
-id: IEC/IEEE61692.6-2021
+schema-version: v1.2.1
+id: IEC-IEEE61692.6-2021
 title:
 - content: 'IEC/IEEE International Standard-Behavioural languages–Part 6: VHDL Analog
     and Mixed-Signal Extensions'
@@ -60,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -71,6 +72,17 @@ copyright:
   - name:
     - content: IEC
   from: '2021'
+relation:
+- type: adoptedFrom
+  bibitem:
+    id: IEEE1076.1-2017
+    docid:
+    - id: IEEE 1076.1-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1076.1-2017
+      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: IEC Standards
@@ -91,3 +103,5 @@ editorialgroup:
 ics:
 - code: '35.060'
   text: Languages used in information technology
+ext:
+  schema-version: v1.0.0

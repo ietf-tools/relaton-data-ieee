@@ -1,5 +1,6 @@
 ---
-id: IEEEP1588/D-1.4V4-2018
+schema-version: v1.2.1
+id: IEEEP1588-D-1.4V4-2018
 title:
 - content: IEEE Draft Standard for a Precision Clock Synchronization Protocol for
     Networked Measurement and Control Systems
@@ -62,7 +63,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -71,6 +72,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2018'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1588-2008
+    docid:
+    - id: IEEE 1588-2008
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1588-2008
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Networked control systems
@@ -92,3 +111,5 @@ editorialgroup:
 ics:
 - code: 39.040.99
   text: Other time-measuring instruments
+ext:
+  schema-version: v1.0.0

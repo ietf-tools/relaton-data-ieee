@@ -1,5 +1,6 @@
 ---
-id: IEEE37.013/D-1-2018-07
+schema-version: v1.2.1
+id: IEEE37.013-D-1-2018-07
 title:
 - content: 'IEEE/IEC Draft International Standard for High-Voltage Switchgear and
     Controlgear -- Part 37-013: Alternating-Current Generator Circuit-Breakers'
@@ -47,7 +48,7 @@ script:
 - Latn
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -58,6 +59,24 @@ copyright:
   - name:
     - content: IEC
   from: '2018'
+relation:
+- type: updates
+  bibitem:
+    id: IEC-IEEE62271.37-013-2015
+    docid:
+    - id: IEC/IEEE 62271.37-013-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEC/IEEE 62271.37-013-2015
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Switchgear
@@ -70,3 +89,5 @@ editorialgroup:
 ics:
 - code: 29.130.10
   text: High voltage switchgear and controlgear
+ext:
+  schema-version: v1.0.0

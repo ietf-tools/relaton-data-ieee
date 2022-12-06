@@ -1,5 +1,6 @@
 ---
-id: IEEEP1491/D-9-2012-01
+schema-version: v1.2.1
+id: IEEEP1491-D-9-2012-01
 title:
 - content: IEEE Draft Guide for Selection and Use of Battery Monitoring Equipment
     in Stationary Applications
@@ -58,7 +59,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -67,24 +68,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2012'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1491-2005
-    docid:
-    - id: IEEE 1491-2005
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1491-2005
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Batteries
@@ -131,3 +114,5 @@ editorialgroup:
 ics:
 - code: 29.220.10
   text: Primary cells and batteries
+ext:
+  schema-version: v1.0.0

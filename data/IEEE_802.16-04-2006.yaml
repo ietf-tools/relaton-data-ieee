@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE802.16-04-2006
 title:
 - content: 'IEEE Standard for Conformance to IEEE 802.16 - Part 4: Protocol Implementation
@@ -57,7 +58,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -85,3 +86,5 @@ ics:
   text: Data link layer
 - code: 35.100.10
   text: Physical layer
+ext:
+  schema-version: v1.0.0

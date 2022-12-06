@@ -1,5 +1,6 @@
 ---
-id: IEEEP344/D-12-2013-06
+schema-version: v1.2.1
+id: IEEEP344-D-12-2013-06
 title:
 - content: IEEE Approved Draft Standard for Seismic Qualification of Equipment for
     Nuclear Power Generating Stations
@@ -64,7 +65,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -73,24 +74,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2013'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE344-2004
-    docid:
-    - id: IEEE 344-2004
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 344-2004
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Power system reliability
@@ -124,3 +107,5 @@ ics:
   text: Nuclear power plants. Safety
 - code: 91.120.25
   text: Seismic and vibration protection
+ext:
+  schema-version: v1.0.0

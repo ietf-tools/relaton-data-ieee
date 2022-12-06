@@ -1,5 +1,6 @@
 ---
-id: IEEEP48/D-7-2019-09
+schema-version: v1.2.1
+id: IEEEP48-D-7-2019-09
 title:
 - content: IEEE Draft Standard for Test Procedures and Requirements for Alternating-Current
     Cable Terminations Used on Shielded Cables Having Laminated Insulation Rated 2.5
@@ -60,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -69,24 +70,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2019'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE48-2009
-    docid:
-    - id: IEEE 48-2009
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 48-2009
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: AC machines
@@ -109,3 +92,5 @@ editorialgroup:
 ics:
 - code: 29.240.20
   text: Power transmission and distribution lines
+ext:
+  schema-version: v1.0.0

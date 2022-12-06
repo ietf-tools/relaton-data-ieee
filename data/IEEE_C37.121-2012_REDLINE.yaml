@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEEC37.121-2012Redline
 title:
 - content: IEEE Guide for Switchgear - Unit Substation - Requirements
@@ -38,7 +39,7 @@ contributor:
     url: http://www.ieee.org
     contact:
     - address:
-        city: New York
+        city: Piscataway
         country: USA
   role:
   - type: publisher
@@ -64,7 +65,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Superseded
+    value: approved
 copyright:
 - owner:
   - name:
@@ -73,24 +74,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2013'
-relation:
-- type: updates
-  bibitem:
-    id: ANSIC37.121-1989
-    docid:
-    - id: ANSI C37.121-1989
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI C37.121-1989
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Switchgear
@@ -104,7 +87,7 @@ keyword:
 - content: dead-front switchboard
 - content: distribution
 - content: fuse
-- content: IEEE C37.121&#8482;
+- content: IEEE C37.121
 - content: metal-clad switchgear
 - content: metal-enclosed switchgear
 - content: metering
@@ -130,3 +113,5 @@ editorialgroup:
 ics:
 - code: 29.130.10
   text: High voltage switchgear and controlgear
+ext:
+  schema-version: v1.0.0

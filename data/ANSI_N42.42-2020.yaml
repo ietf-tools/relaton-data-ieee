@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ANSIN42.42-2020
 title:
 - content: American National Standard Data Format for Radiation Detectors Used for
@@ -62,7 +63,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -76,6 +77,24 @@ copyright:
       content: ANSI
     url: https://www.ansi.org
   from: '2020'
+relation:
+- type: updates
+  bibitem:
+    id: ANSIN42.42-2012
+    docid:
+    - id: ANSI N42.42-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI N42.42-2012
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Radiation detectors
@@ -96,3 +115,5 @@ ics:
   text: Radiation measurements
 - code: '35.040'
   text: Information coding
+ext:
+  schema-version: v1.0.0

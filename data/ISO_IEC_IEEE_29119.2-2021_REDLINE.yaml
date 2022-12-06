@@ -1,5 +1,6 @@
 ---
-id: ISO/IEC/IEEE29119.2-2021Redline
+schema-version: v1.2.1
+id: ISO-IEC-IEEE29119.2-2021Redline
 title:
 - content: 'Iso/iec/ieee international standard - software and systems engineering
     - software testing -- part 2: test processes'
@@ -51,7 +52,7 @@ script:
 - Latn
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -64,6 +65,24 @@ copyright:
   - name:
     - content: IEC
   from: '2021'
+relation:
+- type: updates
+  bibitem:
+    id: ISO-IEC-IEEE29119.2-2013
+    docid:
+    - id: ISO/IEC/IEEE 29119.2-2013
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ISO/IEC/IEEE 29119.2-2013
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Software engineering
@@ -78,3 +97,5 @@ editorialgroup:
 ics:
 - code: '35.080'
   text: Software
+ext:
+  schema-version: v1.0.0

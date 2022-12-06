@@ -1,5 +1,6 @@
 ---
-id: IEEEP484/D-1-2014-05
+schema-version: v1.2.1
+id: IEEEP484-D-1-2014-05
 title:
 - content: IEEE Draft Recommended Practice for Installation Design and Installation
     of Vented Lead-Acid Batteries for Stationary Applications
@@ -60,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -69,24 +70,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2014'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE484-2002
-    docid:
-    - id: IEEE 484-2002
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 484-2002
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Batteries
@@ -121,3 +104,5 @@ editorialgroup:
 ics:
 - code: 29.220.20
   text: Acid secondary cells and batteries
+ext:
+  schema-version: v1.0.0

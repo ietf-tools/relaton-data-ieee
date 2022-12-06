@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEEC57.32a-2020
 title:
 - content: 'IEEE Standard for Requirements, Terminology, and Test Procedure for Neutral
@@ -59,7 +60,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -68,6 +69,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2020'
+relation:
+- type: updates
+  bibitem:
+    id: IEEEC57.32-2015
+    docid:
+    - id: IEEE C57.32-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C57.32-2015
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Grounding
@@ -90,3 +109,5 @@ ics:
   text: Electrical engineering (Vocabularies)
 - code: 29.120.50
   text: Fuses and other overcurrent protection devices
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IEEEPC57.21/D-5.3-2021-03
+schema-version: v1.2.1
+id: IEEEPC57.21-D-5.3-2021-03
 title:
 - content: IEEE Approved Draft Standard Requirements, Terminology, and Test Code for
     Shunt Reactors Rated Over 500 kVA
@@ -62,7 +63,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -71,6 +72,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2021'
+relation:
+- type: updates
+  bibitem:
+    id: IEEEC57.21-2008
+    docid:
+    - id: IEEE C57.21-2008
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C57.21-2008
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Shunts (electrical)
@@ -90,3 +109,5 @@ editorialgroup:
 ics:
 - code: '29.180'
   text: Transformers. Reactors
+ext:
+  schema-version: v1.0.0

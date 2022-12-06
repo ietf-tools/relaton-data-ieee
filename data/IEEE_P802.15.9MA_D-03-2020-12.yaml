@@ -1,5 +1,6 @@
 ---
-id: IEEEP802.15.9ma/D-03-2020-12
+schema-version: v1.2.1
+id: IEEEP802.15.9ma-D-03-2020-12
 title:
 - content: IEEE Draft Standard for Transport of Key Management Protocol (KMP) Datagrams
   format: text/plain
@@ -63,7 +64,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -73,91 +74,6 @@ copyright:
     url: http://www.ieee.org
   from: '2020'
 relation:
-- type: updates
-  bibitem:
-    id: IEEE802.15.9-2016
-    docid:
-    - id: IEEE 802.15.9-2016
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.15.9-2016
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE802.15.9-2016
-    docid:
-    - id: IEEE 802.15.9-2016
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.15.9-2016
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE802.15.9-2016
-    docid:
-    - id: IEEE 802.15.9-2016
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.15.9-2016
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE802.15.9-2016
-    docid:
-    - id: IEEE 802.15.9-2016
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.15.9-2016
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE802.15.9-2016
-    docid:
-    - id: IEEE 802.15.9-2016
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.15.9-2016
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: updates
   bibitem:
     id: IEEE802.15.9-2016
@@ -197,3 +113,5 @@ editorialgroup:
 ics:
 - code: '35.110'
   text: Networking
+ext:
+  schema-version: v1.0.0

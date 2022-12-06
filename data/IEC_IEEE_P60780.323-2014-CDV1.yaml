@@ -1,5 +1,6 @@
 ---
-id: IEC/IEEEP60780.323-2014-CDV1
+schema-version: v1.2.1
+id: IEC-IEEEP60780.323-2014-CDV1
 title:
 - content: IEC/IEEE Draft International Standard - Nuclear Facilities - Electrical
     Equipment Important to Safety -Qualification
@@ -63,7 +64,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -74,24 +75,6 @@ copyright:
   - name:
     - content: IEC
   from: '2014'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE323-2003
-    docid:
-    - id: IEEE 323-2003
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 323-2003
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Nuclear power generation
@@ -119,3 +102,5 @@ editorialgroup:
 ics:
 - code: 27.120.99
   text: Other standards related to nuclear energy
+ext:
+  schema-version: v1.0.0

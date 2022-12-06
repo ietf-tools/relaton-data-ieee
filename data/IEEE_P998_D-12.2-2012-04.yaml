@@ -1,5 +1,6 @@
 ---
-id: IEEEP998/D-12.2-2012-04
+schema-version: v1.2.1
+id: IEEEP998-D-12.2-2012-04
 title:
 - content: IEEE Draft Guide for Direct Lightning Stroke Shielding of Substations
   format: text/plain
@@ -58,7 +59,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -67,24 +68,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2012'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE998-1996
-    docid:
-    - id: IEEE 998-1996
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 998-1996
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Lightning
@@ -100,3 +83,5 @@ editorialgroup:
 ics:
 - code: 91.120.40
   text: Lightning protection
+ext:
+  schema-version: v1.0.0

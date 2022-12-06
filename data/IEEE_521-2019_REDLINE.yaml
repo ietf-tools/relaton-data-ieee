@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE521-2019Redline
 title:
 - content: IEEE Standard Letter Designations for Radar-Frequency Bands
@@ -59,7 +60,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -68,24 +69,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2019'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE521-2002
-    docid:
-    - id: IEEE 521-2002
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 521-2002
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Radar
@@ -100,3 +83,5 @@ editorialgroup:
 ics:
 - code: 33.060.99
   text: Other equipment for radiocommunications
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE1062-2015Redline
 title:
 - content: IEEE Recommended Practice for Software Acquisition
@@ -60,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -69,24 +70,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2016'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1062-1993
-    docid:
-    - id: IEEE 1062-1993
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1062-1993
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Software engineering
@@ -109,3 +92,5 @@ editorialgroup:
 ics:
 - code: '35.080'
   text: Software
+ext:
+  schema-version: v1.0.0

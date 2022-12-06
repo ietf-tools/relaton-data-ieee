@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE802.11-2020Redline
 title:
 - content: 'IEEE Standard for Information Technology--Telecommunications and Information
@@ -66,7 +67,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -75,6 +76,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2021'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE802.11-2016
+    docid:
+    - id: IEEE 802.11-2016
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.11-2016
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Wireless LAN
@@ -180,3 +199,5 @@ ics:
   text: Physical layer
 - code: '35.110'
   text: Networking
+ext:
+  schema-version: v1.0.0

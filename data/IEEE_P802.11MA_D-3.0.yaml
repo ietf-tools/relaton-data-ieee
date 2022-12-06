@@ -1,5 +1,6 @@
 ---
-id: IEEEP802.11ma/D-3.0
+schema-version: v1.2.1
+id: IEEEP802.11ma-D-3.0
 title:
 - content: 'IEEE Draft Standard for Information Technology - Telecommunications and
     information exchange between systems - Local and Metropolitan networks - Specific
@@ -58,7 +59,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -67,24 +68,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '1999'
-relation:
-- type: updates
-  bibitem:
-    id: ANSI/IEEE802.11-1999
-    docid:
-    - id: ANSI/IEEE 802.11-1999
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI/IEEE 802.11-1999
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE 802.11 Standard
 - content: Wireless LAN
@@ -101,3 +84,5 @@ ics:
   text: Networking
 - code: 35.100.20
   text: Data link layer
+ext:
+  schema-version: v1.0.0

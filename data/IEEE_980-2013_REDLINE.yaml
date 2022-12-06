@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE980-2013Redline
 title:
 - content: IEEE Guide for Containment and Control of Oil Spills in Substations
@@ -38,7 +39,7 @@ contributor:
     url: http://www.ieee.org
     contact:
     - address:
-        city: New York
+        city: Piscataway
         country: USA
   role:
   - type: publisher
@@ -61,7 +62,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Superseded
+    value: approved
 copyright:
 - owner:
   - name:
@@ -70,24 +71,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2013'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE980-1994
-    docid:
-    - id: IEEE 980-1994
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 980-1994
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Hazards
@@ -112,3 +95,5 @@ editorialgroup:
 ics:
 - code: 13.060.01
   text: Water quality in general
+ext:
+  schema-version: v1.0.0

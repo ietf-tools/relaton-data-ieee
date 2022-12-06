@@ -1,5 +1,6 @@
 ---
-id: IEEEPC37.012/D-7-2022-03
+schema-version: v1.2.1
+id: IEEEPC37.012-D-7-2022-03
 title:
 - content: IEEE Draft Guide for the Application of Capacitance Current Switching for
     AC High-Voltage Circuit Breakers Above 1000 V
@@ -60,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -69,6 +70,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2022'
+relation:
+- type: updates
+  bibitem:
+    id: IEEEC37.012-2014
+    docid:
+    - id: IEEE C37.012-2014
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.012-2014
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Circuit breakers
@@ -93,3 +112,5 @@ editorialgroup:
 ics:
 - code: 29.120.40
   text: Switches
+ext:
+  schema-version: v1.0.0

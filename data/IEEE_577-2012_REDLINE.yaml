@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE577-2012Redline
 title:
 - content: IEEE Standard Requirements for Reliability Analysis in the Design and Operation
@@ -64,7 +65,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Superseded
+    value: approved
 copyright:
 - owner:
   - name:
@@ -73,24 +74,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2012'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE577-2004
-    docid:
-    - id: IEEE 577-2004
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 577-2004
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Nuclear power generation
@@ -107,3 +90,5 @@ editorialgroup:
 ics:
 - code: 27.120.20
   text: Nuclear power plants. Safety
+ext:
+  schema-version: v1.0.0

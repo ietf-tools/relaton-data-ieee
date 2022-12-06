@@ -1,5 +1,6 @@
 ---
-id: IEEEP946/D-30.1-2019-09
+schema-version: v1.2.1
+id: IEEEP946-D-30.1-2019-09
 title:
 - content: IEEE Draft Recommended Practice for the Design of DC Power Systems for
     Stationary Applications
@@ -60,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -69,24 +70,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2019'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE946-2004
-    docid:
-    - id: IEEE 946-2004
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 946-2004
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: DC machines
@@ -124,3 +107,5 @@ editorialgroup:
 ics:
 - code: 27.120.20
   text: Nuclear power plants. Safety
+ext:
+  schema-version: v1.0.0

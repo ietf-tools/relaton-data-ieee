@@ -1,0 +1,97 @@
+---
+schema-version: v1.2.1
+id: IEEE1874-2013
+title:
+- content: IEEE Standard for Documentation Schema for Repair and Assembly of Electronic
+    Devices
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/6712032
+  type: src
+type: standard
+docid:
+- id: IEEE 1874-2013
+  type: IEEE
+  primary: true
+- id: IEEE 1874™-2013
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-0-7381-8870-6
+  type: ISBN
+- id: 10.1109/IEEESTD.2014.6712032
+  type: DOI
+docnumber: IEEE 1874-2013
+date:
+- type: updated
+  value: '2014-02-07'
+- type: created
+  value: '2014-01-15'
+- type: published
+  value: '2014-01-14'
+- type: issued
+  value: '2013-12-11'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  role:
+  - type: publisher
+revdate: '2014-01-14'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: oManual is a standard for storing and transmitting procedural manuals.
+    oManuals common data format can be used as an offline file package or via online
+    RESTful API endpoints, using XML or JSON. This format is useful for documenting
+    and describing repairs, how-to, workinstructions, or any other step-by-step guides.
+    oManual makes it easy to exchange procedural information between services while
+    maintaining usability on mobile devices.This specification describes the oManual
+    data model, web services API, and bundle file format (a collection of structured
+    files containing a category XML format, a guide XML format and related multimedia).
+    The specification may be expanded in the future to enable additional types of
+    documents.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2014'
+keyword:
+- content: IEEE standards
+- content: Maintenance engineering
+- content: Equipment maintenance
+- content: IEEE 1874(TM)
+- content: JSON
+- content: manual
+- content: oEmbed
+- content: oManual
+- content: RESTful API
+- content: XML
+- content: ZIP
+editorialgroup:
+  committee:
+  - Standards Committee of the IEEE Consumer Electronics Society
+ics:
+- code: 33.040.01
+  text: Telecommunication systems
+- code: '35.020'
+  text: Information technology in general
+ext:
+  schema-version: v1.0.0

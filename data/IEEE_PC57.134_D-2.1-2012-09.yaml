@@ -1,5 +1,6 @@
 ---
-id: IEEEPC57.134/D-2.1-2012-09
+schema-version: v1.2.1
+id: IEEEPC57.134-D-2.1-2012-09
 title:
 - content: IEEE Draft Guide for Determination of Hottest-Spot Temperature in Dry-Type
     Transformers
@@ -58,7 +59,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -67,24 +68,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2013'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC57.134-2000
-    docid:
-    - id: IEEE C57.134-2000
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C57.134-2000
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Transformers
@@ -106,3 +89,5 @@ editorialgroup:
 ics:
 - code: '29.180'
   text: Transformers. Reactors
+ext:
+  schema-version: v1.0.0

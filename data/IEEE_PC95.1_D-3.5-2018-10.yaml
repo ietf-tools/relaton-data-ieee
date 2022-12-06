@@ -1,5 +1,6 @@
 ---
-id: IEEEPC95.1/D-3.5-2018-10
+schema-version: v1.2.1
+id: IEEEPC95.1-D-3.5-2018-10
 title:
 - content: IEEE Draft Standard for Safety Levels with Respect to Human Exposure to
     Electric, Magnetic and Electromagnetic Fields, 0 Hz to 300 GHz
@@ -62,7 +63,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -71,41 +72,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2018'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC95.1-2005
-    docid:
-    - id: IEEE C95.1-2005
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C95.1-2005
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC95.1-2005
-    docid:
-    - id: IEEE C95.1-2005
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C95.1-2005
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Safety
@@ -136,3 +102,5 @@ editorialgroup:
 ics:
 - code: '13.280'
   text: Radiation protection
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE1307-2018
 title:
 - content: IEEE Standard for Fall Protection for Electric Utility Transmission and
@@ -60,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -69,24 +70,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2019'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1307-2004
-    docid:
-    - id: IEEE 1307-2004
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1307-2004
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Power system reliability
@@ -110,3 +93,5 @@ editorialgroup:
 ics:
 - code: 13.340.60
   text: Protection against falling and slipping
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: P1815.1/D-3.0/Cor1-2016
+schema-version: v1.2.1
+id: P1815.1-D-3.0-Cor1-2016
 title:
 - content: IEEE Approved Draft Standard for Exchanging Information between Networks
     Implementing IEC 61850 and IEEE Std 1815(TM) (Distributed Network Protocol - DNP3)
@@ -58,7 +59,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -67,6 +68,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2016'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1815.1-2015
+    docid:
+    - id: IEEE 1815.1-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1815.1-2015
+      format: text/plain
+  description:
+    content: corrects
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Patents
@@ -97,3 +116,5 @@ ics:
   text: Telecontrol. Telemetering
 - code: 35.240.50
   text: IT applications in industry
+ext:
+  schema-version: v1.0.0

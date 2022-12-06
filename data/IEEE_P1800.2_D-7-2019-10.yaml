@@ -1,5 +1,6 @@
 ---
-id: IEEEP1800.2/D-7-2019-10
+schema-version: v1.2.1
+id: IEEEP1800.2-D-7-2019-10
 title:
 - content: IEEE Draft Standard for Universal Verification Methodology Language Reference
     Manual
@@ -60,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -69,6 +70,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2019'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1800.2-2017
+    docid:
+    - id: IEEE 1800.2-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1800.2-2017
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Formal verification
@@ -105,3 +124,5 @@ editorialgroup:
 ics:
 - code: '35.060'
   text: Languages used in information technology
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE754-2019
 title:
 - content: IEEE Standard for Floating-Point Arithmetic
@@ -62,7 +63,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -96,3 +97,5 @@ ics:
   text: Mathematics
 - code: '35.080'
   text: Software
+ext:
+  schema-version: v1.0.0

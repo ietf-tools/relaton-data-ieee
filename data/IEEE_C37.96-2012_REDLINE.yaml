@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEEC37.96-2012Redline
 title:
 - content: IEEE Guide for AC Motor Protection
@@ -59,7 +60,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -68,24 +69,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2015'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC37.96-2000
-    docid:
-    - id: IEEE C37.96-2000
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.96-2000
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: AC motors
@@ -108,3 +91,5 @@ editorialgroup:
 ics:
 - code: 29.160.30
   text: Motors
+ext:
+  schema-version: v1.0.0

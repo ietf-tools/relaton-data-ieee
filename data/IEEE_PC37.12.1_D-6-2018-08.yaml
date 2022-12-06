@@ -1,5 +1,6 @@
 ---
-id: IEEEPC37.12.1/D-6-2018-08
+schema-version: v1.2.1
+id: IEEEPC37.12.1-D-6-2018-08
 title:
 - content: IEEE Draft Recommended Practice for Instruction Manual Content of High-Voltage
     Circuit Breakers (Over 1000 Volts)
@@ -64,7 +65,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -73,24 +74,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2018'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC37.12.1-2007
-    docid:
-    - id: IEEE C37.12.1-2007
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.12.1-2007
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Circuit breakers
@@ -109,3 +92,5 @@ editorialgroup:
 ics:
 - code: 29.130.10
   text: High voltage switchgear and controlgear
+ext:
+  schema-version: v1.0.0

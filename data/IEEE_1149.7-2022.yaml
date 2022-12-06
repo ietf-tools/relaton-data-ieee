@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE1149.7-2022
 title:
 - content: IEEE Standard for Reduced-Pin and Enhanced-Functionality Test Access Port
@@ -73,7 +74,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -82,6 +83,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2022'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1149.7-2009
+    docid:
+    - id: IEEE 1149.7-2009
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1149.7-2009
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Protocols
@@ -273,3 +292,5 @@ editorialgroup:
 ics:
 - code: '35.200'
   text: Interface and interconnection equipment
+ext:
+  schema-version: v1.0.0

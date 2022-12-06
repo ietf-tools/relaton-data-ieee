@@ -1,5 +1,6 @@
 ---
-id: IEEEP802.11ay/D-6.0-2020-09
+schema-version: v1.2.1
+id: IEEEP802.11ay-D-6.0-2020-09
 title:
 - content: 'IEEE Draft Standard for Information Technology--Telecommunications and
     Information Exchange Between Systems Local and Metropolitan Area Networks--Specific
@@ -62,7 +63,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -81,6 +82,23 @@ relation:
       primary: true
     formattedref:
       content: IEEE 802.11-2020
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.11-2016
+    docid:
+    - id: IEEE 802.11-2016
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.11-2016
       format: text/plain
   description:
     content: amends
@@ -115,3 +133,5 @@ editorialgroup:
 ics:
 - code: '35.110'
   text: Networking
+ext:
+  schema-version: v1.0.0

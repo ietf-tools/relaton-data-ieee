@@ -1,5 +1,6 @@
 ---
-id: IEEEP1110/D-06-2018-12
+schema-version: v1.2.1
+id: IEEEP1110-D-06-2018-12
 title:
 - content: IEEE Draft Guide for Synchronous Generator Modeling Practices and Parameter
     Verification with Applications in Power System Stability Analyses
@@ -72,7 +73,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -81,24 +82,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2019'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1110-2002
-    docid:
-    - id: IEEE 1110-2002
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1110-2002
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Synchronous motors
@@ -117,3 +100,5 @@ editorialgroup:
 ics:
 - code: 29.160.20
   text: Generators
+ext:
+  schema-version: v1.0.0

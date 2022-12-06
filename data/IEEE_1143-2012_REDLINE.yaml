@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE1143-2012Redline
 title:
 - content: IEEE Guide on Shielding Practice for Low Voltage Cables
@@ -58,7 +59,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -67,24 +68,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2013'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1143-1994
-    docid:
-    - id: IEEE 1143-1994
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1143-1994
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Cable shielding
@@ -105,3 +88,5 @@ editorialgroup:
 ics:
 - code: 33.120.20
   text: Wires and symmetrical cables
+ext:
+  schema-version: v1.0.0

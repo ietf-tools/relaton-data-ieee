@@ -1,5 +1,6 @@
 ---
-id: IEEEP1609.2b/D-2-2018-09
+schema-version: v1.2.1
+id: IEEEP1609.2b-D-2-2018-09
 title:
 - content: 'IEEE Draft Standard for Wireless Access in Vehicular Environments--Security
     Services for Applications and Management Messages Amendment 2: Protocol Data Unit
@@ -58,7 +59,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -67,6 +68,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2018'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1609.2-2016
+    docid:
+    - id: IEEE 1609.2-2016
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1609.2-2016
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Wireless ad hoc networks
@@ -86,3 +105,5 @@ editorialgroup:
 ics:
 - code: 35.240.60
   text: IT applications in transport
+ext:
+  schema-version: v1.0.0

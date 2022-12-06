@@ -1,5 +1,6 @@
 ---
-id: IEEEP1636.1/D-5-2017-10
+schema-version: v1.2.1
+id: IEEEP1636.1-D-5-2017-10
 title:
 - content: 'IEEE Approved Draft Standard for Software Interface for Maintenance Information
     Collection and Analysis (SIMICA): Exchanging Test Results and Session Information
@@ -60,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -69,24 +70,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2018'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1636.1-2013Redline
-    docid:
-    - id: IEEE 1636.1-2013 Redline
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1636.1-2013 Redline
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Automatic testing
@@ -109,3 +92,5 @@ editorialgroup:
 ics:
 - code: '35.040'
   text: Information coding
+ext:
+  schema-version: v1.0.0

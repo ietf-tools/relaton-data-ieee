@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEEC62.92.4-2014Redline
 title:
 - content: 'IEEE Guide for the Application of Neutral Grounding in Electrical Utility
@@ -65,7 +66,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -74,24 +75,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2015'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC62.92.4-1991
-    docid:
-    - id: IEEE C62.92.4-1991
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C62.92.4-1991
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Power distribution planning
@@ -112,3 +95,5 @@ editorialgroup:
 ics:
 - code: 29.120.50
   text: Fuses and other overcurrent protection devices
+ext:
+  schema-version: v1.0.0

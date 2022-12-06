@@ -1,5 +1,6 @@
 ---
-id: IEEEP1561/D-2.0-2018-10
+schema-version: v1.2.1
+id: IEEEP1561-D-2.0-2018-10
 title:
 - content: IEEE Draft Guide for Optimizing the Performance and Life of Lead-Acid Batteries
     in Remote Hybrid Power Systems
@@ -58,7 +59,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -67,24 +68,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2018'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1561-2007
-    docid:
-    - id: IEEE 1561-2007
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1561-2007
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Lead acid batteries
@@ -107,3 +90,5 @@ editorialgroup:
 ics:
 - code: 29.220.20
   text: Acid secondary cells and batteries
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: ISO/IEC/IEEE8802.1CB-2019
+schema-version: v1.2.1
+id: ISO-IEC-IEEE8802.1CB-2019
 title:
 - content: 'IEEE/ISO/IEC International Standard-Information technology - Telecommunications
     and information exchange between systems - Local and metropolitan area networks
@@ -63,7 +64,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -76,6 +77,17 @@ copyright:
   - name:
     - content: IEC
   from: '2019'
+relation:
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.1CB-2017
+    docid:
+    - id: IEEE 802.1CB-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1CB-2017
+      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Local area networks
@@ -110,3 +122,5 @@ ics:
   text: Industrial process measurement and control
 - code: 35.240.50
   text: IT applications in industry
+ext:
+  schema-version: v1.0.0

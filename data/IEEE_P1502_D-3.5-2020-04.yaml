@@ -1,5 +1,6 @@
 ---
-id: IEEEP1502/D-3.5-2020-04
+schema-version: v1.2.1
+id: IEEEP1502-D-3.5-2020-04
 title:
 - content: IEEE Draft Recommended Practice for Radar Cross-Section Test Procedures
   format: text/plain
@@ -58,7 +59,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -67,6 +68,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2020'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1502-2007
+    docid:
+    - id: IEEE 1502-2007
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1502-2007
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Radar cross-sections
@@ -85,3 +104,5 @@ editorialgroup:
 ics:
 - code: 33.060.99
   text: Other equipment for radiocommunications
+ext:
+  schema-version: v1.0.0

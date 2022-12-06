@@ -1,5 +1,6 @@
 ---
-id: IEEEP1017/D-062012-2012-06
+schema-version: v1.2.1
+id: IEEEP1017-D-062012-2012-06
 title:
 - content: IEEE Draft Recommended Practice for Field Testing Electric Submersible
     Pump Cable
@@ -58,7 +59,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -67,24 +68,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2012'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1017-2004
-    docid:
-    - id: IEEE 1017-2004
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1017-2004
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Pumps
@@ -104,3 +87,5 @@ editorialgroup:
 ics:
 - code: 29.060.20
   text: Cables
+ext:
+  schema-version: v1.0.0

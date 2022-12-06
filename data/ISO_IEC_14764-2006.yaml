@@ -1,5 +1,6 @@
 ---
-id: ISO/IEC14764-2006
+schema-version: v1.2.1
+id: ISO-IEC14764-2006
 title:
 - content: ISO/IEC/IEEE International Standard for Software Engineering - Software
     Life Cycle Processes - Maintenance
@@ -55,7 +56,7 @@ abstract:
     control, review and evaluation, and closure of the Maintenance Process. The scope
     of this International Standard includes maintenance for multiple software products
     with the same maintenance resources. “Maintenance” in this International Standard
-    means software maintenance unless other wise stated.
+    means software maintenance unless otherwise stated.
   language:
   - en
   script:
@@ -63,7 +64,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Superseded
+    value: approved
 copyright:
 - owner:
   - name:
@@ -104,3 +105,5 @@ editorialgroup:
 ics:
 - code: '35.080'
   text: Software
+ext:
+  schema-version: v1.0.0

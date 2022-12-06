@@ -1,5 +1,6 @@
 ---
-id: IEEEP1361/D-5-2014-02
+schema-version: v1.2.1
+id: IEEEP1361-D-5-2014-02
 title:
 - content: IEEE Guide for Selecting, Charging, Testing, and Evaluating Lead-Acid Batteries
     Used in Stand-Alone Photovoltaic (PV) Systems
@@ -61,7 +62,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -70,24 +71,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2014'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1361-2003
-    docid:
-    - id: IEEE 1361-2003
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1361-2003
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Battery chargers
@@ -108,3 +91,5 @@ editorialgroup:
 ics:
 - code: 29.220.20
   text: Acid secondary cells and batteries
+ext:
+  schema-version: v1.0.0

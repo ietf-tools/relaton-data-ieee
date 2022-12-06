@@ -1,5 +1,6 @@
 ---
-id: IEEEP802.1ACct/D-2.0-2021-09
+schema-version: v1.2.1
+id: IEEEP802.1ACct-D-2.0-2021-09
 title:
 - content: 'IEEE Draft Standard for Local and Metropolitan Area Networks -- Media
     Access Control (MAC) Service Definition Amendment 1: Support for IEEE Std 802.15.3'
@@ -55,7 +56,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -64,6 +65,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2021'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE802.1AC-2016
+    docid:
+    - id: IEEE 802.1AC-2016
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1AC-2016
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Ad hoc networks
@@ -84,3 +103,5 @@ editorialgroup:
 ics:
 - code: '35.110'
   text: Networking
+ext:
+  schema-version: v1.0.0

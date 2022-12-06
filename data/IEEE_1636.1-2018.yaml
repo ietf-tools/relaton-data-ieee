@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE1636.1-2018
 title:
 - content: 'IEEE Standard for Software Interface for Maintenance Information Collection
@@ -64,7 +65,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -73,24 +74,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2018'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1636.1-2013Redline
-    docid:
-    - id: IEEE 1636.1-2013 Redline
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1636.1-2013 Redline
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Software maintenance
@@ -110,3 +93,5 @@ editorialgroup:
 ics:
 - code: '35.040'
   text: Information coding
+ext:
+  schema-version: v1.0.0

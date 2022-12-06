@@ -1,5 +1,6 @@
 ---
-id: IEEEP26512/D-3-2010-11
+schema-version: v1.2.1
+id: IEEEP26512-D-3-2010-11
 title:
 - content: IEEE Draft Standard for Systems and Software Engineering -- Requirements
     for Acquirers and Suppliers of User Documentation
@@ -73,7 +74,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -82,24 +83,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2010'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1063-2001
-    docid:
-    - id: IEEE 1063-2001
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1063-2001
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Documentation
@@ -116,3 +99,5 @@ editorialgroup:
 ics:
 - code: '35.080'
   text: Software
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IEC/IEEE63260-2020
+schema-version: v1.2.1
+id: IEC-IEEE63260-2020
 title:
 - content: IEC/IEEE International Standard - Guide for incorporating human reliability
     analysis into probabilistic risk assessments for nuclear power generating stations
@@ -63,7 +64,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -74,6 +75,17 @@ copyright:
   - name:
     - content: IEC
   from: '2020'
+relation:
+- type: adoptedFrom
+  bibitem:
+    id: IEEE1082-2017
+    docid:
+    - id: IEEE 1082-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1082-2017
+      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: IEC Standards
@@ -94,3 +106,5 @@ editorialgroup:
 ics:
 - code: 27.120.20
   text: Nuclear power plants. Safety
+ext:
+  schema-version: v1.0.0

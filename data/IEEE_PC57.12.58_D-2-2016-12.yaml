@@ -1,5 +1,6 @@
 ---
-id: IEEEPC57.12.58/D-2-2016-12
+schema-version: v1.2.1
+id: IEEEPC57.12.58-D-2-2016-12
 title:
 - content: IEEE Approved Draft Guide for Conducting a Transient Voltage Analysis of
     a Dry-Type Transformer Coil
@@ -57,7 +58,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -66,24 +67,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2017'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC57.12.58-1991
-    docid:
-    - id: IEEE C57.12.58-1991
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C57.12.58-1991
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Surge protection
@@ -102,3 +85,5 @@ editorialgroup:
 ics:
 - code: '29.180'
   text: Transformers. Reactors
+ext:
+  schema-version: v1.0.0

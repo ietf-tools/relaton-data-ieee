@@ -1,5 +1,6 @@
 ---
-id: ISO/IEC/IEEE41062-2019
+schema-version: v1.2.1
+id: ISO-IEC-IEEE41062-2019
 title:
 - content: ISO/IEC/IEEE International Standard - Software engineering - Recommended
     practice for software acquisition
@@ -65,7 +66,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -78,6 +79,17 @@ copyright:
   - name:
     - content: IEC
   from: '2019'
+relation:
+- type: adoptedFrom
+  bibitem:
+    id: IEEE1062-2015
+    docid:
+    - id: IEEE 1062-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1062-2015
+      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: IEC Standards
@@ -100,3 +112,5 @@ editorialgroup:
 ics:
 - code: '35.080'
   text: Software
+ext:
+  schema-version: v1.0.0

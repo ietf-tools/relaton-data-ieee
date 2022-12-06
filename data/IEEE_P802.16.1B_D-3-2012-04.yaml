@@ -1,5 +1,6 @@
 ---
-id: IEEEP802.16.1b/D-3-2012-04
+schema-version: v1.2.1
+id: IEEEP802.16.1b-D-3-2012-04
 title:
 - content: 'IEEE Draft Standard for WirelessMAN-Advanced Air Interface for Broadband
     Wireless Access Systems - Amendment: Enhancements to Support Machine-to-Machine
@@ -56,7 +57,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -68,7 +69,7 @@ copyright:
 relation:
 - type: updates
   bibitem:
-    id: IEEEP802.16.1/D-4-2012-02
+    id: IEEEP802.16.1-D-4-2012-02
     docid:
     - id: IEEE P802.16.1/D-4-2012-02
       type: IEEE
@@ -99,3 +100,5 @@ ics:
   text: Data link layer
 - code: 35.100.10
   text: Physical layer
+ext:
+  schema-version: v1.0.0

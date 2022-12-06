@@ -1,5 +1,6 @@
 ---
-id: IEEEP802.11ac/D-7.0-2013-09
+schema-version: v1.2.1
+id: IEEEP802.11ac-D-7.0-2013-09
 title:
 - content: 'IEEE Approved Draft Standard for IT - Telecommunications and Information
     Exchange Between Systems - LAN/MAN - Specific Requirements - Part 11: Wireless
@@ -60,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -69,24 +70,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2013'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE802.11-2007
-    docid:
-    - id: IEEE 802.11-2007
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.11-2007
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: MIMO
@@ -114,3 +97,5 @@ ics:
   text: Data link layer
 - code: 35.100.10
   text: Physical layer
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE1680.1a-2020
 title:
 - content: 'IEEE Standard for Environmental and Social Responsibility Assessment of
@@ -62,7 +63,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -71,6 +72,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2020'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1680.1-2018
+    docid:
+    - id: IEEE 1680.1-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1680.1-2018
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Product design
@@ -107,3 +126,5 @@ ics:
   text: Environmental impact assessment
 - code: '35.160'
   text: Microprocessor systems
+ext:
+  schema-version: v1.0.0

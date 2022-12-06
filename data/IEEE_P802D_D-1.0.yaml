@@ -1,5 +1,6 @@
 ---
-id: IEEEP802d/D-1.0
+schema-version: v1.2.1
+id: IEEEP802d-D-1.0
 title:
 - content: 'IEEE Draft Standard for Local and Metropolitan Area Networks: Overview
     and Architecture-- Amendment: Allocation of Uniform Resource Name (URN) values
@@ -56,7 +57,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -65,6 +66,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2016'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE802-2014
+    docid:
+    - id: IEEE 802-2014
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802-2014
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Local area networks
@@ -79,3 +98,5 @@ editorialgroup:
 ics:
 - code: '35.110'
   text: Networking
+ext:
+  schema-version: v1.0.0

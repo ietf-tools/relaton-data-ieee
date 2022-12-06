@@ -1,5 +1,6 @@
 ---
-id: ISO/IEEE11073.10207-2019
+schema-version: v1.2.1
+id: ISO-IEEE11073.10207-2019
 title:
 - content: 'ISO/IEC/IEEE Health informatics--Point-of-care medical device communication
     Part 10207: Domain Information and Service Model for Service-Oriented Point-of-Care
@@ -67,7 +68,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -78,6 +79,17 @@ copyright:
   - name:
     - content: ISO
   from: '2019'
+relation:
+- type: adoptedFrom
+  bibitem:
+    id: IEEE11073.10207-2017
+    docid:
+    - id: IEEE 11073.10207-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 11073.10207-2017
+      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: ISO Standards
@@ -102,3 +114,5 @@ editorialgroup:
 ics:
 - code: 35.240.80
   text: IT applications in health care technology
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IEEEPC37.121/D-14-2012-03
+schema-version: v1.2.1
+id: IEEEPC37.121-D-14-2012-03
 title:
 - content: IEEE Draft Guide for Switchgear - Unit Substation - Requirements
   format: text/plain
@@ -58,7 +59,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -67,24 +68,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2012'
-relation:
-- type: updates
-  bibitem:
-    id: ANSIC37.121-1989
-    docid:
-    - id: ANSI C37.121-1989
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI C37.121-1989
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Power distribution
@@ -122,3 +105,5 @@ editorialgroup:
 ics:
 - code: 29.130.10
   text: High voltage switchgear and controlgear
+ext:
+  schema-version: v1.0.0

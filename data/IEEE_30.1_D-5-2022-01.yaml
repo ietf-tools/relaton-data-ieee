@@ -1,5 +1,6 @@
 ---
-id: IEEE30.1/D-5-2022-01
+schema-version: v1.2.1
+id: IEEE30.1-D-5-2022-01
 title:
 - content: 'IEEE/IEC Draft International Standard - Explosive atmospheres -- Part
     30-1: Electrical resistance trace heating -- General and testing requirements'
@@ -47,7 +48,7 @@ script:
 - Latn
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -58,6 +59,24 @@ copyright:
   - name:
     - content: IEC
   from: '2022'
+relation:
+- type: updates
+  bibitem:
+    id: IEC-IEEE60079-1930
+    docid:
+    - id: IEC/IEEE 60079-1930
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEC/IEEE 60079-1930
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: IEC Standards
@@ -73,3 +92,5 @@ editorialgroup:
 ics:
 - code: 29.260.20
   text: Electrical apparatus for explosive atmospheres
+ext:
+  schema-version: v1.0.0

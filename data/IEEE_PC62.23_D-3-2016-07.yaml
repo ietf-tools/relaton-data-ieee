@@ -1,5 +1,6 @@
 ---
-id: IEEEPC62.23/D-3-2016-07
+schema-version: v1.2.1
+id: IEEEPC62.23-D-3-2016-07
 title:
 - content: IEEE Draft Application Guide for Surge Protection of Electric Generating
     Plants
@@ -62,7 +63,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -71,24 +72,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2016'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC62.23-1995
-    docid:
-    - id: IEEE C62.23-1995
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C62.23-1995
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Electricity supply industry
@@ -108,3 +91,5 @@ editorialgroup:
 ics:
 - code: '27.100'
   text: Power stations in general
+ext:
+  schema-version: v1.0.0

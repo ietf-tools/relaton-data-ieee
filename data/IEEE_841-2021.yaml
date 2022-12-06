@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE841-2021
 title:
 - content: IEEE Standard for Petroleum and Chemical Industry--Premium-Efficiency,
@@ -64,7 +65,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -73,6 +74,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2021'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE841-2009
+    docid:
+    - id: IEEE 841-2009
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 841-2009
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Petroleum industry
@@ -94,3 +113,5 @@ editorialgroup:
 ics:
 - code: 29.160.30
   text: Motors
+ext:
+  schema-version: v1.0.0

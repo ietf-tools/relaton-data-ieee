@@ -1,5 +1,6 @@
 ---
-id: IEEEP463/D-2-2019-06
+schema-version: v1.2.1
+id: IEEEP463-D-2-2019-06
 title:
 - content: IEEE Draft Standard for Electrical Safety Practices in Electrolytic Cell
     Line Working Zones
@@ -60,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -69,24 +70,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2019'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE463-2013
-    docid:
-    - id: IEEE 463-2013
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 463-2013
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Conductors
@@ -104,3 +87,5 @@ editorialgroup:
 ics:
 - code: '13.260'
   text: Protection against electric shock. Live working
+ext:
+  schema-version: v1.0.0

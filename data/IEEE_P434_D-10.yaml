@@ -1,5 +1,6 @@
 ---
-id: IEEEP434/D-10
+schema-version: v1.2.1
+id: IEEEP434-D-10
 title:
 - content: IEEE Guide for Functional Evaluation of Insulation Systems for AC Electric
     Machines Rated 2300 V and Above
@@ -56,7 +57,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -65,24 +66,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2006'
-relation:
-- type: updates
-  bibitem:
-    id: ANSI/IEEE434-1973
-    docid:
-    - id: ANSI/IEEE 434-1973
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI/IEEE 434-1973
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: High-voltage techniques
@@ -105,3 +88,5 @@ editorialgroup:
 ics:
 - code: 29.080.30
   text: Insulation systems
+ext:
+  schema-version: v1.0.0

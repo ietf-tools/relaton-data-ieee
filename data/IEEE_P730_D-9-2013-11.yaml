@@ -1,5 +1,6 @@
 ---
-id: IEEEP730/D-9-2013-11
+schema-version: v1.2.1
+id: IEEEP730-D-9-2013-11
 title:
 - content: IEEE Approved Draft Standard for Software Quality Assurance Processes
   format: text/plain
@@ -57,7 +58,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -66,24 +67,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2013'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE730-2002
-    docid:
-    - id: IEEE 730-2002
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 730-2002
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Software quality
@@ -109,3 +92,5 @@ editorialgroup:
 ics:
 - code: '35.080'
   text: Software
+ext:
+  schema-version: v1.0.0

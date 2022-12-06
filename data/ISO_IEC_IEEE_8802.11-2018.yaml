@@ -1,5 +1,6 @@
 ---
-id: ISO/IEC/IEEE8802.11-2018
+schema-version: v1.2.1
+id: ISO-IEC-IEEE8802.11-2018
 title:
 - content: 'ISO/IEC/IEEE - International Standard - Information technology--Telecommunications
     and information exchange between systems--Local and metropolitan area networks--Specific
@@ -62,7 +63,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Superseded
+    value: approved
 copyright:
 - owner:
   - name:
@@ -120,7 +121,7 @@ keyword:
 - content: GCMP
 - content: generic advertisement service
 - content: high throughput
-- content: IEEE 802.11&#8482;
+- content: IEEE 802.11(TM)
 - content: international roaming
 - content: interworking
 - content: interworking with external networks
@@ -178,5 +179,9 @@ editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society
 ics:
+- code: 35.100.10
+  text: Physical layer
 - code: '35.110'
   text: Networking
+ext:
+  schema-version: v1.0.0

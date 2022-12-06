@@ -1,5 +1,6 @@
 ---
-id: IEEEP1671.1/D-3-2017-08
+schema-version: v1.2.1
+id: IEEEP1671.1-D-3-2017-08
 title:
 - content: IEEE Draft Standard for Automatic Test Markup Language (ATML) Test Description
   format: text/plain
@@ -55,7 +56,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -64,24 +65,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2017'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1671.1-2009
-    docid:
-    - id: IEEE 1671.1-2009
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1671.1-2009
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: XML
@@ -106,3 +89,5 @@ editorialgroup:
 ics:
 - code: 35.240.30
   text: IT applications in information, documentation and publishing
+ext:
+  schema-version: v1.0.0

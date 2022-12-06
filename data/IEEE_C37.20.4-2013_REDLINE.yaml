@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEEC37.20.4-2013Redline
 title:
 - content: IEEE Standard for Indoor AC Switches (1 kV to 38 kV) for Use in Metal-Enclosed
@@ -60,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -69,24 +70,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2013'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC37.20.4-2001
-    docid:
-    - id: IEEE C37.20.4-2001
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.20.4-2001
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Switchgear
@@ -101,3 +84,5 @@ editorialgroup:
 ics:
 - code: 29.130.10
   text: High voltage switchgear and controlgear
+ext:
+  schema-version: v1.0.0

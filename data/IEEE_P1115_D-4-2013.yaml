@@ -1,5 +1,6 @@
 ---
-id: IEEEP1115/D-4-2013
+schema-version: v1.2.1
+id: IEEEP1115-D-4-2013
 title:
 - content: IEEE Draft Recommended Practice for Sizing Nickel-Cadmium Batteries for
     Stationary Applications
@@ -55,7 +56,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -64,41 +65,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2013'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1115-2000
-    docid:
-    - id: IEEE 1115-2000
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1115-2000
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1115-2000
-    docid:
-    - id: IEEE 1115-2000
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1115-2000
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Nickel cadmium batteries
@@ -118,3 +84,5 @@ editorialgroup:
 ics:
 - code: 29.220.30
   text: Alkaline secondary cells and batteries
+ext:
+  schema-version: v1.0.0

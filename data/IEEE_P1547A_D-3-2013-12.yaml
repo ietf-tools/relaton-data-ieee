@@ -1,5 +1,6 @@
 ---
-id: IEEEP1547a/D-3-2013-12
+schema-version: v1.2.1
+id: IEEEP1547a-D-3-2013-12
 title:
 - content: IEEE Draft Standard for Interconnecting Distributed Resources with Electric
     Power Systems - Amendment 1
@@ -57,7 +58,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -66,24 +67,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2014'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1547-2003
-    docid:
-    - id: IEEE 1547-2003
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1547-2003
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Power systems planning
@@ -96,3 +79,5 @@ editorialgroup:
 ics:
 - code: '27.100'
   text: Power stations in general
+ext:
+  schema-version: v1.0.0

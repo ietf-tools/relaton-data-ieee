@@ -1,5 +1,6 @@
 ---
-id: IEEEPC95.7/D-11-2014-03
+schema-version: v1.2.1
+id: IEEEPC95.7-D-11-2014-03
 title:
 - content: IEEE Approved Draft Recommended Practice for Radio Frequency Safety Programs,
     3 kHz to 300 GHz
@@ -73,7 +74,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -82,24 +83,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2014'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC95.7-2005
-    docid:
-    - id: IEEE C95.7-2005
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C95.7-2005
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Radio frequency
@@ -132,3 +115,5 @@ editorialgroup:
 ics:
 - code: '13.280'
   text: Radiation protection
+ext:
+  schema-version: v1.0.0

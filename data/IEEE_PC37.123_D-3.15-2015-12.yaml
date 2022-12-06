@@ -1,5 +1,6 @@
 ---
-id: IEEEPC37.123/D-3.15-2015-12
+schema-version: v1.2.1
+id: IEEEPC37.123-D-3.15-2015-12
 title:
 - content: IEEE Approved Draft Guide for Specifications for High-Voltage Gas-Insulated
     Substations Rated Above 52 kV
@@ -56,7 +57,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -65,24 +66,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2016'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC37.123-1996
-    docid:
-    - id: IEEE C37.123-1996
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.123-1996
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Substations
@@ -105,3 +88,5 @@ ics:
   text: Power stations in general
 - code: 29.240.01
   text: Power transmission and distribution networks in general
+ext:
+  schema-version: v1.0.0

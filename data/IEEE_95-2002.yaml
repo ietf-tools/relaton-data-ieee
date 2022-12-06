@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE95-2002
 title:
 - content: IEEE Recommended Practice for Insulation Testing of AC Electric Machinery
@@ -58,7 +59,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -67,24 +68,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2002'
-relation:
-- type: updates
-  bibitem:
-    id: ANSI/IEEE95-1977
-    docid:
-    - id: ANSI/IEEE 95-1977
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI/IEEE 95-1977
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Electric machines
@@ -99,3 +82,5 @@ editorialgroup:
 ics:
 - code: 29.080.01
   text: Insulation in general
+ext:
+  schema-version: v1.0.0

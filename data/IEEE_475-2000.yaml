@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE475-2000
 title:
 - content: IEEE Standard Measurement Procedure for Field Disturbance Sensors 300 MHz
@@ -59,7 +60,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -68,24 +69,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2000'
-relation:
-- type: updates
-  bibitem:
-    id: ANSI/IEEE475-1983
-    docid:
-    - id: ANSI/IEEE 475-1983
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI/IEEE 475-1983
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Emissions
@@ -108,3 +91,5 @@ editorialgroup:
 ics:
 - code: '13.310'
   text: Protection against crime
+ext:
+  schema-version: v1.0.0

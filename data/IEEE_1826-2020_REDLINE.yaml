@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE1826-2020Redline
 title:
 - content: IEEE Standard for Power Electronics Open System Interfaces in Zonal Electrical
@@ -72,7 +73,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -81,6 +82,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2020'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1826-2012
+    docid:
+    - id: IEEE 1826-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1826-2012
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Open systems
@@ -102,3 +121,5 @@ editorialgroup:
 ics:
 - code: 29.240.30
   text: Control equipment for electric power systems
+ext:
+  schema-version: v1.0.0

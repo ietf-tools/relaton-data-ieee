@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE1786-2011
 title:
 - content: IEEE Guide for Human Factors Applications of Computerized Operating Procedure
@@ -23,10 +24,12 @@ docid:
   type: DOI
 docnumber: IEEE 1786-2011
 date:
+- type: updated
+  value: '2011-11-07'
 - type: created
   value: '2011'
 - type: published
-  value: '2011-09-23'
+  value: '2012-05-17'
 - type: issued
   value: '2011-06-16'
 contributor:
@@ -36,13 +39,9 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-    contact:
-    - address:
-        city: New York
-        country: USA
   role:
   - type: publisher
-revdate: '2011-09-23'
+revdate: '2012-05-17'
 language:
 - en
 script:
@@ -57,7 +56,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Superseded
+    value: approved
 copyright:
 - owner:
   - name:
@@ -80,3 +79,5 @@ editorialgroup:
 ics:
 - code: 01.040.11
   text: Health care technology (Vocabularies)
+ext:
+  schema-version: v1.0.0

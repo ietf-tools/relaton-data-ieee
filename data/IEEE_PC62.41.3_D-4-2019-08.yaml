@@ -1,5 +1,6 @@
 ---
-id: IEEEPC62.41.3/D-4-2019-08
+schema-version: v1.2.1
+id: IEEEPC62.41.3-D-4-2019-08
 title:
 - content: IEEE Draft Guide for Interactions Between Power System Disturbances and
     Surge Protective Devices
@@ -60,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -69,6 +70,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2019'
+relation:
+- type: updates
+  bibitem:
+    id: IEEEC62.48-2005
+    docid:
+    - id: IEEE C62.48-2005
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C62.48-2005
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Surge protection
@@ -89,3 +108,5 @@ editorialgroup:
 ics:
 - code: 29.120.50
   text: Fuses and other overcurrent protection devices
+ext:
+  schema-version: v1.0.0

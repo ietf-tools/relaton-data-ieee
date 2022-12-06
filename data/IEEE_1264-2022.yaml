@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE1264-2022
 title:
 - content: IEEE Guide for Animal Mitigation for Electric Power Supply Substations
@@ -58,7 +59,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -68,23 +69,6 @@ copyright:
     url: http://www.ieee.org
   from: '2022'
 relation:
-- type: updates
-  bibitem:
-    id: IEEE1264-2015
-    docid:
-    - id: IEEE 1264-2015
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1264-2015
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: updates
   bibitem:
     id: IEEE1264-2015
@@ -131,3 +115,5 @@ editorialgroup:
 ics:
 - code: 29.240.20
   text: Power transmission and distribution lines
+ext:
+  schema-version: v1.0.0

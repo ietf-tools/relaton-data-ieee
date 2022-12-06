@@ -1,0 +1,103 @@
+---
+schema-version: v1.2.1
+id: IEEE1149.10-2017
+title:
+- content: IEEE Standard for High-Speed Test Access Port and On-Chip Distribution
+    Architecture
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/7995164
+  type: src
+type: standard
+docid:
+- id: IEEE 1149.10-2017
+  type: IEEE
+  primary: true
+- id: IEEE 1149.10™-2017
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-1-5044-3995-4
+  type: ISBN
+- id: 10.1109/IEEESTD.2017.7995164
+  type: DOI
+docnumber: IEEE 1149.10-2017
+date:
+- type: updated
+  value: '2017-08-18'
+- type: created
+  value: '2017'
+- type: published
+  value: '2017-07-28'
+- type: issued
+  value: '2017-05-18'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  role:
+  - type: publisher
+revdate: '2017-07-28'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Circuitry that may be built into an integrated circuit to assist in the
+    test, maintenance, and support of assembled printed circuit boards, assembled
+    multi-die packages, and the test of die internal circuits is defined in this standard.
+    The circuitry includes a high-speed TAP (HSTAP) with a packet encoder/decoder
+    and distribution architecture through which instructions and test data are communicated.
+    The standard leverages the languages of IEEE Std 1149.1(TM) to describe and operate
+    the on-chip circuits.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2017'
+keyword:
+- content: IEEE Standards
+- content: Integrated circuits
+- content: System-on-chip
+- content: Maintenance engineering
+- content: Printed circuits
+- content: Boundary conditions
+- content: 3D-IC
+- content: Boundary-Scan Description Language
+- content: BSDL
+- content: debug
+- content: High Speed JTAG
+- content: I2C
+- content: IEEE 1149.1&#8482;
+- content: PDL
+- content: IEEE 1149.10&#8482;
+- content: integrated circuit
+- content: JTAG
+- content: wafer
+- content: Procedural Description Language
+- content: SERDES
+- content: SPI
+- content: system level test
+editorialgroup:
+  committee:
+  - Test Technology of the IEEE Computer Society
+ics:
+- code: 01.040.11
+  text: Health care technology (Vocabularies)
+ext:
+  schema-version: v1.0.0

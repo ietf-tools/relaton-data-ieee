@@ -1,5 +1,6 @@
 ---
-id: IEEEP1609.4/D-3/Cor1-2019-04
+schema-version: v1.2.1
+id: IEEEP1609.4-D-3-Cor1-2019-04
 title:
 - content: 'IEEE Approved Draft Standard for Wireless Access in Vehicular Environments
     (WAVE) -- Multi-Channel Operation - Corrigendum 1: Miscellaneous corrections'
@@ -57,7 +58,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -66,6 +67,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2019'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1609.4-2016
+    docid:
+    - id: IEEE 1609.4-2016
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1609.4-2016
+      format: text/plain
+  description:
+    content: corrects
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Vehicular ad hoc networks
@@ -83,3 +102,5 @@ editorialgroup:
 ics:
 - code: 35.240.60
   text: IT applications in transport
+ext:
+  schema-version: v1.0.0

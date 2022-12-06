@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE1349-2011Redline
 title:
 - content: IEEE Guide for Application of Electric Motors in Class I, Division 2 and
@@ -40,7 +41,7 @@ contributor:
     url: http://www.ieee.org
     contact:
     - address:
-        city: New York
+        city: Piscataway
         country: USA
   role:
   - type: publisher
@@ -71,7 +72,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Superseded
+    value: approved
 copyright:
 - owner:
   - name:
@@ -80,46 +81,35 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2012'
-relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEEP1349/D-7.0-2021-02
-    docid:
-    - id: IEEE P1349/D-7.0-2021-02
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE P1349/D-7.0-2021-02
-      format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1349-2001
-    docid:
-    - id: IEEE 1349-2001
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1349-2001
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Electric machines
 - content: Temperature measurement
 - content: Hazards
 - content: Variable speed drives
-- content: adjustable speed drive; autoignition temperature; Class I
-- content: Division 2; Class I
-- content: Zone 2; classified locations; enclosure sparking; hazardous locations;
-    IEEE 1349; induction motor; label test; motor; motor enclosure; motor temperature;
-    multisection motor; paint test; rotor; rotor sparking; rotor temperature; synchronous
-    motor; T Code; temperature code
+- content: adjustable speed drive
+- content: autoignition temperature
+- content: Class I
+- content: Division 2
+- content: Class I
+- content: Zone 2
+- content: classified locations
+- content: enclosure sparking
+- content: hazardous locations
+- content: IEEE 1349
+- content: induction motor
+- content: label test
+- content: motor
+- content: motor enclosure
+- content: motor temperature
+- content: multisection motor
+- content: paint test
+- content: rotor
+- content: rotor sparking
+- content: rotor temperature
+- content: synchronous motor
+- content: T Code
+- content: temperature code
 editorialgroup:
   committee:
   - Petroleum &amp; Chemical Industry of the IEEE Industry Applications Society
@@ -127,4 +117,6 @@ ics:
 - code: 29.160.30
   text: Motors
 - code: 29.260.20
-  text: Electrical apparatus for explosive atmospheres
+  text: Electrical installations for explosive atmospheres
+ext:
+  schema-version: v1.0.0

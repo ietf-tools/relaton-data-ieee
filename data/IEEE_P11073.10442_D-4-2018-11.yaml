@@ -1,5 +1,6 @@
 ---
-id: IEEEP11073.10442/D-4-2018-11
+schema-version: v1.2.1
+id: IEEEP11073.10442-D-4-2018-11
 title:
 - content: 'IEEE Draft Health Informatics - Personal Health Device Communication Part
     10442: Device Specialization - Strength Fitness Equipment'
@@ -65,7 +66,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -74,6 +75,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2018'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE11073.10442-2008
+    docid:
+    - id: IEEE 11073.10442-2008
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 11073.10442-2008
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Medical devices
@@ -91,3 +110,5 @@ ics:
   text: IT applications in health care technology
 - code: 11.040.55
   text: Diagnostic equipment
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE1451.3-2003
 title:
 - content: IEEE Standard for a Smart Transducer Interface for Sensors and Actuators
@@ -64,7 +65,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -101,3 +102,5 @@ ics:
   text: Industrial process measurement and control
 - code: 35.240.50
   text: IT applications in industry
+ext:
+  schema-version: v1.0.0

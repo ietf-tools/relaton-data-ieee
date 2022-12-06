@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE802.5
 title:
 - content: 'IEEE Standard for Information technology -- Telecommunications and information
@@ -68,7 +69,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -96,3 +97,5 @@ ics:
   text: Physical layer
 - code: 35.100.20
   text: Data link layer
+ext:
+  schema-version: v1.0.0

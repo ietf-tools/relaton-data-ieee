@@ -1,5 +1,6 @@
 ---
-id: IEEEtrueP802.15.4/D-09/R-i-2013-04
+schema-version: v1.2.1
+id: IEEEtrueP802.15.4-D-09-R-i-2013-04
 title:
 - content: 'IEEE Approved Draft Standard for Local and metropolitan area networks
     - Part 15.4: Low-Rate Wireless Personal Area Networks (WPANs)'
@@ -59,7 +60,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -68,24 +69,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2011'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE802.15.4-2006
-    docid:
-    - id: IEEE 802.15.4-2006
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.15.4-2006
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Ad hoc networks
@@ -119,3 +102,5 @@ ics:
   text: Data link layer
 - code: 35.100.10
   text: Physical layer
+ext:
+  schema-version: v1.0.0

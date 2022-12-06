@@ -1,5 +1,6 @@
 ---
-id: IEEEP802.16s/D-3-2017-06
+schema-version: v1.2.1
+id: IEEEP802.16s-D-3-2017-06
 title:
 - content: 'IEEE Draft Standard for Air Interface for Broadband Wireless Access Systems
     - Draft Amendment 1 to IEEE Std 802.16-9 20xx: Fixed and Mobile Wireless Access
@@ -62,7 +63,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -71,24 +72,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2017'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE802.16-2012
-    docid:
-    - id: IEEE 802.16-2012
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.16-2012
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Wireless LAN
@@ -115,3 +98,5 @@ editorialgroup:
 ics:
 - code: '35.110'
   text: Networking
+ext:
+  schema-version: v1.0.0

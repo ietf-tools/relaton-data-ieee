@@ -1,5 +1,6 @@
 ---
-id: IEEEP308/D-1-2018-10
+schema-version: v1.2.1
+id: IEEEP308-D-1-2018-10
 title:
 - content: IEEE Draft Standard Criteria for Class 1E Power Systems for Nuclear Power
     Generating Stations
@@ -60,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -69,24 +70,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2018'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE308-2012
-    docid:
-    - id: IEEE 308-2012
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 308-2012
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Nuclear power generation
@@ -105,3 +88,5 @@ ics:
   text: Fissile materials and nuclear fuel technology
 - code: 29.240.01
   text: Power transmission and distribution networks in general
+ext:
+  schema-version: v1.0.0

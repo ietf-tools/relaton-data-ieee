@@ -1,5 +1,6 @@
 ---
-id: ISO/IEC/IEEE42010-2022
+schema-version: v1.2.1
+id: ISO-IEC-IEEE42010-2022
 title:
 - content: IEEE/ISO/IEC International Standard for Software, systems and enterprise--Architecture
     description
@@ -49,7 +50,7 @@ script:
 - Latn
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -65,7 +66,7 @@ copyright:
 relation:
 - type: updates
   bibitem:
-    id: ISO/IEC/IEEE42010-2011
+    id: ISO-IEC-IEEE42010-2011
     docid:
     - id: ISO/IEC/IEEE 42010-2011
       type: IEEE
@@ -93,3 +94,5 @@ editorialgroup:
 ics:
 - code: '35.080'
   text: Software
+ext:
+  schema-version: v1.0.0

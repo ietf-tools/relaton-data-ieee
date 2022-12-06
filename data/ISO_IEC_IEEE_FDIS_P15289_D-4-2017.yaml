@@ -1,5 +1,6 @@
 ---
-id: ISO/IEC/IEEEFDISP15289/D-4-2017
+schema-version: v1.2.1
+id: ISO-IEC-IEEEFDISP15289-D-4-2017
 title:
 - content: ISO/IEC/IEEE Draft International Standard - Systems and software engineering
     -- Content of life-cycle information items (documentation)
@@ -47,7 +48,7 @@ script:
 - Latn
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -60,24 +61,6 @@ copyright:
   - name:
     - content: IEC
   from: '2017'
-relation:
-- type: updates
-  bibitem:
-    id: ISO/IEC/IEEE15289-2015
-    docid:
-    - id: ISO/IEC/IEEE 15289-2015
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ISO/IEC/IEEE 15289-2015
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: IEC Standards
@@ -90,3 +73,5 @@ editorialgroup:
 ics:
 - code: '35.080'
   text: Software
+ext:
+  schema-version: v1.0.0

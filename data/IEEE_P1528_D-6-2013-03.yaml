@@ -1,5 +1,6 @@
 ---
-id: IEEEP1528/D-6-2013-03
+schema-version: v1.2.1
+id: IEEEP1528-D-6-2013-03
 title:
 - content: 'IEEE Draft Recommended Practice for Determining the Peak Spatial-Average
     Specific Absorption Rate (SAR) in the Human Head from Wireless Communications
@@ -82,7 +83,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -91,24 +92,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2013'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1528-2003
-    docid:
-    - id: IEEE 1528-2003
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1528-2003
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Specific absorption rate
@@ -135,3 +118,5 @@ ics:
   text: Measurement of electrical and magnetic quantities
 - code: 33.070.01
   text: Mobile services in general
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IEEEP1017.1/D-4-2021-03
+schema-version: v1.2.1
+id: IEEEP1017.1-D-4-2021-03
 title:
 - content: IEEE Draft Recommended Practice for Testing Electric Submersible Pump Cable
   format: text/plain
@@ -57,7 +58,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -66,6 +67,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2021'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1017-2013
+    docid:
+    - id: IEEE 1017-2013
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1017-2013
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Underwater cables
@@ -87,3 +106,5 @@ editorialgroup:
 ics:
 - code: 29.060.20
   text: Cables
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,110 @@
+---
+schema-version: v1.2.1
+id: IEEE1588-2008
+title:
+- content: IEEE Standard for a Precision Clock Synchronization Protocol for Networked
+    Measurement and Control Systems
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/4579760
+  type: src
+type: standard
+docid:
+- id: IEEE 1588-2008
+  type: IEEE
+  primary: true
+- id: IEEE 1588™-2008
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-0-7381-5400-8
+  type: ISBN
+- id: 10.1109/IEEESTD.2008.4579760
+  type: DOI
+docnumber: IEEE 1588-2008
+date:
+- type: updated
+  value: '2008-10-17'
+- type: created
+  value: '2008'
+- type: published
+  value: '2015-06-18'
+- type: issued
+  value: '2008-03-27'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  role:
+  - type: publisher
+revdate: '2015-06-18'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: A protocol is provided in this standard that enables precise synchronization
+    of clocks in measurement and control systems implemented with technologies such
+    as network communication, local computing, and distributed objects. The protocol
+    is applicable to systems communicating via packet networks. Heterogeneous systems
+    are enabled that include clocks of various inherent precision, resolution, and
+    stability to synchronize. System-wide synchronization accuracy and precision in
+    the sub-microsecond range are supported with minimal network and local clock computing
+    resources. Simple systems are installed and operated without requiring the management
+    attention of users because the default behavior of the protocol allows for it.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2008'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1588-2002
+    docid:
+    - id: IEEE 1588-2002
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1588-2002
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: 1588-2008
+- content: boundary clock
+- content: clock
+- content: distributed system
+- content: master clock
+- content: measurement and control system
+- content: real-time clock
+- content: synchronized clock
+- content: transparent clock
+editorialgroup:
+  committee:
+  - TC9 - Sensor Technology of the IEEE Instrumentation and Measurement Society
+ics:
+- code: 39.040.99
+  text: Other time-measuring instruments
+ext:
+  schema-version: v1.0.0

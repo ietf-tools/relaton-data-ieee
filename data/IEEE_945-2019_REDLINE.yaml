@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE945-2019Redline
 title:
 - content: IEEE Recommended Practice for Preferred Metric Units for Use in Electrical
@@ -60,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -69,24 +70,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2019'
-relation:
-- type: updates
-  bibitem:
-    id: ANSI/IEEE945-1984
-    docid:
-    - id: ANSI/IEEE 945-1984
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI/IEEE 945-1984
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: International System of Units
@@ -108,3 +91,5 @@ editorialgroup:
 ics:
 - code: '01.060'
   text: Quantities and units
+ext:
+  schema-version: v1.0.0

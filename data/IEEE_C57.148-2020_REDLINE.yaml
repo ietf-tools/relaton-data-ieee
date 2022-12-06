@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEEC57.148-2020Redline
 title:
 - content: IEEE Standard for Control Cabinets for Power Transformers
@@ -57,7 +58,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -66,6 +67,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2020'
+relation:
+- type: updates
+  bibitem:
+    id: IEEEC57.148-2011
+    docid:
+    - id: IEEE C57.148-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C57.148-2011
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Power transformers
@@ -87,3 +106,5 @@ editorialgroup:
 ics:
 - code: '29.180'
   text: Transformers. Reactors
+ext:
+  schema-version: v1.0.0

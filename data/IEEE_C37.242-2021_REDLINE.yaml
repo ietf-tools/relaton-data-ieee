@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEEC37.242-2021Redline
 title:
 - content: IEEE Guide for Synchronization, Calibration, Testing, and Installation
@@ -65,7 +66,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -74,6 +75,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2021'
+relation:
+- type: updates
+  bibitem:
+    id: IEEEC37.242-2013
+    docid:
+    - id: IEEE C37.242-2013
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.242-2013
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Calibration
@@ -93,3 +112,5 @@ editorialgroup:
 ics:
 - code: 33.040.40
   text: Data communication networks
+ext:
+  schema-version: v1.0.0

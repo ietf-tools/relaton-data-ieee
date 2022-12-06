@@ -1,5 +1,6 @@
 ---
-id: IEEEPC37.010/D-12-2016-02
+schema-version: v1.2.1
+id: IEEEPC37.010-D-12-2016-02
 title:
 - content: IEEE Draft Application Guide for AC High-Voltage Circuit Breakers > 1000
     Vac Rated on a Symmetrical Current Basis
@@ -60,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -69,24 +70,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2016'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC37.010-1999
-    docid:
-    - id: IEEE C37.010-1999
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.010-1999
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: High voltage techniques
@@ -117,3 +100,5 @@ editorialgroup:
 ics:
 - code: 29.120.40
   text: Switches
+ext:
+  schema-version: v1.0.0

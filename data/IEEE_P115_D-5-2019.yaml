@@ -1,5 +1,6 @@
 ---
-id: IEEEP115/D-5-2019
+schema-version: v1.2.1
+id: IEEEP115-D-5-2019
 title:
 - content: IEEE Approved Draft Guide for Test Procedures for Synchronous Machines
     Including Acceptance and Performance Testing and Parameter Determination for Dynamic
@@ -60,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -69,24 +70,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2019'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE115-2009
-    docid:
-    - id: IEEE 115-2009
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 115-2009
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Synchronous machines
@@ -106,3 +89,5 @@ ics:
   text: Generators
 - code: 29.160.30
   text: Motors
+ext:
+  schema-version: v1.0.0

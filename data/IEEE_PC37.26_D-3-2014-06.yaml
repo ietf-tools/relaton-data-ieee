@@ -1,5 +1,6 @@
 ---
-id: IEEEPC37.26/D-3-2014-06
+schema-version: v1.2.1
+id: IEEEPC37.26-D-3-2014-06
 title:
 - content: IEEE Guide for Methods of Power-Factor Measurement for Low-Voltage (1000
     V AC or lower) Inductive Test Circuits
@@ -62,7 +63,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -71,24 +72,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2014'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC37.26-2003
-    docid:
-    - id: IEEE C37.26-2003
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.26-2003
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Patents
@@ -105,3 +88,5 @@ editorialgroup:
 ics:
 - code: 29.130.20
   text: Low voltage switchgear and controlgear
+ext:
+  schema-version: v1.0.0

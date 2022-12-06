@@ -1,5 +1,6 @@
 ---
-id: IEEEP497/D-3-2010-07
+schema-version: v1.2.1
+id: IEEEP497-D-3-2010-07
 title:
 - content: IEEE Draft Standard Criteria for Accident Monitoring Instrumentation for
     Nuclear Power Generating Stations
@@ -54,7 +55,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -64,40 +65,26 @@ copyright:
     url: http://www.ieee.org
   from: '2010'
 relation:
-- type: updates
+- type: obsoletedBy
   bibitem:
-    id: IEEE497-2002
+    id: IEEE497-2016
     docid:
-    - id: IEEE 497-2002
+    - id: IEEE 497-2016
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 497-2002
+      content: IEEE 497-2016
       format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
+- type: obsoletedBy
   bibitem:
-    id: IEEE497-2002
+    id: IEEE497-2016
     docid:
-    - id: IEEE 497-2002
+    - id: IEEE 497-2016
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 497-2002
+      content: IEEE 497-2016
       format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Nuclear power generation
@@ -114,3 +101,5 @@ editorialgroup:
 ics:
 - code: 27.120.20
   text: Nuclear power plants. Safety
+ext:
+  schema-version: v1.0.0

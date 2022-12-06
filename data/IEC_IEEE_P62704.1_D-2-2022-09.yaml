@@ -1,5 +1,6 @@
 ---
-id: IEC/IEEEP62704.1/D-2-2022-09
+schema-version: v1.2.1
+id: IEC-IEEEP62704.1-D-2-2022-09
 title:
 - content: 'IEEE/IEC Draft Standard for Determining the Peak Spatial Average Specific
     Absorption Rate (SAR) in the Human Body from Wireless Communications Devices,
@@ -49,7 +50,7 @@ script:
 - Latn
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -60,6 +61,24 @@ copyright:
   - name:
     - content: IEC
   from: '2022'
+relation:
+- type: updates
+  bibitem:
+    id: IEC-IEEE62704.1-2017
+    docid:
+    - id: IEC/IEEE 62704.1-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEC/IEEE 62704.1-2017
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: IEC Standards
@@ -76,3 +95,5 @@ ics:
   text: Radiation protection
 - code: 33.070.01
   text: Mobile services in general
+ext:
+  schema-version: v1.0.0

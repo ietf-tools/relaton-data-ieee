@@ -1,5 +1,6 @@
 ---
-id: ISO/IEC/IEEE8802.A/Amd2-2015
+schema-version: v1.2.1
+id: ISO-IEC-IEEE8802.A-Amd2-2015
 title:
 - content: 'ISO/IEC/IEEE International Standard - Local and Metropolitan Area Networks:Overview
     and Architecture--Amendment 2: Local Medium Access Control (MAC) Address Usage'
@@ -64,7 +65,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -77,6 +78,17 @@ copyright:
   - name:
     - content: IEC
   from: '2019'
+relation:
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802c-2017
+    docid:
+    - id: IEEE 802c-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802c-2017
+      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: ISO Standards
@@ -103,3 +115,5 @@ keyword:
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society
+ext:
+  schema-version: v1.0.0

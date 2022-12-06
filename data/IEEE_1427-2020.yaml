@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE1427-2020
 title:
 - content: IEEE Guide for Recommended Electrical Clearances and Insulation Levels
@@ -62,7 +63,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -71,6 +72,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2021'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1427-2006
+    docid:
+    - id: IEEE 1427-2006
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1427-2006
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Lightning
@@ -92,3 +111,5 @@ editorialgroup:
 ics:
 - code: 29.240.10
   text: Substations. Surge arresters
+ext:
+  schema-version: v1.0.0

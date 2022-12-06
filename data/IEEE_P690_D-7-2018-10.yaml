@@ -1,5 +1,6 @@
 ---
-id: IEEEP690/D-7-2018-10
+schema-version: v1.2.1
+id: IEEEP690-D-7-2018-10
 title:
 - content: IEEE Approved Draft Standard for the Design and Installation of Cable Systems
     for Class 1E Circuits in Nuclear Power Generating Stations
@@ -60,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -69,24 +70,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2018'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE690-2004
-    docid:
-    - id: IEEE 690-2004
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 690-2004
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Circuits and systems
@@ -101,3 +84,5 @@ editorialgroup:
 ics:
 - code: 29.060.20
   text: Cables
+ext:
+  schema-version: v1.0.0

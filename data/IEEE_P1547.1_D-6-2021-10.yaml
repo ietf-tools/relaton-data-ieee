@@ -1,5 +1,6 @@
 ---
-id: IEEEP1547.1/D-6-2021-10
+schema-version: v1.2.1
+id: IEEEP1547.1-D-6-2021-10
 title:
 - content: IEEE Draft Standard for Validation of Computational Electromagnetics Computer
     Modeling and Simulations
@@ -60,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -69,6 +70,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2021'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1597.1-2008
+    docid:
+    - id: IEEE 1597.1-2008
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1597.1-2008
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Computational modeling
@@ -96,3 +115,5 @@ editorialgroup:
 ics:
 - code: 33.100.10
   text: Emission
+ext:
+  schema-version: v1.0.0

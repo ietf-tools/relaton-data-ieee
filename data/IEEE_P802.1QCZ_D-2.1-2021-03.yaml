@@ -1,5 +1,6 @@
 ---
-id: IEEEP802.1Qcz/D-2.1-2021-03
+schema-version: v1.2.1
+id: IEEEP802.1Qcz-D-2.1-2021-03
 title:
 - content: 'IEEE Draft Standard for Local and Metropolitan Area Networks--Bridges
     and Bridged Networks Amendment: Congestion Isolation'
@@ -56,7 +57,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -68,7 +69,7 @@ copyright:
 relation:
 - type: updates
   bibitem:
-    id: IEEEP802.1Q/D-1.2/R--2022-05
+    id: IEEEP802.1Q-D-1.2-R--2022-05
     docid:
     - id: IEEE P802.1Q/D-1.2/R--2022-05
       type: IEEE
@@ -106,3 +107,5 @@ editorialgroup:
 ics:
 - code: '35.110'
   text: Networking
+ext:
+  schema-version: v1.0.0

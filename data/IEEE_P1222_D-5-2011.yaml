@@ -1,5 +1,6 @@
 ---
-id: IEEEP1222/D-5-2011
+schema-version: v1.2.1
+id: IEEEP1222-D-5-2011
 title:
 - content: IEEE Draft Standard for Testing and Performance for All-Dielectric Self-Supporting
     (ADSS) Fiber Optic Cable for Use on Electric Utility Power Lines
@@ -60,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -69,24 +70,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2011'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1222-2004
-    docid:
-    - id: IEEE 1222-2004
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1222-2004
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Testing
@@ -103,3 +86,5 @@ editorialgroup:
 ics:
 - code: 33.180.10
   text: Fibres and cables
+ext:
+  schema-version: v1.0.0

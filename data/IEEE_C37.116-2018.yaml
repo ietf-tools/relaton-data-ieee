@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEEC37.116-2018
 title:
 - content: IEEE Guide for Protective Relay Application to Transmission-Line Series
@@ -61,7 +62,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -70,24 +71,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2018'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC37.116-2007
-    docid:
-    - id: IEEE C37.116-2007
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.116-2007
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Relays
@@ -113,3 +96,5 @@ ics:
   text: Relays
 - code: 31.060.99
   text: Other capacitors
+ext:
+  schema-version: v1.0.0

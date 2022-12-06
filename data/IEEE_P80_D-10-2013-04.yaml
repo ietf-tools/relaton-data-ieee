@@ -1,5 +1,6 @@
 ---
-id: IEEEP80/D-10-2013-04
+schema-version: v1.2.1
+id: IEEEP80-D-10-2013-04
 title:
 - content: IEEE Approved Draft Guide for Safety in AC Substation Grounding
   format: text/plain
@@ -59,7 +60,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -68,24 +69,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2013'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE80-2000
-    docid:
-    - id: IEEE 80-2000
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 80-2000
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Substations
@@ -107,3 +90,5 @@ editorialgroup:
 ics:
 - code: 29.120.50
   text: Fuses and other overcurrent protection devices
+ext:
+  schema-version: v1.0.0

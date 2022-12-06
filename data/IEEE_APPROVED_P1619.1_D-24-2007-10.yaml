@@ -1,0 +1,80 @@
+---
+schema-version: v1.2.1
+id: IEEEApprovedP1619.1-D-24-2007-10
+title:
+- content: IEEE Draft Standard for Authenticated Encryption With Length Expansion
+    for Storage Device
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/4413115
+  type: src
+type: standard
+docid:
+- id: IEEE Approved P1619.1/D-24-2007-10
+  type: IEEE
+  primary: true
+- id: IEEE Approved P1619.1™/D-24-2007-10
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-1-5044-3044-9
+  type: ISBN
+docnumber: IEEE Approved P1619.1/D-24-2007-10
+date:
+- type: created
+  value: '2007'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'This standard specifies cryptographic and data authentication procedures
+    for storage devices that support length-expansion, such as tape drives. Such procedures
+    include the following cryptographic modes of operation for the AES block cipher:
+    CCM, GCM, CBC-HMAC, and XTS-HMAC.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: inapproved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2007'
+keyword:
+- content: authentication
+- content: data storage
+- content: CBC
+- content: CCM
+- content: cryptography
+- content: encryption
+- content: GCM
+- content: HMAC
+- content: security
+- content: tape drive
+- content: variable-length block
+- content: XTS
+ics:
+- code: '35.040'
+  text: Character sets and information coding
+- code: 35.240.60
+  text: IT applications in transport and trade
+ext:
+  schema-version: v1.0.0

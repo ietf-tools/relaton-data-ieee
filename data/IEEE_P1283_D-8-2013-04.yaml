@@ -1,5 +1,6 @@
 ---
-id: IEEEP1283/D-8-2013-04
+schema-version: v1.2.1
+id: IEEEP1283-D-8-2013-04
 title:
 - content: IEEE Approved Draft Guide for Determining the Effects of High Temperature
     Operation on Conductors, Connectors, and Accessories
@@ -60,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -69,24 +70,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2013'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1283-2004
-    docid:
-    - id: IEEE 1283-2004
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1283-2004
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Temperature measurement
@@ -106,3 +89,5 @@ editorialgroup:
 ics:
 - code: 29.240.20
   text: Power transmission and distribution lines
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE18-2012Redline
 title:
 - content: IEEE Standard for Shunt Power Capacitors
@@ -58,7 +59,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -67,24 +68,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2013'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE18-2002
-    docid:
-    - id: IEEE 18-2002
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 18-2002
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Capacitors
@@ -101,3 +84,5 @@ editorialgroup:
 ics:
 - code: 31.060.70
   text: Power capacitors
+ext:
+  schema-version: v1.0.0

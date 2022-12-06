@@ -1,5 +1,6 @@
 ---
-id: IEEEPC62.55c/D-2-2018-04
+schema-version: v1.2.1
+id: IEEEPC62.55c-D-2-2018-04
 title:
 - content: IEEE Draft Trial Use Guide for Surge Protection of DC Power Feeds to Remote
     Radio Heads - Corrigendum 1
@@ -55,7 +56,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -64,6 +65,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2018'
+relation:
+- type: updates
+  bibitem:
+    id: IEEEC62.55-2017
+    docid:
+    - id: IEEE C62.55-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C62.55-2017
+      format: text/plain
+  description:
+    content: corrects
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Lightning protection
@@ -86,3 +105,5 @@ editorialgroup:
 ics:
 - code: 29.120.50
   text: Fuses and other overcurrent protection devices
+ext:
+  schema-version: v1.0.0

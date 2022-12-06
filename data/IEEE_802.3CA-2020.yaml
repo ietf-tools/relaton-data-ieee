@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE802.3ca-2020
 title:
 - content: 'IEEE Standard for Ethernet Amendment 9: Physical Layer Specifications
@@ -23,6 +24,8 @@ docid:
   type: DOI
 docnumber: IEEE 802.3ca-2020
 date:
+- type: updated
+  value: '2020-07-24'
 - type: created
   value: '2020'
 - type: published
@@ -67,7 +70,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Superseded
+    value: approved
 copyright:
 - owner:
   - name:
@@ -77,16 +80,6 @@ copyright:
     url: http://www.ieee.org
   from: '2020'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: ISO/IEC/IEEE8802.3/Amd9-2021
-    docid:
-    - id: ISO/IEC/IEEE 8802.3/Amd9-2021
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ISO/IEC/IEEE 8802.3/Amd9-2021
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEE802.3-2018
@@ -132,3 +125,5 @@ ics:
   text: Physical layer
 - code: '35.110'
   text: Networking
+ext:
+  schema-version: v1.0.0

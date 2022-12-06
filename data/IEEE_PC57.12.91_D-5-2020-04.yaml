@@ -1,5 +1,6 @@
 ---
-id: IEEEPC57.12.91/D-5-2020-04
+schema-version: v1.2.1
+id: IEEEPC57.12.91-D-5-2020-04
 title:
 - content: IEEE Draft Standard Test Code for Dry-Type Distribution and Power Transformers
   format: text/plain
@@ -59,7 +60,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -68,6 +69,41 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2020'
+relation:
+- type: updates
+  bibitem:
+    id: IEEEC57.12.91-2011
+    docid:
+    - id: IEEE C57.12.91-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C57.12.91-2011
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC57.12.91-2011
+    docid:
+    - id: IEEE C57.12.91-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C57.12.91-2011
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Power transformers
@@ -82,3 +118,5 @@ editorialgroup:
 ics:
 - code: '29.180'
   text: Transformers. Reactors
+ext:
+  schema-version: v1.0.0

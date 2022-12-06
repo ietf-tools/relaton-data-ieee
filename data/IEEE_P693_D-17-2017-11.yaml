@@ -1,5 +1,6 @@
 ---
-id: IEEEP693/D-17-2017-11
+schema-version: v1.2.1
+id: IEEEP693-D-17-2017-11
 title:
 - content: IEEE Draft Recommended Practice for Seismic Design of Substations
   format: text/plain
@@ -56,7 +57,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -65,41 +66,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2017'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE693-2005
-    docid:
-    - id: IEEE 693-2005
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 693-2005
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE693-2005
-    docid:
-    - id: IEEE 693-2005
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 693-2005
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Seismic measurements
@@ -132,3 +98,5 @@ ics:
   text: Power stations in general
 - code: 91.120.25
   text: Seismic and vibration protection
+ext:
+  schema-version: v1.0.0

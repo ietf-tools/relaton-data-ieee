@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEEC57.93-2019
 title:
 - content: IEEE Guide for Installation and Maintenance of Liquid-Immersed Power Transformers
@@ -63,7 +64,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -72,24 +73,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2019'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC57.93-2007
-    docid:
-    - id: IEEE C57.93-2007
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C57.93-2007
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Liquid cooling
@@ -108,3 +91,5 @@ editorialgroup:
 ics:
 - code: '29.180'
   text: Transformers. Reactors
+ext:
+  schema-version: v1.0.0

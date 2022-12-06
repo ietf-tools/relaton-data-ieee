@@ -1,5 +1,6 @@
 ---
-id: ISO/IEC/IEEE8802.3-2014
+schema-version: v1.2.1
+id: ISO-IEC-IEEE8802.3-2014
 title:
 - content: ISO/IEC/IEEE International Standard for Ethernet
   format: text/plain
@@ -27,7 +28,7 @@ date:
 - type: published
   value: '2014-04-01'
 - type: issued
-  value: '2012'
+  value: '2014-04-02'
 contributor:
 - organization:
     name:
@@ -37,7 +38,7 @@ contributor:
     url: http://www.ieee.org
     contact:
     - address:
-        city: New York
+        city: Piscataway
         country: USA
   role:
   - type: publisher
@@ -48,13 +49,13 @@ script:
 - Latn
 abstract:
 - content: Ethernet local area network operation is specified for selected speeds
-    of operation from 1 Mb/s to 100 Gb/s using a common media access control (MAC)
-    specification and management information base (MIB). The Carrier Sense Multiple
-    Access with Collision Detection (CSMA/CD) MAC protocol specifies shared medium
-    (half duplex) operation, as well as full duplex operation. Speed specific Media
-    Independent Interfaces (MIIs) allow use of selected Physical Layer devices (PHY)
+    of operation from1 Mb/s to 100 Gb/s using a common media access control (MAC)
+    specification and managementinformation base (MIB). The Carrier Sense Multiple
+    Access with Collision Detection (CSMA/CD)MAC protocol specifies shared medium
+    (half duplex) operation, as well as full duplex operation.Speed specific Media
+    Independent Interfaces (MIIs) allow use of selected Physical Layer devices(PHY)
     for operation over coaxial, twisted-pair or fiber optic cables. System considerations
-    for multisegment shared access networks describe the use of Repeaters that are
+    formultisegment shared access networks describe the use of Repeaters that are
     defined for operational speeds up to 1000 Mb/s. Local Area Network (LAN) operation
     is supported at all speeds. Other specified capabilities include various PHY types
     for access networks, PHYs suitable for metropolitan area network applications,
@@ -66,7 +67,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Superseded
+    value: approved
 copyright:
 - owner:
   - name:
@@ -100,20 +101,27 @@ keyword:
 - content: AUI
 - content: Auto Negotiation
 - content: Backplane Ethernet
+- content: data processing
 - content: DTE Power via the MDI
 - content: EPON
+- content: Ethernet
 - content: Ethernet in the First Mile
 - content: Ethernet passive optical network
+- content: Fast Ethernet
 - content: Gigabit Ethernet
 - content: GMII
+- content: information exchange
 - content: IEEE 802.3
+- content: local area network
 - content: management
+- content: medium dependent interface
 - content: media independent interface
 - content: MDI
 - content: MIB
 - content: MII
 - content: PHY
 - content: physical coding sublayer
+- content: Physical Layer
 - content: physical medium attachment
 - content: PMA
 - content: Power over Ethernet
@@ -127,5 +135,9 @@ editorialgroup:
 ics:
 - code: '35.110'
   text: Networking
+- code: 35.100.20
+  text: Data link layer
 - code: 35.100.10
   text: Physical layer
+ext:
+  schema-version: v1.0.0

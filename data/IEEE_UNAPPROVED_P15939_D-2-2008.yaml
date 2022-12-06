@@ -1,5 +1,6 @@
 ---
-id: IEEEUnapprovedP15939/D-2-2008
+schema-version: v1.2.1
+id: IEEEUnapprovedP15939-D-2-2008
 title:
 - content: IEEE Standard Adoption of ISO/IEC 15939:2007--Systems and Software Engineering--Measurement
     Process
@@ -67,7 +68,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -76,6 +77,17 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2008'
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: ISO-IEC-IEEE15939-2017
+    docid:
+    - id: ISO/IEC/IEEE 15939-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ISO/IEC/IEEE 15939-2017
+      format: text/plain
 keyword:
 - content: 15939-2008
 - content: measurement
@@ -86,3 +98,5 @@ editorialgroup:
 ics:
 - code: '35.080'
   text: Software
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IEEEP1290/D-1-2014-09
+schema-version: v1.2.1
+id: IEEEP1290-D-1-2014-09
 title:
 - content: IEEE Draft Guide for Motor Operated Valve (MOV) Motor Application, Protection,
     Control, and Testing in Nuclear Power Generating Stations
@@ -57,7 +58,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -66,24 +67,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2014'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1290-1996
-    docid:
-    - id: IEEE 1290-1996
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1290-1996
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Power generation
@@ -109,3 +92,5 @@ editorialgroup:
 ics:
 - code: 27.120.20
   text: Nuclear power plants. Safety
+ext:
+  schema-version: v1.0.0

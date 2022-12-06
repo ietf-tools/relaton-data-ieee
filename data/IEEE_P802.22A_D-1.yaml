@@ -1,5 +1,6 @@
 ---
-id: IEEEP802.22a/D-1
+schema-version: v1.2.1
+id: IEEEP802.22a-D-1
 title:
 - content: 'IEEE Draft Standard for Information Technology--Telecommunications and
     information exchange between systems Wireless Regional Area Networks (WRAN)--Specific
@@ -61,7 +62,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -70,24 +71,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2013'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE802.22-2011
-    docid:
-    - id: IEEE 802.22-2011
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.22-2011
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Wireless networks
@@ -112,3 +95,5 @@ editorialgroup:
 ics:
 - code: '35.110'
   text: Networking
+ext:
+  schema-version: v1.0.0

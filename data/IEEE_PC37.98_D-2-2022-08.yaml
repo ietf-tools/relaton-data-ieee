@@ -1,5 +1,6 @@
 ---
-id: IEEEPC37.98/D-2-2022-08
+schema-version: v1.2.1
+id: IEEEPC37.98-D-2-2022-08
 title:
 - content: IEEE Draft Standard for Seismic Qualification Testing of Protective Relays
     and Auxiliaries for Nuclear Facilities
@@ -61,7 +62,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -70,6 +71,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2022'
+relation:
+- type: updates
+  bibitem:
+    id: IEEEC37.98-2013
+    docid:
+    - id: IEEE C37.98-2013
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.98-2013
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Nuclear power generation
@@ -105,3 +124,5 @@ ics:
   text: Nuclear power plants. Safety
 - code: 29.120.70
   text: Relays
+ext:
+  schema-version: v1.0.0

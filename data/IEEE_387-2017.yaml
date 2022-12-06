@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE387-2017
 title:
 - content: IEEE Standard for Criteria for Diesel Generator Units Applied as Standby
@@ -58,7 +59,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -67,24 +68,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2017'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE387-1995
-    docid:
-    - id: IEEE 387-1995
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 387-1995
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Aging
@@ -130,3 +113,5 @@ editorialgroup:
 ics:
 - code: 27.120.20
   text: Nuclear power plants. Safety
+ext:
+  schema-version: v1.0.0

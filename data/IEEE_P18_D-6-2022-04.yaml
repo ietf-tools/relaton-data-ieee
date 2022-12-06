@@ -1,5 +1,6 @@
 ---
-id: IEEEP18/D-6-2022-04
+schema-version: v1.2.1
+id: IEEEP18-D-6-2022-04
 title:
 - content: IEEE Draft Standard for Shunt Power Capacitors
   format: text/plain
@@ -52,7 +53,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -61,6 +62,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2022'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE18-2012
+    docid:
+    - id: IEEE 18-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 18-2012
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Capacitors
@@ -76,3 +95,5 @@ editorialgroup:
 ics:
 - code: 31.060.70
   text: Power capacitors
+ext:
+  schema-version: v1.0.0

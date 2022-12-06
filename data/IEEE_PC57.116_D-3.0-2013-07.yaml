@@ -1,5 +1,6 @@
 ---
-id: IEEEPC57.116/D-3.0-2013-07
+schema-version: v1.2.1
+id: IEEEPC57.116-D-3.0-2013-07
 title:
 - content: IEEE Draft Guide for Transformers Directly Connected to Generators
   format: text/plain
@@ -60,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -69,24 +70,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2013'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC57.116-1989
-    docid:
-    - id: IEEE C57.116-1989
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C57.116-1989
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Transformers
@@ -111,3 +94,5 @@ editorialgroup:
 ics:
 - code: '29.180'
   text: Transformers. Reactors
+ext:
+  schema-version: v1.0.0

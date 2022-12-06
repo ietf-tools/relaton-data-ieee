@@ -1,5 +1,6 @@
 ---
-id: IEEEP1619.2/D-2-2021-02
+schema-version: v1.2.1
+id: IEEEP1619.2-D-2-2021-02
 title:
 - content: IEEE Approved Draft Standard for Wide-Block Encryption for Shared Storage
     Media
@@ -60,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -69,6 +70,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2021'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1619.2-2010
+    docid:
+    - id: IEEE 1619.2-2010
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1619.2-2010
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Encryption
@@ -91,3 +110,5 @@ ics:
   text: Information coding
 - code: 35.240.60
   text: IT applications in transport
+ext:
+  schema-version: v1.0.0

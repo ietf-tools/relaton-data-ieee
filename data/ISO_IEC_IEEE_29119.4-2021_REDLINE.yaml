@@ -1,5 +1,6 @@
 ---
-id: ISO/IEC/IEEE29119.4-2021Redline
+schema-version: v1.2.1
+id: ISO-IEC-IEEE29119.4-2021Redline
 title:
 - content: 'IEEE/ISO/IEC International Standard - Software and systems engineering--Software
     testing--Part 4: Test techniques'
@@ -71,7 +72,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -84,6 +85,24 @@ copyright:
   - name:
     - content: IEC
   from: '2021'
+relation:
+- type: updates
+  bibitem:
+    id: ISO-IEC-IEEE29119.4-2015
+    docid:
+    - id: ISO/IEC/IEEE 29119.4-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ISO/IEC/IEEE 29119.4-2015
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: ISO Standards
@@ -97,3 +116,5 @@ editorialgroup:
 ics:
 - code: '35.080'
   text: Software
+ext:
+  schema-version: v1.0.0

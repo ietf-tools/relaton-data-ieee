@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE690-2018
 title:
 - content: IEEE Standard for Design and Installation of Cable Systems for Class 1E
@@ -62,7 +63,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -71,24 +72,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2019'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE690-2004
-    docid:
-    - id: IEEE 690-2004
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 690-2004
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Power cables
@@ -105,3 +88,5 @@ ics:
   text: Nuclear power plants. Safety
 - code: 29.060.20
   text: Cables
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: ANSIPN42.38a/D-1-2018-05
+schema-version: v1.2.1
+id: ANSIPN42.38a-D-1-2018-05
 title:
 - content: Draft American National Standard for Performance Criteria for Spectroscopy-Based
     Portal Monitors Used for Homeland Security
@@ -57,7 +58,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -71,6 +72,24 @@ copyright:
       content: ANSI
     url: https://www.ansi.org
   from: '2018'
+relation:
+- type: updates
+  bibitem:
+    id: ANSIN42.38-2015
+    docid:
+    - id: ANSI N42.38-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI N42.38-2015
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Monitoring
@@ -87,3 +106,5 @@ ics:
   text: Protection against crime
 - code: 71.040.50
   text: Physicochemical methods of analysis
+ext:
+  schema-version: v1.0.0

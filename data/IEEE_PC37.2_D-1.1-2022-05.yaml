@@ -1,5 +1,6 @@
 ---
-id: IEEEPC37.2/D-1.1-2022-05
+schema-version: v1.2.1
+id: IEEEPC37.2-D-1.1-2022-05
 title:
 - content: IEEE Approved Draft Standard Electrical Power System Device Function Numbers,
     Acronyms, and Contact Designations
@@ -66,7 +67,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -75,6 +76,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2022'
+relation:
+- type: updates
+  bibitem:
+    id: IEEEC37.2-2008
+    docid:
+    - id: IEEE C37.2-2008
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.2-2008
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Terminology
@@ -96,3 +115,5 @@ editorialgroup:
 ics:
 - code: '29.200'
   text: Rectifiers. Converters. Stabilized power supply
+ext:
+  schema-version: v1.0.0

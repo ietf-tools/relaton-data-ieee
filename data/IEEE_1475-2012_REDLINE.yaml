@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE1475-2012Redline
 title:
 - content: IEEE Standard for the Functioning of Interfaces Among Propulsion, Friction
@@ -61,7 +62,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -70,24 +71,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2013'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1475-1999
-    docid:
-    - id: IEEE 1475-1999
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1475-1999
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Railway communication
@@ -109,3 +92,5 @@ editorialgroup:
 ics:
 - code: 35.240.60
   text: IT applications in transport
+ext:
+  schema-version: v1.0.0

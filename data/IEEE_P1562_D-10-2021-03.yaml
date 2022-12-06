@@ -1,5 +1,6 @@
 ---
-id: IEEEP1562/D-10-2021-03
+schema-version: v1.2.1
+id: IEEEP1562-D-10-2021-03
 title:
 - content: IEEE Approved Draft Recommended Practice for Sizing of Stand-Alone Photovoltaic
     (PV) Systems
@@ -64,7 +65,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -73,6 +74,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2021'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1562-2007
+    docid:
+    - id: IEEE 1562-2007
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1562-2007
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Energy storage
@@ -93,3 +112,5 @@ editorialgroup:
 ics:
 - code: '27.160'
   text: Solar energy engineering
+ext:
+  schema-version: v1.0.0

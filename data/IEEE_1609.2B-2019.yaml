@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE1609.2b-2019
 title:
 - content: IEEE Standard for Wireless Access in Vehicular Environments--Security Services
@@ -62,7 +63,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -71,6 +72,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2019'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1609.2-2016
+    docid:
+    - id: IEEE 1609.2-2016
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1609.2-2016
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Cryptography
@@ -86,3 +105,5 @@ editorialgroup:
 ics:
 - code: 35.240.60
   text: IT applications in transport
+ext:
+  schema-version: v1.0.0

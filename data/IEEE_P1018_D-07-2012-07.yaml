@@ -1,5 +1,6 @@
 ---
-id: IEEEP1018/D-07-2012-07
+schema-version: v1.2.1
+id: IEEEP1018-D-07-2012-07
 title:
 - content: IEEE Draft Recommended Practice for Specifying Electric Submersible Pump
     Cable--Ethylene-Propylene Rubber Insulation
@@ -62,7 +63,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -71,24 +72,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2012'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1018-2004
-    docid:
-    - id: IEEE 1018-2004
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1018-2004
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Underwater cables
@@ -111,3 +94,5 @@ editorialgroup:
 ics:
 - code: 29.060.20
   text: Cables
+ext:
+  schema-version: v1.0.0

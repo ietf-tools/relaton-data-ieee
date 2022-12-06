@@ -1,5 +1,6 @@
 ---
-id: IEEEP7.4.3.2/D-4-2010-02
+schema-version: v1.2.1
+id: IEEEP7.4.3.2-D-4-2010-02
 title:
 - content: IEEE Approved Draft Standard Criteria for Digital Computers in Safety Systems
     of Nuclear Power Generating Stations
@@ -59,7 +60,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -69,23 +70,16 @@ copyright:
     url: http://www.ieee.org
   from: '2010'
 relation:
-- type: updates
+- type: obsoletedBy
   bibitem:
-    id: IEEE7.4.3.2-2003
+    id: IEEE7.4.3.2-2016
     docid:
-    - id: IEEE 7.4.3.2-2003
+    - id: IEEE 7.4.3.2-2016
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 7.4.3.2-2003
+      content: IEEE 7.4.3.2-2016
       format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Nuclear power generation
@@ -105,3 +99,5 @@ ics:
   text: Nuclear power plants. Safety
 - code: 35.240.99
   text: IT applications in other fields
+ext:
+  schema-version: v1.0.0

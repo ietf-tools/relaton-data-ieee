@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE1349-2021
 title:
 - content: IEEE Guide for the Application of Electric Machines in Zone 2 and Class
@@ -70,7 +71,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -79,6 +80,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2021'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1349-2011
+    docid:
+    - id: IEEE 1349-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1349-2011
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Variable speed drives
@@ -102,3 +121,5 @@ ics:
   text: Motors
 - code: 29.260.20
   text: Electrical apparatus for explosive atmospheres
+ext:
+  schema-version: v1.0.0

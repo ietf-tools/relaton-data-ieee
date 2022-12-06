@@ -1,5 +1,6 @@
 ---
-id: IEEEP1241/D-14-2022-06
+schema-version: v1.2.1
+id: IEEEP1241-D-14-2022-06
 title:
 - content: IEEE Draft Standard for Terminology and Test Methods for Analog-to-Digital
     Converters
@@ -47,7 +48,7 @@ script:
 - Latn
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -56,6 +57,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2022'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1241-2010
+    docid:
+    - id: IEEE 1241-2010
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1241-2010
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: AC-DC power converters
@@ -87,3 +106,5 @@ editorialgroup:
 ics:
 - code: '31.200'
   text: Integrated circuits. Microelectronics
+ext:
+  schema-version: v1.0.0

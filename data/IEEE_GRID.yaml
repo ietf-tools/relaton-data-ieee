@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEEGrid
 title:
 - content: IEEE Grid Vision 2050
@@ -62,7 +63,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -107,3 +108,5 @@ ics:
   text: Data communication networks
 - code: '33.200'
   text: Telecontrol. Telemetering
+ext:
+  schema-version: v1.0.0

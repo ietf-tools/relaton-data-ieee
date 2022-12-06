@@ -1,5 +1,6 @@
 ---
-id: IEEEP1482.1/D-1.0-2012-02
+schema-version: v1.2.1
+id: IEEEP1482.1-D-1.0-2012-02
 title:
 - content: IEEE Draft Standard for Rail Transit Vehicle Event Recorders
   format: text/plain
@@ -57,7 +58,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -66,24 +67,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2012'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1482.1-1999
-    docid:
-    - id: IEEE 1482.1-1999
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1482.1-1999
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Railway transportation
@@ -103,3 +86,5 @@ editorialgroup:
 ics:
 - code: 35.240.60
   text: IT applications in transport and trade
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IEEEP11073.10420/D-3-2020-02
+schema-version: v1.2.1
+id: IEEEP11073.10420-D-3-2020-02
 title:
 - content: 'IEEE Draft Standard - Health Informatics - Personal Health Device Communication
     Part 10420: Device Specialization - Body Composition Analyzer'
@@ -66,7 +67,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -75,6 +76,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2020'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE11073.10420-2010
+    docid:
+    - id: IEEE 11073.10420-2010
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 11073.10420-2010
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Medical devices
@@ -93,3 +112,5 @@ ics:
   text: Diagnostic equipment
 - code: 35.240.80
   text: IT applications in health care technology
+ext:
+  schema-version: v1.0.0

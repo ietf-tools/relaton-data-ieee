@@ -1,5 +1,6 @@
 ---
-id: ISO/IEEE11073.20702-2018
+schema-version: v1.2.1
+id: ISO-IEEE11073.20702-2018
 title:
 - content: 'ISO/IEEE International Standard for Health informatics -- Point-of-care
     medical device communication -- Part 20702: Medical devices communication profile
@@ -64,7 +65,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -75,6 +76,17 @@ copyright:
   - name:
     - content: ISO
   from: '2018'
+relation:
+- type: adoptedFrom
+  bibitem:
+    id: IEEE11073.20702-2016
+    docid:
+    - id: IEEE 11073.20702-2016
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 11073.20702-2016
+      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: ISO Standards
@@ -106,3 +118,5 @@ editorialgroup:
 ics:
 - code: 35.240.80
   text: IT applications in health care technology
+ext:
+  schema-version: v1.0.0

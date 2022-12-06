@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEEC57.19.01-2017
 title:
 - content: IEEE Standard for Performance Characteristics and Dimensions for Power
@@ -62,7 +63,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -71,24 +72,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2018'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC57.19.01-2000
-    docid:
-    - id: IEEE C57.19.01-2000
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C57.19.01-2000
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Capacitance
@@ -114,3 +97,5 @@ editorialgroup:
 ics:
 - code: 29.080.20
   text: Bushings
+ext:
+  schema-version: v1.0.0

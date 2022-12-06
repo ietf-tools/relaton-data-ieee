@@ -1,5 +1,6 @@
 ---
-id: ISO/IEC/IEEE29119.1-2022
+schema-version: v1.2.1
+id: ISO-IEC-IEEE29119.1-2022
 title:
 - content: ISO/IEC/IEEE International Standard - Software and systems engineering
     --Software testing --Part 1:General concepts
@@ -57,7 +58,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -73,7 +74,7 @@ copyright:
 relation:
 - type: updates
   bibitem:
-    id: ISO/IEC/IEEE29119.1-2013
+    id: ISO-IEC-IEEE29119.1-2013
     docid:
     - id: ISO/IEC/IEEE 29119.1-2013
       type: IEEE
@@ -101,3 +102,5 @@ editorialgroup:
 ics:
 - code: '35.080'
   text: Software
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE802.3cu-2021
 title:
 - content: 'IEEE Standard for Ethernet - Amendment 11: Physical Layers and Management
@@ -61,7 +62,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Superseded
+    value: approved
 copyright:
 - owner:
   - name:
@@ -71,16 +72,6 @@ copyright:
     url: http://www.ieee.org
   from: '2021'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: ISO/IEC/IEEE8802.3
-    docid:
-    - id: ISO/IEC/IEEE 8802.3
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ISO/IEC/IEEE 8802.3
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEE802.3-2018
@@ -128,3 +119,5 @@ ics:
   text: Physical layer
 - code: '35.110'
   text: Networking
+ext:
+  schema-version: v1.0.0

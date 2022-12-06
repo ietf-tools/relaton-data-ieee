@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEEC37.11-2014Redline
 title:
 - content: IEEE Standard Requirements for Electrical Control for AC High-Voltage (>1000
@@ -63,7 +64,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -72,24 +73,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2015'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC37.11-1997
-    docid:
-    - id: IEEE C37.11-1997
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.11-1997
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Circuit breakers
@@ -123,3 +106,5 @@ editorialgroup:
 ics:
 - code: 29.130.10
   text: High voltage switchgear and controlgear
+ext:
+  schema-version: v1.0.0

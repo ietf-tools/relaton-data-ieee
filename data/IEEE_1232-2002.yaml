@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE1232-2002
 title:
 - content: "(Replaced) IEEE Standard for Artificial Intelligence Exchange and Service
@@ -64,7 +65,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -74,23 +75,16 @@ copyright:
     url: http://www.ieee.org
   from: '2002'
 relation:
-- type: updates
+- type: obsoletedBy
   bibitem:
-    id: IEEE1232-1995
+    id: IEEE1232-2010
     docid:
-    - id: IEEE 1232-1995
+    - id: IEEE 1232-2010
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 1232-1995
+      content: IEEE 1232-2010
       format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Electronic data interchange
@@ -115,3 +109,5 @@ ics:
   text: Software
 - code: 35.240.50
   text: IT applications in industry
+ext:
+  schema-version: v1.0.0

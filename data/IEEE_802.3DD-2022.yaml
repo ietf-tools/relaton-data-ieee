@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE802.3dd-2022
 title:
 - content: 'IEEE Standard for Ethernet Amendment 1: Power over Data Lines of Single
@@ -59,7 +60,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -111,3 +112,5 @@ ics:
   text: Physical layer
 - code: '35.110'
   text: Networking
+ext:
+  schema-version: v1.0.0

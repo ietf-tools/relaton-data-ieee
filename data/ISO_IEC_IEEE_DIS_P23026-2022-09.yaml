@@ -1,5 +1,6 @@
 ---
-id: ISO/IEC/IEEEDISP23026-2022-09
+schema-version: v1.2.1
+id: ISO-IEC-IEEEDISP23026-2022-09
 title:
 - content: ISO/IEC/IEEE Draft International Standard - Systems and Software Engineering
     -- Engineering and Management of Websites for Systems, Software, and Services
@@ -48,7 +49,7 @@ script:
 - Latn
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -61,6 +62,24 @@ copyright:
   - name:
     - content: IEC
   from: '2022'
+relation:
+- type: updates
+  bibitem:
+    id: ISO-IEC-IEEE
+    docid:
+    - id: ISO/IEC/ IEEE
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ISO/IEC/ IEEE
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: ISO Standards
@@ -74,3 +93,5 @@ editorialgroup:
 ics:
 - code: '35.080'
   text: Software
+ext:
+  schema-version: v1.0.0

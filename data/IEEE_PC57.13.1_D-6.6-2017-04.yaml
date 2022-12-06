@@ -1,5 +1,6 @@
 ---
-id: IEEEPC57.13.1/D-6.6-2017-04
+schema-version: v1.2.1
+id: IEEEPC57.13.1-D-6.6-2017-04
 title:
 - content: IEEE Approved Draft Guide for Field Testing of Relaying Current Transformers
   format: text/plain
@@ -56,7 +57,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -65,24 +66,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2017'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC57.13.1-2006
-    docid:
-    - id: IEEE C57.13.1-2006
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C57.13.1-2006
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Power transformers
@@ -103,3 +86,5 @@ editorialgroup:
 ics:
 - code: '29.200'
   text: Rectifiers. Converters. Stabilized power supply
+ext:
+  schema-version: v1.0.0

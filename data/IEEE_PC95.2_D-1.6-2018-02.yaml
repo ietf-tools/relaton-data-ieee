@@ -1,5 +1,6 @@
 ---
-id: IEEEPC95.2/D-1.6-2018-02
+schema-version: v1.2.1
+id: IEEEPC95.2-D-1.6-2018-02
 title:
 - content: IEEE Draft Standard for Radio-Frequency Energy and Current-Flow Symbols
   format: text/plain
@@ -56,7 +57,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -65,24 +66,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2018'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC95.2-1999
-    docid:
-    - id: IEEE C95.2-1999
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C95.2-1999
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Energy management
@@ -110,3 +93,5 @@ ics:
     diagrams, charts and in relevant technical product documentation
 - code: '13.280'
   text: Radiation protection
+ext:
+  schema-version: v1.0.0

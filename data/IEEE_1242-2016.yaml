@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE1242-2016
 title:
 - content: IEEE Guide for Specifying and Selecting Power, Control, and Special-Purpose
@@ -60,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -69,24 +70,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2016'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1242-1999
-    docid:
-    - id: IEEE 1242-1999
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1242-1999
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Power cables
@@ -114,3 +97,5 @@ editorialgroup:
 ics:
 - code: 29.060.20
   text: Cables
+ext:
+  schema-version: v1.0.0

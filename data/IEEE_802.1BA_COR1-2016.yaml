@@ -1,5 +1,6 @@
 ---
-id: IEEE802.1BA/Cor1-2016
+schema-version: v1.2.1
+id: IEEE802.1BA-Cor1-2016
 title:
 - content: 'IEEE Standard for Local and metropolitan area networks-- Audio Video Bridging
     (AVB) Systems-- Corrigendum 1: Technical and Editorial Corrections'
@@ -23,6 +24,8 @@ docid:
   type: DOI
 docnumber: IEEE 802.1BA/Cor1-2016
 date:
+- type: updated
+  value: '2016-08-12'
 - type: created
   value: '2016'
 - type: published
@@ -36,10 +39,6 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-    contact:
-    - address:
-        city: New York
-        country: USA
   role:
   - type: publisher
 revdate: '2016-07-25'
@@ -57,7 +56,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Superseded
+    value: approved
 copyright:
 - owner:
   - name:
@@ -103,10 +102,13 @@ keyword:
 - content: metropolitan area networks
 - content: time sensitive data streams
 - content: Virtual Bridged Local Area Networks
-- content: virtual LANs.
+- content: virtual LANs. (The PDF of this standard is available at no cost compliments
+    of the IEEE GET program http://ieeexplore.ieee.org/browse/standards/get-program/page/)
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society
 ics:
 - code: '35.110'
   text: Networking
+ext:
+  schema-version: v1.0.0

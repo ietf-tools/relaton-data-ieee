@@ -1,5 +1,6 @@
 ---
-id: IEEEP145/D-D2-2013
+schema-version: v1.2.1
+id: IEEEP145-D-D2-2013
 title:
 - content: IEEE Draft Standard for Definitions of Terms for Antennas
   format: text/plain
@@ -54,7 +55,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -63,24 +64,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2013'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE145-1993
-    docid:
-    - id: IEEE 145-1993
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 145-1993
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Antennas
@@ -99,3 +82,5 @@ ics:
   text: Telecommunications. Audio and video engineering (Vocabularies)
 - code: 33.120.40
   text: Aerials
+ext:
+  schema-version: v1.0.0

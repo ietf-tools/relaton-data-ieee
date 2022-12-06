@@ -1,5 +1,6 @@
 ---
-id: ISO/IEC/IEEECDP23026-2022-01
+schema-version: v1.2.1
+id: ISO-IEC-IEEECDP23026-2022-01
 title:
 - content: ISO/IEC/IEEE International Standard - Systems and Software Engineering
     -- Content Management for Product Life Cycle, User, and Service Management Documentation
@@ -47,7 +48,7 @@ script:
 - Latn
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -60,6 +61,24 @@ copyright:
   - name:
     - content: IEC
   from: '2022'
+relation:
+- type: updates
+  bibitem:
+    id: ISO-IEC-IEEE
+    docid:
+    - id: ISO/IEC/ IEEE
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ISO/IEC/ IEEE
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: ISO Standards
@@ -74,3 +93,5 @@ editorialgroup:
 ics:
 - code: '35.080'
   text: Software
+ext:
+  schema-version: v1.0.0

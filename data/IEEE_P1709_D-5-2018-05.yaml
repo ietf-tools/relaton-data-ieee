@@ -1,5 +1,6 @@
 ---
-id: IEEEP1709/D-5-2018-05
+schema-version: v1.2.1
+id: IEEEP1709-D-5-2018-05
 title:
 - content: IEEE Draft Recommended Practice for 1 kV to 35 kV Medium-Voltage DC Power
     Systems on Ships
@@ -59,7 +60,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -68,6 +69,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2018'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1709-2010
+    docid:
+    - id: IEEE 1709-2010
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1709-2010
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Marine vehicles
@@ -90,3 +109,5 @@ editorialgroup:
 ics:
 - code: 47.020.60
   text: Electrical equipment of ships and of marine structures
+ext:
+  schema-version: v1.0.0

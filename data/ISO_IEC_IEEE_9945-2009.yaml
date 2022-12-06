@@ -1,12 +1,13 @@
 ---
-id: ISO/IEC/IEEE9945-2009
+schema-version: v1.2.1
+id: ISO-IEC-IEEE9945-2009
 title:
-- content: ISO/IEC/IEEE International Standard - Information Technology--Portable
-    Operating System Interface (POSIX(TM))-- Technical Corrigendum 2
+- content: IEEE/ISO/IEC International Standard - Information technology Portable Operating
+    System Interface (POSIX(TM)) Base Specifications, Issue 7
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8393482
+- content: https://ieeexplore.ieee.org/document/5393893
   type: src
 type: standard
 docid:
@@ -17,18 +18,20 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-4992-2
+- id: 978-0-7381-6032-0
   type: ISBN
-- id: 10.1109/IEEESTD.2018.8393482
+- id: 10.1109/IEEESTD.2009.5393893
   type: DOI
 docnumber: ISO/IEC/IEEE 9945-2009
 date:
+- type: updated
+  value: '2010-03-05'
 - type: created
-  value: '2018'
+  value: '2009'
 - type: published
-  value: '2018-06-22'
+  value: '2016-01-29'
 - type: issued
-  value: '2018'
+  value: '2009'
 contributor:
 - organization:
     name:
@@ -36,20 +39,39 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-    contact:
-    - address:
-        city: New York
-        country: USA
   role:
   - type: publisher
-revdate: '2018-06-22'
+revdate: '2016-01-29'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Problems discovered since the approval of IEEE Std 1003.1-2008 and IEEE
-    Std 1003.1-2008/Cor 1-2013 are addressed.
+- content: 'POSIX.1-2008 is simultaneously IEEE Std 1003.1-2008? and The Open Group
+    Technical Standard Base Specifications, Issue 7. POSIX.1-2008 defines a standard
+    operating system interface and environment, including a command interpreter (or
+    "shell"), and common utility programs to support applications portability at the
+    source code level. POSIX.1-2008 is intended to be used by both application developers
+    and system implementors and comprises four major components (each in an associated
+    volume): a) General terms, concepts, and interfaces common to all volumes of this
+    standard, including utility conventions and C-language header definitions, are
+    included in the Base Definitions volume. b) Definitions for system service functions
+    and subroutines, language-specific system services for the C programming language,
+    function issues, including portability, error handling, and error recovery, are
+    included in the System Interfaces volume. c) Definitions for a standard source
+    code-level interface to command interpretation services (a "shell") and common
+    utility programs for application programs are included in the Shell and Utilities
+    volume.d) Extended rationale that did not fit well into the rest of the document
+    structure, which contains historical information concerning the contents of POSIX.1-2008
+    and why features were included or discarded by the standard developers, is included
+    in the Rationale (Informative) volume. The following areas are outside the scope
+    of POSIX.1-2008:1)Graphics interfaces 2)Database management system interfaces
+    3)Record I/O considerations 4) Object or binary code portability 5) System configuration
+    and resource availability POSIX.1-2008 describes the external characteristics
+    and facilities that are of importance to application developers, rather than the
+    internal construction techniques employed to achieve these capabilities. Special
+    emphasis is placed on those functions and facilities that are needed in a wide
+    variety of commercial applications.'
   language:
   - en
   script:
@@ -57,7 +79,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -65,45 +87,48 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  - name:
-    - content: ISO
-  - name:
-    - content: IEC
-  from: '2018'
+  from: '2009'
 keyword:
-- content: IEEE Standards
-- content: ISO Standards
-- content: IEC Standards
+- content: IEEE standards
 - content: Operating systems
+- content: Data mining
 - content: Information technology
-- content: Application programming interfaces
-- content: API
-- content: application program interface
+- content: Application programming interface
+- content: Central processing units
+- content: File access control
+- content: Portable operating system interfaces
+- content: 1003.1-2008
+- content: application program interface (API)
 - content: argument
 - content: asynchronous
-- content: basic regular expression
+- content: basic regular expression (BRE)
 - content: batch job
 - content: batch system
-- content: BRE
 - content: built-in utility
 - content: byte
 - content: child
 - content: command language interpreter
 - content: CPU
-- content: ERE
-- content: extended regular expression
+- content: extended regular expression (ERE)
 - content: FIFO
 - content: file access control mechanism
-- content: IEEE 1003.1&#8482;
-- content: input/output
-- content: I/O
+- content: input/output (I/O)
 - content: job control
 - content: network
-- content: portable operating system interface
-- content: POSIX(TM)
+- content: portable operating system interface (POSIX)
+- content: parent
+- content: shell
+- content: stream
+- content: string
+- content: synchronous
+- content: system
+- content: thread
+- content: X/Open System Interface (XSI)
 editorialgroup:
   committee:
   - Portable Applications of the IEEE Computer Society
 ics:
-- code: '35.060'
-  text: Languages used in information technology
+- code: '35.080'
+  text: Software
+ext:
+  schema-version: v1.0.0

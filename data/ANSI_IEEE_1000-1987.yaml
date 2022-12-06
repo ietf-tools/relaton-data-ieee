@@ -1,5 +1,6 @@
 ---
-id: ANSI/IEEE1000-1987
+schema-version: v1.2.1
+id: ANSI-IEEE1000-1987
 title:
 - content: 'IEEE Standard for an 8-Bit Backplane Interface: STEbus'
   format: text/plain
@@ -63,7 +64,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -84,3 +85,5 @@ editorialgroup:
 ics:
 - code: '35.160'
   text: Microprocessor systems
+ext:
+  schema-version: v1.0.0

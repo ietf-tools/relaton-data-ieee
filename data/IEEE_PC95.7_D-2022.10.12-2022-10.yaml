@@ -1,5 +1,6 @@
 ---
-id: IEEEPC95.7/D-2022.10.12-2022-10
+schema-version: v1.2.1
+id: IEEEPC95.7-D-2022.10.12-2022-10
 title:
 - content: IEEE Draft Standard for Electromagnetic Energy Safety Programs, 0 Hz to
     300 GHz
@@ -63,7 +64,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -72,6 +73,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2022'
+relation:
+- type: updates
+  bibitem:
+    id: IEEEC95.7-2014
+    docid:
+    - id: IEEE C95.7-2014
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C95.7-2014
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Electromagnetic fields
@@ -111,3 +130,5 @@ editorialgroup:
 ics:
 - code: '13.280'
   text: Radiation protection
+ext:
+  schema-version: v1.0.0

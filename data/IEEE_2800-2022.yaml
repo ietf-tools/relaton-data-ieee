@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE2800-2022
 title:
 - content: IEEE Standard for Interconnection and Interoperability of Inverter-Based
@@ -68,7 +69,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -137,3 +138,5 @@ ics:
   text: Power transmission and distribution networks in general
 - code: 29.240.99
   text: Other equipment related to power transmission and distribution networks
+ext:
+  schema-version: v1.0.0

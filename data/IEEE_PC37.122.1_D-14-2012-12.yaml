@@ -1,5 +1,6 @@
 ---
-id: IEEEPC37.122.1/D-14-2012-12
+schema-version: v1.2.1
+id: IEEEPC37.122.1-D-14-2012-12
 title:
 - content: IEEE Draft Guide for Gas-Insulated Substations Rated Above 52 kV
   format: text/plain
@@ -60,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -69,24 +70,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2013'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC37.122.1-1993
-    docid:
-    - id: IEEE C37.122.1-1993
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.122.1-1993
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Gas insulation
@@ -115,3 +98,5 @@ editorialgroup:
 ics:
 - code: '27.100'
   text: Power stations in general
+ext:
+  schema-version: v1.0.0

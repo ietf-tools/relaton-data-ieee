@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE1609.3-2020Redline
 title:
 - content: IEEE Standard for Wireless Access in Vehicular Environments (WAVE)--Networking
@@ -62,7 +63,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -71,6 +72,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2021'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1609.3-2016
+    docid:
+    - id: IEEE 1609.3-2016
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1609.3-2016
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Intelligent transportation systems
@@ -90,3 +109,5 @@ ics:
   text: Networking
 - code: 35.240.60
   text: IT applications in transport
+ext:
+  schema-version: v1.0.0

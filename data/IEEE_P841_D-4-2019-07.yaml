@@ -1,5 +1,6 @@
 ---
-id: IEEEP841/D-4-2019-07
+schema-version: v1.2.1
+id: IEEEP841-D-4-2019-07
 title:
 - content: IEEE Draft Standard for Petroleum and Chemical Industry--Premium-Efficiency,
     Severe-Duty, Totally Enclosed Fan-Cooled (TEFC) Squirrel Cage Induction Motors--Up
@@ -48,7 +49,7 @@ script:
 - Latn
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -57,6 +58,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2019'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE841-2009
+    docid:
+    - id: IEEE 841-2009
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 841-2009
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Petroleum
@@ -71,3 +90,5 @@ editorialgroup:
 ics:
 - code: 29.160.30
   text: Motors
+ext:
+  schema-version: v1.0.0

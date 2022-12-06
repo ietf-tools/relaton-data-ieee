@@ -1,5 +1,6 @@
 ---
-id: IEEEP638/D-10-2013-08
+schema-version: v1.2.1
+id: IEEEP638-D-10-2013-08
 title:
 - content: IEEE Draft Standard for Qualification of Class 1E Transformers for Nuclear
     Power Generating Stations
@@ -60,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -69,24 +70,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2013'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE638-1992
-    docid:
-    - id: IEEE 638-1992
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 638-1992
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: Qualifications
 - content: Nuclear power generation
@@ -103,3 +86,5 @@ editorialgroup:
 ics:
 - code: '29.180'
   text: Transformers. Reactors
+ext:
+  schema-version: v1.0.0

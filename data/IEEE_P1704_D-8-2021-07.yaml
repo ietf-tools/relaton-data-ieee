@@ -1,5 +1,6 @@
 ---
-id: IEEEP1704/D-8-2021-07
+schema-version: v1.2.1
+id: IEEEP1704-D-8-2021-07
 title:
 - content: IEEE Draft Guide for Accelerated Aging Tests for 5 kV to 46 kV Extruded
     Electric Power Cables Using Water-Filled Tanks
@@ -47,7 +48,7 @@ script:
 - Latn
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -56,6 +57,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2021'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1407-2007
+    docid:
+    - id: IEEE 1407-2007
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1407-2007
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Aging
@@ -83,3 +102,5 @@ editorialgroup:
 ics:
 - code: 29.060.20
   text: Cables
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE1175
 title:
 - content: IEEE Standard Reference Model for Computing System Tool Interconnections
@@ -64,7 +65,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -90,3 +91,5 @@ editorialgroup:
 ics:
 - code: '35.080'
   text: Software
+ext:
+  schema-version: v1.0.0

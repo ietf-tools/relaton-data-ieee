@@ -1,5 +1,6 @@
 ---
-id: IEEEP802.3bp/D-3.1-2016-01
+schema-version: v1.2.1
+id: IEEEP802.3bp-D-3.1-2016-01
 title:
 - content: 'IEEE Standard for Ethernet Amendment 4: Physical Layer Specifications
     and Management Parameters for 1 Gb/s Operation over a Single Twisted-Pair Copper
@@ -57,7 +58,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -69,7 +70,7 @@ copyright:
 relation:
 - type: obsoletedBy
   bibitem:
-    id: ISO/IEC/IEEE8802.3/Amd4-2017
+    id: ISO-IEC-IEEE8802.3-Amd4-2017
     docid:
     - id: ISO/IEC/IEEE 8802.3/Amd4-2017
       type: IEEE
@@ -97,3 +98,5 @@ ics:
   text: Physical layer
 - code: '35.110'
   text: Networking
+ext:
+  schema-version: v1.0.0

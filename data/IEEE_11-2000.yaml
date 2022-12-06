@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE11-2000
 title:
 - content: IEEE Standard for Rotating Electric Machinery for Rail and Road Vehicles
@@ -58,7 +59,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -77,3 +78,5 @@ ics:
   text: Motors
 - code: '29.280'
   text: Electric traction equipment
+ext:
+  schema-version: v1.0.0

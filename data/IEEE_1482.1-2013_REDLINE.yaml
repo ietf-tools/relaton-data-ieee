@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE1482.1-2013Redline
 title:
 - content: IEEE Standard for Rail Transit Vehicle Event Recorders
@@ -60,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -69,24 +70,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2014'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1482.1-1999
-    docid:
-    - id: IEEE 1482.1-1999
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1482.1-1999
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Rail transportation
@@ -107,3 +90,5 @@ editorialgroup:
 ics:
 - code: 35.240.60
   text: IT applications in transport and trade
+ext:
+  schema-version: v1.0.0

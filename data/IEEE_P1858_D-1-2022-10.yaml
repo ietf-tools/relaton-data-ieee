@@ -1,5 +1,6 @@
 ---
-id: IEEEP1858/D-1-2022-10
+schema-version: v1.2.1
+id: IEEEP1858-D-1-2022-10
 title:
 - content: IEEE Draft Standard for Camera Phone Image Quality (CPIQ)
   format: text/plain
@@ -59,7 +60,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -68,6 +69,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2022'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1858-2016
+    docid:
+    - id: IEEE 1858-2016
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1858-2016
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Cameras
@@ -87,3 +106,5 @@ editorialgroup:
 ics:
 - code: 37.040.10
   text: Photographic equipment. Projectors
+ext:
+  schema-version: v1.0.0

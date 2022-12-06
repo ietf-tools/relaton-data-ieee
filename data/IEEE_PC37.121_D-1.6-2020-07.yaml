@@ -1,5 +1,6 @@
 ---
-id: IEEEPC37.121/D-1.6-2020-07
+schema-version: v1.2.1
+id: IEEEPC37.121-D-1.6-2020-07
 title:
 - content: IEEE Approved Draft Guide for Switchgear - Unit Substation - Requirements
   format: text/plain
@@ -61,7 +62,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -70,6 +71,41 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2020'
+relation:
+- type: updates
+  bibitem:
+    id: IEEEC37.121-2012
+    docid:
+    - id: IEEE C37.121-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.121-2012
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC37.121-2012
+    docid:
+    - id: IEEE C37.121-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.121-2012
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Switchgear
@@ -111,3 +147,5 @@ editorialgroup:
 ics:
 - code: 29.130.10
   text: High voltage switchgear and controlgear
+ext:
+  schema-version: v1.0.0

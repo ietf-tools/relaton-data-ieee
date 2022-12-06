@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE421.2-2014Redline
 title:
 - content: IEEE Guide for Identification, Testing, and Evaluation of the Dynamic Performance
@@ -60,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -69,24 +70,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2014'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE421.2-1990
-    docid:
-    - id: IEEE 421.2-1990
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 421.2-1990
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: closed loop systems
@@ -110,3 +93,5 @@ editorialgroup:
 ics:
 - code: 29.160.10
   text: Components for rotating machinery
+ext:
+  schema-version: v1.0.0

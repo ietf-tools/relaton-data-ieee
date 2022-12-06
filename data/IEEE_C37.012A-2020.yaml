@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEEC37.012a-2020
 title:
 - content: IEEE Guide for the Application of Capacitance Current Switching for AC
@@ -62,7 +63,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -71,6 +72,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2020'
+relation:
+- type: updates
+  bibitem:
+    id: IEEEC37.012-2014
+    docid:
+    - id: IEEE C37.012-2014
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.012-2014
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Circuit breakers
@@ -90,3 +109,5 @@ editorialgroup:
 ics:
 - code: 29.120.40
   text: Switches
+ext:
+  schema-version: v1.0.0

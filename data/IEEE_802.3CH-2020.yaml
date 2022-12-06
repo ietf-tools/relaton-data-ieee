@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE802.3ch-2020
 title:
 - content: IEEE Standard for Ethernet--Amendment 8:Physical Layer Specifications and
@@ -24,6 +25,8 @@ docid:
   type: DOI
 docnumber: IEEE 802.3ch-2020
 date:
+- type: updated
+  value: '2020-08-07'
 - type: created
   value: '2020'
 - type: published
@@ -59,7 +62,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Superseded
+    value: approved
 copyright:
 - owner:
   - name:
@@ -69,16 +72,6 @@ copyright:
     url: http://www.ieee.org
   from: '2020'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE/ISO/IEC8802.3/Amd8-2021
-    docid:
-    - id: IEEE/ISO/IEC 8802.3/Amd8-2021
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE/ISO/IEC 8802.3/Amd8-2021
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEE802.3-2018
@@ -114,3 +107,5 @@ ics:
   text: Physical layer
 - code: '35.110'
   text: Networking
+ext:
+  schema-version: v1.0.0

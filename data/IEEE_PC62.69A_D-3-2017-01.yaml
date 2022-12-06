@@ -1,5 +1,6 @@
 ---
-id: IEEEPC62.69a/D-3-2017-01
+schema-version: v1.2.1
+id: IEEEPC62.69a-D-3-2017-01
 title:
 - content: 'IEEE Approved Draft Standard for the Surge Parameters of Isolating Transformers
     used in Networking Devices and Equipment Amendment 1: Addition of 4.5, Saturated
@@ -58,7 +59,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -67,6 +68,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2017'
+relation:
+- type: updates
+  bibitem:
+    id: IEEEC62.69-2016
+    docid:
+    - id: IEEE C62.69-2016
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C62.69-2016
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Transformers
@@ -82,3 +101,5 @@ ics:
   text: Transformers. Reactors
 - code: '35.110'
   text: Networking
+ext:
+  schema-version: v1.0.0

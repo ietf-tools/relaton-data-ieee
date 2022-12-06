@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE1584-2018Redline
 title:
 - content: IEEE Guide for Performing Arc-Flash Hazard Calculations
@@ -58,7 +59,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -67,24 +68,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2018'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1584-2002
-    docid:
-    - id: IEEE 1584-2002
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1584-2002
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Arc discharges
@@ -114,3 +97,5 @@ editorialgroup:
 ics:
 - code: 29.260.99
   text: Other electrical equipment for working in special conditions
+ext:
+  schema-version: v1.0.0

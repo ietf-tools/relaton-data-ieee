@@ -1,5 +1,6 @@
 ---
-id: IEC/IEEE60780
+schema-version: v1.2.1
+id: IEC-IEEE60780
 title:
 - content: IEC/IEEE International Standard - Nuclear facilities -- Electrical equipment
     important to safety -- Qualification
@@ -51,7 +52,7 @@ script:
 - Latn
 docstatus:
   stage:
-    value: Active
+    value: approved
 copyright:
 - owner:
   - name:
@@ -62,24 +63,6 @@ copyright:
   - name:
     - content: IEC
   from: '2016'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE323-2003
-    docid:
-    - id: IEEE 323-2003
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 323-2003
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: IEC Standards
@@ -109,3 +92,5 @@ editorialgroup:
 ics:
 - code: 27.120.99
   text: Other standards related to nuclear energy
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: ISO/IEC/IEEECDP29119.2/E-2-2019-08
+schema-version: v1.2.1
+id: ISO-IEC-IEEECDP29119.2-E-2-2019-08
 title:
 - content: 'ISO/IEC/IEEE Draft International Standard - Software and systems engineering
     - Software testing -- Part 2: Test processes'
@@ -47,7 +48,7 @@ script:
 - Latn
 docstatus:
   stage:
-    value: Inactive
+    value: inapproved
 copyright:
 - owner:
   - name:
@@ -60,6 +61,41 @@ copyright:
   - name:
     - content: IEC
   from: '2019'
+relation:
+- type: updates
+  bibitem:
+    id: ISO-IEC-IEEE29119.2-2013
+    docid:
+    - id: ISO/IEC/IEEE 29119.2-2013
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ISO/IEC/IEEE 29119.2-2013
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: ISO-IEC-IEEE29119.2-2013
+    docid:
+    - id: ISO/IEC/IEEE 29119.2-2013
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ISO/IEC/IEEE 29119.2-2013
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: IEC Standards
@@ -73,3 +109,5 @@ editorialgroup:
 ics:
 - code: '35.080'
   text: Software
+ext:
+  schema-version: v1.0.0

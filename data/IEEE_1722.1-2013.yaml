@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE1722.1-2013
 title:
 - content: IEEE Standard for Device Discovery, Connection Management, and Control
@@ -23,6 +24,8 @@ docid:
   type: DOI
 docnumber: IEEE 1722.1-2013
 date:
+- type: updated
+  value: '2013-12-23'
 - type: created
   value: '2013-10-10'
 - type: published
@@ -36,10 +39,6 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-    contact:
-    - address:
-        city: New York
-        country: USA
   role:
   - type: publisher
 revdate: '2013-10-10'
@@ -59,7 +58,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: Superseded
+    value: approved
 copyright:
 - owner:
   - name:
@@ -68,17 +67,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2013'
-relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE1722.1-2021
-    docid:
-    - id: IEEE 1722.1-2021
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1722.1-2021
-      format: text/plain
 keyword:
 - content: IEEE standards
 - content: Local area networks
@@ -106,3 +94,5 @@ editorialgroup:
 ics:
 - code: '35.110'
   text: Networking
+ext:
+  schema-version: v1.0.0
