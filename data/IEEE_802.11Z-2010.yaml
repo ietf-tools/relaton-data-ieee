@@ -1,0 +1,111 @@
+---
+schema-version: v1.2.1
+id: IEEE802.11z-2010
+title:
+- content: 'IEEE Standard for Information technology-- Local and metropolitan area
+    networks-- Specific requirements-- Part 11: Wireless LAN Medium Access Control
+    (MAC) and Physical Layer (PHY) specifications Amendment 7: Extensions to Direct-Link
+    Setup (DLS)'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/5605400
+  type: src
+type: standard
+docid:
+- id: IEEE 802.11z-2010
+  type: IEEE
+  primary: true
+- id: IEEE 802.11z®-2010
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-0-7381-6499-1
+  type: ISBN
+- id: 10.1109/IEEESTD.2010.5605400
+  type: DOI
+docnumber: IEEE 802.11z-2010
+date:
+- type: updated
+  value: '2010-11-01'
+- type: created
+  value: '2010-10-14'
+- type: published
+  value: '2019-04-05'
+- type: issued
+  value: '2010-09-30'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  role:
+  - type: publisher
+revdate: '2019-04-05'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This amendment provides direct-link setup enhancements to the IEEE 802.11
+    MAC and PHY, extending direct-link setup to be independent of the access point
+    (AP), and adding power save capabilities. The direct-link setup is made independent
+    of the AP by tunneling the protocol messages inside data frames.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: superseded
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2010'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE802.11-2007
+    docid:
+    - id: IEEE 802.11-2007
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.11-2007
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE standards
+- content: Information technology
+- content: Local area networks
+- content: Metropolitan area networks
+- content: channel switching
+- content: direct link
+- content: off-channel direct link
+- content: power saving
+- content: tunneled directlink setup
+editorialgroup:
+  committee:
+  - LAN/MAN Standards Committee of the IEEE Computer Society
+ics:
+- code: 35.100.10
+  text: Physical layer
+- code: '35.110'
+  text: Networking
+- code: 35.100.20
+  text: Data link layer
+ext:
+  schema-version: v1.0.0

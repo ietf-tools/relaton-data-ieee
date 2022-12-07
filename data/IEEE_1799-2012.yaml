@@ -24,8 +24,6 @@ docid:
   type: DOI
 docnumber: IEEE 1799-2012
 date:
-- type: updated
-  value: '2013-01-18'
 - type: created
   value: '2012-11-30'
 - type: published
@@ -39,6 +37,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2012-11-30'
@@ -57,7 +59,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: superseded
 copyright:
 - owner:
   - name:
@@ -84,7 +86,7 @@ keyword:
 - content: ultraviolet radiation
 editorialgroup:
   committee:
-  - Electric Machinery of the IEEE Power &amp; Energy Society
+  - Electric Machinery of the IEEE Power and Energy Society
 ics:
 - code: 29.160.01
   text: Rotating machinery in general

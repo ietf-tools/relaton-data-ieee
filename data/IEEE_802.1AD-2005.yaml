@@ -1,0 +1,111 @@
+---
+schema-version: v1.2.1
+id: IEEE802.1ad-2005
+title:
+- content: 'IEEE Standard for Local and Metropolitan Area Networks---Virtual Bridged
+    Local Area Networks---Amendment 4: Provider Bridges'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/6044678
+  type: src
+type: standard
+docid:
+- id: IEEE 802.1ad-2005
+  type: IEEE
+  primary: true
+- id: IEEE 802.1ad®-2005
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-0-7381-4874-8
+  type: ISBN
+- id: 10.1109/IEEESTD.2006.6044678
+  type: DOI
+docnumber: IEEE 802.1ad-2005
+date:
+- type: updated
+  value: '2011-11-07'
+- type: created
+  value: '2006-05-26'
+- type: published
+  value: '2019-04-05'
+- type: issued
+  value: '2005-12-07'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  role:
+  - type: publisher
+revdate: '2019-04-05'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This amendment enables a service provider to use the architecture and protocols
+    of IEEE Std 802.1 Q to offer the equivalent of separate LANs, Bridged Local Area
+    Networks, or Virtual Bridged Local Area Networks to a number of customers, while
+    requiring no cooperation between the customers, and minimal cooperation between
+    each customer and the service provider.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: superseded
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2006'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE802.1Q-2005
+    docid:
+    - id: IEEE 802.1Q-2005
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1Q-2005
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE standards
+- content: Local area networks
+- content: Metropolitan aea networks
+- content: Media Access Protocol
+- content: Virtual environments
+- content: Bridged Local Area Networks
+- content: local area networks (LANs)
+- content: MAC Bridges
+- content: metropolitan area networks
+- content: Multiple Spanning Tree Protocol (MSTP)
+- content: Rapid Spanning Tree Protocol (RSTP)
+- content: Virtual Bridged Local Area Networks (virtual LANs)
+editorialgroup:
+  committee:
+  - LAN/MAN Standards Committee of the IEEE Computer Society
+ics:
+- code: '35.110'
+  text: Networking
+- code: 35.100.20
+  text: Data link layer
+ext:
+  schema-version: v1.0.0

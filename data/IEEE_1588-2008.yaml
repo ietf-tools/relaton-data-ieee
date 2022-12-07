@@ -63,7 +63,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: superseded
 copyright:
 - owner:
   - name:
@@ -73,6 +73,16 @@ copyright:
     url: http://www.ieee.org
   from: '2008'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE1588-2019
+    docid:
+    - id: IEEE 1588-2019
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1588-2019
+      format: text/plain
 - type: updates
   bibitem:
     id: IEEE1588-2002
@@ -91,6 +101,13 @@ relation:
     - Latn
     format: text/plain
 keyword:
+- content: IEEE Standards
+- content: Standards
+- content: Clocks
+- content: Trademarks
+- content: Synchronization
+- content: Protocols
+- content: Patents
 - content: 1588-2008
 - content: boundary clock
 - content: clock

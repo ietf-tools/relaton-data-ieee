@@ -1,0 +1,122 @@
+---
+schema-version: v1.2.1
+id: IEEE946-2004
+title:
+- content: IEEE Recommended Practice for the Design of DC Auxiliary Power Systems
+    for Generating Systems
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/1453057
+  type: src
+type: standard
+docid:
+- id: IEEE 946-2004
+  type: IEEE
+  primary: true
+- id: IEEE 946™-2004
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-0-7381-4640-9
+  type: ISBN
+- id: 10.1109/IEEESTD.2005.96206
+  type: DOI
+docnumber: IEEE 946-2004
+date:
+- type: created
+  value: '2005'
+- type: published
+  value: '2012-05-17'
+- type: issued
+  value: '2004-12-08'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2012-05-17'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Revision of IEEE Std 946-1992. Guidance for the design of the DC auxiliary
+    power systems for nuclear and non-nuclear power generating stations is provided
+    by this recommended practice. The components of the DC auxiliary power system
+    addressed by this recommended practice include lead-acid storage batteries, static
+    battery chargers, and distribution equipment. Guidance for selecting the quantity
+    and types of equipment, the equipment ratings, interconnections, instrumentation,
+    control and protection is also provided.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: superseded
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2005'
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE946-2004
+    docid:
+    - id: IEEE 946-2004
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 946-2004
+      format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE946-2004
+    docid:
+    - id: IEEE 946-2004
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 946-2004
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: battery
+- content: battery charger
+- content: cross-tie
+- content: dc
+- content: duty cycle
+- content: generating station
+- content: ground detection
+- content: instrumentation
+- content: nuclear
+- content: short circuit
+editorialgroup:
+  committee:
+  - Energy Storage &amp; Stationary Battery Committee of the IEEE Power and Energy
+    Society
+ics:
+- code: 27.120.20
+  text: Nuclear power plants. Safety
+ext:
+  schema-version: v1.0.0

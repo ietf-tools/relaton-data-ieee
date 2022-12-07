@@ -1,0 +1,122 @@
+---
+schema-version: v1.2.1
+id: IEEE67-1990
+title:
+- content: IEEE Guide for Operation and Maintenance of Turbine Generators
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/89663
+  type: src
+type: standard
+docid:
+- id: IEEE 67-1990
+  type: IEEE
+  primary: true
+- id: IEEE 67™-1990
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-0-7381-0764-6
+  type: ISBN
+- id: 10.1109/IEEESTD.1990.94588
+  type: DOI
+docnumber: IEEE 67-1990
+date:
+- type: created
+  value: '1990'
+- type: published
+  value: '2019-04-05'
+- type: issued
+  value: '1990-02-15'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2019-04-05'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Superseded by IEEE Std 67-2006 General recommendations for the operation,
+    loading, and maintenance of turbine-driven synchronous generators having cylindrical
+    rotors are provided. The manufacturer's and user's responsibility is discussed,
+    and the classification of generators and the basis on which they are rated are
+    covered. Mechanical considerations are also addressed.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: superseded
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '1990'
+relation:
+- type: updates
+  bibitem:
+    id: ANSI-IEEE67-1972
+    docid:
+    - id: ANSI/IEEE 67-1972
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI/IEEE 67-1972
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE67-2005
+    docid:
+    - id: IEEE 67-2005
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 67-2005
+      format: text/plain
+keyword:
+- content: Maintenance
+- content: Machine windings
+- content: Synchronous generators
+- content: Turbogenerators
+- content: cylindrical rotors
+- content: operation
+- content: Maintenance
+- content: turbine generators
+- content: turbine driven
+- content: synchronous
+- content: reactive capability
+- content: rotor windings
+- content: stator windings
+- content: Turbine-driven synchronous generator
+editorialgroup:
+  committee:
+  - Electric Machinery of the IEEE Power and Energy Society
+ics:
+- code: 29.160.20
+  text: Generators
+ext:
+  schema-version: v1.0.0

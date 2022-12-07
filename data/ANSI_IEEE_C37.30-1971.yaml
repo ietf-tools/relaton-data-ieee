@@ -1,0 +1,87 @@
+---
+schema-version: v1.2.1
+id: ANSI-IEEEC37.30-1971
+title:
+- content: American National Standard Definitions and Requirements for High-Voltage
+    Air Switches, Insulators, and Bus Supports
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/578049
+  type: src
+type: standard
+docid:
+- id: ANSI/IEEE C37.30-1971
+  type: IEEE
+  primary: true
+- id: ANSI/IEEE C37.30™-1971
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-0-7381-4277-7
+  type: ISBN
+- id: 10.1109/IEEESTD.1971.81976
+  type: DOI
+docnumber: ANSI/IEEE C37.30-1971
+date:
+- type: created
+  value: '1971'
+- type: issued
+  value: '1977-12-15'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: superseded
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '1971'
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEEC37.30-1992
+    docid:
+    - id: IEEE C37.30-1992
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.30-1992
+      format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEEC37.30-1992
+    docid:
+    - id: IEEE C37.30-1992
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.30-1992
+      format: text/plain
+editorialgroup:
+  committee:
+  - Switchgear of the IEEE Power and Energy Society
+ics:
+- code: 29.130.10
+  text: High voltage switchgear and controlgear
+ext:
+  schema-version: v1.0.0

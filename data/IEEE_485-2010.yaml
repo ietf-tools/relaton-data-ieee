@@ -1,0 +1,126 @@
+---
+schema-version: v1.2.1
+id: IEEE485-2010
+title:
+- content: IEEE Recommended Practice for Sizing Lead-Acid Batteries for Stationary
+    Applications
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/5751584
+  type: src
+type: standard
+docid:
+- id: IEEE 485-2010
+  type: IEEE
+  primary: true
+- id: IEEE 485™-2010
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-0-7381-6507-3
+  type: ISBN
+- id: 10.1109/IEEESTD.2011.5751584
+  type: DOI
+docnumber: IEEE 485-2010
+date:
+- type: created
+  value: '2011'
+- type: published
+  value: '2020-06-29'
+- type: issued
+  value: '2010-11-08'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2020-06-29'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Methods for defining the direct current (dc) load and for sizing a lead-acid
+    battery to supply that load for stationary battery applications in full-float
+    operations are described in this recommended practice. Some factors relating to
+    cell selection are provided for consideration. Installation, maintenance, qualification,
+    testing procedures, and consideration of battery types other than lead-acid are
+    beyond the scope of this recommended practice. Design of the dc system and sizing
+    of the battery charger(s) are also beyond the scope of this recommended practice.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: superseded
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2011'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE485-1997
+    docid:
+    - id: IEEE 485-1997
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 485-1997
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE485-2020
+    docid:
+    - id: IEEE 485-2020
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 485-2020
+      format: text/plain
+keyword:
+- content: IEEE standards
+- content: Lead
+- content: Batteries
+- content: battery duty cycle
+- content: cell selection
+- content: direct current (dc) load
+- content: IEEE 485
+- content: full-float operation
+- content: lead-acid batteries
+- content: rated capacity
+- content: sizing
+- content: stationary applications
+- content: valve-regulated lead-acid (VRLA) cell
+- content: vented battery
+editorialgroup:
+  committee:
+  - Energy Storage &amp; Stationary Battery Committee of the IEEE Power and Energy
+    Society
+ics:
+- code: 29.220.20
+  text: Acid secondary cells and batteries
+ext:
+  schema-version: v1.0.0

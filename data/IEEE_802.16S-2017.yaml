@@ -1,0 +1,119 @@
+---
+schema-version: v1.2.1
+id: IEEE802.16s-2017
+title:
+- content: 'IEEE Standard for Air Interface for Broadband Wireless Access Systems--Amendment
+    4: Fixed and Mobile Wireless Access in Channel Bandwidth up to 1.25 MHz'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/8065154
+  type: src
+type: standard
+docid:
+- id: IEEE 802.16s-2017
+  type: IEEE
+  primary: true
+- id: IEEE 802.16s®-2017
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-1-5044-4243-5
+  type: ISBN
+- id: 10.1109/IEEESTD.2017.8065154
+  type: DOI
+docnumber: IEEE 802.16s-2017
+date:
+- type: updated
+  value: '2017-10-27'
+- type: created
+  value: '2017-10-13'
+- type: published
+  value: '2017-10-11'
+- type: issued
+  value: '2017-09-28'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  role:
+  - type: publisher
+revdate: '2017-10-11'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: WirelessMAN-OFDMA TDD operation in exclusively licensed spectrum with channel
+    bandwidth from 100 kHz up to 1.25 MHz, including 1 MHz explicitly, is specified.
+    This amendment targets operation in the 700 MHz band but also supports operation
+    in other VHF/UHF bands. The project amends Clause 12 of IEEE Std 802.16-2012,
+    adding a new system profile and amending other clauses as required to support
+    the narrower channel widths. The range and data rate supported by the added profile
+    are commensurate with those of the base standard, as scaled by the reduced channel
+    bandwidth.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: superseded
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2017'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE802.16-2012
+    docid:
+    - id: IEEE 802.16-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.16-2012
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Narrowband
+- content: Wireless networks
+- content: VHF devices
+- content: UHF communication
+- content: Smart grids
+- content: band AMC
+- content: critical infrastructure
+- content: IEEE 802.16(TM)
+- content: IEEE 802.16s(TM)
+- content: MAC
+- content: narrowband
+- content: OFDMA
+- content: PHY
+- content: smart grid
+- content: sub-1.25 MHz channels
+- content: utilities
+- content: VHF/UHF bands
+- content: WirelessMAN(R)
+editorialgroup:
+  committee:
+  - LAN/MAN Standards Committee of the IEEE Computer Society
+ics:
+- code: '35.110'
+  text: Networking
+ext:
+  schema-version: v1.0.0

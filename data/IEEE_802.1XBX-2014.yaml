@@ -1,0 +1,124 @@
+---
+schema-version: v1.2.1
+id: IEEE802.1Xbx-2014
+title:
+- content: 'IEEE Standard for Local and metropolitan area networks -- Port-Based Network
+    Access Control Amendment 1: MAC Security Key Agreement Protocol (MKA) Extensions'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/6994208
+  type: src
+type: standard
+docid:
+- id: IEEE 802.1Xbx-2014
+  type: IEEE
+  primary: true
+- id: IEEE 802.1Xbx®-2014
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-0-7381-9435-6
+  type: ISBN
+- id: 10.1109/IEEESTD.2014.6994208
+  type: DOI
+docnumber: IEEE 802.1Xbx-2014
+date:
+- type: created
+  value: '2014-12-22'
+- type: published
+  value: '2014-12-19'
+- type: issued
+  value: '2014-12-10'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2014-12-19'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Media Access Control security (MACsec) Key Agreement protocol (MKA) data
+    elements and procedures that provide additional security and manageability capabilities,
+    including the ability to maintain secure communication while the operation of
+    MKA is suspended, when used in conjunction with MACsec Cipher Suites that support
+    Extended Packet Numbering are added in this amendment.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: superseded
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2014'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE802.1X-2010
+    docid:
+    - id: IEEE 802.1X-2010
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1X-2010
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Access control
+- content: Authorization
+- content: Bridge circuits
+- content: Media Access Protocol
+- content: Network security
+- content: authorized port
+- content: confidentiality
+- content: data origin authenticity
+- content: IEEE 802.1X(TM)
+- content: IEEE 802.1Xbx(TM)
+- content: integrity
+- content: LANs
+- content: local area networks
+- content: MAC Bridges
+- content: MAC security
+- content: MAC Service
+- content: MANs
+- content: metropolitan area networks
+- content: port based network access control
+- content: secure association
+- content: security
+- content: transparent bridging
+editorialgroup:
+  committee:
+  - LAN/MAN Standards Committee of the IEEE Computer Society
+ics:
+- code: '35.110'
+  text: Networking
+ext:
+  schema-version: v1.0.0

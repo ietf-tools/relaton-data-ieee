@@ -1,0 +1,118 @@
+---
+schema-version: v1.2.1
+id: IEEE211-1997
+title:
+- content: IEEE Standard Definitions of Terms for Radio Wave Propagation
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/705931
+  type: src
+type: standard
+docid:
+- id: IEEE 211-1997
+  type: IEEE
+  primary: true
+- id: IEEE 211™-1997
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-0-7381-0580-2
+  type: ISBN
+- id: 10.1109/IEEESTD.1998.87897
+  type: DOI
+docnumber: IEEE 211-1997
+date:
+- type: created
+  value: '1998'
+- type: issued
+  value: '1997-12-09'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Terms and definitions used in the context of electromagnetic wave propagation
+    relating to the fields of telecommunications, remote sensing, radio astronomy,
+    optical waves, plasma waves, the ionosphere, the magnetosphere, and magnetohydrodynamic,
+    acoustic, and electrostatic waves are supplied.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: superseded
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '1998'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE211-1990
+    docid:
+    - id: IEEE 211-1990
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 211-1990
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE211-2018
+    docid:
+    - id: IEEE 211-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 211-2018
+      format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE211-2018
+    docid:
+    - id: IEEE 211-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 211-2018
+      format: text/plain
+keyword:
+- content: IEEE standards
+editorialgroup:
+  committee:
+  - Antennas and Propagation Standards Committee of the IEEE Antennas and Propagation
+    Society
+ics:
+- code: 01.040.33
+  text: Telecommunications. Audio and video engineering (Vocabularies)
+- code: 33.060.01
+  text: Radiocommunications in general
+ext:
+  schema-version: v1.0.0

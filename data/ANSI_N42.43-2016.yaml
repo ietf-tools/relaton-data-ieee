@@ -60,7 +60,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: superseded
 copyright:
 - owner:
   - name:
@@ -74,6 +74,24 @@ copyright:
       content: ANSI
     url: https://www.ansi.org
   from: '2016'
+relation:
+- type: updates
+  bibitem:
+    id: ANSIN42.43-2006
+    docid:
+    - id: ANSI N42.43-2006
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI N42.43-2006
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: ANSI Standards
 - content: Radiation monitoring

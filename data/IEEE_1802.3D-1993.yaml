@@ -1,0 +1,98 @@
+---
+schema-version: v1.2.1
+id: IEEE1802.3d-1993
+title:
+- content: 'Conformance Test Methodology for IEEE Standards Local and Metropolitan
+    Area Networks: CSMA/CD Access Method and Physical Layer Specifications--Type 10BASE-T
+    Medium Attachment Unit (MAU) (Section 6)'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/467397
+  type: src
+type: standard
+docid:
+- id: IEEE 1802.3d-1993
+  type: IEEE
+  primary: true
+- id: IEEE 1802.3d™-1993
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 0-7381-0271-7
+  type: ISBN
+- id: 10.1109/IEEESTD.1994.122160
+  type: DOI
+docnumber: IEEE 1802.3d-1993
+date:
+- type: created
+  value: '1994-05-06'
+- type: published
+  value: '2019-04-05'
+- type: issued
+  value: '1993-09-15'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2019-04-05'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Methods for conformance testing to satisfy requirements arising from the
+    ISO/IEC 8802-3 [ANSI/IEEE Std 802.3] standard are defined. The conformance test
+    suite is intended to detect incorrect implementations of the ISO/IEC 8802-3 standard,
+    clause 14. It comprises two categories of test groups. The first category relates
+    to basic interconnection testing and the second to capability and behavior testing.
+    The test setups, adapters, and instruments used are described.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: superseded
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '1994'
+keyword:
+- content: ISO Standards
+- content: IEEE 802.3 Standard
+- content: EPON
+- content: IEC Standards
+- content: Physical layer
+- content: abstract test suite
+- content: carrier sense multiple access with collision detection (CSMA/CD)
+- content: compliance
+- content: conformance testing
+- content: 10BASE-T
+- content: local area networks
+- content: medium attachment unit (MAU)
+- content: unshielded twisted pair (UTP)
+editorialgroup:
+  committee:
+  - LAN/MAN Standards Committee of the IEEE Computer Society
+ics:
+- code: '35.110'
+  text: Networking
+- code: 35.100.10
+  text: Physical layer
+ext:
+  schema-version: v1.0.0

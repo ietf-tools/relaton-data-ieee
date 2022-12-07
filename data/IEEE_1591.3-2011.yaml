@@ -57,7 +57,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: superseded
 copyright:
 - owner:
   - name:
@@ -66,6 +66,17 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2011'
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE1591.3-2020
+    docid:
+    - id: IEEE 1591.3-2020
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1591.3-2020
+      format: text/plain
 keyword:
 - content: IEEE standards
 - content: Conductors
@@ -78,7 +89,7 @@ keyword:
 - content: WRAP
 editorialgroup:
   committee:
-  - Power System Communications of the IEEE Power &amp; Energy Society
+  - IEEE Power and Energy Society
 ics:
 - code: 33.180.10
   text: Fibres and cables

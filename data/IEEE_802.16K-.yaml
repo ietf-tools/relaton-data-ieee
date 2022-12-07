@@ -1,0 +1,108 @@
+---
+schema-version: v1.2.1
+id: IEEE802.16k-
+title:
+- content: 'IEEE Standard for Local and Metropolitan Area Networks: Media Access Control
+    (MAC) Bridges - Amendment 2: Bridging of IEEE 802.16'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/4293121
+  type: src
+type: standard
+docid:
+- id: IEEE 802.16k-
+  type: IEEE
+  primary: true
+- id: IEEE 802.16k®-
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-0-7381-5586-9
+  type: ISBN
+- id: 10.1109/IEEESTD.2007.4293121
+  type: DOI
+docnumber: IEEE 802.16k-
+date:
+- type: created
+  value: '2007-08-14'
+- type: published
+  value: '2013-03-13'
+- type: issued
+  value: '2007-03-22'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2013-03-13'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This document amends IEEE Std 802.1D, as previously amended by IEEE Std
+    802.17a(TM)-2004, to support the bridging of the IEEE 802.16 medium access control.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: superseded
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2007'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE802.1D-2004
+    docid:
+    - id: IEEE 802.1D-2004
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1D-2004
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Media Access Protocol
+- content: Bridge circuits
+- content: local area networks
+- content: LANs
+- content: MAC Bridges
+- content: transparent bridging
+- content: VLANs
+- content: wireless metropolitan area networks
+- content: WMAN
+editorialgroup:
+  committee:
+  - LAN/MAN Standards Committee of the IEEE Computer Society
+ics:
+- code: '35.110'
+  text: Networking
+ext:
+  schema-version: v1.0.0

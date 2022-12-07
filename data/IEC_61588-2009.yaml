@@ -63,7 +63,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: superseded
 copyright:
 - owner:
   - name:
@@ -72,6 +72,17 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2009'
+relation:
+- type: adoptedFrom
+  bibitem:
+    id: IEEE1588-2008
+    docid:
+    - id: IEEE 1588-2008
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1588-2008
+      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Synchronization
@@ -90,12 +101,6 @@ editorialgroup:
   committee:
   - TC9 - Sensor Technology of the IEEE Instrumentation and Measurement Society
 ics:
-- code: 25.040.40
-  text: Industrial process measurement and control
-- code: '35.110'
-  text: Networking
-- code: 35.240.50
-  text: IT applications in industry
 - code: 39.040.99
   text: Other time-measuring instruments
 ext:

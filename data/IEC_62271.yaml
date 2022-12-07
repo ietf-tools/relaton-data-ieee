@@ -2,13 +2,14 @@
 schema-version: v1.2.1
 id: IEC62271
 title:
-- content: 'IEC/IEEE International Standard - High-voltage switchgear and controlgear
-    - Part 111: Automatic circuit reclosers for alternating current systems up to
-    and including 38 kV'
+- content: 'IEC 62271-111 Ed.1 (IEEE Std C37.60-2003-Compilation): High Voltage Switchgear
+    and Controlgear — Part 111: Overhead, Pad-Mounted, Dry Vault, and Submersible
+    Automatic Circuit Reclosers and Fault Interrupters for alternating current systems
+    up to 38 kV'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8641507
+- content: https://ieeexplore.ieee.org/document/7511635
   type: src
 type: standard
 docid:
@@ -19,20 +20,18 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-2-8322-4991-8
+- id: 978-2-8318-8378-6
   type: ISBN
-- id: 10.1109/IEEESTD.2019.8641507
+- id: 10.1109/IEEESTD.2006.7511635
   type: DOI
 docnumber: IEC 62271
 date:
-- type: updated
-  value: '2020-05-22'
 - type: created
-  value: '2019-02-12'
+  value: '2006'
 - type: published
-  value: '2019-02-13'
+  value: '2016-07-13'
 - type: issued
-  value: '2018-12-05'
+  value: '2006'
 contributor:
 - organization:
     name:
@@ -46,19 +45,19 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2019-02-13'
+revdate: '2016-07-13'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This part of IEC 62271 applies to all overhead, pad-mounted, dry vault
-    and submersible single or multi-pole alternating current automatic circuit reclosers
-    for rated maximum voltages above 1 000 V and up to and including 38 kV. Devices
-    that require a dependent manual operation are not covered by this document. In
-    order to simplify this document where possible, the term recloser (or reclosers)
-    has been substituted for automatic circuit recloser(s) or cutout mounted recloser(s)
-    or both.
+- content: 'This Standard applies to all overhead, pad mounted, dry vault and submersible
+    single or multi-pole alternating current automatic circuit reclosers and fault
+    interrupters for rated maximum voltages above 1000 V and up to 38 kV. The following
+    is also included in section 1: In order to simplify this standard where possible,
+    the term recloser/FI (reclosers/FIs) has been substituted for automatic circuit
+    recloser or fault interrupter or both. NOTE--When reclosers are applied in substation,
+    special considerations may apply.'
   language:
   - en
   script:
@@ -66,7 +65,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: superseded
 copyright:
 - owner:
   - name:
@@ -74,20 +73,41 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  - name:
-    - content: IEC
-  from: '2018'
+  from: '2005'
+relation:
+- type: updates
+  bibitem:
+    id: IEEEC37.60-2003
+    docid:
+    - id: IEEE C37.60-2003
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.60-2003
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
-- content: IEEE Standards
 - content: IEC Standards
+- content: Dry vault
+- content: Interrupters
 - content: Switchgear
-- content: High-voltage techniques
-- content: Control systems
-- content: Voltage control
-- content: PC37.60
-- content: IEC P62271-11
-- content: HIGH-VOLTAGE SWITCHGEAR
-- content: CONTROLGEAR
+- content: Circuit faults
+- content: Automatic voltage control
+- content: Underwater vehicles
+- content: dry vault
+- content: fault interrupter
+- content: overhead
+- content: pad-mounted
+- content: recloser
+- content: submersible
+- content: standard operating duty
+- content: switchgear
 editorialgroup:
   committee:
   - Switchgear of the IEEE Power and Energy Society

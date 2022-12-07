@@ -1,0 +1,105 @@
+---
+schema-version: v1.2.1
+id: IEEE802.20b-2010
+title:
+- content: 'IEEE Standard for Local and metropolitan area networks--Virtual Bridged
+    Local Area Networks - Amendment 15: Bridging of IEEE 802.20'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/7327115
+  type: src
+type: standard
+docid:
+- id: IEEE 802.20b-2010
+  type: IEEE
+  primary: true
+- id: IEEE 802.20b®-2010
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-0-7381-6355-0
+  type: ISBN
+- id: 10.1109/IEEESTD.2010.7327115
+  type: DOI
+docnumber: IEEE 802.20b-2010
+date:
+- type: created
+  value: '2010-11-19'
+- type: published
+  value: '2015-11-11'
+- type: issued
+  value: '2010-11-08'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2015-11-11'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This amendment specifies the mechanism for the support of bridging of IEEE
+    802.20 networks.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: superseded
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2010'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE802.1Q-2005
+    docid:
+    - id: IEEE 802.1Q-2005
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1Q-2005
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Virtual LAN
+- content: Bridge circuits
+- content: '802.20'
+- content: bridging
+editorialgroup:
+  committee:
+  - LAN/MAN Standards Committee of the IEEE Computer Society
+ics:
+- code: '35.110'
+  text: Networking
+- code: 35.100.20
+  text: Data link layer
+ext:
+  schema-version: v1.0.0

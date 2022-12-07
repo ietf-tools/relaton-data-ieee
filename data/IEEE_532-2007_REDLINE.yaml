@@ -43,7 +43,7 @@ contributor:
     url: http://www.ieee.org
     contact:
     - address:
-        city: Piscataway
+        city: New York
         country: USA
   role:
   - type: publisher
@@ -67,7 +67,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: superseded
 copyright:
 - owner:
   - name:
@@ -76,6 +76,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2008'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE532-1993
+    docid:
+    - id: IEEE 532-1993
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 532-1993
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Cable insulation
@@ -88,7 +106,7 @@ keyword:
 - content: testing
 editorialgroup:
   committee:
-  - Insulated Conductors of the IEEE Power &amp; Energy Society
+  - Insulated Conductors of the IEEE Power and Energy Society
 ics:
 - code: 29.035.01
   text: Insulating materials in general

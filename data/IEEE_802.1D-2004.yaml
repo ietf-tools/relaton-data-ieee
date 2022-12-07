@@ -49,10 +49,12 @@ language:
 script:
 - Latn
 abstract:
-- content: 'IEEE Std 802.1D-2004, IEEE Standard for Local and Metropolitan Area Networks:
-    Media Access Control (MAC) Bridges. The PDF of this standard is available at no
-    charge compliments of the IEEE 802 Working group. Visit http://standards.ieee.org/about/get/index.html
-    for details.'
+- content: An architecture for the interconnection of IEEE 802(R) Local Area Networks
+    (LANs) below the MAC Service boundary is defined. MAC Bridges, as specified by
+    this standard, allow communications between end stations attached to separate
+    LANs, each with its own separate MAC, to be transparent to logical link control
+    (LLC) and network layer protocols, just as if the stations were attached to the
+    same LAN.
   language:
   - en
   script:
@@ -60,7 +62,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: superseded
 copyright:
 - owner:
   - name:
@@ -69,7 +71,32 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2004'
+relation:
+- type: updates
+  bibitem:
+    id: ANSI-IEEE802.1D-1998
+    docid:
+    - id: ANSI/IEEE 802.1D-1998
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI/IEEE 802.1D-1998
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
+- content: IEEE Standards
+- content: Standards
+- content: Protocols
+- content: Media Access Protocol
+- content: Bridges
+- content: Patents
+- content: Local area networks
 - content: active topology
 - content: filtering
 - content: GARP

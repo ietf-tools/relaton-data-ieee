@@ -1,0 +1,124 @@
+---
+schema-version: v1.2.1
+id: IEEE765-1995
+title:
+- content: IEEE Standard for Preferred Power Supply (PPS) for Nuclear Power Generating
+    Stations
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/696976
+  type: src
+type: standard
+docid:
+- id: IEEE 765-1995
+  type: IEEE
+  primary: true
+- id: IEEE 765™-1995
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-1-55937-525-2
+  type: ISBN
+- id: 10.1109/IEEESTD.1995.122638
+  type: DOI
+docnumber: IEEE 765-1995
+date:
+- type: updated
+  value: '1995-09-26'
+- type: created
+  value: '1995'
+- type: published
+  value: '2019-04-05'
+- type: issued
+  value: '1995-03-16'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2019-04-05'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The design criteria of the preferred power supply (PPS) and its interfaces
+    with the Class 1E power system, switchyard, transmission system, and alternate
+    ac (AAC) source are described. This standard provides PPS requirements for nuclear
+    power plants and guidance in the areas of AAC power source interfaces with PPS,
+    physical independence of the PPS power and control circuits, and expanded PPS
+    criteria for multi-unit stations.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: superseded
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '1995'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE765-1983
+    docid:
+    - id: IEEE 765-1983
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 765-1983
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE765-2002
+    docid:
+    - id: IEEE 765-2002
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 765-2002
+      format: text/plain
+keyword:
+- content: Nuclear power generation auxiliary systems
+- content: Power supplies
+- content: Substation switching
+- content: Power transmission control
+- content: IEEE standards
+- content: alternate ac source
+- content: PPS
+- content: switchyard
+- content: transmission system
+- content: preferred power supply
+editorialgroup:
+  committee:
+  - Nuclear Power Engineering of the IEEE Power and Energy Society
+ics:
+- code: 27.120.30
+  text: Fissile materials and nuclear fuel technology
+- code: 29.240.01
+  text: Power transmission and distribution networks in general
+ext:
+  schema-version: v1.0.0

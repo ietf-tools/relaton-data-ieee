@@ -1,0 +1,123 @@
+---
+schema-version: v1.2.1
+id: IEEE802.3bj-2014
+title:
+- content: 'IEEE Standard for Ethernet Amendment 2: Physical Layer Specifications
+    and Management Parameters for 100 Gb/s Operation Over Backplanes and Copper Cables'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/6891095
+  type: src
+type: standard
+docid:
+- id: IEEE 802.3bj-2014
+  type: IEEE
+  primary: true
+- id: IEEE 802.3bj®-2014
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-0-7381-9134-8
+  type: ISBN
+- id: 10.1109/IEEESTD.2014.6891095
+  type: DOI
+docnumber: IEEE 802.3bj-2014
+date:
+- type: updated
+  value: '2014-09-19'
+- type: created
+  value: '2014'
+- type: published
+  value: '2014-09-04'
+- type: issued
+  value: '2014-06-12'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  role:
+  - type: publisher
+revdate: '2014-09-04'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 100 Gb/s Physical Layer (PHY) specifications and management parameters
+    for operation on electrical backplanes and twinaxial copper cables are added by
+    this amendment to IEEE Std 802.3-2012. This amendment also specifies optional
+    Energy Efficient Ethernet (EEE) for 40 Gb/s and 100 Gb/s operation over electrical
+    backplanes and copper cables.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: superseded
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2014'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE802.3-2012
+    docid:
+    - id: IEEE 802.3-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3-2012
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE standards
+- content: Ethernet
+- content: Time measurement
+- content: Synchronization
+- content: Passive optical networks
+- content: IEEE 802.3 Standard
+- content: 100 Gb/s Ethernet
+- content: 100GBASE-CR10
+- content: 100GBASE-CR4
+- content: 100GBASE-KP4
+- content: 100GBASE-KR4
+- content: 40 Gb/s Ethernet
+- content: 40GBASE-CR4
+- content: 40GBASE-KR4
+- content: amendment
+- content: Auto-Negotiation (AN)
+- content: Backplane Ethernet
+- content: Energy Efficient Ethernet (EEE)
+- content: Ethernet
+- content: Forward Error Correction (FEC)
+- content: IEEE 802.3(TM)
+- content: IEEE 802.3bj(TM)
+- content: Physical Medium Attachment (PMA) sublayer
+- content: Physical Medium Dependent (PMD) sublayer
+editorialgroup:
+  committee:
+  - LAN/MAN Standards Committee of the IEEE Computer Society
+ics:
+- code: '35.110'
+  text: Networking
+- code: 35.100.10
+  text: Physical layer
+ext:
+  schema-version: v1.0.0

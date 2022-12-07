@@ -24,8 +24,6 @@ docid:
   type: DOI
 docnumber: IEEE 519-2014
 date:
-- type: updated
-  value: '2015-03-20'
 - type: created
   value: '2014'
 - type: published
@@ -39,6 +37,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2014-06-05'
@@ -65,7 +67,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: superseded
 copyright:
 - owner:
   - name:
@@ -74,6 +76,34 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2014'
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEEP519-D-5.1-2021-01
+    docid:
+    - id: IEEE P519/D-5.1-2021-01
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE P519/D-5.1-2021-01
+      format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE519-1992
+    docid:
+    - id: IEEE 519-1992
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 519-1992
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Harmonic analysis
@@ -87,7 +117,7 @@ editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society
 ics:
-- code: '29.200'
-  text: Rectifiers. Converters. Stabilized power supply
+- code: '27.100'
+  text: Power stations in general
 ext:
   schema-version: v1.0.0

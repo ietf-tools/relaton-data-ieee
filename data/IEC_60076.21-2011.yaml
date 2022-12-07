@@ -2,8 +2,8 @@
 schema-version: v1.2.1
 id: IEC60076.21-2011
 title:
-- content: 'Power Transformers Part 21: Standard Requirements, Terminology, and Test
-    Code for Step-Voltage Regulators'
+- content: 'Power Transformers – Part 21: Standard Requirements, Terminology, and
+    Test Code for Step-Voltage Regulators'
   format: text/plain
   type: main
 link:
@@ -24,12 +24,12 @@ docid:
   type: DOI
 docnumber: IEC 60076.21-2011
 date:
-- type: updated
-  value: '2012-05-25'
 - type: created
   value: '2011-12-11'
+- type: published
+  value: '2022-03-15'
 - type: issued
-  value: '2012-03-16'
+  value: '2009'
 contributor:
 - organization:
     name:
@@ -37,8 +37,13 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
+revdate: '2022-03-15'
 language:
 - en
 script:
@@ -59,7 +64,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: superseded
 copyright:
 - owner:
   - name:
@@ -70,6 +75,17 @@ copyright:
   - name:
     - content: IEC
   from: '2009'
+relation:
+- type: adoptedFrom
+  bibitem:
+    id: IEEEC57.15-2009
+    docid:
+    - id: IEEE C57.15-2009
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C57.15-2009
+      format: text/plain
 keyword:
 - content: IEEE standards
 - content: Transformers
@@ -88,10 +104,10 @@ keyword:
 - content: voltage regulator
 editorialgroup:
   committee:
-  - Transformers of the IEEE Power &amp; Energy Society
+  - Transformers of the IEEE Power and Energy Society
 ics:
-- code: '29.180'
-  text: Transformers. Reactors
+- code: 01.040.29
+  text: Electrical engineering (Vocabularies)
 - code: '29.200'
   text: Rectifiers. Converters. Stabilized power supply
 ext:

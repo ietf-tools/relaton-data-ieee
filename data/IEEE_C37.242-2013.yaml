@@ -62,7 +62,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: superseded
 copyright:
 - owner:
   - name:
@@ -71,6 +71,17 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2013'
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEEC37.242-2021
+    docid:
+    - id: IEEE C37.242-2021
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.242-2021
+      format: text/plain
 keyword:
 - content: IEEE standards
 - content: Synchronization

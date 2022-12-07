@@ -1,0 +1,100 @@
+---
+schema-version: v1.2.1
+id: ANSI-IEEE309-1970
+title:
+- content: IEEE Standard Test Procedure for Geiger-Muller Counters
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/20965
+  type: src
+type: standard
+docid:
+- id: ANSI/IEEE 309-1970
+  type: IEEE
+  primary: true
+- id: ANSI/IEEE 309™-1970
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-0-7381-3041-5
+  type: ISBN
+- id: 10.1109/IEEESTD.1970.120581
+  type: DOI
+docnumber: ANSI/IEEE 309-1970
+date:
+- type: created
+  value: '1970'
+- type: issued
+  value: '1969-05-28'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This publication presents standard test procedures for Geiger-Muller counter
+    radiation detectors. These detectors, originally announced by ?Geiger and Muller
+    in 1928, represented a major step forward in the detection and counting of individual
+    radioactive events. Standard test procedures are desirable so that measurements
+    may have the same meaning to all manufacturers and users.<<ETX>>
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: superseded
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '1970'
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE309-1999
+    docid:
+    - id: IEEE 309-1999
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 309-1999
+      format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE309-1999
+    docid:
+    - id: IEEE 309-1999
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 309-1999
+      format: text/plain
+keyword:
+- content: Geiger counters
+- content: Standards
+editorialgroup:
+  committee:
+  - Nuclear Instruments and Detectors of the IEEE Nuclear and Plasma Sciences Society
+ics:
+- code: '17.240'
+  text: Radiation measurements
+ext:
+  schema-version: v1.0.0

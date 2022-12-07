@@ -46,18 +46,19 @@ language:
 script:
 - Latn
 abstract:
-- content: echniques and instrumentation for the measurement and computation of potentially
+- content: Techniques and instrumentation for the measurement and computation of potentially
     hazardous electromagnetic (EM) fields both in the near field and the far field
-    of the electromagnetic source are specified.The specifications previously set
-    forth in IEEE Std C95.3 -1991 are extended and combined. Leakage and near-field
+    of the electromagnetic source are specified. The specifications previously set
+    forth in IEEE Std C95.3-1991 are extended and combined. Leakage and near-field
     measurements and a description of the concepts, techniques, and instruments that
     can be applied to the measurement of specific absorption rate (SAR) or the electric
     field strength in organisms (including humans) and phantoms exposed to electromagnetic
-    fields are included.Below 100 MHz, the current flowing through the body to ground
+    fields are included. Below 100 MHz, the current flowing through the body to ground
     is measurable and can be used to determine the SAR and, therefore, a brief treatment
-    of low- frequency body current measurement is included. The "IEEE Get Program"
+    of low-frequency body current measurement is included. The "IEEE Get Program"
     grants public access to view and download individual PDFs of select standards
-    at no charge. Visit http://standards.ieee.org/about/get/index.html for details.
+    at no charge. Visit https://ieeexplore.ieee.org/browse/standards/get-program/page
+    for details.
   language:
   - en
   script:
@@ -65,7 +66,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: superseded
 copyright:
 - owner:
   - name:
@@ -74,6 +75,34 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2002'
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEEC95.3-2021
+    docid:
+    - id: IEEE C95.3-2021
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C95.3-2021
+      format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC95.3-1991
+    docid:
+    - id: IEEE C95.3-1991
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C95.3-1991
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Electromagnetic fields
@@ -85,10 +114,10 @@ keyword:
 - content: Radiation protection
 - content: electromagnetic field computation
 - content: electromagnetic field measurements
-- content: exposureassessment
+- content: exposure assessment
 - content: non-ionizing radiation
 - content: RF/microwave hazard assessment
-- content: RF/microwave surveyinstruments
+- content: RF/microwave survey instruments
 - content: RF/microwave surveys
 - content: specific absorption rate (SAR)assessment
 editorialgroup:

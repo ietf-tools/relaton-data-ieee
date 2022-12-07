@@ -1,0 +1,117 @@
+---
+schema-version: v1.2.1
+id: IEEE1110-2002
+title:
+- content: IEEE Guide for Synchronous Generator Modeling Practices and Applications
+    in Power System Stability Analyses
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/1251520
+  type: src
+type: standard
+docid:
+- id: IEEE 1110-2002
+  type: IEEE
+  primary: true
+- id: IEEE 1110™-2002
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-0-7381-3482-6
+  type: ISBN
+- id: 10.1109/IEEESTD.2003.94408
+  type: DOI
+docnumber: IEEE 1110-2002
+date:
+- type: created
+  value: '2003-11-12'
+- type: published
+  value: '2020-03-03'
+- type: issued
+  value: '2002-11-11'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2020-03-03'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Revision of IEEE Std 1110-1991. Reaffirmed September 2007. Categorizes
+    three direct-axis and four quadrature-axis models, along with the basic transient
+    reactance model. Discusses some of the assumptions made in using various models
+    and presents the fundamental equations and concepts involved in generator/system
+    interfacing. Covers, generally, the various attributes of power system stability,
+    recognizing two basic approaches. The first is categorized under large disturbance
+    nonlinear analysis; the second approach considers small disturbances, where the
+    corresponding dynamic equations are linearized. Applications of a range of generator
+    models are discussed and treated. The manner in which generator saturation is
+    treated in stability studies, both in the initialization process as well as during
+    large or small disturbance stability analysis procedures is addressed. Saturation
+    functions that are derived, whether from test data or by the methods, of finite
+    elements are developed. Different saturation algorithms for calculating values
+    of excitation and internal power angle depending upon generator terminal conditions
+    are compared. The question of parameter determination is covered. Two approaches
+    in accounting for generator field and excitation system base quantities are identified.
+    Conversion factors are given for transferring field parameters from one base to
+    another for correct generator/excitation system interface modeling, Suggestions
+    for modeling of negative field currents and other field circuit discontinuities
+    are included.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: superseded
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2003'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1110-1991
+    docid:
+    - id: IEEE 1110-1991
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1110-1991
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: modeling practices
+- content: saturation practices
+- content: stability data determination and application
+editorialgroup:
+  committee:
+  - Electric Machinery of the IEEE Power and Energy Society
+ics:
+- code: 29.160.20
+  text: Generators
+ext:
+  schema-version: v1.0.0

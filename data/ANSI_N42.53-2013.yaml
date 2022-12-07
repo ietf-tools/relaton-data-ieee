@@ -58,7 +58,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: superseded
 copyright:
 - owner:
   - name:
@@ -67,6 +67,17 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2013'
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: ANSIN42.53-2021
+    docid:
+    - id: ANSI N42.53-2021
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI N42.53-2021
+      format: text/plain
 keyword:
 - content: ANSI standards
 - content: Security
@@ -78,7 +89,7 @@ editorialgroup:
   committee:
   - National Committee on Radiation Instrumentation
 ics:
-- code: '17.240'
-  text: Radiation measurements
+- code: 01.040.11
+  text: Health care technology (Vocabularies)
 ext:
   schema-version: v1.0.0

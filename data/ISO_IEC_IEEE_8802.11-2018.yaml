@@ -63,7 +63,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: superseded
 copyright:
 - owner:
   - name:
@@ -76,6 +76,17 @@ copyright:
   - name:
     - content: IEC
   from: '2018'
+relation:
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.11-2016
+    docid:
+    - id: IEEE 802.11-2016
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.11-2016
+      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: ISO Standards
@@ -121,7 +132,7 @@ keyword:
 - content: GCMP
 - content: generic advertisement service
 - content: high throughput
-- content: IEEE 802.11(TM)
+- content: IEEE 802.11&#8482;
 - content: international roaming
 - content: interworking
 - content: interworking with external networks
@@ -179,8 +190,6 @@ editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society
 ics:
-- code: 35.100.10
-  text: Physical layer
 - code: '35.110'
   text: Networking
 ext:

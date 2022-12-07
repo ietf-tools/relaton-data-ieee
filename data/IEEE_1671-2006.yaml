@@ -1,0 +1,111 @@
+---
+schema-version: v1.2.1
+id: IEEE1671-2006
+title:
+- content: IEEE Standard for Automatic Test Markup Language (ATML) for Exchanging
+    Automatic Test Equipment and Test Information via XML
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/5250312
+  type: src
+type: standard
+docid:
+- id: IEEE 1671-2006
+  type: IEEE
+  primary: true
+- id: IEEE 1671™-2006
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-0-7381-5246-2
+  type: ISBN
+- id: 10.1109/IEEESTD.2009.5250312
+  type: DOI
+docnumber: IEEE 1671-2006
+date:
+- type: updated
+  value: '2009-10-02'
+- type: created
+  value: '2009-02-14'
+- type: issued
+  value: '2006-09-15'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This standard specifies the framework for the family of ATML standards.
+    ATML defines a standard exchange medium for sharing information between components
+    of an automatic test system (ATS), using the extensible markup language (XML).
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: superseded
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2009'
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE1671-2010
+    docid:
+    - id: IEEE 1671-2010
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1671-2010
+      format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE1671-2010
+    docid:
+    - id: IEEE 1671-2010
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1671-2010
+      format: text/plain
+keyword:
+- content: IEEE standards
+- content: Data mining
+- content: XML
+- content: Trademarks
+- content: Standards Coordinating Committees
+- content: Automatic Test Equipment (ATE)
+- content: Automatic Test Markup Language (ATML)
+- content: ATML instance document
+- content: automatic test system (ATS)
+- content: XML Schema
+editorialgroup:
+  committee:
+  - IEEE-SASB Coordinating Committees
+ics:
+- code: '19.080'
+  text: Electrical and electronic testing
+- code: 35.240.30
+  text: IT applications in information,  documentation and publishing
+- code: '25.040'
+  text: Industrial automation systems
+- code: '35.060'
+  text: Languages used in information technology
+ext:
+  schema-version: v1.0.0

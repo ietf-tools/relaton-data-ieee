@@ -1,0 +1,86 @@
+---
+schema-version: v1.2.1
+id: IEEE1313-1993
+title:
+- content: IEEE Standard for Power Systems - Insulation Coordination.
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/278294
+  type: src
+type: standard
+docid:
+- id: IEEE 1313-1993
+  type: IEEE
+  primary: true
+- id: IEEE 1313™-1993
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-1-5593-7405-7
+  type: ISBN
+- id: 10.1109/IEEESTD.1993.119218
+  type: DOI
+docnumber: IEEE 1313-1993
+date:
+- type: created
+  value: '1993'
+- type: issued
+  value: '1993'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: superseded
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '1993'
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE1313.1-1996
+    docid:
+    - id: IEEE 1313.1-1996
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1313.1-1996
+      format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE1313.1-1996
+    docid:
+    - id: IEEE 1313.1-1996
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1313.1-1996
+      format: text/plain
+editorialgroup:
+  committee:
+  - Technical Council of the IEEE Power and Energy Society
+ics:
+- code: 29.080.01
+  text: Insulation in general
+ext:
+  schema-version: v1.0.0

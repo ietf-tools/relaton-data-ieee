@@ -1,0 +1,119 @@
+---
+schema-version: v1.2.1
+id: IEEEC62.45-1992
+title:
+- content: IEEE Guide on Surge Testing for Equipment Connected to Low-Voltage AC Power
+    Circuits
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/278284
+  type: src
+type: standard
+docid:
+- id: IEEE C62.45-1992
+  type: IEEE
+  primary: true
+- id: IEEE C62.45™-1992
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-0-7381-3803-9
+  type: ISBN
+- id: 10.1109/IEEESTD.1993.119215
+  type: DOI
+docnumber: IEEE C62.45-1992
+date:
+- type: created
+  value: '1993'
+- type: published
+  value: '2019-04-05'
+- type: issued
+  value: '1992-12-03'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2019-04-05'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Superseded by C62.45-2002. Guidance is provided for applying surge testing
+    to ac power interfaces of equipment connected to low-voltage ac power circuits
+    that are subject to transient overvoltages. Signal and data lines are not addressed
+    in this document, nor are any specifications stated on the withstand levels that
+    might be assigned to specific equipments. An important objective of the document
+    is to call attention to the safety aspects of surge testing.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: superseded
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '1993'
+relation:
+- type: updates
+  bibitem:
+    id: ANSI-IEEEC62.45-1987
+    docid:
+    - id: ANSI/IEEE C62.45-1987
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI/IEEE C62.45-1987
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: ANSI-IEEEC62.45-1987
+    docid:
+    - id: ANSI/IEEE C62.45-1987
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI/IEEE C62.45-1987
+      format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Surges
+- content: Testing
+- content: Transient analysis
+- content: Patents
+- content: IEC Standards
+- content: overvoltage
+- content: Test procedures
+- content: Surge-protective device
+editorialgroup:
+  committee:
+  - Surge Protective Devices/Low Voltage of the IEEE Power and Energy Society
+ics:
+- code: 29.120.50
+  text: Fuses and other overcurrent protection devices
+ext:
+  schema-version: v1.0.0

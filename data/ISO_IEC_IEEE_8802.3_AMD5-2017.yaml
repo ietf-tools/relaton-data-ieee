@@ -24,8 +24,6 @@ docid:
   type: DOI
 docnumber: ISO/IEC/IEEE 8802.3/Amd5-2017
 date:
-- type: updated
-  value: '2018-04-13'
 - type: created
   value: '2018'
 - type: published
@@ -39,6 +37,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2018-03-23'
@@ -57,7 +59,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: superseded
 copyright:
 - owner:
   - name:
@@ -68,6 +70,17 @@ copyright:
   - name:
     - content: ISO
   from: '2018'
+relation:
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.3br-2016
+    docid:
+    - id: IEEE 802.3br-2016
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3br-2016
+      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: ISO Standards

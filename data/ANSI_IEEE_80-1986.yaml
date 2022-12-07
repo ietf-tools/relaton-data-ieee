@@ -1,0 +1,113 @@
+---
+schema-version: v1.2.1
+id: ANSI-IEEE80-1986
+title:
+- content: IEEE Guide for Safety in AC Substation Grounding
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/27902
+  type: src
+type: standard
+docid:
+- id: ANSI/IEEE 80-1986
+  type: IEEE
+  primary: true
+- id: ANSI/IEEE 80™-1986
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-1-5593-7602-0
+  type: ISBN
+- id: 10.1109/IEEESTD.1986.81070
+  type: DOI
+docnumber: ANSI/IEEE 80-1986
+date:
+- type: created
+  value: '1986-08-08'
+- type: published
+  value: '2019-04-05'
+- type: issued
+  value: '1985-03-21'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2019-04-05'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Outdoor AC substations, either conventional or gas-insulated, are covered
+    in this guide. Distribution, transmission, and generating plant substations are
+    also included. With proper caution, the methods described herein are also applicable
+    to indoor portions of such substations, or to substations that are wholly indoors.
+    No attempt is made to cover the grounding problems peculiar to dc substations.
+    A quantitative analysis of the effects of lightning surges is also beyond the
+    scope of this guide.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: superseded
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '1986'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE80-1976
+    docid:
+    - id: IEEE 80-1976
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 80-1976
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE80-2000
+    docid:
+    - id: IEEE 80-2000
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 80-2000
+      format: text/plain
+keyword:
+- content: Grounding
+- content: Standards
+- content: Substations
+editorialgroup:
+  committee:
+  - Substations of the IEEE Power and Energy Society
+ics:
+- code: 29.120.50
+  text: Fuses and other overcurrent protection devices
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,118 @@
+---
+schema-version: v1.2.1
+id: IEEE48-1996
+title:
+- content: IEEE Standard Test Procedures and Requirements for Alternating-Current
+    Cable Terminations 2.5 kV Through 765 kV
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/502390
+  type: src
+type: standard
+docid:
+- id: IEEE 48-1996
+  type: IEEE
+  primary: true
+- id: IEEE 48™-1996
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-0-7381-0789-9
+  type: ISBN
+- id: 10.1109/IEEESTD.1996.81010
+  type: DOI
+docnumber: IEEE 48-1996
+date:
+- type: created
+  value: '1996'
+- type: published
+  value: '2014-02-21'
+- type: issued
+  value: '1996-05-02'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2014-02-21'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: All indoor and outdoor cable terminations used on alternating-current cables
+    having laminated or extruded insulation rated 2.5 kV through 765 kV are covered,
+    except for separable insulated connectors, which are covered by IEEE Std 386-1995.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: superseded
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '1996'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE48-1990
+    docid:
+    - id: IEEE 48-1990
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 48-1990
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE48-2009
+    docid:
+    - id: IEEE 48-2009
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 48-2009
+      format: text/plain
+keyword:
+- content: Power cable testing
+- content: accelerated contamination testing
+- content: correction factors
+- content: dielectric field tests
+- content: environmental exposure
+- content: nonstandard service conditions
+- content: rating
+- content: solar radiation
+- content: standard service conditions
+- content: test requirements
+- content: ultraviolet light
+editorialgroup:
+  committee:
+  - Insulated Conductors of the IEEE Power and Energy Society
+ics:
+- code: 29.240.20
+  text: Power transmission and distribution lines
+ext:
+  schema-version: v1.0.0

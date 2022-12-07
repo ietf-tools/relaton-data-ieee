@@ -1,0 +1,117 @@
+---
+schema-version: v1.2.1
+id: IEEE1609.4-2010
+title:
+- content: IEEE Standard for Wireless Access in Vehicular Environments (WAVE)--Multi-channel
+    Operation
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/5712769
+  type: src
+type: standard
+docid:
+- id: IEEE 1609.4-2010
+  type: IEEE
+  primary: true
+- id: IEEE 1609.4™-2010
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-0-7381-6489-2
+  type: ISBN
+- id: 10.1109/IEEESTD.2011.5712769
+  type: DOI
+docnumber: IEEE 1609.4-2010
+date:
+- type: updated
+  value: '2011-02-28'
+- type: created
+  value: '2011-02-07'
+- type: published
+  value: '2013-06-13'
+- type: issued
+  value: '2010-09-30'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  role:
+  - type: publisher
+revdate: '2013-06-13'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Multi-channel wireless radio operations, Wireless Access in Vehicular Environments
+    (WAVE) mode, medium access control (MAC), and physical layers (PHYs), including
+    the operation of control channel (CCH) and service channel (SCH) interval timers,
+    parameters for priority access, channel switching and routing, management services,
+    and primitives designed for multi-channel operations are described in this standard.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: superseded
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2011'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1609.4-2006
+    docid:
+    - id: IEEE 1609.4-2006
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1609.4-2006
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE1609.4-2016
+    docid:
+    - id: IEEE 1609.4-2016
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1609.4-2016
+      format: text/plain
+keyword:
+- content: IEEE standards
+- content: Wireless communication
+- content: Access protocols
+- content: Vehicles
+- content: Intelligent vehicles
+- content: '1609.4'
+- content: channel coordination
+- content: multi-channel operation
+- content: user priority
+- content: Wireless Access in Vehicular Environments (WAVE)
+editorialgroup:
+  committee:
+  - Intelligent Transportation Systems of the IEEE Vehicular Technology Society
+ics:
+- code: 35.240.60
+  text: IT applications in transport
+ext:
+  schema-version: v1.0.0

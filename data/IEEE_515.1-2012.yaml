@@ -39,7 +39,7 @@ contributor:
     url: http://www.ieee.org
     contact:
     - address:
-        city: Piscataway
+        city: New York
         country: USA
   role:
   - type: publisher
@@ -61,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: superseded
 copyright:
 - owner:
   - name:
@@ -70,6 +70,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2012'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE515.1-2005
+    docid:
+    - id: IEEE 515.1-2005
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 515.1-2005
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Heating
@@ -96,7 +114,7 @@ keyword:
 - content: trace heating.
 editorialgroup:
   committee:
-  - Petroleum &amp; Chemical Industry of the IEEE Industry Applications Society
+  - Petroleum and Chemical Industry of the IEEE Industry Applications Society
 ics:
 - code: 25.180.10
   text: Electric furnaces

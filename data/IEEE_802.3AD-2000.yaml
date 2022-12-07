@@ -1,0 +1,113 @@
+---
+schema-version: v1.2.1
+id: IEEE802.3ad-2000
+title:
+- content: 'IEEE Standard for Information Technology - Local and Metropolitan Area
+    Networks - Part 3: Carrier Sense Multiple Access with Collision Detection (CSMA/CD)
+    Access Method and Physical Layer Specifications-Aggregation of Multiple Link Segments'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/850426
+  type: src
+type: standard
+docid:
+- id: IEEE 802.3ad-2000
+  type: IEEE
+  primary: true
+- id: IEEE 802.3ad®-2000
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-0-7381-2473-5
+  type: ISBN
+- id: 10.1109/IEEESTD.2000.91610
+  type: DOI
+docnumber: IEEE 802.3ad-2000
+date:
+- type: created
+  value: '2000'
+- type: published
+  value: '2019-04-05'
+- type: issued
+  value: '2000-03-30'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2019-04-05'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Incorporated in IEEE Std 802.3, 2000 Edition. Superseded by 802.3-2002.
+    An optional Link Aggregation sublayer for use with CSMA/CD MACs is defined. Link
+    Aggregation allows one or more links to be aggregated together to form a Link
+    Aggregation Group, such that a MAC Client can treat the Link Aggregation Group
+    as if it were a single link. To this end, it specifies the establishment of DTE
+    to DTE logical links, consisting of N parallel instances of full duplex point-to-point
+    links operating at the same data rate.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: superseded
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2000'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE802.3-2000
+    docid:
+    - id: IEEE 802.3-2000
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3-2000
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: ISO Standards
+- content: IEC Standards
+- content: Physical layer
+- content: IEEE 802.3 Standard
+- content: EPON
+- content: Aggregated Link
+- content: Aggregator
+- content: Link Aggregation Group
+- content: Physical Layer
+editorialgroup:
+  committee:
+  - LAN/MAN Standards Committee of the IEEE Computer Society
+ics:
+- code: 35.100.10
+  text: Physical layer
+- code: '35.110'
+  text: Networking
+ext:
+  schema-version: v1.0.0

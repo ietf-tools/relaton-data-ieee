@@ -1,0 +1,114 @@
+---
+schema-version: v1.2.1
+id: IEEE1671.2-2008
+title:
+- content: 'IEEE Trial-Use Standard for Automatic Test Markup Language (ATML) for
+    Exchanging Automatic Test Equipment and Test Information via XML: Exchanging Instrument
+    Descriptions'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/4723953
+  type: src
+type: standard
+docid:
+- id: IEEE 1671.2-2008
+  type: IEEE
+  primary: true
+- id: IEEE 1671.2™-2008
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-0-7381-5804-4
+  type: ISBN
+- id: 10.1109/IEEESTD.2008.4723953
+  type: DOI
+docnumber: IEEE 1671.2-2008
+date:
+- type: created
+  value: '2008-12-17'
+- type: published
+  value: '2019-04-05'
+- type: issued
+  value: '2008-09-26'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2019-04-05'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This trial-use standard specifies an exchange format, using eXtensible
+    Markup Language (XML), for identifying instrumentation that may be integrated
+    in an automatic test system (ATS) that is to be used to test and diagnose a unit
+    under test (UUT).
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: superseded
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2008'
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE1671.2-2012
+    docid:
+    - id: IEEE 1671.2-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1671.2-2012
+      format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Trademarks
+- content: XML
+- content: Instruments
+- content: Patents
+- content: Automatic test equipment
+- content: 1671.2-2008
+- content: ATML instance document
+- content: ATS
+- content: automatic test equipment (ATE)
+- content: Automatic Test Markup Language (ATML)
+- content: automatic test system
+- content: instrument
+- content: instrumentation
+- content: synthetic instrument (SI)
+- content: XML schema
+editorialgroup:
+  committee:
+  - IEEE-SASB Coordinating Committees
+ics:
+- code: 35.240.30
+  text: IT applications in information, documentation and publishing
+- code: '19.080'
+  text: Electrical and electronic testing
+- code: '25.040'
+  text: Industrial automation systems
+- code: '35.060'
+  text: Languages used in information technology
+ext:
+  schema-version: v1.0.0

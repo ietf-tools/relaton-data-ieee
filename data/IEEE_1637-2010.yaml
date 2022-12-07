@@ -28,6 +28,8 @@ date:
   value: '2010-06-01'
 - type: created
   value: '2010-05-05'
+- type: published
+  value: '2021-07-27'
 - type: issued
   value: '2010-02-02'
 contributor:
@@ -39,6 +41,7 @@ contributor:
     url: http://www.ieee.org
   role:
   - type: publisher
+revdate: '2021-07-27'
 language:
 - en
 script:
@@ -65,7 +68,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: superseded
 copyright:
 - owner:
   - name:
@@ -74,6 +77,17 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2010'
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEEP1637-D-1-2019-07
+    docid:
+    - id: IEEE P1637/D-1-2019-07
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE P1637/D-1-2019-07
+      format: text/plain
 keyword:
 - content: IEEE standards
 - content: Power cables
@@ -83,7 +97,7 @@ keyword:
 - content: termination
 editorialgroup:
   committee:
-  - Insulated Conductors of IEEE Power & Energy Society
+  - Insulated Conductors of the IEEE Power and Energy Society
 ics:
 - code: 29.240.20
   text: Power transmission and distribution lines

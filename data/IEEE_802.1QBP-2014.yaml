@@ -1,0 +1,115 @@
+---
+schema-version: v1.2.1
+id: IEEE802.1Qbp-2014
+title:
+- content: 'IEEE Standard for Local and metropolitan area networks - Media Access
+    Control (MAC) Bridges and Virtual Bridged Local Area Networks - Amendment 22:
+    Equal Cost Multiple Path (ECMP)'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/6783684
+  type: src
+type: standard
+docid:
+- id: IEEE 802.1Qbp-2014
+  type: IEEE
+  primary: true
+- id: IEEE 802.1Qbp®-2014
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-0-7381-9001-3
+  type: ISBN
+- id: 10.1109/IEEESTD.2014.6783684
+  type: DOI
+docnumber: IEEE 802.1Qbp-2014
+date:
+- type: updated
+  value: '2014-07-18'
+- type: created
+  value: '2014'
+- type: published
+  value: '2014-04-04'
+- type: issued
+  value: '2014-03-27'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  role:
+  - type: publisher
+revdate: '2014-04-04'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Routing algorithms and relay behavior supporting equal cost multipath forwarding
+    in shortest path bridged VLANs are specified in this amendment to IEEE Std 802.1Q.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: superseded
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2014'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE802.1Q-2011
+    docid:
+    - id: IEEE 802.1Q-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1Q-2011
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Media Access Protocol
+- content: Bridge circuits
+- content: Costs
+- content: Shortest path problem
+- content: amendment
+- content: Bridged Local Area Networks
+- content: ECMP
+- content: Equal Cost Multiple Paths
+- content: IEEE 802.1Q(TM)
+- content: IEEE 802.1Qbp(TM)
+- content: LANs
+- content: local area networks
+- content: MAC Bridges
+- content: MANs
+- content: metropolitan area networks
+- content: Shortest Path Bridging
+- content: Virtual Bridged Local Area Networks
+editorialgroup:
+  committee:
+  - LAN/MAN Standards Committee of the IEEE Computer Society
+ics:
+- code: '35.110'
+  text: Networking
+ext:
+  schema-version: v1.0.0

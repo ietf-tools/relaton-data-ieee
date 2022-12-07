@@ -27,8 +27,6 @@ docid:
   type: DOI
 docnumber: ISO/IEC/IEEE 8802.3/Amd6-2017
 date:
-- type: updated
-  value: '2020-09-25'
 - type: created
   value: '2018-12-11'
 - type: published
@@ -64,7 +62,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: superseded
 copyright:
 - owner:
   - name:
@@ -77,6 +75,17 @@ copyright:
   - name:
     - content: IEC
   from: '2018'
+relation:
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.3bn-2016
+    docid:
+    - id: IEEE 802.3bn-2016
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3bn-2016
+      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: ISO Standards

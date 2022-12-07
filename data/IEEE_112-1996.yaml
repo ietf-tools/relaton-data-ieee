@@ -1,0 +1,113 @@
+---
+schema-version: v1.2.1
+id: IEEE112-1996
+title:
+- content: IEEE Standard Test Procedure for Polyphase Induction Motors and Generators
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/587531
+  type: src
+type: standard
+docid:
+- id: IEEE 112-1996
+  type: IEEE
+  primary: true
+- id: IEEE 112™-1996
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-0-7381-0775-2
+  type: ISBN
+- id: 10.1109/IEEESTD.1997.82360
+  type: DOI
+docnumber: IEEE 112-1996
+date:
+- type: created
+  value: '1997-05-08'
+- type: published
+  value: '2018-06-12'
+- type: issued
+  value: '1996-09-19'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2018-06-12'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Instructions are given for conducting and reporting the more generally
+    applicable and acceptable tests to determine the performance characteristics of
+    polyphase induction motors and generators. Electrical measurements, performance
+    testing, temperature tests, and miscellaneous tests are covered.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: superseded
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '1997'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE112-1991
+    docid:
+    - id: IEEE 112-1991
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 112-1991
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE112-2004
+    docid:
+    - id: IEEE 112-2004
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 112-2004
+      format: text/plain
+keyword:
+- content: Induction motors
+- content: generators
+- content: motors
+- content: tests
+editorialgroup:
+  committee:
+  - Electric Machinery of the IEEE Power and Energy Society
+ics:
+- code: 29.160.20
+  text: Generators
+- code: 29.160.30
+  text: Motors
+ext:
+  schema-version: v1.0.0

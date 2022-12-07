@@ -1,0 +1,118 @@
+---
+schema-version: v1.2.1
+id: IEEE802.1AEbw-2013
+title:
+- content: 'IEEE Standard for Local and metropolitan area networks—Media Access Control
+    (MAC) Security Amendment 2: Extended Packet Numbering'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/6461376
+  type: src
+type: standard
+docid:
+- id: IEEE 802.1AEbw-2013
+  type: IEEE
+  primary: true
+- id: IEEE 802.1AEbw®-2013
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-0-7381-8148-6
+  type: ISBN
+- id: 10.1109/IEEESTD.2013.6461376
+  type: DOI
+docnumber: IEEE 802.1AEbw-2013
+date:
+- type: updated
+  value: '2013-03-11'
+- type: created
+  value: '2013-02-12'
+- type: published
+  value: '2013-02-13'
+- type: issued
+  value: '2013-02-06'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  role:
+  - type: publisher
+revdate: '2013-02-13'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The optional use of Cipher Suites that make use of a 64-bit (PN) to allow
+    more than 232 MACsec protected frames to be sent with a single Secure Association
+    Key are specified by this amendment.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: superseded
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2013'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE802.1AE-2006
+    docid:
+    - id: IEEE 802.1AE-2006
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1AE-2006
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Media Access Protocol
+- content: Network security
+- content: Bridge circuits
+- content: authorized port
+- content: confidentiality
+- content: data origin authenticity
+- content: IEEE 802.1AE
+- content: IEEE 802.1AEbw
+- content: integrity
+- content: LANs
+- content: local area networks
+- content: MAC Bridges
+- content: MAC security
+- content: MAC Service
+- content: MANs
+- content: metropolitan area networks
+- content: port based network access control
+- content: secure association
+- content: security
+- content: transparent bridging
+editorialgroup:
+  committee:
+  - LAN/MAN Standards Committee of the IEEE Computer Society
+ics:
+- code: '35.110'
+  text: Networking
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,102 @@
+---
+schema-version: v1.2.1
+id: IEEE1012a-1998
+title:
+- content: IEEE Standard for Software Verification and Validation - Content Map to
+    IEEE 12207.1
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/6936453
+  type: src
+type: standard
+docid:
+- id: IEEE 1012a-1998
+  type: IEEE
+  primary: true
+- id: IEEE 1012a™-1998
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-0-7381-1426-2
+  type: ISBN
+- id: 10.1109/IEEESTD.1998.6936453
+  type: DOI
+docnumber: IEEE 1012a-1998
+date:
+- type: updated
+  value: '2014-11-14'
+- type: created
+  value: '1998-12-21'
+- type: published
+  value: '2014-10-24'
+- type: issued
+  value: '1998-09-16'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  role:
+  - type: publisher
+revdate: '2014-10-24'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The relationship between the two sets of requirements on plans for verification
+    and validation of software, found in IEEE Std 1012-1998 and IEEE/EIA 12207.1-1997,
+    is explained so that users may produce documents that comply with both standards.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: superseded
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '1998'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1012-1998
+    docid:
+    - id: IEEE 1012-1998
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1012-1998
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE standards
+- content: Software standards
+- content: Software testing
+- content: Formal verification
+- content: life cycle data plans
+- content: qualification test
+- content: verification and validation
+editorialgroup:
+  committee:
+  - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society
+ics:
+- code: '35.080'
+  text: Software
+ext:
+  schema-version: v1.0.0

@@ -8,7 +8,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/6156408
+- content: https://ieeexplore.ieee.org/document/9056871
   type: src
 type: standard
 docid:
@@ -19,12 +19,14 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-0-7381-6894-4
+- id: 978-0-7381-6133-4
   type: ISBN
 docnumber: IEEE C57.12.60-2009
 date:
 - type: created
   value: '2010'
+- type: published
+  value: '2020-04-03'
 - type: issued
   value: '2009-11-09'
 contributor:
@@ -34,12 +36,9 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-    contact:
-    - address:
-        city: Piscataway
-        country: USA
   role:
   - type: publisher
+revdate: '2020-04-03'
 language:
 - en
 script:
@@ -58,7 +57,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: superseded
 copyright:
 - owner:
   - name:
@@ -66,13 +65,41 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2011'
+  from: '2010'
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEEC57.12.60-2020
+    docid:
+    - id: IEEE C57.12.60-2020
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C57.12.60-2020
+      format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC57.12.60-1998
+    docid:
+    - id: IEEE C57.12.60-1998
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C57.12.60-1998
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
-- content: IEEE standards
-- content: Transfomers
-- content: Thermal analysis
+- content: IEEE Standards
+- content: Power transformers
 - content: Insulation
-- content: Coils
+- content: Thermal analysis
+- content: Resin
 - content: C57.12.60-2009
 - content: insulation systems
 - content: model transformer coils
@@ -82,7 +109,7 @@ keyword:
 - content: thermal evaluation
 editorialgroup:
   committee:
-  - Transformers of the IEEE Power &amp; Energy Society
+  - Transformers of the IEEE Power and Energy Society
 ics:
 - code: '29.180'
   text: Transformers. Reactors

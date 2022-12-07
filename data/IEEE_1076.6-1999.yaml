@@ -1,0 +1,95 @@
+---
+schema-version: v1.2.1
+id: IEEE1076.6-1999
+title:
+- content: IEEE Standard for VHDL Register Transfer Level Synthesis
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/836335
+  type: src
+type: standard
+docid:
+- id: IEEE 1076.6-1999
+  type: IEEE
+  primary: true
+- id: IEEE 1076.6™-1999
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-0-7381-1820-8
+  type: ISBN
+- id: 10.1109/IEEESTD.2000.91308
+  type: DOI
+docnumber: IEEE 1076.6-1999
+date:
+- type: created
+  value: '2000'
+- type: published
+  value: '2016-10-20'
+- type: issued
+  value: '1999-09-16'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2016-10-20'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: A standard syntax and semantics for VHDL register transfer level (RTL)
+    synthesis is defined. The subset of IEEE 1076 (VHDL) that is suitable for RTL
+    synthesis is defined, along with the semantics of that subset for the synthesis
+    domain.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: superseded
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2000'
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE1076.6-2004
+    docid:
+    - id: IEEE 1076.6-2004
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1076.6-2004
+      format: text/plain
+keyword:
+- content: Hardware design languages
+- content: pragma
+- content: register transfer level (RTL)
+- content: synthesis
+- content: VHDL
+editorialgroup:
+  committee:
+  - Design Automation of the IEEE Computer Society
+ics:
+- code: '35.060'
+  text: Languages used in information technology
+ext:
+  schema-version: v1.0.0

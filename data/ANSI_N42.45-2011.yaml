@@ -24,14 +24,12 @@ docid:
   type: DOI
 docnumber: ANSI N42.45-2011
 date:
-- type: updated
-  value: '2011-11-18'
 - type: created
   value: '2011-05-23'
 - type: published
-  value: '2012-05-17'
+  value: '2011-05-31'
 - type: issued
-  value: '2012-05-17'
+  value: '2011'
 contributor:
 - organization:
     name:
@@ -39,9 +37,13 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
-revdate: '2012-05-17'
+revdate: '2011-05-31'
 language:
 - en
 script:
@@ -59,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: superseded
 copyright:
 - owner:
   - name:
@@ -85,11 +87,9 @@ keyword:
 - content: security
 editorialgroup:
   committee:
-  - Radiation Instrumentation of the Accredited Standards Committee N42
+  - National Committee on Radiation Instrumentation
 ics:
-- code: '13.310'
-  text: Protection against crime
-- code: 35.240.99
-  text: IT applications in other fields
+- code: 01.040.11
+  text: Health care technology (Vocabularies)
 ext:
   schema-version: v1.0.0

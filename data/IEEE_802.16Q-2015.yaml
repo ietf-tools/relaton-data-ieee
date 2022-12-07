@@ -1,0 +1,118 @@
+---
+schema-version: v1.2.1
+id: IEEE802.16q-2015
+title:
+- content: 'IEEE Standard for Air Interface for Broadband Wireless Access Systems--
+    Amendment 3: Multi-tier Networks'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/7063199
+  type: src
+type: standard
+docid:
+- id: IEEE 802.16q-2015
+  type: IEEE
+  primary: true
+- id: IEEE 802.16q®-2015
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-0-7381-9511-7
+  type: ISBN
+- id: 10.1109/IEEESTD.2015.7063199
+  type: DOI
+docnumber: IEEE 802.16q-2015
+date:
+- type: updated
+  value: '2015-04-03'
+- type: created
+  value: '2015'
+- type: published
+  value: '2015-03-18'
+- type: issued
+  value: '2015-02-16'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  role:
+  - type: publisher
+revdate: '2015-03-18'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: MAC/PHY protocol enhancements for cooperation among base stations in multi-tier
+    networks to enhance interference mitigation, mobility management, and base station
+    power management are specified in this amendment. Enhanced base stations shall
+    support legacy mobile stations. PHY changes to any mobile stations are out of
+    scope. In addition, these protocol enhancements include management messaging between
+    base stations, and between base stations and mobile stations.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: superseded
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2015'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE802.16-2009
+    docid:
+    - id: IEEE 802.16-2009
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.16-2009
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Broadband communication
+- content: OFDM
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Wireless LAN
+- content: Wireless communication
+- content: amendment
+- content: broadband wireless access (BWA)
+- content: IEEE 802.16(TM)
+- content: IEEE 802.16q(TM)
+- content: multi-tier network
+- content: mobile broadband
+- content: orthogonal frequency-division multiple access (OFDMA)
+- content: WirelessMAN-OFDMA Air Interface
+- content: wireless metropolitan area networks
+editorialgroup:
+  committee:
+  - LAN/MAN Standards Committee of the IEEE Computer Society
+ics:
+- code: '35.110'
+  text: Networking
+- code: 35.100.20
+  text: Data link layer
+- code: 35.100.10
+  text: Physical layer
+ext:
+  schema-version: v1.0.0

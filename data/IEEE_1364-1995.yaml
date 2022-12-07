@@ -1,0 +1,107 @@
+---
+schema-version: v1.2.1
+id: IEEE1364-1995
+title:
+- content: IEEE Standard Hardware Description Language Based on the Verilog(R) Hardware
+    Description Language
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/803556
+  type: src
+type: standard
+docid:
+- id: IEEE 1364-1995
+  type: IEEE
+  primary: true
+- id: IEEE 1364™-1995
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-0-7381-3065-1
+  type: ISBN
+- id: 10.1109/IEEESTD.1996.81542
+  type: DOI
+docnumber: IEEE 1364-1995
+date:
+- type: created
+  value: '1996-10-14'
+- type: published
+  value: '2014-10-17'
+- type: issued
+  value: '1995-12-12'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2014-10-17'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The Verilog Hardware Description Language (HDL) is defined. Verilog HDL
+    is a formal notation intended for use in all phases of the creation of electronic
+    systems. Because it is both machine readable and human readable, it supports the
+    development, verification, synthesis, and testing of hardware designs; the communication
+    of hardware design data; and the maintenance, modification, and procurement of
+    hardware. The primary audiences for this standard are the implementors of tools
+    supporting the language and advanced users of the language.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: superseded
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '1996'
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE1364-2001
+    docid:
+    - id: IEEE 1364-2001
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1364-2001
+      format: text/plain
+keyword:
+- content: Hardware design languages
+- content: computer
+- content: computer languages
+- content: electronic systems
+- content: digital systems
+- content: hardware design
+- content: hardware description language
+- content: HDL
+- content: programming language
+- content: language interface
+- content: PLI
+- content: verilog HDL
+- content: verilog PLI
+editorialgroup:
+  committee:
+  - Design Automation of the IEEE Computer Society
+ics:
+- code: '35.060'
+  text: Languages used in information technology
+ext:
+  schema-version: v1.0.0

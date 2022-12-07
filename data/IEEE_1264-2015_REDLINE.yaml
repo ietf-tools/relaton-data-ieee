@@ -40,7 +40,7 @@ contributor:
     url: http://www.ieee.org
     contact:
     - address:
-        city: Piscataway
+        city: New York
         country: USA
   role:
   - type: publisher
@@ -61,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: superseded
 copyright:
 - owner:
   - name:
@@ -70,6 +70,34 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2015'
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE1264-2022
+    docid:
+    - id: IEEE 1264-2022
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1264-2022
+      format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1264-1993
+    docid:
+    - id: IEEE 1264-1993
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1264-1993
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Substations

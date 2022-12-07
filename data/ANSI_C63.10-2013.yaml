@@ -65,7 +65,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: superseded
 copyright:
 - owner:
   - name:
@@ -79,6 +79,34 @@ copyright:
       content: ANSI
     url: https://www.ansi.org
   from: '2013'
+relation:
+- type: updates
+  bibitem:
+    id: ANSIC63.10-2009
+    docid:
+    - id: ANSI C63.10-2009
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI C63.10-2009
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: ANSIC63.10-2020
+    docid:
+    - id: ANSI C63.10-2020
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI C63.10-2020
+      format: text/plain
 keyword:
 - content: ANSI standards
 - content: Spread spectrum management

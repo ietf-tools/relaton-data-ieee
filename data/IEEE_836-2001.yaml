@@ -1,0 +1,119 @@
+---
+schema-version: v1.2.1
+id: IEEE836-2001
+title:
+- content: IEEE Recommended Practice for Precision Centrifuge Testing of Linear Accelerometers
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/972832
+  type: src
+type: standard
+docid:
+- id: IEEE 836-2001
+  type: IEEE
+  primary: true
+- id: IEEE 836™-2001
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-0-7381-2943-3
+  type: ISBN
+- id: 10.1109/IEEESTD.2001.93362
+  type: DOI
+docnumber: IEEE 836-2001
+date:
+- type: created
+  value: '2001-11-07'
+- type: published
+  value: '2019-04-05'
+- type: issued
+  value: '2001-06-14'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2019-04-05'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This recommended practice provides a guide to the conduct and analysis
+    of precision centrifuge tests of linear accelerometers, covering each phase of
+    the tests, beginning with the planning. Possible error sources and typical methods
+    of data analysis are addressed. The intent is to provide those involved in centrifuge
+    testing with a detailed understanding of the various factors affecting the accuracy
+    of measurement, both those associated with the centrifuge and those in the data
+    collection process. Model equations are discussed, both for the centrifuge and
+    for a typical linear accelerometer, each with the complexity needed to accommodate
+    the various identified characteristics and error sources in each. An iterative
+    matrix equation solution is presented for deriving the various model equation
+    coefficients for the accelerometer under test from the centrifuge test data.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: superseded
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2001'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE836-1991
+    docid:
+    - id: IEEE 836-1991
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 836-1991
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE836-2009
+    docid:
+    - id: IEEE 836-2009
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 836-2009
+      format: text/plain
+keyword:
+- content: Acceleration measurement
+- content: accelerometer
+- content: accelerometer test
+- content: centrifuge
+- content: linear accelerometer
+editorialgroup:
+  committee:
+  - Gyro Accelerometer Panel of the IEEE Aerospace and Electronic Systems Society
+ics:
+- code: '49.090'
+  text: On-board equipment and instruments
+ext:
+  schema-version: v1.0.0

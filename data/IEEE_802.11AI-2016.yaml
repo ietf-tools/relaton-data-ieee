@@ -2,8 +2,8 @@
 schema-version: v1.2.1
 id: IEEE802.11ai-2016
 title:
-- content: 'IEEE Standard for Information technology--Telecommunications and information
-    exchange between systems - Local and metropolitan area networks--Specific requirements
+- content: 'IEEE Standard for Information technology—Telecommunications and information
+    exchange between systems - Local and metropolitan area networks—Specific requirements
     Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications
     Amendment 1: Fast Initial Link Setup'
   format: text/plain
@@ -59,7 +59,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: superseded
 copyright:
 - owner:
   - name:
@@ -69,6 +69,16 @@ copyright:
     url: http://www.ieee.org
   from: '2016'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: ISO-IEC-IEEE8802.11-Amd1-2018
+    docid:
+    - id: ISO/IEC/IEEE 8802.11/Amd1-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ISO/IEC/IEEE 8802.11/Amd1-2018
+      format: text/plain
 - type: updates
   bibitem:
     id: IEEE802.11-2016
@@ -96,7 +106,7 @@ keyword:
 - content: amendment
 - content: Fast Initial Link setup
 - content: FILS
-- content: IEEE 802.11ai(TM)
+- content: IEEE 802.11ai&#8482;
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

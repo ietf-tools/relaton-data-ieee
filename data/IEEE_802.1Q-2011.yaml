@@ -1,0 +1,109 @@
+---
+schema-version: v1.2.1
+id: IEEE802.1Q-2011
+title:
+- content: IEEE Standard for Local and metropolitan area networks--Media Access Control
+    (MAC) Bridges and Virtual Bridged Local Area Networks
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/6009146
+  type: src
+type: standard
+docid:
+- id: IEEE 802.1Q-2011
+  type: IEEE
+  primary: true
+- id: IEEE 802.1Q®-2011
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-0-7381-6708-4
+  type: ISBN
+- id: 10.1109/IEEESTD.2011.6009146
+  type: DOI
+docnumber: IEEE 802.1Q-2011
+date:
+- type: updated
+  value: '2011-11-07'
+- type: created
+  value: '2011-08-31'
+- type: published
+  value: '2012-05-18'
+- type: issued
+  value: '2011-05-16'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  role:
+  - type: publisher
+revdate: '2012-05-18'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This standard specifies how the MAC Service is supported by Virtual Bridged
+    Local Area Networks, the principles of operation of those networks, and the operation
+    of VLAN-aware Bridges, including management, protocols, and algorithms.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: superseded
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2012'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE802.1Q-2005
+    docid:
+    - id: IEEE 802.1Q-2005
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1Q-2005
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Media Access Protocol
+- content: Bridge circuits
+- content: Bridged Local Area Networks
+- content: local area networks (LANs)
+- content: MAC Bridges
+- content: metropolitan area networks
+- content: Multiple Spanning Tree Protocol (MSTP)
+- content: Rapid Spanning Tree Protocol (RSTP)
+- content: Virtual Bridged Local Area Networks (virtual LANs)
+editorialgroup:
+  committee:
+  - LAN/MAN Standards Committee of the IEEE Computer Society
+ics:
+- code: '35.110'
+  text: Networking
+- code: 35.100.20
+  text: Data link layer
+ext:
+  schema-version: v1.0.0

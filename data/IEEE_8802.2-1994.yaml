@@ -1,0 +1,124 @@
+---
+schema-version: v1.2.1
+id: IEEE8802.2-1994
+title:
+- content: 'ISO/IEC/IEEE International Standard - Information Technology - Telecommunications
+    and information exchange between systems - Local and metropolitan area networks
+    - Specific requirements - Part 2: Logical link control'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/4140828
+  type: src
+type: standard
+docid:
+- id: IEEE 8802.2-1994
+  type: IEEE
+  primary: true
+- id: IEEE 8802.2™-1994
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-1-55937-392-0
+  type: ISBN
+- id: 10.1109/IEEESTD.1994.339584
+  type: DOI
+docnumber: IEEE 8802.2-1994
+date:
+- type: created
+  value: '1994-12-30'
+- type: published
+  value: '2016-01-06'
+- type: issued
+  value: '1994'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2016-01-06'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The functions, features, protocol, and services of the Logical Link Control
+    (LLC) sublayer, which constitutes the top sublayer in the data link layer of the
+    ISO/IEC 8802 Local Area Network Protocol, are described. The services required
+    of, or by, the LLC sublayer at the logical interfaces with the network layer,
+    the MAC sublayer, and the LLC sublayer management function are specified. The
+    protocol data unit (PDU) structure for data communication systems is defined using
+    bit-oriented procedures, as are three types of operation for data communication
+    between service access points. In the first type of operation, PDUs are exchanged
+    between LLCs without the need for the establishment of a data link connection.
+    In the second type of operation, a data link connection is established between
+    two LLCs prior to any exchange of information-bearing PDUs. In the third type
+    of operation, PDUs are exchanged between LLCs without the need for the establishment
+    of a data link connection, but stations are permitted to both send data and request
+    the return of data simultaneously. Incorporating IEEE Stds 802.2-1989, 802.2a-1993,
+    802.2b-1993, 802.2d-1993, 802.2e-1993, and 802.5p-1993.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: superseded
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '1994'
+relation:
+- type: updates
+  bibitem:
+    id: ISO8802.2
+    docid:
+    - id: ISO 8802.2
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ISO 8802.2
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: ISO Standards
+- content: IEC Standards
+- content: Protocols
+- content: IEEE Standards
+- content: Physical layer
+- content: Local area networks
+- content: Local area networks
+- content: protocols
+- content: logical link control
+- content: LAN
+editorialgroup:
+  committee:
+  - LAN/MAN Standards Committee of the IEEE Computer Society
+ics:
+- code: 35.100.20
+  text: Data link layer
+- code: 35.100.10
+  text: Physical layer
+- code: '35.110'
+  text: Networking
+ext:
+  schema-version: v1.0.0

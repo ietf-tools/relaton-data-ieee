@@ -43,7 +43,7 @@ contributor:
     url: http://www.ieee.org
     contact:
     - address:
-        city: Piscataway
+        city: New York
         country: USA
   role:
   - type: publisher
@@ -66,7 +66,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: superseded
 copyright:
 - owner:
   - name:
@@ -75,6 +75,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2011'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE450-2002
+    docid:
+    - id: IEEE 450-2002
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 450-2002
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Batteries
@@ -106,7 +124,8 @@ keyword:
 - content: vented lead-acid battery
 editorialgroup:
   committee:
-  - Stationary Batteries Committee of the IEEE Power &amp; Energy Society
+  - Energy Storage &amp; Stationary Battery Committee of the IEEE Power and Energy
+    Society
 ics:
 - code: 29.220.20
   text: Acid secondary cells and batteries

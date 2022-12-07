@@ -1,0 +1,108 @@
+---
+schema-version: v1.2.1
+id: IEEE738-1993
+title:
+- content: IEEE Standard for Calculating the Current-Temperature of Bare Overhead
+    Conductors
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/347648
+  type: src
+type: standard
+docid:
+- id: IEEE 738-1993
+  type: IEEE
+  primary: true
+- id: IEEE 738™-1993
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-0-7381-0365-5
+  type: ISBN
+- id: 10.1109/IEEESTD.1993.120365
+  type: DOI
+docnumber: IEEE 738-1993
+date:
+- type: created
+  value: '1993-11-08'
+- type: published
+  value: '2019-04-05'
+- type: issued
+  value: '1993-06-17'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2019-04-05'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: A simplified method of calculating the current-temperature relationship
+    of bare overhead lines, given the weather conditions, is presented. Along with
+    a mathematical method, sources of the values to be used in the calculation are
+    indicated. This standard does not undertake to list actual temperature-ampacity
+    relationships for a large number of conductors in a large number of conditions.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: superseded
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '1993'
+relation:
+- type: updates
+  bibitem:
+    id: ANSI-IEEE738-1986
+    docid:
+    - id: ANSI/IEEE 738-1986
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI/IEEE 738-1986
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Conductors
+- content: Consumer electronics
+- content: Patents
+- content: Steady-state
+- content: Transient analysis
+- content: bare overhead lines
+- content: current temperature
+- content: relationship
+editorialgroup:
+  committee:
+  - Transmission and Distribution of the IEEE Power and Energy Society
+ics:
+- code: 29.240.20
+  text: Power transmission and distribution lines
+ext:
+  schema-version: v1.0.0

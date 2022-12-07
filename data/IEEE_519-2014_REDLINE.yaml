@@ -11,7 +11,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/7047985
+- content: https://ieeexplore.ieee.org/document/9849490
   type: src
 type: standard
 docid:
@@ -29,7 +29,7 @@ date:
 - type: created
   value: '2014'
 - type: published
-  value: '2015-02-24'
+  value: '2022-08-03'
 - type: issued
   value: '2014-03-27'
 contributor:
@@ -41,11 +41,11 @@ contributor:
     url: http://www.ieee.org
     contact:
     - address:
-        city: Piscataway
+        city: New York
         country: USA
   role:
   - type: publisher
-revdate: '2015-02-24'
+revdate: '2022-08-03'
 language:
 - en
 script:
@@ -56,7 +56,7 @@ abstract:
     current waveforms that may exist throughout the system are described, and waveform
     distortion goals for the system designer are established. The interface between
     sources and loads is described as the point of common coupling and observance
-    of the design goals will reduce interference between electrical equipment.This
+    of the design goals will reduce interference between electrical equipment. This
     recommended practice addresses steady-state limitations. Transient conditions
     exceeding these limitations may be encountered. This document sets the quality
     of power that is to be provided at the point of common coupling. This document
@@ -69,7 +69,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: superseded
 copyright:
 - owner:
   - name:
@@ -78,12 +78,40 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2015'
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEEP519-D-5.1-2021-01
+    docid:
+    - id: IEEE P519/D-5.1-2021-01
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE P519/D-5.1-2021-01
+      format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE519-1992
+    docid:
+    - id: IEEE 519-1992
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 519-1992
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
-- content: IEEE standards
-- content: Harmonic analysis
-- content: Power system harmonics
+- content: IEEE Standards
 - content: Power quality
-- content: Power system planning
+- content: Harmonic analysis
+- content: Power systems
+- content: Power distribution
 - content: harmonics
 - content: IEEE 519(TM)
 - content: power quality
@@ -91,7 +119,7 @@ editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society
 ics:
-- code: '29.200'
-  text: Rectifiers. Converters. Stabilized power supply
+- code: '27.100'
+  text: Power stations in general
 ext:
   schema-version: v1.0.0

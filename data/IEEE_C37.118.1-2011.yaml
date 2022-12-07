@@ -1,0 +1,136 @@
+---
+schema-version: v1.2.1
+id: IEEEC37.118.1-2011
+title:
+- content: IEEE Standard for Synchrophasor Measurements for Power Systems
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/6111219
+  type: src
+type: standard
+docid:
+- id: IEEE C37.118.1-2011
+  type: IEEE
+  primary: true
+- id: IEEE C37.118.1™-2011
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-0-7381-6811-1
+  type: ISBN
+- id: 10.1109/IEEESTD.2011.6111219
+  type: DOI
+docnumber: IEEE C37.118.1-2011
+date:
+- type: updated
+  value: '2012-01-16'
+- type: created
+  value: '2011-12-28'
+- type: published
+  value: '2014-12-03'
+- type: issued
+  value: '2011-12-07'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  role:
+  - type: publisher
+revdate: '2014-12-03'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Synchronized phasor (synchrophasor) measurements for power systems are
+    presented. This standard defines synchrophasors, frequency, and rate of change
+    of frequency (ROCOF) measurement under all operating conditions. It specifies
+    methods for evaluating these measurements and requirements for compliance with
+    the standard under both steady-state and dynamic conditions. Time tag and synchronization
+    requirements are included. Performance requirements are confirmed with a reference
+    model, provided in detail. This document defines a phasor measurement unit (PMU),
+    which can be a stand-alone physical unit or a functional unit within another physical
+    unit. This standard does not specify hardware, software, or a method for computing
+    phasors, frequency, or ROCOF.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: superseded
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2011'
+relation:
+- type: updates
+  bibitem:
+    id: IEEEC37.118-2005
+    docid:
+    - id: IEEE C37.118-2005
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.118-2005
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEC-IEEE60255.118-1-2018
+    docid:
+    - id: IEC/IEEE 60255.118-1-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEC/IEEE 60255.118-1-2018
+      format: text/plain
+keyword:
+- content: IEEE standards
+- content: Data storage
+- content: Data processing
+- content: Vectors
+- content: Error statistics
+- content: Phasor measurement units
+- content: Synchronization
+- content: data concentrator
+- content: DC
+- content: FE
+- content: frequency error
+- content: IEEE C37.118.1
+- content: IRIG-B
+- content: PDC
+- content: phasor
+- content: phasor measurement
+- content: phasor measurement unit
+- content: PMU
+- content: RFE
+- content: ROCOF
+- content: ROCOF error
+- content: synchronized phasor
+- content: synchrophasor
+- content: total vector error
+- content: TVE
+editorialgroup:
+  committee:
+  - Power System Relaying and Control of the IEEE Power and Energy Society
+ics:
+- code: 17.220.20
+  text: Measurement of electrical and magnetic quantities
+ext:
+  schema-version: v1.0.0

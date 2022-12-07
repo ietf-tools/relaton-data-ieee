@@ -1,0 +1,138 @@
+---
+schema-version: v1.2.1
+id: IEEE802.3by-2016
+title:
+- content: 'IEEE Standard for Ethernet -- Amendment 2: Media Access Control Parameters,
+    Physical Layers, and Management Parameters for 25 Gb/s Operation Amendment 2:
+    Media Access Control Parameters, Physical Layers, and Management Parameters for
+    25 Gb/s Operation'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/7526271
+  type: src
+type: standard
+docid:
+- id: IEEE 802.3by-2016
+  type: IEEE
+  primary: true
+- id: IEEE 802.3by®-2016
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-1-5044-2169-0
+  type: ISBN
+- id: 10.1109/IEEESTD.2016.7526271
+  type: DOI
+docnumber: IEEE 802.3by-2016
+date:
+- type: updated
+  value: '2016-08-12'
+- type: created
+  value: '2016'
+- type: published
+  value: '2016-07-29'
+- type: issued
+  value: '2016-06-30'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  role:
+  - type: publisher
+revdate: '2016-07-29'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This amendment to IEEE Std 802.3-2015 adds Physical Layer (PHY) specifications
+    and management parameters for 25 Gb/s operation over twinaxial copper cabling
+    (25GBASE-CR and 25GBASE-CR-S), electrical backplanes (25GBASE-KR and 25GBASE-KR-S),
+    and multimode fiber (25GBASE-SR). This amendment also specifies a 25 Gigabit Attachment
+    Unit Interface (25GAUI) and optional Energy Efficient Ethernet (EEE).
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: superseded
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2016'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE802.3-2015
+    docid:
+    - id: IEEE 802.3-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3-2015
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: ISO-IEC-IEEE8802.3-Amd2-2017
+    docid:
+    - id: ISO/IEC/IEEE 8802.3/Amd2-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ISO/IEC/IEEE 8802.3/Amd2-2017
+      format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Ethernet
+- content: Time measurement
+- content: Synchronization
+- content: Passive optical networks
+- content: IEEE 802.3 Standard
+- content: 25 Gigabit Ethernet
+- content: 25GAUI
+- content: 25GBASE-CR
+- content: 25GBASE-CR-S
+- content: 25GBASE-KR
+- content: 25GBASE-KR-S
+- content: 25GBASE-SR
+- content: 25GMII
+- content: Auto-Negotiation (AN)
+- content: Backplane Ethernet
+- content: Energy Efficient Ethernet (EEE)
+- content: Ethernet
+- content: Forward Error Correction (FEC)
+- content: IEEE 802(R)
+- content: IEEE 802.3(TM)
+- content: IEEE 802.3by(TM)
+- content: multimode fiber (MMF)
+- content: Physical Coding Sublayer (PCS)
+- content: Physical Medium Attachment (PMA) sublayer
+- content: Physical Medium Dependent (PMD) sublayer
+- content: Reconciliation Sublayer (RS)
+editorialgroup:
+  committee:
+  - LAN/MAN Standards Committee of the IEEE Computer Society
+ics:
+- code: 35.100.10
+  text: Physical layer
+- code: '35.110'
+  text: Networking
+ext:
+  schema-version: v1.0.0

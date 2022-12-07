@@ -1,0 +1,106 @@
+---
+schema-version: v1.2.1
+id: ANSI-IEEEC37.101-1985
+title:
+- content: IEEE Guide for Generator Ground Protection
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/598500
+  type: src
+type: standard
+docid:
+- id: ANSI/IEEE C37.101-1985
+  type: IEEE
+  primary: true
+- id: ANSI/IEEE C37.101™-1985
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-0-7381-4126-8
+  type: ISBN
+- id: 10.1109/IEEESTD.1985.82930
+  type: DOI
+docnumber: ANSI/IEEE C37.101-1985
+date:
+- type: created
+  value: '1985'
+- type: issued
+  value: '1981-12-17'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This guide has been prepared to aid in the application of relays and relaying
+    schemes for the protection of synchronous generators for single-phase-to- ground
+    faults in the stator winding. The guide is not intended for the selection of generator
+    or ground connection schemes. The information included in the main body is limited
+    to those generator connections, grounding practices, and protective schemes generally
+    used in North America. Appendix A provides information on some of the protective
+    schemes in use elsewhere in the world and on schemes which are not in wide- Npread
+    use throughout North America. Appendix B provides examples of how to calculate
+    ground overcurrent and overvoltage relay settings for the various protective schemes
+    (and how to coordinate them with voltage transformer secondary fuses. Appendix
+    C is a bibliography of available literature on the ground-fault problem from which
+    source material was drawn. Recommended protective schemes and the arrangements
+    in which they may be applied are indicated in Table 1. The use of this table is
+    described in Section 3 with supporting information provided in subsequent sections.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: superseded
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '1985'
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEEC37.101-1993
+    docid:
+    - id: IEEE C37.101-1993
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.101-1993
+      format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEEC37.101-1993
+    docid:
+    - id: IEEE C37.101-1993
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.101-1993
+      format: text/plain
+editorialgroup:
+  committee:
+  - Power System Relaying and Control of the IEEE Power and Energy Society
+ics:
+- code: 29.160.20
+  text: Generators
+ext:
+  schema-version: v1.0.0

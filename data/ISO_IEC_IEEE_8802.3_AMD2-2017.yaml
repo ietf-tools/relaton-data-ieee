@@ -62,7 +62,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: superseded
 copyright:
 - owner:
   - name:
@@ -75,6 +75,17 @@ copyright:
   - name:
     - content: IEC
   from: '2018'
+relation:
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.3by-2016
+    docid:
+    - id: IEEE 802.3by-2016
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3by-2016
+      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Ethernet
@@ -95,9 +106,9 @@ keyword:
 - content: Energy Efficient Ethernet (EEE)
 - content: Ethernet
 - content: Forward Error Correction (FEC)
-- content: IEEE 802(R)
-- content: IEEE 802.3(TM)
-- content: IEEE 802.3by(TM)
+- content: IEEE 802
+- content: IEEE 802.3
+- content: IEEE 802.3by
 - content: multimode fiber (MMF)
 - content: Physical Coding Sublayer (PCS)
 - content: Physical Medium Attachment (PMA) sublayer

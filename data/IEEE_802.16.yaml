@@ -1,0 +1,122 @@
+---
+schema-version: v1.2.1
+id: IEEE802.16
+title:
+- content: 'IEEE Standard for Local and Metropolitan Area Networks - Part 16: Air
+    Interface for Fixed and Mobile Broadband Wireless Access Systems - Amendment 3:
+    Management Plane Procedures and Services'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/4431839
+  type: src
+type: standard
+docid:
+- id: IEEE 802.16
+  type: IEEE
+  primary: true
+- id: IEEE 802.16®
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-0-7381-5688-0
+  type: ISBN
+- id: 10.1109/IEEESTD.2007.4431839
+  type: DOI
+docnumber: IEEE 802.16
+date:
+- type: updated
+  value: '2008-03-17'
+- type: created
+  value: '2007-12-31'
+- type: published
+  value: '2019-04-05'
+- type: issued
+  value: '2007-09-27'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  role:
+  - type: publisher
+revdate: '2019-04-05'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This standard defines management procedures as enhancements to the IEEE
+    802.16 air interface standard for fixed and mobile broadband wireless systems.
+    It specifies the management functions, interfaces, and protocol procedures.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: superseded
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2007'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE802.16-2004
+    docid:
+    - id: IEEE 802.16-2004
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.16-2004
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: Wireless communication
+- content: Broadband communication
+- content: IEEE 802.16 Standard
+- content: Communication channels
+- content: Microwave theory and techniques
+- content: broadband wireless access
+- content: BWA
+- content: cellular layer
+- content: fixed broadband wireless access
+- content: MAN
+- content: management information base
+- content: MIB
+- content: microwave
+- content: mobile broadband wireless access
+- content: OFDM
+- content: OFDMA
+- content: radio
+- content: standard
+- content: WAS
+- content: wireless access systems
+- content: wireless metropolitan area network
+- content: WirelessMAN&#174;
+editorialgroup:
+  committee:
+  - LAN/MAN Standards Committee of the IEEE Computer Society
+ics:
+- code: '35.110'
+  text: Networking
+- code: 35.100.20
+  text: Data link layer
+- code: 35.100.10
+  text: Physical layer
+ext:
+  schema-version: v1.0.0

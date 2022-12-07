@@ -1,0 +1,133 @@
+---
+schema-version: v1.2.1
+id: IEEE802.3bu-2016
+title:
+- content: 'IEEE Standard for Ethernet--Amendment 8: Physical Layer and Management
+    Parameters for Power over Data Lines (PoDL) of Single Balanced Twisted-Pair Ethernet'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/7851124
+  type: src
+type: standard
+docid:
+- id: IEEE 802.3bu-2016
+  type: IEEE
+  primary: true
+- id: IEEE 802.3bu®-2016
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-1-5044-3727-1
+  type: ISBN
+- id: 10.1109/IEEESTD.2017.7851124
+  type: DOI
+docnumber: IEEE 802.3bu-2016
+date:
+- type: updated
+  value: '2017-03-03'
+- type: created
+  value: '2017-02-07'
+- type: published
+  value: '2017-02-10'
+- type: issued
+  value: '2016-12-07'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  role:
+  - type: publisher
+revdate: '2017-02-10'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Specifications and management parameters for the provision of power via
+    a single twisted pair to connected Data Terminal Equipment (DTE) with IEEE 802.3
+    single balanced twisted-pair interfaces are added by this amendment to IEEE Std
+    802.3-2015.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: superseded
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2017'
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: ISO-IEC-IEEE8802.3-Amd8-2017
+    docid:
+    - id: ISO/IEC/IEEE 8802.3/Amd8-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ISO/IEC/IEEE 8802.3/Amd8-2017
+      format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.3-2015
+    docid:
+    - id: IEEE 802.3-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3-2015
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: ISO-IEC-IEEE8802.3-Amd8-2017
+    docid:
+    - id: ISO/IEC/IEEE 8802.3/Amd8-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ISO/IEC/IEEE 8802.3/Amd8-2017
+      format: text/plain
+keyword:
+- content: IEEE 802.3 Standard
+- content: Ethernet
+- content: Time measurement
+- content: Synchronization
+- content: Passive optical networks
+- content: IEEE 802.3 Standard
+- content: 100BASE-T1
+- content: 1000BASE-T1
+- content: Ethernet
+- content: IEEE 802.3(TM)
+- content: IEEE 802.3bu(TM)
+- content: Power over Data Lines
+- content: PoDL
+- content: PoDL PD
+- content: PoDL PSE
+editorialgroup:
+  committee:
+  - LAN/MAN Standards Committee of the IEEE Computer Society
+ics:
+- code: 35.100.10
+  text: Physical layer
+- code: '35.110'
+  text: Networking
+ext:
+  schema-version: v1.0.0

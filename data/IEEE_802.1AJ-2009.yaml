@@ -1,0 +1,113 @@
+---
+schema-version: v1.2.1
+id: IEEE802.1aj-2009
+title:
+- content: 'IEEE Standard for Local and Metropolitan Area Networks--Virtual Bridged
+    Local Area Networks Amendment 11: Two-Port Media Access Control (Mac) Relay'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/5372461
+  type: src
+type: standard
+docid:
+- id: IEEE 802.1aj-2009
+  type: IEEE
+  primary: true
+- id: IEEE 802.1aj®-2009
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-0-7381-6139-6
+  type: ISBN
+- id: 10.1109/IEEESTD.2009.5372461
+  type: DOI
+docnumber: IEEE 802.1aj-2009
+date:
+- type: updated
+  value: '2010-02-09'
+- type: created
+  value: '2009-12-30'
+- type: published
+  value: '2019-04-05'
+- type: issued
+  value: '2009-12-09'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  role:
+  - type: publisher
+revdate: '2019-04-05'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This amendment to IEEE Std 802.1 Q specifies the function of a MAC Relay
+    with two MACs, and the protocols and procedures to support its operation. A MAC
+    Relay is transparent to all frame-based media independent protocols except those
+    explicitly addressed to this device. It is remotely manageable through at least
+    one of its external MACs, and signals a failure of either MAC'S LAN through the
+    other MAC.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: superseded
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2009'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE802.1Q-1998
+    docid:
+    - id: IEEE 802.1Q-1998
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1Q-1998
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Local area networks
+- content: Media Access Protocol
+- content: Relays
+- content: Trademarks
+- content: 802.1aj-2009
+- content: 802.1Q-2005
+- content: MAC Relay
+- content: network interface device
+- content: Provider Bridged Networks
+- content: Virtual Bridged Local Area Networks
+- content: Virtual LANs
+- content: VLANs
+editorialgroup:
+  committee:
+  - LAN/MAN Standards Committee of the IEEE Computer Society
+ics:
+- code: '35.110'
+  text: Networking
+- code: 35.100.20
+  text: Data link layer
+ext:
+  schema-version: v1.0.0

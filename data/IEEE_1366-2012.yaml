@@ -23,8 +23,6 @@ docid:
   type: DOI
 docnumber: IEEE 1366-2012
 date:
-- type: updated
-  value: '2012-07-20'
 - type: created
   value: '2012-05-31'
 - type: published
@@ -38,6 +36,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2012-05-31'
@@ -56,7 +58,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: superseded
 copyright:
 - owner:
   - name:
@@ -65,6 +67,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2012'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1366-2003
+    docid:
+    - id: IEEE 1366-2003
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1366-2003
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Indexes
