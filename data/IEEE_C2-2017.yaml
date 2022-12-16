@@ -1,0 +1,130 @@
+---
+schema-version: v1.2.1
+id: IEEEC2-2017
+title:
+- content: 2017 National Electrical Safety Code(R) (NESC(R))
+  format: text/plain
+  type: title-main
+- content: 2017 National Electrical Safety Code(R) (NESC(R)) - Redline
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/7802541
+  type: src
+type: standard
+docid:
+- id: IEEE C2-2017
+  type: IEEE
+  primary: true
+- id: IEEE C2-2017™
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-1-5044-2003-7
+  type: ISBN
+docnumber: IEEE C2-2017
+date:
+- type: created
+  value: '2016-08-01'
+- type: published
+  value: '2016-12-30'
+- type: issued
+  value: '2016'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2016-12-30'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This Code covers basic provisions for safeguarding of persons from hazards
+    arising from the installation, operation, or maintenance of (1) conductors and
+    equipment in electric supply stations, and (2) overhead and underground electric
+    supply and communication lines. It also includes work rules for the construction,
+    maintenance, and operation of electric supply and communication lines and equipment.
+    The Code is applicable to the systems and equipment operated by utilities, or
+    similar systems and equipment, of an industrial establishment or complex under
+    the control of qualified persons. This Code consists of the introduction, definitions,
+    grounding rules, list of referenced and bibliographic documents, and Parts 1,
+    2, 3, and 4 of the 2017 Edition of the National Electrical Safety Code.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2016'
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEEC2-2023
+    docid:
+    - id: IEEE C2-2023
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C2-2023
+      format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC2-2012
+    docid:
+    - id: IEEE C2-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C2-2012
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: ANSI Standards
+- content: Electrical safety
+- content: communications industry safety
+- content: construction of communication lines
+- content: construction of electric upply lines
+- content: electrical safety
+- content: electric supply stations
+- content: electric utility stations
+- content: high-voltage safety
+- content: operation of communications systems
+- content: operation of electric supply systems
+- content: power station equipment
+- content: power station safety
+- content: public utility safety
+- content: safety work rules
+- content: underground communication line safety
+- content: underground electric line safety
+ics:
+- code: '13.260'
+  text: Protection against electric shock. Live working
+- code: '29.020'
+  text: Electrical engineering in general
+ext:
+  schema-version: v1.0.0

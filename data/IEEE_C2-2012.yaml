@@ -2,12 +2,11 @@
 schema-version: v1.2.1
 id: IEEEC2-2012
 title:
-- content: Preprint Proposals for the 2012 Edition of the National Electrical Safety
-    Code
+- content: National Electric Safety Code(R) (NESC(R))
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/5228010
+- content: https://ieeexplore.ieee.org/document/5967877
   type: src
 type: standard
 docid:
@@ -18,20 +17,18 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-0-7381-5958-4
+- id: 978-0-7381-6587-5
   type: ISBN
-- id: 10.1109/IEEESTD.2009.5228010
+- id: 10.1109/IEEESTD.2011.5967877
   type: DOI
 docnumber: IEEE C2-2012
 date:
-- type: updated
-  value: '2009-09-18'
 - type: created
-  value: '2009'
+  value: '2011-08-01'
 - type: published
-  value: '2014-03-14'
+  value: '2011-07-29'
 - type: issued
-  value: '2009'
+  value: '2011'
 contributor:
 - organization:
     name:
@@ -39,36 +36,29 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
-revdate: '2014-03-14'
+revdate: '2011-07-29'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'This publication has been prepared to provide all interested persons an
-    opportunity to study and comment on the Proposed Revisions to be incorporated
-    into the 2012 Edition of the National Electrical Safety Code (NESC<sup>reg</sup>).
-    This Preprint provides the full text of each proposal to revise the 2007 Edition
-    of the NESC together with the recommendation of the subcommittee that has cognizance
-    of the rule addressed by the change proposal (CP). The deadline for receipt of
-    comments on the Proposal Revision contained herein is 1 May 2010. All comments
-    shall be submitted through the Web site shown below. Only comments that are submitted
-    electronically through the Web site will be accepted. (http://standards.ieee.org/nesc/Iumldagger/welcome.html)
-    Comments for each separate topic are to be uploaded separately using the template
-    at the following URL: (http://standards.ieee. org/nesc/rp/Comment.doc). In those
-    cases where a single CP or a group of related CPs affects rules within the scopes
-    of two or more subcommittees, the recommendation of all subcommittees affected
-    are included. Where the recommendation of two or more subcommittees are not compatible
-    with each other, a recommendation by Subcommittee 1, which is responsible for
-    coordination, is also included. Please note that the subcommittee recommendations
-    herein are subject to further review and revision by the cognizant subcommittee
-    following study and evaluation of all comments received. The subcommittee final
-    recommendation will be prepared for a January 2011 letter ballot of the National
-    Electrical Safety Code Committee. It is anticipated that the approved text will
-    be submitted for American National Standards Institute approval in May 2011, with
-    publication of the NESC 2012 Edition on 1 August 2011.'
+- content: This Code covers basic provisions for safeguarding of persons from hazards
+    arising from the installation, operation, or maintenance of (1) conductors and
+    equipment in electric supply stations, and (2) overhead and underground electric
+    supply and communication lines. It also includes work rules for the construction,
+    maintenance, and operation of electric supply and communication lines and equipment.
+    The standard is applicable to the systems and equipment operated by utilities,
+    or similar systems and equipment, of an industrial establishment or complex under
+    the control of qualified persons. This standard consists of the introduction,
+    definitions, grounding rules, list of referenced and bibliographic documents,
+    and Parts 1, 2, 3, and 4 of the 2012 Edition of the National Electrical Safety
+    Code.
   language:
   - en
   script:
@@ -84,22 +74,64 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2009'
+  from: '2011'
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEEC2-2017
+    docid:
+    - id: IEEE C2-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C2-2017
+      format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC2-2007
+    docid:
+    - id: IEEE C2-2007
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C2-2007
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEEC2-2017
+    docid:
+    - id: IEEE C2-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C2-2017
+      format: text/plain
 keyword:
-- content: Portable document format
-- content: Proposals
+- content: IEEE standards
 - content: Electrical safety
-- content: Trademarks
-- content: Web sites
-- content: Software
-- content: Collaboration
-- content: Preprint proposals
-- content: National Electrical Safety Code
-- content: NESC
-- content: C2
-- content: communications
-- content: safety; communication lines; construction of electric supply lines; electrical
-    safety; electric supply stations; electric utility stations; high-voltage safety
+- content: National Electric Code
+- content: communications industry safety
+- content: construction of communication lines
+- content: construction of electric supply lines
+- content: electrical safety
+- content: electric supply stations
+- content: electric utility stations
+- content: high-voltage safety
+- content: operation of communications systems
+- content: operation of electric supply systems
+- content: power station equipment
+- content: power station safety
+- content: public utility safety
+- content: safety work rules
+- content: underground communication line safety
+- content: underground electric line safety
 ics:
 - code: '13.260'
   text: Protection against electric shock. Live working

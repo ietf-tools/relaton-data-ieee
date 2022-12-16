@@ -1,0 +1,115 @@
+---
+schema-version: v1.2.1
+id: ISO-IEEE11073.10420-2022
+title:
+- content: 'IEEE/ISO International Standard--Health informatics--Device interoperability--Part
+    10420: Personal health device communication--Device specialization--Body composition
+    analyzer'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/9982583
+  type: src
+type: standard
+docid:
+- id: ISO/IEEE 11073.10420-2022
+  type: IEEE
+  primary: true
+- id: ISO/IEEE 11073.10420™-2022
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-1-5044-9256-0
+  type: ISBN
+- id: 10.1109/IEEESTD.2022.9982583
+  type: DOI
+docnumber: ISO/IEEE 11073.10420-2022
+date:
+- type: created
+  value: '2022-12-12'
+- type: published
+  value: '2022-12-13'
+- type: issued
+  value: '2022'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2022-12-13'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Within the context of the ISO/IEEE 11073 family of standards for device
+    communication, a normative definition of the communication between personal body
+    composition analyzer agents and managers (e.g., cell phones, personal computers,
+    personal health appliances, set-top boxes) is established by this standard in
+    a manner that enables plug-and-play interoperability. It leverages appropriate
+    portions of existing standards including ISO/IEEE 11073 terminology, information
+    models, application profile standards, and transport standards. It specifies the
+    use of specific term codes, formats, and behaviors in telehealth environments
+    to restrict optionality in base frameworks in favor of interoperability. This
+    standard defines a common core of communication functionality for personal telehealth
+    body composition analyzers. In this context, the phrase “body composition analyzer”
+    is used broadly to cover analyzing devices that measure body impedances and compute
+    the various body components including body fat from the impedance.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  - name:
+    - content: ISO
+  from: '2022'
+relation:
+- type: adoptedFrom
+  bibitem:
+    id: IEEE11073.10420-2020
+    docid:
+    - id: IEEE 11073.10420-2020
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 11073.10420-2020
+      format: text/plain
+keyword:
+- content: IEEE Standards
+- content: ISO Standards
+- content: Bioinformatics
+- content: Medical devices
+- content: Biomedical monitoring
+- content: body composition analyzer
+- content: IEEE 11073-10420
+- content: medical device communication
+- content: personal health devices
+editorialgroup:
+  committee:
+  - IEEE 11073 Standards Committee of the IEEE Engineering in Medicine and Biology
+    Society
+ics:
+- code: 11.040.55
+  text: Diagnostic equipment
+- code: 35.240.80
+  text: IT applications in health care technology
+ext:
+  schema-version: v1.0.0

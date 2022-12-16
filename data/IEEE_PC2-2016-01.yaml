@@ -63,7 +63,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: inapproved
+    value: withdrawn
 copyright:
 - owner:
   - name:
@@ -77,6 +77,41 @@ copyright:
       content: ANSI
     url: https://www.ansi.org
   from: '2016'
+relation:
+- type: updates
+  bibitem:
+    id: IEEEC2-2012
+    docid:
+    - id: IEEE C2-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C2-2012
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC2-2012
+    docid:
+    - id: IEEE C2-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C2-2012
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: ANSI Standards
 - content: National electric code

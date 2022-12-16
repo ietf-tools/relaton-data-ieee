@@ -48,7 +48,7 @@ script:
 - Latn
 docstatus:
   stage:
-    value: inapproved
+    value: withdrawn
 copyright:
 - owner:
   - name:
@@ -57,6 +57,41 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2019'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE16085-2006
+    docid:
+    - id: IEEE 16085-2006
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 16085-2006
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE16085-2006
+    docid:
+    - id: IEEE 16085-2006
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 16085-2006
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: ISO Standards
