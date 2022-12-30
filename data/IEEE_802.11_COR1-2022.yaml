@@ -1,32 +1,36 @@
 ---
 schema-version: v1.2.1
-id: IEEEP802.3de-D-3.1-2022-05
+id: IEEE802.11-Cor1-2022
 title:
-- content: 'IEEE Approved Draft Standard for Ethernet - Amendment 5: Enhancements
-    to the MAC Merge and Time Synchronization Service Interface for Point-to-Point
-    10 Mb/s Single Pair Ethernet'
+- content: 'IEEE Standard for Information Technology--Telecommunications and Information
+    Exchange between Systems - Local and Metropolitan Area Networks--Specific Requirements
+    - Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications
+    - Corrigendum 1 -- Correct IEEE 802.11ay Assignment of Protected Announce Support
+    bit'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/9804358
+- content: https://ieeexplore.ieee.org/document/9999411
   type: src
 type: standard
 docid:
-- id: IEEE P802.3de/D-3.1-2022-05
+- id: IEEE 802.11/Cor1-2022
   type: IEEE
   primary: true
-- id: IEEE P802.3de™/D-3.1-2022-05
+- id: IEEE 802.11®/Cor1-2022
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-8793-1
+- id: 978-1-5044-9182-2
   type: ISBN
-docnumber: IEEE P802.3de/D-3.1-2022-05
+- id: 10.1109/IEEESTD.2022.9999411
+  type: DOI
+docnumber: IEEE 802.11/Cor1-2022
 date:
 - type: created
-  value: '2022'
+  value: '2022-12-27'
 - type: published
-  value: '2022-06-22'
+  value: '2022-12-27'
 - type: issued
   value: '2022-09-21'
 contributor:
@@ -42,16 +46,15 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-06-22'
+revdate: '2022-12-27'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This amendment to IEEE Std 802.3-2022 specifies additions to and appropriate
-    modifications of the IEEE Std 802.3 MAC Merge sublayer and the Time Synchronization
-    Service Interface (TSSI) to support 10 Mb/s Single-Pair Ethernet point to point
-    PHYs.
+- content: A change to IEEE Std 802.11 for wireless local area networks (WLANs) that
+    corrects an error in the position of the Protected Announce Support field in the
+    Extended RSN Capabilities field in the RSN Extension element.
   language:
   - en
   script:
@@ -59,7 +62,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: withdrawn
+    value: approved
 copyright:
 - owner:
   - name:
@@ -71,16 +74,16 @@ copyright:
 relation:
 - type: updates
   bibitem:
-    id: IEEE802.3-2022
+    id: IEEE802.11-2020
     docid:
-    - id: IEEE 802.3-2022
+    - id: IEEE 802.11-2020
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 802.3-2022
+      content: IEEE 802.11-2020
       format: text/plain
   description:
-    content: amends
+    content: corrects
     language:
     - en
     script:
@@ -90,26 +93,18 @@ keyword:
 - content: IEEE Standards
 - content: Local area networks
 - content: Metropolitan area networks
-- content: Ethernet
-- content: Telecommunication traffic
-- content: Synchronization
+- content: Information exchange
+- content: Physical layer
 - content: Media Access Protocol
-- content: 10BASE-T1L
-- content: 10BASE-T1S
-- content: copper
-- content: Ethernet
-- content: express traffic
-- content: IEEE 802.3
-- content: IEEE 802.3cg
-- content: IEEE 802.3de
-- content: preemption
-- content: TSSI
+- content: Information technology
+- content: corrigendum
+- content: IEEE 802.11
+- content: IEEE 802.11ay
+- content: Protected Announce Support field
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society
 ics:
-- code: 35.100.10
-  text: Physical layer
 - code: '35.110'
   text: Networking
 ext:

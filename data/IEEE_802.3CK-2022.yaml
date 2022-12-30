@@ -1,32 +1,34 @@
 ---
 schema-version: v1.2.1
-id: IEEEP802.3de-D-3.1-2022-05
+id: IEEE802.3ck-2022
 title:
-- content: 'IEEE Approved Draft Standard for Ethernet - Amendment 5: Enhancements
-    to the MAC Merge and Time Synchronization Service Interface for Point-to-Point
-    10 Mb/s Single Pair Ethernet'
+- content: 'IEEE Standard for Ethernet Amendment 4: Physical Layer Specifications
+    and Management Parameters for 100 Gb/s, 200 Gb/s, and 400 Gb/s Electrical Interfaces
+    Based on 100 Gb/s Signaling'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/9804358
+- content: https://ieeexplore.ieee.org/document/9999414
   type: src
 type: standard
 docid:
-- id: IEEE P802.3de/D-3.1-2022-05
+- id: IEEE 802.3ck-2022
   type: IEEE
   primary: true
-- id: IEEE P802.3de™/D-3.1-2022-05
+- id: IEEE 802.3ck®-2022
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-8793-1
+- id: 978-1-5044-9294-2
   type: ISBN
-docnumber: IEEE P802.3de/D-3.1-2022-05
+- id: 10.1109/IEEESTD.2022.9999414
+  type: DOI
+docnumber: IEEE 802.3ck-2022
 date:
 - type: created
-  value: '2022'
+  value: '2022-12-28'
 - type: published
-  value: '2022-06-22'
+  value: '2022-12-27'
 - type: issued
   value: '2022-09-21'
 contributor:
@@ -42,16 +44,16 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-06-22'
+revdate: '2022-12-27'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This amendment to IEEE Std 802.3-2022 specifies additions to and appropriate
-    modifications of the IEEE Std 802.3 MAC Merge sublayer and the Time Synchronization
-    Service Interface (TSSI) to support 10 Mb/s Single-Pair Ethernet point to point
-    PHYs.
+- content: This amendment to IEEE Std 802.3-202x adds Clause 161 through Clause 163,
+    Annex 120F, Annex 120G, and Annex 162A through Annex 162D, Annex 163A, and Annex
+    163B. This amendment includes Physical Layer specifications and management parameters
+    for 100 Gb/s, 200 Gb/s, and 400 Gb/s electrical interfaces based on 100 Gb/s signaling.
   language:
   - en
   script:
@@ -59,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: withdrawn
+    value: approved
 copyright:
 - owner:
   - name:
@@ -91,19 +93,25 @@ keyword:
 - content: Local area networks
 - content: Metropolitan area networks
 - content: Ethernet
-- content: Telecommunication traffic
-- content: Synchronization
-- content: Media Access Protocol
-- content: 10BASE-T1L
-- content: 10BASE-T1S
-- content: copper
+- content: Physical layer
+- content: 100GAUI-1
+- content: 100GBASE-CR1
+- content: 100GBASE-KR1
+- content: 100 Gigabit Ethernet
+- content: 200GAUI-2
+- content: 200GBASE-CR2
+- content: 200GBASE-KR2
+- content: 200 Gigabit Ethernet
+- content: 400GAUI-4
+- content: 400GBASE-CR4
+- content: 400GBASE-KR4
+- content: 400 Gigabit Ethernet
+- content: amendment
 - content: Ethernet
-- content: express traffic
-- content: IEEE 802.3
-- content: IEEE 802.3cg
-- content: IEEE 802.3de
-- content: preemption
-- content: TSSI
+- content: FEC
+- content: forward error correction
+- content: IEEE 802.3(TM)
+- content: IEEE 802.3ck(TM)
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society
