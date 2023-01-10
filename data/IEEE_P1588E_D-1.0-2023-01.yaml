@@ -1,34 +1,33 @@
 ---
 schema-version: v1.2.1
-id: IEEE1500-2022
+id: IEEEP1588e-D-1.0-2023-01
 title:
-- content: IEEE Standard Testability Method for Embedded Core-based Integrated Circuits
+- content: 'IEEE Draft Standard for a Precision Clock Synchronization Protocol for
+    Networked Measurement and Control Systems Amendment: MIB and YANG Data Models'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/9916221
+- content: https://ieeexplore.ieee.org/document/10007724
   type: src
 type: standard
 docid:
-- id: IEEE 1500-2022
+- id: IEEE P1588e/D-1.0-2023-01
   type: IEEE
   primary: true
-- id: IEEE 1500™-2022
+- id: IEEE P1588e™/D-1.0-2023-01
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-8866-2
+- id: 978-1-5044-9318-5
   type: ISBN
-- id: 10.1109/IEEESTD.2022.9916221
-  type: DOI
-docnumber: IEEE 1500-2022
+docnumber: IEEE P1588e/D-1.0-2023-01
 date:
 - type: created
-  value: '2022-10-12'
+  value: '2023-01-04'
 - type: published
-  value: '2022-10-11'
+  value: '2023-01-06'
 - type: issued
-  value: '2022-06-16'
+  value: '2023'
 contributor:
 - organization:
     name:
@@ -42,16 +41,14 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-10-11'
+revdate: '2023-01-06'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: A mechanism for the test of core designs within a system on chip (SoC)
-    is defined. This mechanism is a hardware architecture and the core test language
-    (CTL) is leveraged to facilitate communication between core designers and core
-    integrators.
+- content: This draft standard is an amendment of IEEE Std 1588&#8482;-2019. This
+    amendment identifies the structure and content of the IEEE 1588 MIB and YANG modules.
   language:
   - en
   script:
@@ -67,20 +64,20 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2022'
+  from: '2023'
 relation:
 - type: updates
   bibitem:
-    id: IEEE1500-2005
+    id: IEEE1588-2019
     docid:
-    - id: IEEE 1500-2005
+    - id: IEEE 1588-2019
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 1500-2005
+      content: IEEE 1588-2019
       format: text/plain
   description:
-    content: revises
+    content: amends
     language:
     - en
     script:
@@ -88,17 +85,21 @@ relation:
     format: text/plain
 keyword:
 - content: IEEE Standards
-- content: Integrated circuit testing
-- content: core test
-- content: embedded core test
-- content: IEEE 1500
-- content: IP test
-- content: test reuse
+- content: Precision engineering
+- content: Synchronization
+- content: Control systems
+- content: Measurement
+- content: Clocks
+- content: Management
+- content: PTP
+- content: MIB
+- content: YANG
+- content: Management
 editorialgroup:
   committee:
-  - Test Technology of the IEEE Computer Society
+  - TC9 - Sensor Technology of the IEEE Instrumentation and Measurement Society
 ics:
-- code: '31.200'
-  text: Integrated circuits. Microelectronics
+- code: 39.040.99
+  text: Other time-measuring instruments
 ext:
   schema-version: v1.0.0
