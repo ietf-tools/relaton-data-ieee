@@ -23,10 +23,8 @@ docid:
   type: DOI
 docnumber: ANSI N42.4-1971
 date:
-- type: updated
-  value: '2014-01-17'
 - type: created
-  value: '2013-11-01'
+  value: '1971-11-30'
 - type: published
   value: '2013-11-04'
 - type: issued
@@ -38,6 +36,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2013-11-04'
@@ -62,7 +64,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: withdrawn
 copyright:
 - owner:
   - name:
@@ -82,7 +84,7 @@ keyword:
 - content: Connectors
 editorialgroup:
   committee:
-  - Radiation Instrumentation of the Accredited Standards Committee N42
+  - National Committee on Radiation Instrumentation
 ics:
 - code: 29.120.30
   text: Plugs, socket-outlets, couplers

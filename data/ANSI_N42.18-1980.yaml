@@ -24,10 +24,8 @@ docid:
   type: DOI
 docnumber: ANSI N42.18-1980
 date:
-- type: updated
-  value: '2018-05-18'
 - type: created
-  value: '1980'
+  value: '1979-11-30'
 - type: published
   value: '2018-04-13'
 - type: issued
@@ -39,6 +37,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2018-04-13'
@@ -60,7 +62,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: superseded
 copyright:
 - owner:
   - name:
@@ -84,7 +86,7 @@ editorialgroup:
   committee:
   - National Committee on Radiation Instrumentation
 ics:
-- code: '17.240'
-  text: Radiation measurements
+- code: 13.060.60
+  text: Examination of physical properties of water
 ext:
   schema-version: v1.0.0

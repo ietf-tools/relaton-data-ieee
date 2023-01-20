@@ -24,8 +24,6 @@ docid:
   type: DOI
 docnumber: IEEE C37.012-2014
 date:
-- type: updated
-  value: '2014-07-24'
 - type: created
   value: '2014-05-08'
 - type: published
@@ -39,6 +37,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2014-05-07'
@@ -61,7 +63,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: superseded
 copyright:
 - owner:
   - name:
@@ -71,6 +73,16 @@ copyright:
     url: http://www.ieee.org
   from: '2014'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEEPC37.012-D-7-2022-03
+    docid:
+    - id: IEEE PC37.012/D-7-2022-03
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE PC37.012/D-7-2022-03
+      format: text/plain
 - type: updates
   bibitem:
     id: IEEEC37.012-2005
