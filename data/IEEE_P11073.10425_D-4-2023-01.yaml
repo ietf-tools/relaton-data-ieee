@@ -1,0 +1,121 @@
+---
+schema-version: v1.2.1
+id: IEEEP11073.10425-D-4-2023-01
+title:
+- content: 'IEEE Draft Standard for Health informatics--Device Interoperability Part
+    10425: Personal Health Device Communication--Device Specialization--Continuous
+    Glucose Monitor (CGM)'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10021993
+  type: src
+type: standard
+docid:
+- id: IEEE P11073.10425/D-4-2023-01
+  type: IEEE
+  primary: true
+- id: IEEE P11073.10425™/D-4-2023-01
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-1-5044-9367-3
+  type: ISBN
+docnumber: IEEE P11073.10425/D-4-2023-01
+date:
+- type: created
+  value: '2023-01-18'
+- type: published
+  value: '2023-01-20'
+- type: issued
+  value: '2023'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2023-01-20'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Within the context of the ISO/IEEE 11073 family of standards for device
+    communication, a normative definition of the communication between continuous
+    glucose monitor (CGM) devices and managers (e.g., cell phones, personal computers,
+    personal health appliances, set top boxes), in a manner that enables plug-and-play
+    interoperability, is established in this standard. It leverages appropriate portions
+    of existing standards including ISO/IEEE 11073 terminology and information models.
+    It specifies the use of specific term codes, formats, and behaviors in telehealth
+    environments, restricting optionality in base frameworks in favor of interoperability.
+    This standard defines a common core of communication functionality of CGM devices.
+    In this context, CGM refers to the measurement of the level of glucose in the
+    body on a regular (typically 5 minute) basis through a sensor continuously attached
+    to the person.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2023'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE11073.10425-2017
+    docid:
+    - id: IEEE 11073.10425-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 11073.10425-2017
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Medical devices
+- content: Bioinformatics
+- content: Interoperability
+- content: Point of care
+- content: Glucose
+- content: Biomedical measurement
+- content: Biomedical monitoring
+- content: Diabetes
+- content: continuous glucose monitor
+- content: IEEE 11073-10425&#8482;
+- content: medical device communication
+- content: personal health devices
+editorialgroup:
+  committee:
+  - IEEE 11073 Standards Committee of the IEEE Engineering in Medicine and Biology
+    Society
+ics:
+- code: 11.040.55
+  text: Diagnostic equipment
+- code: 35.240.80
+  text: IT applications in health care technology
+ext:
+  schema-version: v1.0.0
