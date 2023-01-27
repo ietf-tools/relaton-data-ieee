@@ -1,34 +1,33 @@
 ---
 schema-version: v1.2.1
-id: IEC-IEEEP62582.3-2022-10
+id: IEEEP1692-D-6-2022-09
 title:
-- content: 'IEC/IEEE Draft International Standard for Nuclear Power Plants - Instrumentation
-    and control important to safety - Electrical equipment condition monitoring methods
-    - Part 3: Elongation at break'
+- content: IEEE Draft Guide for the Protection of Communication Installations from
+    Lightning Effects
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/9928439
+- content: https://ieeexplore.ieee.org/document/10025643
   type: src
 type: standard
 docid:
-- id: IEC/IEEE P62582.3-2022-10
+- id: IEEE P1692/D-6-2022-09
   type: IEEE
   primary: true
-- id: IEC/IEEE P62582.3™-2022-10
+- id: IEEE P1692™/D-6-2022-09
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-9125-9
+- id: 978-1-5044-9381-9
   type: ISBN
-docnumber: IEC/IEEE P62582.3-2022-10
+docnumber: IEEE P1692/D-6-2022-09
 date:
 - type: created
-  value: '2022-10-21'
+  value: '2023-01-23'
 - type: published
-  value: '2023-01-24'
+  value: '2023-01-25'
 - type: issued
-  value: '2022'
+  value: '2023'
 contributor:
 - organization:
     name:
@@ -42,13 +41,15 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-01-24'
+revdate: '2023-01-25'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This standard contains both English and French
+- content: The document addresses methods and practices necessary to reduce the risk
+    of damages to communications equipment within structures arising from lightning
+    surges causing GPR (ground potential rise) and similar potential differences.
   language:
   - en
   script:
@@ -56,7 +57,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: withdrawn
+    value: approved
 copyright:
 - owner:
   - name:
@@ -64,19 +65,17 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  - name:
-    - content: IEC
-  from: '2022'
+  from: '2023'
 relation:
 - type: updates
   bibitem:
-    id: IEC-IEEE62582.3-2011
+    id: IEEE1692-2011
     docid:
-    - id: IEC/IEEE 62582.3-2011
+    - id: IEEE 1692-2011
       type: IEEE
       primary: true
     formattedref:
-      content: IEC/IEEE 62582.3-2011
+      content: IEEE 1692-2011
       format: text/plain
   description:
     content: revises
@@ -87,16 +86,21 @@ relation:
     format: text/plain
 keyword:
 - content: IEEE Standards
-- content: IEC Standards
-- content: Nuclear power generation
-- content: Safety
-- content: Control systems
-- content: Condition monitoring
+- content: Communication equipment
+- content: Lightning protection
+- content: Poles and towers
+- content: IEEE 1692
+- content: lightning
+- content: protection
+- content: communications equipment
+- content: towers
 editorialgroup:
   committee:
-  - Nuclear Power Engineering of the IEEE Power and Energy Society
+  - IEEE Power and Energy Society
 ics:
-- code: 27.120.20
-  text: Nuclear power plants. Safety
+- code: 29.120.50
+  text: Fuses and other overcurrent protection devices
+- code: 91.120.40
+  text: Lightning protection
 ext:
   schema-version: v1.0.0
