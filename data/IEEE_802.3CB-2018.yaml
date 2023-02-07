@@ -24,8 +24,6 @@ docid:
   type: DOI
 docnumber: IEEE 802.3cb-2018
 date:
-- type: updated
-  value: '2020-05-22'
 - type: created
   value: '2019-01-04'
 - type: published
@@ -62,7 +60,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: superseded
 copyright:
 - owner:
   - name:
@@ -72,6 +70,16 @@ copyright:
     url: http://www.ieee.org
   from: '2018'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: ISO-IEC-IEEE8802.3-Amd1-2021
+    docid:
+    - id: ISO/IEC/IEEE 8802.3/Amd1-2021
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ISO/IEC/IEEE 8802.3/Amd1-2021
+      format: text/plain
 - type: updates
   bibitem:
     id: IEEE802.3-2018
