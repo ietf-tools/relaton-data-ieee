@@ -24,8 +24,6 @@ docid:
   type: DOI
 docnumber: IEEE 535-2013
 date:
-- type: updated
-  value: '2014-01-17'
 - type: created
   value: '2013-11-22'
 - type: published
@@ -39,6 +37,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2013-11-22'
@@ -62,7 +64,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: superseded
 copyright:
 - owner:
   - name:
@@ -72,6 +74,16 @@ copyright:
     url: http://www.ieee.org
   from: '2013'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE535-2022
+    docid:
+    - id: IEEE 535-2022
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 535-2022
+      format: text/plain
 - type: updates
   bibitem:
     id: IEEE535-2006
@@ -109,8 +121,11 @@ keyword:
 - content: vented lead-acid battery
 editorialgroup:
   committee:
-  - Stationary Batteries Committee of the IEEE Power and Energy Society
+  - Energy Storage &amp; Stationary Battery Committee of the IEEE Power and Energy
+    Society
 ics:
+- code: 27.120.20
+  text: Nuclear power plants. Safety
 - code: 29.220.20
   text: Acid secondary cells and batteries
 ext:
