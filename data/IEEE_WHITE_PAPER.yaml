@@ -2,12 +2,11 @@
 schema-version: v1.2.1
 id: IEEEWhitePaper
 title:
-- content: 'Overview and Insight: Resilience Across the Education Ecosystem During
-    the COVID-19 Pandemic'
+- content: The Functional Safety Terminology Landscape
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/10003189
+- content: https://ieeexplore.ieee.org/document/10042205
   type: src
 type: standard
 docid:
@@ -18,16 +17,16 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-9288-1
+- id: 978-1-5044-9383-3
   type: ISBN
 docnumber: IEEE White Paper
 date:
 - type: created
-  value: '2022-12-30'
+  value: '2023-01-30'
 - type: published
-  value: '2022-12-29'
+  value: '2023-02-10'
 - type: issued
-  value: '2022'
+  value: '2023'
 contributor:
 - organization:
     name:
@@ -41,40 +40,26 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-12-29'
+revdate: '2023-02-10'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: In response to the education crisis during restrictions of COVID-19 pandemic,
-    continuation of education was carried out through broadcasting and digital technologies.
-    However, the majority of children around the world are seen to not have access
-    to such technology. For those who have access to technology and devices, education
-    delivery has not been effective due to lack of digital skills in educators and
-    learners. For those with internet access and digital skills, challenges of online
-    exploitation, violence, and exposure to harmful content is felt. In such a scenario,
-    in order to achieve Sustainable Development Goal SDG 4, adoption of holistic e-resilience
-    by design is needed to help ensure that education is inclusive and fit for the
-    future. But in order to succeed, all stakeholder involvement from the entire ecosystem
-    is essential. This paper has examined critical aspects across the educational
-    ecosystem, highlighted gaps in essential components, and posed alternative approaches
-    and policy reforms. Multiple dimensions necessary for e-resilient education system
-    have been considered while making the recommendations. National policies and multilateral
-    collaborative approaches are needed to bridge the digital divide and help ensure
-    broadband connectivity for digital education of all students. It is also important
-    to overcome any linguistic barrier. Encouraging technologies to develop educational
-    contents in local language can ensure that language digital divide is bridged.
-    Another important aspect of a resilient education system is putting efforts in
-    improving digital skills of educators and learners. Digital literacy programs
-    must be implemented effectively in order to achieve a digitally competent population.
-    The next pertinent aspect is measurement of learning outcomes of students. Different
-    approaches are needed to measure and ensure that meaningful learning is taking
-    place in digital space. It is also important to consider that the content of learning
-    is relevant to the student and the economy, as well as that the means of delivery
-    must also accommodate the learning needs of students. A greater emphasis on digital
-    transformation of technical and vocational education and training in alignment
-    to the labor market must be given while developing curriculum for education.
+- content: This white paper, developed by the Functional Safety Standards Committee
+    (FSSC), describes the landscape of functional safety terminology as used across
+    multiple domains. It has been observed that there are multiple definitions for
+    many of the terms--some of which are domain specific--and there is often an assumption
+    that the terms are commonly understood. Some of the definitions have key differences,
+    which could lead engineers to misunderstanding if they apply a definition that
+    is used in one domain to another. This white paper takes an overview of the existing
+    landscape and establishes a subset of terminology for use in future standards
+    sponsored by the FSSC. It discusses the different understandings of the terminologies
+    used and where they differ and defines a single understanding of the terminology
+    for future use. If the context of a future standard requires a deviation from
+    the definition in this document, then the deviation should be explicitly marked
+    and defined and should be flagged to the FSSC for consideration in future revisions
+    of this document.
   language:
   - en
   script:
@@ -90,16 +75,13 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2022'
+  from: '2023'
 keyword:
-- content: education
-- content: e-resilient
-- content: gaps
-- content: initiative
-- content: resilient education systems
-- content: white paper
-ics:
-- code: '03.180'
-  text: Education
+- content: definitions
+- content: FSSC
+- content: Functional Safety Standards Committee
+- content: safety
+- content: standard
+- content: standard terminology
 ext:
   schema-version: v1.0.0
