@@ -1,35 +1,35 @@
 ---
 schema-version: v1.2.1
-id: IEEEC37.17-2012
+id: IEEEC37.17-2022
 title:
 - content: IEEE Standard for Trip Systems for Low-Voltage (1000 V and below) AC and
     General Purpose (1500 V and below) DC Power Circuit Breakers
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/6307802
+- content: https://ieeexplore.ieee.org/document/10045639
   type: src
 type: standard
 docid:
-- id: IEEE C37.17-2012
+- id: IEEE C37.17-2022
   type: IEEE
   primary: true
-- id: IEEE C37.17™-2012
+- id: IEEE C37.17™-2022
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-0-7381-7290-3
+- id: 978-1-5044-9266-9
   type: ISBN
-- id: 10.1109/IEEESTD.2012.6307802
+- id: 10.1109/IEEESTD.2023.10045639
   type: DOI
-docnumber: IEEE C37.17-2012
+docnumber: IEEE C37.17-2022
 date:
 - type: created
-  value: '2012'
+  value: '2023-02-17'
 - type: published
-  value: '2012-09-19'
+  value: '2023-02-15'
 - type: issued
-  value: '2012-06-08'
+  value: '2022-11-08'
 contributor:
 - organization:
     name:
@@ -43,21 +43,21 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2012-09-19'
+revdate: '2023-02-15'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Requirements for direct acting current and voltage protective functions
-    of direct-acting overcurrent electromechanical trip devices, direct-acting overcurrent
-    electronic trip systems, reverse-current trip systems for dc circuit breakers,
-    and undervoltage trip devices that are integral with low-voltage ac (1000 V and
-    below) and general purpose low-voltage dc (1500 and below) power circuit breakers
-    covered by IEEE Std C37.13<sup>TM</sup>, IEEE Std C37.14<sup>TM</sup>, and IEEE
-    Std C37.16<sup>TM</sup> are included in this standard. Additional information,
-    communication and/or additional internal or external protective functions or devices
-    are not covered (but also not restricted) by this standard.
+- content: This standard pertains to the requirements for current and voltage protective
+    functions of 1) direct-acting overcurrent electromechanical trip devices, 2) direct-acting
+    overcurrent electronic trip systems, 3) reverse-current trip systems, and 4) undervoltage
+    trip devices that are integral with low-voltage ac (1000 V and below) and general-purpose
+    low-voltage dc (1500 V and below) power circuit breakers covered by IEEE Std C37.13
+    and IEEE Std C37.14. Additional information, communication, and/or additional
+    internal or external protective functions or devices are not covered by this standard.
+    This standard should not be interpreted to restrict the inclusion of such functionality
+    in the device.
   language:
   - en
   script:
@@ -65,7 +65,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: superseded
+    value: approved
 copyright:
 - owner:
   - name:
@@ -73,17 +73,17 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2012'
+  from: '2023'
 relation:
 - type: updates
   bibitem:
-    id: ANSIC37.17-1997
+    id: IEEEC37.17-2012
     docid:
-    - id: ANSI C37.17-1997
+    - id: IEEE C37.17-2012
       type: IEEE
       primary: true
     formattedref:
-      content: ANSI C37.17-1997
+      content: IEEE C37.17-2012
       format: text/plain
   description:
     content: revises
@@ -93,25 +93,18 @@ relation:
     - Latn
     format: text/plain
 keyword:
-- content: IEEE standards
-- content: Current control
-- content: Grounding
-- content: Fault diagnosis
-- content: Low voltage
-- content: Voltage control
-- content: Circuit breakers
-- content: AC motors
-- content: Direct-acting trip
+- content: direct-acting trip
 - content: ground fault
-- content: I2t
-- content: IEEE C37.17
+- content: i2t
 - content: i-squared-t
+- content: IEEE C37.17
 - content: instantaneous
-- content: longtime
+- content: long-time
 - content: low-voltage power circuit breaker
 - content: power system protection
 - content: short-time
 - content: time-overcurrent
+- content: trip device
 - content: trip unit
 editorialgroup:
   committee:
