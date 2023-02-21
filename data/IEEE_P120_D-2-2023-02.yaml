@@ -1,33 +1,32 @@
 ---
 schema-version: v1.2.1
-id: ISO-IEC-IEEEP15288-D-IS
+id: IEEEP120-D-2-2023-02
 title:
-- content: ISO/IEC/IEEE Draft Standard - Systems and Software engineering -- System
-    Life Cycle Processes
+- content: IEEE Draft Master Test Guide for Electrical Measurements in Power Circuits
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/9765407
+- content: https://ieeexplore.ieee.org/document/10048745
   type: src
 type: standard
 docid:
-- id: ISO/IEC/IEEE P15288/D-IS
+- id: IEEE P120/D-2-2023-02
   type: IEEE
   primary: true
-- id: ISO/IEC/IEEE P15288™/D-IS
+- id: IEEE P120™/D-2-2023-02
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-8666-8
+- id: 978-1-5044-9451-9
   type: ISBN
-docnumber: ISO/IEC/IEEE P15288/D-IS
+docnumber: IEEE P120/D-2-2023-02
 date:
 - type: created
-  value: '2022'
+  value: '2023-02-16'
 - type: published
-  value: '2022-04-28'
+  value: '2023-02-17'
 - type: issued
-  value: '2022'
+  value: '2023'
 contributor:
 - organization:
     name:
@@ -41,14 +40,14 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-04-28'
+revdate: '2023-02-17'
 language:
 - en
 script:
 - Latn
 docstatus:
   stage:
-    value: withdrawn
+    value: approved
 copyright:
 - owner:
   - name:
@@ -56,21 +55,17 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  - name:
-    - content: ISO
-  - name:
-    - content: IEC
-  from: '2022'
+  from: '2023'
 relation:
 - type: updates
   bibitem:
-    id: ISO-IEC-IEEE15288
+    id: ANSI-IEEE120-1989
     docid:
-    - id: ISO/IEC/IEEE 15288
+    - id: ANSI/IEEE 120-1989
       type: IEEE
       primary: true
     formattedref:
-      content: ISO/IEC/IEEE 15288
+      content: ANSI/IEEE 120-1989
       format: text/plain
   description:
     content: revises
@@ -79,18 +74,11 @@ relation:
     script:
     - Latn
     format: text/plain
-keyword:
-- content: IEEE Standards
-- content: IEC Standards
-- content: ISO Standards
-- content: Software engineering
-- content: Systems engineering and theory
-- content: Life testing
 editorialgroup:
   committee:
-  - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society
+  - Power System Instrumentation and Measurements of the IEEE Power and Energy Society
 ics:
-- code: '35.080'
-  text: Software
+- code: 17.220.20
+  text: Measurement of electrical and magnetic quantities
 ext:
   schema-version: v1.0.0

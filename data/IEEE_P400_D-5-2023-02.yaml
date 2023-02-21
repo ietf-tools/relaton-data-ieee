@@ -1,31 +1,31 @@
 ---
 schema-version: v1.2.1
-id: IEEEP1020
+id: IEEEP400-D-5-2023-02
 title:
-- content: IEEE Draft Guide for Control of Small (100 kVA to 5 MVA) Hydroelectric
-    Power Plants
+- content: IEEE Draft Guide for Field Testing and Evaluation of the Insulation of
+    Shielded Power Cable Systems Rated 5 kV and Above
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/10047882
+- content: https://ieeexplore.ieee.org/document/10048742
   type: src
 type: standard
 docid:
-- id: IEEE P1020
+- id: IEEE P400/D-5-2023-02
   type: IEEE
   primary: true
-- id: IEEE P1020™
+- id: IEEE P400™/D-5-2023-02
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-9444-1
+- id: 978-1-5044-9454-0
   type: ISBN
-docnumber: IEEE P1020
+docnumber: IEEE P400/D-5-2023-02
 date:
 - type: created
-  value: '2023-02-15'
-- type: published
   value: '2023-02-16'
+- type: published
+  value: '2023-02-17'
 - type: issued
   value: '2023'
 contributor:
@@ -41,15 +41,18 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-02-16'
+revdate: '2023-02-17'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Description of the electrical control, protection and monitoring requirements
-    for equipment and systems associated with small (100 kVA to 5 MVA) hydroelectric
-    power plants.
+- content: Various field test methods that are currently 1 available for or have been
+    developed are listed in this guide. The guide covers shielded, insulated power
+    cable systems rated 5 kV and above. The guide describes the tests and gives advantages
+    and disadvantages, suggested applications, and typical results. Complete guides
+    covering some of the test methods listed are available in the form of IEEE 400
+    “point” documents
   language:
   - en
   script:
@@ -69,13 +72,13 @@ copyright:
 relation:
 - type: updates
   bibitem:
-    id: IEEE1020-2011
+    id: IEEE400-2012
     docid:
-    - id: IEEE 1020-2011
+    - id: IEEE 400-2012
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 1020-2011
+      content: IEEE 400-2012
       format: text/plain
   description:
     content: revises
@@ -85,19 +88,14 @@ relation:
     - Latn
     format: text/plain
 keyword:
-- content: IEEE Standards
-- content: Hydroelectric power generation
-- content: Power system protection
-- content: control
-- content: hydroelectric
-- content: IEEE 1020
-- content: protection
-- content: small hydro plant equipment.
+- content: field testing
+- content: IEEE 400
+- content: power cable system
 editorialgroup:
   committee:
-  - Energy Development &amp; Power Generation of the IEEE Power and Energy Society
+  - Insulated Conductors of the IEEE Power and Energy Society
 ics:
-- code: '27.140'
-  text: Hydraulic energy engineering
+- code: 29.240.01
+  text: Power transmission and distribution networks in general
 ext:
   schema-version: v1.0.0
