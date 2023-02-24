@@ -24,8 +24,6 @@ docid:
   type: DOI
 docnumber: IEEE 487.3-2014
 date:
-- type: updated
-  value: '2014-09-05'
 - type: created
   value: '2014-08-18'
 - type: published
@@ -39,6 +37,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2014-08-19'
@@ -79,17 +81,17 @@ keyword:
 - content: copper-fiber junction
 - content: electric power stations
 - content: electric supply locations
-- content: electricalprotection
+- content: electrical protection
 - content: fiber-optic systems
 - content: ground potential rise
 - content: high-voltage environment
-- content: IEEE 487.3
+- content: IEEE 487.3&#8482;
 - content: optical fiber systems
 editorialgroup:
   committee:
-  - Power System Communications of the IEEE Power and Energy Society
+  - IEEE Power and Energy Society
 ics:
 - code: 33.040.01
-  text: Telecommunication systems
+  text: Telecommunication systems in general
 ext:
   schema-version: v1.0.0
