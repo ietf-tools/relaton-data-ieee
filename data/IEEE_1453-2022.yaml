@@ -1,31 +1,33 @@
 ---
 schema-version: v1.2.1
-id: IEEEP1453-D-5.1-2022-02
+id: IEEE1453-2022
 title:
-- content: IEEE Approved Draft Standard for Measurement and Limits of Voltage Fluctuations
-    and Associated Light flicker Analysis of fluctuating Loads on Power Systems
+- content: IEEE Standard for Measurement and Limits of Voltage Fluctuations and Associated
+    Light Flicker on AC Power Systems
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/9721215
+- content: https://ieeexplore.ieee.org/document/10051670
   type: src
 type: standard
 docid:
-- id: IEEE P1453/D-5.1-2022-02
+- id: IEEE 1453-2022
   type: IEEE
   primary: true
-- id: IEEE P1453™/D-5.1-2022-02
+- id: IEEE 1453™-2022
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-8480-0
+- id: 978-1-5044-8860-0
   type: ISBN
-docnumber: IEEE P1453/D-5.1-2022-02
+- id: 10.1109/IEEESTD.2022.10051670
+  type: DOI
+docnumber: IEEE 1453-2022
 date:
 - type: created
-  value: '2022'
+  value: '2023-02-27'
 - type: published
-  value: '2022-02-24'
+  value: '2023-02-24'
 - type: issued
   value: '2022-06-16'
 contributor:
@@ -41,7 +43,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-02-24'
+revdate: '2023-02-24'
 language:
 - en
 script:
@@ -75,7 +77,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: withdrawn
+    value: approved
 copyright:
 - owner:
   - name:
@@ -104,10 +106,13 @@ relation:
     format: text/plain
 keyword:
 - content: IEEE Standards
-- content: Flicker
 - content: Voltage measurement
-- content: Power systems reliability
 - content: Voltage fluctuations
+- content: Power measurement
+- content: Power systems
+- content: Lighting
+- content: Flicker
+- content: Flucuations
 - content: flicker
 - content: fluctuating installations
 - content: IEEE 1453

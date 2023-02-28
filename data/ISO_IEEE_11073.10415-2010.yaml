@@ -24,14 +24,12 @@ docid:
   type: DOI
 docnumber: ISO/IEEE 11073.10415-2010
 date:
-- type: updated
-  value: '2011-01-28'
 - type: created
   value: '2010-05-01'
 - type: published
-  value: '2013-02-26'
+  value: '2011-01-10'
 - type: issued
-  value: '2013-02-26'
+  value: '2010'
 contributor:
 - organization:
     name:
@@ -39,9 +37,13 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
-revdate: '2013-02-26'
+revdate: '2011-01-10'
 language:
 - en
 script:
@@ -65,7 +67,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: superseded
 copyright:
 - owner:
   - name:
@@ -74,6 +76,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2010'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE11073.10415-2008
+    docid:
+    - id: IEEE 11073.10415-2008
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 11073.10415-2008
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Bioinformatics
@@ -84,7 +104,7 @@ keyword:
 - content: weighing scale
 editorialgroup:
   committee:
-  - IEEE 11073TM Standards Committee of the IEEE Engineering in Medicine and Biology
+  - IEEE 11073 Standards Committee of the IEEE Engineering in Medicine and Biology
     Society
 ics:
 - code: 11.040.55

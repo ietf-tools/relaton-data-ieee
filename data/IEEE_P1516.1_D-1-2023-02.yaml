@@ -1,0 +1,125 @@
+---
+schema-version: v1.2.1
+id: IEEEP1516.1-D-1-2023-02
+title:
+- content: IEEE Draft Standard for Modeling and Simulation (M&S) High Level Architecture
+    (HLA)-- Federate Interface Specification
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10051641
+  type: src
+type: standard
+docid:
+- id: IEEE P1516.1/D-1-2023-02
+  type: IEEE
+  primary: true
+- id: IEEE P1516.1™/D-1-2023-02
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-1-5044-9475-5
+  type: ISBN
+docnumber: IEEE P1516.1/D-1-2023-02
+date:
+- type: created
+  value: '2023-02-22'
+- type: published
+  value: '2023-02-24'
+- type: issued
+  value: '2023'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2023-02-24'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The High Level Architecture (HLA) has been developed to provide a common
+    architecture for distributed modeling and simulation. The HLA defines an integrated
+    approach that provides a common framework for the interconnection of interacting
+    simulations. This document, the second in a family of three related HLA documents,
+    defines the standard services of and interfaces to the HLA runtime infrastructure
+    (RTI). These services are used by the interacting simulations to achieve a coordinated
+    exchange of information when they participate in a distributed federation. The
+    standards contained in this architecture are interrelated and need to be considered
+    as a product set, when changes are made. They each have value independently.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2023'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1516.1-2010
+    docid:
+    - id: IEEE 1516.1-2010
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1516.1-2010
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Computer architecture
+- content: User interfaces
+- content: Modeling
+- content: Simulation
+- content: Distribution networks
+- content: High level languages
+- content: architecture
+- content: class attribute
+- content: data distribution management
+- content: federate
+- content: federation
+- content: federation execution
+- content: federation object model
+- content: HLA
+- content: instance attribute
+- content: instance attribute ownership
+- content: interaction class
+- content: object class
+- content: runtime infrastructure
+- content: simulation object model
+- content: timeconstrained
+- content: time-regulating
+editorialgroup:
+  committee:
+  - Simulation Interoperability Stds Organization/Stds Activity Committee of the IEEE
+    Computer Society
+ics:
+- code: '35.080'
+  text: Software
+ext:
+  schema-version: v1.0.0

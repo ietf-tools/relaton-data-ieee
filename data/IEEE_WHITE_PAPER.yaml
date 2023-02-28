@@ -2,11 +2,11 @@
 schema-version: v1.2.1
 id: IEEEWhitePaper
 title:
-- content: The Functional Safety Terminology Landscape
+- content: Example Applications of IEEE Std 2846-2022 to Formal Safety-Related Models
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/10042205
+- content: https://ieeexplore.ieee.org/document/10051644
   type: src
 type: standard
 docid:
@@ -17,14 +17,14 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-9383-3
+- id: 978-1-5044-9458-8
   type: ISBN
 docnumber: IEEE White Paper
 date:
 - type: created
-  value: '2023-01-30'
+  value: '2023-02-24'
 - type: published
-  value: '2023-02-10'
+  value: '2023-02-23'
 - type: issued
   value: '2023'
 contributor:
@@ -40,26 +40,25 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-02-10'
+revdate: '2023-02-23'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This white paper, developed by the Functional Safety Standards Committee
-    (FSSC), describes the landscape of functional safety terminology as used across
-    multiple domains. It has been observed that there are multiple definitions for
-    many of the terms--some of which are domain specific--and there is often an assumption
-    that the terms are commonly understood. Some of the definitions have key differences,
-    which could lead engineers to misunderstanding if they apply a definition that
-    is used in one domain to another. This white paper takes an overview of the existing
-    landscape and establishes a subset of terminology for use in future standards
-    sponsored by the FSSC. It discusses the different understandings of the terminologies
-    used and where they differ and defines a single understanding of the terminology
-    for future use. If the context of a future standard requires a deviation from
-    the definition in this document, then the deviation should be explicitly marked
-    and defined and should be flagged to the FSSC for consideration in future revisions
-    of this document.
+- content: While automated driving system (ADS)-operated vehicles hold the potential
+    for safety improvement compared to human drivers, the recognition that transportation
+    will continue to entail some level of risk has to be considered. Human drivers
+    rely on extensive daily experience in their interactions with other agents on
+    the road, which helps them craft assumptions about reasonably foreseeable behavior
+    of other road users. Similarly, ADS-operated vehicles will also need to make assumptions.
+    Such assumptions play a role within ADS safety-related models, which provide a
+    representation of safety-relevant aspects of driving behavior pertaining to both
+    ADS-operated vehicles and other road users. Furthermore, formal safety-related
+    models provide transparency and certainty in ADS decision-making contexts as they
+    can be formally verified. Therefore, this paper introduces how several safety-related
+    models are making use of reasonably foreseeable assumptions to help with the decision
+    making of an ADS-operated vehicle.
   language:
   - en
   script:
@@ -76,12 +75,8 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2023'
-keyword:
-- content: definitions
-- content: FSSC
-- content: Functional Safety Standards Committee
-- content: safety
-- content: standard
-- content: standard terminology
+editorialgroup:
+  committee:
+  - Intelligent Transportation Systems of the IEEE Vehicular Technology Society
 ext:
   schema-version: v1.0.0

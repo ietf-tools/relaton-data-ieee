@@ -1,0 +1,125 @@
+---
+schema-version: v1.2.1
+id: IEEEP1516-D-1-2023
+title:
+- content: IEEE Draft Standard for Modeling and Simulation (M&S) High Level Architecture
+    (HLA)-- Framework and Rules
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10051680
+  type: src
+type: standard
+docid:
+- id: IEEE P1516/D-1-2023
+  type: IEEE
+  primary: true
+- id: IEEE P1516™/D-1-2023
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-1-5044-9477-9
+  type: ISBN
+docnumber: IEEE P1516/D-1-2023
+date:
+- type: created
+  value: '2023-02-22'
+- type: published
+  value: '2023-02-24'
+- type: issued
+  value: '2023'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2023-02-24'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This standard, describing the framework and rules of the High Level Architecture
+    (HLA), is the capstone document for a family of related HLA standards. It defines
+    the HLA, its components, and the rules that outline the responsibilities of HLA
+    federates and federations to ensure a consistent implementation. Simulations are
+    abstractions of the real world, and no one simulation can solve all of the functional
+    needs for the modeling and simulation community. It is anticipated that technology
+    advances will allow for new and different modeling and simulation (M&amp;S) implementations
+    within the framework of the HLA. The standards contained in this architecture
+    are interrelated and need to be considered as a product set, as a change in one
+    is likely to have an impact on the others. As such, the HLA is an integrated approach
+    that has been developed to provide a common architecture for simulation.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2023'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1516-2010
+    docid:
+    - id: IEEE 1516-2010
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1516-2010
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Computer architecture
+- content: Modeling
+- content: Simulation
+- content: High level languages
+- content: architecture
+- content: class attribute
+- content: federate
+- content: federation
+- content: federation execution
+- content: federation object model
+- content: framework
+- content: High Level Architecture
+- content: instance attribute
+- content: interaction class
+- content: joined federate
+- content: object class
+- content: object model template
+- content: rules
+- content: runtime infrastructure
+- content: simulation object model
+editorialgroup:
+  committee:
+  - Simulation Interoperability Stds Organization/Stds Activity Committee of the IEEE
+    Computer Society
+ics:
+- code: '35.080'
+  text: Software
+ext:
+  schema-version: v1.0.0

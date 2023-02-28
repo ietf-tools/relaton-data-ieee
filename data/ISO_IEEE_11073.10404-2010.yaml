@@ -67,7 +67,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: superseded
 copyright:
 - owner:
   - name:
@@ -78,6 +78,17 @@ copyright:
   - name:
     - content: ISO
   from: '2010'
+relation:
+- type: adoptedFrom
+  bibitem:
+    id: IEEE11073.10404-2008
+    docid:
+    - id: IEEE 11073.10404-2008
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 11073.10404-2008
+      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Informatics
@@ -92,9 +103,9 @@ editorialgroup:
   - IEEE 11073 Standards Committee of the IEEE Engineering in Medicine and Biology
     Society
 ics:
-- code: 35.240.80
-  text: IT applications in health care technology
 - code: 11.040.55
   text: Diagnostic equipment
+- code: 35.240.80
+  text: IT applications in health care technology
 ext:
   schema-version: v1.0.0

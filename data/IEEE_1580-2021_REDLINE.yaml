@@ -1,34 +1,37 @@
 ---
 schema-version: v1.2.1
-id: ISO-IEC-IEEEFDISP26531-2022-10
+id: IEEE1580-2021Redline
 title:
-- content: ISO/IEC/IEEE Approved Draft Standard - Systems and Software Engineering
-    - Content Management for Product Life Cycle, User, and Service Management Information
-    for Users
+- content: IEEE Recommended Practice for Marine Cable for Use on Shipboard and Fixed
+    or Floating Facilities
+  format: text/plain
+  type: title-main
+- content: IEEE Recommended Practice for Marine Cable for Use on Shipboard and Fixed
+    or Floating Facilities - Redline
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/9934859
+- content: https://ieeexplore.ieee.org/document/10053661
   type: src
 type: standard
 docid:
-- id: ISO/IEC/IEEE FDIS P26531-2022-10
+- id: IEEE 1580-2021 Redline
   type: IEEE
   primary: true
-- id: ISO/IEC/IEEE FDIS P26531™-2022-10
+- id: IEEE 1580™-2021 Redline
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-9149-5
+- id: 978-1-5044-9496-0
   type: ISBN
-docnumber: ISO/IEC/IEEE FDIS P26531-2022-10
+docnumber: IEEE 1580-2021 Redline
 date:
 - type: created
-  value: '2023-02-22'
+  value: '2022'
 - type: published
-  value: '2023-02-23'
+  value: '2023-02-24'
 - type: issued
-  value: '2023-02-15'
+  value: '2021-11-09'
 contributor:
 - organization:
     name:
@@ -42,7 +45,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-02-23'
+revdate: '2023-02-24'
 language:
 - en
 script:
@@ -57,21 +60,17 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  - name:
-    - content: ISO
-  - name:
-    - content: IEC
   from: '2022'
 relation:
 - type: updates
   bibitem:
-    id: ISO-IEC-IEEE26531-2015
+    id: IEEE1580-2010
     docid:
-    - id: ISO/IEC/IEEE 26531-2015
+    - id: IEEE 1580-2010
       type: IEEE
       primary: true
     formattedref:
-      content: ISO/IEC/IEEE 26531-2015
+      content: IEEE 1580-2010
       format: text/plain
   description:
     content: revises
@@ -81,18 +80,16 @@ relation:
     - Latn
     format: text/plain
 keyword:
-- content: IEEE Standards
-- content: ISO Standards
-- content: IEC Standards
-- content: System analysis and design
-- content: Software engineering
-- content: Content management
-- content: Life cycle product management
+- content: IEEE 1580
+- content: marine cable
+- content: offshore facilities
+- content: platforms
+- content: shipboard
 editorialgroup:
   committee:
-  - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society
+  - Petroleum and Chemical Industry of the IEEE Industry Applications Society
 ics:
-- code: '35.080'
-  text: Software
+- code: 47.020.60
+  text: Electrical equipment of ships and of marine structures
 ext:
   schema-version: v1.0.0

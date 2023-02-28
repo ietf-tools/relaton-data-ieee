@@ -27,9 +27,9 @@ date:
 - type: created
   value: '2016'
 - type: published
-  value: '2017-02-03'
+  value: '2017-02-06'
 - type: issued
-  value: '2017'
+  value: '2016'
 contributor:
 - organization:
     name:
@@ -43,7 +43,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2017-02-03'
+revdate: '2017-02-06'
 language:
 - en
 script:
@@ -63,7 +63,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: superseded
 copyright:
 - owner:
   - name:
@@ -77,7 +77,7 @@ copyright:
     - content: IEC
   from: '2017'
 relation:
-- type: updates
+- type: adoptedFrom
   bibitem:
     id: IEEE11073.20601-2014
     docid:
@@ -87,13 +87,6 @@ relation:
     formattedref:
       content: IEEE 11073.20601-2014
       format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: ISO Standards
