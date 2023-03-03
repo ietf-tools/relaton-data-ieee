@@ -1,31 +1,33 @@
 ---
 schema-version: v1.2.1
-id: IEEEP1685-D-2-2022-07
+id: IEEE1685-2022
 title:
-- content: IEEE Approved Draft Standard for IP-XACT, Standard Structure for Packaging,
-    Integrating, and Reusing IP within Tool Flows
+- content: IEEE Standard for IP-XACT, Standard Structure for Packaging, Integrating,
+    and Reusing IP within Tool Flows
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/9844683
+- content: https://ieeexplore.ieee.org/document/10054520
   type: src
 type: standard
 docid:
-- id: IEEE P1685/D-2-2022-07
+- id: IEEE 1685-2022
   type: IEEE
   primary: true
-- id: IEEE P1685™/D-2-2022-07
+- id: IEEE 1685™-2022
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-8902-7
+- id: 978-1-5044-9448-9
   type: ISBN
-docnumber: IEEE P1685/D-2-2022-07
+- id: 10.1109/IEEESTD.2023.10054520
+  type: DOI
+docnumber: IEEE 1685-2022
 date:
 - type: created
-  value: '2022'
+  value: '2023-02-28'
 - type: published
-  value: '2022-07-28'
+  value: '2023-02-28'
 - type: issued
   value: '2022-09-21'
 contributor:
@@ -41,7 +43,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-07-28'
+revdate: '2023-02-28'
 language:
 - en
 script:
@@ -66,7 +68,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: withdrawn
+    value: approved
 copyright:
 - owner:
   - name:
@@ -74,7 +76,7 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2022'
+  from: '2023'
 relation:
 - type: updates
   bibitem:
@@ -96,8 +98,7 @@ relation:
 keyword:
 - content: IEEE Standards
 - content: Design automation
-- content: Semantics
-- content: Electronic design automation and methodology
+- content: IP networks
 - content: abstraction definitions
 - content: address space specification
 - content: bus definitions

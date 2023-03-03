@@ -1,0 +1,120 @@
+---
+schema-version: v1.2.1
+id: ISO-IEC-IEEE8802.1CB-Amd1-2019
+title:
+- content: 'ISO/IEC/IEEE International Standard--Information technology--Telecommunications
+    and information exchange between systems--Local and metropolitan area networks--Specific
+    requirements--Part 1CB: Frame replication and elimination for reliability AMENDMENT
+    1: Information model, YANG data model, and management information base module'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10056775
+  type: src
+type: standard
+docid:
+- id: ISO/IEC/IEEE 8802.1CB/Amd1-2019
+  type: IEEE
+  primary: true
+- id: ISO/IEC/IEEE 8802.1CB™/Amd1-2019
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-1-5044-9483-0
+  type: ISBN
+- id: 10.1109/IEEESTD.2023.10056775
+  type: DOI
+docnumber: ISO/IEC/IEEE 8802.1CB/Amd1-2019
+date:
+- type: created
+  value: '2023-02-28'
+- type: published
+  value: '2023-03-01'
+- type: issued
+  value: '2023'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2023-03-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This amendment specifies YANG data models and MIB modules that allow configuration
+    and status reporting for bridges and end systems with the capabilities for Frame
+    Replication and Elimination for Reliability (FRER) and Stream identification.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  - name:
+    - content: ISO
+  - name:
+    - content: IEC
+  from: '2023'
+relation:
+- type: adoptedFrom
+  bibitem:
+    id: ISO-IEC-IEEE8802.1CB-2019
+    docid:
+    - id: ISO/IEC/IEEE 8802.1CB-2019
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ISO/IEC/IEEE 8802.1CB-2019
+      format: text/plain
+keyword:
+- content: IEEE Standards
+- content: IEC Standards
+- content: ISO Standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Information exchange
+- content: Information technology
+- content: Management information base
+- content: Data models
+- content: Urban areas
+- content: Bridged Local Area Networks
+- content: Bridges
+- content: Bridging
+- content: Frame Elimination
+- content: Frame Replication
+- content: IEEE 802
+- content: IEEE 802.1CB
+- content: IEEE 802.1Q
+- content: local area networks (LANs)
+- content: MAC Bridges
+- content: Redundancy
+- content: Time-Sensitive Networking
+- content: TSN
+- content: Virtual Bridged Local Area Networks (virtual LANs)
+editorialgroup:
+  committee:
+  - LAN/MAN Standards Committee of the IEEE Computer Society
+ics:
+- code: '35.110'
+  text: Networking
+ext:
+  schema-version: v1.0.0
