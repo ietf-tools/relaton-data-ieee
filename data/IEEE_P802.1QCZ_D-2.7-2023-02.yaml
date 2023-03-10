@@ -1,37 +1,33 @@
 ---
 schema-version: v1.2.1
-id: IEEE802.11
+id: IEEEP802.1Qcz-D-2.7-2023-02
 title:
-- content: 'IEEE Standard for Information Technology--Telecommunications and Information
-    Exchange between Systems Local and Metropolitan Area Networks--Specific Requirements
-    Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications
-    Amendment 5: Enhancements for Next Generation V2X'
+- content: 'IEEE Draft Standard for Local and Metropolitan Area Networks--Bridges
+    and Bridged Networks -- Amendment 35: Congestion Isolation'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/10063942
+- content: https://ieeexplore.ieee.org/document/10063245
   type: src
 type: standard
 docid:
-- id: IEEE 802.11
+- id: IEEE P802.1Qcz/D-2.7-2023-02
   type: IEEE
   primary: true
-- id: IEEE 802.11®
+- id: IEEE P802.1Qcz™/D-2.7-2023-02
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-9521-9
+- id: 978-1-5044-9529-5
   type: ISBN
-- id: 10.1109/IEEESTD.2023.10063942
-  type: DOI
-docnumber: IEEE 802.11
+docnumber: IEEE P802.1Qcz/D-2.7-2023-02
 date:
 - type: created
   value: '2023'
 - type: published
   value: '2023-03-08'
 - type: issued
-  value: '2022-12-03'
+  value: '2023'
 contributor:
 - organization:
     name:
@@ -51,9 +47,9 @@ language:
 script:
 - Latn
 abstract:
-- content: This amendment defines modifications to both the IEEE 802.11 physical layer
-    (PHY) and the medium access control (MAC) sublayer for next generation vehicle-to-everything
-    (V2X) communication in the 5.9 GHz and 60 GHz frequency bands.
+- content: This amendment to IEEE Std 802.1Q&#8482;-2022 specifies protocols, procedures
+    and managed objects that support the isolation of congesting data flows within
+    data center environments.
   language:
   - en
   script:
@@ -73,13 +69,13 @@ copyright:
 relation:
 - type: updates
   bibitem:
-    id: IEEE802.11-2020
+    id: IEEE802.1Q-2022
     docid:
-    - id: IEEE 802.11-2020
+    - id: IEEE 802.1Q-2022
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 802.11-2020
+      content: IEEE 802.1Q-2022
       format: text/plain
   description:
     content: amends
@@ -89,20 +85,21 @@ relation:
     - Latn
     format: text/plain
 keyword:
-- content: amendment
-- content: IEEE 802.11
-- content: IEEE 802.11bd
-- content: MAC
-- content: medium access control
-- content: OCB
-- content: outside the context of BSS
-- content: PHY
-- content: physical layer
-- content: V2X
-- content: vehicular communication
-- content: vehicle-to-everything communication
-- content: wireless local area network
-- content: WLAN
+- content: IEEE Standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Urban areas
+- content: Bridge circuits
+- content: Telecommunication congestion control
+- content: Bridged Local Area Networks
+- content: Local Area Networks (LANs)
+- content: MAC Bridges
+- content: Virtual Bridged Local Area Networks (virtual LANs)
+- content: Data Center Bridging
+- content: priority
+- content: flow control
+- content: congestion
+- content: congestion isolation.
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society

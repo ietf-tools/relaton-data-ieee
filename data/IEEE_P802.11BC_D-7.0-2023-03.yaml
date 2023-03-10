@@ -1,37 +1,35 @@
 ---
 schema-version: v1.2.1
-id: IEEE802.11
+id: IEEEP802.11bc-D-7.0-2023-03
 title:
-- content: 'IEEE Standard for Information Technology--Telecommunications and Information
-    Exchange between Systems Local and Metropolitan Area Networks--Specific Requirements
-    Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications
-    Amendment 5: Enhancements for Next Generation V2X'
+- content: 'IEEE Draft Standard for Information technology--Telecommunications and
+    information exchange between systems Local and metropolitan area networks--Specific
+    requirements - Part 11: Wireless LAN Medium Access Control (MAC) and Physical
+    Layer (PHY) Specifications - Amendment 6: Enhanced Broadcast Service'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/10063942
+- content: https://ieeexplore.ieee.org/document/10063236
   type: src
 type: standard
 docid:
-- id: IEEE 802.11
+- id: IEEE P802.11bc/D-7.0-2023-03
   type: IEEE
   primary: true
-- id: IEEE 802.11®
+- id: IEEE P802.11bc™/D-7.0-2023-03
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-9521-9
+- id: 978-1-5044-9530-1
   type: ISBN
-- id: 10.1109/IEEESTD.2023.10063942
-  type: DOI
-docnumber: IEEE 802.11
+docnumber: IEEE P802.11bc/D-7.0-2023-03
 date:
 - type: created
   value: '2023'
 - type: published
   value: '2023-03-08'
 - type: issued
-  value: '2022-12-03'
+  value: '2023'
 contributor:
 - organization:
     name:
@@ -51,9 +49,10 @@ language:
 script:
 - Latn
 abstract:
-- content: This amendment defines modifications to both the IEEE 802.11 physical layer
-    (PHY) and the medium access control (MAC) sublayer for next generation vehicle-to-everything
-    (V2X) communication in the 5.9 GHz and 60 GHz frequency bands.
+- content: This amendment defines modifications to the IEEE 802.11 medium access control
+    layer (MAC) for the enhanced transmission and reception of broadcast content,
+    both while associated with an infrastructure BSS and while not associated with
+    an infrastructure BSS
   language:
   - en
   script:
@@ -89,20 +88,14 @@ relation:
     - Latn
     format: text/plain
 keyword:
-- content: amendment
-- content: IEEE 802.11
-- content: IEEE 802.11bd
-- content: MAC
-- content: medium access control
-- content: OCB
-- content: outside the context of BSS
-- content: PHY
-- content: physical layer
-- content: V2X
-- content: vehicular communication
-- content: vehicle-to-everything communication
-- content: wireless local area network
-- content: WLAN
+- content: IEEE Standards
+- content: Information technology
+- content: Wireless LAN
+- content: Urban areas
+- content: Media Access Protocol
+- content: Information exchange
+- content: Broadcasting
+- content: Enhanced Broadcast Services (EBCS)
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society
