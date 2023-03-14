@@ -1,0 +1,106 @@
+---
+schema-version: v1.2.1
+id: ISO-IEC-IEEE8802.1AS-Cor1-2023
+title:
+- content: 'ISO/IEC/IEEE--Information technology--Telecommunications and information
+    exchange between systems--Local and metropolitan area networks--Part 1AS: Timing
+    and synchronization for time-sensitive applications in bridged local area networks
+    TECHNICAL CORRIGENDUM 1: Technical and editorial corrections'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10066253
+  type: src
+type: standard
+docid:
+- id: ISO/IEC/IEEE 8802.1AS/Cor1-2023
+  type: IEEE
+  primary: true
+- id: ISO/IEC/IEEE 8802.1AS™/Cor1-2023
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-1-5044-9412-0
+  type: ISBN
+- id: 10.1109/IEEESTD.2023.10066253
+  type: DOI
+docnumber: ISO/IEC/IEEE 8802.1AS/Cor1-2023
+date:
+- type: created
+  value: '2023'
+- type: published
+  value: '2023-03-10'
+- type: issued
+  value: '2023'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2023-03-10'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Technical and editorial corrections to IEEE Std 802.1AS-2020 are provided
+    in this corrigendum.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  - name:
+    - content: ISO
+  - name:
+    - content: IEC
+  from: '2023'
+relation:
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.1AS-2020
+    docid:
+    - id: IEEE 802.1AS-2020
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1AS-2020
+      format: text/plain
+keyword:
+- content: best master
+- content: frequency offset
+- content: Grandmaster Clock
+- content: Grandmaster PTP Instance
+- content: PTP End Instance
+- content: PTP Relay Instance
+- content: IEEE 802.1AS
+- content: phase offset
+- content: synchronization
+- content: syntonization
+- content: time-aware system
+editorialgroup:
+  committee:
+  - LAN/MAN Standards Committee of the IEEE Computer Society
+ics:
+- code: '35.110'
+  text: Networking
+ext:
+  schema-version: v1.0.0
