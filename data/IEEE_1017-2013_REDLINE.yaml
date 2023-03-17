@@ -40,7 +40,7 @@ contributor:
     url: http://www.ieee.org
     contact:
     - address:
-        city: Piscataway
+        city: New York
         country: USA
   role:
   - type: publisher
@@ -62,7 +62,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: superseded
 copyright:
 - owner:
   - name:
@@ -72,6 +72,16 @@ copyright:
     url: http://www.ieee.org
   from: '2013'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE1017.1-2021
+    docid:
+    - id: IEEE 1017.1-2021
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1017.1-2021
+      format: text/plain
 - type: updates
   bibitem:
     id: IEEE1017-2004
@@ -100,11 +110,11 @@ keyword:
 - content: cable testing
 - content: conductors
 - content: field testing
-- content: IEEE 1017
+- content: IEEE 1017&#8482;
 - content: submersible pump cable
 editorialgroup:
   committee:
-  - Petroleum &amp; Chemical Industry of the IEEE Industry Applications Society
+  - Petroleum and Chemical Industry of the IEEE Industry Applications Society
 ics:
 - code: 29.060.20
   text: Cables

@@ -23,8 +23,6 @@ docid:
   type: DOI
 docnumber: IEEE 1017-2013
 date:
-- type: updated
-  value: '2013-05-13'
 - type: created
   value: '2013'
 - type: published
@@ -38,6 +36,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2013-04-08'
@@ -58,7 +60,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: withdrawn
 copyright:
 - owner:
   - name:
@@ -68,6 +70,16 @@ copyright:
     url: http://www.ieee.org
   from: '2013'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE1017.1-2021
+    docid:
+    - id: IEEE 1017.1-2021
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1017.1-2021
+      format: text/plain
 - type: updates
   bibitem:
     id: IEEE1017-2004
@@ -96,11 +108,11 @@ keyword:
 - content: cable testing
 - content: conductors
 - content: field testing
-- content: IEEE 1017
+- content: IEEE 1017&#8482;
 - content: submersible pump cable
 editorialgroup:
   committee:
-  - Petroleum &amp; Chemical Industry of the IEEE Industry Applications Society
+  - Petroleum and Chemical Industry of the IEEE Industry Applications Society
 ics:
 - code: 29.060.20
   text: Cables
