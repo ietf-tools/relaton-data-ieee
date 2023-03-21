@@ -1,31 +1,32 @@
 ---
 schema-version: v1.2.1
-id: IEEEPC95.7-D-2022.10.12-2022-10
+id: IEEEC95.7-2022
 title:
-- content: IEEE Approved Draft Standard for Electromagnetic Energy Safety Programs,
-    0 Hz to 300 GHz
+- content: IEEE Standard for Electromagnetic Energy Safety Programs, 0 Hz to 300 GHz
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/9919823
+- content: https://ieeexplore.ieee.org/document/10075348
   type: src
 type: standard
 docid:
-- id: IEEE PC95.7/D-2022.10.12-2022-10
+- id: IEEE C95.7-2022
   type: IEEE
   primary: true
-- id: IEEE PC95.7™/D-2022.10.12-2022-10
+- id: IEEE C95.7™-2022
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-9064-1
+- id: 978-1-5044-9390-1
   type: ISBN
-docnumber: IEEE PC95.7/D-2022.10.12-2022-10
+- id: 10.1109/IEEESTD.2023.10075348
+  type: DOI
+docnumber: IEEE C95.7-2022
 date:
 - type: created
-  value: '2022-12-12'
+  value: '2023'
 - type: published
-  value: '2023-03-16'
+  value: '2023-03-17'
 - type: issued
   value: '2022-12-03'
 contributor:
@@ -41,7 +42,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-03-16'
+revdate: '2023-03-17'
 language:
 - en
 script:
@@ -67,7 +68,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: withdrawn
+    value: approved
 copyright:
 - owner:
   - name:
@@ -75,7 +76,7 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2022'
+  from: '2023'
 relation:
 - type: updates
   bibitem:
@@ -98,9 +99,10 @@ keyword:
 - content: IEEE Standards
 - content: Electromagnetic fields
 - content: Safety
-- content: Radiation detection
-- content: Explosives
+- content: Radiation detectors
+- content: Hazards
 - content: Flammability
+- content: Radiation monitoring
 - content: access restriction
 - content: electro-explosive device (EED)
 - content: electromagnetic energy (EME)

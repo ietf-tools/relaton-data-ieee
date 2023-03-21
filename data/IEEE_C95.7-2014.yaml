@@ -24,8 +24,6 @@ docid:
   type: DOI
 docnumber: IEEE C95.7-2014
 date:
-- type: updated
-  value: '2014-08-29'
 - type: created
   value: '2014-08-08'
 - type: published
@@ -39,6 +37,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2014-08-08'
@@ -73,7 +75,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: superseded
 copyright:
 - owner:
   - name:
@@ -127,7 +129,7 @@ keyword:
 - content: signage
 editorialgroup:
   committee:
-  - IEEE-SASB Coordinating Committees
+  - International Committee on Electromagnetic Safety of the IEEE SA Board of Governors
 ics:
 - code: '13.280'
   text: Radiation protection
