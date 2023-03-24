@@ -24,8 +24,6 @@ docid:
   type: DOI
 docnumber: IEEE 404-2012
 date:
-- type: updated
-  value: '2012-12-17'
 - type: created
   value: '2012'
 - type: published
@@ -39,6 +37,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2012-06-18'
@@ -62,7 +64,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: superseded
 copyright:
 - owner:
   - name:
@@ -106,7 +108,7 @@ keyword:
 - content: withstand voltage
 editorialgroup:
   committee:
-  - Insulated Conductors of the IEEE Power &amp; Energy Society
+  - Insulated Conductors of the IEEE Power and Energy Society
 ics:
 - code: 29.120.20
   text: Connecting devices

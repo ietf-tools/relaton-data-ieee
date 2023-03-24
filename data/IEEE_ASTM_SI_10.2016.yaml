@@ -23,8 +23,6 @@ docid:
   type: DOI
 docnumber: IEEE/ASTM SI 10.2016
 date:
-- type: updated
-  value: '2017-03-31'
 - type: created
   value: '2017'
 - type: published
@@ -38,6 +36,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2017-03-10'
@@ -69,6 +71,24 @@ copyright:
   - name:
     - content: ASTM
   from: '2017'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE-ASTM
+    docid:
+    - id: IEEE/ ASTM
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE/ ASTM
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: ANSI Standards
@@ -82,14 +102,9 @@ keyword:
 - content: rounding
 - content: SI
 - content: SI10
-- content: Syst me International d Unit se
-editorialgroup:
-  committee:
-  - IEEE-SASB Coordinating Committees
+- content: Système International d’Unitése
 ics:
 - code: '01.060'
   text: Quantities and units
-- code: '17.020'
-  text: Metrology and measurement in general
 ext:
   schema-version: v1.0.0
