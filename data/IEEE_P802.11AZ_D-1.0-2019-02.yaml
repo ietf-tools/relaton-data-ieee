@@ -29,7 +29,7 @@ date:
 - type: published
   value: '2019-03-21'
 - type: issued
-  value: '2019'
+  value: '2022-12-03'
 contributor:
 - organization:
     name:
@@ -49,15 +49,11 @@ language:
 script:
 - Latn
 abstract:
-- content: This amendment defines modifications to both the IEEE 802.11 physical layer
-    (PHY) and medium access control (MAC) sublayer that enable determination of absolute
-    and relative position with better accuracy with respect to the Fine Timing Measurement
-    (FTM) protocol executing on the same PHY-type, while reducing existing wireless
-    medium use and power consumption and is scalable to dense deployments. This amendment
-    requires backward compatibility and coexistence with legacy devices. Backward
-    compatibility with legacy 802.11 devices implies that devices implementing this
-    amendment shall (a) maintain data communication compatibility and (b) support
-    the Fine Timing Measurement (FTM) protocol.
+- content: This amendment defines modifications to both the IEEE 802.11 medium access
+    control layer (MAC) and physical layers (PHY). Compared to IEEE Std 802.11-2020
+    it enables absolute and relative position estimation with higher accuracy, and
+    reduces wireless medium utilization and power consumption, is scalable to dense
+    deployments, and includes security features.
   language:
   - en
   script:
@@ -65,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: withdrawn
 copyright:
 - owner:
   - name:
@@ -75,6 +71,23 @@ copyright:
     url: http://www.ieee.org
   from: '2019'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE802.11-2020
+    docid:
+    - id: IEEE 802.11-2020
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.11-2020
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE802.11-2012
@@ -101,13 +114,16 @@ keyword:
 - content: Media Access Protocol
 - content: Physical layer
 - content: Wireless LAN
+- content: direction measurement
 - content: Fine Timing Measurement (FTM)
+- content: IEEE 802.11
+- content: IEEE 802.11az
+- content: positioning
+- content: ranging
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society
 ics:
-- code: 35.100.10
-  text: Physical layer
 - code: '35.110'
   text: Networking
 ext:
