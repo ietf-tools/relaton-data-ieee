@@ -54,7 +54,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: withdrawn
+    value: draft
 copyright:
 - owner:
   - name:
@@ -68,8 +68,13 @@ keyword:
 - content: beacons
 - content: TV white space
 - content: WRAN
+doctype: standard
 ics:
 - code: '35.110'
   text: Networking
 ext:
   schema-version: v1.0.0
+  standard_status: Inactive
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

@@ -55,7 +55,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: draft
 copyright:
 - owner:
   - name:
@@ -85,6 +85,7 @@ keyword:
 - content: touch voltage
 - content: transferred voltage
 - content: arc flash
+doctype: standard
 editorialgroup:
   committee:
   - Substations of the IEEE Power and Energy Society
@@ -93,3 +94,7 @@ ics:
   text: Substations. Surge arresters
 ext:
   schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

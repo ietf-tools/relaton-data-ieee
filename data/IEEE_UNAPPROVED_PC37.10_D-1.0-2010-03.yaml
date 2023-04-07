@@ -47,7 +47,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: withdrawn
+    value: draft
 copyright:
 - owner:
   - name:
@@ -64,8 +64,13 @@ keyword:
 - content: circuit breaker failure analysis
 - content: circuit breaker failure guide
 - content: circuit breaker failure reporting
+doctype: standard
 ics:
 - code: 29.120.40
   text: Switches
 ext:
   schema-version: v1.0.0
+  standard_status: Inactive
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

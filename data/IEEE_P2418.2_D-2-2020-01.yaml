@@ -47,7 +47,7 @@ script:
 - Latn
 docstatus:
   stage:
-    value: approved
+    value: draft
 copyright:
 - owner:
   - name:
@@ -60,8 +60,13 @@ keyword:
 - content: IEEE Standards
 - content: Blockchain
 - content: Data handling
+doctype: standard
 editorialgroup:
   committee:
   - Standards Activities Board of the IEEE Computer Society
 ext:
   schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

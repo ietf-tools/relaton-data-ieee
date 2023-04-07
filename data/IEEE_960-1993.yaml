@@ -59,9 +59,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: superseded
 copyright:
 - owner:
   - name:
@@ -106,6 +103,7 @@ keyword:
 - content: bus system
 - content: data acquisition
 - content: FASTBUS
+doctype: standard
 editorialgroup:
   committee:
   - Nuclear Instruments and Detectors of the IEEE Nuclear and Plasma Sciences Society
@@ -114,3 +112,6 @@ ics:
   text: Interface and interconnection equipment
 ext:
   schema-version: v1.0.0
+  standard_status: Superseded
+  pubstatus: Active
+  holdstatus: Publish

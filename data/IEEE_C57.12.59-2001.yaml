@@ -54,9 +54,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: superseded
 copyright:
 - owner:
   - name:
@@ -86,6 +83,7 @@ keyword:
 - content: normal base current
 - content: overcurrent protective devices
 - content: transformer short-circuit impedance
+doctype: standard
 editorialgroup:
   committee:
   - Transformers of the IEEE Power and Energy Society
@@ -94,3 +92,6 @@ ics:
   text: Transformers. Reactors
 ext:
   schema-version: v1.0.0
+  standard_status: Superseded
+  pubstatus: Active
+  holdstatus: Publish

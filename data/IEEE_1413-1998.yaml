@@ -56,9 +56,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: superseded
 copyright:
 - owner:
   - name:
@@ -81,6 +78,7 @@ relation:
 keyword:
 - content: IEEE standards
 - content: Mil-HDBK-217
+doctype: standard
 editorialgroup:
   committee:
   - IEEE Reliability of the IEEE Reliability Society
@@ -89,3 +87,6 @@ ics:
   text: Electronic components in general
 ext:
   schema-version: v1.0.0
+  standard_status: Superseded
+  pubstatus: Active
+  holdstatus: Publish

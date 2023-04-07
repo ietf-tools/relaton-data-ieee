@@ -61,9 +61,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -101,6 +98,7 @@ keyword:
 - content: grid architecture
 - content: grid operations
 - content: power systems
+doctype: standard
 ics:
 - code: 29.240.01
   text: Power transmission and distribution networks in general
@@ -110,3 +108,6 @@ ics:
   text: Telecontrol. Telemetering
 ext:
   schema-version: v1.0.0
+  standard_status: Active
+  pubstatus: Active
+  holdstatus: Publish

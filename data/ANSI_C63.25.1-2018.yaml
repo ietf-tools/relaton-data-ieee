@@ -24,8 +24,6 @@ docid:
   type: DOI
 docnumber: ANSI C63.25.1-2018
 date:
-- type: updated
-  value: '2020-05-22'
 - type: created
   value: '2019'
 - type: published
@@ -84,11 +82,16 @@ keyword:
 - content: radiated emission test sites
 - content: site voltage standing-wave ratio
 - content: test site validation
+doctype: standard
 editorialgroup:
   committee:
   - Accredited Standards Committee on Electromagnetic Compatibility
 ics:
-- code: 01.040.11
-  text: Health care technology (Vocabularies)
+- code: 33.100.10
+  text: Emission
 ext:
   schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Approved
+  pubstatus: Active
+  holdstatus: Publish

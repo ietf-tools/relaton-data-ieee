@@ -61,9 +61,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: superseded
 copyright:
 - owner:
   - name:
@@ -120,6 +117,7 @@ keyword:
 - content: SystemVerilog
 - content: Verilog
 - content: VPI
+doctype: redline
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society
@@ -128,3 +126,7 @@ ics:
   text: Languages used in information technology
 ext:
   schema-version: v1.0.0
+  standard_status: Superseded
+  standard_modified: Redline
+  pubstatus: Active
+  holdstatus: Publish

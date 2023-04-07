@@ -75,9 +75,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -123,6 +120,7 @@ keyword:
 - content: SAE
 - content: SAE J1772
 - content: SAE J2836/2
+doctype: redline
 editorialgroup:
   committee:
   - Intelligent Transportation Systems of the IEEE Vehicular Technology Society
@@ -131,3 +129,7 @@ ics:
   text: Electric road vehicles
 ext:
   schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Redline
+  pubstatus: Active
+  holdstatus: Publish

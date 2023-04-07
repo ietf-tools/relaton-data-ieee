@@ -63,9 +63,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: superseded
 copyright:
 - owner:
   - name:
@@ -155,6 +152,7 @@ keyword:
 - content: WLAN
 - content: Wi-Fi
 - content: WiFi
+doctype: redline
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society
@@ -167,3 +165,7 @@ ics:
   text: Data link layer
 ext:
   schema-version: v1.0.0
+  standard_status: Superseded
+  standard_modified: Redline
+  pubstatus: Active
+  holdstatus: Publish

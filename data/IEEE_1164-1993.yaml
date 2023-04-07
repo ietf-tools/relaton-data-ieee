@@ -56,9 +56,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: superseded
 copyright:
 - owner:
   - name:
@@ -77,6 +74,7 @@ keyword:
 - content: logic system
 - content: VHDL model interoperability
 - content: Std_logic_1164
+doctype: standard
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society
@@ -85,3 +83,6 @@ ics:
   text: Software
 ext:
   schema-version: v1.0.0
+  standard_status: Superseded
+  pubstatus: Active
+  holdstatus: Publish

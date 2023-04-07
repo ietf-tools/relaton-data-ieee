@@ -64,9 +64,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -109,6 +106,7 @@ keyword:
 - content: system modeling
 - content: system-on-chip
 - content: transaction level
+doctype: standard
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society
@@ -117,3 +115,6 @@ ics:
   text: Software
 ext:
   schema-version: v1.0.0
+  standard_status: Active
+  pubstatus: Active
+  holdstatus: Publish

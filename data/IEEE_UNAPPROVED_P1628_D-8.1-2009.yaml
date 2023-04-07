@@ -63,7 +63,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: withdrawn
+    value: draft
 copyright:
 - owner:
   - name:
@@ -76,6 +76,7 @@ keyword:
 - content: rail
 - content: vehicle maintenance
 - content: OCSlines
+doctype: standard
 ics:
 - code: '29.280'
   text: Electric traction equipment
@@ -83,3 +84,7 @@ ics:
   text: TrActive stock
 ext:
   schema-version: v1.0.0
+  standard_status: Inactive
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

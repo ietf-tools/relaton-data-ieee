@@ -60,9 +60,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: superseded
 copyright:
 - owner:
   - name:
@@ -99,6 +96,7 @@ keyword:
 - content: bar code label
 - content: distribution transformer
 - content: step-voltage regulator
+doctype: redline
 editorialgroup:
   committee:
   - Transformers of the IEEE Power and Energy Society
@@ -107,3 +105,7 @@ ics:
   text: Information coding
 ext:
   schema-version: v1.0.0
+  standard_status: Superseded
+  standard_modified: Redline
+  pubstatus: Active
+  holdstatus: Publish

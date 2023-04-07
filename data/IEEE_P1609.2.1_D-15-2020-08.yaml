@@ -48,7 +48,7 @@ script:
 - Latn
 docstatus:
   stage:
-    value: approved
+    value: draft
 copyright:
 - owner:
   - name:
@@ -71,8 +71,13 @@ keyword:
 - content: IEEE Std 1609.2.1
 - content: interface
 - content: SCMS
+doctype: standard
 editorialgroup:
   committee:
   - Intelligent Transportation Systems of the IEEE Vehicular Technology Society
 ext:
   schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

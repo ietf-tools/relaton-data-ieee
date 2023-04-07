@@ -67,9 +67,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -120,6 +117,7 @@ keyword:
 - content: standard antenna method
 - content: standard site method
 - content: standard transmit loop method
+doctype: redline
 editorialgroup:
   committee:
   - IEEE Electromagnetic Compatibility Society
@@ -128,3 +126,7 @@ ics:
   text: Emission
 ext:
   schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Redline
+  pubstatus: Active
+  holdstatus: Publish

@@ -58,9 +58,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -104,6 +101,7 @@ keyword:
 - content: interconnect test
 - content: printed circuit boards
 - content: test
+doctype: redline
 editorialgroup:
   committee:
   - Test Technology of the IEEE Computer Society
@@ -112,3 +110,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Redline
+  pubstatus: Active
+  holdstatus: Publish

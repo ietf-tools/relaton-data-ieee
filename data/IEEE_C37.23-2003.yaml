@@ -64,9 +64,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: superseded
 copyright:
 - owner:
   - name:
@@ -104,6 +101,7 @@ keyword:
 - content: metal-enclosed bus
 - content: nonsegregated-phase bus
 - content: segregated-phase bus
+doctype: standard
 editorialgroup:
   committee:
   - Switchgear of the IEEE Power and Energy Society
@@ -112,3 +110,6 @@ ics:
   text: Wires
 ext:
   schema-version: v1.0.0
+  standard_status: Superseded
+  pubstatus: Active
+  holdstatus: Publish

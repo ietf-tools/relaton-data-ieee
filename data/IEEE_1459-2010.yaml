@@ -58,9 +58,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: withdrawn
 copyright:
 - owner:
   - name:
@@ -80,6 +77,7 @@ keyword:
 - content: power factor
 - content: reactive power
 - content: total harmonic distortion
+doctype: standard
 editorialgroup:
   committee:
   - Power System Instrumentation and Measurements of the IEEE Power and Energy Society
@@ -90,3 +88,7 @@ ics:
   text: Measurement of electrical and magnetic quantities
 ext:
   schema-version: v1.0.0
+  standard_status: Inactive
+  standard_modified: Reserved
+  pubstatus: Active
+  holdstatus: Publish

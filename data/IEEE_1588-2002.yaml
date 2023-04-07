@@ -59,9 +59,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -94,6 +91,7 @@ keyword:
 - content: measurement and control systems
 - content: real-time clock
 - content: synchronized clocks
+doctype: standard
 editorialgroup:
   committee:
   - TC9 - Sensor Technology of the IEEE Instrumentation and Measurement Society
@@ -102,3 +100,6 @@ ics:
   text: Other time-measuring instruments
 ext:
   schema-version: v1.0.0
+  standard_status: Active
+  pubstatus: Active
+  holdstatus: Publish

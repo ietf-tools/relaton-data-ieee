@@ -44,9 +44,6 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: superseded
 copyright:
 - owner:
   - name:
@@ -76,6 +73,7 @@ relation:
     formattedref:
       content: IEEE 1062-1998
       format: text/plain
+doctype: standard
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society
@@ -84,3 +82,6 @@ ics:
   text: Software
 ext:
   schema-version: v1.0.0
+  standard_status: Superseded
+  pubstatus: Active
+  holdstatus: Publish

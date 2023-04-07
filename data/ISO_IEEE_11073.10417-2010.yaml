@@ -63,9 +63,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: superseded
 copyright:
 - owner:
   - name:
@@ -92,6 +89,7 @@ keyword:
 - content: glucose meter
 - content: medical device communication
 - content: personal health devices
+doctype: standard
 editorialgroup:
   committee:
   - IEEE 11073 Standards Committee of the IEEE Engineering in Medicine and Biology
@@ -103,3 +101,6 @@ ics:
   text: Diagnostic equipment
 ext:
   schema-version: v1.0.0
+  standard_status: Superseded
+  pubstatus: Active
+  holdstatus: Publish

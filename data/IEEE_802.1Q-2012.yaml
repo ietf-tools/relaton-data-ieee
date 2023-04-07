@@ -55,9 +55,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: superseded
 copyright:
 - owner:
   - name:
@@ -82,6 +79,7 @@ keyword:
 - content: Virtual Bridged Local Area Networks (virtual LANs)
 - content: Provider Bridged Local Area Networks
 - content: Shortest Path Bridging (SPB) Protocol
+doctype: standard
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society
@@ -92,3 +90,6 @@ ics:
   text: Data link layer
 ext:
   schema-version: v1.0.0
+  standard_status: Superseded
+  pubstatus: Active
+  holdstatus: Publish

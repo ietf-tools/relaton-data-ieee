@@ -52,7 +52,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: withdrawn
+    value: draft
 copyright:
 - owner:
   - name:
@@ -69,6 +69,7 @@ keyword:
 - content: dynamic analysis
 - content: parameter determination
 - content: synchronous machines
+doctype: standard
 ics:
 - code: 29.160.20
   text: Generators
@@ -76,3 +77,7 @@ ics:
   text: Motors
 ext:
   schema-version: v1.0.0
+  standard_status: Inactive
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

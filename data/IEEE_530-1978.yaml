@@ -63,9 +63,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: superseded
 copyright:
 - owner:
   - name:
@@ -85,6 +82,7 @@ keyword:
 - content: accelerometer
 - content: Torque measurement
 - content: Acceleration measurement
+doctype: standard
 editorialgroup:
   committee:
   - Gyro Accelerometer Panel of the IEEE Aerospace and Electronic Systems Society
@@ -93,3 +91,6 @@ ics:
   text: Measurement of time, velocity, acceleration, angular velocity
 ext:
   schema-version: v1.0.0
+  standard_status: Superseded
+  pubstatus: Active
+  holdstatus: Publish

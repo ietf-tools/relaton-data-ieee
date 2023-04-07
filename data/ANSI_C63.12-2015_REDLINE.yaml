@@ -73,9 +73,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -124,8 +121,13 @@ keyword:
 - content: limits
 - content: man-made noise
 - content: test levels
+doctype: redline
 ics:
 - code: 33.100.01
   text: Electromagnetic compatibility (EMC) in general
 ext:
   schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Redline
+  pubstatus: Active
+  holdstatus: Publish

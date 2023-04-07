@@ -60,9 +60,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: superseded
 copyright:
 - owner:
   - name:
@@ -73,8 +70,12 @@ copyright:
   from: '2000'
 keyword:
 - content: IEEE C37.16
+doctype: standard
 ics:
 - code: 29.130.20
   text: Low voltage switchgear and controlgear
 ext:
   schema-version: v1.0.0
+  standard_status: Superseded
+  pubstatus: Active
+  holdstatus: Publish

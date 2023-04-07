@@ -65,9 +65,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: superseded
 copyright:
 - owner:
   - name:
@@ -93,6 +90,7 @@ keyword:
 - content: Protocols
 - content: Standards
 - content: '488.2'
+doctype: standard
 editorialgroup:
   committee:
   - TC8 - Automated Test Systems and Instrumentation of the IEEE Instrumentation and
@@ -102,3 +100,6 @@ ics:
   text: Character sets and information coding
 ext:
   schema-version: v1.0.0
+  standard_status: Superseded
+  pubstatus: Active
+  holdstatus: Publish

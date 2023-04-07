@@ -50,7 +50,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: withdrawn
+    value: draft
 copyright:
 - owner:
   - name:
@@ -63,8 +63,13 @@ keyword:
 - content: IEEE standards
 - content: Cables
 - content: Generating stations
+doctype: standard
 ics:
 - code: 29.060.20
   text: Cables
 ext:
   schema-version: v1.0.0
+  standard_status: Inactive
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

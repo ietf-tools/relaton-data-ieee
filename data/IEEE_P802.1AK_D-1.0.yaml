@@ -48,7 +48,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: withdrawn
+    value: draft
 copyright:
 - owner:
   - name:
@@ -69,6 +69,7 @@ keyword:
 - content: MRP
 - content: GVRP
 - content: GMRP.
+doctype: standard
 ics:
 - code: '35.110'
   text: Networking
@@ -76,3 +77,7 @@ ics:
   text: Data link layer
 ext:
   schema-version: v1.0.0
+  standard_status: Inactive
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

@@ -59,9 +59,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: superseded
 copyright:
 - owner:
   - name:
@@ -94,6 +91,7 @@ keyword:
 - content: Circuitry
 - content: Circuit boards
 - content: Boundary-scan register
+doctype: standard
 editorialgroup:
   committee:
   - Test Technology of the IEEE Computer Society
@@ -104,3 +102,6 @@ ics:
   text: Integrated circuits. Microelectronics
 ext:
   schema-version: v1.0.0
+  standard_status: Superseded
+  pubstatus: Active
+  holdstatus: Publish

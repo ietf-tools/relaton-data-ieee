@@ -46,9 +46,6 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: superseded
 copyright:
 - owner:
   - name:
@@ -85,6 +82,7 @@ relation:
     formattedref:
       content: IEEE P802.11/D-4.0/R-ma
       format: text/plain
+doctype: standard
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society
@@ -97,3 +95,6 @@ ics:
   text: Physical layer
 ext:
   schema-version: v1.0.0
+  standard_status: Superseded
+  pubstatus: Active
+  holdstatus: Publish

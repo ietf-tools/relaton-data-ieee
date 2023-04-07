@@ -67,9 +67,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: superseded
 copyright:
 - owner:
   - name:
@@ -125,6 +122,7 @@ keyword:
 - content: safety work rules
 - content: underground communication line safety
 - content: underground electric line safety
+doctype: redline
 ics:
 - code: '13.260'
   text: Protection against electric shock. Live working
@@ -132,3 +130,7 @@ ics:
   text: Electrical engineering in general
 ext:
   schema-version: v1.0.0
+  standard_status: Superseded
+  standard_modified: Redline
+  pubstatus: Active
+  holdstatus: Publish

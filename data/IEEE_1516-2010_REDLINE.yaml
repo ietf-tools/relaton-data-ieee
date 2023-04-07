@@ -69,9 +69,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: withdrawn
 copyright:
 - owner:
   - name:
@@ -104,6 +101,7 @@ keyword:
 - content: rules
 - content: runtime infrastructure
 - content: simulation object model
+doctype: redline
 editorialgroup:
   committee:
   - Simulation Interoperability Stds Organization/Stds Activity Committee of the IEEE
@@ -113,3 +111,7 @@ ics:
   text: Software
 ext:
   schema-version: v1.0.0
+  standard_status: Inactive
+  standard_modified: Redline
+  pubstatus: Active
+  holdstatus: Publish

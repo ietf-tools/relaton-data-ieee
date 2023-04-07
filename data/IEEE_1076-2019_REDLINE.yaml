@@ -62,9 +62,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -102,6 +99,7 @@ keyword:
 - content: hardware design
 - content: IEEE 1076(TM)
 - content: VHDL
+doctype: redline
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society
@@ -110,3 +108,7 @@ ics:
   text: Software
 ext:
   schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Redline
+  pubstatus: Active
+  holdstatus: Publish

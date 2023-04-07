@@ -48,7 +48,7 @@ script:
 - Latn
 docstatus:
   stage:
-    value: approved
+    value: draft
 copyright:
 - owner:
   - name:
@@ -66,9 +66,14 @@ keyword:
 - content: Calibration
 - content: Power transformers
 - content: Instrumentation
+doctype: standard
 editorialgroup:
   committee:
   - TC39 - Measurements in Power Systems of the IEEE Instrumentation and Measurement
     Society
 ext:
   schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

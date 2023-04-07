@@ -65,9 +65,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: superseded
 copyright:
 - owner:
   - name:
@@ -100,6 +97,7 @@ keyword:
 - content: low-voltage ac power circuit breaker
 - content: open-fuse trip device
 - content: unfused circuit breaker
+doctype: redline
 editorialgroup:
   committee:
   - Switchgear of the IEEE Power and Energy Society
@@ -108,3 +106,7 @@ ics:
   text: Switches
 ext:
   schema-version: v1.0.0
+  standard_status: Superseded
+  standard_modified: Redline
+  pubstatus: Active
+  holdstatus: Publish

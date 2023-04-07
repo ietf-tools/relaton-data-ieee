@@ -59,9 +59,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: superseded
 copyright:
 - owner:
   - name:
@@ -120,6 +117,7 @@ keyword:
 - content: VHDL
 - content: VHSIC Hardware Description Language
 - content: JTAG
+doctype: standard
 editorialgroup:
   committee:
   - Test Technology of the IEEE Computer Society
@@ -130,3 +128,6 @@ ics:
   text: Interface and interconnection equipment
 ext:
   schema-version: v1.0.0
+  standard_status: Superseded
+  pubstatus: Active
+  holdstatus: Publish

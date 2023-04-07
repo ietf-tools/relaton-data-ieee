@@ -64,9 +64,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: superseded
 copyright:
 - owner:
   - name:
@@ -112,6 +109,7 @@ keyword:
 - content: This standard provides a biometric-agnostic security protocol for authentication
 - content: identification
 - content: and liveness.
+doctype: standard
 editorialgroup:
   committee:
   - Edge, Fog, Cloud Communications with IOT and Big Data Standards Committee of the
@@ -121,3 +119,6 @@ ics:
   text: Identification cards. Chip cards. Biometrics
 ext:
   schema-version: v1.0.0
+  standard_status: Superseded
+  pubstatus: Active
+  holdstatus: Publish

@@ -62,9 +62,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -115,6 +112,7 @@ keyword:
 - content: Secure Device Identifier
 - content: security
 - content: X.509
+doctype: redline
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society
@@ -123,3 +121,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Redline
+  pubstatus: Active
+  holdstatus: Publish

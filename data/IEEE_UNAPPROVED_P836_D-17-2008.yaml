@@ -56,7 +56,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: withdrawn
+    value: draft
 copyright:
 - owner:
   - name:
@@ -70,8 +70,13 @@ keyword:
 - content: accelerometer test
 - content: centrifuge
 - content: linear accelerometer
+doctype: standard
 ics:
 - code: '49.090'
   text: On-board equipment and instruments
 ext:
   schema-version: v1.0.0
+  standard_status: Inactive
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

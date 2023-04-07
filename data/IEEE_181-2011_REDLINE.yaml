@@ -62,9 +62,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: withdrawn
 copyright:
 - owner:
   - name:
@@ -100,6 +97,7 @@ keyword:
 - content: waveform definitions
 - content: waveform parameters
 - content: waveform terms
+doctype: redline
 editorialgroup:
   committee:
   - TC10 - Waveform Generation Measurement and Analysis of the IEEE Instrumentation
@@ -109,3 +107,7 @@ ics:
   text: Measurement of electrical and magnetic quantities
 ext:
   schema-version: v1.0.0
+  standard_status: Inactive
+  standard_modified: Redline
+  pubstatus: Active
+  holdstatus: Publish

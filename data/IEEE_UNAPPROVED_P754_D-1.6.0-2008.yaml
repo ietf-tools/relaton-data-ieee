@@ -53,7 +53,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: withdrawn
+    value: draft
 copyright:
 - owner:
   - name:
@@ -76,6 +76,7 @@ keyword:
 - content: NaN
 - content: significand
 - content: exponent.
+doctype: standard
 ics:
 - code: '07.020'
   text: Mathematics
@@ -83,3 +84,7 @@ ics:
   text: Software
 ext:
   schema-version: v1.0.0
+  standard_status: Inactive
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

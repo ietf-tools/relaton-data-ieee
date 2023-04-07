@@ -63,9 +63,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: superseded
 copyright:
 - owner:
   - name:
@@ -122,6 +119,7 @@ keyword:
 - content: test procedures
 - content: Unlicensed National Information Infrastructure (U-NII)
 - content: unlicensed wireless devices
+doctype: standard
 ics:
 - code: 33.070.01
   text: Mobile services in general
@@ -129,3 +127,6 @@ ics:
   text: Emission
 ext:
   schema-version: v1.0.0
+  standard_status: Superseded
+  pubstatus: Active
+  holdstatus: Publish

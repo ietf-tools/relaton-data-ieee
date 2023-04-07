@@ -45,7 +45,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: withdrawn
+    value: draft
 copyright:
 - owner:
   - name:
@@ -59,8 +59,13 @@ keyword:
 - content: Storage
 - content: Encryption
 - content: Key Management
+doctype: standard
 ics:
 - code: '35.040'
   text: Character sets and information coding
 ext:
   schema-version: v1.0.0
+  standard_status: Inactive
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

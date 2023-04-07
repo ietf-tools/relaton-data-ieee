@@ -48,7 +48,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: withdrawn
+    value: draft
 copyright:
 - owner:
   - name:
@@ -62,8 +62,13 @@ keyword:
 - content: current-limiting fuse
 - content: low-voltage ac power circuit breaker
 - content: open-fuse trip device
+doctype: standard
 ics:
 - code: 29.130.20
   text: Low voltage switchgear and controlgear
 ext:
   schema-version: v1.0.0
+  standard_status: Inactive
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

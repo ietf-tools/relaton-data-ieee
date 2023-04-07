@@ -49,7 +49,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: withdrawn
+    value: draft
 copyright:
 - owner:
   - name:
@@ -71,6 +71,7 @@ keyword:
 - content: tape drive
 - content: variable-length block
 - content: XTS
+doctype: standard
 ics:
 - code: '35.040'
   text: Character sets and information coding
@@ -78,3 +79,7 @@ ics:
   text: IT applications in transport and trade
 ext:
   schema-version: v1.0.0
+  standard_status: Inactive
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

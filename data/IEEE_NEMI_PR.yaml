@@ -54,9 +54,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: withdrawn
 copyright:
 - owner:
   - name:
@@ -77,6 +74,7 @@ keyword:
 - content: motion control
 - content: exception handling
 - content: mechanism parameters
+doctype: standard
 ics:
 - code: '31.180'
   text: Printed circuits and boards
@@ -84,3 +82,6 @@ ics:
   text: IT terminal and other peripheral equipment
 ext:
   schema-version: v1.0.0
+  standard_status: Inactive
+  pubstatus: Active
+  holdstatus: Publish

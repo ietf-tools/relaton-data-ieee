@@ -58,9 +58,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: superseded
 copyright:
 - owner:
   - name:
@@ -110,6 +107,7 @@ keyword:
 - content: terms and definitions; electromagnetic pulse (EMP)
 - content: terms and definitions; electrostatic discharge (ESD)
 - content: terms and definitions
+doctype: standard
 ics:
 - code: 01.040.33
   text: Telecommunications. Audio and video engineering (Vocabularies)
@@ -117,3 +115,6 @@ ics:
   text: Electromagnetic compatibility in general
 ext:
   schema-version: v1.0.0
+  standard_status: Superseded
+  pubstatus: Active
+  holdstatus: Publish

@@ -63,9 +63,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -109,6 +106,7 @@ keyword:
 - content: holdover voltage
 - content: IEEE C62.31&#8482;
 - content: sparkover voltage
+doctype: redline
 editorialgroup:
   committee:
   - Surge Protective Devices/Low Voltage of the IEEE Power and Energy Society
@@ -117,3 +115,7 @@ ics:
   text: Fuses and other overcurrent protection devices
 ext:
   schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Redline
+  pubstatus: Active
+  holdstatus: Publish

@@ -55,9 +55,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: superseded
 copyright:
 - owner:
   - name:
@@ -78,6 +75,7 @@ keyword:
 - content: IEEE 802.21
 - content: IEEE 802.21b
 - content: media independent handover (MIH)
+doctype: standard
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society
@@ -86,3 +84,6 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
+  standard_status: Superseded
+  pubstatus: Active
+  holdstatus: Publish

@@ -51,7 +51,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: withdrawn
+    value: draft
 copyright:
 - owner:
   - name:
@@ -84,8 +84,13 @@ keyword:
 - content: state of charge
 - content: test-discharge rate
 - content: vented lead-acid battery
+doctype: standard
 ics:
 - code: 29.220.20
   text: Acid secondary cells and batteries
 ext:
   schema-version: v1.0.0
+  standard_status: Inactive
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

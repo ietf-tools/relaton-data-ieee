@@ -63,9 +63,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: superseded
 copyright:
 - owner:
   - name:
@@ -119,6 +116,7 @@ keyword:
 - content: real-time clock
 - content: synchronized clock
 - content: transparent clock
+doctype: standard
 editorialgroup:
   committee:
   - TC9 - Sensor Technology of the IEEE Instrumentation and Measurement Society
@@ -127,3 +125,6 @@ ics:
   text: Other time-measuring instruments
 ext:
   schema-version: v1.0.0
+  standard_status: Superseded
+  pubstatus: Active
+  holdstatus: Publish

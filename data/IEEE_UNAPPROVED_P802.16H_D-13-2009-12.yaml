@@ -48,7 +48,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: withdrawn
+    value: draft
 copyright:
 - owner:
   - name:
@@ -60,6 +60,7 @@ copyright:
 keyword:
 - content: Should highlight key terms and phrases from the abstract or text of the
     draft standard.
+doctype: standard
 ics:
 - code: '35.110'
   text: Networking
@@ -69,3 +70,7 @@ ics:
   text: Physical layer
 ext:
   schema-version: v1.0.0
+  standard_status: Inactive
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

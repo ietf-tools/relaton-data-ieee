@@ -59,9 +59,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: superseded
 copyright:
 - owner:
   - name:
@@ -100,6 +97,7 @@ keyword:
 - content: IEEE C37.104
 - content: reclosing
 - content: transmission
+doctype: redline
 editorialgroup:
   committee:
   - Power System Relaying and Control of the IEEE Power and Energy Society
@@ -108,3 +106,7 @@ ics:
   text: Switches
 ext:
   schema-version: v1.0.0
+  standard_status: Superseded
+  standard_modified: Redline
+  pubstatus: Active
+  holdstatus: Publish

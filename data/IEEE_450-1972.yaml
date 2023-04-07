@@ -57,9 +57,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: superseded
 copyright:
 - owner:
   - name:
@@ -75,8 +72,12 @@ keyword:
 - content: Industrial power plants
 - content: Batteries
 - content: Lead batteries
+doctype: standard
 ics:
 - code: 29.220.20
   text: Acid secondary cells and batteries
 ext:
   schema-version: v1.0.0
+  standard_status: Superseded
+  pubstatus: Active
+  holdstatus: Publish

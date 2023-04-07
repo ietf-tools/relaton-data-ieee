@@ -64,7 +64,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: withdrawn
+    value: draft
 copyright:
 - owner:
   - name:
@@ -114,6 +114,7 @@ keyword:
 - content: standard antenna method
 - content: standard site method
 - content: standard transmit loop method.
+doctype: standard
 editorialgroup:
   committee:
   - IEEE Electromagnetic Compatibility Society
@@ -122,3 +123,7 @@ ics:
   text: Emission
 ext:
   schema-version: v1.0.0
+  standard_status: Inactive
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

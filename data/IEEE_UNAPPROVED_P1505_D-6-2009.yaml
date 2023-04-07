@@ -56,7 +56,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: withdrawn
+    value: draft
 copyright:
 - owner:
   - name:
@@ -75,8 +75,13 @@ keyword:
 - content: quick disconnect
 - content: receiver
 - content: specification
+doctype: standard
 ics:
 - code: 31.220.10
   text: Plug-and-socket devices
 ext:
   schema-version: v1.0.0
+  standard_status: Inactive
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

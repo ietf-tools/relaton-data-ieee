@@ -57,9 +57,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: superseded
 copyright:
 - owner:
   - name:
@@ -92,6 +89,7 @@ keyword:
 - content: IEEE 802.3&#8482;
 - content: IEEE 802.3br&#8482;
 - content: preemption
+doctype: standard
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society
@@ -102,3 +100,6 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
+  standard_status: Superseded
+  pubstatus: Active
+  holdstatus: Publish

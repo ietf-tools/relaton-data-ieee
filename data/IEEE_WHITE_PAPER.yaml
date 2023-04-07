@@ -64,9 +64,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -75,8 +72,12 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2023'
+doctype: standard
 editorialgroup:
   committee:
   - Intelligent Transportation Systems of the IEEE Vehicular Technology Society
 ext:
   schema-version: v1.0.0
+  standard_status: Active
+  pubstatus: Active
+  holdstatus: Publish

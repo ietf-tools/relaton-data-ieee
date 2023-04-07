@@ -50,7 +50,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: withdrawn
+    value: draft
 copyright:
 - owner:
   - name:
@@ -68,6 +68,7 @@ keyword:
 - content: pole-mounted equipment
 - content: switches
 - content: transformers
+doctype: standard
 ics:
 - code: 25.220.01
   text: Surface treatment and coating in general
@@ -75,3 +76,7 @@ ics:
   text: Electrical engineering in general
 ext:
   schema-version: v1.0.0
+  standard_status: Inactive
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

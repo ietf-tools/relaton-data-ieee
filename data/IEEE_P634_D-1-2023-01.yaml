@@ -47,7 +47,7 @@ script:
 - Latn
 docstatus:
   stage:
-    value: approved
+    value: draft
 copyright:
 - owner:
   - name:
@@ -87,6 +87,7 @@ keyword:
 - content: thermocouple
 - content: time-temperature curve
 - content: T- rating
+doctype: standard
 editorialgroup:
   committee:
   - Insulated Conductors of the IEEE Power and Energy Society
@@ -97,3 +98,7 @@ ics:
   text: Cables
 ext:
   schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

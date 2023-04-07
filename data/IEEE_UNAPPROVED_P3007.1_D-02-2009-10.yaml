@@ -50,7 +50,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: withdrawn
+    value: draft
 copyright:
 - owner:
   - name:
@@ -78,8 +78,13 @@ keyword:
 - content: single-line diagram
 - content: system control
 - content: testing
+doctype: standard
 ics:
 - code: 91.140.50
   text: Electricity supply system
 ext:
   schema-version: v1.0.0
+  standard_status: Inactive
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

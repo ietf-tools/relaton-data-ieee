@@ -43,7 +43,7 @@ script:
 - Latn
 docstatus:
   stage:
-    value: withdrawn
+    value: draft
 copyright:
 - owner:
   - name:
@@ -52,6 +52,7 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2003'
+doctype: standard
 ics:
 - code: '35.110'
   text: Networking
@@ -61,3 +62,7 @@ ics:
   text: Physical layer
 ext:
   schema-version: v1.0.0
+  standard_status: Inactive
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

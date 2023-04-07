@@ -38,7 +38,7 @@ script:
 - Latn
 docstatus:
   stage:
-    value: withdrawn
+    value: draft
 copyright:
 - owner:
   - name:
@@ -54,6 +54,7 @@ keyword:
 - content: Testing
 - content: Wires
 - content: Cables
+doctype: standard
 ics:
 - code: 13.220.40
   text: Ignitability and burning behaviour of materials and products
@@ -61,3 +62,7 @@ ics:
   text: Cables
 ext:
   schema-version: v1.0.0
+  standard_status: Inactive
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

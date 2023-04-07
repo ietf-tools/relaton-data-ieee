@@ -50,7 +50,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: draft
 copyright:
 - owner:
   - name:
@@ -65,6 +65,7 @@ keyword:
 - content: Hospitals
 - content: Power systems
 - content: Electricity
+doctype: standard
 ics:
 - code: '11.140'
   text: Hospital equipment
@@ -72,3 +73,7 @@ ics:
   text: Electrical engineering in general
 ext:
   schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

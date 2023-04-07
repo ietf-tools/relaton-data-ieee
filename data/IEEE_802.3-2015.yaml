@@ -64,9 +64,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: superseded
 copyright:
 - owner:
   - name:
@@ -116,6 +113,7 @@ keyword:
     Mile; Ethernet passive optical network; Fast Ethernet; Gigabit Ethernet; GMII;
     IEEE 802.3; medium dependent interface; media MDI; MIB; MII; XGMII; PHY; physical
     coding sublayer; PMA; Power over Ethernet; type field; VLAN TAG
+doctype: standard
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society
@@ -126,3 +124,6 @@ ics:
   text: Physical layer
 ext:
   schema-version: v1.0.0
+  standard_status: Superseded
+  pubstatus: Active
+  holdstatus: Publish

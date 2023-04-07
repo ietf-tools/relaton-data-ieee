@@ -61,9 +61,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -112,6 +109,7 @@ keyword:
 - content: hardware
 - content: hardware design
 - content: VHDL
+doctype: standard
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society
@@ -120,3 +118,6 @@ ics:
   text: Languages used in information technology
 ext:
   schema-version: v1.0.0
+  standard_status: Active
+  pubstatus: Active
+  holdstatus: Publish

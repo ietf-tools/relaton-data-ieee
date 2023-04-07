@@ -49,7 +49,7 @@ script:
 - Latn
 docstatus:
   stage:
-    value: approved
+    value: draft
 copyright:
 - owner:
   - name:
@@ -76,6 +76,7 @@ relation:
     script:
     - Latn
     format: text/plain
+doctype: standard
 editorialgroup:
   committee:
   - Transformers of the IEEE Power and Energy Society
@@ -84,3 +85,7 @@ ics:
   text: Transformers. Reactors
 ext:
   schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

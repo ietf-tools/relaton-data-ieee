@@ -45,7 +45,7 @@ script:
 - Latn
 docstatus:
   stage:
-    value: withdrawn
+    value: draft
 copyright:
 - owner:
   - name:
@@ -58,6 +58,7 @@ keyword:
 - content: IEEE standards
 - content: Electromagnetics
 - content: Computational modeling
+doctype: standard
 editorialgroup:
   committee:
   - Standards Development Committee of the IEEE Electromagnetic Compatibility Society
@@ -66,3 +67,7 @@ ics:
   text: Emission
 ext:
   schema-version: v1.0.0
+  standard_status: Inactive
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

@@ -66,9 +66,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: superseded
 copyright:
 - owner:
   - name:
@@ -109,6 +106,7 @@ keyword:
 - content: System bus
 - content: '488.1'
 - content: 60488-2
+doctype: standard
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees
@@ -117,3 +115,6 @@ ics:
   text: Electrical and electronic testing
 ext:
   schema-version: v1.0.0
+  standard_status: Superseded
+  pubstatus: Active
+  holdstatus: Publish

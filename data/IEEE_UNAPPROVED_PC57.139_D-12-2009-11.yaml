@@ -50,7 +50,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: draft
 copyright:
 - owner:
   - name:
@@ -69,6 +69,7 @@ keyword:
 - content: on-load tap changer
 - content: dissolved gas-in-oil
 - content: DGA
+doctype: standard
 ics:
 - code: 29.040.10
   text: Insulating oils
@@ -76,3 +77,7 @@ ics:
   text: Transformers. Reactors
 ext:
   schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

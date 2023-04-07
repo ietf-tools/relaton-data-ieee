@@ -60,9 +60,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: superseded
 copyright:
 - owner:
   - name:
@@ -98,8 +95,12 @@ keyword:
 - content: low-voltageelectronic equipment
 - content: magnetic field measurement
 - content: normalized site attenuation
+doctype: standard
 ics:
 - code: 33.100.20
   text: Immunity
 ext:
   schema-version: v1.0.0
+  standard_status: Superseded
+  pubstatus: Active
+  holdstatus: Publish

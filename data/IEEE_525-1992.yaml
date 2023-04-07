@@ -56,9 +56,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: superseded
 copyright:
 - owner:
   - name:
@@ -107,6 +104,7 @@ keyword:
 - content: raceway
 - content: substations
 - content: wire cable shield
+doctype: standard
 editorialgroup:
   committee:
   - Substations of the IEEE Power and Energy Society
@@ -115,3 +113,6 @@ ics:
   text: Substations. Surge arresters
 ext:
   schema-version: v1.0.0
+  standard_status: Superseded
+  pubstatus: Active
+  holdstatus: Publish

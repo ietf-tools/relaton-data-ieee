@@ -59,9 +59,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: superseded
 copyright:
 - owner:
   - name:
@@ -98,6 +95,7 @@ keyword:
 - content: 10BASE; 100BASE; 1000BASE; 10GBASE; 10 Gigabit Ethernet; attachment unit
     interface; AUI; Auto Negotiation; data processing; DTE Power via the MDI; EPON;
     Ethernet; Ethernet in the First Mile; Ethernet passive optical network; Fast Ethernet
+doctype: standard
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society
@@ -108,3 +106,6 @@ ics:
   text: Physical layer
 ext:
   schema-version: v1.0.0
+  standard_status: Superseded
+  pubstatus: Active
+  holdstatus: Publish

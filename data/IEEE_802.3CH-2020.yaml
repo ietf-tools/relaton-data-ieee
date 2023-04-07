@@ -58,9 +58,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: superseded
 copyright:
 - owner:
   - name:
@@ -107,6 +104,7 @@ keyword:
 - content: 2.5GBASE-T1; 5GBASE-T1; 10GBASE-T1; Ethernet; IEEE 802.3ch; MASTER-SLAVE;
     Medium Dependent Interface; Physical Coding Sublayer; Physical Layer; Physical
     Medium Attachment
+doctype: standard
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society
@@ -117,3 +115,6 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
+  standard_status: Superseded
+  pubstatus: Active
+  holdstatus: Publish

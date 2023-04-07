@@ -56,9 +56,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: superseded
 copyright:
 - owner:
   - name:
@@ -89,6 +86,7 @@ keyword:
 - content: IEEE Standards
 - content: Power system planning
 - content: Nuclear power generation
+doctype: standard
 ics:
 - code: 27.120.30
   text: Fissile materials and nuclear fuel technology
@@ -96,3 +94,6 @@ ics:
   text: Power transmission and distribution networks in general
 ext:
   schema-version: v1.0.0
+  standard_status: Superseded
+  pubstatus: Active
+  holdstatus: Publish

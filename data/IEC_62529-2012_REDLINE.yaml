@@ -58,9 +58,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -104,6 +101,7 @@ keyword:
 - content: test signals
 - content: unit under test
 - content: UUT
+doctype: redline
 editorialgroup:
   committee:
   - SCC20 - Test and Diagnosis for Electronic Systems
@@ -116,3 +114,7 @@ ics:
   text: Languages used in information technology
 ext:
   schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Redline
+  pubstatus: Active
+  holdstatus: Publish

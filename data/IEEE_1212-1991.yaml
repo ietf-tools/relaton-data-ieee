@@ -61,9 +61,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: superseded
 copyright:
 - owner:
   - name:
@@ -95,6 +92,7 @@ keyword:
 - content: node
 - content: registers
 - content: sets
+doctype: standard
 editorialgroup:
   committee:
   - Microprocessor Standards Committee of the IEEE Computer Society
@@ -103,3 +101,6 @@ ics:
   text: Interface and interconnection equipment
 ext:
   schema-version: v1.0.0
+  standard_status: Superseded
+  pubstatus: Active
+  holdstatus: Publish

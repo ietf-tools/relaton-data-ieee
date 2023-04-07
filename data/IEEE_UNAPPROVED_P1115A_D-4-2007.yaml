@@ -45,7 +45,7 @@ script:
 - Latn
 docstatus:
   stage:
-    value: withdrawn
+    value: draft
 copyright:
 - owner:
   - name:
@@ -89,6 +89,7 @@ relation:
     script:
     - Latn
     format: text/plain
+doctype: standard
 editorialgroup:
   committee:
   - Energy Storage &amp; Stationary Battery Committee of the IEEE Power and Energy
@@ -98,3 +99,7 @@ ics:
   text: Alkaline secondary cells and batteries
 ext:
   schema-version: v1.0.0
+  standard_status: Inactive
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

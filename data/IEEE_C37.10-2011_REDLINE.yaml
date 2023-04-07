@@ -56,9 +56,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -96,6 +93,7 @@ keyword:
 - content: circuit breaker failure investigation
 - content: circuit breaker failure reporting
 - content: IEEE C37.10
+doctype: redline
 editorialgroup:
   committee:
   - Switchgear of the IEEE Power and Energy Society
@@ -104,3 +102,7 @@ ics:
   text: Switches
 ext:
   schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Redline
+  pubstatus: Active
+  holdstatus: Publish

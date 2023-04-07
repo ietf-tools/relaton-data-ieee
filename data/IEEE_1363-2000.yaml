@@ -59,9 +59,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: withdrawn
 copyright:
 - owner:
   - name:
@@ -76,6 +73,7 @@ keyword:
 - content: encryption
 - content: key agreement
 - content: public-key cryptography
+doctype: standard
 editorialgroup:
   committee:
   - Microprocessor Standards Committee of the IEEE Computer Society
@@ -84,3 +82,7 @@ ics:
   text: Character sets and information coding
 ext:
   schema-version: v1.0.0
+  standard_status: Inactive
+  standard_modified: Reserved
+  pubstatus: Active
+  holdstatus: Publish

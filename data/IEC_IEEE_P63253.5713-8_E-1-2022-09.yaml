@@ -48,7 +48,7 @@ script:
 - Latn
 docstatus:
   stage:
-    value: approved
+    value: draft
 copyright:
 - owner:
   - name:
@@ -64,8 +64,13 @@ keyword:
 - content: IEC Standards
 - content: Power transformers
 - content: Voltage control
+doctype: standard
 editorialgroup:
   committee:
   - Transformers of the IEEE Power and Energy Society
 ext:
   schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold
