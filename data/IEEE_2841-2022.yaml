@@ -1,30 +1,32 @@
 ---
 schema-version: v1.2.3
-id: IEEEP2841-D-2.1-2022-06
+id: IEEE2841-2022
 title:
-- content: IEEE Approved Draft Framework and Process for Deep Learning Evaluation
+- content: IEEE Recommended Practice for Framework and Process for Deep Learning Evaluation
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/9805672
+- content: https://ieeexplore.ieee.org/document/10097701
   type: src
 type: standard
 docid:
-- id: IEEE P2841/D-2.1-2022-06
+- id: IEEE 2841-2022
   type: IEEE
   primary: true
-- id: IEEE P2841™/D-2.1-2022-06
+- id: IEEE 2841™-2022
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-8799-3
+- id: 978-1-5044-9358-1
   type: ISBN
-docnumber: IEEE P2841/D-2.1-2022-06
+- id: 10.1109/IEEESTD.2023.10097701
+  type: DOI
+docnumber: IEEE 2841-2022
 date:
 - type: created
-  value: '2022'
+  value: '2023'
 - type: published
-  value: '2022-06-23'
+  value: '2023-04-07'
 - type: issued
   value: '2022-09-21'
 contributor:
@@ -40,7 +42,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-06-23'
+revdate: '2023-04-07'
 language:
 - en
 script:
@@ -58,7 +60,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: draft
+    value: approved
 copyright:
 - owner:
   - name:
@@ -66,13 +68,8 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2022'
+  from: '2023'
 keyword:
-- content: IEEE Standards
-- content: Deep learning
-- content: Performance evaluation
-- content: Quality of service
-- content: Reliability
 - content: algorithm reliability
 - content: deep learning evaluation
 - content: IEEE 2841
@@ -83,7 +80,7 @@ editorialgroup:
   - Artificial Intelligence Standards Committee of the IEEE Computer Society
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
-  standard_modified: Draft
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
-  holdstatus: Hold
+  holdstatus: Publish

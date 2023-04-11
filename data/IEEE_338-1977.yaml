@@ -1,34 +1,33 @@
 ---
 schema-version: v1.2.3
-id: ISO-IEC-IEEEDISP23026-2022-09
+id: IEEE338-1977
 title:
-- content: ISO/IEC/IEEE Draft International Standard - Systems and Software Engineering
-    -- Engineering and Management of Websites for Systems, Software, and Services
-    Information
+- content: IEEE Standard Criteria for the Periodic Testing of Nuclear Power Generating
+    Station Safety Systems
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/9934865
+- content: https://ieeexplore.ieee.org/document/10094310
   type: src
 type: standard
 docid:
-- id: ISO/IEC/IEEE DIS P23026-2022-09
+- id: IEEE 338-1977
   type: IEEE
   primary: true
-- id: ISO/IEC/IEEE DIS P23026™-2022-09
+- id: IEEE 338™-1977
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-9150-1
+- id: 978-1-5044-9628-5
   type: ISBN
-docnumber: ISO/IEC/IEEE DIS P23026-2022-09
+docnumber: IEEE 338-1977
 date:
 - type: created
-  value: '2022-10-31'
+  value: '1977-10-28'
 - type: published
   value: '2023-04-07'
 - type: issued
-  value: '2022'
+  value: '1977-04-06'
 contributor:
 - organization:
     name:
@@ -47,9 +46,6 @@ language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: draft
 copyright:
 - owner:
   - name:
@@ -57,21 +53,17 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  - name:
-    - content: ISO
-  - name:
-    - content: IEC
-  from: '2022'
+  from: '1977'
 relation:
 - type: updates
   bibitem:
-    id: ISO-IEC-IEEE
+    id: IEEE338-1975
     docid:
-    - id: ISO/IEC/ IEEE
+    - id: IEEE 338-1975
       type: IEEE
       primary: true
     formattedref:
-      content: ISO/IEC/ IEEE
+      content: IEEE 338-1975
       format: text/plain
   description:
     content: revises
@@ -82,21 +74,17 @@ relation:
     format: text/plain
 keyword:
 - content: IEEE Standards
-- content: ISO Standards
-- content: IEC Standards
-- content: Software engineering
-- content: System analysis and designb
-- content: Websites
+- content: Nuclear power generation
+- content: Testing
+- content: Safety
+- content: Power generation
+- content: Power system reliability
 doctype: standard
 editorialgroup:
   committee:
-  - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society
-ics:
-- code: '35.080'
-  text: Software
+  - IEEE Nuclear and Plasma Sciences Society
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
-  standard_modified: Draft
+  standard_status: Superseded
   pubstatus: Active
-  holdstatus: Hold
+  holdstatus: Publish

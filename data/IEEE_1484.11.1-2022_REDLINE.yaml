@@ -1,0 +1,119 @@
+---
+schema-version: v1.2.3
+id: IEEE1484.11.1-2022Redline
+title:
+- content: IEEE Standard for Learning Technology--Data Model for Content Object Communication
+  format: text/plain
+  type: title-main
+- content: IEEE Standard for Learning Technology--Data Model for Content Object Communication
+    - Redline
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10094316
+  type: src
+type: standard
+docid:
+- id: IEEE 1484.11.1-2022 Redline
+  type: IEEE
+  primary: true
+- id: IEEE 1484.11.1™-2022 Redline
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-1-5044-9633-9
+  type: ISBN
+docnumber: IEEE 1484.11.1-2022 Redline
+date:
+- type: created
+  value: '2022'
+- type: published
+  value: '2023-04-07'
+- type: issued
+  value: '2022-02-09'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2023-04-07'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: A data model to support the interchange of data elements and their values
+    between a content object and a runtime service (RTS) is described in this standard.
+    This standard is based on a current industry practice called “computer managed
+    instruction” (CMI). The work on which this standard is based was developed to
+    support a client&#8211;server environment in which a learning technology system,
+    generically called a “learning management system” (LMS), delivers digital content,
+    called “content objects,” to learners. The data model supports learner data and
+    preferences; interactions; objectives; content-object entry, exit, and status
+    information; time parameters; and scores.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2022'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1484.11.1-2004
+    docid:
+    - id: IEEE 1484.11.1-2004
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1484.11.1-2004
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Learning systems
+- content: Content management
+- content: Data models
+- content: Runtime
+- content: content object
+- content: computer managed instruction (CMI)
+- content: data model
+- content: IEEE 1484.11.1
+- content: interoperability
+- content: learning content
+- content: learning management system (LMS)
+- content: runtime service (RTS)
+doctype: redline
+editorialgroup:
+  committee:
+  - Learning Technology of the IEEE Computer Society
+ics:
+- code: 35.240.99
+  text: IT applications in other fields
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Redline
+  pubstatus: Active
+  holdstatus: Publish
