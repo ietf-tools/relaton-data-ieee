@@ -1,31 +1,31 @@
 ---
 schema-version: v1.2.3
-id: IEEEP1692-D-6-2022-09
+id: IEEEP738-D-9-2023-01
 title:
-- content: IEEE Draft Guide for the Protection of Communication Installations from
-    Lightning Effects
+- content: IEEE Draft Standard for Calculating the Current-Temperature Relationship
+    of Bare Overhead Conductors
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/10025643
+- content: https://ieeexplore.ieee.org/document/10106663
   type: src
 type: standard
 docid:
-- id: IEEE P1692/D-6-2022-09
+- id: IEEE P738/D-9-2023-01
   type: IEEE
   primary: true
-- id: IEEE P1692™/D-6-2022-09
+- id: IEEE P738™/D-9-2023-01
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-9381-9
+- id: 978-1-5044-9671-1
   type: ISBN
-docnumber: IEEE P1692/D-6-2022-09
+docnumber: IEEE P738/D-9-2023-01
 date:
 - type: created
-  value: '2023-01-23'
+  value: '2023-02-20'
 - type: published
-  value: '2023-01-24'
+  value: '2023-04-21'
 - type: issued
   value: '2023'
 contributor:
@@ -41,20 +41,11 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-01-24'
+revdate: '2023-04-21'
 language:
 - en
 script:
 - Latn
-abstract:
-- content: The document addresses methods and practices necessary to reduce the risk
-    of damages to communications equipment within structures arising from lightning
-    surges causing GPR (ground potential rise) and similar potential differences.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -69,13 +60,13 @@ copyright:
 relation:
 - type: updates
   bibitem:
-    id: IEEE1692-2011
+    id: IEEE738-2012
     docid:
-    - id: IEEE 1692-2011
+    - id: IEEE 738-2012
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 1692-2011
+      content: IEEE 738-2012
       format: text/plain
   description:
     content: revises
@@ -85,24 +76,18 @@ relation:
     - Latn
     format: text/plain
 keyword:
-- content: IEEE Standards
-- content: Communication equipment
-- content: Lightning protection
-- content: Poles and towers
-- content: IEEE 1692
-- content: lightning
-- content: protection
-- content: communications equipment
-- content: towers
+- content: bare overhead lines
+- content: current-temperature relationship
+- content: line ratings
+- content: ampacity
+- content: IEEE 738&#8482;
 doctype: standard
 editorialgroup:
   committee:
-  - IEEE Power and Energy Society
+  - Transmission and Distribution of the IEEE Power and Energy Society
 ics:
-- code: 29.120.50
-  text: Fuses and other overcurrent protection devices
-- code: 91.120.40
-  text: Lightning protection
+- code: 29.240.20
+  text: Power transmission and distribution lines
 ext:
   schema-version: v1.0.0
   standard_status: Inactive
