@@ -1,31 +1,33 @@
 ---
 schema-version: v1.2.3
-id: IEEEP1378-D-6-2022-03
+id: IEEE1378-2022
 title:
-- content: IEEE Approved Draft Guide for Commissioning High-Voltage Direct-Current
-    (HVDC) Converter Stations and Associated Transmission Systems
+- content: IEEE Guide for Commissioning Line-Commutated Converter (LCC) High-Voltage
+    Direct-Current (HVDC) Converter Stations and Associated Transmission Systems
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/9777639
+- content: https://ieeexplore.ieee.org/document/10109642
   type: src
 type: standard
 docid:
-- id: IEEE P1378/D-6-2022-03
+- id: IEEE 1378-2022
   type: IEEE
   primary: true
-- id: IEEE P1378™/D-6-2022-03
+- id: IEEE 1378™-2022
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-8715-3
+- id: 978-1-5044-8781-8
   type: ISBN
-docnumber: IEEE P1378/D-6-2022-03
+- id: 10.1109/IEEESTD.2022.10109642
+  type: DOI
+docnumber: IEEE 1378-2022
 date:
 - type: created
-  value: '2022-05-16'
+  value: '2023'
 - type: published
-  value: '2022-05-17'
+  value: '2023-04-26'
 - type: issued
   value: '2022-05-13'
 contributor:
@@ -41,7 +43,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-05-17'
+revdate: '2023-04-26'
 language:
 - en
 script:
@@ -59,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: draft
+    value: approved
 copyright:
 - owner:
   - name:
@@ -89,8 +91,9 @@ relation:
 keyword:
 - content: IEEE Standards
 - content: High-voltage techniques
-- content: Power transmission lines
+- content: Testing
 - content: HVDC transmission
+- content: Converters
 - content: high-voltage direct-current (HVDC) commissioning
 - content: HVDC transmission systems
 - content: IEEE 1378
@@ -107,7 +110,7 @@ ics:
   text: Other equipment related to power transmission and distribution networks
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
-  standard_modified: Draft
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
-  holdstatus: Hold
+  holdstatus: Publish

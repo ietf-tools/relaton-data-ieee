@@ -1,0 +1,98 @@
+---
+schema-version: v1.2.3
+id: IEEEP3209-D-5-2023-04
+title:
+- content: IEEE Draft Standard for Blockchain Identity Key Management
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10109639
+  type: src
+type: standard
+docid:
+- id: IEEE P3209/D-5-2023-04
+  type: IEEE
+  primary: true
+- id: IEEE P3209™/D-5-2023-04
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-1-5044-9697-1
+  type: ISBN
+docnumber: IEEE P3209/D-5-2023-04
+date:
+- type: created
+  value: '2023'
+- type: published
+  value: '2023-04-26'
+- type: issued
+  value: '2023'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2023-04-26'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The current blockchain has problems such as a wide variety of chains, independent
+    design rules for each identity account, and different cryptographic curve signature
+    algorithms. If the traditional private key mode is used to manage multiple accounts
+    on the same chain or multiple accounts on different chains Identity requires users
+    to perform multiple backups, and faces complex management and authentication problems.
+    Therefore, the design of hierarchical deterministic schemes and related proposals
+    have emerged. The IEEE P3209 standard will unite many blockchain technology providers
+    to jointly formulate international standards for hierarchical deterministic schemes,
+    output uniform and standardized cryptographic derivation rules between different
+    chains, and determine multiple blockchains through mutual signature and self-certification
+    of private keys of different chains. The same identity corresponding to the public
+    and private keys on the chain.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: draft
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2023'
+keyword:
+- content: IEEE Standards
+- content: Blockchain
+- content: Cryptography
+- content: Public key
+- content: Elliptic curves
+- content: hierarchical determinism
+- content: blockchain
+- content: cryptography
+- content: public key
+- content: private key
+- content: elliptic curve
+doctype: standard
+editorialgroup:
+  committee:
+  - Blockchain and Distributed Ledgers of the IEEE Computer Society
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

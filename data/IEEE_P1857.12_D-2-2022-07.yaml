@@ -26,7 +26,7 @@ date:
 - type: published
   value: '2022-07-14'
 - type: issued
-  value: '2022'
+  value: '2022-11-08'
 contributor:
 - organization:
     name:
@@ -46,9 +46,9 @@ language:
 script:
 - Latn
 abstract:
-- content: This standard defines an IP-based media protocol over both broadcasting
-    networks and broadband networks, including data modeling, data transmission methods,
-    signaling messages and media presentation mechanisms.
+- content: An IP-based media protocol over both broadcasting networks and broadband
+    networks, including data modeling, data transmission methods, signaling messages,
+    and media presentation mechanisms is defined in this standard.
   language:
   - en
   script:
@@ -75,13 +75,19 @@ keyword:
 - content: Data models
 - content: Media
 - content: Data compression
-- content: smart media transport? data modeling
+- content: adaptive FEC
 - content: common encapsulation
-- content: media presentation? adaptive FEC
+- content: data modeling
+- content: IEEE 1857.12
+- content: media presentation
+- content: smart media transport
 doctype: standard
 editorialgroup:
   committee:
   - Data Compression Standards Committee of the IEEE Computer Society
+ics:
+- code: 35.040.40
+  text: Coding of audio, video, multimedia and hypermedia information
 ext:
   schema-version: v1.0.0
   standard_status: Inactive

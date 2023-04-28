@@ -1,31 +1,33 @@
 ---
 schema-version: v1.2.3
-id: IEEEPC37.122.2-D-10-2022-09
+id: IEEEC37.122.2-2022
 title:
-- content: IEEE Approved Draft Guide for the Application of Gas-Insulated Substations
-    Rated 1 kV to 52 kV
+- content: IEEE Guide for the Application of Gas Insulated Substations 1 kV to 52
+    kV
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/9882077
+- content: https://ieeexplore.ieee.org/document/10108541
   type: src
 type: standard
 docid:
-- id: IEEE PC37.122.2/D-10-2022-09
+- id: IEEE C37.122.2-2022
   type: IEEE
   primary: true
-- id: IEEE PC37.122.2™/D-10-2022-09
+- id: IEEE C37.122.2™-2022
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-8963-8
+- id: 978-1-5044-9400-7
   type: ISBN
-docnumber: IEEE PC37.122.2/D-10-2022-09
+- id: 10.1109/IEEESTD.2023.10108541
+  type: DOI
+docnumber: IEEE C37.122.2-2022
 date:
 - type: created
-  value: '2022-11-15'
+  value: '2023'
 - type: published
-  value: '2022-09-08'
+  value: '2023-04-26'
 - type: issued
   value: '2022-11-08'
 contributor:
@@ -41,7 +43,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-09-08'
+revdate: '2023-04-26'
 language:
 - en
 script:
@@ -59,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: draft
+    value: approved
 copyright:
 - owner:
   - name:
@@ -67,7 +69,7 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2022'
+  from: '2023'
 relation:
 - type: updates
   bibitem:
@@ -88,11 +90,9 @@ relation:
     format: text/plain
 keyword:
 - content: IEEE Standards
-- content: Gas insulation
-- content: Switchgear
-- content: Sulfur hexafluoride
+- content: Sulfur hexaflouride
+- content: 'Gas insulation '
 - content: Substations
-- content: Metal enclosures
 - content: gas-insulated substation
 - content: GIS
 - content: GIS design
@@ -111,7 +111,7 @@ ics:
   text: Power stations in general
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
-  standard_modified: Draft
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
-  holdstatus: Hold
+  holdstatus: Publish
