@@ -1,37 +1,35 @@
 ---
 schema-version: v1.2.3
-id: IEEEC37.11-2014Redline
+id: IEEEC37.11-2022
 title:
-- content: IEEE Standard Requirements for Electrical Control for AC High-Voltage (>1000
-    V) Circuit Breakers
-  format: text/plain
-  type: title-main
-- content: IEEE Standard Requirements for Electrical Control for AC High-Voltage (>1000
-    V) Circuit Breakers - Redline
+- content: IEEE Standard Requirements for Electrical Control for AC High-Voltage (>
+    1000 V) Circuit Breakers
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/7107961
+- content: https://ieeexplore.ieee.org/document/10114609
   type: src
 type: standard
 docid:
-- id: IEEE C37.11-2014 Redline
+- id: IEEE C37.11-2022
   type: IEEE
   primary: true
-- id: IEEE C37.11™-2014 Redline
+- id: IEEE C37.11™-2022
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-0-7381-9680-0
+- id: 978-1-5044-9430-4
   type: ISBN
-docnumber: IEEE C37.11-2014 Redline
+- id: 10.1109/IEEESTD.2023.10114609
+  type: DOI
+docnumber: IEEE C37.11-2022
 date:
 - type: created
-  value: '2015-02-20'
+  value: '2023-05-03'
 - type: published
-  value: '2015-05-14'
+  value: '2023-05-03'
 - type: issued
-  value: '2014-12-10'
+  value: '2022-12-03'
 contributor:
 - organization:
     name:
@@ -45,23 +43,26 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2015-05-14'
+revdate: '2023-05-03'
 language:
 - en
 script:
 - Latn
 abstract:
 - content: Standard requirements for all types of electrical control circuits for
-    ac high-voltage circuit breakers rated above 1000 V are given. This standard is
-    applicable for any type of power-operated mechanism and for both ac and dc control
-    power. Only basic control elements of the circuit breaker, including reclosing
-    where required, are included in this standard. Devices or circuits for protective
-    relaying, special interlocking, etc., are not included.
+    ac high-voltage circuit breakers rated above 1000 V are given. Any type of power-operated
+    mechanism and both ac and dc control power are applicable for this standard. Only
+    basic control elements of the circuit breaker, including reclosing where required,
+    are included in this standard. Devices or circuits for protective relaying, special
+    interlocking, and so forth are not included.
   language:
   - en
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -69,17 +70,17 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2015'
+  from: '2023'
 relation:
 - type: updates
   bibitem:
-    id: IEEEC37.11-1997
+    id: IEEEC37.11-2014
     docid:
-    - id: IEEE C37.11-1997
+    - id: IEEE C37.11-2014
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE C37.11-1997
+      content: IEEE C37.11-2014
       format: text/plain
   description:
     content: revises
@@ -90,15 +91,12 @@ relation:
     format: text/plain
 keyword:
 - content: IEEE Standards
-- content: Circuit breakers
-- content: Voltage control
-- content: AC motors
-- content: Control systems
-- content: Power system control
-- content: High voltage techniques
-- content: Grounding
-- content: Tripping
+- content: High-voltage techniques
 - content: Switchgear
+- content: Power system control
+- content: AC machines
+- content: Circuit breakers
+- content: Metal enclosures
 - content: ac high-voltage circuit breakers
 - content: alarm circuits
 - content: auxiliary contacts
@@ -108,14 +106,14 @@ keyword:
 - content: electrical control
 - content: grounding
 - content: heater circuits
-- content: IEEE C37.11(TM)
+- content: IEEE C37.11
 - content: metal-clad switchgear
 - content: metal-enclosed switchgear
 - content: motor circuits
 - content: opening
-- content: re-closing
+- content: reclosing
 - content: tripping
-doctype: redline
+doctype: standard
 editorialgroup:
   committee:
   - Switchgear of the IEEE Power and Energy Society
@@ -124,7 +122,7 @@ ics:
   text: High voltage switchgear and controlgear
 ext:
   schema-version: v1.0.0
-  standard_status: Superseded
-  standard_modified: Redline
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

@@ -1,31 +1,33 @@
 ---
 schema-version: v1.2.3
-id: IEEEP1193-D-34-2022-10
+id: IEEE1193-2022
 title:
-- content: IEEE Approved Draft Guide for Measurement of Environmental Sensitivities
-    of Frequency Standards
+- content: IEEE Guide for Measurement of Environmental Sensitivities of Standard Frequency
+    Generators
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/9961169
+- content: https://ieeexplore.ieee.org/document/10115258
   type: src
 type: standard
 docid:
-- id: IEEE P1193/D-34-2022-10
+- id: IEEE 1193-2022
   type: IEEE
   primary: true
-- id: IEEE P1193™/D-34-2022-10
+- id: IEEE 1193™-2022
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-9206-5
+- id: 978-1-5044-9574-5
   type: ISBN
-docnumber: IEEE P1193/D-34-2022-10
+- id: 10.1109/IEEESTD.2023.10115258
+  type: DOI
+docnumber: IEEE 1193-2022
 date:
 - type: created
-  value: '2022-12-12'
+  value: '2023-05-05'
 - type: published
-  value: '2022-11-23'
+  value: '2023-05-03'
 - type: issued
   value: '2022-12-03'
 contributor:
@@ -41,7 +43,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-11-23'
+revdate: '2023-05-03'
 language:
 - en
 script:
@@ -57,7 +59,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: draft
+    value: approved
 copyright:
 - owner:
   - name:
@@ -65,7 +67,7 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2022'
+  from: '2023'
 relation:
 - type: updates
   bibitem:
@@ -85,13 +87,6 @@ relation:
     - Latn
     format: text/plain
 keyword:
-- content: IEEE Standards
-- content: Atomic clocks
-- content: Oscillators
-- content: Frequency measurement
-- content: Generators
-- content: Quartz crystals
-- content: Environmental factors
 - content: atomic clock
 - content: atomic frequency standard
 - content: environmental sensitivities
@@ -110,7 +105,7 @@ ics:
   text: Generators
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
-  standard_modified: Draft
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
-  holdstatus: Hold
+  holdstatus: Publish
