@@ -1,31 +1,33 @@
 ---
 schema-version: v1.2.3
-id: IEEEP2802-D-2-2022-04
+id: IEEE2802-2022
 title:
-- content: 'IEEE Approved Draft Standard for the Performance and Safety Evaluation
-    of Artificial Intelligence Based Medical Device: Terminology'
+- content: 'IEEE Standard for Performance and Safety Evaluation of Artificial Intelligence
+    Based Medical Devices: Terminology'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/9882071
+- content: https://ieeexplore.ieee.org/document/10117469
   type: src
 type: standard
 docid:
-- id: IEEE P2802/D-2-2022-04
+- id: IEEE 2802-2022
   type: IEEE
   primary: true
-- id: IEEE P2802™/D-2-2022-04
+- id: IEEE 2802™-2022
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-8959-1
+- id: 978-1-5044-9501-1
   type: ISBN
-docnumber: IEEE P2802/D-2-2022-04
+- id: 10.1109/IEEESTD.2023.10117469
+  type: DOI
+docnumber: IEEE 2802-2022
 date:
 - type: created
-  value: '2022-12-09'
+  value: '2023-05-05'
 - type: published
-  value: '2022-09-08'
+  value: '2023-05-05'
 - type: issued
   value: '2022-12-03'
 contributor:
@@ -41,7 +43,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-09-08'
+revdate: '2023-05-05'
 language:
 - en
 script:
@@ -59,7 +61,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: draft
+    value: approved
 copyright:
 - owner:
   - name:
@@ -67,12 +69,12 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2022'
+  from: '2023'
 keyword:
 - content: IEEE Standards
-- content: Artificial intelligence
 - content: Medical devices
 - content: Safety
+- content: Artificial intelligence
 - content: Performance evaluation
 - content: artificial intelligence medical device
 - content: dataset
@@ -84,7 +86,7 @@ editorialgroup:
   - Standards Committee of the IEEE Engineering in Medicine and Biology Society
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
-  standard_modified: Draft
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
-  holdstatus: Hold
+  holdstatus: Publish

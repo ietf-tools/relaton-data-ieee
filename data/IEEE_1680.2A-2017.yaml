@@ -24,8 +24,6 @@ docid:
   type: DOI
 docnumber: IEEE 1680.2a-2017
 date:
-- type: updated
-  value: '2018-01-20'
 - type: created
   value: '2017-12-22'
 - type: published
@@ -39,6 +37,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2017-12-22'
@@ -58,9 +60,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -88,8 +87,8 @@ keyword:
 - content: facsimile machines
 - content: fax machines
 - content: toner
-- content: IEEE 1680.2(TM)
-- content: IEEE 1680.2a(TM)
+- content: IEEE 1680.2&#8482;
+- content: IEEE 1680.2a&#8482;
 - content: imaging equipment
 - content: printers
 - content: mailing machines
@@ -106,7 +105,6 @@ ics:
   text: Microprocessor systems
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Inactive
   pubstatus: Active
   holdstatus: Publish
