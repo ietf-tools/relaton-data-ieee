@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: IEEE1848-2020
 title:
-- content: IEEE Standard for Techniques and Measurement to Manage Functional Safety
-    and Other Risks with Regards to Electromagnetic Disturbances
+- content: IEEE Standard for Techniques and Measures to Manage Functional Safety and
+    Other Risks with Regard to Electromagnetic Disturbances
   format: text/plain
   type: main
 link:
@@ -24,8 +24,6 @@ docid:
   type: DOI
 docnumber: IEEE 1848-2020
 date:
-- type: updated
-  value: '2021-07-23'
 - type: created
   value: '2021'
 - type: published
@@ -106,6 +104,9 @@ doctype: standard
 editorialgroup:
   committee:
   - Standards Development Committee of the IEEE Electromagnetic Compatibility Society
+ics:
+- code: 35.240.50
+  text: IT applications in industry
 ext:
   schema-version: v1.0.0
   standard_status: Active
