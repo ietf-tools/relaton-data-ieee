@@ -1,33 +1,35 @@
 ---
 schema-version: v1.2.3
-id: ISO-IEC-IEEEFDISP15288-2022-12
+id: ISO-IEC-IEEE15288-2023
 title:
-- content: ISO/IEC/IEEE Draft Standard - Systems and Software engineering -- System
-    Life Cycle Processes
+- content: ISO/IEC/IEEE International Standard - Systems and software engineering--System
+    life cycle processes
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/10048748
+- content: https://ieeexplore.ieee.org/document/10123367
   type: src
 type: standard
 docid:
-- id: ISO/IEC/IEEE FDIS P15288-2022-12
+- id: ISO/IEC/IEEE 15288-2023
   type: IEEE
   primary: true
-- id: ISO/IEC/IEEE FDIS P15288™-2022-12
+- id: ISO/IEC/IEEE 15288™-2023
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-9457-1
+- id: 978-1-5044-9665-0
   type: ISBN
-docnumber: ISO/IEC/IEEE FDIS P15288-2022-12
+- id: 10.1109/IEEESTD.2023.10123367
+  type: DOI
+docnumber: ISO/IEC/IEEE 15288-2023
 date:
 - type: created
-  value: '2023-02-16'
+  value: '2023-05-16'
 - type: published
-  value: '2023-02-17'
+  value: '2023-05-12'
 - type: issued
-  value: '2023'
+  value: '2023-03-30'
 contributor:
 - organization:
     name:
@@ -41,14 +43,27 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-02-17'
+revdate: '2023-05-12'
 language:
 - en
 script:
 - Latn
+abstract:
+- content: This document establishes a common framework of process descriptions for
+    describing the life cycle of systems created by humans, defining a set of processes
+    and associated terminology from an engineering viewpoint. These processes can
+    be applied to systems of interest, their system elements, and to system of systems.
+    Selected sets of these processes can be applied throughout the stages of a system's
+    life cycle. This is accomplished through the involvement of stakeholders, with
+    the ultimate goal of achieving customer satisfaction.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
-    value: draft
+    value: approved
 copyright:
 - owner:
   - name:
@@ -84,8 +99,8 @@ keyword:
 - content: ISO Standards
 - content: IEC Standards
 - content: Software engineering
-- content: System engineering and theory
-- content: Product life cycle management
+- content: Systems engineering and theory
+- content: Product lifecycle management
 doctype: standard
 editorialgroup:
   committee:
@@ -96,6 +111,6 @@ ics:
 ext:
   schema-version: v1.0.0
   standard_status: Active
-  standard_modified: Draft
+  standard_modified: Approved
   pubstatus: Active
-  holdstatus: Hold
+  holdstatus: Publish

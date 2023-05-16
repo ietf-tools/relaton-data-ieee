@@ -1,31 +1,33 @@
 ---
 schema-version: v1.2.3
-id: IEEEP400.3-D-9-2022-10
+id: IEEE400.3-2022
 title:
-- content: IEEE Approved Draft Guide for Partial Discharge Field Diagnostic Testing
-    of Shielded Power Cable Systems
+- content: IEEE Guide for Partial Discharge Field Diagnostic Testing of Shielded Power
+    Cable Systems
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/9919115
+- content: https://ieeexplore.ieee.org/document/10123370
   type: src
 type: standard
 docid:
-- id: IEEE P400.3/D-9-2022-10
+- id: IEEE 400.3-2022
   type: IEEE
   primary: true
-- id: IEEE P400.3™/D-9-2022-10
+- id: IEEE 400.3™-2022
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-9048-1
+- id: 978-1-5044-9410-6
   type: ISBN
-docnumber: IEEE P400.3/D-9-2022-10
+- id: 10.1109/IEEESTD.2023.10123370
+  type: DOI
+docnumber: IEEE 400.3-2022
 date:
 - type: created
-  value: '2022-12-12'
+  value: '2023-05-15'
 - type: published
-  value: '2022-10-13'
+  value: '2023-05-12'
 - type: issued
   value: '2022-12-03'
 contributor:
@@ -41,7 +43,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-10-13'
+revdate: '2023-05-12'
 language:
 - en
 script:
@@ -60,7 +62,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: draft
+    value: approved
 copyright:
 - owner:
   - name:
@@ -68,7 +70,7 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2022'
+  from: '2023'
 relation:
 - type: updates
   bibitem:
@@ -90,10 +92,11 @@ relation:
 keyword:
 - content: IEEE Standards
 - content: Testing
-- content: Partial discharges
-- content: Condition monitoring
 - content: Power cables
-- content: Cable shielding
+- content: Diagnostic expert systems
+- content: Fault diagnosis
+- content: Condition monitoring
+- content: Partial discharges
 - content: accessory
 - content: cable
 - content: cable system testing
@@ -113,7 +116,7 @@ ics:
   text: Wires and symmetrical cables
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
-  standard_modified: Draft
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
-  holdstatus: Hold
+  holdstatus: Publish
