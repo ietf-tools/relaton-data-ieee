@@ -3,7 +3,7 @@ schema-version: v1.2.3
 id: IEEE1785.1-2012
 title:
 - content: 'IEEE Standard for Rectangular Metallic Waveguides and Their Interfaces
-    for Frequencies of 110 GHz and Above--Part 1: Frequency Bands and Waveguide Dimensions'
+    for Frequencies of 110 GHz and Above—Part 1: Frequency Bands and Waveguide Dimensions'
   format: text/plain
   type: main
 link:
@@ -24,12 +24,10 @@ docid:
   type: DOI
 docnumber: IEEE 1785.1-2012
 date:
-- type: updated
-  value: '2013-05-03'
 - type: created
   value: '2013'
 - type: published
-  value: '2013-02-28'
+  value: '2013-03-07'
 - type: issued
   value: '2012-12-05'
 contributor:
@@ -39,9 +37,13 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
-revdate: '2013-02-28'
+revdate: '2013-03-07'
 language:
 - en
 script:
@@ -57,9 +59,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -74,7 +73,7 @@ keyword:
 - content: Wavelength conversion
 - content: Millimeter wave communication
 - content: Submillimeter wave propagation
-- content: IEEE 1785.1(TM)
+- content: IEEE 1785.1&#8482;
 - content: millimeter-wave
 - content: rectangular waveguides
 - content: submillimeter-wave
@@ -84,13 +83,13 @@ keyword:
 doctype: standard
 editorialgroup:
   committee:
-  - IEEE Microwave Theory and Techniques Society
+  - Standards Committee of the IEEE Microwave Theory and Techniques Society
 ics:
 - code: 33.120.10
   text: Coaxial cables. Waveguides
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Inactive
+  standard_modified: Reserved
   pubstatus: Active
   holdstatus: Publish
