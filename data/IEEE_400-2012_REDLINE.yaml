@@ -26,12 +26,10 @@ docid:
   type: ISBN
 docnumber: IEEE 400-2012 Redline
 date:
-- type: updated
-  value: '2012-07-20'
 - type: created
   value: '2012'
 - type: published
-  value: '2012-07-04'
+  value: '2012-07-05'
 - type: issued
   value: '2012-03-29'
 contributor:
@@ -41,9 +39,13 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
-revdate: '2012-07-04'
+revdate: '2012-07-05'
 language:
 - en
 script:
@@ -68,24 +70,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2012'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE400-2001
-    docid:
-    - id: IEEE 400-2001
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 400-2001
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Power cables
@@ -98,13 +82,13 @@ keyword:
 doctype: redline
 editorialgroup:
   committee:
-  - Insulated Conductors of the IEEE Power &amp; Energy Society
+  - Insulated Conductors of the IEEE Power and Energy Society
 ics:
 - code: 29.240.01
   text: Power transmission and distribution networks in general
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Redline
   pubstatus: Active
   holdstatus: Publish

@@ -9,7 +9,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/6178231
+- content: https://ieeexplore.ieee.org/document/10132364
   type: src
 type: standard
 docid:
@@ -24,12 +24,10 @@ docid:
   type: ISBN
 docnumber: IEEE C37.109-2006 Redline
 date:
-- type: updated
-  value: '2012-04-20'
 - type: created
   value: '2007'
 - type: published
-  value: '2013-08-15'
+  value: '2023-05-24'
 - type: issued
   value: '2006-12-06'
 contributor:
@@ -39,18 +37,23 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
-revdate: '2013-08-15'
+revdate: '2023-05-24'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: A comprehensive guide to the methods and configurations for the protection
-    of power system shunt reactors is provided in this guide. The protection of oil-immersed
-    reactors equipped with auxiliary power windings, improved turn-to-turn protection,
-    and use of digital (microprocessor-based) protection for shunt reactors are included.
+- content: 'Reaffirmed March 2012. A comprehensive guide to the methods and configurations
+    for the protection of power system shunt reactors is provided in this guide. The
+    protection of oil-immersed reactors equipped with auxiliary power windings, improved
+    turn-to-turn protection, and use of digital (microprocessorbased) protection for
+    shunt reactors are included. Remarks: Revision of IEEE Std C37.109-1988'
   language:
   - en
   script:
@@ -64,32 +67,13 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2011'
-relation:
-- type: updates
-  bibitem:
-    id: ANSI-IEEEC37.109-1988
-    docid:
-    - id: ANSI/IEEE C37.109-1988
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI/IEEE C37.109-1988
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
-- content: IEEE standards
+- content: IEEE Standards
+- content: Reactors
+- content: 'shunts (electrical) '
+- content: Microprocessors
+- content: Immersion cooling
 - content: Windings
-- content: Shunt (electrical)
-- content: Oil insulation
-- content: Protective relays
-- content: Resonance
-- content: Auxiliary transmitters
 - content: air-core
 - content: auxiliary power winding
 - content: circuit switcher
@@ -108,13 +92,13 @@ keyword:
 doctype: redline
 editorialgroup:
   committee:
-  - Power System Relaying of the IEEE Power &amp; Energy Society
+  - Power System Relaying and Control of the IEEE Power and Energy Society
 ics:
 - code: '29.180'
   text: Transformers. Reactors
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Redline
   pubstatus: Active
   holdstatus: Publish

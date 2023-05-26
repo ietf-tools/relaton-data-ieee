@@ -24,12 +24,10 @@ docid:
   type: DOI
 docnumber: IEEE C93.4-2012
 date:
-- type: updated
-  value: '2013-05-03'
 - type: created
   value: '2013-02-28'
 - type: published
-  value: '2013-02-28'
+  value: '2013-03-07'
 - type: issued
   value: '2012-12-05'
 contributor:
@@ -39,9 +37,13 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
-revdate: '2013-02-28'
+revdate: '2013-03-07'
 language:
 - en
 script:
@@ -63,9 +65,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -81,7 +80,7 @@ keyword:
 - content: Tuning
 - content: Power line communications
 - content: hybrid
-- content: IEEE C93.4
+- content: IEEE C93.4&#8482;
 - content: line tuners
 - content: PLC
 - content: power-line carrier
@@ -89,13 +88,13 @@ keyword:
 doctype: standard
 editorialgroup:
   committee:
-  - Power System Communications of the IEEE Power and Energy Society
+  - IEEE Power and Energy Society
 ics:
 - code: 33.040.60
   text: Powerline telecommunications
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Inactive
+  standard_modified: Reserved
   pubstatus: Active
   holdstatus: Publish

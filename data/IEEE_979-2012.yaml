@@ -55,9 +55,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -66,24 +63,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2012'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE979-1994
-    docid:
-    - id: IEEE 979-1994
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 979-1994
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Fire
@@ -108,7 +87,7 @@ ics:
   text: Protection against fire in general
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Inactive
+  standard_modified: Reserved
   pubstatus: Active
   holdstatus: Publish

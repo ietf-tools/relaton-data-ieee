@@ -24,12 +24,10 @@ docid:
   type: ISBN
 docnumber: IEEE C37.102
 date:
-- type: updated
-  value: '2011-11-07'
 - type: created
   value: '2007-02-16'
 - type: published
-  value: '2018-11-07'
+  value: '2011-08-11'
 - type: issued
   value: '2006-11-16'
 contributor:
@@ -39,9 +37,13 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
-revdate: '2018-11-07'
+revdate: '2011-08-11'
 language:
 - en
 script:
@@ -64,24 +66,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2011'
-relation:
-- type: updates
-  bibitem:
-    id: IEEEC37.102-1995
-    docid:
-    - id: IEEE C37.102-1995
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.102-1995
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Synchronous generators
@@ -100,7 +84,7 @@ ics:
   text: Generators
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Redline
   pubstatus: Active
   holdstatus: Publish
