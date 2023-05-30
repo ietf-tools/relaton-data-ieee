@@ -1,31 +1,33 @@
 ---
 schema-version: v1.2.3
-id: IEEEP2716-D-2-2022-04
+id: IEEE2716-2022
 title:
-- content: IEEE Approved Draft Guide for the Characterization of the Effectiveness
-    of Printed Circuit Board Level Shielding
+- content: IEEE Guide for the Characterization of the Effectiveness of Printed Circuit
+    Board Level Shielding
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/9913397
+- content: https://ieeexplore.ieee.org/document/10136540
   type: src
 type: standard
 docid:
-- id: IEEE P2716/D-2-2022-04
+- id: IEEE 2716-2022
   type: IEEE
   primary: true
-- id: IEEE P2716™/D-2-2022-04
+- id: IEEE 2716™-2022
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-9026-9
+- id: 978-1-5044-9442-7
   type: ISBN
-docnumber: IEEE P2716/D-2-2022-04
+- id: 10.1109/IEEESTD.2023.10136540
+  type: DOI
+docnumber: IEEE 2716-2022
 date:
 - type: created
-  value: '2022-12-09'
+  value: '2023-05-29'
 - type: published
-  value: '2022-10-06'
+  value: '2023-05-26'
 - type: issued
   value: '2022-12-03'
 contributor:
@@ -41,7 +43,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-10-06'
+revdate: '2023-05-26'
 language:
 - en
 script:
@@ -60,7 +62,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: draft
+    value: approved
 copyright:
 - owner:
   - name:
@@ -68,12 +70,11 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2022'
+  from: '2023'
 keyword:
 - content: IEEE Standards
 - content: Electromagnetic shielding
 - content: Reverberation chambers
-- content: Printed circuits
 - content: Electromagnetic measurements
 - content: board level shield
 - content: electromagnetic shielding
@@ -88,7 +89,7 @@ editorialgroup:
   - Standards Development Committee of the IEEE Electromagnetic Compatibility Society
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
-  standard_modified: Draft
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
-  holdstatus: Hold
+  holdstatus: Publish

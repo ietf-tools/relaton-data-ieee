@@ -1,31 +1,33 @@
 ---
 schema-version: v1.2.3
-id: IEEEP2785-D-11-2023-01
+id: IEEE2785-2023
 title:
-- content: IEEE Approved Draft Standard for Architectural Framework and General Requirements
-    for Smart Home Systems
+- content: IEEE Standard for Architectural Framework and General Requirements for
+    Smart Home Systems
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/10024139
+- content: https://ieeexplore.ieee.org/document/10136543
   type: src
 type: standard
 docid:
-- id: IEEE P2785/D-11-2023-01
+- id: IEEE 2785-2023
   type: IEEE
   primary: true
-- id: IEEE P2785™/D-11-2023-01
+- id: IEEE 2785™-2023
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-9371-0
+- id: 978-1-5044-9748-0
   type: ISBN
-docnumber: IEEE P2785/D-11-2023-01
+- id: 10.1109/IEEESTD.2023.10136543
+  type: DOI
+docnumber: IEEE 2785-2023
 date:
 - type: created
-  value: '2023'
+  value: '2023-05-26'
 - type: published
-  value: '2023-01-20'
+  value: '2023-05-26'
 - type: issued
   value: '2023-03-30'
 contributor:
@@ -41,7 +43,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-01-20'
+revdate: '2023-05-26'
 language:
 - en
 script:
@@ -57,7 +59,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: draft
+    value: approved
 copyright:
 - owner:
   - name:
@@ -70,11 +72,7 @@ keyword:
 - content: IEEE Standards
 - content: Smart homes
 - content: Home automation
-- content: User interfaces
-- content: Terminology
-- content: Technical requirements
-- content: Systems architecture
-- content: Security
+- content: Intelligent systems
 - content: architectural framework
 - content: IEEE 2785
 - content: intelligent level
@@ -87,7 +85,7 @@ editorialgroup:
   - Emerging Technology Standards Committee of the IEEE Consumer Technology Society
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
-  standard_modified: Draft
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
-  holdstatus: Hold
+  holdstatus: Publish

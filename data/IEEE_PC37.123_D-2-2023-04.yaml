@@ -1,31 +1,31 @@
 ---
 schema-version: v1.2.3
-id: IEEEP1127-D-4-2023-02
+id: IEEEPC37.123-D-2-2023-04
 title:
-- content: IEEE Draft Guide for the Design, Construction, and Operation of Electric
-    Power Substations for Community Acceptance and Environmental Compatibility
+- content: IEEE Draft Guide for Specifications for High-Voltage Gas-Insulated Substations
+    Rated Above 52 kV
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/10058908
+- content: https://ieeexplore.ieee.org/document/10136549
   type: src
 type: standard
 docid:
-- id: IEEE P1127/D-4-2023-02
+- id: IEEE PC37.123/D-2-2023-04
   type: IEEE
   primary: true
-- id: IEEE P1127™/D-4-2023-02
+- id: IEEE PC37.123™/D-2-2023-04
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-9525-7
+- id: 978-1-5044-9775-6
   type: ISBN
-docnumber: IEEE P1127/D-4-2023-02
+docnumber: IEEE PC37.123/D-2-2023-04
 date:
 - type: created
-  value: '2023'
+  value: '2023-05-24'
 - type: published
-  value: '2023-03-03'
+  value: '2023-05-26'
 - type: issued
   value: '2023'
 contributor:
@@ -41,17 +41,15 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-03-03'
+revdate: '2023-05-26'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Significant community acceptance and environmental compatibility items
-    to be considered during the planning and design phases, the construction period,
-    and the operation of electric supply substations are identified, and ways to address
-    these concerns to obtain community acceptance and environmental compatibility
-    are documented. On-site generation and telecommunication facilities are not considered
+- content: The development of specifications for the technical requirements for the
+    design, fabrication, testing, installation, and in-service performance of a high-voltage
+    gas-insulated substation (GIS) are covered in this guide.
   language:
   - en
   script:
@@ -71,13 +69,13 @@ copyright:
 relation:
 - type: updates
   bibitem:
-    id: IEEE1127-2013
+    id: IEEEC37.123-2016
     docid:
-    - id: IEEE 1127-2013
+    - id: IEEE C37.123-2016
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 1127-2013
+      content: IEEE C37.123-2016
       format: text/plain
   description:
     content: revises
@@ -88,23 +86,18 @@ relation:
     format: text/plain
 keyword:
 - content: IEEE Standards
+- content: Gas insulation
 - content: Substations
-- content: Hazards
-- content: Noise measurement
-- content: Wetlands
-- content: Environmental factors
-- content: Public infrastructure
-- content: Industrial power systems
-- content: A-weighted sound level
-- content: commercial zone
-- content: community involvement
-- content: hazardous material
-- content: IEEE 1127&#8482;
-- content: industrial zone
-- content: noise
-- content: permitting process
-- content: residential zone
-- content: wetlands
+- content: Sulfur hexafluoride
+- content: Metal enclosures
+- content: gas-insulated metal-enclosed switchgear
+- content: gas-insulated substation
+- content: GIS equipment
+- content: GIS specification
+- content: IEEE C37.123
+- content: SF6
+- content: sulfur hexafluoride
+- content: insulating gas
 doctype: standard
 editorialgroup:
   committee:
@@ -112,6 +105,8 @@ editorialgroup:
 ics:
 - code: '27.100'
   text: Power stations in general
+- code: 29.240.01
+  text: Power transmission and distribution networks in general
 ext:
   schema-version: v1.0.0
   standard_status: Active
