@@ -46,6 +46,23 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: This recommended practice establishes methods of quality assessment of
+    light field imaging based on psycho-physical studies. It also defines metrics
+    for the quality assessment and establishes criteria for subjective assessment
+    of light field imaging, including human factors and judgments, and identifies
+    and quantifies quality degradation including the impact of visual contents, camera
+    settings, compression distortion, interpolation distortion by intermediate view
+    rendering, and structural distortion. The recommended practice addresses a series
+    of visual phenomena that can degrade visualization specifically for light field
+    imaging. Visual environment characteristics and viewing conditions are also part
+    of the scope of the standard, including viewing distance, viewer position, viewing
+    freedom, and display characteristics.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -62,19 +79,20 @@ keyword:
 - content: Quality assessment
 - content: Light fields
 - content: Imaging
-- content: Light Field display
-- content: objective quality assessment
-- content: subjective
-- content: assessment
-- content: mean opinion score
-- content: plenoptic
+- content: datasets
+- content: IEEE 3333.1.4
+- content: light field imaging
+- content: objective quality
+- content: psycho-physical studies
+- content: quality assessment
+- content: subjective tests
 doctype: standard
 editorialgroup:
   committee:
   - Standards Activities Board of the IEEE Computer Society
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

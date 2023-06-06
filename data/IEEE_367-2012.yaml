@@ -24,8 +24,6 @@ docid:
   type: DOI
 docnumber: IEEE 367-2012
 date:
-- type: updated
-  value: '2012-09-21'
 - type: created
   value: '2012-05-21'
 - type: published
@@ -39,6 +37,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2012-05-22'
@@ -56,9 +58,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -67,24 +66,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2012'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE367-1996
-    docid:
-    - id: IEEE 367-1996
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 367-1996
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Power stations
@@ -104,13 +85,13 @@ keyword:
 doctype: standard
 editorialgroup:
   committee:
-  - Power System Communications of the IEEE Power &amp; Energy Society
+  - IEEE Power and Energy Society
 ics:
 - code: '27.100'
   text: Power stations in general
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Inactive
+  standard_modified: Reserved
   pubstatus: Active
   holdstatus: Publish

@@ -3,7 +3,7 @@ schema-version: v1.2.3
 id: IEEE1067-2012
 title:
 - content: IEEE Guide for In-Service Use, Care, Maintenance, and Testing of Conductive
-    Clothing for Use onVoltages up to 765 kV AC and +/-750 kV DC
+    Clothing for Use on Voltages up to 765 kV AC and +/-750 kV DC
   format: text/plain
   type: main
 link:
@@ -24,8 +24,6 @@ docid:
   type: DOI
 docnumber: IEEE 1067-2012
 date:
-- type: updated
-  value: '2013-03-11'
 - type: created
   value: '2013-01-16'
 - type: published
@@ -39,6 +37,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2013-01-18'
@@ -55,9 +57,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -66,24 +65,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2013'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1067-2005
-    docid:
-    - id: IEEE 1067-2005
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1067-2005
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Maintenance engineering
@@ -100,13 +81,13 @@ keyword:
 doctype: standard
 editorialgroup:
   committee:
-  - Transmission and Distribution of the IEEE Power &amp; Energy Society
+  - Transmission and Distribution of the IEEE Power and Energy Society
 ics:
 - code: 13.340.10
   text: Protective clothing
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Inactive
+  standard_modified: Reserved
   pubstatus: Active
   holdstatus: Publish

@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2022-07-11'
 - type: issued
-  value: '2022'
+  value: '2023-02-15'
 contributor:
 - organization:
     name:
@@ -47,15 +47,14 @@ language:
 script:
 - Latn
 abstract:
-- content: This document provides a set of standard methods and procedures for determining
-    the shielding effectiveness of planar materials. Such materials might comprise,
+- content: A set of standard methods and procedures for determining the shielding
+    effectiveness of planar materials is provided. Such materials might comprise,
     but are not limited to, metals, coated plastics, fiber-filled polymers, textiles,
-    coated fabrics, etc. This document will guide the user in the selection of the
-    appropriate test method in order to determine the level of shielding provided
-    in the intended application, in order to provide a basis for comparing the measuring
-    results. Emphasis is placed on those measurement techniques that have been adopted
-    through incorporation into standards, both commercial and military, or that have
-    been used extensively in practice.
+    and coated fabrics. The selection of the appropriate test method to determine
+    the level of shielding provided in the intended application, to provide a basis
+    for comparing the measuring results, is considered. Emphasis is placed on those
+    measurement techniques that have been adopted through incorporation into standards,
+    both commercial and military, or that have been used extensively in practice.
   language:
   - en
   script:
@@ -81,16 +80,27 @@ keyword:
 - content: Planar waveguides
 - content: Electromagnetic measurements
 - content: electromagnetic shielding
-- content: planar materials
+- content: IEEE 2715
 - content: measurement techniques
+- content: nested reverberation room
+- content: planar materials
+- content: reverberation chamber
 - content: shielding effectiveness
 - content: TEM cell
-- content: reverberation chamber
-- content: nested reverberation room
+- content: transverse electromagnetic cell
 doctype: standard
 editorialgroup:
   committee:
   - Standards Development Committee of the IEEE Electromagnetic Compatibility Society
+ics:
+- code: 17.220.20
+  text: Measurement of electrical and magnetic quantities
+- code: '31.240'
+  text: Mechanical structures for electronic equipment
+- code: 33.100.10
+  text: Emission
+- code: 33.100.20
+  text: Immunity
 ext:
   schema-version: v1.0.0
   standard_status: Inactive

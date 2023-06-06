@@ -2,11 +2,12 @@
 schema-version: v1.2.3
 id: IEEEWhitePaper
 title:
-- content: Example Applications of IEEE Std 2846-2022 to Formal Safety-Related Models
+- content: Domain-Specific Use Cases for ROOF (Realtime Onsite Operations Facilitation)
+    Computing Framework
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/10051644
+- content: https://ieeexplore.ieee.org/document/10136552
   type: src
 type: standard
 docid:
@@ -17,14 +18,14 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-9458-8
+- id: 978-1-5044-9746-6
   type: ISBN
 docnumber: IEEE White Paper
 date:
 - type: created
-  value: '2023-02-24'
+  value: '2023'
 - type: published
-  value: '2023-02-23'
+  value: '2023-05-25'
 - type: issued
   value: '2023'
 contributor:
@@ -40,25 +41,17 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-02-23'
+revdate: '2023-05-25'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: While automated driving system (ADS)-operated vehicles hold the potential
-    for safety improvement compared to human drivers, the recognition that transportation
-    will continue to entail some level of risk has to be considered. Human drivers
-    rely on extensive daily experience in their interactions with other agents on
-    the road, which helps them craft assumptions about reasonably foreseeable behavior
-    of other road users. Similarly, ADS-operated vehicles will also need to make assumptions.
-    Such assumptions play a role within ADS safety-related models, which provide a
-    representation of safety-relevant aspects of driving behavior pertaining to both
-    ADS-operated vehicles and other road users. Furthermore, formal safety-related
-    models provide transparency and certainty in ADS decision-making contexts as they
-    can be formally verified. Therefore, this paper introduces how several safety-related
-    models are making use of reasonably foreseeable assumptions to help with the decision
-    making of an ADS-operated vehicle.
+- content: The ROOF framework has been designed to provide innovation, reuse, better
+    user experience, security by design, for harmonizing horizontal as well as vertical
+    integration for the Internet of Things ecosystem. This white paper focuses on
+    real-world applications for the ROOF and how it delivers value for the citizens,
+    government, and businesses.
   language:
   - en
   script:
@@ -72,10 +65,16 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2023'
+keyword:
+- content: context building
+- content: domain-specific cognition
+- content: Edge Computing
+- content: Industry 4.0
+- content: Industry 5.0
+- content: IoT
+- content: Next-hop connectivity
+- content: service-chain
 doctype: standard
-editorialgroup:
-  committee:
-  - Intelligent Transportation Systems of the IEEE Vehicular Technology Society
 ext:
   schema-version: v1.0.0
   standard_status: Active

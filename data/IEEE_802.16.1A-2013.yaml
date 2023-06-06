@@ -24,12 +24,10 @@ docid:
   type: DOI
 docnumber: IEEE 802.16.1a-2013
 date:
-- type: updated
-  value: '2013-08-09'
 - type: created
   value: '2013'
 - type: published
-  value: '2013-06-26'
+  value: '2013-06-27'
 - type: issued
   value: '2013-03-06'
 contributor:
@@ -39,9 +37,13 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
-revdate: '2013-06-26'
+revdate: '2013-06-27'
 language:
 - en
 script:
@@ -54,9 +56,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -65,24 +64,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2013'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE802.16.1-2012
-    docid:
-    - id: IEEE 802.16.1-2012
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.16.1-2012
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Local area networks
@@ -96,14 +77,14 @@ keyword:
 - content: broadband wireless access (BWA)
 - content: GRIDMAN
 - content: higher reliability networks
-- content: IEEE 802.16TM
-- content: IEEE 802.16.1TM
-- content: IEEE 802.16.1aTM
-- content: IEEE 802.16.1bTM
+- content: IEEE 802.16
+- content: IEEE 802.16.1
+- content: IEEE 802.16.1a
+- content: IEEE 802.16.1b
 - content: IMT-Advanced radio interface
 - content: mobile broadband
 - content: orthogonal frequency-division multiple access (OFDMA)
-- content: WirelessMAN(R)-Advanced Air Interface
+- content: WirelessMAN-Advanced Air Interface
 - content: wireless metropolitan area networks
 doctype: standard
 editorialgroup:
@@ -112,9 +93,13 @@ editorialgroup:
 ics:
 - code: '35.110'
   text: Networking
+- code: 35.100.20
+  text: Data link layer
+- code: 35.100.10
+  text: Physical layer
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Inactive
+  standard_modified: Reserved
   pubstatus: Active
   holdstatus: Publish

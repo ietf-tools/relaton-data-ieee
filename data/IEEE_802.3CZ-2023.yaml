@@ -1,0 +1,123 @@
+---
+schema-version: v1.2.3
+id: IEEE802.3cz-2023
+title:
+- content: 'IEEE Standard for Ethernet Amendment 7: Physical Layer Specifications
+    and Management Parameters for Multi-Gigabit Glass Optical Fiber Automotive Ethernet'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10108538
+  type: src
+type: standard
+docid:
+- id: IEEE 802.3cz-2023
+  type: IEEE
+  primary: true
+- id: IEEE 802.3cz®-2023
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-1-5044-9645-2
+  type: ISBN
+- id: 10.1109/IEEESTD.2023.10108538
+  type: DOI
+docnumber: IEEE 802.3cz-2023
+date:
+- type: created
+  value: '2023'
+- type: published
+  value: '2023-04-25'
+- type: issued
+  value: '2023-03-30'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2023-04-25'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This amendment to IEEE Std 802.3-2022 adds Physical Layer specifications
+    and management parameters for 2.5 Gb/s, 5 Gb/s, 10 Gb/s, 25 Gb/s, and 50 Gb/s
+    operation on glass optical fiber in an automotive environment.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2023'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE802.3-2022
+    docid:
+    - id: IEEE 802.3-2022
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3-2022
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Physical layer
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Ethernet
+- content: 2.5GBASE-AU
+- content: 5GBASE-AU
+- content: 10GBASE-AU
+- content: 25GBASE-AU
+- content: 50GBASE-AU
+- content: amendment
+- content: automotive Ethernet
+- content: Ethernet
+- content: IEEE 802.3
+- content: IEEE 802.3cz
+- content: Medium Dependent Interface
+- content: Physical Coding Sublayer
+- content: Physical Layer
+- content: Physical Medium Attachment
+doctype: standard
+editorialgroup:
+  committee:
+  - LAN/MAN Standards Committee of the IEEE Computer Society
+ics:
+- code: 35.100.10
+  text: Physical layer
+- code: '35.110'
+  text: Networking
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Approved
+  pubstatus: Active
+  holdstatus: Publish

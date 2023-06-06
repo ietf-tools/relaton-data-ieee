@@ -24,12 +24,10 @@ docid:
   type: DOI
 docnumber: IEC/IEEE 62271.37-082-2012
 date:
-- type: updated
-  value: '2013-01-18'
 - type: created
   value: '2012-10-22'
 - type: published
-  value: '2012-11-28'
+  value: '2012-11-29'
 - type: issued
   value: '2012-10-19'
 contributor:
@@ -39,9 +37,13 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
-revdate: '2012-11-28'
+revdate: '2012-11-29'
 language:
 - en
 script:
@@ -57,9 +59,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -70,24 +69,6 @@ copyright:
   - name:
     - content: IEC
   from: '2012'
-relation:
-- type: updates
-  bibitem:
-    id: ANSI-IEEEC37.082-1982
-    docid:
-    - id: ANSI/IEEE C37.082-1982
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI/IEEE C37.082-1982
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Switched circuits
@@ -114,7 +95,7 @@ ics:
   text: Noise emitted by machines and equipment
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Inactive
+  standard_modified: Reserved
   pubstatus: Active
   holdstatus: Publish

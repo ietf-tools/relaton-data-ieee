@@ -62,6 +62,9 @@ abstract:
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -120,6 +123,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Superseded
+  standard_status: Inactive
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

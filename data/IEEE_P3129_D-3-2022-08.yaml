@@ -23,7 +23,7 @@ docid:
 docnumber: IEEE P3129/D-3-2022-08
 date:
 - type: created
-  value: '2023-02-21'
+  value: '2022-02-21'
 - type: published
   value: '2022-09-22'
 - type: issued
@@ -46,6 +46,18 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: Test specifications with a set of indicators for common corruption and
+    adversarial attacks, which can be used to evaluate the robustness of artificial
+    intelligence-based image recognition services are provided in this standard. Robustness
+    attack threats and establishes an assessment framework to evaluate the robustness
+    of artificial intelligence-based image recognition service under various settings
+    are also specified in this standard.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -63,18 +75,19 @@ keyword:
 - content: Image recognition
 - content: Robustness
 - content: Generative adversarial networks
-- content: Artificial Intelligence-based services
-- content: robustness
-- content: common corruption
 - content: adversarial attacks
+- content: artificial Intelligence-based services
 - content: assessment framework
+- content: common corruption
+- content: IEEE 3129
+- content: robustness
 doctype: standard
 editorialgroup:
   committee:
   - Artificial Intelligence Standards Committee of the IEEE Computer Society
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

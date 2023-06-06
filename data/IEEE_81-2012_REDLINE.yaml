@@ -26,8 +26,6 @@ docid:
   type: ISBN
 docnumber: IEEE 81-2012 Redline
 date:
-- type: updated
-  value: '2014-01-17'
 - type: created
   value: '2012-12-28'
 - type: published
@@ -41,6 +39,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2013-11-04'
@@ -70,24 +72,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2012'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE81-1983
-    docid:
-    - id: IEEE 81-1983
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 81-1983
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Energy measurement
@@ -107,13 +91,13 @@ keyword:
 doctype: redline
 editorialgroup:
   committee:
-  - Substations of the IEEE Power &amp; Energy Society
+  - Substations of the IEEE Power and Energy Society
 ics:
 - code: 29.120.50
   text: Fuses and other overcurrent protection devices
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Redline
   pubstatus: Active
   holdstatus: Publish

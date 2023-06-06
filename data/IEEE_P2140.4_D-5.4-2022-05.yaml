@@ -46,6 +46,17 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: This standard defines an extension framework based on IEEE Std 2140.1-2020.
+    The extension framework uses a Smart Contract mechanism to process transactions
+    on an exchange, to replace the role of exchange operators. This standard also
+    defines a series of extensible interfaces for the exchange scenario, enabling
+    support of third-party financial derivatives using tokens.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -62,14 +73,24 @@ keyword:
 - content: Blockchains
 - content: Cryptocurrency
 - content: Distributed ledger
-- content: Blockchain; cryptocurrency; decentralized exchange framework
+- content: blockchain
+- content: cryptocurrency
+- content: decentralized exchange framework
+- content: IEEE 2140.4
 doctype: standard
 editorialgroup:
   committee:
   - Blockchain Standards Committee of the IEEE Consumer Technology Society
+ics:
+- code: '03.060'
+  text: Finances. Banking. Monetary systems. Insurance
+- code: 35.240.40
+  text: IT applications in banking
+- code: 35.240.99
+  text: IT applications in other fields
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold
