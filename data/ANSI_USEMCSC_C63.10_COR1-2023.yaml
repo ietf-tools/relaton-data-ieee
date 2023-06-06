@@ -1,35 +1,35 @@
 ---
 schema-version: v1.2.3
-id: ANSIC63.10-2020
+id: ANSI-USEMCSCC63.10-Cor1-2023
 title:
 - content: American National Standard of Procedures for Compliance Testing of Unlicensed
-    Wireless Devices
+    Wireless Devices - Corrigendum 1
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/9340083
+- content: https://ieeexplore.ieee.org/document/10142237
   type: src
 type: standard
 docid:
-- id: ANSI C63.10-2020
+- id: ANSI/USEMCSC C63.10/Cor1-2023
   type: IEEE
   primary: true
-- id: ANSI C63.10™-2020
+- id: ANSI/USEMCSC C63.10™/Cor1-2023
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-7227-2
+- id: 978-1-5044-9789-3
   type: ISBN
-- id: 10.1109/IEEESTD.2021.9340083
+- id: 10.1109/IEEESTD.2023.10142237
   type: DOI
-docnumber: ANSI C63.10-2020
+docnumber: ANSI/USEMCSC C63.10/Cor1-2023
 date:
 - type: created
-  value: '2021-01-29'
+  value: '2023'
 - type: published
-  value: '2021-01-28'
+  value: '2023-06-02'
 - type: issued
-  value: '2021'
+  value: '2023'
 contributor:
 - organization:
     name:
@@ -43,7 +43,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2021-01-28'
+revdate: '2023-06-02'
 language:
 - en
 script:
@@ -52,14 +52,16 @@ abstract:
 - content: The procedures for testing the compliance of a wide variety of unlicensed
     wireless transmitters (also called intentional radiators and license-exempt transmitters)
     including, but not limited to, remote control and security unlicensed wireless
-    devices, frequency hopping and direct sequence spread spectrum devices, antipilferage
+    devices, frequency hopping and direct sequence spread spectrum devices, anti-pilferage
     devices, cordless telephones, medical unlicensed wireless devices, Unlicensed
     National Information Infrastructure (U-NII) devices, intrusion detectors, unlicensed
     wireless devices operating on frequencies below 30 MHz, automatic vehicle identification
     systems, and other unlicensed wireless devices authorized by a radio regulatory
     authority are covered in this standard. Excluded by this standard are test procedures
     for unlicensed wireless devices already covered in other published standards (e.g.,
-    Unlicensed Personal Communication Services (UPCS) devices).
+    Unlicensed Personal Communication Services (UPCS) devices). Subclause 6.2.2 is
+    addressed in this corrigendum, such that the requirement to calibrate the LISN
+    with the extension cord is removed and Equation (L.1) has been corrected.
   language:
   - en
   script:
@@ -80,20 +82,20 @@ copyright:
     abbreviation:
       content: ANSI
     url: https://www.ansi.org
-  from: '2021'
+  from: '2023'
 relation:
 - type: updates
   bibitem:
-    id: ANSIC63.10-2013
+    id: ANSIC63.10-2020
     docid:
-    - id: ANSI C63.10-2013
+    - id: ANSI C63.10-2020
       type: IEEE
       primary: true
     formattedref:
-      content: ANSI C63.10-2013
+      content: ANSI C63.10-2020
       format: text/plain
   description:
-    content: revises
+    content: corrects
     language:
     - en
     script:
@@ -101,11 +103,17 @@ relation:
     format: text/plain
 keyword:
 - content: IEEE Standards
-- content: Wireless communications
+- content: ANSI Standards
+- content: Mobile communication
 - content: Licenses
-- content: Spread spectrum communication
-- content: Radiation detection
 - content: Testing
+- content: Communication system security
+- content: Radiofrequency identification
+- content: Automatic frequency control
+- content: Telephone sets
+- content: Security
+- content: Remote control
+- content: Electromagnetic compatibility
 - content: ANSI C63.10
 - content: compliance testing
 - content: intentional radiators
