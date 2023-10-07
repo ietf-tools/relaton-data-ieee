@@ -18,5 +18,3 @@ jobs:
       args: ${{ github.event.inputs.args }}
       token: ${{ secrets.IETF_BIB_BOT_PAT }}
       commit-indexes: false
-#    secrets:
-#      ${{ secrets }}
