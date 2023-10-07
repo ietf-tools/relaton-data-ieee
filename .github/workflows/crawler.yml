@@ -17,5 +17,5 @@ jobs:
         https://raw.githubusercontent.com/ietf-tools/bibxml-service/main/Gemfile=Gemfile
       args: ${{ github.event.inputs.args }}
       commit-indexes: false
-    secrets:
-      token: "${{ secrets.IETF_BIB_BOT_PAT }}"
+    secrets: inherit
+#      token: "${{ secrets.IETF_BIB_BOT_PAT }}"
