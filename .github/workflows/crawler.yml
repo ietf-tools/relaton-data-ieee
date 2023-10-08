@@ -9,13 +9,16 @@ on:
   - cron: '0 14 * * *'
   workflow_dispatch:
 
+env:
+  token: "${{ secrets.IETF_BIB_BOT_PAT }}"
+
 jobs:
   crawl:
     uses: relaton/support/.github/workflows/crawler.yml@master
     with:
       override-files: |
         https://raw.githubusercontent.com/ietf-tools/bibxml-service/main/Gemfile=Gemfile
-      args: "${{ secrets.IETF_BIB_BOT_PAT }}"
+      args: ${{ github.event.inputs.args }}
       commit-indexes: false
     secrets: inherit
-#      token: "${{ secrets.IETF_BIB_BOT_PAT }}"
+
