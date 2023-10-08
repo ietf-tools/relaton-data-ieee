@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 env:
-  token: "${{ secrets.IETF_BIB_BOT_PAT }}"
+  token: "test"
 
 jobs:
   crawl:
@@ -21,4 +21,6 @@ jobs:
       args: ${{ github.event.inputs.args }}
       commit-indexes: false
     secrets: inherit
+#    env:
+#        token: "${{ secrets.IETF_BIB_BOT_PAT }}"
 
