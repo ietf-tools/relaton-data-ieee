@@ -6,11 +6,10 @@ require "relaton_ieee"
 t1 = Time.now
 puts "Started at: #{t1}"
 
-token = ENV["token"]
-puts token
-
+token = ARGV.shift
 system("git clone https://oauth2:#{token}@github.com/ietf-ribose/ieee-rawbib.git ieee-rawbib")
 FileUtils.rm_rf("data")
+
 RelatonIeee::DataFetcher.fetch
 FileUtils.rm_rf("ieee-rawbib")
 
