@@ -15,3 +15,7 @@ jobs:
     with:
       override-files: |
         https://raw.githubusercontent.com/ietf-tools/bibxml-service/main/Gemfile=Gemfile
+      args: ${{ github.event.inputs.args }}
+      commit-indexes: false
+    secrets:
+      args: ${{ secrets.IETF_BIB_BOT_PAT }}

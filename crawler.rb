@@ -1,14 +1,17 @@
 # frozen_string_literal: true
 
 require "fileutils"
+require "relaton_ieee"
 
 t1 = Time.now
 puts "Started at: #{t1}"
 
-system("git clone https://github.com/ietf-tools/relaton-data-ieee")
+token = ARGV.shift
+system("git clone https://oauth2:#{token}@github.com/ietf-tools/ieee-rawbib.git ieee-rawbib")
 FileUtils.rm_rf("data")
-FileUtils.cp_r("relaton-data-ieee/data", ".")
-FileUtils.rm_rf("relaton-data-ieee")
+
+RelatonIeee::DataFetcher.fetch
+FileUtils.rm_rf("ieee-rawbib")
 
 t2 = Time.now
 puts "Stopped at: #{t2}"
