@@ -67,6 +67,16 @@ copyright:
     url: http://www.ieee.org
   from: '2000'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEEC37.99-2012
+    docid:
+    - id: IEEE C37.99-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.99-2012
+      format: text/plain
 - type: updates
   bibitem:
     id: IEEEC37.99-1990
@@ -84,16 +94,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEEC37.99-2012
-    docid:
-    - id: IEEE C37.99-2012
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.99-2012
-      format: text/plain
 keyword:
 - content: Capacitors
 - content: IEEE Standards

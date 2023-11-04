@@ -26,7 +26,7 @@ date:
 - type: created
   value: '2007'
 - type: published
-  value: '2013-06-06'
+  value: '2007-05-07'
 - type: issued
   value: '2006-11-16'
 contributor:
@@ -42,7 +42,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2013-06-06'
+revdate: '2007-05-07'
 language:
 - en
 script:
@@ -65,6 +65,17 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2007'
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE1641.1-2013
+    docid:
+    - id: IEEE 1641.1-2013
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1641.1-2013
+      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Trademarks
@@ -85,7 +96,7 @@ keyword:
 doctype: standard
 editorialgroup:
   committee:
-  - IEEE-SASB Coordinating Committees
+  - IEEE SA Board of Governors
 ics:
 - code: '31.020'
   text: Electronic components in general

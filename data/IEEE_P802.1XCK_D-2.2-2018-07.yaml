@@ -7,7 +7,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8412374
+- content: https://ieeexplore.ieee.org/document/8476643
   type: src
 type: standard
 docid:
@@ -23,11 +23,11 @@ docid:
 docnumber: IEEE P802.1Xck/D-2.2-2018-07
 date:
 - type: created
-  value: '2018'
+  value: '2018-01-01'
 - type: published
-  value: '2018-07-17'
+  value: '2018-09-28'
 - type: issued
-  value: '2018-09-27'
+  value: '2018'
 contributor:
 - organization:
     name:
@@ -41,18 +41,16 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2018-07-17'
+revdate: '2018-09-28'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The YANG data model specified in this amendment to IEEE Std 802.1X&#8482;-2010
-    allows configuration and status reporting for port-based network access control,
-    in the scenarios described in Clause 7 of this standard and Clause 11 of IEEE
-    Std 802.1AE&#8482;-2018, using the information model previously specified in this
-    standard. (The PDF of this standard is available at no cost to you compliments
-    of the IEEE GET program https://ieeexplore.ieee.org/browse/standards/get-program/page)
+- content: This amendment specifies a YANG data model that allows configuration and
+    status reporting for port-based network access control in the scenarios described
+    in Clause 7 of this standard and Clause 11 of IEEE Std 802.1AE(TM), using the
+    information model previously specified in this standard.
   language:
   - en
   script:
@@ -69,41 +67,16 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2018'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE802.1X-2010
-    docid:
-    - id: IEEE 802.1X-2010
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.1X-2010
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Local area networks
 - content: Metropolitan area networks
-- content: Media Access Protocol
-- content: Authentication
-- content: Access control
-- content: Bridge circuits
 - content: Data models
-- content: Network security
-- content: amendment
+- content: Access control
 - content: authorized port
 - content: confidentiality
 - content: data model
 - content: data origin authenticity
-- content: IEEE 802.1X(TM)
-- content: IEEE 802.1Xck(TM)
 - content: information model
 - content: integrity
 - content: LANs
@@ -113,11 +86,11 @@ keyword:
 - content: MAC Service
 - content: MANs
 - content: metropolitan area networks
-- content: port-based network access control
+- content: port based network access control
 - content: secure association
 - content: security
 - content: transparent bridging
-- content: YANG
+- content: YANG.
 doctype: standard
 editorialgroup:
   committee:
@@ -127,7 +100,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

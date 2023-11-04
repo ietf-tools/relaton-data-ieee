@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2021-11-11'
 - type: issued
-  value: '2022-06-16'
+  value: '2021'
 contributor:
 - organization:
     name:
@@ -48,12 +48,12 @@ script:
 - Latn
 abstract:
 - content: Methods of describing random instabilities of importance to frequency and
-    time metrology are covered in this standard. Quantities covered include frequency,
-    amplitude, and phase instabilities; spectral densities of frequency, amplitude,
-    and phase fluctuations; and time-domain deviations of frequency fluctuations.
-    In addition, recommendations are made for the reporting of measurements of frequency,
-    amplitude, and phase instabilities, especially with regard to the recording of
-    experimental parameters, experimental conditions, and calculation techniques.
+    time metrology are covered. Quantities covered include frequency, amplitude, and
+    phase instabilities; spectral densities of frequency, amplitude, and phase fluctuations;
+    and time-domain deviations of frequency fluctuations. In addition, recommendations
+    are made for the reporting of measurements of frequency, amplitude, and phase
+    instabilities, especially in regard to the recording of experimental parameters,
+    experimental conditions, and calculation techniques.
   language:
   - en
   script:
@@ -88,26 +88,62 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEStd
+    docid:
+    - id: IEEE Std
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE Std
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEStd
+    docid:
+    - id: IEEE Std
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE Std
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEStd
+    docid:
+    - id: IEEE Std
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE Std
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Metrology
 - content: Terminology
 - content: Time-frequency analysis
-- content: AM noise
-- content: amplitude instability
-- content: FM noise
-- content: frequency domain
-- content: frequency instability
-- content: frequency metrology
-- content: frequency modulation
-- content: IEEE 1139
-- content: noise
-- content: phase instability
-- content: phase modulation
-- content: phase noise
-- content: PM noise
-- content: time domain
-- content: time metrology
 doctype: standard
 editorialgroup:
   committee:
@@ -118,7 +154,7 @@ ics:
   text: Measurement of time, velocity, acceleration, angular velocity
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

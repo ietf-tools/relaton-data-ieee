@@ -1,0 +1,91 @@
+---
+schema-version: v1.2.3
+id: IEEE1149.5-1995
+title:
+- content: IEEE Standard for Module Test and Maintenance Bus (MTM-Bus) Protocol
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/499720
+  type: src
+type: standard
+docid:
+- id: IEEE 1149.5-1995
+  type: IEEE
+  primary: true
+- id: IEEE 1149.5™-1995
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 1-55937-558-2
+  type: ISBN
+- id: 10.1109/IEEESTD.1996.80835
+  type: DOI
+docnumber: IEEE 1149.5-1995
+date:
+- type: created
+  value: '1996'
+- type: published
+  value: '2002-08-06'
+- type: issued
+  value: '1995-08-14'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2002-08-06'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This standard specifies a serial, backplane, test and maintenance bus (MTM-Bus)
+    that can be used to integrate modules form different teams or vendors into testable
+    and maintainable subsystems. Physical, link, and command layers are specified.
+    Standard interface protocol and commands can be used to provide the basic test
+    and maintenance features needed for a module as well as access to on-module assets
+    (memory, peripherals, etc.) and IEEE Std 1149.1 boundary-scan. Standard commands
+    and functions support fault isolation to individual modules and test of backplane
+    interconnect between modules.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '1996'
+keyword:
+- content: Data buses
+- content: IEEE standards
+- content: Protocols
+doctype: standard
+editorialgroup:
+  committee:
+  - Test Technology Standards Committee of the IEEE Computer Society
+ics:
+- code: '35.200'
+  text: Interface and interconnection equipment
+ext:
+  schema-version: v1.0.0
+  standard_status: Inactive
+  standard_modified: Withdrawn
+  pubstatus: Active
+  holdstatus: Publish

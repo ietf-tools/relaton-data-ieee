@@ -75,6 +75,16 @@ copyright:
     url: http://www.ieee.org
   from: '2011'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE1647-2016
+    docid:
+    - id: IEEE 1647-2016
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1647-2016
+      format: text/plain
 - type: updates
   bibitem:
     id: IEEE1647-2008
@@ -92,16 +102,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEE1647-2016
-    docid:
-    - id: IEEE 1647-2016
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1647-2016
-      format: text/plain
 keyword:
 - content: IEEE standards
 - content: Formal verification

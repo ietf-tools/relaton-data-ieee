@@ -1,0 +1,98 @@
+---
+schema-version: v1.2.3
+id: IEEE1003.5-1999
+title:
+- content: 'IEEE Standard for Information Technology - POSIX(R) Ada Language Interfaces
+    - Part 1: Binding for System Application Program Interface (API) - Amendment 2:
+    Protocol-Independent Interfaces'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/815314
+  type: src
+type: standard
+docid:
+- id: IEEE 1003.5-1999
+  type: IEEE
+  primary: true
+- id: IEEE 1003.5™-1999
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 0-7381-1539-8
+  type: ISBN
+- id: 10.1109/IEEESTD.1999.90614
+  type: DOI
+docnumber: IEEE 1003.5-1999
+date:
+- type: created
+  value: '1999'
+- type: published
+  value: '2002-08-06'
+- type: issued
+  value: '1998-12-08'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2002-08-06'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'This standard is part of the POSIX series of standards for applications
+    and user interfaces to open systems. It defines the Ada language bindings as package
+    specifications and accompanying textual descriptions of the application program
+    interface (API). This standard supports application portability at the source
+    code level through the binding between ISO 8652: 1995 (Ada) and ISO/IEC 9945-1:
+    1996 (IEEE Std 1003.1-1996) (POSIX), as amended by IEEE P1003.1g/D6.6. Terminology
+    and general requirements, process primitives, the process environment, files and
+    directories, input and output primitives, device- and class-specific functions,
+    language-specific services for Ada, system databases, synchronization, memory
+    management, execution scheduling clocks and timers, message passing, task management,
+    the XTI and sockets detailed network interfaces, event management, network support
+    functions, and protocol-specific mappings are covered. It also specifies behavior
+    to support the binding that must be provided by the Ada compilation system.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '1999'
+keyword:
+- content: IEEE standards
+doctype: standard
+editorialgroup:
+  committee:
+  - Portable Applications Standards Committee of the IEEE Computer Society
+ics:
+- code: '35.060'
+  text: Languages used in information technology
+- code: '35.080'
+  text: Software
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Approved
+  pubstatus: Active
+  holdstatus: Publish

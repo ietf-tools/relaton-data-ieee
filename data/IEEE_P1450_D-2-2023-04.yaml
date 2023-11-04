@@ -1,0 +1,123 @@
+---
+schema-version: v1.2.3
+id: IEEEP1450-D-2-2023-04
+title:
+- content: IEEE Draft Standard Test Interface Language (STIL) for Digital Test Vector
+    Data
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10273846
+  type: src
+type: standard
+docid:
+- id: IEEE P1450/D-2-2023-04
+  type: IEEE
+  primary: true
+- id: IEEE P1450™/D-2-2023-04
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-0174-6
+  type: ISBN
+docnumber: IEEE P1450/D-2-2023-04
+date:
+- type: created
+  value: '2023-10-05'
+- type: published
+  value: '2023-10-06'
+- type: issued
+  value: '2023'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2023-10-06'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Standard Test Interface Language (STIL) provides an interface between
+    digital test generation tools and test equipment. A test description language
+    is defined that: (a) facilitates the transfer of digital test vector data from
+    CAE to ATE environments; (b) specifies pattern, format, and timing information
+    sufficient to define the application of digital test vectors to a DUT; and (c)
+    supports the volume of test vector data generated from structured tests.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: draft
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2023'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1450-1999
+    docid:
+    - id: IEEE 1450-1999
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1450-1999
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Automatic test pattern generation
+- content: Built-in self-test
+- content: Vectors
+- content: Signal processing
+- content: automatic test pattern generator (ATPG)
+- content: built-in self-test (BIST)
+- content: computer-aided engineering (CAE)
+- content: cyclize
+- content: device under test (DUT)
+- content: digital test vectors
+- content: event
+- content: functional vectors
+- content: pattern
+- content: scan vectors
+- content: signal
+- content: structural vectors
+- content: timed event
+- content: waveform
+- content: waveshape
+doctype: standard
+editorialgroup:
+  committee:
+  - Test Technology of the IEEE Computer Society
+ics:
+- code: '35.060'
+  text: Languages used in information technology
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

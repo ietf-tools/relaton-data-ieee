@@ -1,0 +1,126 @@
+---
+schema-version: v1.2.3
+id: IEEE1666-2023
+title:
+- content: IEEE Standard for Standard SystemC® Language Reference Manual
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10246125
+  type: src
+type: standard
+docid:
+- id: IEEE 1666-2023
+  type: IEEE
+  primary: true
+- id: IEEE 1666™-2023
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-1-5044-9867-8
+  type: ISBN
+- id: 10.1109/IEEESTD.2023.10246125
+  type: DOI
+docnumber: IEEE 1666-2023
+date:
+- type: created
+  value: '2023'
+- type: published
+  value: '2023-09-08'
+- type: issued
+  value: '2023-06-05'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2023-09-08'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: SystemC&#174; is defined in this standard. SystemC is an ISO standard C++
+    class library for system and hardware design for use by designers and architects
+    who need to address complex systems that are a hybrid between hardware and software.
+    This standard provides a precise and complete definition of the SystemC class
+    library so that a SystemC implementation can be developed with reference to this
+    standard alone. The primary audiences for this standard are the implementors of
+    the SystemC class library, the implementors of tools supporting the class library,
+    and the users of the class library.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2023'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1666-2011
+    docid:
+    - id: IEEE 1666-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1666-2011
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Terminology
+- content: Systems engineering and theory
+- content: C++
+- content: computer languages
+- content: digital systems
+- content: discrete event simulation
+- content: electronic design automation
+- content: electronic system level
+- content: electronic systems
+- content: embedded software
+- content: fixed-point
+- content: hardware description language
+- content: hardware design
+- content: hardware verification
+- content: IEEE 1666&#8482;
+- content: SystemC
+- content: system modeling
+- content: system-on-chip
+- content: transaction level
+doctype: standard
+editorialgroup:
+  committee:
+  - Design Automation of the IEEE Computer Society
+ics:
+- code: '35.080'
+  text: Software
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Approved
+  pubstatus: Active
+  holdstatus: Publish

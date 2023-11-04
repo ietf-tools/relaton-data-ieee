@@ -8,7 +8,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8859682
+- content: https://ieeexplore.ieee.org/document/8675714
   type: src
 type: standard
 docid:
@@ -21,14 +21,16 @@ docid:
   primary: true
 - id: 978-1-5044-5546-6
   type: ISBN
-- id: 10.1109/IEEESTD.2019.8859682
+- id: 10.1109/IEEESTD.2019.8675714
   type: DOI
 docnumber: IEEE 802.15.10a-2019
 date:
+- type: updated
+  value: '2020-05-22'
 - type: created
   value: '2019'
 - type: published
-  value: '2019-10-04'
+  value: '2019-03-27'
 - type: issued
   value: '2019-02-08'
 contributor:
@@ -44,7 +46,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2019-10-04'
+revdate: '2019-03-27'
 language:
 - en
 script:
@@ -91,13 +93,31 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.15.10-2017
+    docid:
+    - id: IEEE 802.15.10-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.15.10-2017
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Information exchange
+- content: Packet switching
 - content: Real-time systems
-- content: Broadcasting
 - content: Routing protocols
-- content: Peer-to-peer computing
-- content: Unicast
 - content: amendment
 - content: discovery and addition of new nodes
 - content: IEEE 802.15.4

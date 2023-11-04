@@ -24,8 +24,6 @@ docid:
   type: DOI
 docnumber: IEEE 1851-2012
 date:
-- type: updated
-  value: '2012-09-14'
 - type: created
   value: '2012-08-15'
 - type: published
@@ -39,6 +37,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2012-08-10'
@@ -56,9 +58,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -82,7 +81,7 @@ keyword:
 doctype: standard
 editorialgroup:
   committee:
-  - Test Technology of the IEEE Computer Society
+  - Emerging Technology Standards Committee of the IEEE Consumer Technology Society
 ics:
 - code: 35.240.50
   text: IT applications in industry
@@ -90,7 +89,6 @@ ics:
   text: Miscellaneous domestic and commercial equipment
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Superseded
   pubstatus: Active
   holdstatus: Publish

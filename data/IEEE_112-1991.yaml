@@ -6,7 +6,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8684570
+- content: https://ieeexplore.ieee.org/document/210975
   type: src
 type: standard
 docid:
@@ -19,14 +19,12 @@ docid:
   primary: true
 - id: 978-1-5593-7188-9
   type: ISBN
-- id: 10.1109/IEEESTD.1992.8684570
+- id: 10.1109/IEEESTD.1991.114383
   type: DOI
 docnumber: IEEE 112-1991
 date:
 - type: created
-  value: '1992'
-- type: published
-  value: '2019-04-05'
+  value: '1991'
 - type: issued
   value: '1991-12-05'
 contributor:
@@ -42,17 +40,15 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2019-04-05'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Superseded by 112-1996 and 112-2004. Instructions are given for conducting
-    and reporting the more generally applicable and acceptable tests to determine
-    the performance characteristics of polyphase induction motors and generators.
-    Electrical measurements, performance testing, temperature tests, and miscellaneous
-    tests are covered.
+- content: Instructions are given for conducting and reporting the more generally
+    applicable and acceptable tests to determine the performance characteristics of
+    polyphase induction motors and generators. Electrical measurements, performance
+    testing, temperature tests, and miscellaneous tests are covered.<<ETX>>
   language:
   - en
   script:
@@ -94,25 +90,28 @@ relation:
     formattedref:
       content: IEEE 112-1996
       format: text/plain
-- type: obsoletedBy
+- type: updates
   bibitem:
-    id: IEEE112-1996
+    id: IEEE112-1984
     docid:
-    - id: IEEE 112-1996
+    - id: IEEE 112-1984
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 112-1996
+      content: IEEE 112-1984
       format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
-- content: IEEE Standards
-- content: Generators
+- content: Asynchronous rotating machines
+- content: AC generators
 - content: Induction motors
-- content: Consumer electronics
-- content: Power engineering
-- content: generators
-- content: motors
-- content: tests
+- content: Standards
 doctype: standard
 editorialgroup:
   committee:

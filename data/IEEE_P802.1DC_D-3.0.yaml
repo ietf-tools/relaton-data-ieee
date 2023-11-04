@@ -1,0 +1,102 @@
+---
+schema-version: v1.2.3
+id: IEEEP802.1DC-D-3.0
+title:
+- content: IEEE Draft Standard for Local and metropolitan area networks--Quality of
+    Service Provision by Network Systems
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10292803
+  type: src
+type: standard
+docid:
+- id: IEEE P802.1DC/D-3.0
+  type: IEEE
+  primary: true
+- id: IEEE P802.1DC™/D-3.0
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-0253-8
+  type: ISBN
+docnumber: IEEE P802.1DC/D-3.0
+date:
+- type: created
+  value: '2023-10-20'
+- type: published
+  value: '2023-10-24'
+- type: issued
+  value: '2023'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2023-10-24'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This standard specifies procedures and managed objects for Quality of Service
+    (QoS) features specified in IEEE Std 802.1Q, such as per-stream filtering and
+    policing, queuing, transmission selection, stream control and preemption, in a
+    network system which is not a bridge.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: draft
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2023'
+keyword:
+- content: IEEE Standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Quality of service
+- content: Network systems
+- content: CQF
+- content: IEEE 802.1Q&#8482;
+- content: LAN
+- content: local area network
+- content: Time-Sensitive Networking
+- content: TSN
+- content: Virtual Bridged Network
+- content: virtual LAN
+- content: VLAN Bridge
+- content: Quality of Service
+- content: priority
+- content: credit-based shaper
+- content: scheduled traffic
+- content: asynchronous traffic shaping
+- content: cyclic queuing and forwarding
+- content: per-Stream filtering and policing
+- content: preemption
+doctype: standard
+editorialgroup:
+  committee:
+  - LAN/MAN Standards Committee of the IEEE Computer Society
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

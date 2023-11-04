@@ -47,10 +47,10 @@ language:
 script:
 - Latn
 abstract:
-- content: Guidance for the use and application of Rogowski coils (RCs) (air-core
-    current sensors) for protective relaying in electric power systems is described
-    and provided in this guide. The selection and application of RCs for the more
-    common protection schemes are also addressed.
+- content: This document describes and provides guidance for the use and application
+    of Rogowski coils (RCs) (air-core current sensors) for protective relaying in
+    electric power systems. The selection and application of RCs for the more common
+    protection schemes are also addressed.
   language:
   - en
   script:
@@ -85,6 +85,40 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC37.235-2007
+    docid:
+    - id: IEEE C37.235-2007
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.235-2007
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC37.235-2007
+    docid:
+    - id: IEEE C37.235-2007
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.235-2007
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Low power electronics
@@ -92,10 +126,9 @@ keyword:
 - content: Coils
 - content: Protective relaying
 - content: Regulation
-- content: air-core current transformer
-- content: IEEE C37-235
-- content: low-power instrument transformer
-- content: Rogowski coil
+- content: Rogowski Coil
+- content: Low-Power Instrument Transformer
+- content: Air Core Current Transformer
 doctype: standard
 editorialgroup:
   committee:
@@ -105,7 +138,7 @@ ics:
   text: Measurement of electrical and magnetic quantities
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

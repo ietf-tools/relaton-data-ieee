@@ -1,0 +1,122 @@
+---
+schema-version: v1.2.3
+id: IEEEP1636.1-D-1-Cor1-2023-08
+title:
+- content: 'IEEE Draft Standard for Software Interface for Maintenance Information
+    Collection and Analysis (SIMICA): Exchanging Test Results and Session Information
+    via the eXtensible Markup Language (XML) - Corrigendum 1'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10197301
+  type: src
+type: standard
+docid:
+- id: IEEE P1636.1/D-1/Cor1-2023-08
+  type: IEEE
+  primary: true
+- id: IEEE P1636.1™/D-1/Cor1-2023-08
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-1-5044-9963-7
+  type: ISBN
+docnumber: IEEE P1636.1/D-1/Cor1-2023-08
+date:
+- type: created
+  value: '2023'
+- type: published
+  value: '2023-07-28'
+- type: issued
+  value: '2023'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2023-07-28'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This standard is intended to promote and facilitate interoperability between
+    components of automatic test systems where test results need to be shared. The
+    standard thus facilitates the capture of test results data in storage devices
+    and databases, facilitating online and offline analysis. The test results schema
+    becomes a class of information that can be used within the SIMICA family of standards.
+    The exchange format is expressed in both the OWL and XML formats.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: draft
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2023'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1636.1-2018
+    docid:
+    - id: IEEE 1636.1-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1636.1-2018
+      format: text/plain
+  description:
+    content: corrects
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: XML
+- content: Software maintenance
+- content: Information management
+- content: Information retrieval
+- content: Ontologies
+- content: OWL
+- content: Automatic testing
+- content: automated test system (ATS)
+- content: extensible markup language (XML)
+- content: IEEE 1636.1&#8482;
+- content: test results and session information
+- content: Software Interface for Maintenance Information Collection and Analysis
+    (SIMICA)
+- content: OWL ontology
+- content: XML schema
+doctype: standard
+editorialgroup:
+  committee:
+  - IEEE SA Board of Governors
+ics:
+- code: 25.040.01
+  text: Industrial automation systems in general
+- code: '35.060'
+  text: Languages used in information technology
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

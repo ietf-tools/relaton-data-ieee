@@ -24,8 +24,6 @@ docid:
   type: DOI
 docnumber: IEEE 575-2014
 date:
-- type: updated
-  value: '2014-10-06'
 - type: created
   value: '2014'
 - type: published
@@ -39,6 +37,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2014-09-19'
@@ -68,6 +70,41 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2014'
+relation:
+- type: updates
+  bibitem:
+    id: ANSI-IEEE575-1988
+    docid:
+    - id: ANSI/IEEE 575-1988
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI/IEEE 575-1988
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: ANSI-IEEE575-1988
+    docid:
+    - id: ANSI/IEEE 575-1988
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI/IEEE 575-1988
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Power cables

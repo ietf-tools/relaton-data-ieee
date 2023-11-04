@@ -1,0 +1,94 @@
+---
+schema-version: v1.2.3
+id: ANSI-IEEE936-1987
+title:
+- content: IEEE Guide for Self-Commutated Converters
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/29053
+  type: src
+type: standard
+docid:
+- id: ANSI/IEEE 936-1987
+  type: IEEE
+  primary: true
+- id: ANSI/IEEE 936™-1987
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 0-7381-4265-4
+  type: ISBN
+- id: 10.1109/IEEESTD.1987.81536
+  type: DOI
+docnumber: ANSI/IEEE 936-1987
+date:
+- type: created
+  value: '1987'
+- type: published
+  value: '2002-12-10'
+- type: issued
+  value: '1986-03-13'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2002-12-10'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This guide applies to self-commutated electronic power converters in which
+    commutation is accomplished by components within the converter. In converters
+    using switching devices that have turn-off capability, such as transistors or
+    gate turn-off thyristors, interruption of the current results in a voltage that
+    commutates the current to another branch. In converters using circuit-commutated
+    thyristors, the commutating voltages required to transfer current from one branch
+    to another are normally supplied by capacitors. The type of power conversion may
+    be DC to AC, DC to DC, AC to DC, or AC to AC. Converters in which commutating
+    voltages are supplied by the AC lines, the AC load, or some other AC source outside
+    the converter, are excluded from the scope of this guide except where they may
+    be linked with a self-commutated converter.<<ETX>>
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '1987'
+keyword:
+- content: Power conversion
+- content: Standards
+- content: Thyristor applications
+doctype: standard
+editorialgroup:
+  committee:
+  - Static Power Converter Committee of the IEEE Industry Applications Society
+ics:
+- code: '29.200'
+  text: Rectifiers. Converters. Stabilized power supply
+ext:
+  schema-version: v1.0.0
+  standard_status: Inactive
+  standard_modified: Withdrawn
+  pubstatus: Active
+  holdstatus: Publish

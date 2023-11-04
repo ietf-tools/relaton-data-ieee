@@ -2,11 +2,11 @@
 schema-version: v1.2.3
 id: IEEE1521-2003
 title:
-- content: IEEE Trial-Use Standard for Measurement of Video Jitter and Wander
+- content: IEEE Standard for Measurement of Video Jitter and Wander
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/1266041
+- content: https://ieeexplore.ieee.org/document/8743099
   type: src
 type: standard
 docid:
@@ -17,14 +17,16 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 0-7381-3827-4
+- id: 978-0-7381-3827-5
   type: ISBN
-- id: 10.1109/IEEESTD.2004.94426
+- id: 10.1109/IEEESTD.2004.8743099
   type: DOI
 docnumber: IEEE 1521-2003
 date:
 - type: created
-  value: '2004'
+  value: '2004-02-06'
+- type: published
+  value: '2019-06-20'
 - type: issued
   value: '2003-09-11'
 contributor:
@@ -36,24 +38,22 @@ contributor:
     url: http://www.ieee.org
   role:
   - type: publisher
+revdate: '2019-06-20'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: A set of metrics and methods to enable consistent measurement of the components
-    of timing interval error in video synchronization signals is provided in this
-    standard. By partitioning the spectra into regions of jitter and lower frequency
-    wander (characterized as frequency offset and drift rate), timing performance
+- content: Reaffirmed March 2010. A set of metrics and methods to enable consistent
+    measurement of the components of timing interval error in video synchronization
+    signals is provided. By partitioning the spectra into regions of jitter and lower
+    frequency wander (characterized as frequency offset and drift rate), timing performance
     can be better quantified for consistent control over nontraditional networks.
   language:
   - en
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: superseded
 copyright:
 - owner:
   - name:
@@ -61,22 +61,27 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2004'
+  from: '2009'
 keyword:
 - content: IEEE Standards
 - content: Jitter
-- content: Measurement uncertainty
-- content: Frequency control
+- content: Timing jitter
+- content: 1521-2003
+- content: drift rate
+- content: frequency offset
+- content: jitter
+- content: timing interval error (TIE)
+- content: wander
 doctype: standard
 editorialgroup:
   committee:
-  - G-2.1 Audio Video Techniques Committee of the IEEE Broadcast Technology Society
+  - Audio and Visual Techniques of the IEEE Broadcast Technology Society
 ics:
 - code: 33.160.40
   text: Video systems
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Superseded
+  standard_status: Inactive
+  standard_modified: Reserved
   pubstatus: Active
   holdstatus: Publish

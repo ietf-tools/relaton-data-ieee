@@ -62,9 +62,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -84,16 +81,20 @@ keyword:
 - content: event log
 - content: event stream
 - content: extensions
-- content: IEEE 1849&#8482;
+- content: IEEE 1849
 - content: system behavior
 - content: XML
 doctype: standard
 editorialgroup:
   committee:
   - Standards Committee of the IEEE Computational Intelligence Society
+ics:
+- code: 35.240.50
+  text: IT applications in industry
+- code: 35.240.80
+  text: IT applications in health care technology
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Superseded
   pubstatus: Active
   holdstatus: Publish

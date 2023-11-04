@@ -2,12 +2,12 @@
 schema-version: v1.2.3
 id: IEEEP1671-D-5-2006
 title:
-- content: IEEE Approved Draft Standard for Automatic Test Markup Language (ATML)
+- content: IEEE Draft Trial-Use Standard for Automatic Test Markup Language (ATML)
     for Exchanging Automatic Test Equipment and Test Information via XML
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/4067148
+- content: https://ieeexplore.ieee.org/document/4152522
   type: src
 type: standard
 docid:
@@ -18,16 +18,12 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-3100-2
-  type: ISBN
 docnumber: IEEE P1671/D-5-2006
 date:
 - type: created
-  value: '2006-12-31'
+  value: '2006'
 - type: published
-  value: '2019-05-03'
-- type: issued
-  value: '2006-09-15'
+  value: '2007-04-10'
 contributor:
 - organization:
     name:
@@ -41,20 +37,11 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2019-05-03'
+revdate: '2007-04-10'
 language:
 - en
 script:
 - Latn
-abstract:
-- content: This document specifies the framework for the family of ATML standards.
-    ATML defines a standard exchange medium for sharing information between components
-    of an Automatic Test System (ATS), utilizing the eXtensible Markup Language (XML).
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -66,33 +53,15 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2006'
-relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE1671-2010
-    docid:
-    - id: IEEE 1671-2010
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1671-2010
-      format: text/plain
 keyword:
+- content: Standards
 - content: XML
 - content: IEEE Standards
 - content: Terminology
-- content: Automatic test equipment
 - content: Licenses
-- content: 1671-2006
-- content: Automatic Test Equipment (ATE)
-- content: Automatic Test Markup Language (ATML)
-- content: ATML instance document
-- content: automatic test system (ATS)
-- content: XML Schema
+- content: IEEE Standards activities
+- content: Automatic test equipment
 doctype: standard
-editorialgroup:
-  committee:
-  - IEEE-SASB Coordinating Committees
 ics:
 - code: '19.080'
   text: Electrical and electronic testing

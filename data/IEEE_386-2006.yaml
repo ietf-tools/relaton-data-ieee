@@ -7,7 +7,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/7592496
+- content: https://ieeexplore.ieee.org/document/4119203
   type: src
 type: standard
 docid:
@@ -20,16 +20,14 @@ docid:
   primary: true
 - id: 978-0-7381-5220-2
   type: ISBN
-- id: 10.1109/IEEESTD.2007.7592496
+- id: 10.1109/IEEESTD.2006.323683
   type: DOI
 docnumber: IEEE 386-2006
 date:
-- type: updated
-  value: '2016-11-02'
 - type: created
   value: '2007'
 - type: published
-  value: '2016-10-14'
+  value: '2007-03-12'
 - type: issued
   value: '2006-09-15'
 contributor:
@@ -39,9 +37,13 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
-revdate: '2016-10-14'
+revdate: '2007-03-12'
 language:
 - en
 script:
@@ -65,15 +67,25 @@ copyright:
     url: http://www.ieee.org
   from: '2007'
 relation:
-- type: updates
+- type: obsoletedBy
   bibitem:
-    id: ANSI-IEEE386-1985
+    id: IEEE386-2016
     docid:
-    - id: ANSI/IEEE 386-1985
+    - id: IEEE 386-2016
       type: IEEE
       primary: true
     formattedref:
-      content: ANSI/IEEE 386-1985
+      content: IEEE 386-2016
+      format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE386-1995
+    docid:
+    - id: IEEE 386-1995
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 386-1995
       format: text/plain
   description:
     content: revises
@@ -82,33 +94,7 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEE386-2016
-    docid:
-    - id: IEEE 386-2016
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 386-2016
-      format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEE386-2016
-    docid:
-    - id: IEEE 386-2016
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 386-2016
-      format: text/plain
 keyword:
-- content: IEEE Standards
-- content: Connectors
-- content: Power distribution
-- content: Conductors
-- content: Power engineering
-- content: Trademarks
 - content: deadbreak connector
 - content: elbow connector
 - content: loadbreak connector

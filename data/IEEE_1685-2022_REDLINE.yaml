@@ -1,0 +1,138 @@
+---
+schema-version: v1.2.3
+id: IEEE1685-2022Redline
+title:
+- content: IEEE Standard for IP-XACT, Standard Structure for Packaging, Integrating,
+    and Reusing IP within Tool Flows
+  format: text/plain
+  type: title-main
+- content: IEEE Standard for IP-XACT, Standard Structure for Packaging, Integrating,
+    and Reusing IP within Tool Flows - Redline
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10186340
+  type: src
+type: standard
+docid:
+- id: IEEE 1685-2022 Redline
+  type: IEEE
+  primary: true
+- id: IEEE 1685™-2022 Redline
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-1-5044-9907-1
+  type: ISBN
+docnumber: IEEE 1685-2022 Redline
+date:
+- type: created
+  value: '2023-02-28'
+- type: published
+  value: '2023-07-19'
+- type: issued
+  value: '2022-09-21'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2023-07-19'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Conformance checks for eXtensible Markup Language (XML) data designed to
+    describe electronic systems are formulated by this standard. The meta-data forms
+    that are standardized include components, systems, bus interfaces and connections,
+    abstractions of those buses, and details of the components including address maps,
+    register and field descriptions, and file set descriptions for use in automating
+    design, verification, documentation, and use flows for electronic systems. A set
+    of XML schemas of the form described by the World Wide Web Consortium (W3C(R))
+    and a set of semantic consistency rules (SCRs) are included. A generator interface
+    that is portable across tool environments is provided. The specified combination
+    of methodology-independent meta-data and the tool-independent mechanism for accessing
+    that data provides for portability of design data, design methodologies, and environment
+    implementations.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2023'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1685-2014
+    docid:
+    - id: IEEE 1685-2014
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1685-2014
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: XML
+- content: Design methodology
+- content: Semantics
+- content: Packaging
+- content: Generators
+- content: Metadata
+- content: Electronic switching systems
+- content: abstraction definitions
+- content: address space specification
+- content: bus definitions
+- content: design environment
+- content: EDA
+- content: electronic design automation
+- content: electronic system level
+- content: ESL
+- content: IEEE 1685 implementation constraints
+- content: IP-XACT
+- content: register transfer level
+- content: RTL
+- content: SCRs
+- content: semantic consistency rules
+- content: TGI
+- content: tight generator interface
+- content: tool and data interoperability
+- content: use models
+- content: XML design metadata
+- content: XML schema
+doctype: redline
+editorialgroup:
+  committee:
+  - Design Automation of the IEEE Computer Society
+ics:
+- code: 35.240.95
+  text: Internet applications
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Redline
+  pubstatus: Active
+  holdstatus: Publish

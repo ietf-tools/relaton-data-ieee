@@ -1,0 +1,118 @@
+---
+schema-version: v1.2.3
+id: IEEE1851-2023
+title:
+- content: IEEE Standard for Design Criteria of Integrated Sensor-Based Test Applications
+    for Household Appliances
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10186289
+  type: src
+type: standard
+docid:
+- id: IEEE 1851-2023
+  type: IEEE
+  primary: true
+- id: IEEE 1851™-2023
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-1-5044-9783-1
+  type: ISBN
+- id: 10.1109/IEEESTD.2023.10186289
+  type: DOI
+docnumber: IEEE 1851-2023
+date:
+- type: created
+  value: '2023'
+- type: published
+  value: '2023-07-19'
+- type: issued
+  value: '2023-03-30'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2023-07-19'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: A data integrated framework of the test software for household appliances
+    is defined by this standard. The node information of complex virtual instruments
+    (CVIs), the sensor parameter information, the test metadata information, and the
+    sensor data information, as well as the means to acquire the information (either
+    microservices or data-exchange files), are specified by this standard.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2023'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1851-2012
+    docid:
+    - id: IEEE 1851-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1851-2012
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Sensors
+- content: Interoperability
+- content: Consumer products
+- content: Home appliances
+- content: Virtual machining
+- content: complex virtual instruments
+- content: household appliances test
+- content: IEEE 1851&#8482;
+- content: microservice
+- content: sensor data
+- content: systems interoperability
+doctype: standard
+editorialgroup:
+  committee:
+  - Emerging Technology Standards Committee of the IEEE Consumer Technology Society
+ics:
+- code: 35.240.50
+  text: IT applications in industry
+- code: '97.180'
+  text: Miscellaneous domestic and commercial equipment
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Approved
+  pubstatus: Active
+  holdstatus: Publish

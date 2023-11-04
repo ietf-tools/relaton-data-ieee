@@ -1,0 +1,93 @@
+---
+schema-version: v1.2.3
+id: ANSI-IEEE1051-1988
+title:
+- content: IEEE Recommended Practice for Parameters to Characterize Digital Loop Performance
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/29131
+  type: src
+type: standard
+docid:
+- id: ANSI/IEEE 1051-1988
+  type: IEEE
+  primary: true
+- id: ANSI/IEEE 1051™-1988
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 0-7381-4139-9
+  type: ISBN
+- id: 10.1109/IEEESTD.1988.81611
+  type: DOI
+docnumber: ANSI/IEEE 1051-1988
+date:
+- type: created
+  value: '1988'
+- type: published
+  value: '2002-08-06'
+- type: issued
+  value: '1988-03-10'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2002-08-06'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The purpose of this recommended practice is to suggest a set of transmission
+    performance parameters to be used in the development of standards for low bit-rate
+    digital channels between the user's location and an appropriate test point at
+    the serving office. This recommended practice suggests a set of performance parameters
+    for digital loop transmission between the user location and the serving office.
+    In the case of ISDN the user location is defined as the T-reference point, or
+    the U-reference point. In the case of non-ISDN, the user location is defined as
+    the point in the transmission circuit analogous to the ISDN-defined T or U reference
+    point. This recommended practice is limited to user information bit rates of 200
+    kb/s or lower.<<ETX>>
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '1988'
+keyword:
+- content: Digital communication
+- content: Standards
+- content: Subscriber loops
+doctype: standard
+editorialgroup:
+  committee:
+  - Transmission Systems Committee of the IEEE Communications Society
+ics:
+- code: 33.040.30
+  text: Switching and signalling systems
+ext:
+  schema-version: v1.0.0
+  standard_status: Inactive
+  standard_modified: Withdrawn
+  pubstatus: Active
+  holdstatus: Publish

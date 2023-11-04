@@ -1,0 +1,109 @@
+---
+schema-version: v1.2.3
+id: IEEEP1588a-D-3.5-2023-06
+title:
+- content: 'IEEE Approved Draft Standard for a Precision Clock Synchronization Protocol
+    for Networked Measurement and Control Systems Amendment: Precision Time Protocol
+    (PTP) Enhancements for Best Master Clock Algorithm (BMCA) Mechanisms'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10168730
+  type: src
+type: standard
+docid:
+- id: IEEE P1588a/D-3.5-2023-06
+  type: IEEE
+  primary: true
+- id: IEEE P1588a™/D-3.5-2023-06
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-1-5044-9871-5
+  type: ISBN
+docnumber: IEEE P1588a/D-3.5-2023-06
+date:
+- type: created
+  value: '2023'
+- type: published
+  value: '2023-06-29'
+- type: issued
+  value: '2023-09-21'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2023-06-29'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'This draft amendment: Updates information and messages for the Enhanced
+    Accuracy TLV, Updates operation of the BMCA, and provides a new appendix to the
+    default BMCA, Corrects errors in the text and clarifies unclear passages'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: draft
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2023'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1588-2019
+    docid:
+    - id: IEEE 1588-2019
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1588-2019
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Accuracy
+- content: Synchronization
+- content: Control systems
+- content: Precision engineering
+- content: Enhanced Accuracy
+- content: TLV
+- content: BMCA
+doctype: standard
+editorialgroup:
+  committee:
+  - TC9 - Sensor Technology of the IEEE Instrumentation and Measurement Society
+ics:
+- code: 39.040.99
+  text: Other time-measuring instruments
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

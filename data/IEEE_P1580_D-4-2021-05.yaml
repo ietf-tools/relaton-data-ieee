@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: IEEEP1580-D-4-2021-05
 title:
-- content: IEEE Approved Draft Recommended Practice for Marine Cable for Use on Shipboard
-    and Fixed or Floating Facilities
+- content: IEEE Draft Recommended Practice for Marine Cable for Use on Shipboard and
+    Fixed or Floating Facilities
   format: text/plain
   type: main
 link:
@@ -23,11 +23,11 @@ docid:
 docnumber: IEEE P1580/D-4-2021-05
 date:
 - type: created
-  value: '2021-11-11'
+  value: '2021'
 - type: published
   value: '2021-09-03'
 - type: issued
-  value: '2021-11-09'
+  value: '2021'
 contributor:
 - organization:
     name:
@@ -88,11 +88,44 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1580-2010
+    docid:
+    - id: IEEE 1580-2010
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1580-2010
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1580-2010
+    docid:
+    - id: IEEE 1580-2010
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1580-2010
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Marine equipment
 - content: Underwater cables
-- content: IEEE 1580
 - content: marine cable
 - content: offshore facilities
 - content: platforms
@@ -100,13 +133,13 @@ keyword:
 doctype: standard
 editorialgroup:
   committee:
-  - Petroleum and Chemical Industry of the IEEE Industry Applications Society
+  - Petroleum &amp; Chemical Industry of the IEEE Industry Applications Society
 ics:
 - code: 47.020.60
   text: Electrical equipment of ships and of marine structures
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

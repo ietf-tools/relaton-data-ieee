@@ -7,7 +7,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/7900321
+- content: https://ieeexplore.ieee.org/document/7592835
   type: src
 type: standard
 docid:
@@ -20,14 +20,14 @@ docid:
   primary: true
 - id: 978-1-5044-2335-9
   type: ISBN
-- id: 10.1109/IEEESTD.2016.7900321
+- id: 10.1109/IEEESTD.2016.7592835
   type: DOI
 docnumber: IEEE 802.3br-2016
 date:
 - type: created
   value: '2016-10-14'
 - type: published
-  value: '2017-04-14'
+  value: '2016-10-19'
 - type: issued
   value: '2016-06-30'
 contributor:
@@ -43,7 +43,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2017-04-14'
+revdate: '2016-10-19'
 language:
 - en
 script:
@@ -57,6 +57,9 @@ abstract:
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -65,17 +68,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2016'
-relation:
-- type: obsoletedBy
-  bibitem:
-    id: ISO-IEC-IEEE8802.3-Amd5-2017
-    docid:
-    - id: ISO/IEC/IEEE 8802.3/Amd5-2017
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ISO/IEC/IEEE 8802.3/Amd5-2017
-      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Ethernet
@@ -85,21 +77,22 @@ keyword:
 - content: IEEE 802.3 Standard
 - content: Ethernet
 - content: express traffic
-- content: IEEE 802&#174;
-- content: IEEE 802.3&#8482;
-- content: IEEE 802.3br&#8482;
+- content: IEEE 802(R)
+- content: IEEE 802.3(TM)
+- content: IEEE 802.3br(TM)
 - content: preemption
 doctype: standard
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society
 ics:
-- code: 35.100.10
-  text: Physical layer
 - code: '35.110'
   text: Networking
+- code: 35.100.10
+  text: Physical layer
 ext:
   schema-version: v1.0.0
-  standard_status: Superseded
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

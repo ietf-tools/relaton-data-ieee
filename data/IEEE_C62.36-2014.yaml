@@ -24,8 +24,6 @@ docid:
   type: DOI
 docnumber: IEEE C62.36-2014
 date:
-- type: updated
-  value: '2014-09-19'
 - type: created
   value: '2014'
 - type: published
@@ -39,6 +37,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2014-07-08'
@@ -73,6 +75,16 @@ copyright:
     url: http://www.ieee.org
   from: '2014'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEEC62.36-2016
+    docid:
+    - id: IEEE C62.36-2016
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C62.36-2016
+      format: text/plain
 - type: updates
   bibitem:
     id: IEEEC62.36-2000
@@ -90,16 +102,142 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
+- type: updates
   bibitem:
-    id: IEEEC62.36-2016
+    id: IEEEC62.36-2000
     docid:
-    - id: IEEE C62.36-2016
+    - id: IEEE C62.36-2000
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE C62.36-2016
+      content: IEEE C62.36-2000
       format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC62.36-2000
+    docid:
+    - id: IEEE C62.36-2000
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C62.36-2000
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC62.36-2000
+    docid:
+    - id: IEEE C62.36-2000
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C62.36-2000
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC62.36-2000
+    docid:
+    - id: IEEE C62.36-2000
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C62.36-2000
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC62.36-2000
+    docid:
+    - id: IEEE C62.36-2000
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C62.36-2000
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC62.36-2000
+    docid:
+    - id: IEEE C62.36-2000
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C62.36-2000
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC62.36-2000
+    docid:
+    - id: IEEE C62.36-2000
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C62.36-2000
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC62.36-2000
+    docid:
+    - id: IEEE C62.36-2000
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C62.36-2000
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Surge protection

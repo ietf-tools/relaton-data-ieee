@@ -2,12 +2,12 @@
 schema-version: v1.2.3
 id: IEC62243
 title:
-- content: 'IEC 62243 Ed. 1 (IEEE Std 1232(TM)-2002): Standard for Artificial Intelligence
-    Exchange and Service Tie to All Test Environments (AI- ESTATE)'
+- content: 'IEC 62243:2012(E) (IEEE Std 1232-2010): Artificial Intelligence Exchange
+    and Service Tie to All Test Environments (AI-ESTATE)'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8684709
+- content: https://ieeexplore.ieee.org/document/6228492
   type: src
 type: standard
 docid:
@@ -18,18 +18,18 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-0-7381-4778-9
+- id: 978-0-7381-7295-8
   type: ISBN
-- id: 10.1109/IEEESTD.2002.8684709
+- id: 10.1109/IEEESTD.2012.6228492
   type: DOI
 docnumber: IEC 62243
 date:
 - type: created
-  value: '2002-11-20'
+  value: '2012'
 - type: published
-  value: '2019-04-05'
+  value: '2012-06-29'
 - type: issued
-  value: '2002-06-13'
+  value: '2013-08-24'
 contributor:
 - organization:
     name:
@@ -43,26 +43,29 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2019-04-05'
+revdate: '2012-06-29'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: AI-ESTATE is a set of specifications for data interchange and for standard
-    services for the test and diagnostic environment. The purpose of AI-ESTATE is
-    to standardize interfaces between functional elements of an intelligent diagnostic
-    reasoner and representations of diagnostic knowledge and data for use by such
-    diagnostic reasoners. Formal information models are defined to form the basis
-    for a format to facilitate exchange of persistent diagnostic information between
-    two reasoners, and also to provide a formal typing system for diagnostic services.
-    This standard then defines the services to manipulate diagnostic information and
-    to control a diagnostic reasoner.
+- content: Data interchange and standard software services for test and diagnostic
+    environmentsare defined by Artificial Intelligence Exchange and Service Tie to
+    All Test Environments (AIESTATE).The purpose of AI-ESTATE is to standardize interfaces
+    for functional elements of anintelligent diagnostic reasoner and representations
+    of diagnostic knowledge and data for use bysuch diagnostic reasoners. Formal information
+    models are defined to form the basis for a formatto facilitate exchange of persistent
+    diagnostic information between two reasoners and also toprovide a formal typing
+    system for diagnostic services. The services to control a diagnosticreasoned are
+    defined by this standard.
   language:
   - en
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -70,28 +73,40 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2005'
+  - name:
+    - content: IEC
+  from: '2012'
 keyword:
+- content: IEEE standards
+- content: IEC standards
+- content: Knowledge management
+- content: Fault diagnosis
+- content: Bayes methods
 - content: AI-ESTATE
+- content: Bayesian Network
 - content: diagnosis
-- content: diagnostic interference
+- content: diagnostic inference
 - content: diagnostic model
 - content: diagnostic services
-- content: dynamic content
+- content: D-matrix
 - content: fault tree
+- content: IEEE 1232
 - content: knowledge exchange
 - content: system test
 doctype: standard
 editorialgroup:
   committee:
-  - IEEE-SASB Coordinating Committees
+  - SCC20 - Test and Diagnosis for Electronic Systems
 ics:
 - code: '35.080'
   text: Software
-- code: 35.240.50
-  text: IT applications in industry
+- code: '35.240'
+  text: Applications of information technology
+- code: '35.160'
+  text: Microprocessor systems
 ext:
   schema-version: v1.0.0
-  standard_status: Superseded
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

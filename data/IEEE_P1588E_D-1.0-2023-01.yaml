@@ -3,7 +3,8 @@ schema-version: v1.2.3
 id: IEEEP1588e-D-1.0-2023-01
 title:
 - content: 'IEEE Draft Standard for a Precision Clock Synchronization Protocol for
-    Networked Measurement and Control Systems Amendment: MIB and YANG Data Models'
+    Networked Measurement and Control Systems Amendment: GDOI (Group Domain of Interpretation)
+    Key Management'
   format: text/plain
   type: main
 link:
@@ -18,12 +19,12 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-9318-5
+- id: 978-1-5044-9327-7
   type: ISBN
 docnumber: IEEE P1588e/D-1.0-2023-01
 date:
 - type: created
-  value: '2023-01-04'
+  value: '2023-01-09'
 - type: published
   value: '2023-01-05'
 - type: issued
@@ -47,8 +48,10 @@ language:
 script:
 - Latn
 abstract:
-- content: This draft standard is an amendment of IEEE Std 1588&#8482;-2019. This
-    amendment identifies the structure and content of the IEEE 1588 MIB and YANG modules.
+- content: 'This draft standard is an amendment of IEEE Std 1588TM-2019. This amendment:
+    a) Adds guidelines on the application and operation of GDOI key management to
+    Annex P. Additional key management approaches might be covered in future amendments.
+    b) Fixes errors and clarifies statements in Annex P and Subclause 16.14.'
   language:
   - en
   script:
@@ -83,6 +86,142 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1588-2019
+    docid:
+    - id: IEEE 1588-2019
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1588-2019
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1588-2019
+    docid:
+    - id: IEEE 1588-2019
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1588-2019
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1588-2019
+    docid:
+    - id: IEEE 1588-2019
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1588-2019
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1588-2019
+    docid:
+    - id: IEEE 1588-2019
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1588-2019
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1588-2019
+    docid:
+    - id: IEEE 1588-2019
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1588-2019
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1588-2019
+    docid:
+    - id: IEEE 1588-2019
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1588-2019
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1588-2019
+    docid:
+    - id: IEEE 1588-2019
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1588-2019
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1588-2019
+    docid:
+    - id: IEEE 1588-2019
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1588-2019
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Precision engineering
@@ -91,10 +230,9 @@ keyword:
 - content: Measurement
 - content: Clocks
 - content: Management
-- content: PTP
-- content: MIB
-- content: YANG
-- content: Management
+- content: Key management
+- content: GDOI
+- content: Group Domain of Interpretation
 doctype: standard
 editorialgroup:
   committee:
@@ -104,7 +242,7 @@ ics:
   text: Other time-measuring instruments
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

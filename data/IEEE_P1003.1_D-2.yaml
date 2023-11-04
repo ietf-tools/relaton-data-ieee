@@ -1,0 +1,113 @@
+---
+schema-version: v1.2.3
+id: IEEEP1003.1-D-2
+title:
+- content: IEEE Draft Standard for Information Technology Portable Operating System
+    Interface (POSIX?)
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/4039999
+  type: src
+type: standard
+docid:
+- id: IEEE P1003.1/D-2
+  type: IEEE
+  primary: true
+- id: IEEE P1003.1™/D-2
+  type: IEEE
+  scope: trademark
+  primary: true
+docnumber: IEEE P1003.1/D-2
+date:
+- type: created
+  value: '2006'
+- type: published
+  value: '2007-02-09'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2007-02-09'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'IEEE Std 1003.1-200x defines a standard operating system interface and
+    environment, including a command interpreter (or shell), and common utility programs
+    to support applications portability at the source code level. It is intended to
+    be used by both applications developers and system implementors. IEEE Std 1003.1-200x
+    comprises four major components (each in an associated volume): 1. General terms,
+    concepts, and interfaces common to all volumes of IEEE Std 1003.1-200x, including
+    utility conventions and C- language header definitions, are included in the Base
+    Definitions volume of IEEE Std 1003.1-200x. 2. Definitions for system service
+    functions and subroutines, language-specific system services for the C programming
+    language, function issues, including portability, error handling, and error recovery,
+    are included in the System Interfaces volume of IEEE Std 1003.1-200x. 3. Definitions
+    for a standard source code-level interface to command interpretation services
+    (a shell) and common utility programs for application programs are included in
+    the Shell and Utilities volume of IEEE Std 1003.1-200x. 4. Extended rationale
+    that did not fit well into the rest of the document structure, containing historical
+    information concerning the contents of IEEE Std 1003.1-200x and why features were
+    included or discarded by the standard developers, is included in the Rationale
+    (Informative) volume of IEEE Std 1003.1-200x. The following areas are outside
+    of the scope of IEEE Std 1003.1-200x: * Graphics interfaces * Database management
+    system interfaces * Record I/O considerations * Object or binary code portability
+    * System configuration and resource availability IEEE Std 1003.1-200x describes
+    the external characteristics and facilities that are of importance to applications
+    developers, rather than the internal construction techniques employed to achieve
+    these capabilities. Special emphasis is placed on those functions and facilities
+    that are needed in a wide variety of commercial applications. The facilities provided
+    in IEEE Std 1003.1-200x are drawn from the following base documents: * IEEE Std
+    1003.1, 2004 Edition (POSIX-1) (incorporating IEEE Stds 1003.1-2001, 1003.1-2001/Cor
+    1-2002 and 1003.1-2001/Cor 2-2004) * Open Group Technical Standard, 2006, Extended
+    API Set Part 1 * Open Group Technical Standard, 2006, Extended API Set Part 2
+    * Open Group Technical Standard, 2006, Extended API Set Part 3 * Open Group Technical
+    Standard, 2006, Extended API Set Part 4 * ISO/IEC 9899:1999, Programming Languages
+    - C.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: draft
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2006'
+keyword:
+- content: Standards
+- content: Patents
+- content: Operating systems
+- content: Licenses
+- content: Utility programs
+- content: Sun
+- content: Roads
+doctype: standard
+ics:
+- code: '35.080'
+  text: Software
+- code: '35.060'
+  text: Languages used in information technology
+ext:
+  schema-version: v1.0.0
+  standard_status: Inactive
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

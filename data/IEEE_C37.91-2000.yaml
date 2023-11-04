@@ -66,6 +66,16 @@ copyright:
     url: http://www.ieee.org
   from: '2000'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEEC37.91-2008
+    docid:
+    - id: IEEE C37.91-2008
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.91-2008
+      format: text/plain
 - type: updates
   bibitem:
     id: ANSI-IEEEC37.91-1985
@@ -83,16 +93,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEEC37.91-2008
-    docid:
-    - id: IEEE C37.91-2008
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.91-2008
-      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Protective relaying

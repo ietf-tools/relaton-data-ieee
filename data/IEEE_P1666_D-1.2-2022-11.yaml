@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: IEEEP1666-D-1.2-2022-11
 title:
-- content: IEEE Draft Standard for Standard SystemC Language Reference Manual
+- content: IEEE Approved Draft Standard for Standard SystemC Language Reference Manual
   format: text/plain
   type: main
 link:
@@ -22,11 +22,11 @@ docid:
 docnumber: IEEE P1666/D-1.2-2022-11
 date:
 - type: created
-  value: '2023-02-16'
+  value: '2023'
 - type: published
   value: '2023-02-17'
 - type: issued
-  value: '2023'
+  value: '2023-06-05'
 contributor:
 - organization:
     name:
@@ -53,7 +53,8 @@ abstract:
     library so that a SystemC implementation can be developed with reference to this
     standard alone. The primary audiences for this standard are the implementors of
     the SystemC class library, the implementors of tools supporting the class library,
-    and the users of the class library.
+    and the users of the class library. (Thanks to our sponsor, the PDF of this standard
+    is available at no charge through the IEEE GET Program https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=80)
   language:
   - en
   script:
@@ -71,6 +72,74 @@ copyright:
     url: http://www.ieee.org
   from: '2023'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE1666-2011
+    docid:
+    - id: IEEE 1666-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1666-2011
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1666-2011
+    docid:
+    - id: IEEE 1666-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1666-2011
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1666-2011
+    docid:
+    - id: IEEE 1666-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1666-2011
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1666-2011
+    docid:
+    - id: IEEE 1666-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1666-2011
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE1666-2011
@@ -120,7 +189,7 @@ ics:
   text: Software
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

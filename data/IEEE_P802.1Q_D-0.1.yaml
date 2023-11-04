@@ -1,0 +1,94 @@
+---
+schema-version: v1.2.3
+id: IEEEP802.1Q-D-0.1
+title:
+- content: DRAFT IEEE Standard for Local and metropolitan area networks-Virtual Bridged
+    Local Area Networks
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/5422051
+  type: src
+type: standard
+docid:
+- id: IEEE P802.1Q/D-0.1
+  type: IEEE
+  primary: true
+- id: IEEE P802.1Q™/D-0.1
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-1-5044-4020-2
+  type: ISBN
+docnumber: IEEE P802.1Q/D-0.1
+date:
+- type: created
+  value: '2010'
+- type: published
+  value: '2010-02-25'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2010-02-25'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This standard specifies how the MAC Service is supported by Virtual Bridged
+    Local Area Networks, the principles of operation of those networks, and the operation
+    of VLAN-aware Bridges, including management, protocols, and algorithms. The amendments
+    that were specified in IEEE Std 802.1AD enable a service provider to use the architecture
+    and protocols defined in this standard to offer the equivalent of separate LANs,
+    Bridged Local Area Networks, or Virtual Bridged Local Area Networks to a number
+    of customers, while requiring no cooperation between the customers, and minimal
+    cooperation between each customer and the service provider.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: draft
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2010'
+keyword:
+- content: IEEE standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Bridged Local Area Networks
+- content: local area networks (LANs)
+- content: MAC Bridges
+- content: metropolitan area networks
+- content: Multiple Spanning Tree Protocol (MSTP)
+- content: Rapid Spanning Tree Protocol (RSTP)
+- content: Virtual Bridged Local Area Networks (virtual LANs)
+doctype: standard
+ics:
+- code: '35.110'
+  text: Networking
+- code: 35.100.20
+  text: Data link layer
+ext:
+  schema-version: v1.0.0
+  standard_status: Inactive
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

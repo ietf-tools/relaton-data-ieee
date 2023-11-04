@@ -26,7 +26,7 @@ date:
 - type: published
   value: '2021-06-28'
 - type: issued
-  value: '2021-09-23'
+  value: '2021'
 contributor:
 - organization:
     name:
@@ -46,16 +46,15 @@ language:
 script:
 - Latn
 abstract:
-- content: Export data related to motor vehicle pre-defined events in usage history
-    is collected, recorded, stored, and exported by motor vehicle event data recorders
-    (MVEDRs). A protocol for MVEDR output data compatibility and export protocols
-    of MVEDR data elements is defined by this standard. A motor vehicle event data
-    recorder connector lockout apparatus (MVEDRCLA) and a near field communication
-    (NFC) protocol is defined for safeguarding access to a vehicle’s event data recorder
-    (EDR) data by securing the vehicle output diagnostic link connector (DLC) and
-    establishing a chain of custody link. This standard is without prejudice to requirements
-    of national or regional laws related to privacy, data protection, and personal
-    data processing.
+- content: Motor Vehicle Event Data Recorders (MVEDRs) collect, record, store and
+    export data related to motor vehicle pre-defined events in usage history. This
+    standard defines a protocol for MVEDR output data compatibility and export protocols
+    of MVEDR data elements. This standard defines a Motor Vehicle Event Data Recorder
+    Connector Lockout Apparatus (MVEDRCLA) and a Near Field Communication (NFC) protocol
+    of safeguarding access to a vehicle's event data recorder (EDR) data by securing
+    the vehicle output diagnostic a link connector (DLC) and establishing a chain
+    of custody link. This standard is without prejudice to requirements of national
+    or regional laws related to privacy, data protection and personal data processing.
   language:
   - en
   script:
@@ -73,6 +72,23 @@ copyright:
     url: http://www.ieee.org
   from: '2021'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE1616-2004
+    docid:
+    - id: IEEE 1616-2004
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1616-2004
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE1616-2004
@@ -111,9 +127,7 @@ keyword:
 - content: electronic control unit (ECU)
 - content: electronic equipment and components
 - content: electronic scan tools
-- content: electronically erasable programmable read-only memory
 - content: event data recorder (EDR)
-- content: IEEE 1616&#8482;
 - content: information exchange
 - content: litigation
 - content: nonvolatile memory
@@ -123,8 +137,7 @@ keyword:
 - content: odometer fraud
 - content: odometer spun
 - content: odometer tampering
-- content: on-board diagnostic
-- content: on-board network data security
+- content: onboard network data security
 - content: power control module (PCM) and/or electronic control unit (ECU) flashing
 - content: road vehicle components
 - content: road vehicle engineering
@@ -132,8 +145,7 @@ keyword:
 - content: SAE J1962 connectors
 - content: vehicle components
 - content: vehicle crash data
-- content: vehicle identification number (VIN) tampering
-- content: vehicle identification number (VIN) theft.
+- content: vehicle identification number (VIN) tampering and/or theft.
 doctype: standard
 editorialgroup:
   committee:
@@ -143,7 +155,7 @@ ics:
   text: Car informatics. On board computer systems
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

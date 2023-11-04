@@ -2,12 +2,12 @@
 schema-version: v1.2.3
 id: IEEE802.3bv-2017
 title:
-- content: 'IEEE standard for ethernet amendment 9: physical layer specifications
-    and management parameters for 1000 mb/s operation over plastic optical fiber'
+- content: 'IEEE Standard for Ethernet Amendment 9: Physical Layer Specifications
+    and Management Parameters for 1000 Mb/s Operation Over Plastic Optical Fiber'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8661822
+- content: https://ieeexplore.ieee.org/document/7875375
   type: src
 type: standard
 docid:
@@ -20,12 +20,16 @@ docid:
   primary: true
 - id: 978-1-5044-3721-9
   type: ISBN
+- id: 10.1109/IEEESTD.2017.7875375
+  type: DOI
 docnumber: IEEE 802.3bv-2017
 date:
+- type: updated
+  value: '2017-03-24'
 - type: created
-  value: '2019'
+  value: '2017'
 - type: published
-  value: '2019-03-06'
+  value: '2017-03-10'
 - type: issued
   value: '2017-02-14'
 contributor:
@@ -37,7 +41,7 @@ contributor:
     url: http://www.ieee.org
   role:
   - type: publisher
-revdate: '2019-03-06'
+revdate: '2017-03-10'
 language:
 - en
 script:
@@ -73,22 +77,13 @@ relation:
     formattedref:
       content: ISO/IEC/IEEE 8802.3/Amd9-2017
       format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: ISO-IEC-IEEE8802.3-Amd9-2017
-    docid:
-    - id: ISO/IEC/IEEE 8802.3/Amd9-2017
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ISO/IEC/IEEE 8802.3/Amd9-2017
-      format: text/plain
 keyword:
 - content: IEEE Standards
-- content: Ethernet
-- content: EPON
+- content: 'Ethernet '
+- content: Time measurement
+- content: Synchronization
+- content: Passive optical networks
 - content: IEEE 802.3 Standard
-- content: Plastic optical fiber
 - content: 1000BASE-H
 - content: 1000BASE-RHA
 - content: 1000BASE-RHB

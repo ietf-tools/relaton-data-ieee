@@ -3,12 +3,11 @@ schema-version: v1.2.3
 id: IEEEP1451.2-D-20-2011-02
 title:
 - content: IEEE Draft Standard for a Smart Transducer Interface for Sensors and Actuators
-    - Transducer to Microprocessor Communication Protocols and Transducer Electronic
-    Data Sheet (TEDS) Formats
+    - Serial Point-to-Point Interface
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/5738192
+- content: https://ieeexplore.ieee.org/document/6216332
   type: src
 type: standard
 docid:
@@ -21,14 +20,14 @@ docid:
   primary: true
 - id: 978-0-7381-7514-0
   type: ISBN
-- id: 10.1109/IEEESTD.2011.5738192
-  type: DOI
 docnumber: IEEE P1451.2/D-20-2011-02
 date:
 - type: created
-  value: '2011'
-- type: issued
   value: '2012'
+- type: published
+  value: '2012-06-12'
+- type: issued
+  value: '2012-06-12'
 contributor:
 - organization:
     name:
@@ -42,13 +41,14 @@ contributor:
         country: USA
   role:
   - type: publisher
+revdate: '2012-06-12'
 language:
 - en
 script:
 - Latn
 abstract:
 - content: IEEE P1451.2 defines a wired point-to-point interface standard for sensors,
-    specifically connectors and communication protocols for SPI, I2C, UART and RS-232-C
+    specifically30 connectors and communication protocols for SPI, I2C, UART and RS-232-C
     interfaces together with the corresponding TEDS. This specification focuses on
     the Communication Modules that connect the TIM and NCAP using the IEEE Std 1451.0-2007
     basic standard with brevity as a goal. The purpose of this revision is to make
@@ -68,42 +68,8 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2011'
+  from: '2012'
 relation:
-- type: updates
-  bibitem:
-    id: IEEE1451.2-1997
-    docid:
-    - id: IEEE 1451.2-1997
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1451.2-1997
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1451.2-1997
-    docid:
-    - id: IEEE 1451.2-1997
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1451.2-1997
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: updates
   bibitem:
     id: IEEE1451.2-1997
@@ -125,8 +91,7 @@ keyword:
 - content: IEEE standards
 - content: Transducers
 - content: Sensors
-- content: Actuators
-- content: Microprocessors
+- content: Acuators
 - content: IEEE-1451
 - content: '1451'
 - content: I236 C

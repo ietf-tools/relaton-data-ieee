@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: IEEEP433-D-9-2021-12
 title:
-- content: IEEE Approved Draft Recommended Practice for Insulation Testing of AC Electric
-    Machinery with High Voltage Rating up to 30 kV at Very Low Frequency
+- content: IEEE Draft Recommended Practice for Insulation Testing of AC Electric Machinery
+    with High Voltage Rating up to 30 kV at Very Low Frequency
   format: text/plain
   type: main
 link:
@@ -23,11 +23,11 @@ docid:
 docnumber: IEEE P433/D-9-2021-12
 date:
 - type: created
-  value: '2022-02-14'
+  value: '2021-12-17'
 - type: published
   value: '2021-12-20'
 - type: issued
-  value: '2022-02-09'
+  value: '2021'
 contributor:
 - organization:
     name:
@@ -47,9 +47,8 @@ language:
 script:
 - Latn
 abstract:
-- content: Described in this recommended practice are very low frequency withstand
-    and diagnostic tests that are performed on the stator windings of ac electric
-    machines.
+- content: This recommended practice describes very low frequency withstand and diagnostic
+    tests that are performed on the stator windings of ac electric machines.
   language:
   - en
   script:
@@ -84,6 +83,40 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE433-2009
+    docid:
+    - id: IEEE 433-2009
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 433-2009
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE433-2009
+    docid:
+    - id: IEEE 433-2009
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 433-2009
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: AC machines
@@ -92,11 +125,10 @@ keyword:
 - content: Stator windings
 - content: Insulation testing
 - content: High-voltage techniques
-- content: ac electric machine testing
 - content: ac electric machines
+- content: ac electric machine testing
 - content: diagnostic test
 - content: high-potential (hipotential) test
-- content: IEEE 433
 - content: over potential test
 - content: proof testing
 - content: safety
@@ -110,11 +142,9 @@ editorialgroup:
 ics:
 - code: 29.080.01
   text: Electrical insulation in general
-- code: 29.160.01
-  text: Rotating machinery in general
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

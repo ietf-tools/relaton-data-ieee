@@ -1,0 +1,90 @@
+---
+schema-version: v1.2.3
+id: IEEE949
+title:
+- content: IEEE Trial-Use Standard for Media-Independent Information Transfer
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/30685
+  type: src
+type: standard
+docid:
+- id: IEEE 949
+  type: IEEE
+  primary: true
+- id: IEEE 949™
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 0-7381-4547-5
+  type: ISBN
+- id: 10.1109/IEEESTD.1985.82457
+  type: DOI
+docnumber: IEEE 949
+date:
+- type: created
+  value: '1985'
+- type: published
+  value: '2002-12-10'
+- type: issued
+  value: '1985'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2002-12-10'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The purpose of this standard is to define a format for the transmission
+    of files and their attributes between computer systems independent of the medium
+    of transmission. It is intended that any information medium capable of representing
+    a consecutive sequence of 8-bit bytes should be adaptable to the format specified
+    in this standard. The format is designed to facilitate the human interface to
+    file selection from transmissions by foreign systems.<<ETX>>
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '1985'
+keyword:
+- content: Data communication
+- content: Data handling
+- content: File systems
+- content: Standards
+doctype: standard
+editorialgroup:
+  committee:
+  - Microprocessor Standards Committee of the IEEE Computer Society
+ics:
+- code: '35.040'
+  text: Character sets and information coding
+ext:
+  schema-version: v1.0.0
+  standard_status: Inactive
+  standard_modified: Withdrawn
+  pubstatus: Active
+  holdstatus: Publish

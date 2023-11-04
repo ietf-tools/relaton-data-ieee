@@ -3,11 +3,11 @@ schema-version: v1.2.3
 id: ANSI-IEEE802.3-1985
 title:
 - content: 'IEEE Standards for Local Area Networks: Carrier Sense Multiple Access
-    With Collision Detection (CSMA/CD) Access Method and Physical Layer Specifications'
+    with Collision Detection (CSMA/CD) Access Method and Physical Layer Specifications'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/30707
+- content: https://ieeexplore.ieee.org/document/7508550
   type: src
 type: standard
 docid:
@@ -20,12 +20,16 @@ docid:
   primary: true
 - id: 978-0-7381-4253-1
   type: ISBN
-- id: 10.1109/IEEESTD.1985.82837
+- id: 10.1109/IEEESTD.1984.7508550
   type: DOI
 docnumber: ANSI/IEEE 802.3-1985
 date:
+- type: updated
+  value: '2018-03-30'
 - type: created
-  value: '1985'
+  value: '1984-12-31'
+- type: published
+  value: '2016-07-08'
 - type: issued
   value: '1983-06-23'
 contributor:
@@ -37,25 +41,23 @@ contributor:
     url: http://www.ieee.org
   role:
   - type: publisher
+revdate: '2016-07-08'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'The carrier sense multiple access with collision detection (CSMA/CD) media
-    access method is the means by which two or more stations share a common bus transmission
-    medium. This is a comprehensive standard for local area networks employing CSMA/CD
-    as the access method. This standard encompasses several media types and techniques
-    for signal rates from 1 Mb/s to 20 Mb/s. IEEE Std 802.3-1985 provides the necessary
-    specifications and related parameter values for a 10 Mb/s baseband implementation.
-    In order to achieve greater clarity and flexibility, this document is organized
-    along architectural lines, i.e. emphasizing the logical divisions of the system
-    and how they fit together. It describes the large-scale separation of the system
-    into two parts: the media access control (MAC) sublayer of the data link layer,
-    and the physical layer. These layers correspond closely to the lowest layers of
-    the ISO Model for Open System Interconnection (OSI). The LLC sublayer and the
-    MAC sublayer together encompass the functions intended for the data link layer
-    as defined in the OSI model.<<ETX>>'
+- content: The control characteristics for full duplex dedicated channel use are also
+    described. Specifications are provided for MAU types 1BASE5 at 1 Mb/s; Attachment
+    Unit Interface (AUI) and MAU types 10BASE5, 10BASE2, FOIRL (fiber optic inter-repeater
+    link), 10BROAD36, 10BASE-T, 10BASE-FL, 10BASE-FB, and 10BASE-FP at 10 Mb/s; Media
+    Independent Interface (MII) and PHY types 100BASE-T4, 100BASE-TX, 100BASE-FX,
+    and 100BASE-T2 at 100 Mb/s; and the Gigabit MII (GMII) and 1000BASE-X PHY types,
+    1000BASE-SX, 1000BASE-LX, and 1000BASE-CX, which operate at 1000 Mb/s (Gigabit
+    Ethernet). Repeater specifications are provided at each speed. Full duplex specifications
+    are provided at the Physical Layer for 10BASE-T, 10BASE-FL, 100BASETX, 100BASE-FX,
+    100BASE-T2, and Gigabit Ethernet. System considerations for multisegment networks
+    at each speed and management information base (MIB) specifications are also provided.
   language:
   - en
   script:
@@ -91,10 +93,17 @@ relation:
       content: IEEE 802.3-1998
       format: text/plain
 keyword:
+- content: IEEE Standards
 - content: Local area networks
-- content: Multiaccess communication
-- content: Standards
-- content: Communication systems
+- content: Collision avoidance
+- content: Physical layer
+- content: Consumer electronics
+- content: IEEE activities
+- content: LAN
+- content: CSMA/CD
+- content: ethernet
+- content: local
+- content: networks
 doctype: standard
 editorialgroup:
   committee:

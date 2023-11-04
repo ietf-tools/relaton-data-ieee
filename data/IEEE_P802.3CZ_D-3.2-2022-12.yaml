@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: IEEEP802.3cz-D-3.2-2022-12
 title:
-- content: 'IEEE Approved Draft Standard for Ethernet Amendment: Physical Layer Specifications
+- content: 'IEEE Draft Standard for Ethernet Amendment: Physical Layer Specifications
     and Management Parameters for multi-gigabit optical Ethernet using graded-index
     glass optical fiber for application in the automotive environment'
   format: text/plain
@@ -24,11 +24,11 @@ docid:
 docnumber: IEEE P802.3cz/D-3.2-2022-12
 date:
 - type: created
-  value: '2023'
+  value: '2022-12-06'
 - type: published
-  value: '2022-12-07'
+  value: '2022-12-08'
 - type: issued
-  value: '2023-03-30'
+  value: '2022'
 contributor:
 - organization:
     name:
@@ -42,15 +42,15 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-12-07'
+revdate: '2022-12-08'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This amendment to IEEE Std 802.3-2022 adds Physical Layer specifications
-    and management parameters for 2.5 Gb/s, 5 Gb/s, 10 Gb/s, 25 Gb/s, and 50 Gb/s
-    operation on glass optical fiber in an automotive environment.
+- content: This amendment to IEEE Std 802.3-2022 adds physical layer specifications
+    and management parameters for 2.5 Gb/s, 5 Gb/s, 10 Gb/s, 25 Gb/s and 50 Gb/s operation
+    on optical fiber for use in automotive applications.
   language:
   - en
   script:
@@ -68,6 +68,108 @@ copyright:
     url: http://www.ieee.org
   from: '2020'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE802.3-2018
+    docid:
+    - id: IEEE 802.3-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3-2018
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.3-2022
+    docid:
+    - id: IEEE 802.3-2022
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3-2022
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.3-2022
+    docid:
+    - id: IEEE 802.3-2022
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3-2022
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.3-2022
+    docid:
+    - id: IEEE 802.3-2022
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3-2022
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.3-2022
+    docid:
+    - id: IEEE 802.3-2022
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3-2022
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.3-2022
+    docid:
+    - id: IEEE 802.3-2022
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3-2022
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE802.3-2022
@@ -97,15 +199,13 @@ keyword:
 - content: 10GBASE-AU
 - content: 25GBASE-AU
 - content: 50GBASE-AU
-- content: amendment
-- content: automotive Ethernet
 - content: Ethernet
-- content: IEEE 802.3
-- content: IEEE 802.3cz
+- content: IEEE 802.3cz&#8482;
 - content: Medium Dependent Interface
 - content: Physical Coding Sublayer
 - content: Physical Layer
 - content: Physical Medium Attachment
+- content: Automotive Ethernet.
 doctype: standard
 editorialgroup:
   committee:
@@ -117,7 +217,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Publish

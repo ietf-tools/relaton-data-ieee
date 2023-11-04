@@ -1,0 +1,125 @@
+---
+schema-version: v1.2.3
+id: IEEE11073.10421-2023
+title:
+- content: 'IEEE Standard--Health Informatics--Device Interoperability--Part 10421:
+    Personal Health Device Communication--Device Specialization--Peak expiratory flow
+    monitor (peak flow)'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10168070
+  type: src
+type: standard
+docid:
+- id: IEEE 11073.10421-2023
+  type: IEEE
+  primary: true
+- id: IEEE 11073.10421™-2023
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-1-5044-9626-1
+  type: ISBN
+- id: 10.1109/IEEESTD.2023.10168070
+  type: DOI
+docnumber: IEEE 11073.10421-2023
+date:
+- type: created
+  value: '2023'
+- type: published
+  value: '2023-06-28'
+- type: issued
+  value: '2023-03-30'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2023-06-28'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Within the context of the ISO/IEEE 11073 family of standards for device
+    communication, a normative definition of communication is established in this
+    standard between personal telehealth peak expiratory flow monitor devices and
+    compute engines (e.g., cell phones, personal computers, personal health appliances,
+    and set top boxes) in a manner that enables plug-and-play interoperability. Appropriate
+    portions of existing standards are leveraged, including ISO/IEEE 11073 terminology,
+    information models, application profile standards, and transport standards. The
+    use of specific term codes, formats, and behaviors is specified in telehealth
+    environments restricting optionality in base frameworks in favor of interoperability.
+    A common core of communication functionality is defined for personal telehealth
+    peak expiratory flow monitor devices.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2023'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE11073.10421-2010
+    docid:
+    - id: IEEE 11073.10421-2010
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 11073.10421-2010
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Medical devices
+- content: Bioinformatics
+- content: Biomedical monitoring
+- content: forced expiratory volume
+- content: IEEE 11073-10421
+- content: medical device communication
+- content: peak expiratory flow
+- content: peak expiratory flow monitor
+- content: peak flow
+- content: personal health devices
+doctype: standard
+editorialgroup:
+  committee:
+  - IEEE 11073 Standards Committee of the IEEE Engineering in Medicine and Biology
+    Society
+ics:
+- code: 11.040.55
+  text: Diagnostic equipment
+- code: 35.240.80
+  text: IT applications in health care technology
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Approved
+  pubstatus: Active
+  holdstatus: Publish

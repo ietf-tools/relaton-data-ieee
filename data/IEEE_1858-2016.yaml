@@ -23,8 +23,6 @@ docid:
   type: DOI
 docnumber: IEEE 1858-2016
 date:
-- type: updated
-  value: '2017-05-26'
 - type: created
   value: '2017-05-05'
 - type: published
@@ -38,6 +36,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2017-05-08'
@@ -58,9 +60,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -69,6 +68,27 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2016'
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE1858-2023
+    docid:
+    - id: IEEE 1858-2023
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1858-2023
+      format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE1858-2023
+    docid:
+    - id: IEEE 1858-2023
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1858-2023
+      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Cellular phones
@@ -87,10 +107,12 @@ keyword:
 doctype: standard
 editorialgroup:
   committee:
-  - Corporate Advisory Group of the IEEE-SA Board of Governors
+  - Corporate Advisory Group of the IEEE SA Board of Governors
+ics:
+- code: 37.040.10
+  text: Photographic equipment. Projectors
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Superseded
   pubstatus: Active
   holdstatus: Publish

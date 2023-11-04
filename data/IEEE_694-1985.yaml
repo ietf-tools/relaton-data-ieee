@@ -1,0 +1,95 @@
+---
+schema-version: v1.2.3
+id: IEEE694-1985
+title:
+- content: IEEE Standard for Microprocessor Assembly Language
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/29141
+  type: src
+type: standard
+docid:
+- id: IEEE 694-1985
+  type: IEEE
+  primary: true
+- id: IEEE 694™-1985
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 0-7381-2752-3
+  type: ISBN
+- id: 10.1109/IEEESTD.1985.81632
+  type: DOI
+docnumber: IEEE 694-1985
+date:
+- type: created
+  value: '1985'
+- type: published
+  value: '2002-12-10'
+- type: issued
+  value: '1985-03-21'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2002-12-10'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The intent of this standard is to name a common set of instructions used
+    by most general purpose microprocessors, to provide rules for the naming of new
+    instructions and the derivation of new mnemonics, and to establish assembly language
+    conventions and syntax. It is intended to be used as a basis for microprocessor
+    assembler specification. This standard sets forth the functional definitions and
+    corresponding mnemonics for microprocessor instructions. The specific set of instructions
+    differs for each type of processor. Likewise, the number of condition codes and
+    their setting and resetting is processor-dependent, and is not prescribed by this
+    standard. Each use of a particular microprocessor should be thoroughly conversant
+    with its operation and should make no a priori assumptions with regard to the
+    detailed behavior of its instructions.<<ETX>>
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '1985'
+keyword:
+- content: Computer languages
+- content: Computer instructions
+- content: Standards
+doctype: standard
+editorialgroup:
+  committee:
+  - Technical Committee on Microcomputers and Microprocessors of the IEEE Computer
+    Society
+ics:
+- code: '35.060'
+  text: Languages used in information technology
+ext:
+  schema-version: v1.0.0
+  standard_status: Inactive
+  standard_modified: Withdrawn
+  pubstatus: Active
+  holdstatus: Publish

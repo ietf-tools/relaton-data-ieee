@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: IEEEP2785-D-11-2023-01
 title:
-- content: IEEE Approved Draft Standard for Architectural Framework and General Requirements
+- content: IEEE Draft Standard for Architectural Framework and General Requirements
     for Smart Home Systems
   format: text/plain
   type: main
@@ -23,11 +23,11 @@ docid:
 docnumber: IEEE P2785/D-11-2023-01
 date:
 - type: created
-  value: '2023'
+  value: '2023-01-19'
 - type: published
   value: '2023-01-20'
 - type: issued
-  value: '2023-03-30'
+  value: '2023'
 contributor:
 - organization:
     name:
@@ -47,9 +47,17 @@ language:
 script:
 - Latn
 abstract:
-- content: The definitions and terminologies, information modeling, architectural
-    framework, key technological requirements, and general model for intelligent level
-    evaluation related to the Smart Home systems are provided in this standard.
+- content: This standard provides the definitions and terminologies, information modeling,
+    1 architectural framework, key technological requirements, and general model for
+    intelligent level 2 evaluation related to the Smart Home systems. This standard
+    contains 11 chapters. Chapter 1 describes the scope and purpose of this standard.
+    Chapter 2 is normative references. Chapter 3 is definitions, acronyms and abbreviations.
+    Chapter 4 is the overview of smart home system, including system architecture,
+    reference model and system components. From Chapter 5 to Chapter 9, the functional
+    and technical requirements of smart home system components are specified respectively.
+    Chapter 10 is the requirements of security and data compliance of smart home system.
+    Chapter 11 is general requirements for intelligent level evaluation of smart home
+    system.
   language:
   - en
   script:
@@ -75,19 +83,18 @@ keyword:
 - content: Technical requirements
 - content: Systems architecture
 - content: Security
-- content: architectural framework
-- content: IEEE 2785
-- content: intelligent level
-- content: interfaces
+- content: Smart home
 - content: reference model
-- content: smart home
+- content: architectural framework
+- content: interfaces
+- content: intelligent level
 doctype: standard
 editorialgroup:
   committee:
   - Emerging Technology Standards Committee of the IEEE Consumer Technology Society
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

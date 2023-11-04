@@ -1,0 +1,120 @@
+---
+schema-version: v1.2.3
+id: IEEE1849-2023
+title:
+- content: IEEE Standard for eXtensible Event Stream (XES) for Achieving Interoperability
+    in Event Logs and Event Streams
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10267858
+  type: src
+type: standard
+docid:
+- id: IEEE 1849-2023
+  type: IEEE
+  primary: true
+- id: IEEE 1849™-2023
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-1-5044-9805-0
+  type: ISBN
+- id: 10.1109/IEEESTD.2023.10267858
+  type: DOI
+docnumber: IEEE 1849-2023
+date:
+- type: created
+  value: '2023'
+- type: published
+  value: '2023-09-29'
+- type: issued
+  value: '2023-06-05'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2023-09-29'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: A grammar for a tag-based language whose aim is to provide designers of
+    information systems with a unified and extensible methodology for capturing systems’
+    behaviors by means of event logs and event streams is defined in the XES standard.
+    An “XML Schema” describing the structure of an XES event log/stream and an “XML
+    Schema” describing the structure of an extension of such a log/stream are included
+    in this standard. Moreover, a basic collection of so-called “XES extension” prototypes
+    that provide semantics to certain attributes as recorded in the event log/stream
+    is included in this standard.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2023'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1849-2016
+    docid:
+    - id: IEEE 1849-2016
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1849-2016
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Event detection
+- content: System analysis and design
+- content: Behavioral sciences
+- content: XML
+- content: event log
+- content: event stream
+- content: extensions
+- content: IEEE 1849&#8482;
+- content: system behavior
+- content: XML
+doctype: standard
+editorialgroup:
+  committee:
+  - Standards Committee of the IEEE Computational Intelligence Society
+ics:
+- code: 35.240.50
+  text: IT applications in industry
+- code: 35.240.80
+  text: IT applications in health care technology
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Approved
+  pubstatus: Active
+  holdstatus: Publish

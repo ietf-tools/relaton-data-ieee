@@ -1,0 +1,119 @@
+---
+schema-version: v1.2.3
+id: IEC61523.4-2023
+title:
+- content: 'IEEE/IEC International Standard--Delay and power calculation standards--Part
+    4: Design and Verification of Low-Power, Energy-Aware Electronic Systems'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10287904
+  type: src
+type: standard
+docid:
+- id: IEC 61523.4-2023
+  type: IEEE
+  primary: true
+- id: IEC 61523.4™-2023
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-0209-5
+  type: ISBN
+- id: 10.1109/IEEESTD.2023.10287904
+  type: DOI
+docnumber: IEC 61523.4-2023
+date:
+- type: created
+  value: '2023-10-18'
+- type: published
+  value: '2023-10-18'
+- type: issued
+  value: '2023'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2023-10-18'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: A method is provided for specifying power intent for an electronic design,
+    for use in verification of the structure and behavior of the design in the context
+    of a given power-management architecture, and for driving implementation of that
+    power-management architecture. The method supports incremental refinement of power
+    intent specifications required for IP-based design flows.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  - name:
+    - content: IEC
+  from: '2023'
+relation:
+- type: adoptedFrom
+  bibitem:
+    id: IEEE1801-2018
+    docid:
+    - id: IEEE 1801-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1801-2018
+      format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Low-power electronics
+- content: System verification
+- content: Electronic equipment
+- content: IEC Standards
+- content: Electronic design automation and methodology
+- content: corruption semantics
+- content: IEEE 1801&#8482;
+- content: interface specification
+- content: IP reuse
+- content: isolation
+- content: level-shifting
+- content: power-aware design
+- content: power domains
+- content: power intent
+- content: power modes
+- content: power states
+- content: progressive design refinement
+- content: retention
+- content: retention strategies
+doctype: standard
+editorialgroup:
+  committee:
+  - Design Automation of the IEEE Computer Society
+ics:
+- code: '31.200'
+  text: Integrated circuits. Microelectronics
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Approved
+  pubstatus: Active
+  holdstatus: Publish

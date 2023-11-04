@@ -6,7 +6,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8686828
+- content: https://ieeexplore.ieee.org/document/159357
   type: src
 type: standard
 docid:
@@ -19,14 +19,12 @@ docid:
   primary: true
 - id: 978-0-7381-4400-9
   type: ISBN
-- id: 10.1109/IEEESTD.1994.8686828
+- id: 10.1109/IEEESTD.1989.101066
   type: DOI
 docnumber: IEEE 716-1989
 date:
 - type: created
-  value: '1994-11-30'
-- type: published
-  value: '2019-04-10'
+  value: '1989'
 - type: issued
   value: '1989-03-08'
 contributor:
@@ -42,16 +40,24 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2019-04-10'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Superseded by 716-1995. Common ATLAS (C/ATLAS), a high-order language for
-    testing is defined. C/ATLAS is designed to describe tests in terms that are independent
-    of any specific test system. It has been constrained to ensure that it can be
-    implemented on automatic test equipment.
+- content: IEEE Std 716-1989 defines IEEE Common ATLAS (C/ATLAS), a high-order language
+    for testing on Automatic Test Equipment (ATE). C/ATLAS is a widely acceptable
+    programming language. Its single and unique construct expresses each language
+    facility selected, to support structured programming equipment. The C/ATLAS language
+    is designed to describe tests for implementation on ATE in terms that are independent
+    of any specific test systems. C/ATLAS defines an operational standard, which is
+    based on the language defined by ANSI/IEEE Std 416-1984, Standard ATLAS Test Language.
+    Abbreviated Test Language for All Systems (ATLAS) is a test-oriented language
+    for expressing test specifications and test procedures. IEEE Std 716-1989 describes
+    the language used for writing Units Under Test (UUT) programs, so that these programs
+    can operate on various makes and models of ATE, IEEE Std 716-1989 includes the
+    required portion that forms the common basis of all ATLAS subsets, and the optional
+    elements, such as nouns, noun modifiers, and units.<<ETX>>
   language:
   - en
   script:
@@ -76,23 +82,10 @@ relation:
     formattedref:
       content: IEEE 716-1995
       format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEE716-1995
-    docid:
-    - id: IEEE 716-1995
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 716-1995
-      format: text/plain
 keyword:
-- content: Testing
-- content: Computer languages
-- content: C/ATLAS
-- content: test
-- content: language
-- content: C
+- content: IEEE standards
+- content: High-level languages
+- content: Automatic test equipment
 doctype: standard
 editorialgroup:
   committee:

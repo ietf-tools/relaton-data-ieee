@@ -28,7 +28,7 @@ date:
 - type: created
   value: '2007-01-15'
 - type: published
-  value: '2013-10-09'
+  value: '2007-01-22'
 - type: issued
   value: '2007'
 contributor:
@@ -44,7 +44,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2013-10-09'
+revdate: '2007-01-22'
 language:
 - en
 script:
@@ -67,6 +67,17 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2007'
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: ANSIC63.17-2013
+    docid:
+    - id: ANSI C63.17-2013
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI C63.17-2013
+      format: text/plain
 keyword:
 - content: Consumer electronics
 - content: ANSI

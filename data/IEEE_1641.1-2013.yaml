@@ -24,8 +24,6 @@ docid:
   type: DOI
 docnumber: IEEE 1641.1-2013
 date:
-- type: updated
-  value: '2013-07-19'
 - type: created
   value: '2013'
 - type: published
@@ -39,6 +37,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2013-06-06'
@@ -68,6 +70,40 @@ copyright:
     url: http://www.ieee.org
   from: '2013'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE1641.1-2006
+    docid:
+    - id: IEEE 1641.1-2006
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1641.1-2006
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1641.1-2006
+    docid:
+    - id: IEEE 1641.1-2006
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1641.1-2006
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE1641.1-2006

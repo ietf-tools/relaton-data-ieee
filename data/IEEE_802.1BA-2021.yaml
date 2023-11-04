@@ -2,13 +2,12 @@
 schema-version: v1.2.3
 id: IEEE802.1BA-2021
 title:
-- content: 'ISO/IEC/IEEE International Standard--Information technology -- Telecommunications
-    and information exchange between systems -- Local and metropolitan area networks
-    -- Specific requirements -- Part 1BA: Audio video bridging (AVB) systems'
+- content: IEEE Standard for Local and Metropolitan Area Networks--Audio Video Bridging
+    (AVB) Systems
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/10108543
+- content: https://ieeexplore.ieee.org/document/9653970
   type: src
 type: standard
 docid:
@@ -19,18 +18,18 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-9679-7
+- id: 978-1-5044-8239-4
   type: ISBN
-- id: 10.1109/IEEESTD.2023.10108543
+- id: 10.1109/IEEESTD.2021.9653970
   type: DOI
 docnumber: IEEE 802.1BA-2021
 date:
 - type: created
-  value: '2023'
+  value: '2021-12-17'
 - type: published
-  value: '2023-04-26'
+  value: '2021-12-16'
 - type: issued
-  value: '2023'
+  value: '2021-12-08'
 contributor:
 - organization:
     name:
@@ -44,7 +43,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-04-26'
+revdate: '2021-12-16'
 language:
 - en
 script:
@@ -53,7 +52,8 @@ abstract:
 - content: Profiles that select features, options, configurations, defaults, protocols,
     and procedures of bridges, stations, and LANs that are necessary to build networks
     that are capable of transporting time-sensitive audio and/or video data streams
-    are defined in this standard.
+    are defined in this standard. The PDF of this standard is available at no cost
+    via the IEEE GET program at https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=68
   language:
   - en
   script:
@@ -88,17 +88,115 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.1BA-2011
+    docid:
+    - id: IEEE 802.1BA-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1BA-2011
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.1BA-2011
+    docid:
+    - id: IEEE 802.1BA-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1BA-2011
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.1BA-2011
+    docid:
+    - id: IEEE 802.1BA-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1BA-2011
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.1BA-2011
+    docid:
+    - id: IEEE 802.1BA-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1BA-2011
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.1BA-2011
+    docid:
+    - id: IEEE 802.1BA-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1BA-2011
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.1BA-2011
+    docid:
+    - id: IEEE 802.1BA-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1BA-2011
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
-- content: ISO Standards
-- content: IEC Standards
-- content: Information technology
 - content: Local area networks
 - content: Metropolitan area networks
 - content: Bridge circuits
+- content: VIrtual LAN
 - content: Audio-visual systems
-- content: Information exchange
-- content: Streaming media
 - content: audio video bridging
 - content: AVB
 - content: Bridged Local Area Networks

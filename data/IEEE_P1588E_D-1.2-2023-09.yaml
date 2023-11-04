@@ -1,0 +1,111 @@
+---
+schema-version: v1.2.3
+id: IEEEP1588e-D-1.2-2023-09
+title:
+- content: 'IEEE Draft Standard for a Precision Clock Synchronization Protocol for
+    Networked Measurement and Control Systems Amendment: MIB and YANG Data Models'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10258025
+  type: src
+type: standard
+docid:
+- id: IEEE P1588e/D-1.2-2023-09
+  type: IEEE
+  primary: true
+- id: IEEE P1588e™/D-1.2-2023-09
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-0109-8
+  type: ISBN
+docnumber: IEEE P1588e/D-1.2-2023-09
+date:
+- type: created
+  value: '2023'
+- type: published
+  value: '2023-09-20'
+- type: issued
+  value: '2023'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2023-09-20'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This draft standard is an amendment of IEEE Std 1588&#8482;-2019. This
+    amendment identifies the structure and content of the IEEE 1588 MIB and YANG modules.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: draft
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2023'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1588-2019
+    docid:
+    - id: IEEE 1588-2019
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1588-2019
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Synchronization
+- content: Clocks
+- content: Control systems
+- content: Precision engineering
+- content: Protocols
+- content: Networked control systems
+- content: Management
+- content: PTP
+- content: MIB
+- content: YANG
+- content: Management
+doctype: standard
+editorialgroup:
+  committee:
+  - TC9 - Sensor Technology of the IEEE Instrumentation and Measurement Society
+ics:
+- code: 39.040.99
+  text: Other time-measuring instruments
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

@@ -25,6 +25,8 @@ docnumber: IEEE P802.16.1b/D-3-2012-04
 date:
 - type: created
   value: '2012'
+- type: published
+  value: '2012-04-09'
 - type: issued
   value: '2012-04-07'
 contributor:
@@ -36,10 +38,11 @@ contributor:
     url: http://www.ieee.org
     contact:
     - address:
-        city: Piscataway
+        city: New York
         country: USA
   role:
   - type: publisher
+revdate: '2012-04-09'
 language:
 - en
 script:
@@ -67,6 +70,23 @@ copyright:
     url: http://www.ieee.org
   from: '2012'
 relation:
+- type: updates
+  bibitem:
+    id: IEEEP802.16.1-D-4-2012-02
+    docid:
+    - id: IEEE P802.16.1/D-4-2012-02
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE P802.16.1/D-4-2012-02
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEEP802.16.1-D-4-2012-02

@@ -97,16 +97,23 @@ relation:
     formattedref:
       content: IEEE C57.13-2008
       format: text/plain
-- type: obsoletedBy
+- type: updates
   bibitem:
-    id: IEEEC57.13-2008
+    id: ANSI-IEEEC57.13-1978
     docid:
-    - id: IEEE C57.13-2008
+    - id: ANSI/IEEE C57.13-1978
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE C57.13-2008
+      content: ANSI/IEEE C57.13-1978
       format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Transformers

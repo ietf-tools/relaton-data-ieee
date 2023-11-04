@@ -1,0 +1,124 @@
+---
+schema-version: v1.2.3
+id: IEEE1857-2023
+title:
+- content: IEEE Standard for Advanced Audio and Video Coding
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10289687
+  type: src
+type: standard
+docid:
+- id: IEEE 1857-2023
+  type: IEEE
+  primary: true
+- id: IEEE 1857™-2023
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-1-5044-9803-6
+  type: ISBN
+- id: 10.1109/IEEESTD.2023.10289687
+  type: DOI
+docnumber: IEEE 1857-2023
+date:
+- type: created
+  value: '2023-10-25'
+- type: published
+  value: '2023-10-20'
+- type: issued
+  value: '2023-06-05'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2023-10-20'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This standard defines a set of tools for efficient video coding, including
+    directional intraprediction, variable block size inter prediction and context
+    adaptive binary arithmetic coding and the corresponding decoding procedure. The
+    target applications and services include but not limited TV over Internet, User
+    Generated Multimedia Content, IP-based video conference, IP-based surveillance
+    and other video/audio enabled services and applications such as digital television
+    broadcasting, digital storage media, and communication.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2023'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1857-2013
+    docid:
+    - id: IEEE 1857-2013
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1857-2013
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: block
+- content: coefficients
+- content: decoding
+- content: encoding
+- content: entropy coding
+- content: field
+- content: frame
+- content: IEEE 1857
+- content: image
+- content: inter prediction
+- content: intra prediction
+- content: IPTV
+- content: macroblock
+- content: picture
+- content: quantization
+- content: slice
+- content: transform
+doctype: standard
+editorialgroup:
+  committee:
+  - Data Compression Standards Committee of the IEEE Computer Society
+ics:
+- code: 33.040.40
+  text: Data communication networks
+- code: '35.040'
+  text: Information coding
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Approved
+  pubstatus: Active
+  holdstatus: Publish

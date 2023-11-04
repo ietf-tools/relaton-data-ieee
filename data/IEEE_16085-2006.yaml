@@ -27,7 +27,7 @@ date:
 - type: created
   value: '2006-12-15'
 - type: published
-  value: '2014-09-05'
+  value: '2007-01-22'
 - type: issued
   value: '2006-12-06'
 contributor:
@@ -43,7 +43,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2014-09-05'
+revdate: '2007-01-22'
 language:
 - en
 script:
@@ -57,9 +57,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -68,6 +65,17 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2006'
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: ISO-IEC-IEEE16085-2021
+    docid:
+    - id: ISO/IEC/IEEE 16085-2021
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ISO/IEC/IEEE 16085-2021
+      format: text/plain
 keyword:
 - content: ISO Standards
 - content: IEC Standards
@@ -90,7 +98,6 @@ ics:
   text: Software
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Superseded
   pubstatus: Active
   holdstatus: Publish

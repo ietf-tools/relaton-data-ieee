@@ -23,11 +23,11 @@ docid:
 docnumber: IEEE P11073.10471/D-1-2018-11
 date:
 - type: created
-  value: '2018-01-01'
+  value: '2018-11-07'
 - type: published
   value: '2018-11-13'
 - type: issued
-  value: '2018'
+  value: '2023-03-30'
 contributor:
 - organization:
     name:
@@ -46,6 +46,23 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: Within the context of the ISO/IEEE 11073 family of standards for device
+    communication, a normative definition of communication between personal telehealth
+    independent living activity hub devices and compute engines (e.g., cell phones,
+    personal computers, personal health appliances, set top boxes) in a manner that
+    enables plug-and-play interoperability is established in this standard. Appropriate
+    portions of existing standards, including ISO/IEEE 11073 terminology, information
+    models, application profile standards, and transport standards are leveraged.
+    The use of specific term codes, formats, and behaviors in telehealth environments
+    restricting optionality in base frameworks in favor of interoperability are specified.
+    A common core of communication functionality for personal telehealth independent
+    living activity hubs is defined in this standard.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -75,11 +92,29 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE11073.10471-2008
+    docid:
+    - id: IEEE 11073.10471-2008
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 11073.10471-2008
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Medical devices
 - content: Biomedical monitoring
 - content: Patient monitoring
+- content: IEEE 11073-10471
 - content: independent living activity hub
 - content: medical device communication
 - content: personal health devices
@@ -91,11 +126,9 @@ editorialgroup:
 ics:
 - code: 35.240.80
   text: IT applications in health care technology
-- code: 11.040.55
-  text: Diagnostic equipment
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

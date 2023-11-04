@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: IEEEP404-D-2-2022-02
 title:
-- content: IEEE Approved Draft Standard for Extruded and Laminated Dielectric Shielded
-    Cable Joints Rated 2.5 kV to 500 kV
+- content: IEEE Draft Standard for Extruded and Laminated Dielectric Shielded Cable
+    Joints Rated 2.5 kV to 500 kV
   format: text/plain
   type: main
 link:
@@ -23,11 +23,11 @@ docid:
 docnumber: IEEE P404/D-2-2022-02
 date:
 - type: created
-  value: '2022-11-15'
+  value: '2022-08-18'
 - type: published
   value: '2022-08-19'
 - type: issued
-  value: '2022-11-08'
+  value: '2022'
 contributor:
 - organization:
     name:
@@ -74,6 +74,40 @@ copyright:
 relation:
 - type: updates
   bibitem:
+    id: IEEE400-2012
+    docid:
+    - id: IEEE 400-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 400-2012
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE404-2012
+    docid:
+    - id: IEEE 404-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 404-2012
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
     id: IEEE404-2012
     docid:
     - id: IEEE 404-2012
@@ -115,7 +149,7 @@ ics:
   text: Connecting devices
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

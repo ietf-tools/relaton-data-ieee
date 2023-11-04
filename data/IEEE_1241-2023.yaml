@@ -1,0 +1,130 @@
+---
+schema-version: v1.2.3
+id: IEEE1241-2023
+title:
+- content: IEEE Standard for Terminology and Test Methods for Analog-to-Digital Converters
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10269815
+  type: src
+type: standard
+docid:
+- id: IEEE 1241-2023
+  type: IEEE
+  primary: true
+- id: IEEE 1241™-2023
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-1-5044-9690-2
+  type: ISBN
+- id: 10.1109/IEEESTD.2023.10269815
+  type: DOI
+docnumber: IEEE 1241-2023
+date:
+- type: created
+  value: '2023-10-06'
+- type: published
+  value: '2023-10-04'
+- type: issued
+  value: '2023-06-05'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2023-10-04'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The material presented in this standard is intended to provide common terminology
+    and test methods for the testing and evaluation of analog-to-digital converters
+    (ADCs). This standard considers only those ADCs whose output values are extracted
+    (sampled) and then digitized at known time intervals. In general, this quantization
+    is assumed to be nominally uniform (the input-output transfer curve is approximately
+    a straight line) and the sampling is assumed to be at a nominally uniform rate.
+    Some but not all of the test methods in this standard can be used for ADCs that
+    are designed for non-uniform quantization.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2023'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1241-2010
+    docid:
+    - id: IEEE 1241-2010
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1241-2010
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: AC-DC power converters
+- content: Histograms
+- content: Noise measurement
+- content: Error analysis
+- content: ADC
+- content: analog-to-digital converter
+- content: code transition level
+- content: coherent sampling
+- content: DNL
+- content: ENOB
+- content: histogram
+- content: IEEE 1241&#8482;
+- content: INL
+- content: LSB
+- content: missing codes
+- content: noise power ratio
+- content: noncoherent sampling
+- content: quantization error
+- content: quantization noise
+- content: SAR
+- content: SFDR
+- content: sine fitting
+doctype: standard
+editorialgroup:
+  committee:
+  - TC10 - Waveform Generation Measurement and Analysis of the IEEE Instrumentation
+    and Measurement Society
+ics:
+- code: '31.200'
+  text: Integrated circuits. Microelectronics
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Approved
+  pubstatus: Active
+  holdstatus: Publish

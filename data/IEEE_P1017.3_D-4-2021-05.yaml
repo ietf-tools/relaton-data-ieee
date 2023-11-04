@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: IEEEP1017.3-D-4-2021-05
 title:
-- content: IEEE Approved Draft Recommended Practice for Specifying Electric Submersible
-    Pump Cable--Polypropylene Insulation
+- content: IEEE Draft Recommended Practice for Specifying Electric Submersible Pump
+    Cable--Polypropylene Insulation
   format: text/plain
   type: main
 link:
@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2021-06-07'
 - type: issued
-  value: '2021-09-23'
+  value: '2021'
 contributor:
 - organization:
     name:
@@ -51,11 +51,10 @@ abstract:
     purchasing, and application of electric submersible pump cable are presented.
     The cable is round or flat, with polypropylene insulation, nitrile or polypropylene
     jacket, or metallic barrier or armor. These cables are for voltages not exceeding
-    8 kV (phase to phase) and conductor temperatures not exceeding 96 &#176;C (205
-    &#176;F) maximum or &#8211;10 &#176;C (14 &#176;F) minimum. Conductors, insulation,
-    barrier(optional), assembly with or without jacket, and armor or encapsulating
-    material, requirements for testing by the manufacturer, and cable ampacity are
-    all covered in the document.
+    8 kV (phase to phase) and conductor temperatures not exceeding 96 ºC (205 ºF)
+    maximum or &#8211;10 ºC (14 ºF) minimum. Conductors, insulation, barrier(optional),
+    assembly with or without jacket, and armor or encapsulating material, requirements
+    for testing by the manufacturer, and cable ampacity are all covered in the document.
   language:
   - en
   script:
@@ -90,6 +89,23 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1019-2013
+    docid:
+    - id: IEEE 1019-2013
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1019-2013
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Cable insulation
@@ -101,24 +117,21 @@ keyword:
 - content: cable construction
 - content: cable testing
 - content: electric submersible pump
-- content: EPDM
-- content: ESP
 - content: ESP cable
-- content: ethylene--propylene diene monomer
-- content: IEEE 1017.3&#8482;
+- content: IEEE1017.3
 - content: IEEE 1019&#8482;
-- content: polypropylene
 - content: submersible pump cable
+- content: polypropylene
 doctype: standard
 editorialgroup:
   committee:
-  - Petroleum and Chemical Industry of the IEEE Industry Applications Society
+  - Petroleum &amp; Chemical Industry of the IEEE Industry Applications Society
 ics:
 - code: 29.060.20
   text: Cables
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

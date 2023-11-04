@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: IEEEP802.3cy-D-3.2-2023-03
 title:
-- content: 'IEEE Draft Standard for Ethernet - Amendment 8: Physical Layer Specifications
-    and Management Parameters 25 Gb/s Electrical Automotive Ethernet'
+- content: 'IEEE Approved Draft Standard for Ethernet - Amendment 8: Physical Layer
+    Specifications and Management Parameters 25 Gb/s Electrical Automotive Ethernet'
   format: text/plain
   type: main
 link:
@@ -23,11 +23,11 @@ docid:
 docnumber: IEEE P802.3cy/D-3.2-2023-03
 date:
 - type: created
-  value: '2023'
+  value: '2023-08-09'
 - type: published
-  value: '2023-03-29'
+  value: '2023-03-28'
 - type: issued
-  value: '2023'
+  value: '2023-06-29'
 contributor:
 - organization:
     name:
@@ -41,7 +41,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-03-29'
+revdate: '2023-03-28'
 language:
 - en
 script:
@@ -84,14 +84,32 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.3-2022
+    docid:
+    - id: IEEE 802.3-2022
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3-2022
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Ethernet
 - content: Physical layer
 - content: Media Access Protocol
 - content: Automotive engineering
-- content: 25GBASE-T1; Automotive Ethernet; IEEE Std 802.3cy&#8482;; Medium Dependent
-    Interface; Physical Coding Sublayer; Physical Layer; Physical Medium Attachment.
+- content: 25GBASE-T1; amendment; automotive Ethernet; IEEE 802.3; IEEE 802.3cy; Medium
+    Dependent Interface; Physical Coding Sublayer; Physical Layer; Physical Medium
+    Attachment
 doctype: standard
 editorialgroup:
   committee:
@@ -103,7 +121,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

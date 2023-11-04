@@ -74,6 +74,16 @@ copyright:
     url: http://www.ieee.org
   from: '2000'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEEC37.09-2018
+    docid:
+    - id: IEEE C37.09-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.09-2018
+      format: text/plain
 - type: updates
   bibitem:
     id: ANSI-IEEEC37.09-1979
@@ -91,16 +101,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEEC37.09-2018
-    docid:
-    - id: IEEE C37.09-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.09-2018
-      format: text/plain
 keyword:
 - content: Circuit breakers
 - content: fast transient recovery voltage

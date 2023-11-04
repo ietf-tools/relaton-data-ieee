@@ -48,7 +48,7 @@ script:
 - Latn
 abstract:
 - content: This corrigendum provides corrections to typographical errors in two equations
-    of 516-2021.
+    from 516-2021.
   language:
   - en
   script:
@@ -83,10 +83,33 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE516-2021
+    docid:
+    - id: IEEE 516-2021
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 516-2021
+      format: text/plain
+  description:
+    content: corrects
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Maintenance engineering
 - content: Power transmission lines
+- content: energized
+- content: equipment
+- content: IEEE 516&#8482;
+- content: maintenance
+- content: power lines
+- content: tools
 doctype: standard
 editorialgroup:
   committee:
@@ -96,7 +119,7 @@ ics:
   text: Power transmission and distribution lines
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

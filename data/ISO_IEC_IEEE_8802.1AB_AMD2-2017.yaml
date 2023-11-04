@@ -1,0 +1,119 @@
+---
+schema-version: v1.2.3
+id: ISO-IEC-IEEE8802.1AB-Amd2-2017
+title:
+- content: 'IEEE/ISO/IEC International Standard--Information technology--Telecommunications
+    and information exchange between systems--Local and metropolitan area networks--Specific
+    requirements--Part 1AB: Station and media access control connectivity discovery
+    AMENDMENT 2: Support for multiframe protocol data units'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10235751
+  type: src
+type: standard
+docid:
+- id: ISO/IEC/IEEE 8802.1AB/Amd2-2017
+  type: IEEE
+  primary: true
+- id: ISO/IEC/IEEE 8802.1AB™/Amd2-2017
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-0042-8
+  type: ISBN
+- id: 10.1109/IEEESTD.2023.10235751
+  type: DOI
+docnumber: ISO/IEC/IEEE 8802.1AB/Amd2-2017
+date:
+- type: created
+  value: '2023-08-30'
+- type: published
+  value: '2023-08-30'
+- type: issued
+  value: '2023'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2023-08-30'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'Abstract: This amendment to IEEE Std 802.1AB&#8482;-2016 specifies protocols,
+    procedures, and managed objects that support the transmission and reception of
+    a set of Link Layer Discovery Protocol (LLDP) Type/Length/Values (TLVs) that exceed
+    the space available in a single frame.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  - name:
+    - content: ISO
+  - name:
+    - content: IEC
+  from: '2023'
+relation:
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.1ABdh-2021
+    docid:
+    - id: IEEE 802.1ABdh-2021
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1ABdh-2021
+      format: text/plain
+keyword:
+- content: IEEE Standards
+- content: ISO Standards
+- content: IEC Standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Information exchange
+- content: Information technology
+- content: Knowledge discovery
+- content: Media Access Protocol
+- content: IEEE 802&#174;
+- content: IEEE 802.1AB&#8482;
+- content: IEEE 802.1ABdh&#8482;
+- content: link layer discovery protocol
+- content: management information base
+- content: multiframe LLDPDUs
+- content: topology discovery
+- content: topology information
+doctype: standard
+editorialgroup:
+  committee:
+  - LAN/MAN Standards Committee of the IEEE Computer Society
+ics:
+- code: '35.110'
+  text: Networking
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Approved
+  pubstatus: Active
+  holdstatus: Publish

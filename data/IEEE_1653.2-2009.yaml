@@ -7,7 +7,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/9151320
+- content: https://ieeexplore.ieee.org/document/5398723
   type: src
 type: standard
 docid:
@@ -20,12 +20,14 @@ docid:
   primary: true
 - id: 978-0-7381-6121-1
   type: ISBN
+- id: 10.1109/IEEESTD.2009.5398723
+  type: DOI
 docnumber: IEEE 1653.2-2009
 date:
+- type: updated
+  value: '2010-03-12'
 - type: created
-  value: '2010-01-22'
-- type: published
-  value: '2020-07-28'
+  value: '2009-01-22'
 - type: issued
   value: '2009-11-09'
 contributor:
@@ -37,15 +39,18 @@ contributor:
     url: http://www.ieee.org
   role:
   - type: publisher
-revdate: '2020-07-28'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Design, manufacturing, and testing unique to the application of uncontrolled
-    semiconductor power rectifiers for dc supplied transportation substation applications
-    up to 1500 V dc nominal output are covered in this standard.
+- content: The design, manufacturing, and testing unique to the application of uncontrolled
+    semiconductor power rectifiers for direct current (dc) supplied transportation
+    substation applications up to 1500 V dc nominal output is covered in this standard.
+    The standard is intended to address traction power substation rectifiers that
+    are to be provided as part of a rectifier transformer unit or are provided separately.
+    Application information and extensive definitions of related technical terms are
+    included.
   language:
   - en
   script:
@@ -81,22 +86,9 @@ relation:
       content: IEEE 1653.2-2020
       format: text/plain
 keyword:
-- content: IEEE Standards
-- content: Power Transformers
-- content: Rectifiers
-- content: Substations
-- content: Load management
-- content: 1653.2-200
-- content: commutating reactance
-- content: double-way
-- content: extra heavy traction
-- content: heavy traction
-- content: interphase transformer
-- content: light transition load
-- content: power rectifier
-- content: rectifier transformer unit
-- content: service rating
-- content: traction power substation
+- content: commutating reactance, double-way, extra heavy traction, heavy traction,
+    interphase transformer, light transition load, power rectifier, rectifier transformer
+    unit, service rating, traction power substation
 doctype: standard
 editorialgroup:
   committee:

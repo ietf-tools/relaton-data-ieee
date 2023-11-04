@@ -1,0 +1,127 @@
+---
+schema-version: v1.2.3
+id: IEEE1857.2-2023
+title:
+- content: IEEE Standard for Advanced Audio Coding
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10258051
+  type: src
+type: standard
+docid:
+- id: IEEE 1857.2-2023
+  type: IEEE
+  primary: true
+- id: IEEE 1857.2™-2023
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-1-5044-9801-2
+  type: ISBN
+- id: 10.1109/IEEESTD.2023.10258051
+  type: DOI
+docnumber: IEEE 1857.2-2023
+date:
+- type: created
+  value: '2023'
+- type: published
+  value: '2023-09-20'
+- type: issued
+  value: '2023-06-05'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2023-09-20'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: A set of tools to support specific audio coding functions including general
+    audio coding and lossless audio coding are defined in this standard. The tool
+    set defined in combination provides regular high-quality and efficient coding
+    tool sets for compression, decompression, processing, and representing of audio
+    data to save bandwidth for transmission; to save space for storage; to speed up
+    indexing and multimedia search; and to enhance performance when using mixed media
+    for virtual reality and other applications that demand high bandwidth. The target
+    applications and services include but are not limited to audio transmission, audio
+    recording, Internet streaming, and other video/audio-enabled services and applications.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2023'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1857.2-2013
+    docid:
+    - id: IEEE 1857.2-2013
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1857.2-2013
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Audio coding
+- content: Entropy coding
+- content: Vector quantization
+- content: Scalability
+- content: audio coding
+- content: bitplane coding
+- content: entropy coding
+- content: IEEE 1857.2&#8482;
+- content: lossless coding
+- content: LPC
+- content: PQ-SPSC
+- content: scalable coding
+- content: vector quantization
+doctype: standard
+editorialgroup:
+  committee:
+  - Data Compression Standards Committee of the IEEE Computer Society
+ics:
+- code: 33.040.40
+  text: Data communication networks
+- code: '35.040'
+  text: Information coding
+- code: 29.240.01
+  text: Power transmission and distribution networks in general
+- code: 91.140.50
+  text: Electricity supply systems
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Approved
+  pubstatus: Active
+  holdstatus: Publish

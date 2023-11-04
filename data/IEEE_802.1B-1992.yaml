@@ -1,0 +1,93 @@
+---
+schema-version: v1.2.3
+id: IEEE802.1B-1992
+title:
+- content: 'LAN/MAN Management. IEEE Standards for Local and Metropolitan Area Networks:'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/210898
+  type: src
+type: standard
+docid:
+- id: IEEE 802.1B-1992
+  type: IEEE
+  primary: true
+- id: IEEE 802.1B®-1992
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 0-7381-4410-X
+  type: ISBN
+- id: 10.1109/IEEESTD.1992.114371
+  type: DOI
+docnumber: IEEE 802.1B-1992
+date:
+- type: created
+  value: '1992'
+- type: published
+  value: '2002-08-06'
+- type: issued
+  value: '1992-09-17'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2002-08-06'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Services and protocol elements that permit the exchange of management information
+    between stations attached to IEEE 802 local and metropolitan area networks are
+    defined. The standard includes the specification of managed objects that permit
+    the operation of the protocol elements to be remotely managed.<<ETX>>
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '1992'
+keyword:
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Protocols
+- content: Communication system operations and management
+- content: Communication standards
+doctype: standard
+editorialgroup:
+  committee:
+  - Technical Committee on Computer Communications of the IEEE Computer Society
+ics:
+- code: 35.100.10
+  text: Physical layer
+- code: 35.100.20
+  text: Data link layer
+- code: '35.110'
+  text: Networking
+ext:
+  schema-version: v1.0.0
+  standard_status: Inactive
+  standard_modified: Withdrawn
+  pubstatus: Active
+  holdstatus: Publish

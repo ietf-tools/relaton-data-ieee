@@ -24,8 +24,6 @@ docid:
   type: DOI
 docnumber: IEEE C57.147-2018
 date:
-- type: updated
-  value: '2020-09-25'
 - type: created
   value: '2018'
 - type: published
@@ -90,6 +88,23 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC57.147-2008
+    docid:
+    - id: IEEE C57.147-2008
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C57.147-2008
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Dielectrics
@@ -98,7 +113,7 @@ keyword:
 - content: Oil insulation
 - content: dielectric coolant
 - content: high fire point liquid
-- content: IEEE C57.147&#8482;
+- content: IEEE C57.147
 - content: insulating liquid
 - content: less flammable liquid
 - content: natural ester liquid

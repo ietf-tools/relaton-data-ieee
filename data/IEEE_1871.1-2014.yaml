@@ -26,8 +26,6 @@ docid:
   type: DOI
 docnumber: IEEE 1871.1-2014
 date:
-- type: updated
-  value: '2015-02-27'
 - type: created
   value: '2015-02-10'
 - type: published
@@ -41,6 +39,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2015-02-11'
@@ -49,14 +51,14 @@ language:
 script:
 - Latn
 abstract:
-- content: This recommended practice provides Instrument Description templates, compliant
+- content: 'This recommended practice provides Instrument Description templates, compliant
     with IEEE 1671.2, that providers of synthetic instruments should use to describe
     waveform generators, digitizers, external local oscillators, and up and down converter.
     Instrument Description templates, compliant with IEEE Std 1671.2-2012, that providers
     of synthetic instruments should use to describe waveform generators, digitizers,
     external local oscillators, and up and down converters are provided in this recommended
     practice. These synthetic instruments may be integrated in an automatic test system
-    (ATS) that is to be used to test and diagnose a unit under test (UUT).
+    (ATS) that is to be used to test and diagnose a unit under test (UUT). '
   language:
   - en
   script:

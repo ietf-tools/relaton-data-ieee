@@ -1,0 +1,123 @@
+---
+schema-version: v1.2.3
+id: IEEE802.1Qcz-2023
+title:
+- content: 'IEEE Standard for Local and Metropolitan Area Networks--Bridges and Bridged
+    Networks -- Amendment 35: Congestion Isolation'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10205964
+  type: src
+type: standard
+docid:
+- id: IEEE 802.1Qcz-2023
+  type: IEEE
+  primary: true
+- id: IEEE 802.1Qcz®-2023
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-1-5044-9809-8
+  type: ISBN
+- id: 10.1109/IEEESTD.2023.10205964
+  type: DOI
+docnumber: IEEE 802.1Qcz-2023
+date:
+- type: created
+  value: '2023-08-04'
+- type: published
+  value: '2023-08-02'
+- type: issued
+  value: '2023-06-05'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2023-08-02'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This amendment to IEEE Std 802.1Q&#8482;-2022 specifies protocols, procedures,
+    and managed objects that support the isolation of congesting data flows within
+    data center environments.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2023'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE802.1Q-2022
+    docid:
+    - id: IEEE 802.1Q-2022
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1Q-2022
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Bridge circuits
+- content: Telecommunication congestion control
+- content: Data centers
+- content: Media Access Protocol
+- content: amendment
+- content: Bridged Local Area Networks
+- content: congestion
+- content: congestion isolation
+- content: Data Center Bridging
+- content: flow control
+- content: IEEE 802.1Q&#8482;
+- content: IEEE 802.1Qcz&#8482;
+- content: LANs
+- content: Local Area Networks
+- content: MAC Bridges
+- content: priority
+- content: Virtual Bridged Local Area Networks
+- content: virtual LANs
+doctype: standard
+editorialgroup:
+  committee:
+  - LAN/MAN Standards Committee of the IEEE Computer Society
+ics:
+- code: '35.110'
+  text: Networking
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Approved
+  pubstatus: Active
+  holdstatus: Publish

@@ -6,7 +6,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/6182605
+- content: https://ieeexplore.ieee.org/document/8970105
   type: src
 type: standard
 docid:
@@ -19,14 +19,14 @@ docid:
   primary: true
 - id: 978-0-7381-1206-0
   type: ISBN
-- id: 10.1109/IEEESTD.2012.6182605
+- id: 10.1109/IEEESTD.2001.8970105
   type: DOI
 docnumber: IEEE 1596-1992
 date:
-- type: updated
-  value: '2012-04-27'
 - type: created
-  value: '2012'
+  value: '2001-05-23'
+- type: published
+  value: '2020-01-24'
 - type: issued
   value: '1992-03-19'
 contributor:
@@ -38,6 +38,7 @@ contributor:
     url: http://www.ieee.org
   role:
   - type: publisher
+revdate: '2020-01-24'
 language:
 - en
 script:
@@ -45,7 +46,7 @@ script:
 abstract:
 - content: The scalable coherent interface (SCI) provides computer-bus-like services
     but, instead of a bus, uses a collection of fast point-to-point unidirectional
-    links to provide the far higher through- put needed for high-performance multiprocessor
+    links to provide the far higher throughput needed for high-performance multiprocessor
     systems. SCI supports distributed, shared memory with optional cache coherence
     for tightly coupled systems, and message-passing for loosely coupled systems.
     Initial SCI links are defined at 1 Gbyte/s (16-bit parallel) and 1 Gb/s (serial).
@@ -71,33 +72,23 @@ copyright:
     url: http://www.ieee.org
   from: '1992'
 keyword:
-- content: IEEE standards
-- content: Optical fiber communication
-- content: Distributed processing
-- content: System buses
-- content: Cache storage
-- content: Multiprocessing systems
-- content: scalable
-- content: coherent
-- content: interface
 - content: bus architecture
 - content: bus standard
 - content: cache coherence
 - content: distributed memory
 - content: fiber optic
 - content: interconnect
-- content: IO system
+- content: I/O system
 - content: link
 - content: mesh
 - content: multiprocessor
 - content: network
 - content: packet protocol
 - content: ring
+- content: seamless distributed computer
 - content: shared memory
 - content: switch
 - content: transaction set
-- content: Seamless distributed computer
-- content: I/O system
 doctype: standard
 editorialgroup:
   committee:

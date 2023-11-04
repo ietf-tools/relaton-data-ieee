@@ -1,0 +1,115 @@
+---
+schema-version: v1.2.3
+id: IEEEP802.1ASdr-D-1.2-2023-04
+title:
+- content: 'IEEE Draft Standard for Local and Metropolitan Area Networks--Timing and
+    Synchronization for Time-Sensitive Applications Amendment: Inclusive Terminology'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10217129
+  type: src
+type: standard
+docid:
+- id: IEEE P802.1ASdr/D-1.2-2023-04
+  type: IEEE
+  primary: true
+- id: IEEE P802.1ASdr™/D-1.2-2023-04
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-0001-5
+  type: ISBN
+docnumber: IEEE P802.1ASdr/D-1.2-2023-04
+date:
+- type: created
+  value: '2023-08-11'
+- type: published
+  value: '2023-08-14'
+- type: issued
+  value: '2023'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2023-08-14'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This amendment to IEEE Std 802.1AS&#8482;-2020 replaces terminology with
+    alternative terminology identified by IEEE Std 1588g&#8482;-2022. All changes
+    made in figures are only to replace terminology.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: draft
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2023'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE802.1AS-2020
+    docid:
+    - id: IEEE 802.1AS-2020
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1AS-2020
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Transmitters
+- content: Synchronization
+- content: Timing
+- content: 'Keywords: best timeTransmitter'
+- content: frequency offset
+- content: Grandmaster Clock
+- content: Grandmaster PTP Instance
+- content: PTP End Instance
+- content: PTP Relay Instance
+- content: IEEE 802.1AS&#8482;
+- content: phase offset
+- content: synchronization
+- content: syntonization
+- content: time-aware system
+doctype: standard
+editorialgroup:
+  committee:
+  - LAN/MAN Standards Committee of the IEEE Computer Society
+ics:
+- code: '35.110'
+  text: Networking
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

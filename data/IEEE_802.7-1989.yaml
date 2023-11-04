@@ -1,0 +1,98 @@
+---
+schema-version: v1.2.3
+id: IEEE802.7-1989
+title:
+- content: IEEE Recommended Practices for Broadband Local Area Networks
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/89935
+  type: src
+type: standard
+docid:
+- id: IEEE 802.7-1989
+  type: IEEE
+  primary: true
+- id: IEEE 802.7®-1989
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 0-7381-3743-X
+  type: ISBN
+- id: 10.1109/IEEESTD.1990.95431
+  type: DOI
+docnumber: IEEE 802.7-1989
+date:
+- type: created
+  value: '1990'
+- type: published
+  value: '2002-08-06'
+- type: issued
+  value: '1989-10-19'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2002-08-06'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This standard specifies the design, installation, and test parameters for
+    a broadband cable medium. The medium supports the communication of IEEE 802.3b,
+    IEEE 802.4, video, and narrow-band radio frequency (RF) modem devices. The broadband
+    bus topology consists of amplifiers, coaxial cable, and directional couplers that
+    create a full duplex directional medium. Inbound signals flow from user outlet
+    transmitters to a central headend location. The headend processes the signals
+    and then transmits the signals via an outbound path to all the user outlets. The
+    medium utilizes frequency division multiplexing (FDM), which supports the simultaneous
+    coexistence of services. Each service is assigned a unique inbound and outbound
+    channel frequency.<<ETX>>
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: withdrawn
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '1990'
+keyword:
+- content: Broadband communication
+- content: Frequency division multiplexing
+- content: Local area networks
+- content: Standards
+doctype: standard
+editorialgroup:
+  committee:
+  - Technical Committee on Computer Communications of the IEEE Computer Society
+ics:
+- code: '35.110'
+  text: Networking
+- code: 35.100.10
+  text: Physical layer
+- code: '35.180'
+  text: IT terminal and other peripheral equipment
+ext:
+  schema-version: v1.0.0
+  standard_status: Inactive
+  standard_modified: Withdrawn
+  pubstatus: Active
+  holdstatus: Publish

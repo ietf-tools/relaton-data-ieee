@@ -2,11 +2,13 @@
 schema-version: v1.2.3
 id: IEEEStandard
 title:
-- content: IEEE Shunt Power Capacitors
+- content: 'IEEE Standard for Ethernet - Amendment 3: Physical Layer Specifications
+    and Management Parameters for 40 Gb/s and 100 Gb/s Operation over Fiber Optic
+    Cables'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8684439
+- content: https://ieeexplore.ieee.org/document/7069180
   type: src
 type: standard
 docid:
@@ -17,18 +19,18 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-0550-8
+- id: 978-0-7381-9514-8
   type: ISBN
-- id: 10.1109/IEEESTD.1967.8684439
+- id: 10.1109/IEEESTD.2015.7069180
   type: DOI
 docnumber: IEEE Standard
 date:
 - type: created
-  value: '1967-11-30'
+  value: '2015'
 - type: published
-  value: '2019-04-05'
+  value: '2015-03-26'
 - type: issued
-  value: '1968-02-16'
+  value: '2015-02-16'
 contributor:
 - organization:
     name:
@@ -36,13 +38,32 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
-revdate: '2019-04-05'
+revdate: '2015-03-26'
 language:
 - en
 script:
 - Latn
+abstract:
+- content: Physical Layer specifications and management parameters for 40 Gb/s operation
+    over single-mode fiber (40GBASE-ER4) and for 100 Gb/s operation over multimode
+    fiber (100GBASE-SR4) are added by this amendment. This amendment also specifies
+    a four-lane variant of the 100 Gigabit Attachment Unit Interface (CAUI-4) and
+    optional Energy Efficient Ethernet (EEE) for 40 Gb/s and 100 Gb/s operation over
+    fiber optic cables.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -50,15 +71,48 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  - name:
-    - content: American National Standards Institute
-    abbreviation:
-      content: ANSI
-    url: https://www.ansi.org
-  from: '1968'
+  from: '2015'
+keyword:
+- content: IEEE Standards
+- content: Ethernet
+- content: Time measurement
+- content: Synchronization
+- content: Passive optical networks
+- content: IEEE 802.3 Standard
+- content: 100 Gb/s Ethernet
+- content: 100GBASE-ER4
+- content: 100GBASE-LR4
+- content: 100GBASE-SR10
+- content: 100GBASE-SR4
+- content: 40 Gb/s Ethernet
+- content: 40GBASE-ER4
+- content: 40GBASE-FR
+- content: 40GBASE-LR4
+- content: 40GBASE-SR4
+- content: amendment
+- content: CAUI-4
+- content: Energy Efficient Ethernet (EEE)
+- content: Ethernet
+- content: forward error correction (FEC)
+- content: IEEE 802.3(TM)
+- content: IEEE 802.3bm(TM)
+- content: MMF
+- content: Physical Medium Dependent (PMD) sublayer
+- content: SMF
 doctype: standard
+editorialgroup:
+  committee:
+  - LAN/MAN Standards Committee of the IEEE Computer Society
+ics:
+- code: '35.110'
+  text: Networking
+- code: 35.100.20
+  text: Data link layer
+- code: 35.100.10
+  text: Physical layer
 ext:
   schema-version: v1.0.0
-  standard_status: Superseded
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

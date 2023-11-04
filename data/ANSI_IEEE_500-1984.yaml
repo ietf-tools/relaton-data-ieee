@@ -3,11 +3,11 @@ schema-version: v1.2.3
 id: ANSI-IEEE500-1984
 title:
 - content: IEEE Standard Reliability Data for Pumps and Drivers, Valve Actuators,
-    and Valves (Excerpted from ANSI/IEEE Std 500-1984)
+    and Valves
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/6847100
+- content: https://ieeexplore.ieee.org/document/35066
   type: src
 type: standard
 docid:
@@ -18,18 +18,18 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-0-7381-4222-7
+- id: 0-7381-4379-0
   type: ISBN
-- id: 10.1109/IEEESTD.1986.6847100
+- id: 10.1109/IEEESTD.1986.86307
   type: DOI
 docnumber: ANSI/IEEE 500-1984
 date:
 - type: created
-  value: '1986'
+  value: '1984'
 - type: published
-  value: '2014-07-01'
+  value: '2002-12-10'
 - type: issued
-  value: '1983-06-23'
+  value: '1984'
 contributor:
 - organization:
     name:
@@ -39,23 +39,25 @@ contributor:
     url: http://www.ieee.org
     contact:
     - address:
-        city: Piscataway
+        city: New York
         country: USA
   role:
   - type: publisher
-revdate: '2014-07-01'
+revdate: '2002-12-10'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'A method of collecting and presenting reliability data for use in nuclear
-    power generating station reliability calculations is established. It applies to
-    reliability data for electrical, electronic, sensing component, and mechanical
-    equipment. The objectives of the calculations are: (1) to determine system adequacy;
-    (2) to evaluate system design alternatives; (3) to evaluate, or contribute to,
-    the development of system test intervals, maintenance programs, or operating procedures,
-    or all three; and (4) to contribute to probabilistic risk-assessment studies.'
+- content: IEEE Std 500-1984 represents the most comprehensive and up-to-date collection
+    of reliability data in the world. Data have been culled from the broad, even widening
+    sphere of disciplines where reliability technology has been applied to the solution
+    of problems. The document is applicable to all segments of the power industry.
+    Numerous other large industries such as steel-making, chemical production, marine
+    transportation, and refining will find the manual an invaluable source of reliability
+    information. The reliability data presented includes failure rate ranges, failure
+    modes, and environmental factor information on generic components actually or
+    potentially in use in nuclear power generating stations.<<ETX>>
   language:
   - en
   script:
@@ -71,18 +73,17 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '1984'
+  from: '1986'
 keyword:
 - content: IEEE standards
-- content: Actuators
+- content: Nuclear power generation
 - content: Pumps
+- content: Actuators
 - content: Valves
-- content: Power system reliability
-- content: Valve actuators
 doctype: standard
 editorialgroup:
   committee:
-  - Nuclear Power Engineering of the IEEE Power and Energy Society
+  - Nuclear Power Engineering Committee
 ics:
 - code: 27.120.10
   text: Reactor engineering

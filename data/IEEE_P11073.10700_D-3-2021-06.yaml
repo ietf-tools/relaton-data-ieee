@@ -48,17 +48,9 @@ language:
 script:
 - Latn
 abstract:
-- content: MEDICAL DEVICEs that offer a communication interface as specified by the
-    IEEE 11073 Service-oriented Device Connectivity (SDC) standards can be integrated
-    into a HEALTH IT SYSTEM to jointly execute SYSTEM FUNCTIONs. However, implementing
-    the IEEE 11073 SDC communication protocol is not sufficient to demonstrate safety,
-    effectiveness, and security of SYSTEM FUNCTIONs resulting from the combination
-    of SYSTEM FUNCTION CONTRIBUTIONs from two or more MEDICAL DEVICEs. SDC PARTICIPANT
-    KEY PURPOSEs (PKPs) are sets of requirements that support MANUFACTURERs in making
-    valid assumptions about BICEPS PARTICIPANTs from other MANUFACTURERs. This common
-    understanding allows for the MANUFACTURERs to perform RISK MANAGEMENT, verification,
-    and USABILITY ENGINEERING for the safe use of SYSTEM FUNCTIONs. This standard
-    specifies requirements for the allocation of responsibilities to SDC BASE PARTICIPANTs.
+- content: This standard defines the base requirements for SDC PARTICIPANTs in a Service-Oriented
+    Device Connectivity (SDC) System that comprises a network of MEDICAL DEVICEs in
+    order to enable safe and secure contribution to SYSTEM FUNCTIONs.
   language:
   - en
   script:
@@ -81,23 +73,18 @@ keyword:
 - content: Medical devices
 - content: Interoperability
 - content: Bioinformatics
-- content: IEEE 11073-10700
-- content: point-of-care medical device communication
-- content: service-oriented device connectivity
-- content: SDC
-- content: dynamic medical device interoperability
-- content: participant key purpose
-- content: safety
-- content: effectiveness
-- content: and security
-- content: system function
-- content: system function contribution
+- content: medical device communication
+- content: point-of-care
+- content: service-oriented architecture
+- content: alert systems
+- content: external control
+- content: patient
+- content: NTP
+- content: DiffServ
 - content: BICEPS
-- content: communication protocol specification
-- content: integrated clinical environment
-- content: documentation and process responsibilities
-- content: risk management
-- content: usability engineering
+- content: SDC
+- content: Participant Key Purpose
+- content: conformance
 doctype: standard
 editorialgroup:
   committee:
@@ -105,7 +92,7 @@ editorialgroup:
     Society
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold
