@@ -1,0 +1,128 @@
+---
+schema-version: v1.2.3
+id: IEEEP1451.0-D-7-2023-10
+title:
+- content: IEEE Draft Standard for a Smart Transducer Interface for Sensors, Actuators,
+    Devices, and Systems - Common Functions, Communication Protocols, and Transducer
+    Electronic Data Sheet (TEDS) Formats
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10308746
+  type: src
+type: standard
+docid:
+- id: IEEE P1451.0/D-7-2023-10
+  type: IEEE
+  primary: true
+- id: IEEE P1451.0™/D-7-2023-10
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-0276-7
+  type: ISBN
+docnumber: IEEE P1451.0/D-7-2023-10
+date:
+- type: created
+  value: '2023-11-02'
+- type: published
+  value: '2023-11-03'
+- type: issued
+  value: '2023'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2023-11-03'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This standard provides the common functions, network services, transducer
+    services, and Transducer Electronic Data Sheet (TEDS) formats for members of the
+    IEEE 1451 family of standards to be interoperable in both network interface and
+    transducer interface. It defines the common functions and characteristics that
+    are to be performed by a network capable application processor (NCAP) which is
+    a 1451 server, and all devices that implement the NCAP. It defines a set of network
+    services that include a set of commands and replies to access transducer data
+    and TEDS data from the NCAP (1451 server) by the Internet of Things (IoT) applications
+    (APPs) that are 1451 clients. Application programming interfaces (APIs) of network
+    services are defined to facilitate communications between the APPs (1451 clients)
+    and NCAPs. It also defines the common functions and characteristics that are to
+    be performed by a transducer interface module (TIM) and all devices that implement
+    the TIM. It defines a set of transducer services that include a set of commands
+    and replies to facilitate the setup and control of the TIM as well as reading
+    and writing the data used by the NCAP. APIs of transducer services are defined
+    to facilitate communications between the NCAPs and TIMs. It specifies the formats
+    for a TEDS and methods to access the TEDS. It also defines the common functions
+    and characteristics that are to be performed by an APP and all devices that implement
+    the APP.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: draft
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2023'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1451.0-2007
+    docid:
+    - id: IEEE 1451.0-2007
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1451.0-2007
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: actuator
+- content: application programming interface
+- content: communication protocol
+- content: network-capable application processor
+- content: sensor
+- content: smart transducer
+- content: transducer channel
+- content: transducer electronic data sheet
+- content: transducer interface module
+- content: universal unique identification
+- content: wireless interface
+doctype: standard
+editorialgroup:
+  committee:
+  - TC9 - Sensor Technology of the IEEE Instrumentation and Measurement Society
+ics:
+- code: 25.040.40
+  text: Industrial process measurement and control
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold
