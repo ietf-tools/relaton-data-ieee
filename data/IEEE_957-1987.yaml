@@ -26,7 +26,7 @@ date:
 - type: created
   value: '1988'
 - type: published
-  value: '2019-04-05'
+  value: '2002-08-06'
 - type: issued
   value: '1987-06-11'
 contributor:
@@ -42,7 +42,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2019-04-05'
+revdate: '2002-08-06'
 language:
 - en
 script:
@@ -98,12 +98,20 @@ relation:
     formattedref:
       content: IEEE 957-1995
       format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE957-1995
+    docid:
+    - id: IEEE 957-1995
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 957-1995
+      format: text/plain
 keyword:
 - content: IEEE standards
 - content: Insulators
 - content: Cleaning
-- content: insulators
-- content: cleaning
 - content: insulators
 - content: cleaning
 doctype: standard

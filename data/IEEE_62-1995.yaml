@@ -29,7 +29,7 @@ date:
 - type: created
   value: '1995-12-01'
 - type: published
-  value: '2014-05-09'
+  value: '2002-08-06'
 - type: issued
   value: '1995-03-16'
 contributor:
@@ -45,7 +45,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2014-05-09'
+revdate: '2002-08-06'
 language:
 - en
 script:
@@ -72,6 +72,16 @@ copyright:
     url: http://www.ieee.org
   from: '1995'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEEC57.152-2013
+    docid:
+    - id: IEEE C57.152-2013
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C57.152-2013
+      format: text/plain
 - type: updates
   bibitem:
     id: IEEE62-1978
@@ -148,7 +158,7 @@ keyword:
 - content: Oil insulation
 - content: Inductors
 - content: IEEE standards
-- content: oil filled transformer
+- content: Oil filled transformers
 - content: regulators
 - content: reactors
 - content: diagnostic evaluation
@@ -161,17 +171,13 @@ keyword:
 - content: core
 - content: tanks
 - content: safety
-- content: diagnostic field
-- content: power apparatus
-- content: diagnostic evaluation
-- content: Oil filled transformers
 doctype: standard
 editorialgroup:
   committee:
   - Transformers of the IEEE Power and Energy Society
 ics:
-- code: '19.080'
-  text: Electrical and electronic testing
+- code: '29.180'
+  text: Transformers. Reactors
 ext:
   schema-version: v1.0.0
   standard_status: Superseded

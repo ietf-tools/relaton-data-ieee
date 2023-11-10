@@ -60,9 +60,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -71,6 +68,17 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2013'
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE1857-2023
+    docid:
+    - id: IEEE 1857-2023
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1857-2023
+      format: text/plain
 keyword:
 - content: IEEE standards
 - content: VIdeo coding
@@ -101,15 +109,14 @@ keyword:
 doctype: standard
 editorialgroup:
   committee:
-  - Standards Activities Board of the IEEE Computer Society
+  - Data Compression Standards Committee of the IEEE Computer Society
 ics:
 - code: 33.040.40
   text: Data communication networks
 - code: '35.040'
-  text: Character sets and information coding
+  text: Information coding
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Superseded
   pubstatus: Active
   holdstatus: Publish
