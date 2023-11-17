@@ -1,0 +1,116 @@
+---
+schema-version: v1.2.3
+id: IEEE802.11bb-2023
+title:
+- content: 'IEEE Standard for Information Technology--Telecommunications and Information
+    Exchange between Systems Local and Metropolitan Area Networks--Specific Requirements
+    Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications
+    Amendment 6: Light Communications'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10315104
+  type: src
+type: standard
+docid:
+- id: IEEE 802.11bb-2023
+  type: IEEE
+  primary: true
+- id: IEEE 802.11bb®-2023
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-0008-4
+  type: ISBN
+- id: 10.1109/IEEESTD.2024.10315104
+  type: DOI
+docnumber: IEEE 802.11bb-2023
+date:
+- type: created
+  value: '2023-11-10'
+- type: published
+  value: '2023-11-10'
+- type: issued
+  value: '2023-06-05'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2023-11-10'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Modifications to existing physical layers (PHYs) and the medium access
+    control layer (MAC) that enable transparent operation of IEEE 802.11 over the
+    light in the 800 nm to 1000 nm band are specified in this amendment. This amendment
+    specifies PHYs that provide bidirectional operations that achieve a minimum and
+    maximum throughput of 10 Mb/s and 9.6 Gb/s, respectively, as measured at the MAC
+    data service access point (SAP), and facilitate interoperability among solid-state
+    light sources with different modulation bandwidths.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2024'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE802.11-2020
+    docid:
+    - id: IEEE 802.11-2020
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.11-2020
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE 802.11
+- content: IEEE 802.11bb
+- content: LC
+- content: light communication
+- content: MAC
+- content: medium access control
+- content: PHY
+- content: physical layer
+doctype: standard
+editorialgroup:
+  committee:
+  - LAN/MAN Standards Committee of the IEEE Computer Society
+ics:
+- code: '35.110'
+  text: Networking
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Approved
+  pubstatus: Active
+  holdstatus: Publish
