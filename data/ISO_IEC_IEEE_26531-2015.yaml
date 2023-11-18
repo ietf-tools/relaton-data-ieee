@@ -24,10 +24,12 @@ docid:
   type: DOI
 docnumber: ISO/IEC/IEEE 26531-2015
 date:
+- type: updated
+  value: '2015-06-05'
 - type: created
   value: '2015-05-15'
 - type: published
-  value: '2015-06-01'
+  value: '2015-05-13'
 - type: issued
   value: '2015-03-26'
 contributor:
@@ -37,13 +39,9 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-    contact:
-    - address:
-        city: New York
-        country: USA
   role:
   - type: publisher
-revdate: '2015-06-01'
+revdate: '2015-05-13'
 language:
 - en
 script:
@@ -78,6 +76,9 @@ abstract:
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -90,17 +91,6 @@ copyright:
   - name:
     - content: IEC
   from: '2015'
-relation:
-- type: obsoletedBy
-  bibitem:
-    id: ISO-IEC-IEEEDISP26531-2022-01
-    docid:
-    - id: ISO/IEC/IEEE DIS P26531-2022-01
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ISO/IEC/IEEE DIS P26531-2022-01
-      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: ISO Standards
@@ -118,10 +108,11 @@ editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society
 ics:
-- code: '35.080'
-  text: Software
+- code: 01.040.11
+  text: Health care technology (Vocabularies)
 ext:
   schema-version: v1.0.0
-  standard_status: Superseded
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

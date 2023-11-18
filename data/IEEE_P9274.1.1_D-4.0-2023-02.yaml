@@ -2,9 +2,9 @@
 schema-version: v1.2.3
 id: IEEEP9274.1.1-D-4.0-2023-02
 title:
-- content: IEEE Draft Standard for Learning Technology - JavaScript Object Notation
-    (JSON) Data Model Format and Representational State Transfer (RESTful) Web Service
-    for Learner Experience Data Tracking and Access
+- content: IEEE Approved Draft Standard for Learning Technology - JavaScript Object
+    Notation (JSON) Data Model Format and Representational State Transfer (RESTful)
+    Web Service for Learner Experience Data Tracking and Access
   format: text/plain
   type: main
 link:
@@ -24,11 +24,11 @@ docid:
 docnumber: IEEE P9274.1.1/D-4.0-2023-02
 date:
 - type: created
-  value: '2023-02-06'
-- type: published
-  value: '2023-02-08'
-- type: issued
   value: '2023'
+- type: published
+  value: '2023-02-07'
+- type: issued
+  value: '2023-03-30'
 contributor:
 - organization:
     name:
@@ -42,11 +42,25 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-02-08'
+revdate: '2023-02-07'
 language:
 - en
 script:
 - Latn
+abstract:
+- content: This standard is a collaborative effort to improve and standardize the
+    1.0.3 version Experience Application Programming Interface (xAPI) specification.
+    This Standard describes a JavaScript Object Notation (JSON) data model format
+    and a Representational State Transfer (RESTful) Web Service Application Programming
+    Interface (API) for communication between Activities experienced by an individual,
+    group, or other entity and a Learning Record Store (LRS). The LRS is a system
+    that exposes the RESTful Web Service API for the purpose of tracking and accessing
+    experiential data, especially in learning and human performance.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -65,24 +79,24 @@ keyword:
 - content: Representational state transfer
 - content: Application programming interface
 - content: Experience API
-- content: xAPI
-- content: IEEE 9274.1.1
-- content: IEEE 9274
+- content: IEEE 9274&#8482;
+- content: IEEE 9274.1.1&#8482;
+- content: JavaScript object notation
 - content: JSON
-- content: JavaScript Object Notation
-- content: REST
-- content: Representational State Transfer
-- content: LRS
+- content: Learning Record Provider
 - content: Learning Record Store
 - content: LRP
-- content: Learning Record Provider
+- content: LRS
+- content: representational state transfer
+- content: REST
+- content: xAPI
 doctype: standard
 editorialgroup:
   committee:
   - Learning Technology of the IEEE Computer Society
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

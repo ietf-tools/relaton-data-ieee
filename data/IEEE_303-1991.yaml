@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: IEEE303-1991
 title:
-- content: IEEE Recommended Practice for Auxilary Devices for Motors in Class I, Groups
-    A,B,C, and D, Division 2 Locations
+- content: IEEE Recommended Practice for Auxiliary Devices for Motors in Class I,
+    Groups A,B,C, and D, Division 2 Locations
   format: text/plain
   type: main
 link:
@@ -66,6 +66,16 @@ copyright:
     url: http://www.ieee.org
   from: '1991'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE303-2004
+    docid:
+    - id: IEEE 303-2004
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 303-2004
+      format: text/plain
 - type: updates
   bibitem:
     id: IEEE303-1984
@@ -83,16 +93,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEE303-2004
-    docid:
-    - id: IEEE 303-2004
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 303-2004
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEE303-1984

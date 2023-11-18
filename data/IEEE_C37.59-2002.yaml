@@ -6,7 +6,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/1191714
+- content: https://ieeexplore.ieee.org/document/7893686
   type: src
 type: standard
 docid:
@@ -19,14 +19,14 @@ docid:
   primary: true
 - id: 978-0-7381-3373-7
   type: ISBN
-- id: 10.1109/IEEESTD.2003.94240
+- id: 10.1109/IEEESTD.2008.7893686
   type: DOI
 docnumber: IEEE C37.59-2002
 date:
 - type: created
-  value: '2003'
+  value: '2008'
 - type: published
-  value: '2019-04-05'
+  value: '2017-04-06'
 - type: issued
   value: '2002-09-12'
 contributor:
@@ -42,7 +42,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2019-04-05'
+revdate: '2017-04-06'
 language:
 - en
 script:
@@ -51,10 +51,11 @@ abstract:
 - content: Directions and requirements are provided for the conversion of qualified
     power switchgear equipment. Examples such as low-voltage power circuit breakers;
     high-voltage outdoor and medium-voltage indoor drawout power circuit breakers;
-    low- and medium-voltage fused contactors; low- and medium-voltage ground and test
-    devices; medium-voltage fused load interrupter switches; and all metal-enclosed
-    switchgear are covered. Existing design standards are referenced with appropriate
-    guidance on design testing necessary to design-verify the conversions.
+    medium-voltage fused contactors; medium-voltage ground and test devices; medium-voltage
+    fused load interrupter switches; and all metal-enclosed switchgear are covered.
+    Existing design standards are referenced with appropriate guidance on design testing
+    necessary to design-verify the conversions. Reconditioning, which concerns the
+    maintenance of existing equipment without alteration, is not covered.
   language:
   - en
   script:
@@ -69,23 +70,6 @@ copyright:
     url: http://www.ieee.org
   from: '2003'
 relation:
-- type: updates
-  bibitem:
-    id: IEEEC37.59-1996
-    docid:
-    - id: IEEE C37.59-1996
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.59-1996
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: obsoletedBy
   bibitem:
     id: IEEEC37.59-2002
@@ -123,15 +107,39 @@ relation:
     formattedref:
       content: IEEE C37.59-2002
       format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC37.59-1996
+    docid:
+    - id: IEEE C37.59-1996
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.59-1996
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
-- content: IEEE standards
+- content: IEEE Standards
 - content: Circuit breakers
-- content: Contactors
+- content: Switchgear
 - content: Interrupters
-- content: Switchgear testing
+- content: Vaccuums
+- content: Power conversion
+- content: C37.59-2007
+- content: circuit breakers
 - content: conversion
+- content: interrupters
 - content: power switchgear equipment
 - content: qualified design
+- content: retrofit
+- content: switchgear
+- content: vacuum
 doctype: standard
 editorialgroup:
   committee:

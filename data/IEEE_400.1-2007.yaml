@@ -68,16 +68,6 @@ copyright:
     url: http://www.ieee.org
   from: '2007'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE400.1-2018
-    docid:
-    - id: IEEE 400.1-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 400.1-2018
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEE400-1991
@@ -95,6 +85,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE400.1-2018
+    docid:
+    - id: IEEE 400.1-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 400.1-2018
+      format: text/plain
 keyword:
 - content: IEEE standards
 - content: Dielectric measurements

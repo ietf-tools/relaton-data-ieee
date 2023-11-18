@@ -56,9 +56,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -68,23 +65,6 @@ copyright:
     url: http://www.ieee.org
   from: '2018'
 relation:
-- type: updates
-  bibitem:
-    id: IEEE1549-2011
-    docid:
-    - id: IEEE 1549-2011
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1549-2011
-      format: text/plain
-  description:
-    content: corrects
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: updates
   bibitem:
     id: IEEE1549-2011
@@ -156,7 +136,7 @@ ics:
   text: Electric filters
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Inactive
+  standard_modified: Reserved
   pubstatus: Active
   holdstatus: Publish

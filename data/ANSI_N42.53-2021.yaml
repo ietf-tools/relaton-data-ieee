@@ -49,10 +49,12 @@ language:
 script:
 - Latn
 abstract:
-- content: The operational and performance requirements for backpack-based radiation-detection
+- content: 'The operational and performance requirements for backpack-based radiation-detection
     systems (BRDs) used in homeland security applications are specified in this standard.
     BRDs are typically worn by the user during operations to detect and possibly identify
-    radiological and nuclear material.
+    radiological and nuclear material. NOTE: The PDF of this standard is available
+    at no cost compliments of the partnership with the Department of Homeland Security
+    Domestic Nuclear Detection Office and the IEEE GET Program https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=83)'
   language:
   - en
   script:
@@ -92,6 +94,40 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: ANSIN42.53-2013
+    docid:
+    - id: ANSI N42.53-2013
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI N42.53-2013
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: ANSIN42.53-2013
+    docid:
+    - id: ANSI N42.53-2013
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI N42.53-2013
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: ANSI Standards
@@ -108,6 +144,8 @@ editorialgroup:
 ics:
 - code: '17.240'
   text: Radiation measurements
+- code: 35.240.99
+  text: IT applications in other fields
 ext:
   schema-version: v1.0.0
   standard_status: Active
