@@ -2,11 +2,11 @@
 schema-version: v1.2.3
 id: IEEESmart
 title:
-- content: 'IEEE Smart Grid Vision for Computing: 2030 and Beyond'
+- content: 'IEEE Smart Grid Vision for Vehicular Technology: 2030 and Beyond Roadmap'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/6577594
+- content: https://ieeexplore.ieee.org/document/7124394
   type: src
 type: standard
 docid:
@@ -17,18 +17,16 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-0-7381-8382-4
+- id: 978-0-7381-9775-3
   type: ISBN
-- id: 10.1109/IEEESTD.2013.6577594
-  type: DOI
 docnumber: IEEE Smart
 date:
 - type: created
-  value: '2013'
+  value: '2015'
 - type: published
-  value: '2013-08-09'
+  value: '2015-06-18'
 - type: issued
-  value: '2013'
+  value: '2015'
 contributor:
 - organization:
     name:
@@ -42,26 +40,29 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2013-08-09'
+revdate: '2015-06-18'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The scope of this document is focused on computing technologies and the
-    role they will play in the future electric grid. The computing technologies identified
-    by the Computer Society Smart Grid Vision Project (CS-SGVP) team span many computing
-    disciplines and do not necessarily represent all technologies that will shape
-    the Smart Grid. Various projections of how Smart Grid concepts will influence
-    power systems were considered. These projections span bulk transmission systems
-    to isolated islands of local generation, as well as different demand side participation
-    concepts. For Corporate or Institutional Access, request a custom quote for your
-    organization at www.ieee.org/smartgridresearch
+- content: 'The base document is separated into six chapters, each of which has a
+    dedicated focus. However,several issues are discussed in multiple chapters. Considering
+    the overlap of each chapter, thisroadmap is categorized into the following four
+    groups: Penetration models Vehicle grid interaction High-order functions in EV
+    Surrounding of EV. Most items covered in this roadmap are presented in IEEE Smart
+    Grid Vision for VehicularTechnology: 2030 and Beyond and are arranged into the
+    four categories above. In addition totopics from the base document, some topics
+    are newly discussed in this document.For Corporate or Institutional Access, request
+    a custom quote for your organization at www.ieee.org/smartgridresearch'
   language:
   - en
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -69,50 +70,17 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2013'
+  from: '2015'
 keyword:
-- content: Power grids
-- content: Smart grids
-- content: Computer security
-- content: Power system reliability
-- content: Electricity supply industry
-- content: Power distribution
-- content: Network security
-- content: Technology forecasting
-- content: Forecasting
-- content: Smart grid
-- content: Grid
-- content: IEEE Computer Society
-- content: electrical grid
-- content: grid modernization
-- content: generation
-- content: transmission
-- content: distribution
-- content: load
-- content: consumer
-- content: operations
-- content: controls
-- content: cyber security
-- content: distributed resources
-- content: electric power system
-- content: grid architecture
-- content: grid operations
-- content: Computational intelligence
-- content: Cyber security and resilience
-- content: Data analytics (and databases)
-- content: Distributed multi-agent architecture
-- content: High-performance computing
-- content: Messaging-oriented middleware
-- content: Modeling and simulation
-- content: Self-integrating systems
-- content: Software verification and validation
-- content: Virtual computing
-- content: Visualization
-- content: Artificial Intelligence
-- content: fast mathematics
-- content: high-performance computing
-- content: Internet and real-time systems
-- content: Information security technology
+- content: IEEE standards
+- content: electric vehicle technology
+- content: transportation electrification
+- content: intelligent transportation system
+- content: intelligent vehicle charging
+- content: electrified vehicles
+- content: charging infrastructures
+- content: future mature transportation market
+- content: wireless charging
 doctype: standard
 ics:
 - code: 29.240.01
@@ -121,10 +89,11 @@ ics:
   text: Data communication networks
 - code: '33.200'
   text: Telecontrol. Telemetering
-- code: '35.020'
-  text: Information technology in general
+- code: 43.040.15
+  text: Car informatics. On-board computer systems
 ext:
   schema-version: v1.0.0
   standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

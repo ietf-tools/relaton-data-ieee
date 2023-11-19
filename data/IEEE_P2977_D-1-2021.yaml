@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: IEEEP2977-D-1-2021
 title:
-- content: IEEE Draft Standard for Adoption of MIPI Alliance Specification for A-PHY
-    Interface (A-PHY) Version 1.0
+- content: IEEE Approved Draft Standard for Adoption of MIPI Alliance Specification
+    for A-PHY Interface (A-PHY) Version 1.0
   format: text/plain
   type: main
 link:
@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2021-04-16'
 - type: issued
-  value: '2021'
+  value: '2021-06-16'
 contributor:
 - organization:
     name:
@@ -47,13 +47,14 @@ language:
 script:
 - Latn
 abstract:
-- content: This standard adopts MIPI Alliance??MIPI A-PHY Specification Version 1.0
-    as an IEEE Standard. The standard provides an asymmetric data link in a point-to-point
-    or daisy-chain topology, with high-speed unidirectional data, embedded bidirectional
-    control data and optional power delivery over a single cable. In this way, it
-    reduces wiring, cost and weight, as high-speed data, control data and optional
-    power share the same physical wiring. For integration with existing network backbones,
-    it complements Ethernet, Controller Area Network (CAN), FlexRay, and other interfaces.
+- content: This standard adopts MIPI Alliance--MIPI A-PHY Specification Version 1.0
+    as an IEEE Standard. The adopted standard provides an asymmetric data link in
+    a point-to-point or daisy-chain topology, with high-speed unidirectional data,
+    embedded bidirectional control data and optional power delivery over a single
+    cable. In this way, it reduces wiring, cost and weight, as high-speed data, control
+    data and optional power share the same physical wiring. For integration with existing
+    network backbones, it complements Ethernet, Controller Area Network (CAN), FlexRay,
+    and other interfaces.
   language:
   - en
   script:
@@ -81,9 +82,10 @@ keyword:
 - content: 8B/10B PCS
 - content: ACMD
 - content: ACMP
+- content: adoption
 - content: advanced driver assistance systems
-- content: A-Header
-- content: A Packet
+- content: AHeader
+- content: A-Packet
 - content: A-Payload
 - content: APDLL
 - content: A-PHY
@@ -91,7 +93,7 @@ keyword:
 - content: asymmetric
 - content: automotive
 - content: autonomous driving systems
-- content: Camera
+- content: camera
 - content: car noise
 - content: Clock Forwarding Service
 - content: coaxial cable
@@ -113,6 +115,7 @@ keyword:
 - content: I3C
 - content: infotainment
 - content: inline connectors
+- content: IEEE 2977
 - content: ISO 26262
 - content: jitter
 - content: Lidar
@@ -141,7 +144,7 @@ keyword:
 - content: Power over Differential Line
 - content: Profile
 - content: protocol adaptation layer
-- content: radar
+- content: Radar
 - content: Routing Table
 - content: scrambler
 - content: sensor
@@ -158,7 +161,7 @@ editorialgroup:
   - Corporate Advisory Group of the IEEE SA Board of Governors
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

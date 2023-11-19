@@ -67,16 +67,6 @@ copyright:
     url: http://www.ieee.org
   from: '1989'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEEC37.95-2002
-    docid:
-    - id: IEEE C37.95-2002
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.95-2002
-      format: text/plain
 - type: updates
   bibitem:
     id: ANSI-IEEEC37.95-1973
@@ -94,6 +84,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEEC37.95-2002
+    docid:
+    - id: IEEE C37.95-2002
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.95-2002
+      format: text/plain
 keyword:
 - content: Power system protection
 - content: Protective relaying

@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2021-04-07'
 - type: issued
-  value: '2021'
+  value: '2021-06-16'
 contributor:
 - organization:
     name:
@@ -47,15 +47,15 @@ language:
 script:
 - Latn
 abstract:
-- content: 'This standard describes control mechanisms and management methods necessary
-    to enable creation and operation of virtual links in Ethernet-based subscriber
-    access networks. The key characteristics of the Virtual Link Control (VLC) mechanisms
-    are: -The ability to transit Layer 2 bridges in a single IEEE 802 Media Access
-    Control (MAC) domain to allow remote device management; -Extensibility to accommodate
-    new protocols and new types of devices; -The ability to simultaneously send messages
-    to multiple VLC-aware stations using broadcast or multicast addressing. The standard
-    describes the message format, as well as processing operations at the stations
-    participating in the VLC protocol.'
+- content: 'Control mechanisms and management methods necessary to enable creation
+    and operation of virtual links in Ethernet-based subscriber access networks are
+    described. The key characteristics of the Virtual Link Control (VLC) mechanisms
+    are: - The ability to transit Layer 2 bridges in a single IEEE 802 Media Access
+    Control (MAC) domain to allow remote device management - Extensibility to accommodate
+    new protocols and new types of devices - The ability to simultaneously send messages
+    to multiple VLC-aware stations using broadcast or multicast addressing The message
+    format, as well as processing operations at the stations participating in the
+    VLC protocol, are described.'
   language:
   - en
   script:
@@ -79,9 +79,10 @@ keyword:
 - content: Message services
 - content: Multicast communication
 - content: Communication system control
-- content: Virtual Link Control (VLC) protocol
-- content: remote station management
+- content: IEEE 1904.2
 - content: organization specific extensions
+- content: remote station management
+- content: Virtual Link Control (VLC) protocol
 - content: VLC Protocol Data Unit (VLCPDU)
 doctype: standard
 editorialgroup:
@@ -89,7 +90,7 @@ editorialgroup:
   - Access and Core Networks Standards Committee of the IEEE Communications Society
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

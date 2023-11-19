@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2022-10-06'
 - type: issued
-  value: '2023-03-30'
+  value: '2022'
 contributor:
 - organization:
     name:
@@ -52,14 +52,14 @@ abstract:
     has been exchanged. The interfaces and protocols play a very important role in
     realizing interoperability. Therefore, the standard of cross-chain interoperability
     interfaces and protocols, especially those for data authentication and communication
-    among homogeneous and heterogeneous blockchains systems, is needed. Such protocols
+    among homogeneous and heterogeneous blockchains systems is needed. Such protocols
     coordinate blockchains while supporting multiple cross-chain models and levels
     to meet business demands without the need to customize gateways or exchanges for
-    specific use cases. Provided in this standard are an infrastructure of cross-chain
-    interoperability, as well as interfaces and protocols of data authentication and
-    communication for homogeneous and heterogeneous blockchain interoperability. The
-    protocols include the distributed identity protocol, metadata protocol, on-chain
-    proof transformation protocol, and cross-chain communication protocol.
+    specific use cases. The standard provides an infrastructure of cross chain interoperability,
+    as well as interfaces and protocols of data authentication and communication for
+    homogeneous and heterogeneous blockchain interoperability. The protocols include
+    the distributed identity protocol, metadata protocol, on-chain proof conversion
+    protocol, and cross-chain communication protocol.
   language:
   - en
   script:
@@ -82,17 +82,13 @@ keyword:
 - content: Interoperability
 - content: Data authentication
 - content: Protocols
-- content: 'Keywords: heterogeneous blockchain'
-- content: homogeneous blockchain
-- content: IEEE 3205
-- content: interoperability
+- content: Heterogeneous blockchain
+- content: Homogeneous blockchain
+- content: Interoperability
 doctype: standard
 editorialgroup:
   committee:
   - Blockchain and Distributed Ledgers of the IEEE Computer Society
-ics:
-- code: 35.240.99
-  text: IT applications in other fields
 ext:
   schema-version: v1.0.0
   standard_status: Inactive

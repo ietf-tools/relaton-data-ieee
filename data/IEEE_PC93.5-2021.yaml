@@ -24,8 +24,10 @@ docnumber: IEEE PC93.5-2021
 date:
 - type: created
   value: '2022'
+- type: published
+  value: '2022-03-23'
 - type: issued
-  value: '2022'
+  value: '2022-05-13'
 contributor:
 - organization:
     name:
@@ -39,13 +41,16 @@ contributor:
         country: USA
   role:
   - type: publisher
+revdate: '2022-03-23'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This corrigendum will add Table 3 which should have been included in the
-    original but was removed erroneously during the balloting process
+- content: 'This corrigendum will add Table 3 which should have been included in the
+    original but was removed erroneously during the balloting process. Note: This
+    corrigendum was not be published as a separate document. It was be rolled into
+    the IEEE C93.5-2021)'
   language:
   - en
   script:
@@ -65,13 +70,64 @@ copyright:
 relation:
 - type: updates
   bibitem:
-    id: IEEEPC93.5-D-7.6-2020-11
+    id: IEEEC93.5-2021
     docid:
-    - id: IEEE PC93.5/D-7.6-2020-11
+    - id: IEEE C93.5-2021
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE PC93.5/D-7.6-2020-11
+      content: IEEE C93.5-2021
+      format: text/plain
+  description:
+    content: corrects
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC93.5-2021
+    docid:
+    - id: IEEE C93.5-2021
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C93.5-2021
+      format: text/plain
+  description:
+    content: corrects
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC93.5-2021
+    docid:
+    - id: IEEE C93.5-2021
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C93.5-2021
+      format: text/plain
+  description:
+    content: corrects
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC93.5-2021
+    docid:
+    - id: IEEE C93.5-2021
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C93.5-2021
       format: text/plain
   description:
     content: corrects
@@ -100,9 +156,12 @@ doctype: standard
 editorialgroup:
   committee:
   - IEEE Power and Energy Society
+ics:
+- code: 33.040.50
+  text: Lines, connections and circuits
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

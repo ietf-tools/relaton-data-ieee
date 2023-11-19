@@ -2,11 +2,11 @@
 schema-version: v1.2.3
 id: IEEEVision
 title:
-- content: 'IEEE Vision for Smart Grid Communications: 2030 and Beyond'
+- content: 'IEEE Vision for Smart Grid Communications: 2030 and Beyond Reference Model'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/6577600
+- content: https://ieeexplore.ieee.org/document/6679201
   type: src
 type: standard
 docid:
@@ -17,18 +17,18 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-0-7381-8460-9
+- id: 978-0-7381-8833-1
   type: ISBN
-- id: 10.1109/IEEESTD.2013.6577600
+- id: 10.1109/IEEESTD.2013.6679201
   type: DOI
 docnumber: IEEE Vision
 date:
 - type: created
-  value: '2013-05-31'
+  value: '2013-12-09'
 - type: published
-  value: '2013-08-09'
+  value: '2013-12-06'
 - type: issued
-  value: '2014-06-21'
+  value: '2013-12-20'
 contributor:
 - organization:
     name:
@@ -42,25 +42,18 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2013-08-09'
+revdate: '2013-12-06'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'The IEEE Vision for Smart Grid Communications: 2030 and Beyond provides
-    a vision of the communications-related aspects of the Smart Grid in the year 2030,
-    and lays out the technology roadmap that will lead us to the vision.This document
-    starts with some basic knowledge of the power grid and follows up with fundamental
-    building blocks for the communication infrastructure that will accompany the Smart
-    Grid. Subsequently, network architectures, including overlays, are discussed at
-    length. Also discussed, are important issues such as standards, regulations, security,
-    and disruptive technologies. The last part of this document discusses emerging
-    technologies such as the solid state transformer, wireless beamed power, and quantum
-    key distribution. Throughout the document, a careful distinction is made between
-    communications capabilities and the specific technologies that are required to
-    support those capabilities. For Corporate or Institutional Access, request a custom
-    quote for your organization at www.ieee.org/smartgridresearch'
+- content: 'IEEE Vision for Smart Grid Communications: 2030 and Beyond Reference Model,
+    directly overlays events in the power grid with communication performance on the
+    same spacetime model, it ensures a perspective that verifies that any of the myriad
+    of communication technologies chosen will provide the required support for the
+    Smart Grid. For Corporate or Institutional Access, request a custom quote for
+    your organization at www.ieee.org/smartgridresearch'
   language:
   - en
   script:
@@ -76,52 +69,9 @@ copyright:
   from: '2013'
 keyword:
 - content: IEEE standards
-- content: Power grids
 - content: Smart grids
-- content: Telecommunication services
-- content: Power system reliability
-- content: Power transmission
-- content: Signal processing
-- content: Wireless communcation
 - content: Technology forecasting
-- content: Forecasting
-- content: Smart grid
-- content: Grid
-- content: IEEE Communications Society
-- content: vision
-- content: electrical grid
-- content: grid modernization
-- content: generation
-- content: transmission
-- content: distribution
-- content: load
-- content: consumer
-- content: operations
-- content: controls
-- content: cyber security
-- content: distributed resources
-- content: electric power system
-- content: grid architecture
-- content: grid operations
-- content: microgrid
-- content: communications
-- content: signal processing
-- content: wireless
-- content: power line communication
-- content: power line borne optical fiber
-- content: optical fiber
-- content: information theory
-- content: network science
-- content: networking
-- content: quality of service
-- content: overlay networks
-- content: data-level communications
-- content: peer-to-peer
-- content: P2P
-- content: standards
-- content: solid state transformers
-- content: beamed power
-- content: quantum key distribution.
+- content: Power line communications
 doctype: standard
 ics:
 - code: 29.240.01

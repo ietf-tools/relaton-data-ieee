@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: IEEEP802.3cp-D-3.2-2021-05
 title:
-- content: 'IEEE Draft Standard for Ethernet Amendment 14: Bidirectional 10 Gb/s,
-    25 Gb/s, and 50 Gb/s Optical Access PHYs'
+- content: 'IEEE Approved Draft Standard for Ethernet Amendment 14: Bidirectional
+    10 Gb/s, 25 Gb/s, and 50 Gb/s Optical Access PHYs'
   format: text/plain
   type: main
 link:
@@ -23,11 +23,11 @@ docid:
 docnumber: IEEE P802.3cp/D-3.2-2021-05
 date:
 - type: created
-  value: '2021-05-14'
+  value: '2021'
 - type: published
   value: '2021-05-21'
 - type: issued
-  value: '2021'
+  value: '2021-06-16'
 contributor:
 - organization:
     name:
@@ -68,6 +68,40 @@ copyright:
     url: http://www.ieee.org
   from: '2021'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE802.3-2018
+    docid:
+    - id: IEEE 802.3-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3-2018
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.3-2018
+    docid:
+    - id: IEEE 802.3-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3-2018
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE802.3-2018

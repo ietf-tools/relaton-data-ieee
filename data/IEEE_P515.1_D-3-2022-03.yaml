@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: IEEEP515.1-D-3-2022-03
 title:
-- content: IEEE Draft Standard for the Testing, Design, Installation, and Maintenance
-    of Electrical Resistance Trace Heating for Commercial Applications
+- content: IEEE Approved Draft Standard for the Testing, Design, Installation, and
+    Maintenance of Electrical Resistance Trace Heating for Commercial Applications
   format: text/plain
   type: main
 link:
@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2022-03-25'
 - type: issued
-  value: '2022'
+  value: '2022-09-21'
 contributor:
 - organization:
     name:
@@ -86,6 +86,23 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE515.1-2012
+    docid:
+    - id: IEEE 515.1-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 515.1-2012
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Heating systems
@@ -107,7 +124,7 @@ keyword:
 - content: maintenance
 - content: snow melting
 - content: trace heater
-- content: trace heating.
+- content: trace heating
 doctype: standard
 editorialgroup:
   committee:
@@ -117,7 +134,7 @@ ics:
   text: Electric furnaces
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

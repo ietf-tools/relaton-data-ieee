@@ -84,16 +84,6 @@ copyright:
     - content: IEC
   from: '2011'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: ISO-IEC-IEEE26512-2017
-    docid:
-    - id: ISO/IEC/IEEE 26512-2017
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ISO/IEC/IEEE 26512-2017
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEE1063-2001
@@ -111,6 +101,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: ISO-IEC-IEEE26512-2017
+    docid:
+    - id: ISO/IEC/IEEE 26512-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ISO/IEC/IEEE 26512-2017
+      format: text/plain
 keyword:
 - content: IEEE standards
 - content: Software engineering

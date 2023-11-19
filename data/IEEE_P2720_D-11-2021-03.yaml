@@ -46,6 +46,15 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: This guide will provide a description of the concepts, applicable standards,
+    and methods used for the calculation and management of rail potential on dc-electrified
+    rail transit systems.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -65,20 +74,21 @@ keyword:
 - content: Traction power supplies
 - content: accessible voltage
 - content: automatic grounding switch
+- content: IEEE 2720
 - content: negative grounding device
 - content: negative return system
 - content: permissible touch voltage
 - content: rail potential
 - content: rail voltage rise
 - content: touch voltage
-- content: voltage limiting device.
+- content: voltage limiting device
 doctype: standard
 editorialgroup:
   committee:
   - Rail Transportation Standards Committee of the IEEE Vehicular Technology Society
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

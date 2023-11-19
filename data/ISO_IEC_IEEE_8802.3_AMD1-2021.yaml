@@ -2,14 +2,14 @@
 schema-version: v1.2.3
 id: ISO-IEC-IEEE8802.3-Amd1-2021
 title:
-- content: 'IEEE/ISO/IEC International Standard-Telecommunications and exchange between
-    information technology systems — Requirements for local and metropolitan area
-    networks —Part 3: Standard for Ethernet AMENDMENT 1: Physical layer specifications
-    and management parameters for 2.5 Gb/s and 5 Gb/s operation over backplane'
+- content: 'IISO/IEC/IEEE International Standard - Telecommunications and exchange
+    between information technology systems--Requirements for local and metropolitan
+    area networks--Part 3: Standard for Ethernet AMENDMENT 12: Maintenance #15: Power
+    over Ethernet'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/9673685
+- content: https://ieeexplore.ieee.org/document/9921255
   type: src
 type: standard
 docid:
@@ -20,16 +20,16 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-8340-7
+- id: 978-1-5044-9052-8
   type: ISBN
-- id: 10.1109/IEEESTD.2022.9673685
+- id: 10.1109/IEEESTD.2022.9921255
   type: DOI
 docnumber: ISO/IEC/IEEE 8802.3/Amd1-2021
 date:
 - type: created
-  value: '2022-01-06'
+  value: '2022-10-17'
 - type: published
-  value: '2022-01-06'
+  value: '2022-11-23'
 - type: issued
   value: '2022'
 contributor:
@@ -45,16 +45,15 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-01-06'
+revdate: '2022-11-23'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Ethernet Media Access Control (MAC) parameters, Physical Layer specifications,
-    and management objects for the serial transfer of Ethernet format frames at 2.5
-    Gb/s and 5 Gb/s over electrical backplanes are defined in this amendment to IEEE
-    Std 802.3-2018.
+- content: This amendment implements editorial and technical corrections, refinements,
+    and clarifications to Clause 145, Power over Ethernet, and related portions of
+    the standard. No new features are added by this amendment.
   language:
   - en
   script:
@@ -78,6 +77,16 @@ copyright:
 relation:
 - type: adoptedFrom
   bibitem:
+    id: IEEE802.3cv-2021
+    docid:
+    - id: IEEE 802.3cv-2021
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3cv-2021
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
     id: IEEE802.3cb-2018
     docid:
     - id: IEEE 802.3cb-2018
@@ -88,98 +97,35 @@ relation:
       format: text/plain
 - type: adoptedFrom
   bibitem:
-    id: IEEE802.3cv-2021
+    id: IEEE802.3cb-2018
     docid:
-    - id: IEEE 802.3cv-2021
+    - id: IEEE 802.3cb-2018
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 802.3cv-2021
-      format: text/plain
-- type: adoptedFrom
-  bibitem:
-    id: IEEE802.3cp-2021
-    docid:
-    - id: IEEE 802.3cp-2021
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.3cp-2021
-      format: text/plain
-- type: adoptedFrom
-  bibitem:
-    id: IEEE802.3cv-2021
-    docid:
-    - id: IEEE 802.3cv-2021
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.3cv-2021
-      format: text/plain
-- type: adoptedFrom
-  bibitem:
-    id: IEEE802.3cp-2021
-    docid:
-    - id: IEEE 802.3cp-2021
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.3cp-2021
-      format: text/plain
-- type: adoptedFrom
-  bibitem:
-    id: IEEE802.3cv-2021
-    docid:
-    - id: IEEE 802.3cv-2021
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.3cv-2021
-      format: text/plain
-- type: adoptedFrom
-  bibitem:
-    id: IEEE802.3cp-2021
-    docid:
-    - id: IEEE 802.3cp-2021
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.3cp-2021
+      content: IEEE 802.3cb-2018
       format: text/plain
 keyword:
 - content: IEEE Standards
-- content: IEC Standards
 - content: ISO Standards
-- content: Ethernet
-- content: Energy efficiency
+- content: IEC Standards
 - content: Local area networks
 - content: Metropolitan area networks
+- content: Ethernet
+- content: Information technology
 - content: Information exchange
-- content: Physical layer
-- content: 2.5 Gigabit Ethernet
-- content: 5 Gigabit Ethernet
-- content: 2.5GBASE-KX
-- content: 2.5GBASE-X
-- content: 5GBASE-KR
-- content: 5GBASE-R
 - content: amendment
-- content: AN
-- content: Auto-Negotiation
-- content: Backplane Ethernet
-- content: BASE-R
-- content: BASE-X
-- content: EEE
-- content: Energy Efficient Ethernet
+- content: DTE power via MDI
 - content: Ethernet
 - content: IEEE 802.3
-- content: IEEE 802.3cb
+- content: IEEE 802.3bt
+- content: PoE
+- content: Power over Ethernet
 doctype: standard
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society
 ics:
-- code: 35.100.10
-  text: Physical layer
 - code: '35.110'
   text: Networking
 ext:

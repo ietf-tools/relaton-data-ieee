@@ -28,7 +28,7 @@ date:
 - type: published
   value: '2021-11-22'
 - type: issued
-  value: '2022-12-03'
+  value: '2021'
 contributor:
 - organization:
     name:
@@ -47,25 +47,6 @@ language:
 - en
 script:
 - Latn
-abstract:
-- content: Medical devices that offer a communication interface as specified by the
-    IEEE 11073 Service-oriented Device Connectivity (SDC) standards can be integrated
-    into a health IT system to jointly execute system functions. However, implementing
-    the IEEE 11073 SDC communication protocol is not sufficient to demonstrate safety,
-    effectiveness, and security of system functions resulting from the combination
-    of system function contributions from two or more medical devices. SDC participant
-    key purposes (PKPs) are sets of requirements that allow for manufacturers to have
-    certain expectations about BICEPS participants from other manufacturers. This
-    common understanding enables the manufacturers to perform risk management, verification,
-    validation, and usability engineering for the safe use of system functions. This
-    standard defines requirements for SDC metric participants in an SDC system that
-    comprises an IT network of medical devices to enable safe and secure contribution
-    to system functions based on the exchange of metric information.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -85,25 +66,21 @@ keyword:
 - content: Service-oriented architecture
 - content: Patient monitoring
 - content: Interoperability
-- content: base PKP; BICEPS; communication protocol specification; device component;
-    documentation and process responsibilities; dynamic medical device interoperability;
-    IEEE 11073-10701&#8482;; integrated clinical environment; medical device communication;
-    metric; metric PKP; participant key purpose; point-of-care service-oriented device
-    connectivity; risk management; safety
-- content: effectiveness
-- content: and security; SDC; system function; system function contribution; usability
-    engineering
+- content: MEDICAL DEVICE communication
+- content: point-of-care
+- content: service-oriented architecture
+- content: patient
+- content: SDC
+- content: Participant Key Purpose
+- content: Conformity
 doctype: standard
 editorialgroup:
   committee:
   - IEEE 11073 Standards Committee of the IEEE Engineering in Medicine and Biology
     Society
-ics:
-- code: 35.240.80
-  text: IT applications in health care technology
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold
