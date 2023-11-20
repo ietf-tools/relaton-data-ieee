@@ -65,6 +65,16 @@ copyright:
     url: http://www.ieee.org
   from: '1998'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE828-2005
+    docid:
+    - id: IEEE 828-2005
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 828-2005
+      format: text/plain
 - type: updates
   bibitem:
     id: IEEE828-1990
@@ -82,16 +92,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEE828-2005
-    docid:
-    - id: IEEE 828-2005
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 828-2005
-      format: text/plain
 keyword:
 - content: configuration control board
 - content: configuration items

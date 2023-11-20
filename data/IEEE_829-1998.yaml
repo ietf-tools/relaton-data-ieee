@@ -65,16 +65,6 @@ copyright:
     url: http://www.ieee.org
   from: '1998'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE829-2008
-    docid:
-    - id: IEEE 829-2008
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 829-2008
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEE829-1983
@@ -92,6 +82,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE829-2008
+    docid:
+    - id: IEEE 829-2008
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 829-2008
+      format: text/plain
 keyword:
 - content: IEEE standards
 - content: test case specificaiton

@@ -69,16 +69,6 @@ copyright:
     url: http://www.ieee.org
   from: '1986'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE80-2000
-    docid:
-    - id: IEEE 80-2000
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 80-2000
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEE80-1976
@@ -96,6 +86,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE80-2000
+    docid:
+    - id: IEEE 80-2000
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 80-2000
+      format: text/plain
 keyword:
 - content: Grounding
 - content: Standards

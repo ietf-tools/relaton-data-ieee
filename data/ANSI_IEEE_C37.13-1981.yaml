@@ -3,11 +3,10 @@ schema-version: v1.2.3
 id: ANSI-IEEEC37.13-1981
 title:
 - content: IEEE Standard for Low-Voltage AC Power Circuit Breakers Used in Enclosures
-    - ANSI/IEEE C37.13-1981
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/689535
+- content: https://ieeexplore.ieee.org/document/8684503
   type: src
 type: standard
 docid:
@@ -20,12 +19,14 @@ docid:
   primary: true
 - id: 978-0-7381-4274-6
   type: ISBN
-- id: 10.1109/IEEESTD.1981.82370
+- id: 10.1109/IEEESTD.1980.8684503
   type: DOI
 docnumber: ANSI/IEEE C37.13-1981
 date:
 - type: created
-  value: '1981'
+  value: '1980-11-30'
+- type: published
+  value: '2019-04-05'
 - type: issued
   value: '1979-09-27'
 contributor:
@@ -41,18 +42,21 @@ contributor:
         country: USA
   role:
   - type: publisher
+revdate: '2019-04-05'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'This standard covers enclosed low-voltage AC power circuit breakers, as
-    follows: (1) stationary or draw-out type of two or three-pole construction, with
-    one or more rated maximum voltages of 635 V (600 V for units incorporating fuses),
-    508 V, and 254 V for application on systems having nominal voltages of 600 V,
-    480 V, and 240 V. (2) unfused circuit breakers and fused circuit breakers (3)
-    manually operated or power operated circuit breakers, with or without electromechanical
-    or solid state trip devices.<<ETX>>'
+- content: This standard covers enclosed low-voltage AC power circuit breakers of
+    the stationary or drawout type of two- or three-pole construction, with one or
+    more rated maximum voltages of 635 V (600 V for units incorporating fuses), 508
+    V, and 254 V for application on systems having nominal voltages of 600 V, 480
+    V, and 240 V; with unfused or fused circuit breakers; manually or power operated;
+    and with or without electromechanical or solid-state trip devices. It deals with
+    service conditions, ratings, functional components, temperature limitations and
+    classifications of insulating materials, insulation (dielectric) withstand voltage
+    requirements, test procedures, and application.
   language:
   - en
   script:
@@ -67,8 +71,7 @@ copyright:
     url: http://www.ieee.org
   from: '1981'
 keyword:
-- content: Circuit breakers
-- content: Standards
+- content: C37.13
 doctype: standard
 editorialgroup:
   committee:

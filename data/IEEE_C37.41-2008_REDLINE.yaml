@@ -73,6 +73,16 @@ copyright:
     url: http://www.ieee.org
   from: '2011'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEEC37.41-2016
+    docid:
+    - id: IEEE C37.41-2016
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.41-2016
+      format: text/plain
 - type: updates
   bibitem:
     id: IEEEC37.41-2000
@@ -90,16 +100,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEEC37.41-2016
-    docid:
-    - id: IEEE C37.41-2016
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.41-2016
-      format: text/plain
 keyword:
 - content: IEEE standards
 - content: Voltage control

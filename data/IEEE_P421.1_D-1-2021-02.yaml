@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: IEEEP421.1-D-1-2021-02
 title:
-- content: IEEE Approved Draft Standard Definitions for Excitation Systems for Synchronous
+- content: IEEE Draft Standard Definitions for Excitation Systems for Synchronous
     Machines
   format: text/plain
   type: main
@@ -23,11 +23,11 @@ docid:
 docnumber: IEEE P421.1/D-1-2021-02
 date:
 - type: created
-  value: '2021-12-13'
+  value: '2021-02-15'
 - type: published
   value: '2021-02-16'
 - type: issued
-  value: '2021-12-08'
+  value: '2021'
 contributor:
 - organization:
     name:
@@ -58,6 +58,40 @@ copyright:
     url: http://www.ieee.org
   from: '2021'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE421.1-2007
+    docid:
+    - id: IEEE 421.1-2007
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 421.1-2007
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE421.1-2007
+    docid:
+    - id: IEEE 421.1-2007
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 421.1-2007
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE421.1-2007

@@ -2,12 +2,12 @@
 schema-version: v1.2.3
 id: IEEEIndustry
 title:
-- content: IEEE Industry Connections (IEEE-IC) File Format Recommendations for 3D
-    Body Model Processing
+- content: IEEE Industry Connections (IEEE-IC) Landmarks and Measurement Standards
+    Comparison in 3D Body-model Processing
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8879730
+- content: https://ieeexplore.ieee.org/document/8362828
   type: src
 type: standard
 docid:
@@ -18,16 +18,16 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-6179-5
+- id: 978-1-5044-4655-6
   type: ISBN
 docnumber: IEEE Industry
 date:
 - type: created
-  value: '2019-10-18'
+  value: '2018-02-22'
 - type: published
-  value: '2019-10-22'
+  value: '2018-05-22'
 - type: issued
-  value: '2019'
+  value: '2018'
 contributor:
 - organization:
     name:
@@ -41,11 +41,23 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2019-10-22'
+revdate: '2018-05-22'
 language:
 - en
 script:
 - Latn
+abstract:
+- content: This white paper reviews the current standards landscape for three-dimensional
+    body scanning, body landmarking, and measuring. International standards are compared
+    and recommendations are made for a minimal set of landmarks and measurements (L&amp;M)
+    needed for several industrial use cases of 3D Body Processing such as fit and
+    size estimation, retail, clothing manufacturing, CAD tool developers, and body
+    model storage and service.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 copyright:
 - owner:
   - name:
@@ -53,11 +65,18 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2019'
+  from: '2018'
+keyword:
+- content: Patents
+- content: Trademarks
+- content: IEEE Standards
+- content: Warranties
+- content: Licenses
+- content: Industries
 doctype: standard
 editorialgroup:
   committee:
-  - Industry Connections Committee of the IEEE-SASB
+  - Corporate Advisory Group of the IEEE SA Board of Governors
 ext:
   schema-version: v1.0.0
   standard_status: Active

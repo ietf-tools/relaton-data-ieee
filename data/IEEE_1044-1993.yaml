@@ -2,11 +2,11 @@
 schema-version: v1.2.3
 id: IEEE1044-1993
 title:
-- content: IEEE Standard Classification for Software Anomalies.
+- content: IEEE Standard Classification for Software Anomalies
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/392549
+- content: https://ieeexplore.ieee.org/document/8684689
   type: src
 type: standard
 docid:
@@ -19,12 +19,14 @@ docid:
   primary: true
 - id: 978-0-7381-0406-5
   type: ISBN
-- id: 10.1109/IEEESTD.1994.121429
+- id: 10.1109/IEEESTD.1993.8684689
   type: DOI
 docnumber: IEEE 1044-1993
 date:
 - type: created
-  value: '1994'
+  value: '1993-11-30'
+- type: published
+  value: '2019-04-05'
 - type: issued
   value: '1993-12-02'
 contributor:
@@ -40,10 +42,25 @@ contributor:
         country: USA
   role:
   - type: publisher
+revdate: '2019-04-05'
 language:
 - en
 script:
 - Latn
+abstract:
+- content: A uniform approach to the classification of anomalies found in software
+    and its documentation is provided. The processing of anomalies discovered during
+    any software life cycle phase are described, and comprehensive lists of software
+    anomaly classifications and related data items that are helpful to identify and
+    track anomalies are provided. This standard is not intended to define procedural
+    or format requirements for using the classification scheme. It does identify some
+    classification measures and does not attempt to define all the data supporting
+    the analysis of an anomaly.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 copyright:
 - owner:
   - name:
@@ -63,6 +80,25 @@ relation:
     formattedref:
       content: IEEE 1044-2009
       format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE1044-2009
+    docid:
+    - id: IEEE 1044-2009
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1044-2009
+      format: text/plain
+keyword:
+- content: software
+- content: anomalies
+- content: faults
+- content: failure
+- content: Supporting data item
+- content: Classification process
+- content: Category
+- content: Anomaly
 doctype: standard
 editorialgroup:
   committee:

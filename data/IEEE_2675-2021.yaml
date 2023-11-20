@@ -2,12 +2,12 @@
 schema-version: v1.2.3
 id: IEEE2675-2021
 title:
-- content: ISO/IEC/IEEE International Standard--Information technology--DevOps--Building
-    reliable and secure systems including application build, package and deployment
+- content: IEEE Standard for DevOps:Building Reliable and Secure Systems Including
+    Application Build, Package, and Deployment
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/9882056
+- content: https://ieeexplore.ieee.org/document/9415476
   type: src
 type: standard
 docid:
@@ -18,18 +18,18 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-8954-6
+- id: 978-1-5044-7407-8
   type: ISBN
-- id: 10.1109/IEEESTD.2022.9882056
+- id: 10.1109/IEEESTD.2021.9415476
   type: DOI
 docnumber: IEEE 2675-2021
 date:
 - type: created
-  value: '2022'
+  value: '2021'
 - type: published
-  value: '2022-09-09'
+  value: '2021-04-23'
 - type: issued
-  value: '2022'
+  value: '2021-02-09'
 contributor:
 - organization:
     name:
@@ -43,7 +43,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-09-09'
+revdate: '2021-04-23'
 language:
 - en
 script:
@@ -73,24 +73,12 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2021'
-relation:
-- type: adoptedFrom
-  bibitem:
-    id: ISO-IEC-IEEE32675-2022
-    docid:
-    - id: ISO/IEC/IEEE 32675-2022
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ISO/IEC/IEEE 32675-2022
-      format: text/plain
 keyword:
 - content: IEEE Standards
-- content: ISO Standards
-- content: IEC Standards
-- content: Information technology
+- content: Security
 - content: Reliability
 - content: Continuous time systems
+- content: Agile software development
 - content: agile
 - content: continuous delivery
 - content: continuous deployment
@@ -102,9 +90,6 @@ doctype: standard
 editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society
-ics:
-- code: '35.080'
-  text: Software
 ext:
   schema-version: v1.0.0
   standard_status: Active
