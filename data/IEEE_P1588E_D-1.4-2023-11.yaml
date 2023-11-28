@@ -1,31 +1,31 @@
 ---
 schema-version: v1.2.3
-id: IEEEP957-D-5-2023-10
+id: IEEEP1588e-D-1.4-2023-11
 title:
-- content: IEEE Draft Guide for Monitoring, Managing and Cleaning of Contaminated
-    Insulators
+- content: 'IEEE Draft Standard for a Precision Clock Synchronization Protocol for
+    Networked Measurement and Control Systems Amendment: MIB and YANG Data Models'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/10326135
+- content: https://ieeexplore.ieee.org/document/10328533
   type: src
 type: standard
 docid:
-- id: IEEE P957/D-5-2023-10
+- id: IEEE P1588e/D-1.4-2023-11
   type: IEEE
   primary: true
-- id: IEEE P957™/D-5-2023-10
+- id: IEEE P1588e™/D-1.4-2023-11
   type: IEEE
   scope: trademark
   primary: true
-- id: 979-8-8557-0335-1
+- id: 979-8-8557-0340-5
   type: ISBN
-docnumber: IEEE P957/D-5-2023-10
+docnumber: IEEE P1588e/D-1.4-2023-11
 date:
 - type: created
-  value: '2023-11-20'
+  value: '2023-11-22'
 - type: published
-  value: '2023-11-23'
+  value: '2023-11-24'
 - type: issued
   value: '2023'
 contributor:
@@ -41,15 +41,14 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-11-23'
+revdate: '2023-11-24'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Procedures for cleaning contaminated electrical insulators (excluding nuclear,
-    toxic, and hazardous chemical contaminants) of all types, using various equipment
-    and techniques, are provided.
+- content: This draft standard is an amendment of IEEE Std 1588&#8482;-2019. This
+    amendment identifies the structure and content of the IEEE 1588 MIB and YANG modules.
   language:
   - en
   script:
@@ -69,16 +68,16 @@ copyright:
 relation:
 - type: updates
   bibitem:
-    id: IEEE957-2005
+    id: IEEE1588-2019
     docid:
-    - id: IEEE 957-2005
+    - id: IEEE 1588-2019
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 957-2005
+      content: IEEE 1588-2019
       format: text/plain
   description:
-    content: revises
+    content: amends
     language:
     - en
     script:
@@ -86,19 +85,23 @@ relation:
     format: text/plain
 keyword:
 - content: IEEE Standards
-- content: Cleaning
-- content: Insulators
-- content: Contamination
-- content: Electronic equipment
-- content: cleaning
-- content: electrical insulators
+- content: Standards
+- content: Regulation
+- content: Warranties
+- content: Trademarks
+- content: Patents
+- content: Organizations
+- content: PTP
+- content: MIB
+- content: YANG
+- content: Management
 doctype: standard
 editorialgroup:
   committee:
-  - Transmission and Distribution of the IEEE Power and Energy Society
+  - TC9 - Sensor Technology of the IEEE Instrumentation and Measurement Society
 ics:
-- code: 29.080.10
-  text: Insulators
+- code: 39.040.99
+  text: Other time-measuring instruments
 ext:
   schema-version: v1.0.0
   standard_status: Active

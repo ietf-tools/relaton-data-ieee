@@ -1,31 +1,31 @@
 ---
 schema-version: v1.2.3
-id: IEEEP957-D-5-2023-10
+id: ISO-IEC-IEEEP24748.1
 title:
-- content: IEEE Draft Guide for Monitoring, Managing and Cleaning of Contaminated
-    Insulators
+- content: 'ISO/IEC/IEEE Draft International Standard - Systems and software engineering
+    - Life cycle management - Part 1: Guidelines for life cycle management'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/10326135
+- content: https://ieeexplore.ieee.org/document/10328530
   type: src
 type: standard
 docid:
-- id: IEEE P957/D-5-2023-10
+- id: ISO/IEC/IEEE P24748.1
   type: IEEE
   primary: true
-- id: IEEE P957™/D-5-2023-10
+- id: ISO/IEC/IEEE P24748.1™
   type: IEEE
   scope: trademark
   primary: true
-- id: 979-8-8557-0335-1
+- id: 979-8-8557-0341-2
   type: ISBN
-docnumber: IEEE P957/D-5-2023-10
+docnumber: ISO/IEC/IEEE P24748.1
 date:
 - type: created
-  value: '2023-11-20'
+  value: '2023-11-22'
 - type: published
-  value: '2023-11-23'
+  value: '2023-11-24'
 - type: issued
   value: '2023'
 contributor:
@@ -41,20 +41,11 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-11-23'
+revdate: '2023-11-24'
 language:
 - en
 script:
 - Latn
-abstract:
-- content: Procedures for cleaning contaminated electrical insulators (excluding nuclear,
-    toxic, and hazardous chemical contaminants) of all types, using various equipment
-    and techniques, are provided.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -65,17 +56,21 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+  - name:
+    - content: ISO
+  - name:
+    - content: IEC
   from: '2023'
 relation:
 - type: updates
   bibitem:
-    id: IEEE957-2005
+    id: ISO-IEC-IEEE24748.1-2018
     docid:
-    - id: IEEE 957-2005
+    - id: ISO/IEC/IEEE 24748.1-2018
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 957-2005
+      content: ISO/IEC/IEEE 24748.1-2018
       format: text/plain
   description:
     content: revises
@@ -85,20 +80,20 @@ relation:
     - Latn
     format: text/plain
 keyword:
-- content: IEEE Standards
-- content: Cleaning
-- content: Insulators
-- content: Contamination
-- content: Electronic equipment
-- content: cleaning
-- content: electrical insulators
+- content: ISO Standards
+- content: IEC Standards
+- content: ISO
+- content: IEC
+- content: Patents
+- content: Organizations
+- content: Documentation
 doctype: standard
 editorialgroup:
   committee:
-  - Transmission and Distribution of the IEEE Power and Energy Society
+  - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society
 ics:
-- code: 29.080.10
-  text: Insulators
+- code: '35.080'
+  text: Software
 ext:
   schema-version: v1.0.0
   standard_status: Active
