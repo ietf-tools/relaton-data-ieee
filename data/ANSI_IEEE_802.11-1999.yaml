@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: ANSI-IEEE802.11-1999
 title:
-- content: 'Standard for Information Technology - Telecommunications and information
+- content: 'IEEE Standard for Information Technology - Telecommunications and information
     exchange between systems - Local and Metropolitan Area networks - Specific requirements
     - Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications'
   format: text/plain
@@ -28,7 +28,7 @@ date:
 - type: created
   value: '1998-11-30'
 - type: published
-  value: '2019-04-05'
+  value: '2019-04-09'
 - type: issued
   value: '1999-03-18'
 contributor:
@@ -44,7 +44,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2019-04-05'
+revdate: '2019-04-09'
 language:
 - en
 script:
@@ -112,17 +112,42 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.11-1997
+    docid:
+    - id: IEEE 802.11-1997
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.11-1997
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: Standards
+- content: IEEE Standards
+- content: ISO Standards
+- content: IEC Standards
+- content: Physical layer
+- content: IEEE 802.11 Standard
+- content: Protocols
 doctype: standard
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society
 ics:
+- code: 35.100.10
+  text: Physical layer
 - code: '35.110'
   text: Networking
 - code: 35.100.20
   text: Data link layer
-- code: 35.100.10
-  text: Physical layer
 ext:
   schema-version: v1.0.0
   standard_status: Superseded
