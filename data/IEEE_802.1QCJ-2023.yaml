@@ -1,0 +1,142 @@
+---
+schema-version: v1.2.3
+id: IEEE802.1Qcj-2023
+title:
+- content: 'IEEE Standard for Local and Metropolitan Area Networks--Bridges and Bridged
+    Networks Amendment 37: Automatic Attachment to Provider Backbone Bridging (PBB)
+    Services'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10336854
+  type: src
+type: standard
+docid:
+- id: IEEE 802.1Qcj-2023
+  type: IEEE
+  primary: true
+- id: IEEE 802.1Qcj®-2023
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-0268-2
+  type: ISBN
+- id: 10.1109/IEEESTD.2023.10336854
+  type: DOI
+docnumber: IEEE 802.1Qcj-2023
+date:
+- type: created
+  value: '2023-11-17'
+- type: published
+  value: '2023-12-01'
+- type: issued
+  value: '2023-09-21'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2023-12-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This amendment to IEEE Std 802.1Q-2022 as amended by IEEE Std 802.1Qcz-2023
+    and IEEE Std 802.1Qcw-2023 specifies protocols, procedures, and management objects
+    for auto attachment of network devices to Provider Backbone service instances
+    using Type, Length, Value (TLVs) within the Link Layer Discovery Protocol (LLDP).
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2023'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE802.1Q-2022
+    docid:
+    - id: IEEE 802.1Q-2022
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1Q-2022
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Bridge circuits
+- content: Time measurement
+- content: Sensitivity analysis
+- content: Metropolitan area networks
+- content: Local area networks
+- content: Virtual LAN
+- content: Tree graphs
+- content: AAB
+- content: AAD
+- content: AAP
+- content: amendment
+- content: Auto Attach
+- content: Auto Attach Backbone Edge Bridge
+- content: Auto Attach Device
+- content: Auto Attach Protocol
+- content: Bridged Network
+- content: IEEE 802.1Q&#8482;
+- content: IEEE 802.1Qcj&#8482;
+- content: LAN
+- content: local area network
+- content: MAC Bridge
+- content: metropolitan area network
+- content: MSTP
+- content: Multiple Spanning Tree Protocol
+- content: PBBN
+- content: PBN
+- content: Provider Backbone Bridged Network
+- content: Provider Bridged Network
+- content: Rapid Spanning Tree Protocol
+- content: RSTP
+- content: Shortest Path Bridging Protocol
+- content: SPB Protocol
+- content: Time-Sensitive Networking
+- content: TSN
+- content: Virtual Bridged Network
+- content: virtual LAN
+- content: VLAN Bridge
+doctype: standard
+editorialgroup:
+  committee:
+  - LAN/MAN Standards Committee of the IEEE Computer Society
+ics:
+- code: '35.110'
+  text: Networking
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Approved
+  pubstatus: Active
+  holdstatus: Publish
