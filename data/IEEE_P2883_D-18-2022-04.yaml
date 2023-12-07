@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: IEEEP2883-D-18-2022-04
 title:
-- content: IEEE Approved Draft Standard for Sanitizing Storage
+- content: IEEE Draft Standard for Sanitizing Storage
   format: text/plain
   type: main
 link:
@@ -23,10 +23,8 @@ docnumber: IEEE P2883/D-18-2022-04
 date:
 - type: created
   value: '2022'
-- type: published
-  value: '2022-04-20'
 - type: issued
-  value: '2022-06-16'
+  value: '2022'
 contributor:
 - organization:
     name:
@@ -40,15 +38,14 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-04-20'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Methods of sanitizing logical storage and physical storage, as well as
+- content: Methods of sanitizing logical storage 1 and physical storage as well as
     providing technology-specific requirements and guidance for the elimination of
-    recorded data, are specified in this standard.
+    recorded data is specified in this standard.
   language:
   - en
   script:
@@ -66,25 +63,18 @@ copyright:
     url: http://www.ieee.org
   from: '2022'
 keyword:
-- content: IEEE Standards
-- content: Cryptography
-- content: Data security
-- content: Data quality
-- content: Data handling
-- content: Media
-- content: Storage management
 - content: clear
+- content: data destruct
 - content: crypto erase
 - content: cryptographic erase
 - content: crypto scramble
-- content: data destruct
 - content: data removal
 - content: destroy
-- content: IEEE 2883
+- content: IEEE 2883&#8482;
 - content: media sanitization
 - content: purge
-- content: sanitization
 - content: sanitize
+- content: sanitization
 - content: security
 doctype: standard
 editorialgroup:
@@ -92,7 +82,7 @@ editorialgroup:
   - Cybersecurity and Privacy Standards Committee of the IEEE Computer Society
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: IEEEP434-D-10
 title:
-- content: Unapproved IEEE Draft Guide for Functional Evaluation of Insulation Systems
-    for Large High-Voltage Machines (Revision of IEEE 434-1973)
+- content: IEEE Guide for Functional Evaluation of Insulation Systems for AC Electric
+    Machines Rated 2300 V and Above
   format: text/plain
   type: main
 link:
@@ -23,7 +23,11 @@ docid:
 docnumber: IEEE P434/D-10
 date:
 - type: created
-  value: '2006'
+  value: '2006-12-31'
+- type: published
+  value: '2022-03-03'
+- type: issued
+  value: '2006-12-06'
 contributor:
 - organization:
     name:
@@ -31,12 +35,26 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
+revdate: '2022-03-03'
 language:
 - en
 script:
 - Latn
+abstract:
+- content: A procedure that may be used to evaluate and compare insulation systems
+    used, or proposed for use, in large ac electric machines is described in this
+    guide.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -202,17 +220,49 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: ANSI-IEEE434-1973
+    docid:
+    - id: ANSI/IEEE 434-1973
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI/IEEE 434-1973
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: High-voltage techniques
 - content: Insulation testing
+- content: ac
+- content: accelerated aging
+- content: armature winding
+- content: electric machine
+- content: electrical insulation
+- content: electromechanical
+- content: functional evaluation
+- content: stator winding
+- content: thermal endurance
+- content: thermal expansion
+- content: thermomechanical
+- content: voltage endurance
 doctype: standard
+editorialgroup:
+  committee:
+  - Electric Machinery of the IEEE Power and Energy Society
 ics:
 - code: 29.080.30
   text: Insulation systems
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

@@ -74,16 +74,6 @@ copyright:
     url: http://www.ieee.org
   from: '2006'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE421.5-2016
-    docid:
-    - id: IEEE 421.5-2016
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 421.5-2016
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEE421.5-1992
@@ -101,6 +91,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE421.5-2016
+    docid:
+    - id: IEEE 421.5-2016
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 421.5-2016
+      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Patents

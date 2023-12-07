@@ -7,7 +7,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/573170
+- content: https://ieeexplore.ieee.org/document/8684631
   type: src
 type: standard
 docid:
@@ -20,14 +20,14 @@ docid:
   primary: true
 - id: 978-0-7381-0710-3
   type: ISBN
-- id: 10.1109/IEEESTD.1984.81617
+- id: 10.1109/IEEESTD.1983.8684631
   type: DOI
 docnumber: IEEE 690-1984
 date:
 - type: created
-  value: '1984-02-24'
+  value: '1983-11-30'
 - type: published
-  value: '2015-02-24'
+  value: '2019-04-05'
 - type: issued
   value: '1983-12-08'
 contributor:
@@ -43,7 +43,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2015-02-24'
+revdate: '2019-04-05'
 language:
 - en
 script:
@@ -70,6 +70,16 @@ copyright:
     url: http://www.ieee.org
   from: '1984'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE690-2004
+    docid:
+    - id: IEEE 690-2004
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 690-2004
+      format: text/plain
 - type: obsoletedBy
   bibitem:
     id: IEEE690-2004

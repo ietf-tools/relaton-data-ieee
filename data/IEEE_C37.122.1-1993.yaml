@@ -6,7 +6,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8684737
+- content: https://ieeexplore.ieee.org/document/392592
   type: src
 type: standard
 docid:
@@ -19,14 +19,14 @@ docid:
   primary: true
 - id: 978-0-7381-1011-0
   type: ISBN
-- id: 10.1109/IEEESTD.1993.8684737
+- id: 10.1109/IEEESTD.1994.121441
   type: DOI
 docnumber: IEEE C37.122.1-1993
 date:
 - type: created
-  value: '1993-11-30'
+  value: '1994-12-09'
 - type: published
-  value: '2019-04-05'
+  value: '2014-12-09'
 - type: issued
   value: '1993-12-02'
 contributor:
@@ -42,7 +42,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2019-04-05'
+revdate: '2014-12-09'
 language:
 - en
 script:
@@ -66,6 +66,16 @@ copyright:
     url: http://www.ieee.org
   from: '1994'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEEC37.122.1-2014
+    docid:
+    - id: IEEE C37.122.1-2014
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.122.1-2014
+      format: text/plain
 - type: updates
   bibitem:
     id: IEEEC37.122-1983
@@ -83,16 +93,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEEC37.122.1-2014
-    docid:
-    - id: IEEE C37.122.1-2014
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.122.1-2014
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEEC37.122-1983

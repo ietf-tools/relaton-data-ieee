@@ -70,16 +70,6 @@ copyright:
     url: http://www.ieee.org
   from: '1998'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEEC62.22-2009
-    docid:
-    - id: IEEE C62.22-2009
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C62.22-2009
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEEC62.22-1991
@@ -97,6 +87,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEEC62.22-2009
+    docid:
+    - id: IEEE C62.22-2009
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C62.22-2009
+      format: text/plain
 keyword:
 - content: Arresters
 - content: electric power equipment

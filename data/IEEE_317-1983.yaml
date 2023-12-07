@@ -70,6 +70,23 @@ copyright:
     url: http://www.ieee.org
   from: '1983'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE317-1976
+    docid:
+    - id: IEEE 317-1976
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 317-1976
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: obsoletedBy
   bibitem:
     id: IEEE317-2013
@@ -97,23 +114,16 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
+- type: obsoletedBy
   bibitem:
-    id: IEEE317-1976
+    id: IEEE317-2013
     docid:
-    - id: IEEE 317-1976
+    - id: IEEE 317-2013
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 317-1976
+      content: IEEE 317-2013
       format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: Cables
 - content: Conductors

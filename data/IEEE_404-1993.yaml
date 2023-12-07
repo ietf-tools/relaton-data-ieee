@@ -341,6 +341,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE404-2000
+    docid:
+    - id: IEEE 404-2000
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 404-2000
+      format: text/plain
 - type: updates
   bibitem:
     id: ANSI-IEEE404-1986
@@ -358,16 +368,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEE404-2000
-    docid:
-    - id: IEEE 404-2000
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 404-2000
-      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Cable shielding

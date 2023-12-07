@@ -86,23 +86,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE802.3-2018
-    docid:
-    - id: IEEE 802.3-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.3-2018
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Ethernet
@@ -110,24 +93,6 @@ keyword:
 - content: Local area networks
 - content: Metropolitan area networks
 - content: Telecommunication network management
-- content: 100GAUI-1
-- content: 100GBASE-CR1
-- content: 100GBASE-KR1
-- content: 100 Gigabit Ethernet
-- content: 200GAUI-2
-- content: 200GBASE-CR2
-- content: 200GBASE-KR2
-- content: 200 Gigabit Ethernet
-- content: 400GAUI-4
-- content: 400GBASE-CR4
-- content: 400GBASE-KR4
-- content: 400 Gigabit Ethernet
-- content: amendment
-- content: Ethernet
-- content: FEC
-- content: forward error correction
-- content: IEEE 802.3&#8482;
-- content: IEEE 802.3ck&#8482;
 doctype: standard
 editorialgroup:
   committee:
@@ -139,7 +104,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

@@ -2,14 +2,12 @@
 schema-version: v1.2.3
 id: ISO-IEC-IEEE8802.3
 title:
-- content: 'Iso/iec/ieee international standard--telecommunications and exchange between
-    information technology systems--requirements for local and metropolitan area networks--part
-    3: standard for ethernet amendment 11: physical layers and management parameters
-    for 100 gb/s and 400 gb/s operation over singlemode fiber at 100 gb/s per wavelength'
+- content: ISO/IEC/IEEE International Standard - Information technology - Management
+    Information Base (MIB) - Definitions for Ethernet - Part 3-1
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/9825642
+- content: https://ieeexplore.ieee.org/document/7177007
   type: src
 type: standard
 docid:
@@ -20,18 +18,18 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-8809-9
+- id: 978-0-7381-9833-0
   type: ISBN
-- id: 10.1109/IEEESTD.2022.9825642
+- id: 10.1109/IEEESTD.2015.7177007
   type: DOI
 docnumber: ISO/IEC/IEEE 8802.3
 date:
 - type: created
-  value: '2022'
+  value: '2015-08-01'
 - type: published
-  value: '2022-07-08'
+  value: '2015-08-04'
 - type: issued
-  value: '2022'
+  value: '2015-01-01'
 contributor:
 - organization:
     name:
@@ -45,15 +43,20 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-07-08'
+revdate: '2015-08-04'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This amendment to IEEE Std 802.3-2018 adds Physical Layer specifications
-    and management parameters for 100 Gb/s and 400 Gb/s Ethernet optical interfaces
-    for reaches up to 10 km based on 100 Gb/s per wavelength optical signaling.
+- content: The Management Information Base (MIB) module specifications for IEEE Std
+    802.3, also known as Ethernet, are contained in this standard. It includes the
+    Structure of Management Information Version 2 (SMIv2) MIB module specifications
+    formerly produced and published by the Internet Engineering Task Force (IETF),
+    and the Guidelines for the Definition of Managed Objects (GDMO) MIB modules formerly
+    specified within IEEE Std 802.3, as well as extensions resulting from amendments
+    to IEEE Std 802.3. The SMIv2 MIB modules are intended for use with the Simple
+    Network Management Protocol (SNMP), commonly used to manage Ethernet.
   language:
   - en
   script:
@@ -73,62 +76,30 @@ copyright:
     - content: ISO
   - name:
     - content: IEC
-  from: '2022'
-relation:
-- type: adoptedFrom
-  bibitem:
-    id: IEEE802.3cu-2021
-    docid:
-    - id: IEEE 802.3cu-2021
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.3cu-2021
-      format: text/plain
-- type: adoptedFrom
-  bibitem:
-    id: IEEE802.3cu-2021
-    docid:
-    - id: IEEE 802.3cu-2021
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.3cu-2021
-      format: text/plain
+  from: '2015'
 keyword:
 - content: IEEE Standards
-- content: ISO Standards
-- content: IEC Standards
-- content: Local area networks
-- content: Metropolitan area networks
-- content: Physical layer
-- content: Information technology
-- content: Information exchange
-- content: Optical fiber networks
-- content: Urban areas
-- content: 100 Gb/s Ethernet
-- content: 100GBASE-FR1
-- content: 100GBASE-LR1
-- content: 400 Gb/s Ethernet
-- content: 400GBASE-FR4
-- content: 400GBASE-LR4-6
-- content: Energy-Efficient Ethernet (EEE)
 - content: Ethernet
-- content: forward error correction (FEC)
-- content: IEEE 802.3
-- content: IEEE 802.3cu
-- content: PAM4
-- content: Physical Medium Dependent (PMD) sublayer
-- content: single-mode fiber (SMF)
+- content: Telecommunication network management
+- content: Message information Base
+- content: Message systems
+- content: Information technology
+- content: Ethernet
+- content: GDMO
+- content: IEEE 802.3.1
+- content: MIB
+- content: network management
+- content: SNMP
+- content: SMIv2
 doctype: standard
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society
 ics:
-- code: 35.100.10
-  text: Physical layer
 - code: '35.110'
   text: Networking
+- code: 35.100.20
+  text: Data link layer
 ext:
   schema-version: v1.0.0
   standard_status: Active

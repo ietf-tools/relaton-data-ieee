@@ -48,11 +48,11 @@ language:
 script:
 - Latn
 abstract:
-- content: This standard specifies procedures, managed objects and protocols for bridges
-    and end systems that provide identification and replication of packets for redundant
-    transmission, identification of duplicate packets, and elimination of duplicate
-    packets. It is not concerned with the creation of the multiple paths over which
-    the duplicates are transmitted.
+- content: This amendment specifies procedures, managed objects, and protocols for
+    bridges and end systems that provide identification and replication of packets
+    for redundant transmission, identification of duplicate packets, and elimination
+    of duplicate packets. It is not concerned with the creation of the multiple paths
+    over which the duplicates are transmitted.
   language:
   - en
   script:
@@ -784,6 +784,91 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.1CB-2017
+    docid:
+    - id: IEEE 802.1CB-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1CB-2017
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.1CB-2017
+    docid:
+    - id: IEEE 802.1CB-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1CB-2017
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.1CB-2017
+    docid:
+    - id: IEEE 802.1CB-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1CB-2017
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.1CB-2017
+    docid:
+    - id: IEEE 802.1CB-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1CB-2017
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.1CB-2017
+    docid:
+    - id: IEEE 802.1CB-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1CB-2017
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Replicability
@@ -791,24 +876,24 @@ keyword:
 - content: Metropolitan area networks
 - content: Bridge circuits
 - content: Redundancy
-- content: TSN
-- content: Time-Sensitive Networking
-- content: Redundancy
-- content: Bridging
-- content: Bridges
-- content: Frame Replication
-- content: Frame Elimination
-- content: Stream identification
-- content: Extended Stream identification
+- content: amendment
 - content: Bridged Local Area Networks
-- content: IEEE 802&#174;
-- content: IEEE 802.1Q&#8482;
-- content: IEEE 802.1CB&#8482;
+- content: Bridges
+- content: Bridging
+- content: Extended Stream identification
+- content: Frame Elimination
+- content: Frame Replication
+- content: IEEE 802
+- content: IEEE 802.1CB
 - content: IEEE 802.1CBdb
+- content: IEEE 802.1Q
 - content: local area networks (LANs)
 - content: MAC Bridges
+- content: Redundancy
+- content: Stream identification
+- content: Time-Sensitive Networking
+- content: TSN
 - content: Virtual Bridged Local Area Networks (virtual LANs)
-- content: amendment
 doctype: standard
 editorialgroup:
   committee:
@@ -824,7 +909,7 @@ ics:
   text: IT applications in industry
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

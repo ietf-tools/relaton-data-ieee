@@ -8,7 +8,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8684629
+- content: https://ieeexplore.ieee.org/document/6830795
   type: src
 type: standard
 docid:
@@ -21,14 +21,16 @@ docid:
   primary: true
 - id: 978-0-7381-3623-3
   type: ISBN
-- id: 10.1109/IEEESTD.2002.8684629
+- id: 10.1109/IEEESTD.2003.6830795
   type: DOI
 docnumber: ANSI C57.12.20-1997
 date:
+- type: updated
+  value: '2014-07-24'
 - type: created
-  value: '2002-11-30'
+  value: '2003'
 - type: published
-  value: '2019-04-05'
+  value: '2014-06-11'
 - type: issued
   value: '1996-06-20'
 contributor:
@@ -40,7 +42,7 @@ contributor:
     url: http://www.ieee.org
   role:
   - type: publisher
-revdate: '2019-04-05'
+revdate: '2014-06-11'
 language:
 - en
 script:
@@ -53,7 +55,7 @@ abstract:
     34500 volts and below and low voltages 7970/13800Y volts and below. Such transformers
     may include one or more of the following features: 1) High-voltage, overcurrent
     protection; 2) High-voltage, overvoltage protection. 3) Low-voltage, overcurrent
-    protection; 4) Low-voltage, overvoltage protection'
+    protection; 4) Low-voltage, overvoltage protection.'
   language:
   - en
   script:
@@ -78,6 +80,24 @@ relation:
     formattedref:
       content: IEEE C57.12.20-2005
       format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEEC57.12.20-2005
+    docid:
+    - id: IEEE C57.12.20-2005
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C57.12.20-2005
+      format: text/plain
+keyword:
+- content: ANSI standards
+- content: Transformers
+- content: Power distribution
+- content: Transformers
+- content: Safety
+- content: Voltage control
+- content: Power transmission lines
 doctype: standard
 editorialgroup:
   committee:

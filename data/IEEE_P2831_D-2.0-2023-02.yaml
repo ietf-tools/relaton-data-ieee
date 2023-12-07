@@ -47,18 +47,6 @@ language:
 - en
 script:
 - Latn
-abstract:
-- content: The category and composition, technical requirements, test methods, inspection
-    rules, marking, packing, transportation, storage, and installation of distributed
-    traveling wave fault location devices for high-voltage direct-current (HVDC) transmission
-    lines are detailed. This recommended practice is applicable to distributed traveling
-    wave fault location devices for HVDC transmission lines and alternating current
-    (ac) transmission lines.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -77,23 +65,19 @@ keyword:
 - content: Fault location
 - content: Power distribution
 - content: Power transmission lines
-- content: dc transmission lines
-- content: distributed fault monitoring
-- content: double-ended fault location
-- content: IEEE 2831&#8482;
+- content: Distributed fault monitoring
 - content: recognition accuracy
+- content: double-ended fault location
+- content: single ended fault location
 - content: section location
-- content: single-ended fault location
+- content: DC transmission lines
 doctype: standard
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society
-ics:
-- code: 29.240.20
-  text: Power transmission and distribution lines
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

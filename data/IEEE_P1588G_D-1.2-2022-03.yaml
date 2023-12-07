@@ -26,7 +26,7 @@ date:
 - type: created
   value: '2022'
 - type: published
-  value: '2022-06-20'
+  value: '2022-06-21'
 - type: issued
   value: '2022'
 contributor:
@@ -42,14 +42,14 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-06-20'
+revdate: '2022-06-21'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'This draft standard is an amendment of IEEE Std 1588-2019. This amendment:
-    a) Identifies alternative terms for “master’ and “slave” used in implementations
+- content: 'This draft standard is an amendment of IEEE Std 1588&#8482;-2019. This
+    amendment: a) Identifies alternative terms for “master’ and “slave” used in implementations
     or PTP Profiles; b) Identifies alternative names for port state names; c) Identifies
     abbreviations for clock roles or port states.'
   language:
@@ -86,40 +86,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1588-2019
-    docid:
-    - id: IEEE 1588-2019
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1588-2019
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1588-2019
-    docid:
-    - id: IEEE 1588-2019
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1588-2019
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Main-Secondary
@@ -139,7 +105,7 @@ ics:
   text: Other time-measuring instruments
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

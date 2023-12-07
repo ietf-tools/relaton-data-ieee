@@ -46,6 +46,15 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: Required definitions, ratings, and procedures for performing design tests,
+    production tests, and construction requirements for capacitor switches for ac
+    systems from 1 kV to 38 kV are covered in this standard.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -75,11 +84,72 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC37.66-2005
+    docid:
+    - id: IEEE C37.66-2005
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.66-2005
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC37.66-2005
+    docid:
+    - id: IEEE C37.66-2005
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.66-2005
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC37.66-2005
+    docid:
+    - id: IEEE C37.66-2005
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.66-2005
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: AC machines
 - content: Capacitors
 - content: Switchgear
+- content: back-to-back capacitor switching
+- content: capacitor load
+- content: capacitor switches
+- content: IEEE C37.66
+- content: inrush current
+- content: operation
+- content: pole discrepancy
+- content: probability of restrike classification
+- content: restrike
+- content: simultaneous operation
 doctype: standard
 editorialgroup:
   committee:
@@ -89,7 +159,7 @@ ics:
   text: High voltage switchgear and controlgear
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

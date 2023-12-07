@@ -27,7 +27,7 @@ date:
 - type: created
   value: '2023'
 - type: published
-  value: '2023-03-28'
+  value: '2023-03-29'
 - type: issued
   value: '2023'
 contributor:
@@ -43,7 +43,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-03-28'
+revdate: '2023-03-29'
 language:
 - en
 script:
@@ -69,6 +69,23 @@ copyright:
     url: http://www.ieee.org
   from: '2023'
 relation:
+- type: updates
+  bibitem:
+    id: IEEEC37.238-2017
+    docid:
+    - id: IEEE C37.238-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.238-2017
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEEC37.238-2017
@@ -114,7 +131,7 @@ ics:
   text: Other time-measuring instruments
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

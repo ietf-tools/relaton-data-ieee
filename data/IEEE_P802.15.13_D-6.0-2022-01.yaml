@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2022-01-14'
 - type: issued
-  value: '2023-02-15'
+  value: '2022'
 contributor:
 - organization:
     name:
@@ -47,12 +47,12 @@ language:
 script:
 - Latn
 abstract:
-- content: The protocol and compatible network equipment for optical wireless communications
-    and its operation as an optical wireless personal area network (OWPAN), supporting
-    data rates of multiple Gbit/s for wireless specialty applications, are defined
-    in this standard. A medium access control (MAC) sublayer, supporting scheduled
-    and polled medium access, as well as two physical layers (PHYs), enabling low
-    complexity, low power, and high throughput are included.
+- content: This standard defines the protocol and compatible network equipment for
+    optical wireless communications and its operation as an optical wireless personal
+    area network (OWPAN) supporting data rates of multiple Gbit/s for wireless specialty
+    applications. The standard defines a medium access control (MAC) layer operating
+    in beacon-enabled or non-beacon-enabled mode and three physical layers (PHYs)
+    enabling low complexity, low power, and high throughput.
   language:
   - en
   script:
@@ -70,29 +70,20 @@ copyright:
     url: http://www.ieee.org
   from: '2022'
 keyword:
-- content: IEEE Standards
-- content: Wireless communication
-- content: Optical fiber communication
-- content: MIMO
-- content: OFDM
-- content: Pulse width modulation
-- content: DC-biased OFDM
-- content: distributed MIMO
-- content: IEEE 802&#174;
-- content: IEEE 802.15.13&#8482;
-- content: mobility support
 - content: optical wireless communication
+- content: LiFi
+- content: IEEE Std 802.15.13&#8482;
+- content: DC-biased OFDM
 - content: pulsed modulation
+- content: distributed MIMO
+- content: mobility support
 doctype: standard
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society
-ics:
-- code: '35.110'
-  text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

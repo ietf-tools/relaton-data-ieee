@@ -50,11 +50,12 @@ language:
 script:
 - Latn
 abstract:
-- content: This amendment defines standardized modifications to both the IEEE 802.11
-    physical layers (PHY) and the IEEE 802.11 medium access control layer (MAC) that
-    enables at least one mode of operation capable of supporting a maximum throughput
-    of at least 20 gigabits per second (measured at the MAC data service access point),
-    while maintaining or improving the power efficiency per station.
+- content: In this amendment to IEEE Std 802.11-2020, standardized modifications to
+    both the IEEE 802.11 physical layer (PHY) and the IEEE 802.11 medium access control
+    (MAC) sublayer are defined to enable at least one mode of operation capable of
+    supporting a maximum throughput of at least 20 gigabits per second (measured at
+    the MAC data service access point), while maintaining or improving the power efficiency
+    per station.
   language:
   - en
   script:
@@ -89,6 +90,23 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.11-2020
+    docid:
+    - id: IEEE 802.11-2020
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.11-2020
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Local area networks
@@ -97,13 +115,15 @@ keyword:
 - content: Array signal processing
 - content: MIMO
 - content: 60 GHz
-- content: millimeter-wave
-- content: directional multi-gigabit
-- content: Extended DMG
-- content: EDMG
 - content: beamforming
-- content: multiple input multiple output
+- content: directional multi-gigabit
+- content: EDMG
+- content: Extended DMG
+- content: IEEE 802.11&#8482;
+- content: IEEE 802.11ay&#8482;
+- content: millimeter-wave
 - content: MIMO
+- content: multiple input multiple output
 - content: variable channel widths
 doctype: standard
 editorialgroup:
@@ -114,7 +134,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

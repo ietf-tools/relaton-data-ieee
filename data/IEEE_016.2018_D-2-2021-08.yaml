@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: IEEE016.2018-D-2-2021-08
 title:
-- content: IEEE Approved Draft Standard for AC High Voltage Circuit Switchers Rated
-    15.5 kV through 245 kV - Corrigendum 1
+- content: IEEE Draft Standard for AC High Voltage Circuit Switchers Rated 15.5 kV
+    through 245 kV - Corrigendum 1
   format: text/plain
   type: main
 link:
@@ -23,7 +23,7 @@ docid:
 docnumber: IEEE 016.2018/D-2-2021-08
 date:
 - type: created
-  value: '2021-11-11'
+  value: '2021-08-23'
 - type: published
   value: '2021-08-24'
 - type: issued
@@ -46,6 +46,13 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: This corrigendum is to improve the current IEEE Std C37.016.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -58,6 +65,40 @@ copyright:
     url: http://www.ieee.org
   from: '2021'
 relation:
+- type: updates
+  bibitem:
+    id: IEEEC37.016-2018
+    docid:
+    - id: IEEE C37.016-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.016-2018
+      format: text/plain
+  description:
+    content: corrects
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC37.016-2018
+    docid:
+    - id: IEEE C37.016-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.016-2018
+      format: text/plain
+  description:
+    content: corrects
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEEC37.016-2018
@@ -106,7 +147,7 @@ ics:
   text: Switches
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

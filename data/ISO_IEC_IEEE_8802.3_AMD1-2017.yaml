@@ -2,15 +2,13 @@
 schema-version: v1.2.3
 id: ISO-IEC-IEEE8802.3-Amd1-2017
 title:
-- content: 'ISO/IEC/IEEE International Standard - Information technology - Telecommunications
-    and information exchange between systems - Local and metropolitan area networks
-    - Specific requirements - Part 3: Standard for Ethernet AMENDMENT 11: Physical
-    layer and management parameters for serial 25 Gb/s Ethernet operation over single-mode
-    fiber'
+- content: 'ISO/IEC/IEEE International Standard - Part 3: Standard for Ethernet -
+    Amendment 1: Physical Layer Specifications and Management Parameters for 100 Mb/s
+    Operation over a Single Balanced Twisted Pair Cable (100BASE-T1)'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8664705
+- content: https://ieeexplore.ieee.org/document/8310988
   type: src
 type: standard
 docid:
@@ -21,18 +19,18 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-5595-4
+- id: 978-1-5044-4733-1
   type: ISBN
-- id: 10.1109/IEEESTD.2019.8664705
+- id: 10.1109/IEEESTD.2018.8310988
   type: DOI
 docnumber: ISO/IEC/IEEE 8802.3/Amd1-2017
 date:
 - type: created
-  value: '2019'
+  value: '2018'
 - type: published
-  value: '2019-03-11'
+  value: '2018-03-09'
 - type: issued
-  value: '2019'
+  value: '2018'
 contributor:
 - organization:
     name:
@@ -46,15 +44,17 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2019-03-11'
+revdate: '2018-03-09'
 language:
 - en
 script:
 - Latn
 abstract:
 - content: This amendment to IEEE Std 802.3-2015 adds Physical Layer (PHY) specifications
-    and management parameters for 25 Gb/s operation over single-mode fiber at reaches
-    of at least 10 km (25GBASE-LR) and 40 km (25GBASE-ER).
+    and management parameters for 25 Gb/s operation over twinaxial copper cabling
+    (25GBASE-CR and 25GBASE-CR-S), electrical backplanes (25GBASE-KR and 25GBASE-KR-S),
+    and multimode fiber (25GBASE-SR). This amendment also specifies a 25 Gigabit Attachment
+    Unit Interface (25GAUI) and optional Energy Efficient Ethernet (EEE).
   language:
   - en
   script:
@@ -71,50 +71,10 @@ copyright:
     - content: ISO
   - name:
     - content: IEC
-  from: '2019'
+  from: '2018'
 relation:
 - type: adoptedFrom
   bibitem:
-    id: IEEE802.3cc-2017
-    docid:
-    - id: IEEE 802.3cc-2017
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.3cc-2017
-      format: text/plain
-- type: adoptedFrom
-  bibitem:
-    id: IEEE802.3bw-2015
-    docid:
-    - id: IEEE 802.3bw-2015
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.3bw-2015
-      format: text/plain
-- type: adoptedFrom
-  bibitem:
-    id: IEEE802.3bs-2017
-    docid:
-    - id: IEEE 802.3bs-2017
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.3bs-2017
-      format: text/plain
-- type: adoptedFrom
-  bibitem:
-    id: IEEE802.3cc-2017
-    docid:
-    - id: IEEE 802.3cc-2017
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.3cc-2017
-      format: text/plain
-- type: adoptedFrom
-  bibitem:
     id: IEEE802.3bw-2015
     docid:
     - id: IEEE 802.3bw-2015
@@ -132,16 +92,6 @@ relation:
       primary: true
     formattedref:
       content: IEEE 802.3bw-2015
-      format: text/plain
-- type: adoptedFrom
-  bibitem:
-    id: IEEE802.3bs-2017
-    docid:
-    - id: IEEE 802.3bs-2017
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.3bs-2017
       format: text/plain
 - type: adoptedFrom
   bibitem:
@@ -215,6 +165,16 @@ relation:
       format: text/plain
 - type: adoptedFrom
   bibitem:
+    id: IEEE802.3bs-2017
+    docid:
+    - id: IEEE 802.3bs-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3bs-2017
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
     id: IEEE802.3bw-2015
     docid:
     - id: IEEE 802.3bw-2015
@@ -222,6 +182,16 @@ relation:
       primary: true
     formattedref:
       content: IEEE 802.3bw-2015
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.3bs-2017
+    docid:
+    - id: IEEE 802.3bs-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3bs-2017
       format: text/plain
 - type: adoptedFrom
   bibitem:
@@ -265,6 +235,16 @@ relation:
       format: text/plain
 - type: adoptedFrom
   bibitem:
+    id: IEEE802.3bw-2015
+    docid:
+    - id: IEEE 802.3bw-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3bw-2015
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
     id: IEEE802.3bs-2017
     docid:
     - id: IEEE 802.3bs-2017
@@ -272,39 +252,80 @@ relation:
       primary: true
     formattedref:
       content: IEEE 802.3bs-2017
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.3bs-2017
+    docid:
+    - id: IEEE 802.3bs-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3bs-2017
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.3bw-2015
+    docid:
+    - id: IEEE 802.3bw-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3bw-2015
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.3bs-2017
+    docid:
+    - id: IEEE 802.3bs-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3bs-2017
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.3bw-2015
+    docid:
+    - id: IEEE 802.3bw-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3bw-2015
       format: text/plain
 keyword:
 - content: IEEE Standards
-- content: ISO Standards
-- content: IEC Standards
-- content: Local area networks
-- content: Metropolitan area networks
-- content: Information technology
-- content: Information exchange
+- content: Ethernet
+- content: Error correction codes
 - content: Physical layer
-- content: Parameter estimation
-- content: 25 Gb/s Ethernet
-- content: 25GBASE-ER
-- content: 25GBASE-LR
+- content: Energy efficiency
+- content: Forward error correction
+- content: 25 Gigabit Ethernet
+- content: 25GAUI
+- content: 25GBASE-CR
+- content: 25GBASE-CR-S
+- content: 25GBASE-KR
+- content: 25GBASE-KR-S
 - content: 25GBASE-SR
+- content: 25GMII
+- content: Auto-Negotiation (AN)
+- content: Backplane Ethernet
 - content: Energy Efficient Ethernet (EEE)
 - content: Ethernet
 - content: Forward Error Correction (FEC)
-- content: IEEE 802.3&#8482;
-- content: IEEE 802.3by&#8482;
-- content: IEEE 802.3cc&#8482;
-- content: Physical Coding sublayer (PCS)
+- content: IEEE 802
+- content: IEEE 802.3
+- content: IEEE 802.3by
+- content: multimode fiber (MMF)
+- content: Physical Coding Sublayer (PCS)
 - content: Physical Medium Attachment (PMA) sublayer
 - content: Physical Medium Dependent (PMD) sublayer
-- content: Reconciliation sublayer (RS)
-- content: single-mode fiber (SMF)
+- content: Reconciliation Sublayer (RS)
 doctype: standard
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society
 ics:
-- code: 35.100.10
-  text: Physical layer
 - code: '35.110'
   text: Networking
 ext:
