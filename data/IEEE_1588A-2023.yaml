@@ -1,0 +1,109 @@
+---
+schema-version: v1.2.3
+id: IEEE1588a-2023
+title:
+- content: 'IEEE Standard for a Precision Clock Synchronization Protocol for Networked
+    Measurement and Control Systems Amendment 3: Precision Time Protocol (PTP) Enhancements
+    for Best Master Clock Algorithm (BMCA) Mechanisms'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10347018
+  type: src
+type: standard
+docid:
+- id: IEEE 1588a-2023
+  type: IEEE
+  primary: true
+- id: IEEE 1588a™-2023
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-0288-0
+  type: ISBN
+- id: 10.1109/IEEESTD.2023.10347018
+  type: DOI
+docnumber: IEEE 1588a-2023
+date:
+- type: created
+  value: '2023-12-06'
+- type: published
+  value: '2023-12-06'
+- type: issued
+  value: '2023-09-21'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2023-12-06'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Updates to information and messages for the Enhanced Accuracy TLV are provided
+    in this amendment to IEEE 1588-2019. This amendment also clarifies the operation
+    of the best master clock algorithm (BMCA), provides a new annex about the default
+    BMCA, corrects errors in the text, and clarifies unclear passages.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2023'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1588-2019
+    docid:
+    - id: IEEE 1588-2019
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1588-2019
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: Best Master Clock
+- content: BMCA
+- content: Enhanced Accuracy
+- content: IEEE 1588a&#8482;
+- content: TLV
+doctype: standard
+editorialgroup:
+  committee:
+  - TC9 - Sensor Technology of the IEEE Instrumentation and Measurement Society
+ics:
+- code: 39.040.99
+  text: Other time-measuring instruments
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Approved
+  pubstatus: Active
+  holdstatus: Publish

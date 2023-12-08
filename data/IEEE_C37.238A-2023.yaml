@@ -1,0 +1,119 @@
+---
+schema-version: v1.2.3
+id: IEEEC37.238a-2023
+title:
+- content: 'IEEE Standard Profile for Use of IEEE 1588™ Precision Time Protocol in
+    Power System Applications Amendment 1: Adding a Type-Length-Value (TLV) to Indicate
+    the Latest International Earth Rotation Service (IERS)-Specified Universal Time
+    Coordinated (UTC) Leap Second Event'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10347012
+  type: src
+type: standard
+docid:
+- id: IEEE C37.238a-2023
+  type: IEEE
+  primary: true
+- id: IEEE C37.238a™-2023
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-1-5044-7727-7
+  type: ISBN
+- id: 10.1109/IEEESTD.2021.10347012
+  type: DOI
+docnumber: IEEE C37.238a-2023
+date:
+- type: created
+  value: '2023-12-08'
+- type: published
+  value: '2023-12-06'
+- type: issued
+  value: '2023-06-29'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2023-12-06'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This amendment to IEEE Std. C37.238&#8482;-2017 specifies a LEAP_SECOND_EVENT
+    TLV to enable grandmaster-capable clocks to distribute leap second event and validity
+    information in advance.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2021'
+relation:
+- type: updates
+  bibitem:
+    id: IEEEC37.238-2017
+    docid:
+    - id: IEEE C37.238-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.238-2017
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: boundary clock
+- content: end device
+- content: grandmaster clock
+- content: IEEE 1588&#8482;
+- content: IEEE C37.238&#8482;
+- content: leap second
+- content: power substation
+- content: precise time
+- content: precision time protocol
+- content: PTP
+- content: sample synchronization
+- content: synchronization
+- content: synchrophasors
+- content: transparent clock
+- content: UTC
+doctype: standard
+editorialgroup:
+  committee:
+  - Power System Communications and Cybersecurity of the IEEE Power and Energy Society
+ics:
+- code: 39.040.99
+  text: Other time-measuring instruments
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Approved
+  pubstatus: Active
+  holdstatus: Publish
