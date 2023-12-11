@@ -1,0 +1,106 @@
+---
+schema-version: v1.2.3
+id: ISO-IEC8802
+title:
+- content: 'ISO/IEC International Standard - Information technology--Telecommunications
+    and information exchange between systems-- Local and metropolitan area networks--Specific
+    requirements--Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer
+    (PHY) specifications'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/4140843
+  type: src
+type: standard
+docid:
+- id: ISO/IEC 8802
+  type: IEEE
+  primary: true
+- id: ISO/IEC 8802™
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 978-0-7381-4773-4
+  type: ISBN
+- id: 10.1109/IEEESTD.2005.339589
+  type: DOI
+docnumber: ISO/IEC 8802
+date:
+- type: created
+  value: '2005'
+- type: published
+  value: '2007-09-04'
+- type: issued
+  value: '2005'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2007-09-04'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'The medium access control (MAC) and physical characteristics for wireless
+    local area networks (LANs) are specified in this standard, which is part of a
+    series of standards for local and metropolitan area networks. The medium access
+    control unit in this standard is designed to support physical layer units as they
+    may be adopted dependent on the availability of spectrum. This standard contains
+    five physical layer units: four radio units, operating in the 2400-2500 MHz band
+    and in the bands comprising 5.15-5.25 GHz, 5.25-5.35 GHz, and 5.725-5.825 GHz,
+    and one baseband infrared (IR) unit. One radio unit employs the frequency-hopping
+    spread spectrum (FHSS) technique, two employ the direct sequence spread spectrum
+    (DSSS) technique, and another employs the orthogonal frequency division multiplexing
+    (OFDM) technique.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2005'
+keyword:
+- content: ISO Standards
+- content: IEC Standards
+- content: IEEE 802.11 Standard
+- content: Portable document format
+- content: Information technology
+- content: ad hoc network
+- content: infrared
+- content: LAN
+- content: local area network
+- content: mobility
+- content: radio frequency
+- content: wireless
+doctype: standard
+editorialgroup:
+  committee:
+  - LAN/MAN Standards Committee of the IEEE Computer Society
+ics:
+- code: 35.100.20
+  text: Data link layer
+- code: 35.100.10
+  text: Physical layer
+- code: '35.110'
+  text: Networking
+ext:
+  schema-version: v1.0.0
+  standard_status: Superseded
+  pubstatus: Active
+  holdstatus: Publish
