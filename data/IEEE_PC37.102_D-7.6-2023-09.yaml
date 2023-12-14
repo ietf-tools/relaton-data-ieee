@@ -24,7 +24,7 @@ date:
 - type: created
   value: '2023'
 - type: published
-  value: '2023-09-13'
+  value: '2023-09-12'
 - type: issued
   value: '2023'
 contributor:
@@ -40,7 +40,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-09-13'
+revdate: '2023-09-12'
 language:
 - en
 script:
@@ -66,6 +66,23 @@ copyright:
     url: http://www.ieee.org
   from: '2023'
 relation:
+- type: updates
+  bibitem:
+    id: IEEEC37.102-2006
+    docid:
+    - id: IEEE C37.102-2006
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.102-2006
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEEC37.102-2006
@@ -120,7 +137,7 @@ ics:
   text: Generators
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

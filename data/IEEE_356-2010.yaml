@@ -27,6 +27,8 @@ date:
   value: '2011-11-07'
 - type: created
   value: '2011'
+- type: published
+  value: '2021-02-03'
 - type: issued
   value: '2010-09-30'
 contributor:
@@ -38,6 +40,7 @@ contributor:
     url: http://www.ieee.org
   role:
   - type: publisher
+revdate: '2021-02-03'
 language:
 - en
 script:
@@ -52,9 +55,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -96,13 +96,13 @@ keyword:
 doctype: standard
 editorialgroup:
   committee:
-  - Propagation of the IEEE Antennas and Propagation Society
+  - Antennas and Propagation Standards Committee of the IEEE Antennas and Propagation
+    Society
 ics:
-- code: 33.060.01
-  text: Radiocommunications in general
+- code: 17.220.20
+  text: Measurement of electrical and magnetic quantities
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Superseded
   pubstatus: Active
   holdstatus: Publish

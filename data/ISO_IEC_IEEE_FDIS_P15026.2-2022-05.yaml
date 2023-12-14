@@ -24,6 +24,8 @@ docnumber: ISO/IEC/IEEE FDIS P15026.2-2022-05
 date:
 - type: created
   value: '2022-05-12'
+- type: published
+  value: '2022-05-13'
 - type: issued
   value: '2022'
 contributor:
@@ -39,6 +41,7 @@ contributor:
         country: USA
   role:
   - type: publisher
+revdate: '2022-05-13'
 language:
 - en
 script:
@@ -59,6 +62,23 @@ copyright:
     - content: IEC
   from: '2022'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE15026.2-2011
+    docid:
+    - id: IEEE 15026.2-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 15026.2-2011
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE15026.2-2011

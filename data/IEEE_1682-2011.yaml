@@ -37,6 +37,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2013-09-10'
@@ -58,9 +62,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -89,13 +90,14 @@ keyword:
 doctype: standard
 editorialgroup:
   committee:
-  - Nuclear Power Engineering of the IEEE Power and Energy Society
+  - Nuclear Power Engineering Committee of the IEEE Power and Energy Society
 ics:
-- code: 01.040.11
-  text: Health care technology (Vocabularies)
+- code: 27.120.99
+  text: Other standards related to nuclear energy
+- code: 33.180.10
+  text: Fibres and cables
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Superseded
   pubstatus: Active
   holdstatus: Publish

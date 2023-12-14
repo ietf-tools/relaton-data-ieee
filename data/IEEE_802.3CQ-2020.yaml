@@ -24,6 +24,8 @@ docid:
   type: DOI
 docnumber: IEEE 802.3cq-2020
 date:
+- type: updated
+  value: '2020-04-24'
 - type: created
   value: '2020'
 - type: published
@@ -56,6 +58,9 @@ abstract:
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -82,6 +87,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: ISO-IEC-IEEE8802.3-Amd6-2021
+    docid:
+    - id: ISO/IEC/IEEE 8802.3/Amd6-2021
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ISO/IEC/IEEE 8802.3/Amd6-2021
+      format: text/plain
 - type: updates
   bibitem:
     id: IEEE802.3-2018
@@ -99,40 +114,46 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
+- type: obsoletedBy
   bibitem:
-    id: IEEE802.3-2018
+    id: ISO-IEC-IEEE8802.3-Amd6-2021
     docid:
-    - id: IEEE 802.3-2018
+    - id: ISO/IEC/IEEE 8802.3/Amd6-2021
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 802.3-2018
+      content: ISO/IEC/IEEE 8802.3/Amd6-2021
       format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
+- type: obsoletedBy
   bibitem:
-    id: IEEE802.3-2018
+    id: ISO-IEC-IEEE8802.3-Amd6-2021
     docid:
-    - id: IEEE 802.3-2018
+    - id: ISO/IEC/IEEE 8802.3/Amd6-2021
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 802.3-2018
+      content: ISO/IEC/IEEE 8802.3/Amd6-2021
       format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: ISO-IEC-IEEE8802.3-Amd6-2021
+    docid:
+    - id: ISO/IEC/IEEE 8802.3/Amd6-2021
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ISO/IEC/IEEE 8802.3/Amd6-2021
+      format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: ISO-IEC-IEEE8802.3-Amd6-2021
+    docid:
+    - id: ISO/IEC/IEEE 8802.3/Amd6-2021
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ISO/IEC/IEEE 8802.3/Amd6-2021
+      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Local area networks
@@ -157,6 +178,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Superseded
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

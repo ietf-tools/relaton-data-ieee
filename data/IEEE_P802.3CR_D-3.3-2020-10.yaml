@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2021-02-11'
 - type: issued
-  value: '2020'
+  value: '2021-02-09'
 contributor:
 - organization:
     name:
@@ -49,7 +49,7 @@ script:
 abstract:
 - content: This amendment to IEEE Std 802.3-2018 replaces references to the IEC 60950
     series of standards with appropriate references to the IEC 62368 series and makes
-    appropriate changes to the standard corresponding to the new references
+    appropriate changes to the standard corresponding to the new references.
   language:
   - en
   script:
@@ -84,13 +84,36 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.3-2018
+    docid:
+    - id: IEEE 802.3-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3-2018
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Ethernet
 - content: Safety
 - content: IEC Standards
 - content: Maintenance engineering
-- content: Ethernet; IEC 60950; IEC 62368; isolation; safety.
+- content: Ethernet
+- content: IEC 60950
+- content: IEC 62368
+- content: IEEE 802.3&#8482;
+- content: IEEE 802.3cr&#8482;
+- content: isolation
+- content: safety
 doctype: standard
 editorialgroup:
   committee:
@@ -102,7 +125,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

@@ -69,16 +69,6 @@ copyright:
     url: http://www.ieee.org
   from: '1994'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE379-2000
-    docid:
-    - id: IEEE 379-2000
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 379-2000
-      format: text/plain
 - type: updates
   bibitem:
     id: ANSI-IEEE379-1988
@@ -96,6 +86,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE379-2000
+    docid:
+    - id: IEEE 379-2000
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 379-2000
+      format: text/plain
 keyword:
 - content: Failure analysis
 - content: Fission reactor control and monitoring

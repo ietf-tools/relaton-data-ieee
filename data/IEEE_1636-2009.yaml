@@ -7,7 +7,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8654231
+- content: https://ieeexplore.ieee.org/document/5210055
   type: src
 type: standard
 docid:
@@ -18,16 +18,18 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-0-7381-8170-7
+- id: 978-0-7381-5927-0
   type: ISBN
-- id: 10.1109/IEEESTD.2009.8654231
+- id: 10.1109/IEEESTD.2009.5210055
   type: DOI
 docnumber: IEEE 1636-2009
 date:
+- type: updated
+  value: '2009-09-11'
 - type: created
   value: '2009-08-14'
 - type: published
-  value: '2019-02-27'
+  value: '2013-02-08'
 - type: issued
   value: '2009-03-19'
 contributor:
@@ -37,13 +39,9 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-    contact:
-    - address:
-        city: New York
-        country: USA
   role:
   - type: publisher
-revdate: '2019-02-27'
+revdate: '2013-02-08'
 language:
 - en
 script:
@@ -72,7 +70,7 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2013'
+  from: '2009'
 relation:
 - type: obsoletedBy
   bibitem:
@@ -86,10 +84,11 @@ relation:
       format: text/plain
 keyword:
 - content: IEEE Standards
-- content: Data analysis
-- content: Information analysis
-- content: Software maintenance
-- content: XML
+- content: Maintenance engineering
+- content: Software
+- content: Information systems
+- content: Complex systems
+- content: Trademarks
 - content: AI-ESTATE
 - content: Automated Test Markup Language (ATML)
 - content: diagnostic maturation
@@ -103,6 +102,9 @@ doctype: standard
 editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees
+ics:
+- code: '35.040'
+  text: Character sets and information coding
 ext:
   schema-version: v1.0.0
   standard_status: Superseded

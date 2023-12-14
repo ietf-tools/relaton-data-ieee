@@ -97,23 +97,36 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
+- type: obsoletedBy
   bibitem:
-    id: IEEE802.3-2018
+    id: ISO-IEC-IEEE8802.3-Amd9-2021
     docid:
-    - id: IEEE 802.3-2018
+    - id: ISO/IEC/IEEE 8802.3/Amd9-2021
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 802.3-2018
+      content: ISO/IEC/IEEE 8802.3/Amd9-2021
       format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: ISO-IEC-IEEE8802.3-Amd9-2021
+    docid:
+    - id: ISO/IEC/IEEE 8802.3/Amd9-2021
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ISO/IEC/IEEE 8802.3/Amd9-2021
+      format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: ISO-IEC-IEEE8802.3-Amd9-2021
+    docid:
+    - id: ISO/IEC/IEEE 8802.3/Amd9-2021
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ISO/IEC/IEEE 8802.3/Amd9-2021
+      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Ethernet

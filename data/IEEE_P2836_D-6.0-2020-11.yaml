@@ -49,11 +49,11 @@ script:
 - Latn
 abstract:
 - content: Performance testing of electrical energy storage (EES) system in electric
-    charging stations in combination with photovoltaic (PV) is covered in this recommended
-    practice. General technical requirements of the test, the duty cycle development,
-    and characteristics are given. Based on these, detailed test protocol based on
-    duty cycle, such as stored energy, roundtrip efficiency, step response time, ramp
-    rate, and duty cycle roundtrip efficiency, etc. are provided.
+    charging stations in combination with photovoltaic (PV) is covered. General technical
+    requirement of the test, the duty cycle development and characteristics are given.
+    Based on these, detailed test protocol based on duty cycle, such as stored energy,
+    roundtrip efficiency, step response time, ramp rate and duty cycle roundtrip efficiency,
+    etc. are provided.
   language:
   - en
   script:
@@ -78,14 +78,13 @@ keyword:
 - content: Charging stations
 - content: electrical energy storage (EES) system
 - content: duty cycle
-- content: duty cycle roundtrip efficiency
-- content: IEEE 2836
-- content: ramp rate
-- content: reference signal tracking
+- content: test protocol
+- content: stored energy
 - content: roundtrip efficiency
 - content: step response time
-- content: stored energy
-- content: test protocol
+- content: ramp rate
+- content: duty cycle roundtrip efficiency
+- content: reference signal tracking
 doctype: standard
 editorialgroup:
   committee:
@@ -93,7 +92,7 @@ editorialgroup:
     Society
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

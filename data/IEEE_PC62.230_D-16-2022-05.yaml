@@ -24,9 +24,9 @@ date:
 - type: created
   value: '2022-05-31'
 - type: published
-  value: '2022-06-01'
+  value: '2022-06-02'
 - type: issued
-  value: '2022-11-08'
+  value: '2022'
 contributor:
 - organization:
     name:
@@ -40,19 +40,20 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-06-01'
+revdate: '2022-06-02'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'The application of surge-protective devices for electric vehicle infrastructure
-    with system voltages of 1000 V ac or 1500 V dc or less is encompassed in this
-    guide. The document provides guidance for North American types of electric vehicle
-    supply equipment (EVSE) and electric vehicles (EVs) that conform to the SAE J1772:
-    2001. The guide includes applications such as power, data acquisition, and communications-related
-    circuitry. The guide was developed for use by manufacturers, system designers,
-    educators, and end users of electric vehicle supply equipment.'
+- content: The guide encompasses the application 1 of surge-protective devices for
+    electric vehicle infrastructure with system voltages of 1000 V (ac) or 1500 V
+    (dc) or less. The document provides guidance for North American types of electric
+    vehicle supply equipment (EVSE) and electric vehicles (EVs) that conform to the
+    SAE J1772 Surface Vehicle Recommended Practice. The guide includes applications
+    such as power, data acquisition, and communications related circuitry. The guide
+    was developed for use by manufacturers, system designers, educators, and end users
+    of electric vehicle supply equipment.
   language:
   - en
   script:
@@ -75,20 +76,16 @@ keyword:
 - content: Electric vehicles
 - content: Data acquisition
 - content: Vehicle safety
-- content: electric vehicles
-- content: electric vehicle supply equipment
-- content: IEEE C62.230
-- content: surge protection
 doctype: standard
 editorialgroup:
   committee:
   - Surge Protective Devices/Low Voltage of the IEEE Power and Energy Society
 ics:
-- code: '43.120'
-  text: Electric road vehicles
+- code: 01.040.11
+  text: Health care technology (Vocabularies)
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

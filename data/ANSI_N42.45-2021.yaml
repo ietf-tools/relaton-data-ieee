@@ -27,7 +27,7 @@ date:
 - type: created
   value: '2022'
 - type: published
-  value: '2022-07-01'
+  value: '2022-06-30'
 - type: issued
   value: '2022'
 contributor:
@@ -43,7 +43,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-07-01'
+revdate: '2022-06-30'
 language:
 - en
 script:
@@ -94,6 +94,40 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: ANSIN42.45-2011
+    docid:
+    - id: ANSI N42.45-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI N42.45-2011
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: ANSIN42.45-2011
+    docid:
+    - id: ANSI N42.45-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI N42.45-2011
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: ANSI Standards
@@ -118,8 +152,8 @@ editorialgroup:
 ics:
 - code: '13.310'
   text: Protection against crime
-- code: 35.240.99
-  text: IT applications in other fields
+- code: 35.240.60
+  text: IT applications in transport
 ext:
   schema-version: v1.0.0
   standard_status: Active

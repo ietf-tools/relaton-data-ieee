@@ -24,8 +24,6 @@ docid:
   type: DOI
 docnumber: IEEE C37.14-2015
 date:
-- type: updated
-  value: '2015-06-26'
 - type: created
   value: '2015'
 - type: published
@@ -39,6 +37,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2015-06-04'
@@ -74,6 +76,23 @@ copyright:
     url: http://www.ieee.org
   from: '2015'
 relation:
+- type: updates
+  bibitem:
+    id: IEEEC37.14-2002
+    docid:
+    - id: IEEE C37.14-2002
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.14-2002
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEEC37.14-2002

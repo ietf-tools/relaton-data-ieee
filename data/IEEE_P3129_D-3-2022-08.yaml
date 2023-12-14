@@ -46,18 +46,6 @@ language:
 - en
 script:
 - Latn
-abstract:
-- content: Test specifications with a set of indicators for common corruption and
-    adversarial attacks, which can be used to evaluate the robustness of artificial
-    intelligence-based image recognition services are provided in this standard. Robustness
-    attack threats and establishes an assessment framework to evaluate the robustness
-    of artificial intelligence-based image recognition service under various settings
-    are also specified in this standard.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -75,22 +63,18 @@ keyword:
 - content: Image recognition
 - content: Robustness
 - content: Generative adversarial networks
-- content: adversarial attacks
-- content: artificial Intelligence-based services
-- content: assessment framework
-- content: common corruption
-- content: IEEE 3129
+- content: Artificial Intelligence-based services
 - content: robustness
+- content: common corruption
+- content: adversarial attacks
+- content: assessment framework
 doctype: standard
 editorialgroup:
   committee:
   - Artificial Intelligence Standards Committee of the IEEE Computer Society
-ics:
-- code: 35.240.01
-  text: Application of information technology in general
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

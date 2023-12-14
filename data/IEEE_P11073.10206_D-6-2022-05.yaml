@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: IEEEP11073.10206-D-6-2022-05
 title:
-- content: 'IEEE Draft Standard - Health informatics -- Device interoperability --
-    Part 10206: Personal health device communication -- Abstract information content
+- content: 'IEEE Approved Draft Standard - Health informatics -- Device interoperability
+    -- Part 10206: Personal health device communication -- Abstract information content
     model'
   format: text/plain
   type: main
@@ -24,11 +24,11 @@ docid:
 docnumber: IEEE P11073.10206/D-6-2022-05
 date:
 - type: created
-  value: '2022-05-31'
+  value: '2022'
 - type: published
   value: '2022-06-01'
 - type: issued
-  value: '2022'
+  value: '2022-09-21'
 contributor:
 - organization:
     name:
@@ -50,8 +50,9 @@ script:
 abstract:
 - content: Within the context of the ISO/IEEE 11073 family of standards for device
     communication, a simplified framework for making an abstract model of personal
-    health data available. The specification addresses the structure and content of
-    information. It does not address communication of the information between devices.
+    health data is available in this standard. The specification addresses the structure
+    and content of information. It does not address communication of the information
+    between devices.
   language:
   - en
   script:
@@ -69,17 +70,27 @@ copyright:
     url: http://www.ieee.org
   from: '2022'
 keyword:
-- content: IEEE 11073-10206&#8482;
+- content: IEEE Standards
+- content: Medical devices
+- content: Interoperability
+- content: Point of care
+- content: Biomedical monitoring
 - content: device interoperability
+- content: IEEE 11073-10206
 - content: personal health device communication
 doctype: standard
 editorialgroup:
   committee:
   - IEEE 11073 Standards Committee of the IEEE Engineering in Medicine and Biology
     Society
+ics:
+- code: 35.100.70
+  text: Application layer
+- code: 35.240.80
+  text: IT applications in health care technology
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

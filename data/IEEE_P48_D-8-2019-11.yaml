@@ -2,13 +2,13 @@
 schema-version: v1.2.3
 id: IEEEP48-D-8-2019-11
 title:
-- content: IEEE Draft Standard for Test Procedures and Requirements for Alternating-Current
+- content: IEEE Approved Draft Standard for Test Procedures and Requirements for Alternating-Current
     Cable Terminations Used on Shielded Cables Having Laminated Insulation Rated 2.5
     kV through 765 kV or Extruded Insulation Rated 2.5 kV through 500 kV
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8920244
+- content: https://ieeexplore.ieee.org/document/9222618
   type: src
 type: standard
 docid:
@@ -24,9 +24,9 @@ docid:
 docnumber: IEEE P48/D-8-2019-11
 date:
 - type: created
-  value: '2019-12-02'
+  value: '2020-01-30'
 - type: published
-  value: '2019-12-03'
+  value: '2020-10-13'
 - type: issued
   value: '2020-01-30'
 contributor:
@@ -42,11 +42,23 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2019-12-03'
+revdate: '2020-10-13'
 language:
 - en
 script:
 - Latn
+abstract:
+- content: Test procedures and requirements are provided for all indoor and outdoor
+    cable terminations used on alternating-current shielded cables having laminated
+    insulation rated 2.5 kV through 765 kV and extruded insulation rated 2.5 kV through
+    500 kV, except separable insulated connectors, which are covered by IEEE Std 386&#8482;-2016
+    [B18]. Cable terminations and component parts shall be capable of withstanding
+    the tests specified in this standard.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -76,33 +88,16 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE48-2009
-    docid:
-    - id: IEEE 48-2009
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 48-2009
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
-- content: Contamination
-- content: Dielectrics
-- content: Environmental management
-- content: Solar radiation
+- content: 'Cable shielding '
+- content: Lamination
+- content: Cable insulation
 - content: accelerated contamination testing
 - content: correction factors
 - content: dielectric field tests
 - content: environmental exposure
+- content: IEEE 48&#8482;
 - content: nonstandard service conditions
 - content: rating
 - content: solar radiation

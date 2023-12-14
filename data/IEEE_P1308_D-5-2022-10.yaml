@@ -23,7 +23,7 @@ docid:
 docnumber: IEEE P1308/D-5-2022-10
 date:
 - type: created
-  value: '2022-02-22'
+  value: '2023-02-22'
 - type: published
   value: '2022-11-07'
 - type: issued
@@ -511,6 +511,40 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1308-1994
+    docid:
+    - id: IEEE 1308-1994
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1308-1994
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1308-1994
+    docid:
+    - id: IEEE 1308-1994
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1308-1994
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Calibration
@@ -521,10 +555,10 @@ keyword:
 - content: Meter reading
 - content: calibration
 - content: electric field strength meters
-- content: IEEE 1308&#8482;
+- content: IEEE 1308TM
 - content: magnetic flux density meters
-- content: measurement uncertainty
 - content: measurements
+- content: measurement uncertainty
 - content: quasi-static fields
 - content: specifications
 doctype: standard
@@ -536,7 +570,7 @@ ics:
   text: Measurement of electrical and magnetic quantities
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

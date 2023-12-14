@@ -63,16 +63,6 @@ copyright:
     url: http://www.ieee.org
   from: '1993'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE145-2013
-    docid:
-    - id: IEEE 145-2013
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 145-2013
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEE145-1983
@@ -90,6 +80,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE145-2013
+    docid:
+    - id: IEEE 145-2013
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 145-2013
+      format: text/plain
 keyword:
 - content: IEEE standards
 - content: Antennas

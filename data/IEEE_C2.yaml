@@ -2,12 +2,12 @@
 schema-version: v1.2.3
 id: IEEEC2
 title:
-- content: Preprint Proposals for the 2022 Edition of the National Electrical Safety
-    Code (NESC(R))
+- content: Preprint Proposals for the 2017 Edition of the National Electrical Safety
+    Code®
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8753791
+- content: https://ieeexplore.ieee.org/document/6889039
   type: src
 type: standard
 docid:
@@ -18,18 +18,18 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-5782-8
+- id: 978-0-7381-9194-2
   type: ISBN
-- id: 10.1109/IEEESTD.2019.8753791
+- id: 10.1109/IEEESTD.2014.6889039
   type: DOI
 docnumber: IEEE C2
 date:
 - type: created
-  value: '2019'
+  value: '2014'
 - type: published
-  value: '2019-07-02'
+  value: '2014-09-01'
 - type: issued
-  value: '2019'
+  value: '2014'
 contributor:
 - organization:
     name:
@@ -43,28 +43,25 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2019-07-02'
+revdate: '2014-09-01'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This Preprint provides the full text of each change proposal (CP) to revise
-    the 2017 Edition of the National Electrical Safety Code (NESC) together with the
-    initial recommendation of the subcommittee that has jurisdiction of the rule addressed
-    by the CP. The purpose of the NESC 2022 Preprint is to solicit public comment
-    for each of the CPs and initial Subcommittee actions. The public comment period
-    is 1 July 2019 to 1 March 2020. Subcommittees will consider the original change
-    proposal, the initial recommendations, and public comment to develop final recommendations
-    in the Fall of 2020, for final approval by the NESC Main Committee in 2021.
+- content: This publication has been prepared to provide all interested persons an
+    opportunity to study and comment on the Proposed Revisions to be incorporated
+    into the 2017 Edition of the National Electrical Safety Code (NESC&#174;). This
+    Preprint provides the full text of each proposal to revise the 2012 Edition of
+    the NESC together with the recommendation of the subcommittee that has cognizance
+    of the rule addressed by the change proposal (CP). A change bar, located in the
+    left hand margin, signifies the specific material that the various subcommittees
+    each have approved for the inclusion in the revised Code.
   language:
   - en
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -72,40 +69,23 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2019'
+  from: '2014'
 keyword:
-- content: IEEE Standards
+- content: IEEE standards
+- content: National Electrical Safety Code - c2
 - content: Electrical safety
-- content: ANSI Standards
-- content: Electricity supply industry
-- content: National Electric Code
-- content: Preprint proposals
-- content: '2022'
-- content: 2017 National Electrical Safety Code
-- content: NESC 2017
-- content: C2-2017
-- content: communications industry safety
-- content: construction of communication lines
-- content: construction of electric supply lines
-- content: electrical safety
-- content: electric supply stations
-- content: electric utility stations
-- content: high-voltage safety
-- content: operation of communications systems
-- content: operation of electric supply systems
-- content: power station equipment
-- content: power station safety
-- content: public utility safety
-- content: safety work rules
-- content: underground communication line safety
-- content: underground electric line safety
+- content: Proposals
 doctype: standard
 editorialgroup:
   committee:
   - National Electrical Safety Code
+ics:
+- code: '13.260'
+  text: Protection against electric shock. Live working
+- code: '29.020'
+  text: Electrical engineering in general
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Superseded
   pubstatus: Active
   holdstatus: Publish

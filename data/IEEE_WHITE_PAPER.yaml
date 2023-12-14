@@ -2,12 +2,12 @@
 schema-version: v1.2.3
 id: IEEEWhitePaper
 title:
-- content: Domain-Specific Use Cases for ROOF (Realtime Onsite Operations Facilitation)
-    Computing Framework
+- content: Spectrum Considerations for Vehicle-To-Vehicle Communications for UnManned
+    Aircraft Systems
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/10136552
+- content: https://ieeexplore.ieee.org/document/10079923
   type: src
 type: standard
 docid:
@@ -18,14 +18,14 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-9746-6
+- id: 978-1-5044-9565-3
   type: ISBN
 docnumber: IEEE White Paper
 date:
 - type: created
   value: '2023'
 - type: published
-  value: '2023-05-25'
+  value: '2023-03-23'
 - type: issued
   value: '2023'
 contributor:
@@ -41,17 +41,21 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-05-25'
+revdate: '2023-03-23'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The ROOF framework has been designed to provide innovation, reuse, better
-    user experience, security by design, for harmonizing horizontal as well as vertical
-    integration for the Internet of Things ecosystem. This white paper focuses on
-    real-world applications for the ROOF and how it delivers value for the citizens,
-    government, and businesses.
+- content: This white paper provides a broad overview of potential communication technology
+    and spectrum usage options for unmanned aerial systems (UAS). This paper particularly
+    focuses on the detect and avoid (DAA) or collision avoidance (CA) use case, in
+    line with the vehicle-to-vehicle (V2V) unmanned aerial vehicles (UAV) use case
+    white paper and examines the advantages and disadvantages of state-of-the-art
+    technologies for DAA/CA use case. While specific frequency bands are discussed,
+    along with communication requirements of the UAS, solutions for spectrum usage
+    designs and experimentation have been reserved for white papers to emanate from
+    future IEEE P1920 UAV standard groups.
   language:
   - en
   script:
@@ -66,14 +70,16 @@ copyright:
     url: http://www.ieee.org
   from: '2023'
 keyword:
-- content: context building
-- content: domain-specific cognition
-- content: Edge Computing
-- content: Industry 4.0
-- content: Industry 5.0
-- content: IoT
-- content: Next-hop connectivity
-- content: service-chain
+- content: '1920.2'
+- content: communication protocol
+- content: detect-and-avoid
+- content: UAS
+- content: UAV
+- content: unmanned aerial system
+- content: unmanned aerial vehicle
+- content: V2V
+- content: vehicle-to-vehicle
+- content: white paper
 doctype: standard
 ext:
   schema-version: v1.0.0

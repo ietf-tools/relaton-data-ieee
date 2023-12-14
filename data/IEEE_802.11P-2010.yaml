@@ -26,12 +26,10 @@ docid:
   type: DOI
 docnumber: IEEE 802.11p-2010
 date:
-- type: updated
-  value: '2011-04-22'
 - type: created
   value: '2010'
 - type: published
-  value: '2018-03-30'
+  value: '2010-07-23'
 - type: issued
   value: '2010-06-17'
 contributor:
@@ -41,9 +39,13 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
-revdate: '2018-03-30'
+revdate: '2010-07-23'
 language:
 - en
 script:
@@ -95,12 +97,12 @@ editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society
 ics:
-- code: 35.100.10
-  text: Physical layer
 - code: '35.110'
   text: Networking
 - code: 35.100.20
   text: Data link layer
+- code: 35.100.10
+  text: Physical layer
 ext:
   schema-version: v1.0.0
   standard_status: Superseded

@@ -73,16 +73,6 @@ copyright:
     url: http://www.ieee.org
   from: '1995'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE450-2002
-    docid:
-    - id: IEEE 450-2002
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 450-2002
-      format: text/plain
 - type: updates
   bibitem:
     id: ANSI-IEEE450-1987
@@ -100,6 +90,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE450-2002
+    docid:
+    - id: IEEE 450-2002
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 450-2002
+      format: text/plain
 keyword:
 - content: Batteries
 - content: Lead materials/devices

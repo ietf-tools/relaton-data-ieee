@@ -7,7 +7,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8684657
+- content: https://ieeexplore.ieee.org/document/8421761
   type: src
 type: standard
 docid:
@@ -20,14 +20,14 @@ docid:
   primary: true
 - id: 978-0-7381-0813-1
   type: ISBN
-- id: 10.1109/IEEESTD.1994.8684657
+- id: 10.1109/IEEESTD.1995.8421761
   type: DOI
 docnumber: IEEE 1313.1-1996
 date:
 - type: created
-  value: '1994-11-30'
+  value: '1995'
 - type: published
-  value: '2019-04-05'
+  value: '2018-07-27'
 - type: issued
   value: '1996-07-18'
 contributor:
@@ -43,7 +43,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2019-04-05'
+revdate: '2018-07-27'
 language:
 - en
 script:
@@ -94,7 +94,49 @@ relation:
     formattedref:
       content: IEEE C62.82.1-2010
       format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1313-1993
+    docid:
+    - id: IEEE 1313-1993
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1313-1993
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1313-1993
+    docid:
+    - id: IEEE 1313-1993
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1313-1993
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
+- content: IEEE Standards
+- content: Insulation
+- content: Terminology
+- content: Atmospheric measurements
+- content: Lightning
+- content: Voltage control
+- content: Fault diagnosis
+- content: Grounding
 - content: atmospheric correction
 - content: correction factor
 - content: basic lightning impulse
