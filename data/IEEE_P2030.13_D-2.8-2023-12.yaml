@@ -1,0 +1,115 @@
+---
+schema-version: v1.2.3
+id: IEEEP2030.13-D-2.8-2023-12
+title:
+- content: IEEE Draft Guide for Electric Transportation Fast Charging Station Management
+    System Functional Specification
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10366230
+  type: src
+type: standard
+docid:
+- id: IEEE P2030.13/D-2.8-2023-12
+  type: IEEE
+  primary: true
+- id: IEEE P2030.13™/D-2.8-2023-12
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-0403-7
+  type: ISBN
+docnumber: IEEE P2030.13/D-2.8-2023-12
+date:
+- type: created
+  value: '2023-12-14'
+- type: published
+  value: '2023-12-20'
+- type: issued
+  value: '2023'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2023-12-20'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This guide develops a functional specification for fast charging stations
+    (FCS) for electric vehicles (EV) and electric transportation systems in general.
+    The primary role of the FCS is to aggregate multiple fast chargers and local assets,
+    and to coordinate their operation and energy management. The FCS may incorporate
+    local distributed energy resources (DER), including renewable energy resources,
+    such as solar photovoltaic (PV) generation, and other DER, such as battery energy
+    storage systems and controllable loads. The inclusion of these resources allows
+    the FCS to be configured as a microgrid. The guide develops the basic functional
+    requirements for FCS control system as two sets of core functions, associated
+    with an energy management system and a charge management system. The core functions
+    include discovery and evaluation of charging requirements of EV batteries; monitoring
+    and control of charging profiles; estimation of available and required energy;
+    energy scheduling and management; electric power system interaction and power
+    exchange management. Grid interconnection requirements, and grid and ancillary
+    services provision, are addressed.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: draft
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2023'
+keyword:
+- content: IEEE Standards
+- content: Battery energy storage system
+- content: Energy management systems
+- content: Distributed power generation
+- content: Microgrids
+- content: Electric vehicles
+- content: Transportation
+- content: Charging stations
+- content: Ancillary services
+- content: battery energy storage system
+- content: charge management system
+- content: distributed energy resources
+- content: electric transportation system
+- content: electric power system interconnection
+- content: electric vehicles
+- content: electric transportation systems
+- content: energy management system
+- content: fast charging station
+- content: fast charger
+- content: grid services
+- content: microgrid
+- content: IEEE 2030.7TM
+- content: IEEE 2030.11TM
+- content: IEEE 2030.13TM.
+doctype: standard
+editorialgroup:
+  committee:
+  - Transmission and Distribution of the IEEE Power and Energy Society
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

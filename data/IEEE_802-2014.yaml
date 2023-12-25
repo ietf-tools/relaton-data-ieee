@@ -23,8 +23,6 @@ docid:
   type: DOI
 docnumber: IEEE 802-2014
 date:
-- type: updated
-  value: '2014-07-25'
 - type: created
   value: '2014'
 - type: published
@@ -38,6 +36,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2014-07-01'
@@ -88,6 +90,23 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802-2001
+    docid:
+    - id: IEEE 802-2001
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802-2001
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Local area networks
@@ -101,7 +120,7 @@ keyword:
 - content: BANs
 - content: body area networks
 - content: EtherTypes
-- content: IEEE 802(R)
+- content: IEEE 802&#174;
 - content: IEEE 802 architecture
 - content: IEEE 802 reference model
 - content: LANs

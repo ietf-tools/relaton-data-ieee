@@ -23,8 +23,6 @@ docid:
   type: DOI
 docnumber: IEEE 802.3.1-2013
 date:
-- type: updated
-  value: '2013-10-04'
 - type: created
   value: '2013-08-02'
 - type: published
@@ -38,6 +36,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2013-07-31'
@@ -106,8 +108,6 @@ editorialgroup:
 ics:
 - code: '35.110'
   text: Networking
-- code: 35.100.10
-  text: Physical layer
 ext:
   schema-version: v1.0.0
   standard_status: Active

@@ -1,0 +1,123 @@
+---
+schema-version: v1.2.3
+id: IEEEP802.3cw-D-3.0-2023-12
+title:
+- content: 'IEEE Draft Standard for Ethernet Amendment: Physical Layers and Management
+    Parameters for 400 Gb/s Operation over DWDM (dense wavelength division multiplexing)
+    systems'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10367857
+  type: src
+type: standard
+docid:
+- id: IEEE P802.3cw/D-3.0-2023-12
+  type: IEEE
+  primary: true
+- id: IEEE P802.3cw™/D-3.0-2023-12
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-0411-2
+  type: ISBN
+docnumber: IEEE P802.3cw/D-3.0-2023-12
+date:
+- type: created
+  value: '2023-12-19'
+- type: published
+  value: '2023-12-21'
+- type: issued
+  value: '2023'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2023-12-21'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This amendment includes changes to IEEE Std 802.3-2022 and adds Clause
+    155 and Clause 156. This amendment adds 400 Gb/s Physical Layer specifications
+    and management parameters for operation over DWDM systems with reaches of at least
+    80 km.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: draft
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2023'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE802.3-2022
+    docid:
+    - id: IEEE 802.3-2022
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3-2022
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Ethernet
+- content: Wavelength division multiplexing
+- content: Forward error correction
+- content: IEEE 802.3 Standard
+- content: Physical layer
+- content: 400 Gb/s Ethernet
+- content: 400GBASE-ZR
+- content: DP-16QAM
+- content: Dense Wavelength Division Multiplexing (DWDM)
+- content: DWDM black link
+- content: Ethernet
+- content: forward error correction (FEC)
+- content: IEEE 802.3&#8482;
+- content: IEEE 802.3cw&#8482;
+- content: Physical Medium Dependent (PMD) sublayer
+- content: single-mode fiber (SMF).
+doctype: standard
+editorialgroup:
+  committee:
+  - LAN/MAN Standards Committee of the IEEE Computer Society
+ics:
+- code: 35.100.10
+  text: Physical layer
+- code: '35.110'
+  text: Networking
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

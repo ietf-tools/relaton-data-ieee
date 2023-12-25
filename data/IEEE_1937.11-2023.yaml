@@ -1,33 +1,33 @@
 ---
 schema-version: v1.2.3
-id: IEEE2868-2023
+id: IEEE1937.11-2023
 title:
-- content: IEEE Standard for Architectural Framework and Technical Requirements for
-    Smart Display Systems
+- content: IEEE Standard for Technical Requirements of Polar Coordinate Photogrammetry
+    Based on Unmanned Aircraft Systems
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/10304102
+- content: https://ieeexplore.ieee.org/document/10371257
   type: src
 type: standard
 docid:
-- id: IEEE 2868-2023
+- id: IEEE 1937.11-2023
   type: IEEE
   primary: true
-- id: IEEE 2868™-2023
+- id: IEEE 1937.11™-2023
   type: IEEE
   scope: trademark
   primary: true
-- id: 979-8-8557-0172-2
+- id: 979-8-8557-0125-8
   type: ISBN
-- id: 10.1109/IEEESTD.2023.10304102
+- id: 10.1109/IEEESTD.2023.10371257
   type: DOI
-docnumber: IEEE 2868-2023
+docnumber: IEEE 1937.11-2023
 date:
 - type: created
-  value: '2023-11-03'
+  value: '2023-11-14'
 - type: published
-  value: '2023-10-31'
+  value: '2023-12-22'
 - type: issued
   value: '2023-09-21'
 contributor:
@@ -43,16 +43,15 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-10-31'
+revdate: '2023-12-22'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The architectural framework and technical requirements for a smart display
-    system are specified in this standard, which provides the definitions, terminologies,
-    system framework and process, and the key technological requirements to achieve
-    security and privacy protection.
+- content: Described in this standard are efficient methods for acquisition, organization,
+    storage, and display of data gathered using polar coordinate photogrammetry for
+    imagery acquired by unmanned aircraft systems (UAS).
   language:
   - en
   script:
@@ -71,19 +70,21 @@ copyright:
   from: '2023'
 keyword:
 - content: IEEE Standards
-- content: Smart devices
-- content: Technical requirements
-- content: architectural framework
-- content: IEEE 2868&#8482;
-- content: smart display
-- content: technical requirements
+- content: Remote sensing
+- content: Autonomous aerial vehicles
+- content: Photography
+- content: Electromagnetic measurements
+- content: Photogrammetry
+- content: IEEE 1937.11
+- content: photogrammetry
+- content: polar coordinates
+- content: remote sensing
+- content: unmanned aircraft systems (UAS)
 doctype: standard
 editorialgroup:
   committee:
-  - Emerging Technology Standards Committee of the IEEE Consumer Technology Society
-ics:
-- code: 33.160.99
-  text: Other audio, video and audiovisual equipment
+  - Unmanned Aerial Vehicles Communications Standards Committee of the IEEE Communications
+    Society
 ext:
   schema-version: v1.0.0
   standard_status: Active

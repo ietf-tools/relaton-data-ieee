@@ -1,32 +1,33 @@
 ---
 schema-version: v1.2.3
-id: IEEEP686-D-1-2023-08
+id: IEC-IEEECDP62395.1-2022-12
 title:
-- content: IEEE Draft Standard for Radar Definitions
+- content: 'IEEE/IEC Draft Standard - Electrical Resistance Trace Heating Systems
+    for Industrial and Commercial Applications – Part 1: General and testing requirements'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/10352372
+- content: https://ieeexplore.ieee.org/document/10371263
   type: src
 type: standard
 docid:
-- id: IEEE P686/D-1-2023-08
+- id: IEC/IEEE CD P62395.1-2022-12
   type: IEEE
   primary: true
-- id: IEEE P686™/D-1-2023-08
+- id: IEC/IEEE CD P62395.1™-2022-12
   type: IEEE
   scope: trademark
   primary: true
-- id: 979-8-8557-0381-8
+- id: 978-1-5044-9269-0
   type: ISBN
-docnumber: IEEE P686/D-1-2023-08
+docnumber: IEC/IEEE CD P62395.1-2022-12
 date:
 - type: created
-  value: '2023-12-07'
+  value: '2022-12-08'
 - type: published
-  value: '2023-12-08'
+  value: '2023-12-22'
 - type: issued
-  value: '2023'
+  value: '2022'
 contributor:
 - organization:
     name:
@@ -40,20 +41,11 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-12-08'
+revdate: '2023-12-22'
 language:
 - en
 script:
 - Latn
-abstract:
-- content: The promotion of clarity and consistency in the use of radar terminology
-    is the purpose of the definitions provided in this guide. The consensus of a panel
-    of radar experts is represented in the definitions herein.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -64,17 +56,19 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2023'
+  - name:
+    - content: IEC
+  from: '2022'
 relation:
 - type: updates
   bibitem:
-    id: IEEE686-2017
+    id: IEEE515-2017
     docid:
-    - id: IEEE 686-2017
+    - id: IEEE 515-2017
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 686-2017
+      content: IEEE 515-2017
       format: text/plain
   description:
     content: revises
@@ -85,20 +79,19 @@ relation:
     format: text/plain
 keyword:
 - content: IEEE Standards
-- content: Radar
-- content: Terminology
-- content: IEEE 686&#8482;
-- content: radar
-- content: terminology
+- content: IEC Standards
+- content: Electric resistance
+- content: Heating systems
+- content: Industrial engineering
+- content: Industrial power systems
+- content: Industrial plants
 doctype: standard
 editorialgroup:
   committee:
-  - Radar Systems Panel of the IEEE Aerospace and Electronic Systems Society
+  - Petroleum and Chemical Industry of the IEEE Industry Applications Society
 ics:
-- code: 01.040.33
-  text: Telecommunications. Audio and video engineering (Vocabularies)
-- code: 33.060.99
-  text: Other equipment for radiocommunications
+- code: 25.180.10
+  text: Electric furnaces
 ext:
   schema-version: v1.0.0
   standard_status: Active

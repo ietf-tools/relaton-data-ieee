@@ -1,0 +1,151 @@
+---
+schema-version: v1.2.3
+id: IEEE1.202x-D-4-2023-12
+title:
+- content: Ieee draft standard for information technology--portable operating system
+    interface (posix(tm)) base specifications, issue 8
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10371260
+  type: src
+type: standard
+docid:
+- id: IEEE 1.202x/D-4-2023-12
+  type: IEEE
+  primary: true
+- id: IEEE 1.202x™/D-4-2023-12
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-0414-3
+  type: ISBN
+docnumber: IEEE 1.202x/D-4-2023-12
+date:
+- type: created
+  value: '2023-12-20'
+- type: published
+  value: '2023-12-22'
+- type: issued
+  value: '2023'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2023-12-22'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'POSIX.1-202x defines a standard operating system interface and environment,
+    including a command interpreter (or "shell"), and common utility programs to support
+    applications portability at the source code level. POSIX.1-202x is intended to
+    be used by both application developers and system implementors and comprises four
+    major components (each in an associated volume): &#8226; General terms, concepts,
+    and interfaces common to all volumes of this standard, including utility conventions
+    and C-language header definitions, are included in the Base Definitions volume.
+    &#8226; Definitions for system service functions and subroutines, language-specific
+    system services for the C programming language, function issues, including portability,
+    error handling, and error recovery, are included in the System Interfaces volume.
+    &#8226; Definitions for a standard source code-level interface to command interpretation
+    services (a "shell") and common utility programs for application programs are
+    included in the Shell and Utilities volume. &#8226; Extended rationale that did
+    not fit well into the rest of the document structure, which contains historical
+    information concerning the contents of POSIX.1-202x and why features were included
+    or discarded by the standard developers, is included in the Rationale (Informative)
+    volume. The following areas are outside the scope of POSIX.1-202x: &#8226; Graphics
+    interfaces &#8226; Database management system interfaces &#8226; Record I/O considerations
+    &#8226; Object or binary code portability &#8226; System configuration and resource
+    availability POSIX.1-202x describes the external characteristics and facilities
+    that are of importance to application developers, rather than the internal construction
+    techniques employed to achieve these capabilities. Special emphasis is placed
+    on those functions and facilities that are needed in a wide variety of commercial
+    applications.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: draft
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2023'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1003.1-2017
+    docid:
+    - id: IEEE 1003.1-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1003.1-2017
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Operating systems
+- content: Information technology
+- content: Portable computers
+- content: Microprocessors
+- content: application program interface (API)
+- content: argument
+- content: asynchronous
+- content: basic regular expression (BRE)
+- content: built-in utility
+- content: byte
+- content: child
+- content: command language interpreter
+- content: CPU
+- content: extended regular expression (ERE)
+- content: FIFO
+- content: file access control mechanism
+- content: IEEE 1003.1&#8482;
+- content: input/output (I/O)
+- content: job control
+- content: network
+- content: parent
+- content: portable operating system interface (POSIX)
+- content: shell
+- content: stream
+- content: string
+- content: synchronous
+- content: system
+- content: thread
+- content: X/Open System Interface (XSI)
+doctype: standard
+editorialgroup:
+  committee:
+  - Microprocessor Standards Committee of the IEEE Computer Society
+ics:
+- code: '35.060'
+  text: Languages used in information technology
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

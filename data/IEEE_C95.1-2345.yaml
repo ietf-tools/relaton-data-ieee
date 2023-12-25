@@ -25,8 +25,6 @@ docid:
   type: DOI
 docnumber: IEEE C95.1-2345
 date:
-- type: updated
-  value: '2014-07-24'
 - type: created
   value: '2014-05-30'
 - type: published
@@ -40,6 +38,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2014-05-23'
@@ -87,12 +89,12 @@ keyword:
 - content: electrostimulation
 - content: exposure limits
 - content: exposure reference level (ERL)
-- content: IEEE C95.1-2345(TM)
+- content: IEEE C95.1-2345
 - content: induced and contact currents
 - content: lowest-observed-adverse-effects-level (LOAEL)
 - content: lowest-observed-effects-level (LOEL)
 - content: magnetic fields
-- content: personnel protection programinitiation level
+- content: personnel protection program initiation level
 - content: radio frequency (RF)
 - content: restricted environment
 - content: restricted expert only (REO) zone
@@ -103,10 +105,10 @@ keyword:
 doctype: standard
 editorialgroup:
   committee:
-  - IEEE-SASB Coordinating Committees
+  - International Committee on Electromagnetic Safety of the IEEE SA Board of Governors
 ics:
 - code: '95.020'
-  text: Military engineering. Military affairs. Weapons
+  text: Military in general
 ext:
   schema-version: v1.0.0
   standard_status: Active
