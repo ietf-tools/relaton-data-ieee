@@ -1,0 +1,112 @@
+---
+schema-version: v1.2.3
+id: IEEEPC37.118.2-D-3.27-2023-12
+title:
+- content: IEEE Draft Standard for Synchrophasor Data Transfer for Power Systems
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10376437
+  type: src
+type: standard
+docid:
+- id: IEEE PC37.118.2/D-3.27-2023-12
+  type: IEEE
+  primary: true
+- id: IEEE PC37.118.2™/D-3.27-2023-12
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-0421-1
+  type: ISBN
+docnumber: IEEE PC37.118.2/D-3.27-2023-12
+date:
+- type: created
+  value: '2023-12-28'
+- type: published
+  value: '2023-12-29'
+- type: issued
+  value: '2023'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2023-12-29'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: A method for real-time exchange of synchronized phasor measurement data
+    between power system equipment is defined. This standard specifies messaging that
+    can be used with any suitable communication protocol for real-time communication
+    between phasor measurement units (PMU), phasor data concentrators (PDC), and other
+    applications. It defines message types, contents, and use. Data types and formats
+    are specified. A typical measurement system is described. Communication options
+    and requirements are described. Cybersecurity is discussed, and while its importance
+    is acknowledged in the overall system, it is beyond the scope of this standard.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: draft
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2023'
+relation:
+- type: updates
+  bibitem:
+    id: IEEEC37.118.2-2011
+    docid:
+    - id: IEEE C37.118.2-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.118.2-2011
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE C37.118.2
+- content: PDC
+- content: phasor
+- content: phasor data concentrator
+- content: phasor measurement unit
+- content: PMU
+- content: synchronized phasor
+- content: synchrophasor
+doctype: standard
+editorialgroup:
+  committee:
+  - Power System Communications and Cybersecurity of the IEEE Power and Energy Society
+ics:
+- code: 17.220.20
+  text: Measurement of electrical and magnetic quantities
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold
