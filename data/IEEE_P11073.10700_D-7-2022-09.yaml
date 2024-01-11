@@ -49,17 +49,18 @@ language:
 script:
 - Latn
 abstract:
-- content: MEDICAL DEVICEs that offer a communication interface as specified by the
+- content: Medical devices that offer a communication interface as specified by the
     IEEE 11073 Service-oriented Device Connectivity (SDC) standards can be integrated
-    into a HEALTH IT SYSTEM to jointly execute SYSTEM FUNCTIONs. However, implementing
+    into a health IT system to jointly execute system functions. However, implementing
     the IEEE 11073 SDC communication protocol is not sufficient to demonstrate safety,
-    effectiveness, and security of SYSTEM FUNCTIONs resulting from the combination
-    of SYSTEM FUNCTION CONTRIBUTIONs from two or more MEDICAL DEVICEs. SDC PARTICIPANT
-    KEY PURPOSEs (PKPs) are sets of requirements that support MANUFACTURERs in making
-    valid assumptions about BICEPS PARTICIPANTs from other MANUFACTURERs. This common
-    understanding allows for the MANUFACTURERs to perform RISK MANAGEMENT, verification,
-    and USABILITY ENGINEERING for the safe use of SYSTEM FUNCTIONs. This standard
-    specifies requirements for the allocation of responsibilities to SDC BASE PARTICIPANTs.
+    effectiveness, and security of system functions resulting from the combination
+    of system function contributions from two or more medical devices. SDC participant
+    key purposes (PKPs) are sets of requirements that allow for manufacturers to have
+    certain expectations about BICEPS participants from other manufacturers. This
+    common understanding enables the manufacturers to perform risk management, verification,
+    validation, and usability engineering for the safe use of system functions. This
+    standard specifies requirements for the allocation of responsibilities to SDC
+    base participants.
   language:
   - en
   script:
@@ -88,31 +89,25 @@ keyword:
 - content: Interoperability
 - content: Risk assessment
 - content: Service-oriented architecture
-- content: IEEE 11073-10700
-- content: point-of-care medical device communication
-- content: service-oriented device connectivity
-- content: SDC
-- content: dynamic medical device interoperability
-- content: participant key purpose
-- content: safety
+- content: base PKP; BICEPS; communication protocol specification; documentation and
+    process responsibilities; dynamic medical device interoperability; IEEE 11073-10700&#8482;;
+    integrated clinical environment; participant key purpose; point-of-care medical
+    device communication; risk management; SDC; service-oriented device connectivity;
+    safety
 - content: effectiveness
-- content: and security
-- content: system function
-- content: system function contribution
-- content: BICEPS
-- content: communication protocol specification
-- content: integrated clinical environment
-- content: documentation and process responsibilities
-- content: risk management
-- content: usability engineering
+- content: and security; system function; system function contribution; usability
+    engineering
 doctype: standard
 editorialgroup:
   committee:
   - IEEE 11073 Standards Committee of the IEEE Engineering in Medicine and Biology
     Society
+ics:
+- code: 35.240.80
+  text: IT applications in health care technology
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold
