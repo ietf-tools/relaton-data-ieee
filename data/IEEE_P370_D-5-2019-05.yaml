@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2019-05-22'
 - type: issued
-  value: '2019'
+  value: '2020-09-24'
 contributor:
 - organization:
     name:
@@ -47,14 +47,14 @@ language:
 script:
 - Latn
 abstract:
-- content: 'This document provides standard and recommended practices for ensuring
-    the quality of measured data for high frequency electrical interconnect at bandwidths
-    up to 50 GHz. This might include but is not limited to: recommended design of
-    test fixturing, methods and processes for ensuring the accuracy and consistency
-    of measured data for broadband signals with frequency content up to 50 GHz. The
-    standard and general practice should be applicable for frequencies higher than
-    50 GHz as well. However, the highest applicable frequency is 50 GHz due to the
-    lack of validation results above 50 GHz.'
+- content: Standard and recommended practices for ensuring the quality of measured
+    data for high-frequency electrical interconnect at frequencies up to 50 GHz are
+    provided. This might include, but is not limited to recommending design of test
+    fixtures, as well as methods and processes for ensuring the accuracy and consistency
+    of measured data for signals with frequency content up to 50 GHz. The standard
+    and general practice should be applicable for frequencies higher than 50 GHz as
+    well. The methods and techniques contained herein have been validated only to
+    50 GHz as of this writing. (This standard incorporates open source. See https://opensource.ieee.org/elec-char/ieee-370/)
   language:
   - en
   script:
@@ -77,15 +77,16 @@ keyword:
 - content: Integrated circuit interconnections
 - content: Verification
 - content: Electric variables measurement
-- content: verification
+- content: causality
 - content: consistency tests
 - content: de-embedding electrical measurement
-- content: S-parameters
-- content: interconnect
 - content: fixture
+- content: IEEE 370
+- content: interconnect
 - content: passivity
-- content: causality
 - content: reciprocity
+- content: S-parameters
+- content: verification
 doctype: standard
 editorialgroup:
   committee:

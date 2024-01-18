@@ -27,9 +27,9 @@ date:
 - type: created
   value: '2019-08-27'
 - type: published
-  value: '2019-08-29'
+  value: '2019-08-30'
 - type: issued
-  value: '2019'
+  value: '2020-09-24'
 contributor:
 - organization:
     name:
@@ -43,7 +43,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2019-08-29'
+revdate: '2019-08-30'
 language:
 - en
 script:
@@ -61,6 +61,24 @@ copyright:
   - name:
     - content: IEC
   from: '2019'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1528-2013
+    docid:
+    - id: IEEE 1528-2013
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1528-2013
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Specific absorption rate

@@ -24,8 +24,6 @@ docid:
   type: DOI
 docnumber: IEEE C57.12.35-2013
 date:
-- type: updated
-  value: '2013-12-13'
 - type: created
   value: '2013'
 - type: published
@@ -39,6 +37,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2013-09-20'
@@ -68,6 +70,23 @@ copyright:
     url: http://www.ieee.org
   from: '2013'
 relation:
+- type: updates
+  bibitem:
+    id: IEEEC57.12.35-2007
+    docid:
+    - id: IEEE C57.12.35-2007
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C57.12.35-2007
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEEC57.12.35-2007

@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2020-06-19'
 - type: issued
-  value: '2020'
+  value: '2020-11-08'
 contributor:
 - organization:
     name:
@@ -46,6 +46,16 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: Certificate management protocols are specified in this document to support
+    provisioning and management of digital certificates, as specified in IEEE Std
+    1609.2(TM), to end entities, that is, an actor that uses digital certificates
+    to authorize application activities.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -67,10 +77,10 @@ keyword:
 - content: certificate
 - content: end entity
 - content: enrollment
-- content: IEEE Std 1609.2
-- content: IEEE Std 1609.2.1
+- content: IEEE Std 1609&#8482;
+- content: IEEE Std 1609.2.1&#8482;
 - content: interface
-- content: SCMS
+- content: Security Credential Management System (SCMS)
 doctype: standard
 editorialgroup:
   committee:
