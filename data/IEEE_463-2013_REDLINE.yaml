@@ -71,16 +71,6 @@ copyright:
     url: http://www.ieee.org
   from: '2013'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE463-2019
-    docid:
-    - id: IEEE 463-2019
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 463-2019
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEE463-2006
@@ -98,6 +88,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE463-2019
+    docid:
+    - id: IEEE 463-2019
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 463-2019
+      format: text/plain
 keyword:
 - content: IEEE standards
 - content: Electrical safety

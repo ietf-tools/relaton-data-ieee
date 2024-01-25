@@ -26,7 +26,7 @@ date:
 - type: created
   value: '2023-02-22'
 - type: published
-  value: '2023-02-23'
+  value: '2023-04-25'
 - type: issued
   value: '2023-02-15'
 contributor:
@@ -42,11 +42,41 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-02-23'
+revdate: '2023-04-25'
 language:
 - en
 script:
 - Latn
+abstract:
+- content: This document provides requirements for the management of the content used
+    in product life cycle, software, and service management system information for
+    users. Content management allows an organization to control the storage and retrieval
+    of content objects, track content revisions, maintain a content audit trail, and
+    enable a collaborative environment. Component content management supports multiple
+    deliverable formats and the reuse of content objects among deliverables. Content
+    objects that are unique and are maintained as independent database objects are
+    efficient to review, approve, and update; may be combined to produce multiple
+    deliverables; and are cost-effective to translate. This document defines the characteristics
+    of an effective and efficient process through which content is gathered, managed,
+    and published, including the requirements of a system that is supported by an
+    electronic database. Such a database should support documents or topics and content
+    units that may be assembled to produce complete documents for print, electronic
+    output, or other content published through electronic media. This database is
+    defined as a component content management system (CCMS), as distinct from a document
+    management system. The objective of component content management is to create
+    content objects once and use them through linking mechanisms in multiple output
+    formats including but not limited to documents. Systems conforming to this document
+    can fulfil business needs for content development and management, especially the
+    need for a single source of authoritative information. This document includes
+    business case considerations for acquisition of a content management system. This
+    document is independent of the software tools and markup languages that may be
+    used to manage information for users and applies to both printed and on-screen
+    information for users.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -114,40 +144,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: ISO-IEC-IEEE26531-2015
-    docid:
-    - id: ISO/IEC/IEEE 26531-2015
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ISO/IEC/IEEE 26531-2015
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: ISO-IEC-IEEE26531-2015
-    docid:
-    - id: ISO/IEC/IEEE 26531-2015
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ISO/IEC/IEEE 26531-2015
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: ISO Standards
@@ -156,6 +152,10 @@ keyword:
 - content: Software engineering
 - content: Content management
 - content: Life cycle product management
+- content: '26531'
+- content: content management
+- content: component content management system
+- content: single source information for users
 doctype: standard
 editorialgroup:
   committee:
@@ -165,7 +165,7 @@ ics:
   text: Software
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

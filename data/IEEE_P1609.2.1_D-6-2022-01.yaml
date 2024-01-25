@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: IEEEP1609.2.1-D-6-2022-01
 title:
-- content: IEEE Approved Draft Standard for Wireless Access in Vehicular Environments
-    (WAVE) - Certificate Management Interfaces for End Entities
+- content: IEEE Draft Standard for Wireless Access in Vehicular Environments (WAVE)
+    - Certificate Management Interfaces for End Entities
   format: text/plain
   type: main
 link:
@@ -23,11 +23,11 @@ docid:
 docnumber: IEEE P1609.2.1/D-6-2022-01
 date:
 - type: created
-  value: '2022'
+  value: '2022-01-10'
 - type: published
   value: '2022-01-11'
 - type: issued
-  value: '2022-03-24'
+  value: '2022'
 contributor:
 - organization:
     name:
@@ -68,6 +68,23 @@ copyright:
     url: http://www.ieee.org
   from: '2022'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE1609.2.1-2020
+    docid:
+    - id: IEEE 1609.2.1-2020
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1609.2.1-2020
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE1609.2.1-2020

@@ -2,14 +2,14 @@
 schema-version: v1.2.3
 id: ISO-IEC8802-2011
 title:
-- content: 'ISO/IEC 8802-11: 1999 [IEEE Std 802.11-1999(R2003)] Information technology--Telecommunications
-    and information exchange between systems-- Local and metropolitan area networks--Specific
-    requirements--Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer
-    (PHY) specifications'
+- content: 'ISO/IEC International Standard - Information Technology  Telecommunications
+    and Information Exchange Between Systems  Local and Metropolitan Area Networks  Specific
+    Requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer
+    (PHY) Specifications Amendment 6: Medium Access Control (MAC) Security Enhancements'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/4140843
+- content: https://ieeexplore.ieee.org/document/4100091
   type: src
 type: standard
 docid:
@@ -20,18 +20,16 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-0-7381-4773-4
+- id: 978-0-7381-5542-5
   type: ISBN
-- id: 10.1109/IEEESTD.2005.339589
+- id: 10.1109/IEEESTD.2004.311922
   type: DOI
 docnumber: ISO/IEC 8802-2011
 date:
 - type: created
-  value: '2005'
-- type: published
-  value: '2019-04-05'
+  value: '2004'
 - type: issued
-  value: '2005'
+  value: '2006'
 contributor:
 - organization:
     name:
@@ -45,25 +43,18 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2019-04-05'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'Includes: IEEE Std 802.11, 1999 Edition, IEEE Std 802.11a.-1999, IEEE
-    Std 802.11b.-1999, IEEE Std 802.11b.-1999/Cor 1-2001, and IEEE Std 802.11d.-2001
-    The medium access control (MAC) and physical characteristics for wireless local
-    area networks (LANs) are specified in this standard, which is part of a series
-    of standards for local and metropolitan area networks. The medium access control
-    unit in this standard is designed to support physical layer units as they may
-    be adopted dependent on the availability of spectrum. This standard contains five
-    physical layer units: four radio units, operating in the 2400-2500 MHz band and
-    in the bands comprising 5.15-5.25 GHz, 5.25-5.35 GHz, and 5.725-5.825 GHz, and
-    one baseband infrared (IR) unit. One radio unit employs the frequency-hopping
-    spread spectrum (FHSS) technique, two employ the direct sequence spread spectrum
-    (DSSS) technique, and another employs the orthogonal frequency division multiplexing
-    (OFDM) technique.'
+- content: Security mechanisms for IEEE 802.11 are defined in this amendment, which
+    includes a definition of WEP for backward compatibility with the original standard,
+    IEEE Std 802.11, 1999 Edition. This amendment defines TKIP and CCMP, which provide
+    more robust data protection mechanisms than WEP affords. It introduces the concept
+    of a security association into IEEE 802.11 and defines security association management
+    protocols called the 4-Way Handshake and the Group Key Handshake. Also, it specifies
+    how IEEE 802.1X may be utilized by IEEE 802.11 LANs to effect authentication.
   language:
   - en
   script:
@@ -76,7 +67,7 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2005'
+  from: '2004'
 relation:
 - type: adoptedFrom
   bibitem:
@@ -88,30 +79,17 @@ relation:
     formattedref:
       content: IEEE 802.11i-2004
       format: text/plain
-keyword:
-- content: ISO Standards
-- content: IEC Standards
-- content: IEEE 802.11 Standard
-- content: Portable document format
-- content: Information technology
-- content: ad hoc network
-- content: infrared
-- content: LAN
-- content: local area network
-- content: mobility
-- content: radio frequency
-- content: wireless
 doctype: standard
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society
 ics:
-- code: 35.100.20
-  text: Data link layer
 - code: 35.100.10
   text: Physical layer
 - code: '35.110'
   text: Networking
+- code: 35.100.20
+  text: Data link layer
 ext:
   schema-version: v1.0.0
   standard_status: Superseded

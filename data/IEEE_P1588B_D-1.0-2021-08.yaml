@@ -86,32 +86,7 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1588-2019
-    docid:
-    - id: IEEE 1588-2019
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1588-2019
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
-- content: IEEE Standards
-- content: Optical variables measurement
-- content: TIme measurement
-- content: Synchronization
-- content: Control systems
-- content: Optical fiber networks
-- content: Adaptive optics
-- content: Transport protocols
 - content: PTP
 - content: OTN
 - content: Synchronization
@@ -124,7 +99,7 @@ ics:
   text: Other time-measuring instruments
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

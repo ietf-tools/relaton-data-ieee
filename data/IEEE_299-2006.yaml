@@ -27,7 +27,7 @@ date:
 - type: created
   value: '2007-02-28'
 - type: published
-  value: '2013-01-03'
+  value: '2007-03-05'
 - type: issued
   value: '2006-09-15'
 contributor:
@@ -39,11 +39,11 @@ contributor:
     url: http://www.ieee.org
     contact:
     - address:
-        city: Piscataway
+        city: New York
         country: USA
   role:
   - type: publisher
-revdate: '2013-01-03'
+revdate: '2007-03-05'
 language:
 - en
 script:
@@ -62,9 +62,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -74,6 +71,40 @@ copyright:
     url: http://www.ieee.org
   from: '2007'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE299-1997
+    docid:
+    - id: IEEE 299-1997
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 299-1997
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE299-1997
+    docid:
+    - id: IEEE 299-1997
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 299-1997
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE299-1997
@@ -249,7 +280,7 @@ ics:
   text: Emission
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Inactive
+  standard_modified: Reserved
   pubstatus: Active
   holdstatus: Publish

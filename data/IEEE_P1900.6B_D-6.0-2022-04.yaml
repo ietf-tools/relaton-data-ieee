@@ -25,8 +25,10 @@ docnumber: IEEE P1900.6b/D-6.0-2022-04
 date:
 - type: created
   value: '2022'
+- type: published
+  value: '2022-05-02'
 - type: issued
-  value: '2022'
+  value: '2022-06-16'
 contributor:
 - organization:
     name:
@@ -40,6 +42,7 @@ contributor:
         country: USA
   role:
   - type: publisher
+revdate: '2022-05-02'
 language:
 - en
 script:
@@ -91,21 +94,25 @@ keyword:
 - content: Radio communication
 - content: Dynamic spectrum access
 - content: Data structures
-- content: IEEE 1900.6(TM)
+- content: amendment
+- content: IEEE 1900.6
+- content: IEEE 1900.6b
+- content: interface
 - content: spectrum sensing
 - content: spectrum database
-- content: interface
 doctype: standard
 editorialgroup:
   committee:
   - Dynamic Spectrum Access Networks Standards Committee of the IEEE Communications
     Society
 ics:
+- code: 33.060.01
+  text: Radiocommunications in general
 - code: '35.110'
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

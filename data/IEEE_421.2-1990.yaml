@@ -69,16 +69,6 @@ copyright:
     url: http://www.ieee.org
   from: '1990'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE421.2-2014
-    docid:
-    - id: IEEE 421.2-2014
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 421.2-2014
-      format: text/plain
 - type: updates
   bibitem:
     id: ANSI-IEEE421A-1978
@@ -96,6 +86,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE421.2-2014
+    docid:
+    - id: IEEE 421.2-2014
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 421.2-2014
+      format: text/plain
 keyword:
 - content: Closed loop systems
 - content: Power system control

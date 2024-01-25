@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: IEEEP1936.1-D-7.0-21
 title:
-- content: IEEE Approved Draft Standard for Drone Applications Framework
+- content: IEEE Draft Standard for Drone Applications Framework
   format: text/plain
   type: main
 link:
@@ -22,11 +22,11 @@ docid:
 docnumber: IEEE P1936.1/D-7.0-21
 date:
 - type: created
-  value: '2021-11-10'
+  value: '2021'
 - type: published
   value: '2021-09-03'
 - type: issued
-  value: '2021-11-09'
+  value: '2021'
 contributor:
 - organization:
     name:
@@ -47,16 +47,16 @@ script:
 - Latn
 abstract:
 - content: A framework for support of drone applications is established in this standard.
-    Typical drone application classes, application scenarios, and required application
-    execution environments are specified. The general facility requirements of drone
-    applications are listed, including flight platform, flight control system, ground
-    control station, payload, control link and data link, takeoff and landing system,
-    etc. The drone safety and management requirements include airworthiness, airspace
-    and air traffic requirements, qualification of operators, qualification of personnel,
-    insurance, confidentiality, and others. The general operation process is detailed.
-    The operation results stipulate the operation record and operation report, including
-    data classification, data collection and processing, data record and analysis,
-    and data reference format.
+    It specifies typical drone application classes and application scenarios and the
+    required application execution environments. The general facility requirements
+    of drone application are listed, including flight platform, flight control system,
+    ground control station, payload, control link and data link, takeoff and landing
+    system, etc. The drone safety and management requirements include airworthiness,
+    airspace, and air traffic requirements, qualification of operators, qualification
+    of personnel, insurance, confidentiality and others. The general operation process
+    is detailed. The operation results stipulate the operation record and operation
+    report, including data classification, data collection and processing, data record
+    and analysis and data reference format.
   language:
   - en
   script:
@@ -74,47 +74,39 @@ copyright:
     url: http://www.ieee.org
   from: '2021'
 keyword:
-- content: IEEE Standards
-- content: Drones
-- content: Unmanned aerial vehicles
-- content: Information technology
-- content: Emergency services
-- content: Personnel
-- content: Safety
-- content: airspace
-- content: airworthiness
-- content: confidentiality
-- content: control link and data link
-- content: data reference format
 - content: drone
+- content: unmanned aerial vehicle (UAV)
+- content: unmanned aerial system (UAS)
 - content: drone application
-- content: drone application services
-- content: drone observer
-- content: drone pilot
-- content: emergency response procedure
-- content: flight control system
-- content: flight platform
-- content: goods loading
-- content: ground control station
-- content: IEEE 1936.1
-- content: information collection
-- content: insurance
 - content: operator
+- content: drone pilot
+- content: drone observer
+- content: drone application services
+- content: information collection
+- content: transmission and processing
+- content: goods loading
+- content: releasing
+- content: transportation and processing
+- content: flight platform
+- content: flight control system
+- content: ground control station
+- content: control link and data link
+- content: takeoff and landing system
+- content: airworthiness
+- content: airspace
 - content: qualification of operator
 - content: qualification of personnel
-- content: releasing
-- content: takeoff and landing system
-- content: transmission and processing
-- content: transportation and processing
-- content: unmanned aerial system (UAS)
-- content: unmanned aerial vehicle (UAV)
+- content: insurance
+- content: confidentiality
+- content: emergency response procedure
+- content: data reference format
 doctype: standard
 editorialgroup:
   committee:
   - Access and Core Networks Standards Committee of the IEEE Communications Society
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

@@ -69,6 +69,16 @@ copyright:
     url: http://www.ieee.org
   from: '2000'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE80-2013
+    docid:
+    - id: IEEE 80-2013
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 80-2013
+      format: text/plain
 - type: updates
   bibitem:
     id: ANSI-IEEE80-1986
@@ -86,16 +96,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEE80-2013
-    docid:
-    - id: IEEE 80-2013
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 80-2013
-      format: text/plain
 keyword:
 - content: IEEE standards
 - content: AC machines

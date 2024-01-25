@@ -24,9 +24,7 @@ docid:
 docnumber: IEEE 824-2004
 date:
 - type: created
-  value: '2005-05-11'
-- type: published
-  value: '2005-08-01'
+  value: '2005'
 - type: issued
   value: '2004-11-15'
 contributor:
@@ -38,11 +36,10 @@ contributor:
     url: http://www.ieee.org
     contact:
     - address:
-        city: New York
+        city: Piscataway
         country: USA
   role:
   - type: publisher
-revdate: '2005-08-01'
 language:
 - en
 script:
@@ -57,6 +54,9 @@ abstract:
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -202,6 +202,74 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE824-1994
+    docid:
+    - id: IEEE 824-1994
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 824-1994
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE824-1994
+    docid:
+    - id: IEEE 824-1994
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 824-1994
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE824-1994
+    docid:
+    - id: IEEE 824-1994
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 824-1994
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE824-1994
+    docid:
+    - id: IEEE 824-1994
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 824-1994
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Safety
@@ -209,29 +277,16 @@ keyword:
 - content: Capacitors
 - content: Protective relaying
 - content: Power systems
-- content: bypass gap
-- content: capacitor bank
-- content: capacitor segment
-- content: discharge reactor
-- content: metal-oxide varistor
-- content: protective level
-- content: reactive compensation
-- content: series capacitor
-- content: series compensation
-- content: SSR
-- content: trigger circuit
-- content: triggered gap
-- content: varistor
 doctype: standard
 editorialgroup:
   committee:
-  - Transmission and Distribution of the IEEE Power and Energy Society
+  - Transmission and Distribution of the IEEE Power &amp; Energy Society
 ics:
 - code: 31.060.99
   text: Other capacitors
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
-  standard_modified: Reserved
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

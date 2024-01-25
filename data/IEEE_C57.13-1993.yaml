@@ -6,7 +6,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/4014494
+- content: https://ieeexplore.ieee.org/document/8684584
   type: src
 type: standard
 docid:
@@ -19,12 +19,14 @@ docid:
   primary: true
 - id: 978-0-7381-0872-8
   type: ISBN
-- id: 10.1109/IEEESTD.2003.248157
+- id: 10.1109/IEEESTD.1993.8684584
   type: DOI
 docnumber: IEEE C57.13-1993
 date:
 - type: created
-  value: '2003'
+  value: '1993-11-30'
+- type: published
+  value: '2019-04-05'
 - type: issued
   value: '1993-06-17'
 contributor:
@@ -40,22 +42,24 @@ contributor:
         country: USA
   role:
   - type: publisher
+revdate: '2019-04-05'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Electrical, dimensional, and mechanical characteristics are covered, taking
-    into consideration certain safety features, for current and inductively coupled
-    voltage transformers of types generally used in the measuremtn of electricity
-    and the control of equipment assoicated with the generation, transmission, and
-    distribution of alternating current. The aim is to provide a basis for performance,
-    interchangeability, and safety of equipment covered and to assist in the proper
-    selection of such equipment. Accuracy classes for metering service are provided.
-    The test code covers measurment and calculation of radio and phase angle, demagnetization,
-    impedance and excitation measurements, polarity determination, resistance measurements,
-    short-time characteristics, temperature rise tests, dielectric tests, and measurment
-    of open-circuit voltage of current transformers.
+- content: Superseded by IEEE Std C57.13-2008. Electrical, dimensional, and mechanical
+    characteristics are covered, taking into consideration certain safety features,
+    for current and inductively coupled voltage transformers of types generally used
+    in the measurement of electricity and the control of equipment associated with
+    the generation, transmission, and distribution of alternating current. The aim
+    is to provide a basis for performance, interchangeability, and safety of equipment
+    covered, and to assist in the proper selection of such equipment. Accuracy classes
+    for metering service are provided. The test code covers measurement and calculation
+    of ratio and phase angle, demagnetization, impedance and excitation measurements,
+    polarity determination, resistance measurements, short-time characteristics, temperature-rise
+    tests, dielectric tests, and measurement of open-circuit voltage of current transformers.
+    Interpretations are available at http://standards.ieee.org/reading/ieee/interp/C57.13-1993.html
   language:
   - en
   script:
@@ -97,6 +101,23 @@ relation:
     formattedref:
       content: IEEE C57.13-2008
       format: text/plain
+- type: updates
+  bibitem:
+    id: ANSI-IEEEC57.13-1978
+    docid:
+    - id: ANSI/IEEE C57.13-1978
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI/IEEE C57.13-1978
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: obsoletedBy
   bibitem:
     id: IEEEC57.13-2008
@@ -108,8 +129,12 @@ relation:
       content: IEEE C57.13-2008
       format: text/plain
 keyword:
-- content: IEEE standards
-- content: Transformers
+- content: Secondary winding
+- content: Rated voltage
+- content: Rated secondary voltage
+- content: Primary winding
+- content: Instrument transformer
+- content: Current transformer
 doctype: standard
 editorialgroup:
   committee:

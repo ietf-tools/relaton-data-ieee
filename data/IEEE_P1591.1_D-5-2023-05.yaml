@@ -25,7 +25,7 @@ date:
 - type: created
   value: '2023-05-30'
 - type: published
-  value: '2023-06-01'
+  value: '2023-05-31'
 - type: issued
   value: '2023'
 contributor:
@@ -41,7 +41,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-06-01'
+revdate: '2023-05-31'
 language:
 - en
 script:
@@ -87,11 +87,41 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1591.1-2012
+    docid:
+    - id: IEEE 1591.1-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1591.1-2012
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1591.1-2012
+    docid:
+    - id: IEEE 1591.1-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1591.1-2012
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
-- content: IEEE Standards
-- content: Optical fiber cables
-- content: Wiring
-- content: Testing
 - content: fiber optic ground wire
 - content: IEEE 1591.1
 - content: laboratory tests

@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: IEEE1240-2000
 title:
-- content: IEEE Guide for the Evaluation of the Reliability of Hvdc Converter Stations
+- content: IEEE Guide for the Evaluation of the Reliability of HVDC Converter Stations
   format: text/plain
   type: main
 link:
@@ -17,7 +17,7 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-0-7381-2509-1
+- id: 978-0-7381-2505-3
   type: ISBN
 - id: 10.1109/IEEESTD.2001.245621
   type: DOI
@@ -25,6 +25,8 @@ docnumber: IEEE 1240-2000
 date:
 - type: created
   value: '2001-02-13'
+- type: published
+  value: '2002-08-07'
 - type: issued
   value: '2000-08-08'
 contributor:
@@ -40,23 +42,21 @@ contributor:
         country: USA
   role:
   - type: publisher
+revdate: '2002-08-07'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This guide is intended to serve high-voltage direct current (HVDC) converter
-    station reliability by suggesting significant objectives, design, operation, monitoring,
-    and specification details. This guide includes the CIGRE performance protocol
-    and reliability-related mathematical concepts.
+- content: Reaffirmed March 2012. This guide is intended to serve high-voltage direct
+    current (HVDC) converter station reliability by suggesting significant objectives,
+    design, operation, monitoring, and specification details. This guide includes
+    the CIGRE performance protocol and reliability-related mathematical concepts.
   language:
   - en
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -67,16 +67,23 @@ copyright:
   from: '2001'
 keyword:
 - content: IEEE standards
+- content: availability
+- content: converter
+- content: HVDC
+- content: maintainability
+- content: transmission
+- content: RAM
+- content: reliability
 doctype: standard
 editorialgroup:
   committee:
   - Substations of the IEEE Power and Energy Society
 ics:
-- code: 01.040.11
-  text: Health care technology (Vocabularies)
+- code: '29.200'
+  text: Rectifiers. Converters. Stabilized power supply
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Inactive
+  standard_modified: Reserved
   pubstatus: Active
   holdstatus: Publish

@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: IEEEP2030.1.1-D-4-2021-09
 title:
-- content: IEEE Approved Draft Standard Technical Specifications of a DC Quick and
-    Bi-directional Charger for Use with Electric Vehicles
+- content: IEEE Draft Standard Technical Specifications of a DC Quick and Bi-directional
+    Charger for Use with Electric Vehicles
   format: text/plain
   type: main
 link:
@@ -23,11 +23,11 @@ docid:
 docnumber: IEEE P2030.1.1/D-4-2021-09
 date:
 - type: created
-  value: '2021-11-11'
+  value: '2021'
 - type: published
   value: '2021-09-20'
 - type: issued
-  value: '2021-11-09'
+  value: '2021'
 contributor:
 - organization:
     name:
@@ -151,6 +151,23 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE2030.1.1-2015
+    docid:
+    - id: IEEE 2030.1.1-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 2030.1.1-2015
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Automotive electronics
@@ -166,7 +183,8 @@ keyword:
 - content: fast charger
 - content: fast charging
 - content: IEC 61851-23
-- content: IEEE 2030.1.1
+- content: IEEE
+- content: IEEE 2030.1.1&#8482;
 - content: rapid charging
 - content: SAE
 - content: SAE J1772
@@ -180,7 +198,7 @@ ics:
   text: Electric road vehicles
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

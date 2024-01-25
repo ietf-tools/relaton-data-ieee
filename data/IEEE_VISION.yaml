@@ -2,11 +2,11 @@
 schema-version: v1.2.3
 id: IEEEVision
 title:
-- content: 'IEEE Vision for Smart Grid Controls: 2030 and Beyond Reference Model'
+- content: 'IEEE Vision for Smart Grid Communications: 2030 and Beyond Reference Model'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/6598993
+- content: https://ieeexplore.ieee.org/document/6679201
   type: src
 type: standard
 docid:
@@ -17,18 +17,18 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-0-7381-8666-5
+- id: 978-0-7381-8833-1
   type: ISBN
-- id: 10.1109/IEEESTD.2013.6598993
+- id: 10.1109/IEEESTD.2013.6679201
   type: DOI
 docnumber: IEEE Vision
 date:
 - type: created
-  value: '2013'
+  value: '2013-12-09'
 - type: published
-  value: '2013-09-13'
+  value: '2013-12-06'
 - type: issued
-  value: '2013-11-23'
+  value: '2013-12-20'
 contributor:
 - organization:
     name:
@@ -42,34 +42,18 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2013-09-13'
+revdate: '2013-12-06'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The Smart Grid is a system of distributed systems whose domains span the
-    more traditionaldomains of bulk generation, transmission, distribution, consumers,
-    markets, and powerelectronics, with the growing penetration of relatively newer
-    domains such as renewables, electricvehicles, and demand-response-compatible loads.
-    Smart Grid control enables prescriptions forinterconnections and interactions
-    among these traditional and emerging domains at the rightinstants, at the right
-    locations, and in the right manner (Figure 1). The combined expertise ofcontrol
-    engineers and scientists will ensure that appropriate loops are closed, optimal
-    set pointsand supervisory commands are generated, and desired goals of resiliency,
-    renewables integration,reliability, security, and empowerment of consumers are
-    met [i.e., to realize a Smart Grid vision(Figure 2)].Starting with the planning
-    stages of markets, and following the path of the electron all the wayfrom generation
-    to the end userand increasingly in reverse as wellseveral problems withachieving
-    the desired set criteria and objectives have to be solved in an automated and
-    optimizedmanner. The Smart Grid will be a holistically and pervasively closed-loop
-    system; control will becentral in the grid landscape (Figure 3). The underlying
-    physics, the interconnection topologies,and the dynamic interactions among various
-    domains will inform control algorithms andarchitectures (Figure 4). The challenge
-    is to identify the most dominant features of these physics,interconnections, and
-    interactions (e.g., control-oriented models), as well as to determine the mostefficient,
-    effective, and resilient control solutions. For Corporate or Institutional Access,
-    request a custom quote for your organization at www.ieee.org/smartgridresearch
+- content: 'IEEE Vision for Smart Grid Communications: 2030 and Beyond Reference Model,
+    directly overlays events in the power grid with communication performance on the
+    same spacetime model, it ensures a perspective that verifies that any of the myriad
+    of communication technologies chosen will provide the required support for the
+    Smart Grid. For Corporate or Institutional Access, request a custom quote for
+    your organization at www.ieee.org/smartgridresearch'
   language:
   - en
   script:
@@ -86,53 +70,8 @@ copyright:
 keyword:
 - content: IEEE standards
 - content: Smart grids
-- content: Power system planning
-- content: Power grids
-- content: Electrochemical processes
-- content: Control systems
-- content: Microgrids
-- content: Computer security
-- content: Network architecture
-- content: Advanced protection schemes
-- content: architecture
-- content: automatic generation control
-- content: closed loop
-- content: consumer
-- content: controls
-- content: cyber security
-- content: demand response
-- content: distributed resources
-- content: distribution
-- content: electric power system
-- content: electrical grid
-- content: electromechanical dynamics
-- content: FACTS
-- content: forecasting
-- content: generation
-- content: grid
-- content: grid architecture
-- content: grid modernization
-- content: grid operations
-- content: IEEE Controls System Society
-- content: load
-- content: microgrid
-- content: modeling
-- content: operations
-- content: phasor measurement unit
-- content: PMU
-- content: prediction
-- content: primary and inertial frequency response
-- content: reactive power
-- content: real-time
-- content: renewables
-- content: self healing
-- content: setpoint control
-- content: smart grid
-- content: solar
-- content: transmission
-- content: vision
-- content: voltage magnitude control
-- content: wind
+- content: Technology forecasting
+- content: Power line communications
 doctype: standard
 ics:
 - code: 29.240.01

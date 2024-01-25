@@ -64,23 +64,6 @@ copyright:
     url: http://www.ieee.org
   from: '2006'
 relation:
-- type: updates
-  bibitem:
-    id: ANSIC63.7-1992
-    docid:
-    - id: ANSI C63.7-1992
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI C63.7-1992
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: obsoletedBy
   bibitem:
     id: ANSIC63.7-2015
@@ -108,16 +91,23 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
+- type: updates
   bibitem:
-    id: ANSIC63.7-2015
+    id: ANSIC63.7-1992
     docid:
-    - id: ANSI C63.7-2015
+    - id: ANSI C63.7-1992
       type: IEEE
       primary: true
     formattedref:
-      content: ANSI C63.7-2015
+      content: ANSI C63.7-1992
       format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 doctype: standard
 ics:
 - code: 33.100.10
