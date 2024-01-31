@@ -25,9 +25,9 @@ date:
 - type: created
   value: '2023-05-26'
 - type: published
-  value: '2023-05-30'
+  value: '2023-05-29'
 - type: issued
-  value: '2023'
+  value: '2023-09-21'
 contributor:
 - organization:
     name:
@@ -41,17 +41,17 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-05-30'
+revdate: '2023-05-29'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The Guide for Low Frequency Dielectric Testing for Distribution, Power,
-    and Regulating Transformers provides background on various low frequency test
+- content: Provided in this guide for low frequency dielectric testing for distribution,
+    power, and regulating transformers are background on various low frequency test
     methods as well as guidance on how to conduct and interpret the results. Common
     pitfalls to avoid are presented along with compiled guidance on interpreting the
-    results and where possible methods for correcting test issues.
+    results and possible methods for correcting test issues.
   language:
   - en
   script:
@@ -76,11 +76,11 @@ keyword:
 - content: Power transformers
 - content: Testing
 - content: applied
+- content: auto-transformer
 - content: DFR
 - content: dielectric frequency response
 - content: dielectric test
-- content: induced
-- content: IEEE C57.168&#8482;
+- content: IEEE C57.168 induced
 - content: insulation power factor
 - content: hi-pot
 - content: low-frequency test
@@ -93,9 +93,12 @@ doctype: standard
 editorialgroup:
   committee:
   - Transformers of the IEEE Power and Energy Society
+ics:
+- code: '29.180'
+  text: Transformers. Reactors
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

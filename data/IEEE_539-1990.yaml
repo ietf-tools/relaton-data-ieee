@@ -70,16 +70,6 @@ copyright:
     url: http://www.ieee.org
   from: '1991'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE539-2005
-    docid:
-    - id: IEEE 539-2005
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 539-2005
-      format: text/plain
 - type: updates
   bibitem:
     id: ANSI-IEEE539-1979
@@ -97,6 +87,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE539-2005
+    docid:
+    - id: IEEE 539-2005
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 539-2005
+      format: text/plain
 keyword:
 - content: Corona
 - content: Electromagnetic fields

@@ -3,12 +3,12 @@ schema-version: v1.2.3
 id: IEEEC62.21-Cor1-2008
 title:
 - content: 'IEEE Guide for the Application of Surge Voltage Protective Equipment on
-    Ac Rotating Machinery 1000 V and Greater Corrigendum 1: Replace Table 2, A.1,
+    AC Rotating Machinery 1000 V and Greater - Corrigendum 1: Correct Table 2, A.1,
     and A.2'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/4694843
+- content: https://ieeexplore.ieee.org/document/6820721
   type: src
 type: standard
 docid:
@@ -21,12 +21,14 @@ docid:
   primary: true
 - id: 978-0-7381-5838-9
   type: ISBN
-- id: 10.1109/IEEESTD.2008.4694843
+- id: 10.1109/IEEESTD.2008.6820721
   type: DOI
 docnumber: IEEE C62.21/Cor1-2008
 date:
 - type: created
   value: '2008-11-26'
+- type: published
+  value: '2014-05-23'
 - type: issued
   value: '2008-09-26'
 contributor:
@@ -36,22 +38,24 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
+revdate: '2014-05-23'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This paper addresses the errors identified in IEEE Std C62.21-2003.
+- content: Errors identified in IEEE Std C62.21-2003 are addressed in this corrigendum.
   language:
   - en
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -61,21 +65,37 @@ copyright:
     url: http://www.ieee.org
   from: '2008'
 keyword:
-- content: IEEE Standards
-- content: Error analysis
+- content: IEEE standards
 - content: Surge protection
-- content: Voltage control
-- content: AC rotating machines, coil insulation, generator insulation, groundwall
-    insulation
-- content: impulse voltage, insulation strength, insulation withstand, motor insulation,
-    surge arrester, surge voltage, surge withstand, turn insulation, winding insulation
+- content: Insulation
+- content: Winding
+- content: AC machines
+- content: Motors
+- content: Coil insulation
+- content: C62.21-2003/Cor 1-2008
+- content: AC rotating machines
+- content: coil insulation
+- content: generator insulation
+- content: groundwall insulation
+- content: impulse voltage
+- content: insulation strength
+- content: insulation withstand
+- content: motor insulation
+- content: surge arrester
+- content: surge voltage
+- content: surge withstand
+- content: turn insulation
+- content: winding insulation
 doctype: standard
+editorialgroup:
+  committee:
+  - Surge Protective Devices/High Voltage of the IEEE Power and Energy Society
 ics:
 - code: 29.120.50
   text: Fuses and other overcurrent protection devices
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Inactive
+  standard_modified: Reserved
   pubstatus: Active
   holdstatus: Publish

@@ -26,7 +26,7 @@ date:
 - type: published
   value: '2023-02-16'
 - type: issued
-  value: '2021'
+  value: '2023-06-05'
 contributor:
 - organization:
     name:
@@ -47,11 +47,12 @@ script:
 - Latn
 abstract:
 - content: Test approaches and procedures for the components and the overall protection
-    and control system functions are presented. Test of equipment in the system protection
-    scheme, associated communications equipment, auxiliary power supplies, and the
-    control of power apparatus are addressed. Much of the testing emphasizes a bottom-up
-    approach, in which the basic behavior of scheme components are verified first,
-    followed by testing of interconnected components in a function-oriented assembly.
+    and control system functions are presented in this guide. Test of equipment in
+    the system protection scheme, associated communications equipment, auxiliary power
+    supplies, and the control of power apparatus are addressed. Much of the testing
+    emphasizes a bottom-up approach, in which the basic behavior of scheme components
+    are verified first, followed by testing of interconnected components in a function-oriented
+    assembly.
   language:
   - en
   script:
@@ -86,6 +87,23 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC37.233-2009
+    docid:
+    - id: IEEE C37.233-2009
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.233-2009
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Power system reliability
@@ -97,6 +115,7 @@ keyword:
 - content: IEEE C37.233&#8482;
 - content: maintenance testing
 - content: performance assessment
+- content: type testing
 doctype: standard
 editorialgroup:
   committee:

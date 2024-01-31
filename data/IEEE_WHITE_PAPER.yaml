@@ -2,12 +2,11 @@
 schema-version: v1.2.3
 id: IEEEWhitePaper
 title:
-- content: Spectrum Considerations for Vehicle-To-Vehicle Communications for UnManned
-    Aircraft Systems
+- content: Fiber Attach Technology White Paper
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/10079923
+- content: https://ieeexplore.ieee.org/document/10298048
   type: src
 type: standard
 docid:
@@ -18,14 +17,14 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-9565-3
+- id: 979-8-8557-0119-7
   type: ISBN
 docnumber: IEEE White Paper
 date:
 - type: created
-  value: '2023'
+  value: '2023-10-27'
 - type: published
-  value: '2023-03-23'
+  value: '2023-10-26'
 - type: issued
   value: '2023'
 contributor:
@@ -41,21 +40,20 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-03-23'
+revdate: '2023-10-26'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This white paper provides a broad overview of potential communication technology
-    and spectrum usage options for unmanned aerial systems (UAS). This paper particularly
-    focuses on the detect and avoid (DAA) or collision avoidance (CA) use case, in
-    line with the vehicle-to-vehicle (V2V) unmanned aerial vehicles (UAV) use case
-    white paper and examines the advantages and disadvantages of state-of-the-art
-    technologies for DAA/CA use case. While specific frequency bands are discussed,
-    along with communication requirements of the UAS, solutions for spectrum usage
-    designs and experimentation have been reserved for white papers to emanate from
-    future IEEE P1920 UAV standard groups.
+- content: Optical interconnects are critical to providing reliable and energy efficient
+    data transfer between active and passive devices that are pervasive in data centers,
+    telecommunications, transportation, and many emerging sectors and use-case scenarios.
+    There currently are no standard metrics for assessing the overall performance
+    of these connections. This white paper is intended to highlight this gap and initiate
+    a dialogue for stakeholders to address the current and potential future needs
+    for performance and parametrics that can be uniformly considered across multiple
+    optical interconnect technologies.
   language:
   - en
   script:
@@ -70,17 +68,16 @@ copyright:
     url: http://www.ieee.org
   from: '2023'
 keyword:
-- content: '1920.2'
-- content: communication protocol
-- content: detect-and-avoid
-- content: UAS
-- content: UAV
-- content: unmanned aerial system
-- content: unmanned aerial vehicle
-- content: V2V
-- content: vehicle-to-vehicle
+- content: data transfer
+- content: fiber array
+- content: fiber attach
+- content: Industry Connections
+- content: standards
 - content: white paper
 doctype: standard
+editorialgroup:
+  committee:
+  - Industry Connections Committee of the IEEE-SASB
 ext:
   schema-version: v1.0.0
   standard_status: Active

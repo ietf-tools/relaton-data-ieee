@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: IEEEPC37.2-D-1.1-2022-05
 title:
-- content: IEEE Draft Standard Electrical Power System Device Function Numbers, Acronyms,
-    and Contact Designations
+- content: IEEE Approved Draft Standard Electrical Power System Device Function Numbers,
+    Acronyms, and Contact Designations
   format: text/plain
   type: main
 link:
@@ -23,7 +23,7 @@ docid:
 docnumber: IEEE PC37.2/D-1.1-2022-05
 date:
 - type: created
-  value: '2022-05-16'
+  value: '2022'
 - type: published
   value: '2022-05-17'
 - type: issued
@@ -77,6 +77,23 @@ copyright:
     url: http://www.ieee.org
   from: '2022'
 relation:
+- type: updates
+  bibitem:
+    id: IEEEC37.2-2008
+    docid:
+    - id: IEEE C37.2-2008
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.2-2008
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEEC37.2-2008

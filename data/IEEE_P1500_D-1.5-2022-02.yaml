@@ -47,10 +47,10 @@ language:
 script:
 - Latn
 abstract:
-- content: A mechanism for the test of core designs within a system on chip (SoC)
-    is defined. This mechanism is a hardware architecture and the core test language
-    (CTL) is leveraged to facilitate communication between core designers and core
-    integrators.
+- content: This standard defines a mechanism for the test of core designs within a
+    system on chip (SoC). This mechanism constitutes a hardware architecture and leverages
+    the core test language (CTL) to facilitate communication between core designers
+    and core integrators.
   language:
   - en
   script:
@@ -102,6 +102,23 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1500-2005
+    docid:
+    - id: IEEE 1500-2005
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1500-2005
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Integrated circuits
@@ -109,7 +126,6 @@ keyword:
 - content: Testing
 - content: core test
 - content: embedded core test
-- content: IEEE 1500
 - content: IP test
 - content: test reuse
 doctype: standard
@@ -121,7 +137,7 @@ ics:
   text: Integrated circuits. Microelectronics
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

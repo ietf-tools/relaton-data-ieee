@@ -7,7 +7,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/10097698
+- content: https://ieeexplore.ieee.org/document/10025661
   type: src
 type: standard
 docid:
@@ -18,16 +18,16 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-9637-7
+- id: 978-1-5044-9378-9
   type: ISBN
 docnumber: IEEE P1609.2.1-2022
 date:
 - type: created
-  value: '2023'
+  value: '2023-01-23'
 - type: published
-  value: '2023-04-07'
+  value: '2023-01-24'
 - type: issued
-  value: '2023'
+  value: '2023-06-05'
 contributor:
 - organization:
     name:
@@ -41,11 +41,19 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-04-07'
+revdate: '2023-01-24'
 language:
 - en
 script:
 - Latn
+abstract:
+- content: This corrigendum provides corrections to references, figures, processes,
+    tables, and ASN.1 modules from 1609.2.1-2022.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -75,57 +83,19 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1609.2.1-2022
-    docid:
-    - id: IEEE 1609.2.1-2022
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1609.2.1-2022
-      format: text/plain
-  description:
-    content: corrects
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1609.2.1-2022
-    docid:
-    - id: IEEE 1609.2.1-2022
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1609.2.1-2022
-      format: text/plain
-  description:
-    content: corrects
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1609.2.1-2022
-    docid:
-    - id: IEEE 1609.2.1-2022
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1609.2.1-2022
-      format: text/plain
-  description:
-    content: corrects
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Intelligent transportation systems
+- content: Wireless networks
+- content: Vehicular ad hoc networks
+- content: authorization
+- content: certificate
+- content: end entity
+- content: enrollment
+- content: IEEE 1609&#8482;
+- content: IEEE 1609.2.1&#8482;
+- content: interface
+- content: Security Credential Management System (SCMS)
 doctype: standard
 editorialgroup:
   committee:
@@ -135,7 +105,7 @@ ics:
   text: IT applications in transport
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

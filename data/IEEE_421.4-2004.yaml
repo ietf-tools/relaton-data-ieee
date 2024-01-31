@@ -67,16 +67,6 @@ copyright:
     url: http://www.ieee.org
   from: '2004'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE421.4-2014
-    docid:
-    - id: IEEE 421.4-2014
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 421.4-2014
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEE421.4-1990
@@ -94,6 +84,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE421.4-2014
+    docid:
+    - id: IEEE 421.4-2014
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 421.4-2014
+      format: text/plain
 keyword:
 - content: IEEE standards
 - content: Exciters

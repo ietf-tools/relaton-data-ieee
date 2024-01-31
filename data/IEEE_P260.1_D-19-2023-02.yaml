@@ -25,7 +25,7 @@ date:
 - type: created
   value: '2023'
 - type: published
-  value: '2023-03-14'
+  value: '2023-03-13'
 - type: issued
   value: '2023'
 contributor:
@@ -41,7 +41,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-03-14'
+revdate: '2023-03-13'
 language:
 - en
 script:
@@ -66,6 +66,23 @@ copyright:
     url: http://www.ieee.org
   from: '2023'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE260.1-2004
+    docid:
+    - id: IEEE 260.1-2004
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 260.1-2004
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE260.1-2004
@@ -113,7 +130,7 @@ ics:
   text: Character symbols
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

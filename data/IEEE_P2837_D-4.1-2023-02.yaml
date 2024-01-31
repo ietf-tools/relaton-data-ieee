@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2023-02-22'
 - type: issued
-  value: '2023'
+  value: '2023-06-05'
 contributor:
 - organization:
     name:
@@ -49,11 +49,11 @@ script:
 abstract:
 - content: General requirements, functional and technical performance requirements,
     test requirements, labeling requirements, packaging, transportation and storage
-    requirements, supply integrity requirements and quality assurance requirements
+    requirements, supply integrity requirements, and quality assurance requirements
     for hybrid high-voltage direct current (HVDC) transmission control and protection
     equipment are provided in this guide. This guide could be applied to the control
-    and protection equipment of parallel two-terminal or multi-terminal hybrid DC
-    transmission system with a DC voltage level of ±110 kV and above, including line-commutated
+    and protection equipment of parallel two-terminal or multiterminal hybrid dc transmission
+    system with a dc voltage level of ±110 kV and above, including line-commutated
     converter (LCC) and voltage-source converter (VSC).
   language:
   - en
@@ -77,17 +77,43 @@ keyword:
 - content: Power transmission
 - content: Control systems
 - content: Power system protection
-- content: hybrid HVDC
-- content: IEEE 2837TM
+- content: backup operation
+- content: backup protection
+- content: busbar protection
+- content: circuit faults
+- content: communication time delay
 - content: control equipment
+- content: current derivative-based algorithm
+- content: derivative-based algorithms
+- content: fault detection
+- content: fault resistance
+- content: high voltage direct current grids
+- content: high-resistance fault case scenarios
+- content: high-resistance fault detection
+- content: HVDC grids
+- content: HVDC transmission
+- content: hybrid HVDC
+- content: IEEE 2837&#8482;
+- content: inductors
+- content: limiting
+- content: local derivative-based protection scheme
+- content: local-measurement-based algorithms
+- content: operation speed
+- content: parallel operation
+- content: primary protections
 - content: protection equipment
+- content: voltage derivative-based algorithm
+- content: voltage measurement
 doctype: standard
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society
+ics:
+- code: 29.130.10
+  text: High voltage switchgear and controlgear
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

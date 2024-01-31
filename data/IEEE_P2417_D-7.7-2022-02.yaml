@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2022-02-09'
 - type: issued
-  value: '2022'
+  value: '2022-05-13'
 contributor:
 - organization:
     name:
@@ -47,15 +47,15 @@ language:
 script:
 - Latn
 abstract:
-- content: Failures of underground cables and accessories can result in the release
-    of toxic gases and large amounts of energy. These failures include smoking manholes,
-    manhole fires and manhole explosions. These failure events can damage underground
-    infrastructure and pose a risk to the maintenance crews and the public. The guide
-    examines the root causes, prevention, early detection, mitigation and response
-    to failures of accessories and cable inside of, and connected to underground electrical
-    structures (i.e. manholes, vaults, handholes, etc.). It suggests methods that
-    can help prevent manhole events from occurring and identifies methods that can
-    mitigate the severity if a manhole event should occur.
+- content: 'Abstract: Failures of underground cables and accessories can result in
+    the release of toxic gases and large amounts of energy. These failures include
+    smoking manholes, manhole fires, and manhole explosions. These failure events
+    can damage underground infrastructure and pose a risk to the maintenance crews
+    and the public. The root causes, prevention, early detection, mitigation, and
+    response to failures of accessories and cable inside, and connected to underground
+    electrical structures (i.e., manholes, vaults, handholes, etc.) are examined.
+    Methods that can help prevent manhole events and methods that can mitigate the
+    severity of manhole events are suggested.'
   language:
   - en
   script:
@@ -73,19 +73,33 @@ copyright:
     url: http://www.ieee.org
   from: '2022'
 keyword:
+- content: IEEE Standards
+- content: Underground power cables
+- content: Explosions
+- content: Fires
+- content: Failure analysis
+- content: Gases
+- content: Maintenance engineering
 - content: arcing faults
-- content: IEEE P2417
+- content: IEEE 2417
+- content: manhole events
 - content: manhole explosion
 - content: manhole fire
-- content: manhole events
 - content: smoking manhole
 doctype: standard
 editorialgroup:
   committee:
   - Insulated Conductors of the IEEE Power and Energy Society
+ics:
+- code: 13.220.99
+  text: Other standards related to protection against fire
+- code: '13.230'
+  text: Explosion protection
+- code: 29.060.20
+  text: Cables
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

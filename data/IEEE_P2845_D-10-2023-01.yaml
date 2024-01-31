@@ -28,7 +28,7 @@ date:
 - type: published
   value: '2023-02-02'
 - type: issued
-  value: '2023'
+  value: '2023-09-21'
 contributor:
 - organization:
     name:
@@ -47,6 +47,21 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: This standard is applicable to celebratory balloons that are comparable
+    in size and shape to what are commonly referred to as foil balloons and are available
+    in retail stores and filled with helium or a lighter-than-air gas. The dielectric
+    performance of celebratory balloons in contact with simulated energized overhead
+    distribution power lines with the intent of minimizing balloon-caused power system
+    outages (or electrical faults) are evaluated by the test procedures. The scope
+    is limited to distribution system voltages of 38 kV or less and only single balloons.
+    The effects of having any moisture, contaminants, or string or ribbon attachments
+    to the balloon(s) are not investigated under this procedure.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -66,15 +81,18 @@ keyword:
 - content: Ignition
 - content: balloon
 - content: foil balloon
-- content: IEEE 2845
+- content: IEEE 2845&#8482;
 - content: ignition
 - content: ionization
-- content: non-conductive balloon
+- content: nonconductive balloon
 - content: standard
 doctype: standard
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society
+ics:
+- code: '19.080'
+  text: Electrical and electronic testing
 ext:
   schema-version: v1.0.0
   standard_status: Inactive

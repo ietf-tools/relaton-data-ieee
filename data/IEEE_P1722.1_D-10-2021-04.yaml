@@ -46,6 +46,16 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: This standard specifies the protocol, device discovery, connection management
+    and device control procedures used to facilitate interoperability between audio
+    and video based End Stations that use IEEE 1722 based Streams on IEEE 802(R) based
+    networks.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -66,6 +76,23 @@ keyword:
 - content: Timing
 - content: Sensitivity analysis
 - content: Networked control systems
+- content: AVDECC
+- content: ATDECC
+- content: bridged LAN
+- content: IEC 61883
+- content: IEEE 802.1&#8482; AVB protocols
+- content: IEEE 802.1BA&#8482;
+- content: IEEE 1722.1&#8482;
+- content: IEEE Std 802.1AS&#8482;2011
+- content: IEEE Std 802.1AS&#8482;2020
+- content: IEEE Std 802.1Q&#8482;2011
+- content: IEEE Std 802.1Q&#8482;2018
+- content: IEEE Std 1722&#8482;2011
+- content: IEEE Std 1722&#8482;2016
+- content: LAN
+- content: QoS
+- content: time sensitive media streaming
+- content: time synchronization
 doctype: standard
 editorialgroup:
   committee:
@@ -75,7 +102,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

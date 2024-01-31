@@ -2,13 +2,13 @@
 schema-version: v1.2.3
 id: IEEEC37.16-2009
 title:
-- content: IEEE standard for preferred ratings, related requirements, and application
-    recommendations for low-voltage AC (635 V and below) and DC (3200 V and below)
-    power circuit breakers
+- content: IEEE Standard for Preferred Ratings,Related Requirements, and Application
+    Recommendations for Low-Voltage AC (635 V and below)and DC (3200 V and below)
+    Power Circuit Breakers
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/5071561
+- content: https://ieeexplore.ieee.org/document/5983365
   type: src
 type: standard
 docid:
@@ -21,14 +21,16 @@ docid:
   primary: true
 - id: 978-0-7381-5941-6
   type: ISBN
-- id: 10.1109/IEEESTD.2009.5071561
+- id: 10.1109/IEEESTD.2009.5983365
   type: DOI
 docnumber: IEEE C37.16-2009
 date:
 - type: created
   value: '2009'
+- type: published
+  value: '2011-08-11'
 - type: issued
-  value: '2008-03-19'
+  value: '2009-03-19'
 contributor:
 - organization:
     name:
@@ -36,26 +38,28 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
+revdate: '2011-08-11'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This standard defines the preferred ratings for low-voltage ac (635 V and
-    below) power circuit breakers, general purpose dc (325 V and below) power circuit
-    breakers, heavy duty low- voltage dc (3200 V and below) power circuit breakers,
-    and fused (integrally or non-integrally) low- voltage ac (600 V and below) power
+- content: This standard defines the preferred ratings for low-voltage AC (635 V and
+    below) power circuit breakers, general purpose DC (325 V and below) power circuit
+    breakers, heavy duty low voltage DC (3200 V and below) power circuit breakers,
+    and fused (integrally or non-integrally) low voltage AC (600 V and below) power
     circuit breakers.
   language:
   - en
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -63,25 +67,27 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2009'
+  from: '2011'
 keyword:
-- content: IEEE Standards
+- content: IEEE standards
 - content: Circuit breakers
+- content: Voltage control
 - content: Low voltage
-- content: DC machines
+- content: AC motors
+- content: DC motors
+- content: C37.16-2009
 - content: dc power circuit breaker; integrally fused low-voltage ac power circuit
-    breaker; low-voltage; non-integrally fused low-voltage ac power circuit breaker;
+    breaker; lowvoltage; non-integrally fused low-voltage ac power circuit breaker;
     power circuit breaker
 doctype: standard
 editorialgroup:
   committee:
-  - 'IEEE Switchgear Committee of the Power & Energy Society '
+  - Switchgear of the IEEE Power and Energy Society
 ics:
 - code: 29.130.20
   text: Low voltage switchgear and controlgear
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Superseded
   pubstatus: Active
   holdstatus: Publish

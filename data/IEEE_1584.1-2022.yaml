@@ -18,7 +18,7 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-9192-1
+- id: 978-1-5044-8723-8
   type: ISBN
 - id: 10.1109/IEEESTD.2022.9825493
   type: DOI
@@ -71,6 +71,23 @@ copyright:
     url: http://www.ieee.org
   from: '2022'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE1584.1-2013
+    docid:
+    - id: IEEE 1584.1-2013
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1584.1-2013
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE1584.1-2013

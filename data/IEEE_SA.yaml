@@ -2,11 +2,12 @@
 schema-version: v1.2.3
 id: IEEESA
 title:
-- content: 'IEEE SA: Pre-Standardization Study for Indian Languages Report'
+- content: 'IEEE SA Industry Connections--IEEE 802 Nendica Report: Intelligent Lossless
+    Data Center Networks'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/10168733
+- content: https://ieeexplore.ieee.org/document/9457238
   type: src
 type: standard
 docid:
@@ -17,16 +18,16 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-9844-9
+- id: 978-1-5044-7741-3
   type: ISBN
 docnumber: IEEE SA
 date:
 - type: created
-  value: '2023'
+  value: '2021'
 - type: published
-  value: '2023-06-29'
+  value: '2021-06-16'
 - type: issued
-  value: '2023'
+  value: '2021'
 contributor:
 - organization:
     name:
@@ -40,25 +41,26 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-06-29'
+revdate: '2021-06-16'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The paper outlines the pre-standardization study for Indian Languages and
-    explains the outcome of that study, the result of which is four additional papers.
-    This series of documents is a pre-standardization study focusing on identifying
-    the gaps in the standards. The series does not offer any recommendation on prioritization
-    of the gaps nor defines any standards to address the identified gaps. The study
-    covers only the listed 22 scheduled languages. The series offers no comments on
-    the validity of its content for the non-scheduled languages. However, readers
-    are free to take the contents and apply them to the non-scheduled languages.
+- content: 'This paper is the result of a work item [19] within the IEEE 802 “Network
+    Enhancements for the Next Decade” Industry Connections Activity known as Nendica.
+    The paper extends a previous report, “IEEE 802 Nendica Report: The Lossless Network
+    for Data Centers” [20] published on August 17, 2018. This update provides additional
+    background on evolving use cases in modern data centers and proposes solutions
+    to additional problems identified by this report.'
   language:
   - en
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -66,20 +68,29 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2023'
+  from: '2021'
 keyword:
-- content: gaps
-- content: Indian language
+- content: Industries
+- content: Data centers
+- content: Web and internet services
+- content: Telecommunications
+- content: System recovery
+- content: Sun
+- content: Patents
+- content: '802'
+- content: artificial intelligence
 - content: Industry Connections
-- content: standardization
-- content: study
-- content: white paper
+- content: lossless data center
+- content: Nendica
+- content: networking
+- content: report
 doctype: standard
-editorialgroup:
-  committee:
-  - Industry Connections Committee of the IEEE-SASB
+ics:
+- code: 01.040.11
+  text: Health care technology (Vocabularies)
 ext:
   schema-version: v1.0.0
   standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

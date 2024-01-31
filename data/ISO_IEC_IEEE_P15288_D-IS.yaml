@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2022-04-28'
 - type: issued
-  value: '2022'
+  value: '2023-03-30'
 contributor:
 - organization:
     name:
@@ -46,6 +46,19 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: This document establishes a common framework of process descriptions for
+    describing the life cycle of systems created by humans, defining a set of processes
+    and associated terminology from an engineering viewpoint. These processes can
+    be applied to systems of interest, their system elements, and to system of systems.
+    Selected sets of these processes can be applied throughout the stages of a system's
+    life cycle. This is accomplished through the involvement of stakeholders, with
+    the ultimate goal of achieving customer satisfaction.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -62,6 +75,57 @@ copyright:
     - content: IEC
   from: '2022'
 relation:
+- type: updates
+  bibitem:
+    id: ISO-IEC-IEEE15288
+    docid:
+    - id: ISO/IEC/IEEE 15288
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ISO/IEC/IEEE 15288
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: ISO-IEC-IEEE15288
+    docid:
+    - id: ISO/IEC/IEEE 15288
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ISO/IEC/IEEE 15288
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: ISO-IEC-IEEE15288
+    docid:
+    - id: ISO/IEC/IEEE 15288
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ISO/IEC/IEEE 15288
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: ISO-IEC-IEEE15288

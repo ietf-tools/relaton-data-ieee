@@ -6,7 +6,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/977876
+- content: https://ieeexplore.ieee.org/document/8684966
   type: src
 type: standard
 docid:
@@ -19,14 +19,14 @@ docid:
   primary: true
 - id: 978-0-7381-3739-1
   type: ISBN
-- id: 10.1109/IEEESTD.2001.93371
+- id: 10.1109/IEEESTD.2000.8684966
   type: DOI
 docnumber: IEEE 1532-2001
 date:
 - type: created
-  value: '2001-12-20'
+  value: '2000-01-12'
 - type: published
-  value: '2019-04-10'
+  value: '2019-04-08'
 - type: issued
   value: '2001-12-06'
 contributor:
@@ -42,21 +42,21 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2019-04-10'
+revdate: '2019-04-08'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The communication protocol described by IEEE Std 1149.1 (Standard Test
-    Access Port and Boundary-Scan Architecture) has been adopted by this standard
+- content: The communication protocol described by IEEE Std 1149.1 TM -2001 (Standard
+    Test Access Port and Boundary-Scan Architecture) has been adopted by this standard
     for providing standardized programming access and methodology for programmable
-    integrated circuit devices. Devices that implement this standard shall first be
-    compliant with IEEE Std 1149.1 used for testing purposes. A device, or set of
-    devices implementing this standard may be programmed (written), read back, erased,
-    and verified, singly or concurrently, with a standardized set of resources. Sample
-    implementation and application details (which are not part of this standard) are
-    included for illustrative purposes.
+    integrated circuit devices.Devices that implement this standard will first be
+    compliant with IEEE Std 1149.1-2001, which isused for testing purposes. A device,
+    or set of devices, implementing this standard can be pro-grammed (written), read
+    back, erased, and verified, singly or concurrently, with a standardized setof
+    resources. Sample implementation and application details (which are not part of
+    this standard)are included for illustrative purposes.
   language:
   - en
   script:
@@ -88,17 +88,30 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1532-2000
+    docid:
+    - id: IEEE 1532-2000
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1532-2000
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
-- content: IEEE Standards
-- content: Patents
-- content: Programming profession
-- content: Protocols
-- content: Integrated circuits
 - content: complex programmable logic device (CPLD)
-- content: erasable programmable read-onlymemory (EPROM)
+- content: erasable programmable read-only memory (EPROM)
 - content: field programmable gate array (FPGA)
 - content: flash ram
-- content: in-system (or in-situ)configuration (ISC)
+- content: in-system (or In-Situ) configuration (ISC)
+- content: in-system programming (ISP)
 - content: programmable device
 doctype: standard
 editorialgroup:

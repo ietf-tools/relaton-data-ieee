@@ -8,7 +8,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8727608
+- content: https://ieeexplore.ieee.org/document/4814108
   type: src
 type: standard
 docid:
@@ -21,14 +21,14 @@ docid:
   primary: true
 - id: 978-0-7381-5889-1
   type: ISBN
-- id: 10.1109/IEEESTD.2009.8727608
+- id: 10.1109/IEEESTD.2008.4814108
   type: DOI
 docnumber: IEEE C37.04b-2008
 date:
+- type: updated
+  value: '2009-06-05'
 - type: created
-  value: '2009'
-- type: published
-  value: '2019-05-31'
+  value: '2008'
 - type: issued
   value: '2008-12-10'
 contributor:
@@ -40,14 +40,13 @@ contributor:
     url: http://www.ieee.org
   role:
   - type: publisher
-revdate: '2019-05-31'
 language:
 - en
 script:
 - Latn
 abstract:
 - content: This standard is revised to change the descriptions of the standard transient
-    recovery voltage (TRV) envelope and ratings. This is applicable for ac high-voltage
+    recovery voltage (TRV) envelope and ratings. This is applicable for AC high-voltage
     circuit breakers rated above 1000 V and on a symmetrical current basis. The capability
     limits of these circuit breakers are determined to a major degree by the TRV.
     The revised descriptions of TRV bring the TRV requirements in IEEE standards into
@@ -84,16 +83,26 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC37.04-1999
+    docid:
+    - id: IEEE C37.04-1999
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.04-1999
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
-- content: IEEE Standards
-- content: High-voltage techniques
-- content: Circuit breakers
-- content: Transient analysis
-- content: IEC Standards
-- content: Harmonic analysis
-- content: C37.40b-2008
-- content: high-voltage circuit breakers
 - content: transient recovery voltage
+- content: high-voltage circuit breakers
 doctype: standard
 editorialgroup:
   committee:

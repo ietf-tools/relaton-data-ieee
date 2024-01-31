@@ -26,7 +26,7 @@ date:
 - type: published
   value: '2022-08-24'
 - type: issued
-  value: '2022-12-03'
+  value: '2022'
 contributor:
 - organization:
     name:
@@ -47,9 +47,9 @@ script:
 - Latn
 abstract:
 - content: The calculation method for selection of phase-to-ground and phase-to-phase
-    insulation withstand voltages for equipment is presented. Methods for insulation
-    coordination of different air-insulated systems like transmission lines and substations
-    are outlined. The methods of analysis are illustrated by practical examples.
+    insulation withstand voltages for equipment is presented. This guide gives methods
+    for insulation coordination of different air-insulated systems like transmission
+    lines and substations. The methods of analysis are illustrated by practical examples.
   language:
   - en
   script:
@@ -1070,201 +1070,7 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1313.2-1999
-    docid:
-    - id: IEEE 1313.2-1999
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1313.2-1999
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1313.2-1999
-    docid:
-    - id: IEEE 1313.2-1999
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1313.2-1999
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1313.2-1999
-    docid:
-    - id: IEEE 1313.2-1999
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1313.2-1999
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1313.2-1999
-    docid:
-    - id: IEEE 1313.2-1999
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1313.2-1999
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1313.2-1999
-    docid:
-    - id: IEEE 1313.2-1999
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1313.2-1999
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1313.2-1999
-    docid:
-    - id: IEEE 1313.2-1999
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1313.2-1999
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1313.2-1999
-    docid:
-    - id: IEEE 1313.2-1999
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1313.2-1999
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1313.2-1999
-    docid:
-    - id: IEEE 1313.2-1999
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1313.2-1999
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1313.2-1999
-    docid:
-    - id: IEEE 1313.2-1999
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1313.2-1999
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1313.2-1999
-    docid:
-    - id: IEEE 1313.2-1999
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1313.2-1999
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1313.2-1999
-    docid:
-    - id: IEEE 1313.2-1999
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1313.2-1999
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
-- content: IEEE Standards
-- content: Surge protection
-- content: Insulation
-- content: Voltage control
-- content: Fault diagnosis
-- content: Failure analysis
-- content: Lightning protection
 - content: atmospheric correction factor
 - content: backflash
 - content: basic lightning impulse level (BIL)
@@ -1273,7 +1079,7 @@ keyword:
 - content: crest value
 - content: ground fault factor
 - content: insulation coordination
-- content: IEEE C62.82.2
+- content: IEEE C62.82.2&#8482;
 - content: insulation design
 - content: overvoltage
 - content: phase-to-ground insulation configuration
@@ -1286,13 +1092,13 @@ keyword:
 doctype: standard
 editorialgroup:
   committee:
-  - Surge Protective Devices Committee of the IEEE Power and Energy Society
+  - Surge Protective Devices/High Voltage of the IEEE Power and Energy Society
 ics:
 - code: 29.080.01
   text: Electrical insulation in general
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

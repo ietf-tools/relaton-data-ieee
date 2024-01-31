@@ -66,16 +66,6 @@ copyright:
     url: http://www.ieee.org
   from: '2007'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEEC57.127-2018
-    docid:
-    - id: IEEE C57.127-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C57.127-2018
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEEC57.127-2000
@@ -93,6 +83,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEEC57.127-2018
+    docid:
+    - id: IEEE C57.127-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C57.127-2018
+      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Partial discharges

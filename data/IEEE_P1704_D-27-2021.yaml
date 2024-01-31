@@ -26,7 +26,7 @@ date:
 - type: published
   value: '2021-08-16'
 - type: issued
-  value: '2021-12-08'
+  value: '2021'
 contributor:
 - organization:
     name:
@@ -46,15 +46,18 @@ language:
 script:
 - Latn
 abstract:
-- content: This standard is an extension to IEEE Std 1703(TM). Physical hardware interfaces
+- content: Extension to IEEE Std 1703(TM), “IEEE Standard for Local Area Network/Wide
+    Area Network (LAN/WAN) Node Communication Protocol to Complement the Utility Industry
+    End Device Data Tables”. This extension specifies the physical hardware interfaces
     and signals, such as logical interface and power (digital and mains), that link
-    metrology devices to communications modules via the USB physical layer are specified
-    in this standard. The communication module described in this standard is not integral
-    (not on the same circuit board) with the metrology registers (circuit board) of
-    the assembly. However, the module is envisioned to partner with a device implementing
-    measurement registers (energy, demand load, power quality and related quantities)
-    that are semantically modeled using IEEE Std 1377&#8482;, and encapsulated for
-    communication using IEEE Std 1703(TM)application layer messages.
+    metrology devices to communications modules via the USB physical layer. The communication
+    module described in this Standard is not integral (not on the same circuit board)
+    with the metrology registers (circuit board) of the assembly. However the module
+    is envisioned to partner with a device implementing measurement registers (energy,
+    demand load, power quality and related quantities) that are semantically modeled
+    using IEEE Std 1377(TM), “IEEE Standard for Utility Industry Metering Communication
+    Protocol Application Layer (End Device Data Tables)” and encapsulated for communication
+    using IEEE Std 1703(TM) application layer messages.
   language:
   - en
   script:
@@ -77,25 +80,25 @@ keyword:
 - content: Metropolitan area networks
 - content: Power quality
 - content: Power measurement
-- content: advance metering infrastructure
-- content: AMI
-- content: AMI interoperability
-- content: AMI retrofitting
-- content: comm module
-- content: communication module
-- content: detachable module
-- content: end device
-- content: IEEE 1377
+- content: Communication Module
 - content: IEEE 1703
+- content: IEEE 1377
 - content: IEEE 1704
+- content: End Device
 - content: meter
-- content: multi-sourcing
-- content: network interface card
-- content: plug-and-play
 - content: physical interface
 - content: removable module
-- content: smart grid
+- content: detachable module
 - content: swappable module
+- content: Advance Metering Infrastructure
+- content: AMI
+- content: Smart Grid
+- content: AMI retrofitting
+- content: AMI interoperability
+- content: multi-sourcing
+- content: plug-and-play
+- content: comm module
+- content: network interface card
 - content: WAN
 doctype: standard
 editorialgroup:
@@ -106,7 +109,7 @@ ics:
   text: Health care technology (Vocabularies)
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

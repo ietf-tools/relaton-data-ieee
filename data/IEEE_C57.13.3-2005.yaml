@@ -75,16 +75,6 @@ copyright:
     url: http://www.ieee.org
   from: '2006'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEEC57.13.3-2014
-    docid:
-    - id: IEEE C57.13.3-2014
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C57.13.3-2014
-      format: text/plain
 - type: updates
   bibitem:
     id: ANSI-IEEEC57.13.3-1983
@@ -102,6 +92,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEEC57.13.3-2014
+    docid:
+    - id: IEEE C57.13.3-2014
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C57.13.3-2014
+      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Patents

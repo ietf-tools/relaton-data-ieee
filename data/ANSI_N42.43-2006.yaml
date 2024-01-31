@@ -7,7 +7,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8880582
+- content: https://ieeexplore.ieee.org/document/7312875
   type: src
 type: standard
 docid:
@@ -20,14 +20,14 @@ docid:
   primary: true
 - id: 978-0-7381-5563-0
   type: ISBN
-- id: 10.1109/IEEESTD.2007.8880582
+- id: 10.1109/IEEESTD.2007.7312875
   type: DOI
 docnumber: ANSI N42.43-2006
 date:
 - type: created
   value: '2007'
 - type: published
-  value: '2019-10-23'
+  value: '2015-10-30'
 - type: issued
   value: '2006'
 contributor:
@@ -37,9 +37,13 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
-revdate: '2019-10-23'
+revdate: '2015-10-30'
 language:
 - en
 script:
@@ -53,7 +57,7 @@ abstract:
     that are typically in operation on a platform that is in motion. This standard
     also addresses radiation detection systems that can be carried on a person such
     as backpack-type systems. The "IEEE Get Program" grants public access to view
-    and download individual PDFs of select standards at no charge. Visit https://ieeexplore.ieee.org/browse/standards/get-program/page
+    and download individual PDFs of select standards at no charge. Visit http://standards.ieee.org/about/get/index.html
     for details.
   language:
   - en
@@ -68,20 +72,28 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2006'
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: ANSIN42.43-2016
+    docid:
+    - id: ANSI N42.43-2016
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI N42.43-2016
+      format: text/plain
 keyword:
 - content: ANSI Standards
-- content: Radiation detectors
+- content: Mobile communication
 - content: Radiation monitoring
-- content: Mobile communications
+- content: Mobile handsets
 - content: mobile radiation monitors
 - content: transportable radiation monitors
 doctype: standard
 editorialgroup:
   committee:
   - National Committee on Radiation Instrumentation
-ics:
-- code: '17.240'
-  text: Radiation measurements
 ext:
   schema-version: v1.0.0
   standard_status: Superseded

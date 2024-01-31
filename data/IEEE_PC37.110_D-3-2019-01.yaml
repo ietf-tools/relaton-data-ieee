@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2019-08-14'
 - type: issued
-  value: '2023-02-15'
+  value: '2019'
 contributor:
 - organization:
     name:
@@ -51,7 +51,7 @@ abstract:
     for protective relaying are described. This guide also describes the conditions
     that cause the CT output to be distorted and the effects on relaying systems of
     this distortion. The selection and application of CTs for the more common protection
-    schemes are also addressed.
+    schemes are also addressed
   language:
   - en
   script:
@@ -86,6 +86,23 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC37.110-2007
+    docid:
+    - id: IEEE C37.110-2007
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.110-2007
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Power transformers
@@ -93,7 +110,6 @@ keyword:
 - content: Power system protection
 - content: Current transformers
 - content: current transformers
-- content: IEEE C37.110
 - content: protective relaying
 doctype: standard
 editorialgroup:

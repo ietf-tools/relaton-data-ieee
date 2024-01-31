@@ -23,6 +23,8 @@ docid:
   type: DOI
 docnumber: IEEE 1671.2-2012
 date:
+- type: updated
+  value: '2013-04-12'
 - type: created
   value: '2013-02-15'
 - type: published
@@ -36,10 +38,6 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-    contact:
-    - address:
-        city: New York
-        country: USA
   role:
   - type: publisher
 revdate: '2013-02-14'
@@ -56,6 +54,9 @@ abstract:
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -65,74 +66,6 @@ copyright:
     url: http://www.ieee.org
   from: '2013'
 relation:
-- type: updates
-  bibitem:
-    id: IEEE1671.2-2008
-    docid:
-    - id: IEEE 1671.2-2008
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1671.2-2008
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1671.2-2008
-    docid:
-    - id: IEEE 1671.2-2008
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1671.2-2008
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1671.2-2008
-    docid:
-    - id: IEEE 1671.2-2008
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1671.2-2008
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1671.2-2008
-    docid:
-    - id: IEEE 1671.2-2008
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1671.2-2008
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: updates
   bibitem:
     id: IEEE1671.2-2008
@@ -338,13 +271,13 @@ keyword:
 doctype: standard
 editorialgroup:
   committee:
-  - IEEE SA Board of Governors
+  - IEEE-SASB Coordinating Committees
 ics:
 - code: 35.240.30
   text: IT applications in information, documentation and publishing
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
-  standard_modified: Reserved
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish
