@@ -27,7 +27,7 @@ date:
 - type: created
   value: '2017-11-30'
 - type: published
-  value: '2017-11-30'
+  value: '2017-12-01'
 - type: issued
   value: '2017-09-28'
 contributor:
@@ -43,7 +43,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2017-11-30'
+revdate: '2017-12-01'
 language:
 - en
 script:
@@ -58,9 +58,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -69,6 +66,34 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2017'
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEEC57.12.20-2023
+    docid:
+    - id: IEEE C57.12.20-2023
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C57.12.20-2023
+      format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC57.12.20-2011
+    docid:
+    - id: IEEE C57.12.20-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C57.12.20-2011
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Power distribution
@@ -78,7 +103,7 @@ keyword:
 - content: Safety
 - content: Low voltage
 - content: distribution transformer
-- content: IEEE C57.12.20&#8482;
+- content: IEEE C57.12.20
 - content: liquid
 - content: overhead
 - content: transformer
@@ -87,11 +112,10 @@ editorialgroup:
   committee:
   - Transformers of the IEEE Power and Energy Society
 ics:
-- code: '29.180'
-  text: Transformers. Reactors
+- code: 29.120.50
+  text: Fuses and other overcurrent protection devices
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Superseded
   pubstatus: Active
   holdstatus: Publish
