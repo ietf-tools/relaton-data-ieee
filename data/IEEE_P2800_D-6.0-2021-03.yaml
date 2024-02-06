@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2021-04-26'
 - type: issued
-  value: '2021'
+  value: '2022-02-09'
 contributor:
 - organization:
     name:
@@ -49,17 +49,17 @@ script:
 abstract:
 - content: Uniform technical minimum requirements for the interconnection, capability,
     and lifetime performance of inverter-based resources interconnecting with transmission
-    and sub transmission systems are established in this standard. Included in this
+    and sub-transmission systems are established in this standard. Included in this
     standard are performance requirements for reliable integration of inverter-based
     resources into the bulk power system, including, but not limited to, voltage and
     frequency ride-through, active power control, reactive power control, dynamic
     active power support under abnormal frequency conditions, dynamic voltage support
     under abnormal voltage conditions, power quality, negative sequence current injection,
-    and system protection. The standard also applies to isolated inverter-based resources
-    that are interconnected to an AC transmission system via a dedicated voltage source
+    and system protection. This standard also applies to isolated inverter-based resources
+    that are interconnected to an ac transmission system via dedicated voltage source
     converter high-voltage direct current (VSC-HVDC) transmission facilities; in these
-    cases, the standard applies to the combination of the isolated IBR and the VSC-HVDC
-    facility and not to the isolated IBR.
+    cases, the standard applies to the combination of the isolated IBRs and the VSC-HVDC
+    facility, and not to an isolated inverter-based resource (IBR) on its own.
   language:
   - en
   script:
@@ -97,11 +97,12 @@ keyword:
 - content: harmonic current
 - content: harmonic voltage
 - content: hybrid resource
+- content: IEEE 2800
 - content: integrity
 - content: interconnection
 - content: interoperability
 - content: inverter
-- content: inverter-based resource
+- content: inverterbased resource
 - content: isolation device
 - content: measurement accuracy
 - content: modeling
@@ -130,7 +131,7 @@ editorialgroup:
   - Energy Development &amp; Power Generation of the IEEE Power and Energy Society
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

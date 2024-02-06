@@ -47,23 +47,23 @@ language:
 script:
 - Latn
 abstract:
-- content: As the unique pathway of traction power reflux, the multi-point mobile
-    grounding system plays a critical role in providing safer power supply for electrified
-    railway. The multi-point mobile grounding system of electrified railway contains
-    two types of grounding modes&#8212;working grounding and protective grounding.
-    However, along with the traction power increasing, it is possible that the traction
-    current discharged by the working grounding flows through the neighboring protective
-    grounding points back to the vehicle bodies; then this vehicle body (VB) current
-    may flee through other protective grounding points back to the rail again during
-    the dynamic process of the vehicles, forming as the current reflux phenomenon.
-    This VB current reflux may directly result in thermal surge in the partial part
-    of train bodies, or cause the contact potential of vehicle bodies, which may interfere
-    or even burn the low-voltage control systems or on-board sensors. Apart from threatening
+- content: Multi-point mobile grounding system plays a critical role in providing
+    safer power supply for electrified railway as the unique pathway of traction power
+    reflux. The multi-point mobile grounding system of electrified railway contains
+    two types of grounding modes--working grounding and protective grounding. However,
+    along with the traction power increasing, it is possible that the traction current
+    discharged by the working grounding flows through the neighboring protective grounding
+    points and back to the vehicle bodies. This vehicle body (VB) current may flee
+    through other protective grounding points back to the rail again during the dynamic
+    process of the vehicles, forming as the current reflux phenomenon. This VB current
+    reflux may directly result in thermal surge in the partial part of train bodies,
+    or cause the contact potential of vehicle bodies, which may interfere or even
+    burn the low-voltage control systems or on-board sensors. Apart from threatening
     the on-board equipment, the uneven distribution of reflux locating at each wheel
     set of carriage may also result in the erosion of the isolated joint of rail or
     even shorten the life span of carbon brush contacting with the axles of grounding
-    wheels. This guide applies to the design and requirement of grounding system for
-    vehicles operation in electrified railway.
+    wheels. The design and requirement of grounding system for vehicles operation
+    in electrified railway is applied in this guide.
   language:
   - en
   script:
@@ -86,17 +86,18 @@ keyword:
 - content: Voltage contrl
 - content: Rail transportation
 - content: Railway electrification
-- content: Multi-point mobile grounding system
+- content: current reflux
+- content: IEEE 2752&#8482;
+- content: multi-point mobile grounding system
 - content: overvoltage
 - content: transient potential
-- content: current reflux
 doctype: standard
 editorialgroup:
   committee:
   - Traction Power Systems Standards Committee of the IEEE Vehicular Technology Society
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

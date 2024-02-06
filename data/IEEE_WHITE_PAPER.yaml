@@ -2,11 +2,12 @@
 schema-version: v1.2.3
 id: IEEEWhitePaper
 title:
-- content: Fiber Attach Technology White Paper
+- content: 'Pre-Standards Workstream Report: Clinical IoT Data Validation and Interoperability
+    with Blockchain'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/10298048
+- content: https://ieeexplore.ieee.org/document/8764088
   type: src
 type: standard
 docid:
@@ -17,16 +18,16 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 979-8-8557-0119-7
+- id: 978-1-5044-5972-3
   type: ISBN
 docnumber: IEEE White Paper
 date:
 - type: created
-  value: '2023-10-27'
+  value: '2019'
 - type: published
-  value: '2023-10-26'
+  value: '2019-07-15'
 - type: issued
-  value: '2023'
+  value: '2019'
 contributor:
 - organization:
     name:
@@ -40,20 +41,35 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-10-26'
+revdate: '2019-07-15'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Optical interconnects are critical to providing reliable and energy efficient
-    data transfer between active and passive devices that are pervasive in data centers,
-    telecommunications, transportation, and many emerging sectors and use-case scenarios.
-    There currently are no standard metrics for assessing the overall performance
-    of these connections. This white paper is intended to highlight this gap and initiate
-    a dialogue for stakeholders to address the current and potential future needs
-    for performance and parametrics that can be uniformly considered across multiple
-    optical interconnect technologies.
+- content: The IEEE Standards Association (IEEE SA) pre-standards workstream for Clinical
+    Internet of Things (IoT) data validation and interoperability with blockchain
+    was initiated to determine if a viable standards framework could be established
+    to enable the validation of data generated from a clinical-grade IoT device and
+    shared through the interoperability of blockchain technology. Participants in
+    the workstream were gathered from an IEEE SA workshop held at Johns Hopkins University
+    in Rockville, Maryland in April 2018, and grew to include their network of healthcare
+    and Health-IT ecosystem players, as well as participants in prior IEEE SA efforts
+    in related areas. The workstream commenced in August 2018 and completed in February
+    2019. Participants in this pre-standards workstream who are the authors of this
+    paper are listed in Appendix A. The pre-standards workstream led to the recommendation
+    of the development of an IEEE SA Standards effort on Clinical IoT data and device
+    interoperability with TIPPSS-Trust, Identity, Privacy, Protection, Safety and
+    Security-in connected healthcare to improve data sharing and healthcare outcomes.
+    The pre-standards workstream team decided that blockchain is not necessary for
+    clinical IoT data and device interoperability and validation, nor does it necessarily
+    meet the robust TIPPSS needs in connected healthcare. The workstream recommendation
+    includes a draft TIPPSS Architectural Framework for Clinical IoT data validation
+    &amp; interoperability, which could include digital ledger technology but does
+    not need to do so. The resulting IEEE Standards Association P2733 working group
+    to develop a standard for Clinical IoT Data and Device Interoperability with TIPPSS
+    kick off meeting is scheduled for July 17, 2019, sponsored by the IEEE SA Engineering
+    in Medicine and Biology Society (EMBS).
   language:
   - en
   script:
@@ -66,18 +82,33 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2023'
+  from: '2019'
 keyword:
-- content: data transfer
-- content: fiber array
-- content: fiber attach
-- content: Industry Connections
+- content: blockchain
+- content: clinical IoT
+- content: connected Healthcare
+- content: cybersecurity
+- content: identity
+- content: IEEE
+- content: Internet of Medical Things
+- content: Internet of Things
+- content: IoMT
+- content: IoT
+- content: P2733
+- content: privacy
+- content: protection
+- content: safety
+- content: security
 - content: standards
-- content: white paper
+- content: TIPPSS
+- content: trust
 doctype: standard
 editorialgroup:
   committee:
-  - Industry Connections Committee of the IEEE-SASB
+  - Institute of Electrical and Electronics Engineers
+ics:
+- code: 01.040.11
+  text: Health care technology (Vocabularies)
 ext:
   schema-version: v1.0.0
   standard_status: Active

@@ -58,9 +58,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -70,74 +67,6 @@ copyright:
     url: http://www.ieee.org
   from: '2021'
 relation:
-- type: updates
-  bibitem:
-    id: IEEE802.3-2018
-    docid:
-    - id: IEEE 802.3-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.3-2018
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE802.3-2018
-    docid:
-    - id: IEEE 802.3-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.3-2018
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE802.3-2018
-    docid:
-    - id: IEEE 802.3-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.3-2018
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE802.3-2018
-    docid:
-    - id: IEEE 802.3-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.3-2018
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: obsoletedBy
   bibitem:
     id: ISO-IEC-IEEE8802.3-Amd1-2021
@@ -187,7 +116,8 @@ keyword:
 - content: multi-gigabit Ethernet bidirectional Physical Layers
 - content: Physical Coding Sublayer (PCS)
 - content: Physical Medium Attachment (PMA) sublayer
-- content: Physical Medium Dependent (PMD) sublayer
+- content: Physical Medium Dependent (PMD) sublayer (The PDF of this standard is available
+    at no cost to you compliments of the IEEE GET program at https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=68)
 doctype: standard
 editorialgroup:
   committee:
@@ -199,7 +129,6 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Superseded
   pubstatus: Active
   holdstatus: Publish

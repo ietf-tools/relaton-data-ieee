@@ -73,16 +73,6 @@ copyright:
     url: http://www.ieee.org
   from: '2003'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE484-2019
-    docid:
-    - id: IEEE 484-2019
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 484-2019
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEE484-1996
@@ -100,6 +90,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE484-2019
+    docid:
+    - id: IEEE 484-2019
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 484-2019
+      format: text/plain
 keyword:
 - content: alarms
 - content: assembly

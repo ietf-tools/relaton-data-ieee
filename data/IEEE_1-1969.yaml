@@ -7,7 +7,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8684351
+- content: https://ieeexplore.ieee.org/document/7363722
   type: src
 type: standard
 docid:
@@ -20,14 +20,16 @@ docid:
   primary: true
 - id: 978-1-5044-0150-0
   type: ISBN
-- id: 10.1109/IEEESTD.1968.8684351
+- id: 10.1109/IEEESTD.1969.7363722
   type: DOI
 docnumber: IEEE 1-1969
 date:
+- type: updated
+  value: '2016-01-29'
 - type: created
-  value: '1968-11-30'
+  value: '1969-01-12'
 - type: published
-  value: '2019-04-05'
+  value: '2015-12-23'
 - type: issued
   value: '1969'
 contributor:
@@ -39,7 +41,7 @@ contributor:
     url: http://www.ieee.org
   role:
   - type: publisher
-revdate: '2019-04-05'
+revdate: '2015-12-23'
 language:
 - en
 script:
@@ -49,7 +51,7 @@ abstract:
     demonstrated the need for periodic review and revision of this document. During
     the time since the 1962 revision of this document, there has been a need for a
     more distinct separation of insulation systems and insulating materials. Confusion
-    in nomenclature be­ tween insulating materials and insulation systems has continued
+    in nomenclature be tween insulating materials and insulation systems has continued
     to exist. This present document attempt to overcome this conflict through the
     complete separation of insulating materials from insulation systems and by the
     introduction of the temperature index concept for insulating materials. To clarify
@@ -78,6 +80,22 @@ relation:
     formattedref:
       content: ANSI/IEEE 1-1986
       format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: ANSI-IEEE1-1986
+    docid:
+    - id: ANSI/IEEE 1-1986
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI/IEEE 1-1986
+      format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Temperature measurement
+- content: Insulation
+- content: Temperature dependence
+- content: Electrical equipment
 doctype: standard
 ext:
   schema-version: v1.0.0

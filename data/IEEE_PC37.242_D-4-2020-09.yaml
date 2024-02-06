@@ -2,9 +2,8 @@
 schema-version: v1.2.3
 id: IEEEPC37.242-D-4-2020-09
 title:
-- content: IEEE Approved Draft Guide for Synchronization, Calibration, Testing, and
-    Installation of Phasor Measurement Units (PMUs) for Power System Protection and
-    Control
+- content: IEEE Draft Guide for Synchronization, Calibration, Testing, and Installation
+    of Phasor Measurement Units (PMUs) for Power System Protection and Control
   format: text/plain
   type: main
 link:
@@ -24,7 +23,7 @@ docid:
 docnumber: IEEE PC37.242/D-4-2020-09
 date:
 - type: created
-  value: '2021'
+  value: '2021-01-05'
 - type: published
   value: '2021-01-06'
 - type: issued
@@ -50,12 +49,12 @@ script:
 abstract:
 - content: 'Guidance for synchronization, calibration, testing, and installation of
     phasor measurement units (PMUs) applied in power systems is provided. The following
-    are addressed in this guide: (a) Considerations for the installation of PMU devices
+    are addressed in this guide: (a) considerations for the installation of PMU devices
     based on application requirements and typical substation electrical bus configurations;
-    (b) Techniques focusing on the overall accuracy and availability of the time synchronization
-    system; (c) Test and calibration procedures for PMUs for laboratory and field
-    applications; (d) Communications testing for connecting PMUs to other devices
-    including Phasor Data Concentrators (PDCs).'
+    (b) techniques focusing on the overall accuracy and availability of the time synchronization
+    system; (c) test and calibration procedures for PMUs for laboratory and field
+    applications; and (d) communications testing for connecting PMUs to other devices
+    including phasor data concentrators.'
   language:
   - en
   script:
@@ -90,6 +89,23 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC37.242-2013
+    docid:
+    - id: IEEE C37.242-2013
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.242-2013
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Phasor measurement units
@@ -99,7 +115,8 @@ keyword:
 - content: Calibration
 - content: calibration
 - content: GNSS
-- content: IEEE C37.242&#8482;
+- content: IEEE C37.242
+- content: phasor measurement unit
 - content: PMU
 - content: synchrophasor
 - content: testing
@@ -112,7 +129,7 @@ ics:
   text: Data communication networks
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

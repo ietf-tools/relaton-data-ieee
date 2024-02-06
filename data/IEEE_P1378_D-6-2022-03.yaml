@@ -24,10 +24,8 @@ docnumber: IEEE P1378/D-6-2022-03
 date:
 - type: created
   value: '2022-05-16'
-- type: published
-  value: '2022-05-17'
 - type: issued
-  value: '2022-05-13'
+  value: '2022'
 contributor:
 - organization:
     name:
@@ -41,7 +39,6 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-05-17'
 language:
 - en
 script:
@@ -103,6 +100,40 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1378-1997
+    docid:
+    - id: IEEE 1378-1997
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1378-1997
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1378-1997
+    docid:
+    - id: IEEE 1378-1997
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1378-1997
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: High-voltage techniques
@@ -110,8 +141,7 @@ keyword:
 - content: HVDC transmission
 - content: high-voltage direct-current (HVDC) commissioning
 - content: HVDC transmission systems
-- content: IEEE 1378
-- content: on-site tests
+- content: on site tests
 - content: pre-commissioning
 doctype: standard
 editorialgroup:
@@ -124,7 +154,7 @@ ics:
   text: Other equipment related to power transmission and distribution networks
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

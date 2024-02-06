@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: IEEEP90003.2014-2015-04
 title:
-- content: IEEE Approved Draft International Standard - Software Engineering -- Guidelines
-    for the Application of ISO 9001:2008 to Computer Software
+- content: IEEE Approved Standard Adoption of ISO/IEC 90003:2014, Software Engineering
+    -- Guidelines for the Application of ISO 9001:2008 to Computer Software
   format: text/plain
   type: main
 link:
@@ -46,6 +46,16 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: This International Standard provides guidance for organizations in the
+    application of ISO 9001:2008 to the acquisition, supply, development, operation,
+    and maintenance of computer software and related support services. It does not
+    add to or other wise change the requirements of ISO 9001:2008.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -278,10 +288,42 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: ISO-IEC-IEEE90003-2018
+    docid:
+    - id: ISO/IEC/IEEE 90003-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ISO/IEC/IEEE 90003-2018
+      format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE90003-2008
+    docid:
+    - id: IEEE 90003-2008
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 90003-2008
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: ISO standards
 - content: Software engineering
+- content: '9001'
+- content: adoption
+- content: computer software
+- content: IEEE 90003(TM)
+- content: quality management
 doctype: standard
 editorialgroup:
   committee:
@@ -293,7 +335,7 @@ ics:
   text: Software
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

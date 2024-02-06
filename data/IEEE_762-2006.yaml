@@ -66,9 +66,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -78,40 +75,6 @@ copyright:
     url: http://www.ieee.org
   from: '2007'
 relation:
-- type: updates
-  bibitem:
-    id: ANSI-IEEE762-1987
-    docid:
-    - id: ANSI/IEEE 762-1987
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI/IEEE 762-1987
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: ANSI-IEEE762-1987
-    docid:
-    - id: ANSI/IEEE 762-1987
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI/IEEE 762-1987
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: updates
   bibitem:
     id: ANSI-IEEE762-1987
@@ -660,16 +623,12 @@ keyword:
 doctype: standard
 editorialgroup:
   committee:
-  - Power System Analysis, Computing, and Economics Committee of the IEEE Power and
-    Energy Society
+  - Analytic Methods for Power Systems of the IEEE Power and Energy Society
 ics:
-- code: 03.100.50
-  text: Production. Production management
 - code: '27.100'
   text: Power stations in general
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Superseded
   pubstatus: Active
   holdstatus: Publish

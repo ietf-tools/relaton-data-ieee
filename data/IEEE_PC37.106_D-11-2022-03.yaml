@@ -47,7 +47,7 @@ language:
 script:
 - Latn
 abstract:
-- content: This guide has been prepared to assist the protection engineer in applying
+- content: This guide has been prepared to assist 1 the protection engineer in applying
     relays for the protection of generating plant equipment from damage caused by
     operation at abnormal frequencies including overexcitation.
   language:
@@ -101,6 +101,57 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC37.106-2003
+    docid:
+    - id: IEEE C37.106-2003
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.106-2003
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC37.106-2003
+    docid:
+    - id: IEEE C37.106-2003
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.106-2003
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC37.106-2003
+    docid:
+    - id: IEEE C37.106-2003
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.106-2003
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Fuses
@@ -116,20 +167,19 @@ keyword:
 - content: fuse failure
 - content: governor control system
 - content: hydraulic
-- content: IEEE C37.106
 - content: limiter
 - content: load shedding
 - content: nuclear
 - content: overexcitation
 - content: overfrequency
 - content: resonance
-- content: self-excitation
+- content: selfexcitation
 - content: steam
 - content: torsional
 - content: turbine
 - content: underfrequency
 - content: voltage regulator
-- content: volts per hertz
+- content: volts per Hertz
 doctype: standard
 editorialgroup:
   committee:
@@ -139,7 +189,7 @@ ics:
   text: Relays
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

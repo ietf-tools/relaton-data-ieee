@@ -27,7 +27,7 @@ date:
 - type: created
   value: '1995'
 - type: published
-  value: '2006-01-30'
+  value: '2018-03-14'
 - type: issued
   value: '1995-03-16'
 contributor:
@@ -43,7 +43,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2006-01-30'
+revdate: '2018-03-14'
 language:
 - en
 script:
@@ -51,12 +51,15 @@ script:
 abstract:
 - content: A high order language for testing is defined. This language is designed
     to describe tests in terms that are independent of any specific test system, and
-    has been constrained to ensure that it can be implemented on automatic test equipment.
+    has been constrained to ensure that it can be implemented on automatic test equipement.
   language:
   - en
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -66,40 +69,6 @@ copyright:
     url: http://www.ieee.org
   from: '1995'
 relation:
-- type: updates
-  bibitem:
-    id: IEEE716-1989
-    docid:
-    - id: IEEE 716-1989
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 716-1989
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE716-1989
-    docid:
-    - id: IEEE 716-1989
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 716-1989
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: updates
   bibitem:
     id: IEEE716-1989
@@ -306,7 +275,7 @@ ics:
   text: Languages used in information technology
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
-  standard_modified: Reserved
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

@@ -2,12 +2,12 @@
 schema-version: v1.2.3
 id: ANSIC63.2-1996
 title:
-- content: American National Standard for Electromagnetic Noise and Field Strength
-    Instrumentation, 10 Hz to 40 GHz - Specifications
+- content: American National Standard for Instrumentation - Electromagnetic Noise
+    and Field Strength, 10kHz to 40 GHz - Specifications
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8684754
+- content: https://ieeexplore.ieee.org/document/7029264
   type: src
 type: standard
 docid:
@@ -20,14 +20,16 @@ docid:
   primary: true
 - id: 978-0-7381-0610-6
   type: ISBN
-- id: 10.1109/IEEESTD.1996.8684754
+- id: 10.1109/IEEESTD.1988.7029264
   type: DOI
 docnumber: ANSI C63.2-1996
 date:
+- type: updated
+  value: '2015-02-20'
 - type: created
-  value: '1996'
+  value: '1988-02-29'
 - type: published
-  value: '2019-04-05'
+  value: '2015-02-02'
 - type: issued
   value: '1996'
 contributor:
@@ -39,15 +41,15 @@ contributor:
     url: http://www.ieee.org
   role:
   - type: publisher
-revdate: '2019-04-05'
+revdate: '2015-02-02'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Electromagnetic compatibility techniques for instruments measuring quasi-peak,
-    peak, rms, and average values for electrical and electronic equipment for various
-    applications are provided.
+- content: Electromagnetic compatibility techniques and requirements for instruments
+    measuring quasipeak, peak, rms, and average values for electrical and electronic
+    equipment for various applications are provided.
   language:
   - en
   script:
@@ -62,11 +64,14 @@ copyright:
     url: http://www.ieee.org
   from: '1996'
 keyword:
-- content: electromagnetic
-- content: compatibility
-- content: field strength
-- content: instrumentation
-- content: noise
+- content: ANSI Standards
+- content: Voltage measurement
+- content: Electromagnetic interference
+- content: Noise measurement
+- content: Electromagnetic measurements
+- content: Voltage measurements
+- content: Electromagnetic measurements
+- content: Electromagnetic interference
 doctype: standard
 editorialgroup:
   committee:

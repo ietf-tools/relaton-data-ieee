@@ -6,7 +6,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8684457
+- content: https://ieeexplore.ieee.org/document/7444084
   type: src
 type: standard
 docid:
@@ -19,14 +19,16 @@ docid:
   primary: true
 - id: 978-1-5044-0506-5
   type: ISBN
-- id: 10.1109/IEEESTD.1968.8684457
+- id: 10.1109/IEEESTD.1969.7444084
   type: DOI
 docnumber: ANSI/IEEE C37.92-1969
 date:
+- type: updated
+  value: '2016-04-15'
 - type: created
-  value: '1968-11-30'
+  value: '1969-08-10'
 - type: published
-  value: '2019-04-05'
+  value: '2016-03-30'
 - type: issued
   value: '1968-03-14'
 contributor:
@@ -38,11 +40,28 @@ contributor:
     url: http://www.ieee.org
   role:
   - type: publisher
-revdate: '2019-04-05'
+revdate: '2016-03-30'
 language:
 - en
 script:
 - Latn
+abstract:
+- content: The application guide for relay protection of squirrel-cage and wound-rotor
+    induction motors presents a review of the generally accepted forms of motor protection
+    and summarizes the use of relays and devices, singly and in combination, to enable
+    the reader to properly select the necessary equipment to obtain adequate motor
+    protection. The Guide is prepared primarily for the protection of three-phase
+    integral-horsepower motors and refers to single- or two-phase motors only in special
+    instances and only where specifically indicated. It is especially useful where
+    the motor installation is sufficiently important, due to either its size or the
+    consequences of motor malfunction, to justify specific design of the protective
+    system. It also provides the information necessary to judge whether there are
+    safety or economic reasons for such a specific design.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 copyright:
 - owner:
   - name:
@@ -56,6 +75,11 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '1969'
+keyword:
+- content: IEEE Standards
+- content: ANSI Standards
+- content: Induction motors
+- content: Power system protection
 doctype: standard
 ext:
   schema-version: v1.0.0

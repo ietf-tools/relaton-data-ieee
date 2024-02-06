@@ -25,9 +25,9 @@ date:
 - type: created
   value: '2022'
 - type: published
-  value: '2022-07-29'
+  value: '2022-07-28'
 - type: issued
-  value: '2022'
+  value: '2022-11-08'
 contributor:
 - organization:
     name:
@@ -41,16 +41,17 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-07-29'
+revdate: '2022-07-28'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The standard gives a framework for IoT application systems, defines a complex
-    virtual instrumentation model, and agrees on a framework and interfaces to achieve
+- content: A framework for IoT application systems, a definition of a complex virtual
+    instrumentation model, and agreement on a framework and interfaces to achieve
     interoperability of IoT applications, while specifying the communication methods,
-    invocation parameters and return value formats of the interfaces.
+    invocation parameters and return value formats of the interfaces, is given in
+    this standard.
   language:
   - en
   script:
@@ -75,16 +76,20 @@ keyword:
 - content: Instruments
 - content: Regulation
 - content: Warranties
-- content: Internet of Things
 - content: complex virtual instrumentation
+- content: IEEE 2735
+- content: Internet of Things
 - content: interoperability
 doctype: standard
 editorialgroup:
   committee:
   - TC9 - Sensor Technology of the IEEE Instrumentation and Measurement Society
+ics:
+- code: 35.240.95
+  text: Internet applications
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

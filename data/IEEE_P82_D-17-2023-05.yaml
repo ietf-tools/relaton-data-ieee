@@ -48,9 +48,9 @@ script:
 - Latn
 abstract:
 - content: A recommended practice for impulse testing of insulated cables and their
-    accessories is described. The intention is to supplement insulated cable and their
-    accessory standards by providing specific procedures for impulse testing on specific
-    types of cables, accessories, or cable systems.
+    accessories. It is intended to supplement insulated cable and their accessory
+    standards by providing specific procedures for impulse testing on specific types
+    of cables, accessories, or cable systems
   language:
   - en
   script:
@@ -102,6 +102,23 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE82-2002
+    docid:
+    - id: IEEE 82-2002
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 82-2002
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: Standards
 - content: IEEE Standards
@@ -113,7 +130,7 @@ keyword:
 - content: BIL testing
 - content: cable
 - content: cable systems
-- content: IEEE 82&#8482;
+- content: IEEE 82
 - content: impulse testing
 - content: insulated conductors
 doctype: standard
@@ -125,7 +142,7 @@ ics:
   text: Cables
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

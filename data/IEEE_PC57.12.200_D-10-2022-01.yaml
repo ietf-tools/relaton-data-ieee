@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2022-04-11'
 - type: issued
-  value: '2022'
+  value: '2022-09-21'
 contributor:
 - organization:
     name:
@@ -47,15 +47,15 @@ language:
 script:
 - Latn
 abstract:
-- content: Bushings are critical components for power apparatus, as their main role
+- content: Bushings are critical components for power apparatus as their main role
     is to conduct current at high voltage through a grounded barrier. Statistical
-    studies have shown that bushing defects such as water ingression, and partial
-    discharge are among the most important causes for unexpected failures. Dielectric
-    Frequency Response, DFR, sometimes also known as Frequency Domain Spectroscopy,
-    FDS, which involves measurement of the bushing capacitance and dielectric losses
-    over a frequency range, is an effective method to detect deterioration of bushing
-    insulation. This guide applies to the DFR measurement of various types of bushings
-    either in the field or in the factory except for gas insulated bushings.
+    studies have shown that bushing defects such as water ingression and partial discharge
+    are among the most important causes for unexpected failures. Dielectric frequency
+    response (DFR), sometimes also known as frequency domain spectroscopy (FDS), which
+    involves measurement of the bushing capacitance and dielectric losses over a frequency
+    range, is an effective method to detect deterioration of bushing insulation. This
+    guide applies to the DFR measurement of various types of bushings either in the
+    field or in the factory except for gas-insulated bushings.
   language:
   - en
   script:
@@ -78,19 +78,27 @@ keyword:
 - content: Dielectrics
 - content: Moisture measurement
 - content: Frequency response
-- content: transformer bushing
+- content: dielectric frequency response (DFR)
+- content: dissipation factor
+- content: moisture
+- content: frequency domain spectroscopy (FDS)
+- content: IEEE C57.12.200
 - content: OIP bushing
+- content: power factor
 - content: RIP bushing
 - content: RIS bushing
-- content: moisture
-- content: power factor
-- content: dissipation factor
-- content: dielectric frequency response (DFR)
-- content: frequency domain spectroscopy (FDS)
+- content: transformer bushing
 doctype: standard
 editorialgroup:
   committee:
   - Transformers of the IEEE Power and Energy Society
+ics:
+- code: 17.220.20
+  text: Measurement of electrical and magnetic quantities
+- code: 29.080.20
+  text: Bushings
+- code: '29.180'
+  text: Transformers. Reactors
 ext:
   schema-version: v1.0.0
   standard_status: Inactive

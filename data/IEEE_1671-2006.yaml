@@ -2,12 +2,12 @@
 schema-version: v1.2.3
 id: IEEE1671-2006
 title:
-- content: IEEE Trial-Use Standard for Automatic Test Markup Language (ATML) for Exchanging
-    Automatic Test Equipment and Test Information Via XML
+- content: IEEE Standard for Automatic Test Markup Language (ATML) for Exchanging
+    Automatic Test Equipment and Test Information via XML
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/4035725
+- content: https://ieeexplore.ieee.org/document/5250312
   type: src
 type: standard
 docid:
@@ -20,14 +20,14 @@ docid:
   primary: true
 - id: 978-0-7381-5246-2
   type: ISBN
-- id: 10.1109/IEEESTD.2006.261413
+- id: 10.1109/IEEESTD.2009.5250312
   type: DOI
 docnumber: IEEE 1671-2006
 date:
+- type: updated
+  value: '2009-10-02'
 - type: created
-  value: '2006-12-15'
-- type: published
-  value: '2019-06-20'
+  value: '2009-02-14'
 - type: issued
   value: '2006-09-15'
 contributor:
@@ -37,21 +37,16 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-    contact:
-    - address:
-        city: New York
-        country: USA
   role:
   - type: publisher
-revdate: '2019-06-20'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This document specifies the framework for the family of ATML standards.
+- content: This standard specifies the framework for the family of ATML standards.
     ATML defines a standard exchange medium for sharing information between components
-    of an Automatic Test System (ATS), utilizing the eXtensible Markup Language (XML).
+    of an automatic test system (ATS), using the extensible markup language (XML).
   language:
   - en
   script:
@@ -64,7 +59,7 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2006'
+  from: '2009'
 relation:
 - type: obsoletedBy
   bibitem:
@@ -77,13 +72,11 @@ relation:
       content: IEEE 1671-2010
       format: text/plain
 keyword:
-- content: IEEE Standards
+- content: IEEE standards
+- content: Data mining
 - content: XML
 - content: Trademarks
-- content: Automatic test equipment
-- content: Patents
-- content: Warranties
-- content: 1671-2006
+- content: Standards Coordinating Committees
 - content: Automatic Test Equipment (ATE)
 - content: Automatic Test Markup Language (ATML)
 - content: ATML instance document

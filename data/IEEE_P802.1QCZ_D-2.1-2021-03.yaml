@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2021-12-17'
 - type: issued
-  value: '2023-06-05'
+  value: '2021'
 contributor:
 - organization:
     name:
@@ -47,7 +47,7 @@ language:
 script:
 - Latn
 abstract:
-- content: This amendment to IEEE Std 802.1Q&#8482;-2022 specifies protocols, procedures,
+- content: This amendment to IEEE Std 802.1Q&#8482;-2018 specifies protocols, procedures
     and managed objects that support the isolation of congesting data flows within
     data center environments.
   language:
@@ -69,13 +69,13 @@ copyright:
 relation:
 - type: updates
   bibitem:
-    id: IEEE802.1Q-2022
+    id: IEEEP802.1Q-D-1.2-R--2022-05
     docid:
-    - id: IEEE 802.1Q-2022
+    - id: IEEE P802.1Q/D-1.2/R--2022-05
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 802.1Q-2022
+      content: IEEE P802.1Q/D-1.2/R--2022-05
       format: text/plain
   description:
     content: amends
@@ -86,13 +86,30 @@ relation:
     format: text/plain
 - type: updates
   bibitem:
-    id: IEEE802.1Q-2022
+    id: IEEE802.1Q-2018
     docid:
-    - id: IEEE 802.1Q-2022
+    - id: IEEE 802.1Q-2018
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 802.1Q-2022
+      content: IEEE 802.1Q-2018
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.1Q-2018
+    docid:
+    - id: IEEE 802.1Q-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1Q-2018
       format: text/plain
   description:
     content: amends
@@ -109,20 +126,15 @@ keyword:
 - content: Virtual LAN
 - content: Media Access Protocol
 - content: Telecommunication congestion control
-- content: amendment
 - content: Bridged Local Area Networks
-- content: congestion
-- content: congestion isolation
-- content: Data Center Bridging
-- content: flow control
-- content: IEEE 802.1Q&#8482;
-- content: IEEE 802.1Qcz&#8482;
-- content: LANs
-- content: Local Area Networks
+- content: Local Area Networks (LANs)
 - content: MAC Bridges
+- content: Virtual Bridged Local Area Networks (virtual LANs)
+- content: Data Center Bridging
 - content: priority
-- content: Virtual Bridged Local Area Networks
-- content: virtual LANs
+- content: flow control
+- content: congestion
+- content: congestion isolation.
 doctype: standard
 editorialgroup:
   committee:

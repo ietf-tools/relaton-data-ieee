@@ -104,6 +104,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEEP1349-D-7.0-2021-02
+    docid:
+    - id: IEEE P1349/D-7.0-2021-02
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE P1349/D-7.0-2021-02
+      format: text/plain
 - type: updates
   bibitem:
     id: IEEE1349-2001
@@ -121,23 +131,16 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
+- type: obsoletedBy
   bibitem:
-    id: IEEE1349-2001
+    id: IEEEP1349-D-7.0-2021-02
     docid:
-    - id: IEEE 1349-2001
+    - id: IEEE P1349/D-7.0-2021-02
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 1349-2001
+      content: IEEE P1349/D-7.0-2021-02
       format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: updates
   bibitem:
     id: IEEE1349-2001

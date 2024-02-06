@@ -25,9 +25,7 @@ docid:
 docnumber: IEEE 303-2004
 date:
 - type: created
-  value: '2004-12-17'
-- type: published
-  value: '2005-08-01'
+  value: '2004'
 - type: issued
   value: '2004-06-24'
 contributor:
@@ -37,13 +35,8 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-    contact:
-    - address:
-        city: New York
-        country: USA
   role:
   - type: publisher
-revdate: '2005-08-01'
 language:
 - en
 script:
@@ -65,6 +58,9 @@ abstract:
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -81,21 +77,16 @@ keyword:
 - content: Rotating machines
 - content: Power factor correction
 - content: Grounding
-- content: auxiliary devices
-- content: Class 1 Division 2
-- content: Class 1 Zone 2
-- content: arcing/sparking component
-- content: rotating electrical machine
 doctype: standard
 editorialgroup:
   committee:
-  - Petroleum and Chemical Industry of the IEEE Industry Applications Society
+  - Petroleum and Chemical Industry Committee of the Industry Applications Society
 ics:
-- code: 29.160.30
-  text: Motors
+- code: 29.260.20
+  text: Electrical installations for explosive atmospheres
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
-  standard_modified: Reserved
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish
