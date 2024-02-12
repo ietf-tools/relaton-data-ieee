@@ -1,35 +1,35 @@
 ---
 schema-version: v1.2.3
-id: IEEEC57.163-2015
+id: IEEEC57.163-2023
 title:
 - content: IEEE Guide for Establishing Power Transformer Capability while under Geomagnetic
     Disturbances
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/7286929
+- content: https://ieeexplore.ieee.org/document/10431702
   type: src
 type: standard
 docid:
-- id: IEEE C57.163-2015
+- id: IEEE C57.163-2023
   type: IEEE
   primary: true
-- id: IEEE C57.163™-2015
+- id: IEEE C57.163™-2023
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-0-7381-9897-2
+- id: 979-8-8557-0324-5
   type: ISBN
-- id: 10.1109/IEEESTD.2015.7286929
+- id: 10.1109/IEEESTD.2023.10431702
   type: DOI
-docnumber: IEEE C57.163-2015
+docnumber: IEEE C57.163-2023
 date:
 - type: created
-  value: '2015-10-26'
+  value: '2024-02-12'
 - type: published
-  value: '2015-10-01'
+  value: '2024-02-09'
 - type: issued
-  value: '2015-09-03'
+  value: '2023-09-21'
 contributor:
 - organization:
     name:
@@ -43,7 +43,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2015-10-01'
+revdate: '2024-02-09'
 language:
 - en
 script:
@@ -62,6 +62,9 @@ abstract:
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -69,26 +72,40 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2015'
+  from: '2023'
+relation:
+- type: updates
+  bibitem:
+    id: IEEEC57.163-2015
+    docid:
+    - id: IEEE C57.163-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C57.163-2015
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
-- content: IEEE Standards
-- content: Geomagnetically induced currents
-- content: Geomagnetism
-- content: Powet transformers
-- content: Thermal analysis
-- content: Temperature measurement
 - content: core saturation
 - content: design review
-- content: geomagnetically induced current (GIC)
+- content: geomagnetic disturbances
+- content: geomagnetically induced current
 - content: geomagnetically induced current signature
-- content: geomagnetic disturbances (GMD)
-- content: IEEE C57.163
+- content: GIC
+- content: GMD
+- content: IEEE C57.163&#8482;
 - content: magnetic
 - content: monitoring
+- content: power transformers
 - content: temperature gradient
 - content: testing
 - content: thermal
-- content: power transformers
 doctype: standard
 editorialgroup:
   committee:
@@ -98,6 +115,7 @@ ics:
   text: Transformers. Reactors
 ext:
   schema-version: v1.0.0
-  standard_status: Superseded
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

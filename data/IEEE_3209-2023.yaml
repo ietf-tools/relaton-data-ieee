@@ -1,32 +1,32 @@
 ---
 schema-version: v1.2.3
-id: IEEE3206-2023
+id: IEEE3209-2023
 title:
-- content: IEEE Standard for Blockchain-Based Digital Asset Classification
+- content: IEEE Standard for Blockchain Identity Key Management
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/10419218
+- content: https://ieeexplore.ieee.org/document/10430138
   type: src
 type: standard
 docid:
-- id: IEEE 3206-2023
+- id: IEEE 3209-2023
   type: IEEE
   primary: true
-- id: IEEE 3206™-2023
+- id: IEEE 3209™-2023
   type: IEEE
   scope: trademark
   primary: true
-- id: 979-8-8557-0441-9
+- id: 979-8-8557-0436-5
   type: ISBN
-- id: 10.1109/IEEESTD.2023.10419218
+- id: 10.1109/IEEESTD.2023.10430138
   type: DOI
-docnumber: IEEE 3206-2023
+docnumber: IEEE 3209-2023
 date:
 - type: created
-  value: '2024-01-22'
+  value: '2024-02-08'
 - type: published
-  value: '2024-02-02'
+  value: '2024-02-09'
 - type: issued
   value: '2023-09-21'
 contributor:
@@ -42,17 +42,18 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2024-02-02'
+revdate: '2024-02-09'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The principles and methods for the classification of blockchain-based digital
-    assets are proposed. This standard follows the principles of scientificity, systematicness,
-    and scalability, and proposes an attribute-based classification method for blockchain
-    digital assets, whose classification attributes include technical attributes,
-    economic attributes and legal attributes.
+- content: IEEE Std 3209 will unite many blockchain technology providers to jointly
+    formulate international standards for hierarchical deterministic schemes, output
+    uniform and standardized cryptographic derivation rules between different chains,
+    and determine multiple blockchains through mutual signature and self-certification
+    of private keys of different chains. The same identity corresponds to the public
+    and private keys on the chain.
   language:
   - en
   script:
@@ -72,17 +73,17 @@ copyright:
 keyword:
 - content: IEEE Standards
 - content: Blockchains
-- content: Digital systems
-- content: Classification algorithms
-- content: Economics
-- content: Scalability
-- content: Law
+- content: Cryptography
+- content: Public key
+- content: Elliptic curves
+- content: Identity management systems
 - content: blockchain
-- content: blockchain-based digital asset
-- content: blockchain categories
-- content: digital asset
-- content: digital asset classification
-- content: IEEE 3206&#8482;
+- content: cryptography
+- content: elliptic curve
+- content: hierarchical determinism
+- content: IEEE 3209&#8482;
+- content: public key
+- content: private key
 doctype: standard
 editorialgroup:
   committee:
