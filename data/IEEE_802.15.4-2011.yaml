@@ -67,16 +67,6 @@ copyright:
     url: http://www.ieee.org
   from: '2011'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE802.15.4-2015
-    docid:
-    - id: IEEE 802.15.4-2015
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.15.4-2015
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEE802.15.4-2006
@@ -94,6 +84,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE802.15.4-2015
+    docid:
+    - id: IEEE 802.15.4-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.15.4-2015
+      format: text/plain
 keyword:
 - content: IEEE standards
 - content: Local area networks

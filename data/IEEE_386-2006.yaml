@@ -104,16 +104,23 @@ relation:
     formattedref:
       content: IEEE 386-2016
       format: text/plain
-- type: obsoletedBy
+- type: updates
   bibitem:
-    id: IEEE386-2016
+    id: IEEE386-1995
     docid:
-    - id: IEEE 386-2016
+    - id: IEEE 386-1995
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 386-2016
+      content: IEEE 386-1995
       format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: ANSI-IEEE386-1985

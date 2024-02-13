@@ -67,16 +67,6 @@ copyright:
     url: http://www.ieee.org
   from: '1994'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE830-1998
-    docid:
-    - id: IEEE 830-1998
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 830-1998
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEE830-1984
@@ -94,6 +84,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE830-1998
+    docid:
+    - id: IEEE 830-1998
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 830-1998
+      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Software

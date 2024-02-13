@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2021-10-27'
 - type: issued
-  value: '2022-02-09'
+  value: '2021'
 contributor:
 - organization:
     name:
@@ -55,11 +55,11 @@ abstract:
     frequency ride-through, active power control, reactive power control, dynamic
     active power support under abnormal frequency conditions, dynamic voltage support
     under abnormal voltage conditions, power quality, negative sequence current injection,
-    and system protection. This standard also applies to isolated inverter-based resources
-    that are interconnected to an ac transmission system via dedicated voltage source
+    and system protection. The standard also applies to isolated inverter-based resources
+    that are interconnected to an AC transmission system via dedicated voltage source
     converter high-voltage direct current (VSC-HVDC) transmission facilities; in these
     cases, the standard applies to the combination of the isolated IBRs and the VSC-HVDC
-    facility, and not to an isolated inverter-based resource (IBR) on its own.
+    facility, and not to an isolated IBR on its own.
   language:
   - en
   script:
@@ -77,16 +77,6 @@ copyright:
     url: http://www.ieee.org
   from: '2021'
 keyword:
-- content: IEEE Standards
-- content: Power systems
-- content: Interoperability
-- content: Energy storage
-- content: Inverters
-- content: Resource management
-- content: Power quality
-- content: Voltage control
-- content: Photovoltaics
-- content: Solar power generation
 - content: active power
 - content: capability
 - content: co-located resource
@@ -100,12 +90,11 @@ keyword:
 - content: harmonic current
 - content: harmonic voltage
 - content: hybrid resource
-- content: IEEE 2800
 - content: integrity
 - content: interconnection
 - content: interoperability
 - content: inverter
-- content: inverterbased resource
+- content: inverter-based resource
 - content: isolation device
 - content: measurement accuracy
 - content: modeling
@@ -134,7 +123,7 @@ editorialgroup:
   - Energy Development &amp; Power Generation of the IEEE Power and Energy Society
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

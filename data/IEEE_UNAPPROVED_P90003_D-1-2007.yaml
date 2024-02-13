@@ -2,12 +2,12 @@
 schema-version: v1.2.3
 id: IEEEUnapprovedP90003-D-1-2007
 title:
-- content: Unapproved IEEE Draft Adoption of ISO/IEC 90003, Software Engineering -
-    Guidelines for the application of ISO 9001:2000 to computer software
+- content: IEEE Draft Adoption of ISO/IEC 90003, Software Engineering - Guidelines
+    for the application of ISO 9001:2000 to computer software
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/4152630
+- content: https://ieeexplore.ieee.org/document/4601616
   type: src
 type: standard
 docid:
@@ -18,12 +18,14 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
+- id: 978-1-5044-3397-6
+  type: ISBN
 docnumber: IEEE Unapproved P90003/D-1-2007
 date:
 - type: created
-  value: '2007'
+  value: '2008'
 - type: published
-  value: '2007-04-10'
+  value: '2008-08-14'
 contributor:
 - organization:
     name:
@@ -37,11 +39,27 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2007-04-10'
+revdate: '2008-08-14'
 language:
 - en
 script:
 - Latn
+abstract:
+- content: This standard provides guidance to users of IEEE standards as to how they
+    could apply them to meet the quality management expectations of ISO 9001:2000
+    clauses and sub-clauses in a software development context by adopting ISO/IEC
+    90003 (the software development guidance document for ISO 9001) and adding an
+    informative annex to cross-reference IEEE S2ESC standards to relevant ISO 9001
+    material. This standard is identical with ISO/IEC 90003 but contains an additional
+    informative annex, Annex C, cross-referencing material in ISO 9001 with material
+    in S2ESC standards which could be helpful in meeting the intent of ISO 9001 as
+    well as a second additional annex, Annex D, which is a bibliography of the specific
+    IEEE standards referenced.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -52,7 +70,7 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2007'
+  from: '2008'
 keyword:
 - content: ISO Standards
 - content: Standards

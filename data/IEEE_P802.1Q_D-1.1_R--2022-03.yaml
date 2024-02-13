@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2022-04-12'
 - type: issued
-  value: '2022-09-21'
+  value: '2022'
 contributor:
 - organization:
     name:
@@ -84,6 +84,23 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.1Q-2018
+    docid:
+    - id: IEEE 802.1Q-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1Q-2018
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Local area networks
@@ -91,7 +108,7 @@ keyword:
 - content: Bridge circuits
 - content: Media Access Protocol
 - content: Bridged Network
-- content: IEEE 802.1Q
+- content: IEEE 802.1Q&#8482;
 - content: LAN
 - content: local area network
 - content: MAC Bridge

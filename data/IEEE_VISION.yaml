@@ -2,11 +2,11 @@
 schema-version: v1.2.3
 id: IEEEVision
 title:
-- content: 'IEEE Vision for Smart Grid Controls: 2030 and Beyond'
+- content: 'IEEE Vision for Smart Grid Controls: 2030 and Beyond Reference Model'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/6577608
+- content: https://ieeexplore.ieee.org/document/6598993
   type: src
 type: standard
 docid:
@@ -17,16 +17,16 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-0-7381-8458-6
+- id: 978-0-7381-8666-5
   type: ISBN
-- id: 10.1109/IEEESTD.2013.6577608
+- id: 10.1109/IEEESTD.2013.6598993
   type: DOI
 docnumber: IEEE Vision
 date:
 - type: created
   value: '2013'
 - type: published
-  value: '2013-08-09'
+  value: '2013-09-13'
 - type: issued
   value: '2013-11-23'
 contributor:
@@ -38,34 +38,38 @@ contributor:
     url: http://www.ieee.org
     contact:
     - address:
-        city: Piscataway
+        city: New York
         country: USA
   role:
   - type: publisher
-revdate: '2013-08-09'
+revdate: '2013-09-13'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'This document highlights the role of control systems in the evolution
-    of the Smart Grid. It includes an overview of research investigations that are
-    needed for renewable integration, reliability, self-healing, energy efficiency,
-    and resilience to physical and cyber attacks. These investigations are encapsulated
-    in several loci of control including: new methodologies for transmission, distribution,
-    and renewable energy, and storage; new roles in emerging topics such as electricity
-    markets, demand-response, microgrids, and virtual power plants; and new solutions
-    for efficiency, heating and cooling, and security. Together, they usher in new
-    horizons for control, such as architecting a system of distributed systems, building
-    interfaces to social sciences such as economics, sociology, and psychology, and
-    providing a blueprint for critical infrastructure systems. While the emerging
-    role of control and its implication on grid architectures have been articulated
-    in various papers, a comprehensive discourse on the evolution of Smart Grid and
-    the opportunities and challenges that it presents for control, ranging from generators
-    to consumers, from planning to real-time operation, from current practice to scenarios
-    in 2050 in the grid and all of its subsystems, has not been undertaken hitherto
-    and is the purpose of this document. For Corporate or Institutional Access, request
-    a custom quote for your organization at www.ieee.org/smartgridresearch'
+- content: The Smart Grid is a system of distributed systems whose domains span the
+    more traditionaldomains of bulk generation, transmission, distribution, consumers,
+    markets, and powerelectronics, with the growing penetration of relatively newer
+    domains such as renewables, electricvehicles, and demand-response-compatible loads.
+    Smart Grid control enables prescriptions forinterconnections and interactions
+    among these traditional and emerging domains at the rightinstants, at the right
+    locations, and in the right manner (Figure 1). The combined expertise ofcontrol
+    engineers and scientists will ensure that appropriate loops are closed, optimal
+    set pointsand supervisory commands are generated, and desired goals of resiliency,
+    renewables integration,reliability, security, and empowerment of consumers are
+    met [i.e., to realize a Smart Grid vision(Figure 2)].Starting with the planning
+    stages of markets, and following the path of the electron all the wayfrom generation
+    to the end userand increasingly in reverse as wellseveral problems withachieving
+    the desired set criteria and objectives have to be solved in an automated and
+    optimizedmanner. The Smart Grid will be a holistically and pervasively closed-loop
+    system; control will becentral in the grid landscape (Figure 3). The underlying
+    physics, the interconnection topologies,and the dynamic interactions among various
+    domains will inform control algorithms andarchitectures (Figure 4). The challenge
+    is to identify the most dominant features of these physics,interconnections, and
+    interactions (e.g., control-oriented models), as well as to determine the mostefficient,
+    effective, and resilient control solutions. For Corporate or Institutional Access,
+    request a custom quote for your organization at www.ieee.org/smartgridresearch
   language:
   - en
   script:
@@ -81,13 +85,14 @@ copyright:
   from: '2013'
 keyword:
 - content: IEEE standards
-- content: Power grids
 - content: Smart grids
-- content: Electricity supply industry
-- content: Power system reliability
-- content: Power distribution
-- content: Technology forecasting
-- content: Forecasting
+- content: Power system planning
+- content: Power grids
+- content: Electrochemical processes
+- content: Control systems
+- content: Microgrids
+- content: Computer security
+- content: Network architecture
 - content: Advanced protection schemes
 - content: architecture
 - content: automatic generation control

@@ -2,11 +2,11 @@
 schema-version: v1.2.3
 id: IEEEGrid
 title:
-- content: IEEE Grid Vision 2050 Roadmap
+- content: IEEE Grid Vision 2050
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/6577597
+- content: https://ieeexplore.ieee.org/document/6577603
   type: src
 type: standard
 docid:
@@ -17,9 +17,9 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-0-7381-8405-0
+- id: 978-0-7381-8373-2
   type: ISBN
-- id: 10.1109/IEEESTD.2013.6577597
+- id: 10.1109/IEEESTD.2013.6577603
   type: DOI
 docnumber: IEEE Grid
 date:
@@ -28,7 +28,7 @@ date:
 - type: published
   value: '2013-08-09'
 - type: issued
-  value: '2015-01-09'
+  value: '2013'
 contributor:
 - organization:
     name:
@@ -38,7 +38,7 @@ contributor:
     url: http://www.ieee.org
     contact:
     - address:
-        city: Piscataway
+        city: New York
         country: USA
   role:
   - type: publisher
@@ -48,17 +48,14 @@ language:
 script:
 - Latn
 abstract:
-- content: The goal of this roadmap is to stimulate discussion and challenge ideas
-    around the deployment of power and energy technologies. The IEEE PES (Power &amp;
-    Energy Society) Horizon 2050 team gives a general indication of when technologies
-    could be expected for deployment, and the team takes a step forward and tries
-    to group research and standard development needs for the required power and energy
-    technologies in the future. The reader shall not consider these proposals as rigid
-    temporal indications, but as relative timeframes. This information can be challenged
-    by any reader, and the IEEE PES Horizon 2050 team hopes that these challenges
-    will lead to productive initiatives to select future investment in innovation
-    and standards. For Corporate or Institutional Access, request a custom quote for
-    your organization at www.ieee.org/smartgridresearch
+- content: This document describes the IEEE PES s vision of the power system infrastructure
+    into the year 2050. This document sets the stage and includes future scenarios,
+    electricity generation (Make), electricity transmission and distribution (Move),
+    and electricity usage (Use). It also covers the related Operations and Control
+    issues. The document uses scenarios from the International Energy Agency (IEA),
+    which defines future energy availability, production and usage into the year 2050.
+    For Corporate or Institutional Access, request a custom quote for your organization
+    at www.ieee.org/smartgridresearch
   language:
   - en
   script:
@@ -73,41 +70,35 @@ copyright:
     url: http://www.ieee.org
   from: '2013'
 keyword:
-- content: Power grids
 - content: Smart grids
+- content: Power grids
 - content: Power system reliability
-- content: Computer security
 - content: Electricity supply industry
-- content: Power system reliability
-- content: Power distribution
+- content: Computer security
 - content: Technology forecasting
 - content: Forecasting
+- content: Smart grid
+- content: Grid
+- content: power
+- content: IEEE PES
+- content: electrical grid
+- content: grid modernization
+- content: generation
+- content: transmission
+- content: distribution
+- content: load
 - content: consumer
+- content: operations
 - content: controls
 - content: cyber security
 - content: distributed resources
-- content: distribution
 - content: electric infrastructure and reliability
 - content: electric power system
-- content: electrical grid
 - content: electricity customers and loads
-- content: generation
-- content: grid
 - content: grid architecture
-- content: grid modernization
 - content: grid operations
-- content: IEEE PES
-- content: load
-- content: operations
-- content: power
 - content: power systems
-- content: roadmap
-- content: smart grid
-- content: transmission
 doctype: standard
-editorialgroup:
-  committee:
-  - IEEE
 ics:
 - code: 29.240.01
   text: Power transmission and distribution networks in general

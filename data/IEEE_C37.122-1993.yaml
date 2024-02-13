@@ -64,6 +64,23 @@ copyright:
     url: http://www.ieee.org
   from: '1994'
 relation:
+- type: updates
+  bibitem:
+    id: IEEEC37.122-1983
+    docid:
+    - id: IEEE C37.122-1983
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.122-1983
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: obsoletedBy
   bibitem:
     id: IEEEC37.122-2010
@@ -91,23 +108,16 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
+- type: obsoletedBy
   bibitem:
-    id: IEEEC37.122-1983
+    id: IEEEC37.122-2010
     docid:
-    - id: IEEE C37.122-1983
+    - id: IEEE C37.122-2010
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE C37.122-1983
+      content: IEEE C37.122-2010
       format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: gas-insulated substation
 - content: GIS design

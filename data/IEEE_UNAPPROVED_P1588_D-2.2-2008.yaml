@@ -7,7 +7,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/4447407
+- content: https://ieeexplore.ieee.org/document/4483891
   type: src
 type: standard
 docid:
@@ -18,12 +18,14 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
+- id: 978-1-5044-3010-4
+  type: ISBN
 docnumber: IEEE Unapproved P1588/D-2.2-2008
 date:
 - type: created
   value: '2008'
 - type: published
-  value: '2008-02-04'
+  value: '2008-04-04'
 contributor:
 - organization:
     name:
@@ -37,21 +39,21 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2008-02-04'
+revdate: '2008-04-04'
 language:
 - en
 script:
 - Latn
 abstract:
 - content: This standard specifies a protocol enabling precise synchronization of
-    clocks in measurement and control systems implemented with technologies such as
+    clocks in measurement and control systems impletemted with technologies such as
     network communication, local computing and distributed objects. The protocol is
     applicable to systems communicating via packet networks. The protocol enables
     heterogeneous systems that include clocks of various inherent precision, resolution
     and stability to synchronize. The protocol supports system-wide synchronization
-    accuracy and precision in the sub-microsecond range with minimal network and local
-    clock computing resources. The default behavior of the protocol allows simple
-    systems to be installed and operated without requiring the management attention
+    accuracy and precision in the sub-microsencond range with minimal network and
+    local clock computing resources. The default behavior os the protocol allows simple
+    systems to be installed and operated without reauiring the management attention
     of users.
   language:
   - en
@@ -77,14 +79,6 @@ keyword:
 - content: Patents
 - content: IEEE Standards
 - content: Licenses
-- content: clock
-- content: distributed system
-- content: master clock
-- content: measurement and control system
-- content: real time clock
-- content: synchronized clock
-- content: boundary clock
-- content: transparent clock
 doctype: standard
 ics:
 - code: 39.040.99

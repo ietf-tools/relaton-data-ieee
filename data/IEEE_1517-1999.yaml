@@ -2,12 +2,12 @@
 schema-version: v1.2.3
 id: IEEE1517-1999
 title:
-- content: IEEE Standard for Information Technology - Software Life Cycle Processes
-    - Reuse Processes
+- content: IEEE Standard for Information Technology-Software Life Cycle Processes-Reuse
+    Processes
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8684697
+- content: https://ieeexplore.ieee.org/document/1511021
   type: src
 type: standard
 docid:
@@ -20,14 +20,14 @@ docid:
   primary: true
 - id: 978-0-7381-1736-2
   type: ISBN
-- id: 10.1109/IEEESTD.1999.8684697
+- id: 10.1109/IEEESTD.2004.96466
   type: DOI
 docnumber: IEEE 1517-1999
 date:
+- type: updated
+  value: '2009-01-15'
 - type: created
-  value: '1999'
-- type: published
-  value: '2019-04-05'
+  value: '2004'
 - type: issued
   value: '1999-06-26'
 contributor:
@@ -39,7 +39,6 @@ contributor:
     url: http://www.ieee.org
   role:
   - type: publisher
-revdate: '2019-04-05'
 language:
 - en
 script:
@@ -51,7 +50,7 @@ abstract:
     each phase of the software life cycle to enable a software product to be constructed
     from reusable assets. It also specifies the processes, activities, and tasks to
     enable the identification, construction, maintenance, and management of assets
-    supplied.
+    supplied
   language:
   - en
   script:
@@ -76,12 +75,6 @@ relation:
     formattedref:
       content: IEEE 1517-2010
       format: text/plain
-keyword:
-- content: asset
-- content: domain engineering
-- content: process
-- content: software life cycle
-- content: software reuse
 doctype: standard
 editorialgroup:
   committee:

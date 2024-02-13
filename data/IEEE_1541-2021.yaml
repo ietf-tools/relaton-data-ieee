@@ -121,23 +121,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1541-2002
-    docid:
-    - id: IEEE 1541-2002
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1541-2002
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Binary sequences
@@ -159,8 +142,8 @@ editorialgroup:
   committee:
   - IEEE-SASB Coordinating Committees
 ics:
-- code: 35.040.99
-  text: Other standards related to information coding
+- code: '35.040'
+  text: Information coding
 ext:
   schema-version: v1.0.0
   standard_status: Active

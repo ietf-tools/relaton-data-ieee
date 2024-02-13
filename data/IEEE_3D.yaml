@@ -2,12 +2,12 @@
 schema-version: v1.2.3
 id: IEEE3D
 title:
-- content: IEEE 3D Body Processing Industry Connection--Assets and Transformations
-    Definitions
+- content: 'IEEE 3D Body Processing Industry Connections (3DBP IC): Communication,
+    Security, and Privacy'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/9864308
+- content: https://ieeexplore.ieee.org/document/9337279
   type: src
 type: standard
 docid:
@@ -18,16 +18,16 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-8897-6
+- id: 978-1-5044-6178-8
   type: ISBN
 docnumber: IEEE 3D
 date:
 - type: created
-  value: '2022-08-09'
+  value: '2019-12-09'
 - type: published
-  value: '2022-08-22'
+  value: '2021-01-27'
 - type: issued
-  value: '2022'
+  value: '2019'
 contributor:
 - organization:
     name:
@@ -41,18 +41,24 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-08-22'
+revdate: '2021-01-27'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Five unified definitions for the 3D Body Processing ecosystem were created
-    to harmonize resource exchange to enable or improve interoperability, communication,
-    and security, thereby facilitating reformations across sectors and industries.
-    Definitions regarding long-standing communication challenges in both the value
-    chain for consumers and the supply chain for manufacturers and service providers
-    in the ecosystem are addressed.
+- content: The 3DBP IC Communications, Security and Privacy (CSP) subgroup is investigating
+    the protection of data and records that may contain personal information, and
+    how to ensure users and consumers expectations relative to privacy and security.
+    The subgroup has determined that the requirements from the IEEE draft standards
+    of P7002, P7004, and P7012 can be applied to 3DBP to help ensure security and
+    privacy. Furthermore, it appears existing standards and industry practices will
+    be helpful to enable the CSP to create requirements as normative clauses in a
+    standard, and will use the existing standards, to the extent possible, to help
+    enable safe, secure, transparent, and private processing of 3DBP information.
+    In addition, the global impact of the EU GDPR will have a rippling influence on
+    privacy requirements and the CSP is further assessing GDPR relative to data and
+    record exchange in terms of privacy and security.
   language:
   - en
   script:
@@ -65,18 +71,20 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2022'
+  from: '2019'
 keyword:
-- content: 3DBP
-- content: assets
-- content: definitions
-- content: Industry Connections
-- content: transformations
+- content: 3D body processing
+- content: communication
+- content: privacy
+- content: security
 - content: white paper
 doctype: standard
 editorialgroup:
   committee:
   - Industry Connections Committee of the IEEE-SASB
+ics:
+- code: 01.040.11
+  text: Health care technology (Vocabularies)
 ext:
   schema-version: v1.0.0
   standard_status: Active

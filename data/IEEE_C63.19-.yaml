@@ -67,6 +67,23 @@ copyright:
     url: http://www.ieee.org
   from: '2011'
 relation:
+- type: updates
+  bibitem:
+    id: ANSIC63.19-2007
+    docid:
+    - id: ANSI C63.19-2007
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI C63.19-2007
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: obsoletedBy
   bibitem:
     id: ANSIC63.19-2019
@@ -94,23 +111,16 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
+- type: obsoletedBy
   bibitem:
-    id: ANSIC63.19-2007
+    id: ANSIC63.19-2019
     docid:
-    - id: ANSI C63.19-2007
+    - id: ANSI C63.19-2019
       type: IEEE
       primary: true
     formattedref:
-      content: ANSI C63.19-2007
+      content: ANSI C63.19-2019
       format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Wireless communication

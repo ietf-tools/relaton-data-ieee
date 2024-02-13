@@ -68,16 +68,6 @@ copyright:
     url: http://www.ieee.org
   from: '2006'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEEC37.011-2011
-    docid:
-    - id: IEEE C37.011-2011
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.011-2011
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEEC37.011-1994
@@ -95,6 +85,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEEC37.011-2011
+    docid:
+    - id: IEEE C37.011-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.011-2011
+      format: text/plain
 keyword:
 - content: Transient analysis
 - content: IEEE Standards

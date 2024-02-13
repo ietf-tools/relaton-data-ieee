@@ -29,7 +29,7 @@ date:
 - type: created
   value: '2023'
 - type: published
-  value: '2023-03-03'
+  value: '2023-09-27'
 - type: issued
   value: '2022-12-03'
 contributor:
@@ -45,7 +45,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-03-03'
+revdate: '2023-09-27'
 language:
 - en
 script:
@@ -55,7 +55,8 @@ abstract:
     control layer (MAC) and physical layers (PHY). Compared to IEEE Std 802.11-2020
     it enables absolute and relative position estimation with higher accuracy, and
     reduces wireless medium utilization and power consumption, is scalable to dense
-    deployments, and includes security features.
+    deployments, and includes security features. (The PDF of this standard is available
+    at not charge compliments of the IEEE GET program https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=68)
   language:
   - en
   script:
@@ -73,6 +74,23 @@ copyright:
     url: http://www.ieee.org
   from: '2023'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE802.11-2020
+    docid:
+    - id: IEEE 802.11-2020
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.11-2020
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE802.11-2020

@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: IEEEC37.121-2020
 title:
-- content: IEEE Guide for Switchgear—Unit Substation--Requirements
+- content: IEEE Guide for Switchgear--Unit Substation--Requirements
   format: text/plain
   type: main
 link:
@@ -17,7 +17,7 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-7754-3
+- id: 978-1-5044-7092-6
   type: ISBN
 - id: 10.1109/IEEESTD.2021.9374867
   type: DOI
@@ -74,6 +74,40 @@ copyright:
     url: http://www.ieee.org
   from: '2020'
 relation:
+- type: updates
+  bibitem:
+    id: IEEEC37.121-2012
+    docid:
+    - id: IEEE C37.121-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.121-2012
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC37.121-2012
+    docid:
+    - id: IEEE C37.121-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.121-2012
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEEC37.121-2012

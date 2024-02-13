@@ -2,12 +2,14 @@
 schema-version: v1.2.3
 id: ISO-IEC-IEEE
 title:
-- content: ISO/IEC/IEEE International Standard - Systems and software engineering
-    - Engineering and management of websites for systems, software, and services information
+- content: 'ISO/IEC/IEEE International Standard - Information technology - Telecommunications
+    and information exchange between systems - Local and metropolitan area networks
+    - Part 1X: Port-based network access control AMENDMENT 1: MAC security key agreement
+    protocol (MKA) extensions'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/7106438
+- content: https://ieeexplore.ieee.org/document/7409891
   type: src
 type: standard
 docid:
@@ -18,18 +20,18 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-0-7381-9569-8
+- id: 978-1-5044-0728-1
   type: ISBN
-- id: 10.1109/IEEESTD.2015.7106438
+- id: 10.1109/IEEESTD.2016.7409891
   type: DOI
 docnumber: ISO/IEC/ IEEE
 date:
 - type: created
-  value: '2015-05-15'
+  value: '2016-02-19'
 - type: published
-  value: '2015-06-01'
+  value: '2016-02-18'
 - type: issued
-  value: '2015-03-26'
+  value: '2016'
 contributor:
 - organization:
     name:
@@ -43,36 +45,25 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2015-06-01'
+revdate: '2016-02-18'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This standard defines system engineering and management requirements for
-    the life cycle of websites, including strategy, design, engineering, testing and
-    validation, and management and sustainment for Intranet and Extranet environments.
-    The goal of this standard is to improve the usability of informational websites
-    and ease of maintenance of managed Web operations in terms of locating relevant
-    and timely information, applying information security management, facilitating
-    ease of use, and providing for consistent and efficient development and maintenance
-    practices. .It applies to those using web technology to present information and
-    communications technology (ICT) information, such as user documentation for systems
-    and software, life-cycle documentation for systems and software engineering projects,
-    and documentation of policies, plans, and procedures for IT service management.
-    This standard provides requirements for website owners and website providers,
-    managers responsible for establishing guidelines for website development and operations,
-    for software developers and operations and maintenance staff who may be external
-    or internal to the website owner's organization. It applies to websites for public
-    access and for limited access, such as for users, customers, and subscribers seeking
-    information on IT products and services. It includes increased emphasis on the
-    human factors concerns for making information easily retrievable and usable for
-    the intended audience. It focuses on vendor- and product-independent considerations.
+- content: Media Access Control security (MACsec) Key Agreement protocol (MKA) data
+    elements and procedures that provide additional security and manageability capabilities,
+    including the ability to maintain secure communication while the operation of
+    MKA is suspended, when used in conjunction with MACsec Cipher Suites that support
+    Extended Packet Numbering are added in this amendment.
   language:
   - en
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -84,178 +75,8 @@ copyright:
     - content: ISO
   - name:
     - content: IEC
-  from: '2015'
+  from: '2016'
 relation:
-- type: updates
-  bibitem:
-    id: IEEE2001-2002
-    docid:
-    - id: IEEE 2001-2002
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 2001-2002
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE2001-2002
-    docid:
-    - id: IEEE 2001-2002
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 2001-2002
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE2001-2002
-    docid:
-    - id: IEEE 2001-2002
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 2001-2002
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE2001-2002
-    docid:
-    - id: IEEE 2001-2002
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 2001-2002
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE2001-2002
-    docid:
-    - id: IEEE 2001-2002
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 2001-2002
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE2001-2002
-    docid:
-    - id: IEEE 2001-2002
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 2001-2002
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE2001-2002
-    docid:
-    - id: IEEE 2001-2002
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 2001-2002
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE2001-2002
-    docid:
-    - id: IEEE 2001-2002
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 2001-2002
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE2001-2002
-    docid:
-    - id: IEEE 2001-2002
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 2001-2002
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE2001-2002
-    docid:
-    - id: IEEE 2001-2002
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 2001-2002
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: updates
   bibitem:
     id: IEEE2001-2002
@@ -309,25 +130,41 @@ relation:
     format: text/plain
 keyword:
 - content: IEEE Standards
+- content: ISO Standards
 - content: IEC Standards
-- content: iSO Standards
-- content: Software engineering
-- content: Websites
-- content: Information management
-- content: Systems engineering and theory
-- content: '23026'
-- content: website management
-- content: website engineering
-- content: webmaster
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Network security
+- content: Media Access Protocol
+- content: Bridge circuits
+- content: Access control
+- content: authorized port
+- content: confidentiality
+- content: data origin authenticity
+- content: IEEE 802.1X(TM)
+- content: IEEE 802.1Xbx(TM)
+- content: integrity
+- content: LANs
+- content: local area networks
+- content: MAC Bridges
+- content: MAC security
+- content: MAC Service
+- content: MANs
+- content: metropolitan area networks
+- content: port based network access control
+- content: secure association
+- content: security
+- content: transparent bridging
 doctype: standard
 editorialgroup:
   committee:
-  - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society
+  - LAN/MAN Standards Committee of the IEEE Computer Society
 ics:
-- code: '35.080'
-  text: Software
+- code: '35.110'
+  text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Superseded
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

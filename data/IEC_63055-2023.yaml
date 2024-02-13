@@ -27,7 +27,7 @@ date:
 - type: created
   value: '2023-10-19'
 - type: published
-  value: '2023-10-19'
+  value: '2023-10-18'
 - type: issued
   value: '2023'
 contributor:
@@ -43,7 +43,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-10-19'
+revdate: '2023-10-18'
 language:
 - en
 script:
@@ -244,56 +244,6 @@ relation:
     formattedref:
       content: IEEE 2401-2019
       format: text/plain
-- type: adoptedFrom
-  bibitem:
-    id: IEEE2401-2019
-    docid:
-    - id: IEEE 2401-2019
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 2401-2019
-      format: text/plain
-- type: adoptedFrom
-  bibitem:
-    id: IEEE2401-2019
-    docid:
-    - id: IEEE 2401-2019
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 2401-2019
-      format: text/plain
-- type: adoptedFrom
-  bibitem:
-    id: IEEE2401-2019
-    docid:
-    - id: IEEE 2401-2019
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 2401-2019
-      format: text/plain
-- type: adoptedFrom
-  bibitem:
-    id: IEEE2401-2019
-    docid:
-    - id: IEEE 2401-2019
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 2401-2019
-      format: text/plain
-- type: adoptedFrom
-  bibitem:
-    id: IEEE2401-2019
-    docid:
-    - id: IEEE 2401-2019
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 2401-2019
-      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Interoperability
@@ -317,8 +267,12 @@ editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society
 ics:
+- code: '31.180'
+  text: Printed circuits and boards
 - code: '31.200'
   text: Integrated circuits. Microelectronics
+- code: '35.060'
+  text: Languages used in information technology
 ext:
   schema-version: v1.0.0
   standard_status: Active

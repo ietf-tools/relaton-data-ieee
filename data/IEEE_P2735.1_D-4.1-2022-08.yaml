@@ -25,9 +25,9 @@ date:
 - type: created
   value: '2022-08-24'
 - type: published
-  value: '2022-08-25'
+  value: '2022-08-26'
 - type: issued
-  value: '2022-11-08'
+  value: '2022'
 contributor:
 - organization:
     name:
@@ -41,18 +41,18 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-08-25'
+revdate: '2022-08-26'
 language:
 - en
 script:
 - Latn
 abstract:
 - content: This standard designs and standardizes data input interfaces, computing
-    service interfaces, interconnection service interfaces, Laboratory Information
-    Management System (LIMS) service interfaces, functional design requirements, and
-    constraints for Complex Virtual Instruments (CVI) in the field of household appliance
-    testing based on IEEE Std 2735. The purpose is to process the data or metadata
-    from different types of household appliance complex virtual instruments.
+    service interfaces, interconnection service interfaces, LIMS service interfaces,
+    functional design requirements, and constraints for Complex Virtual Instruments(CVI)
+    in the field of household appliance testing based on IEEE 2735, which the purpose
+    is to process the data or metadata from different types of household appliance
+    complex virtual instruments.
   language:
   - en
   script:
@@ -75,25 +75,18 @@ keyword:
 - content: Design methodology
 - content: Virtual environments
 - content: Testing
-- content: Complex Virtual Instruments
-- content: design specifications
 - content: household appliance testing
 - content: IEEE 2735
 - content: IEEE 2735.1
+- content: Complex Virtual Instruments
+- content: design specifications
 doctype: standard
 editorialgroup:
   committee:
   - TC9 - Sensor Technology of the IEEE Instrumentation and Measurement Society
-ics:
-- code: 35.240.95
-  text: Internet applications
-- code: 35.240.99
-  text: IT applications in other fields
-- code: '97.030'
-  text: Domestic electrical appliances in general
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

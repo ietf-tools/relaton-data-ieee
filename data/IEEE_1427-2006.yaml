@@ -24,10 +24,12 @@ docid:
   type: DOI
 docnumber: IEEE 1427-2006
 date:
+- type: updated
+  value: '2008-02-11'
 - type: created
   value: '2007-05-04'
 - type: published
-  value: '2007-05-15'
+  value: '2020-07-30'
 - type: issued
   value: '2006-12-06'
 contributor:
@@ -37,13 +39,9 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-    contact:
-    - address:
-        city: New York
-        country: USA
   role:
   - type: publisher
-revdate: '2007-05-15'
+revdate: '2020-07-30'
 language:
 - en
 script:
@@ -80,26 +78,6 @@ relation:
     formattedref:
       content: IEEE 1427-2020
       format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEE1427-2020
-    docid:
-    - id: IEEE 1427-2020
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1427-2020
-      format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEE1427-2020
-    docid:
-    - id: IEEE 1427-2020
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1427-2020
-      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Standards
@@ -119,8 +97,8 @@ editorialgroup:
   committee:
   - Substations of the IEEE Power and Energy Society
 ics:
-- code: 29.240.10
-  text: Substations. Surge arresters
+- code: 01.040.11
+  text: Health care technology (Vocabularies)
 ext:
   schema-version: v1.0.0
   standard_status: Superseded

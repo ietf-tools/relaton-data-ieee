@@ -48,7 +48,7 @@ language:
 script:
 - Latn
 abstract:
-- content: This amendment to IEEE Std 802.3-2022 specifies additions to and appropriate
+- content: This amendment to IEEE Std 802.3-202x specifies additions to and appropriate
     modifications of the IEEE Std 802.3 MAC Merge sublayer and the Time Synchronization
     Service Interface (TSSI) to support 10 Mb/s Single-Pair Ethernet point to point
     PHYs.
@@ -71,30 +71,13 @@ copyright:
 relation:
 - type: updates
   bibitem:
-    id: IEEE802.3-2022
+    id: IEEE802.3-2018
     docid:
-    - id: IEEE 802.3-2022
+    - id: IEEE 802.3-2018
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 802.3-2022
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE802.3-2022
-    docid:
-    - id: IEEE 802.3-2022
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.3-2022
+      content: IEEE 802.3-2018
       format: text/plain
   description:
     content: amends
@@ -115,12 +98,12 @@ keyword:
 - content: 10BASE-T1S
 - content: copper
 - content: Ethernet
-- content: express traffic
 - content: IEEE 802.3
-- content: IEEE 802.3cg
-- content: IEEE 802.3de
-- content: preemption
+- content: IEEE 802.3cg&#8482;
+- content: IEEE 802.3de&#8482;
 - content: TSSI
+- content: express traffic
+- content: preemption.
 doctype: standard
 editorialgroup:
   committee:
@@ -132,7 +115,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

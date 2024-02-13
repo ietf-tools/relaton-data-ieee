@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: IEEEP802.11bb-D-7.0-2023-03
 title:
-- content: 'IEEE Draft Standard for Information Technology--Telecommunications and
-    Information Exchange Between Systems Local and Metropolitan Area Networks--Specific
+- content: 'IEEE Approved Draft Standard for Information Technology--Telecommunications
+    and Information Exchange Between Systems Local and Metropolitan Area Networks--Specific
     Requirements - Part 11: Wireless LAN Medium Access Control (MAC) and Physical
     Layer (PHY) Specifications Amendment 7: Light Communications'
   format: text/plain
@@ -27,9 +27,9 @@ date:
 - type: created
   value: '2023'
 - type: published
-  value: '2023-03-08'
+  value: '2023-03-07'
 - type: issued
-  value: '2023'
+  value: '2023-06-05'
 contributor:
 - organization:
     name:
@@ -43,19 +43,19 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-03-08'
+revdate: '2023-03-07'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This amendment specifies modifications to existing physical layers (PHYs)
-    and the medium access control layer (MAC) that enable transparent operation of
-    IEEE 802.11 over the wireless light medium. This amendment specifies PHYs that
-    provide bidirectional operations in 800 nm to 1000 nm band, achieve a minimum
-    and maximum throughput of 10 Mb/s and 9.6 Gb/s, respectively, as measured at the
-    MAC data service access point (SAP), and facilitate interoperability among solid
-    state light sources with different modulation bandwidths.
+- content: Modifications to existing physical layers (PHYs) and the medium access
+    control layer (MAC) that enable transparent operation of IEEE 802.11 over the
+    light in the 800 nm to 1000 nm band are specified in this amendment. This amendment
+    specifies PHYs that provide bidirectional operations that achieve a minimum and
+    maximum throughput of 10 Mb/s and 9.6 Gb/s, respectively, as measured at the MAC
+    data service access point (SAP), and facilitate interoperability among solid-state
+    light sources with different modulation bandwidths.
   language:
   - en
   script:
@@ -90,6 +90,23 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.11-2020
+    docid:
+    - id: IEEE 802.11-2020
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.11-2020
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Information technology
@@ -98,7 +115,14 @@ keyword:
 - content: Physical layer
 - content: Media Access Protocol
 - content: Lighting
-- content: Light communications (LC)
+- content: IEEE 802.11
+- content: IEEE 802.11bb
+- content: LC
+- content: light communication
+- content: MAC
+- content: medium access control
+- content: PHY
+- content: physical layer
 doctype: standard
 editorialgroup:
   committee:
@@ -108,7 +132,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

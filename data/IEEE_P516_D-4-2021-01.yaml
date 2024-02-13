@@ -26,7 +26,7 @@ date:
 - type: published
   value: '2021-01-29'
 - type: issued
-  value: '2021'
+  value: '2021-09-23'
 contributor:
 - organization:
     name:
@@ -48,9 +48,9 @@ script:
 abstract:
 - content: General recommendations for performing maintenance work on energized power
     lines are provided. Technical explanations as required to cover certain laboratory
-    testing of tools and equipment, field maintenance and care of tools and equipment,
-    and work methods for the maintenance of energized lines and for persons working
-    in the vicinity of energized lines are included.
+    testing of tools and equipment, in-service inspection, field maintenance and care
+    of tools and equipment, and work methods for the maintenance of energized lines
+    and for persons working in the vicinity of energized lines are included.
   language:
   - en
   script:
@@ -119,6 +119,23 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE516-2009
+    docid:
+    - id: IEEE 516-2009
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 516-2009
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Equipment
@@ -126,7 +143,7 @@ keyword:
 - content: Power transmission lines
 - content: energized
 - content: equipment
-- content: IEEE 516&#8482;
+- content: IEEE 516
 - content: maintenance
 - content: power lines
 - content: tools

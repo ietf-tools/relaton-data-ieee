@@ -2,12 +2,12 @@
 schema-version: v1.2.3
 id: ANSI-IEEE383-1974
 title:
-- content: IEEE Standard for Type Test of Class 1E Electric Cables, Field Splices,
+- content: IEEE Standard for Type Test of Class Ie Electric Cables, Field Splices,
     and Connections for Nuclear Power Generating Stations
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8692780
+- content: https://ieeexplore.ieee.org/document/20977
   type: src
 type: standard
 docid:
@@ -20,14 +20,14 @@ docid:
   primary: true
 - id: 978-0-7381-0688-5
   type: ISBN
-- id: 10.1109/IEEESTD.1973.8692780
+- id: 10.1109/IEEESTD.1974.120627
   type: DOI
 docnumber: ANSI/IEEE 383-1974
 date:
+- type: updated
+  value: '2015-03-06'
 - type: created
-  value: '1973-11-30'
-- type: published
-  value: '2019-04-16'
+  value: '1974'
 - type: issued
   value: '1974-02-28'
 contributor:
@@ -39,7 +39,6 @@ contributor:
     url: http://www.ieee.org
   role:
   - type: publisher
-revdate: '2019-04-16'
 language:
 - en
 script:
@@ -75,12 +74,21 @@ relation:
     formattedref:
       content: IEEE 383-2003
       format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE383-2003
+    docid:
+    - id: IEEE 383-2003
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 383-2003
+      format: text/plain
 keyword:
-- content: type
-- content: class 1E
-- content: nuclear
-- content: cables
-- content: splices
+- content: Connectors
+- content: Nuclear power generation
+- content: Power cables
+- content: Standards
 doctype: standard
 editorialgroup:
   committee:

@@ -121,11 +121,41 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1591.1-2012
+    docid:
+    - id: IEEE 1591.1-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1591.1-2012
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1591.1-2012
+    docid:
+    - id: IEEE 1591.1-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1591.1-2012
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
-- content: IEEE Standards
-- content: Optical fiber cables
-- content: Wiring
-- content: Testing
 - content: fiber optic ground wire
 - content: IEEE 1591.1
 - content: laboratory tests
@@ -141,7 +171,7 @@ ics:
   text: Fibres and cables
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

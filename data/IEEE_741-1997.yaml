@@ -66,23 +66,6 @@ copyright:
     url: http://www.ieee.org
   from: '1997'
 relation:
-- type: updates
-  bibitem:
-    id: IEEE741-1990
-    docid:
-    - id: IEEE 741-1990
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 741-1990
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: obsoletedBy
   bibitem:
     id: IEEE741-2007
@@ -110,16 +93,23 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
+- type: updates
   bibitem:
-    id: IEEE741-2007
+    id: IEEE741-1990
     docid:
-    - id: IEEE 741-2007
+    - id: IEEE 741-1990
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 741-2007
+      content: IEEE 741-1990
       format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE standards
 doctype: standard
