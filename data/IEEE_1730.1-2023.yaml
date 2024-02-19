@@ -1,0 +1,135 @@
+---
+schema-version: v1.2.3
+id: IEEE1730.1-2023
+title:
+- content: IEEE Recommended Practice for Distributed Simulation Engineering and Execution
+    Process Multi‐Architecture Overlay
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10439055
+  type: src
+type: standard
+docid:
+- id: IEEE 1730.1-2023
+  type: IEEE
+  primary: true
+- id: IEEE 1730.1™-2023
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-0479-2
+  type: ISBN
+- id: 10.1109/IEEESTD.2024.10439055
+  type: DOI
+docnumber: IEEE 1730.1-2023
+date:
+- type: created
+  value: '2024-02-21'
+- type: published
+  value: '2024-02-16'
+- type: issued
+  value: '2023-11-08'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2024-02-16'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: A recommended practice for applying the Distributed Simulation Engineering
+    and Execution Process (DSEEP) to the development and execution of distributed
+    simulation environments that include more than one distributed simulation architecture
+    is described. The distributed simulation architectures to which the recommended
+    practice applies include Distributed Interactive Simulation (DIS), High Level
+    Architecture (HLA), and Test and Training Enabling Architecture (TENA). The DSEEP
+    Multi-Architecture Overlay (DMAO) identifies and describes multi-architecture
+    issues and provides recommended actions for simulation environment developers
+    faced with those issues. The DMAO also augments the DSEEP lists of inputs, recommended
+    tasks, and outcomes with additional inputs, recommended tasks, and outcomes that
+    apply to multi-architecture simulation environments. This document is an overlay
+    to the DSEEP, which is a separate recommended practice.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2024'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1730.1-2013
+    docid:
+    - id: IEEE 1730.1-2013
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1730.1-2013
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Systems engineering and theory
+- content: Testing
+- content: Training
+- content: Simulation
+- content: High level languages
+- content: Computer architecture
+- content: Interactive systems
+- content: Distributed processing
+- content: DIS
+- content: Distributed Interactive Simulation
+- content: distributed simulation
+- content: Distributed Simulation Engineering and Execution Process
+- content: DMAO
+- content: DSEEP
+- content: High Level Architecture
+- content: HLA
+- content: IEEE 1730&#8482;
+- content: IEEE 1730.1&#8482;
+- content: multi-architecture
+- content: systems engineering methodology
+- content: TENA
+- content: Test and Training Enabling Architecture
+doctype: standard
+editorialgroup:
+  committee:
+  - Simulation Interoperability Stds Organization/Stds Activity Committee of the IEEE
+    Computer Society
+ics:
+- code: '35.080'
+  text: Software
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Approved
+  pubstatus: Active
+  holdstatus: Publish
