@@ -1,37 +1,35 @@
 ---
 schema-version: v1.2.3
-id: IEEE11073.10419-2017Redline
+id: IEEE11073.10419-2023
 title:
-- content: 'IEEE Health informatics--Personal health device communication - Part 10419:
-    Device Specialization--Insulin Pump'
-  format: text/plain
-  type: title-main
-- content: 'IEEE Health informatics--Personal health device communication - Part 10419:
-    Device Specialization--Insulin Pump - Redline'
+- content: 'IEEE Standard for Health informatics--Device interoperability Part 10419:
+    Personal Health Device Communication--Device Specialization--Insulin Pump'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8372992
+- content: https://ieeexplore.ieee.org/document/10443759
   type: src
 type: standard
 docid:
-- id: IEEE 11073.10419-2017 Redline
+- id: IEEE 11073.10419-2023
   type: IEEE
   primary: true
-- id: IEEE 11073.10419™-2017 Redline
+- id: IEEE 11073.10419™-2023
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-4965-6
+- id: 979-8-8557-0452-5
   type: ISBN
-docnumber: IEEE 11073.10419-2017 Redline
+- id: 10.1109/IEEESTD.2024.10443759
+  type: DOI
+docnumber: IEEE 11073.10419-2023
 date:
 - type: created
-  value: '2018-01-25'
+  value: '2024-02-23'
 - type: published
-  value: '2018-06-05'
+  value: '2024-02-23'
 - type: issued
-  value: '2017-09-28'
+  value: '2023-12-06'
 contributor:
 - organization:
     name:
@@ -45,7 +43,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2018-06-05'
+revdate: '2024-02-23'
 language:
 - en
 script:
@@ -54,19 +52,21 @@ abstract:
 - content: Within the context of the ISO/IEEE 11073 family of standards for device
     communication, a normative definition of communication between personal telehealth
     insulin pump devices and compute engines (e.g., cell phones, personal computers,
-    personal health appliances, set top boxes), in a manner that enables plug-and-play
-    interoperability, is established in this standard. It leverages appropriate portions
-    of existing standards including ISO/IEEE 11073 terminology, information models,
-    application profile standards, and transport standards. It specifies the use of
-    specific term codes, formats, and behaviors in telehealth environments restricting
-    optionality in base frameworks in favor of interoperability. The standard defines
-    a common core of communication functionality for personal telehealth insulin pump
-    devices.
+    personal health appliances, set top boxes) in a manner that enables plug-and-play
+    interoperability, is established in this standard. Appropriate portions of existing
+    standards including ISO/IEEE 11073 terminology, information models, application
+    profile standards, and transport standards are leveraged. The use of specific
+    term codes, formats, and behaviors in telehealth environments restricting optionality
+    in base frameworks in favor of interoperability are specified. A common core of
+    communication functionality for personal telehealth insulin pump devices is defined.
   language:
   - en
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -74,17 +74,17 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2018'
+  from: '2024'
 relation:
 - type: updates
   bibitem:
-    id: IEEE11073.10419-2015
+    id: IEEE11073.10419-2017
     docid:
-    - id: IEEE 11073.10419-2015
+    - id: IEEE 11073.10419-2017
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 11073.10419-2015
+      content: IEEE 11073.10419-2017
       format: text/plain
   description:
     content: revises
@@ -95,17 +95,17 @@ relation:
     format: text/plain
 keyword:
 - content: IEEE Standards
-- content: Medical services
-- content: Pumps
-- content: Insulin
+- content: Medical devices
+- content: Switchgear
+- content: Insulin pumps
 - content: Diabetes
-- content: Informatics
-- content: Biomedical informatics
-- content: IEEE 11073-10419
+- content: Bioinformatics
+- content: Interoperability
+- content: IEEE 11073-10419&#8482;
 - content: insulin pump
 - content: medical device communication
 - content: personal health devices
-doctype: redline
+doctype: standard
 editorialgroup:
   committee:
   - IEEE 11073 Standards Committee of the IEEE Engineering in Medicine and Biology
@@ -115,7 +115,7 @@ ics:
   text: IT applications in health care technology
 ext:
   schema-version: v1.0.0
-  standard_status: Superseded
-  standard_modified: Redline
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

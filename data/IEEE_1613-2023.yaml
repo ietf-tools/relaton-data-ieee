@@ -1,0 +1,147 @@
+---
+schema-version: v1.2.3
+id: IEEE1613-2023
+title:
+- content: IEEE Standard for Environmental and Testing Requirements for Devices with
+    Communications Functions used with Electric Power Apparatus
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10444754
+  type: src
+type: standard
+docid:
+- id: IEEE 1613-2023
+  type: IEEE
+  primary: true
+- id: IEEE 1613™-2023
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-0168-5
+  type: ISBN
+- id: 10.1109/IEEESTD.2023.10444754
+  type: DOI
+docnumber: IEEE 1613-2023
+date:
+- type: created
+  value: '2024-02-26'
+- type: published
+  value: '2024-02-23'
+- type: issued
+  value: '2023-09-21'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2024-02-23'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Service conditions, electrical ratings, thermal ratings, electromagnetic
+    compatibility (EMC), and environmental testing requirements are defined in this
+    standard based upon IEEE standards and five International Electrotechnical Commission
+    (IEC) EMC standards (for which there are no equivalent IEEE standards), to represent
+    the harsh environment of electric power apparatus installations. This develops
+    a common and reproducible basis for designing and testing devices with communications
+    functions installed in this harsh environment. Where the device does not perform
+    protection or control functions, testing of the communications functions is covered
+    by IEEE Std 1613. Where the device performs protection or control functions and
+    has communications ports, tests for all communications functions are covered by
+    the IEEE C37.90 family of standards.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2023'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1613-2009
+    docid:
+    - id: IEEE 1613-2009
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1613-2009
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: auto dialers
+- content: bridges
+- content: common mode disturbances
+- content: communications networking device
+- content: communications ports
+- content: conducted RF immunity
+- content: damped oscillatory magnetic fields
+- content: derating
+- content: EFT
+- content: electrical fast transient test
+- content: electrostatic discharge test
+- content: environmental requirements
+- content: ESD
+- content: Ethernet hubs
+- content: firewalls
+- content: humidity
+- content: IED
+- content: IEEE Std 1613&#8482;
+- content: immunity
+- content: impulse dielectric test
+- content: insulation test
+- content: intelligent electronic device
+- content: intended use
+- content: modems
+- content: power apparatus
+- content: power frequency magnetic fields
+- content: radiated RF immunity
+- content: radio frequency test
+- content: RF
+- content: routers
+- content: surge
+- content: surge withstand capability test
+- content: SWC
+- content: switches
+- content: temperature range
+- content: temperature rise
+- content: voltage rating
+doctype: standard
+editorialgroup:
+  committee:
+  - Power System Relaying and Control of the IEEE Power and Energy Society
+ics:
+- code: 29.240.10
+  text: Substations. Surge arresters
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Approved
+  pubstatus: Active
+  holdstatus: Publish

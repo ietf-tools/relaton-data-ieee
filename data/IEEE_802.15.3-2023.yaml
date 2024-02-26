@@ -1,34 +1,34 @@
 ---
 schema-version: v1.2.3
-id: IEEE802.15.3-2016
+id: IEEE802.15.3-2023
 title:
-- content: IEEE Standard for High Data Rate Wireless Multi-Media Networks
+- content: IEEE Standard for Wireless Multimedia Networks
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/7524656
+- content: https://ieeexplore.ieee.org/document/10443750
   type: src
 type: standard
 docid:
-- id: IEEE 802.15.3-2016
+- id: IEEE 802.15.3-2023
   type: IEEE
   primary: true
-- id: IEEE 802.15.3®-2016
+- id: IEEE 802.15.3®-2023
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-2023-5
+- id: 979-8-8557-0374-0
   type: ISBN
-- id: 10.1109/IEEESTD.2016.7524656
+- id: 10.1109/IEEESTD.2024.10443750
   type: DOI
-docnumber: IEEE 802.15.3-2016
+docnumber: IEEE 802.15.3-2023
 date:
 - type: created
-  value: '2016'
+  value: '2024-02-22'
 - type: published
-  value: '2016-07-28'
+  value: '2024-02-23'
 - type: issued
-  value: '2016-05-15'
+  value: '2023-09-21'
 contributor:
 - organization:
     name:
@@ -42,17 +42,17 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2016-07-28'
+revdate: '2024-02-23'
 language:
 - en
 script:
 - Latn
 abstract:
 - content: The protocol and compatible interconnection of data and multimedia communication
-    equipment via 2.4 GHz and 60 GHz radio transmissions in a Wireless Personal Area
-    Network (WPAN) using low power and multiple modulation formats to support scalable
-    data rates is defined in this standard. The Medium Access Control (MAC) sublayer
-    protocol supports both isochronous and asynchronous data types.
+    equipment via 2.4 GHz, 60 GHz, and 300 GHz radio transmissions in a Wireless Personal
+    Area Network (WPAN) using low-power and multiple modulation formats to support
+    scalable data rates are defined in this standard. The Medium Access Control (MAC)
+    sublayer protocol supports both isochronous and asynchronous data types.
   language:
   - en
   script:
@@ -68,17 +68,17 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2016'
+  from: '2024'
 relation:
 - type: updates
   bibitem:
-    id: IEEE802.15.3-2003
+    id: IEEE802.15.3-2016
     docid:
-    - id: IEEE 802.15.3-2003
+    - id: IEEE 802.15.3-2016
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 802.15.3-2003
+      content: IEEE 802.15.3-2016
       format: text/plain
   description:
     content: revises
@@ -89,17 +89,30 @@ relation:
     format: text/plain
 keyword:
 - content: IEEE Standards
+- content: IEEE 802.15 Standard
 - content: Ad hoc networks
-- content: Mobile computing
-- content: Millimeter wave technology
-- content: Radio frequency
 - content: Wireless communication
+- content: Wireless networks
 - content: Multimedia communication
+- content: Radio frequency
+- content: Millimeter wave communication
 - content: ad hoc network
-- content: IEEE 802.15.3(TM)
+- content: close proximity
+- content: fast setup
+- content: fixed point-to-point
+- content: IEEE 802.15.3&#8482;
+- content: IEEE 802.15.3d&#8482;
+- content: IEEE 802.15.3e&#8482;
+- content: IEEE 802.15.3f&#8482;
+- content: mmWave
 - content: mobility
-- content: mm-wave
+- content: point-to-point
+- content: P2P
 - content: radio frequency
+- content: 60 GHz
+- content: submillimeter wave
+- content: terahertz
+- content: 300 GHz
 - content: wireless
 doctype: standard
 editorialgroup:
@@ -110,7 +123,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish
