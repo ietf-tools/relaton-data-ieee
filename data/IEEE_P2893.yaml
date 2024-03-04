@@ -1,31 +1,31 @@
 ---
 schema-version: v1.2.3
-id: ISO-IEC-IEEEDISP41062-2024-02
+id: IEEEP2893
 title:
-- content: ISO/IEC/IEEE Draft Standard - Software Engineering - Life cycle processes
-    - Software Acquisition
+- content: IEEE Draft Standard for Flexible Optical Service Unit (OSUFlex) of Optical
+    Transport Network (OTN) in Power Systems - Corrigendum 1 Technical correction
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/10453480
+- content: https://ieeexplore.ieee.org/document/10456578
   type: src
 type: standard
 docid:
-- id: ISO/IEC/IEEE DIS P41062-2024-02
+- id: IEEE P2893
   type: IEEE
   primary: true
-- id: ISO/IEC/IEEE DIS P41062™-2024-02
+- id: IEEE P2893™
   type: IEEE
   scope: trademark
   primary: true
-- id: 979-8-8557-0585-0
+- id: 979-8-8557-0573-7
   type: ISBN
-docnumber: ISO/IEC/IEEE DIS P41062-2024-02
+docnumber: IEEE P2893
 date:
 - type: created
-  value: '2024-02-27'
+  value: '2024-02-23'
 - type: published
-  value: '2024-02-28'
+  value: '2024-03-01'
 - type: issued
   value: '2024'
 contributor:
@@ -41,11 +41,18 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2024-02-28'
+revdate: '2024-03-01'
 language:
 - en
 script:
 - Latn
+abstract:
+- content: Corrections to IEEE Std 2893-2023 are provided in this corrigendum
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -56,53 +63,38 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  - name:
-    - content: ISO
-  - name:
-    - content: IEC
   from: '2024'
 relation:
 - type: updates
   bibitem:
-    id: IEEE1062-2015
+    id: IEEEP2893-D-2-2022-11
     docid:
-    - id: IEEE 1062-2015
+    - id: IEEE P2893/D-2-2022-11
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 1062-2015
+      content: IEEE P2893/D-2-2022-11
       format: text/plain
   description:
-    content: revises
+    content: corrects
     language:
     - en
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1062-2015
-    docid:
-    - id: IEEE 1062-2015
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1062-2015
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Payloads
+- content: Optical fiber communication
+- content: Transport protocols
+- content: Power systems
+- content: corrigendum
+- content: IEEE 2893&#8482;
+- content: payload type
 doctype: standard
 editorialgroup:
   committee:
-  - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society
-ics:
-- code: '35.080'
-  text: Software
+  - Power Line Communications of the IEEE Communications Society
 ext:
   schema-version: v1.0.0
   standard_status: Active

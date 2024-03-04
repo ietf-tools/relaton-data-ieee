@@ -1,0 +1,128 @@
+---
+schema-version: v1.2.3
+id: IEEEP802.1Qdj-D-2.2-2024-02
+title:
+- content: 'IEEE Draft Standard for Local and Metropolitan Area Networks--Bridges
+    and Bridged Networks Amendment 38: Configuration Enhancements for Time-Sensitive
+    Networking'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10458099
+  type: src
+type: standard
+docid:
+- id: IEEE P802.1Qdj/D-2.2-2024-02
+  type: IEEE
+  primary: true
+- id: IEEE P802.1Qdj™/D-2.2-2024-02
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-0588-1
+  type: ISBN
+docnumber: IEEE P802.1Qdj/D-2.2-2024-02
+date:
+- type: created
+  value: '2024-02-29'
+- type: published
+  value: '2024-03-01'
+- type: issued
+  value: '2024'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2024-03-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This amendment to IEEE Std 802.1Q-2022 as amended by IEEE Std 802.1Qcz-2023,
+    IEEE Std 802.1Qcw-2023, and IEEE Std 802.1Qcj-2023 describes the relationships
+    and division of responsibilities between Centralized User Configuration (CUC)
+    components, that can be used to configure end stations' use of Time-Sensitive
+    Networking (TSN) capabilities, and a Centralized Network Configuration (CNC) component
+    that can be used to configure network resources within an administrative Configuration
+    Domain. A YANG model and modules that can be used by a network configuration protocol,
+    such as NETCONF, to provide communication between the CNC and a CUC is specified.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: draft
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2024'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE802.1Q-2018
+    docid:
+    - id: IEEE 802.1Q-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1Q-2018
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Bridge circuits
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Virtual LAN
+- content: Time factors
+- content: Configuration management
+- content: Bridged Network
+- content: Centralized Network Configuration
+- content: CNC
+- content: Centralized User Configuration
+- content: CUC
+- content: IEEE 802.1Q&#8482;
+- content: IEEE 802.1Qdj&#8482;
+- content: LAN
+- content: local area network
+- content: Time-Sensitive Networking
+- content: TSN
+- content: Virtual Bridged Network
+- content: virtual LAN
+- content: VLAN Bridge
+- content: YANG
+doctype: standard
+editorialgroup:
+  committee:
+  - LAN/MAN Standards Committee of the IEEE Computer Society
+ics:
+- code: '35.110'
+  text: Networking
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

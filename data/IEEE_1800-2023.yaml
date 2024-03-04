@@ -1,0 +1,126 @@
+---
+schema-version: v1.2.3
+id: IEEE1800-2023
+title:
+- content: IEEE Standard for SystemVerilog--Unified Hardware Design, Specification,
+    and Verification Language
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10458102
+  type: src
+type: standard
+docid:
+- id: IEEE 1800-2023
+  type: IEEE
+  primary: true
+- id: IEEE 1800™-2023
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-0500-3
+  type: ISBN
+- id: 10.1109/IEEESTD.2024.10458102
+  type: DOI
+docnumber: IEEE 1800-2023
+date:
+- type: created
+  value: '2024-02-28'
+- type: published
+  value: '2024-03-01'
+- type: issued
+  value: '2023-12-06'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2024-03-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The definition of the language syntax and semantics for SystemVerilog,
+    which is a unified hardware design, specification, and verification language,
+    is provided. This standard includes support for modeling hardware at the behavioral,
+    register transfer level (RTL), and gate-level abstraction levels, and for writing
+    test benches using coverage, assertions, object-oriented programming, and constrained
+    random verification. The standard also provides application programming interfaces
+    (APIs) to foreign programming languages. (The PDF of this standard is available
+    at no cost at https://ieeexplore.ieee.org/browse/standards/get-program/page compliments
+    of Accellera Systems Initiative)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2024'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1800-2017
+    docid:
+    - id: IEEE 1800-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1800-2017
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Design automation
+- content: Hardware design languages
+- content: Formal verification
+- content: Computer languages
+- content: System analysis and design
+- content: assertions
+- content: design automation
+- content: design verification
+- content: hardware description language
+- content: HDL
+- content: HDVL
+- content: IEEE Std 1800&#8482;
+- content: PLI
+- content: programming language interface
+- content: SystemVerilog
+- content: Verilog&#174;
+- content: VPI
+doctype: standard
+editorialgroup:
+  committee:
+  - Design Automation of the IEEE Computer Society
+ics:
+- code: '35.060'
+  text: Languages used in information technology
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Approved
+  pubstatus: Active
+  holdstatus: Publish

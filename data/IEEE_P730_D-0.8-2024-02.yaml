@@ -1,31 +1,30 @@
 ---
 schema-version: v1.2.3
-id: ISO-IEC-IEEEDISP41062-2024-02
+id: IEEEP730-D-0.8-2024-02
 title:
-- content: ISO/IEC/IEEE Draft Standard - Software Engineering - Life cycle processes
-    - Software Acquisition
+- content: IEEE Draft Standard for Software Quality Assurance Processes
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/10453480
+- content: https://ieeexplore.ieee.org/document/10458105
   type: src
 type: standard
 docid:
-- id: ISO/IEC/IEEE DIS P41062-2024-02
+- id: IEEE P730/D-0.8-2024-02
   type: IEEE
   primary: true
-- id: ISO/IEC/IEEE DIS P41062™-2024-02
+- id: IEEE P730™/D-0.8-2024-02
   type: IEEE
   scope: trademark
   primary: true
-- id: 979-8-8557-0585-0
+- id: 979-8-8557-0589-8
   type: ISBN
-docnumber: ISO/IEC/IEEE DIS P41062-2024-02
+docnumber: IEEE P730/D-0.8-2024-02
 date:
 - type: created
-  value: '2024-02-27'
+  value: '2024-02-29'
 - type: published
-  value: '2024-02-28'
+  value: '2024-03-01'
 - type: issued
   value: '2024'
 contributor:
@@ -41,11 +40,22 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2024-02-28'
+revdate: '2024-03-01'
 language:
 - en
 script:
 - Latn
+abstract:
+- content: Requirements for initiating, planning, controlling, and executing the Software
+    Quality Assurance processes of a software development or maintenance project are
+    established in this standard. This standard is harmonized with the software life
+    cycle processes of ISO/IEC/IEEE 12207:2017, IEEE Std 2675-2021 and the information
+    content requirements of ISO/IEC/IEEE 15289:2019.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -56,21 +66,17 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  - name:
-    - content: ISO
-  - name:
-    - content: IEC
   from: '2024'
 relation:
 - type: updates
   bibitem:
-    id: IEEE1062-2015
+    id: IEEE730-2014
     docid:
-    - id: IEEE 1062-2015
+    - id: IEEE 730-2014
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 1062-2015
+      content: IEEE 730-2014
       format: text/plain
   description:
     content: revises
@@ -79,23 +85,24 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1062-2015
-    docid:
-    - id: IEEE 1062-2015
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1062-2015
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Software quality
+- content: Quality assurance
+- content: Conformance testing
+- content: Software development management
+- content: assurance
+- content: conformance
+- content: contract
+- content: cycle
+- content: IEEE 730&#8482;
+- content: management
+- content: project
+- content: quality
+- content: requirements
+- content: software
+- content: SQA
+- content: standard
 doctype: standard
 editorialgroup:
   committee:
