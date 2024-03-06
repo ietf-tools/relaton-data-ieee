@@ -67,16 +67,6 @@ copyright:
     - content: ASTM
   from: '2011'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE-ASTMSI10.2016
-    docid:
-    - id: IEEE/ASTM SI 10.2016
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE/ASTM SI 10.2016
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEE-ASTMSI10.2002
@@ -94,6 +84,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE-ASTMSI10.2016
+    docid:
+    - id: IEEE/ASTM SI 10.2016
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE/ASTM SI 10.2016
+      format: text/plain
 keyword:
 - content: IEEE standards
 - content: Measurement

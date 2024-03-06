@@ -70,6 +70,16 @@ copyright:
     url: http://www.ieee.org
   from: '1992'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE656-2018
+    docid:
+    - id: IEEE 656-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 656-2018
+      format: text/plain
 - type: updates
   bibitem:
     id: ANSI-IEEE656-1985
@@ -87,16 +97,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEE656-2018
-    docid:
-    - id: IEEE 656-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 656-2018
-      format: text/plain
 keyword:
 - content: Acoustic noise
 - content: Acoustic noise measurement

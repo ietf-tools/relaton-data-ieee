@@ -2,11 +2,11 @@
 schema-version: v1.2.3
 id: IEEEC37.015-1993
 title:
-- content: IEEE Application Guide for Shunt Reactor Switching
+- content: IEEE Application Guide for Shunt Reactor Switching.
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8684685
+- content: https://ieeexplore.ieee.org/document/392634
   type: src
 type: standard
 docid:
@@ -19,14 +19,12 @@ docid:
   primary: true
 - id: 978-0-7381-1031-8
   type: ISBN
-- id: 10.1109/IEEESTD.1993.8684685
+- id: 10.1109/IEEESTD.1994.121453
   type: DOI
 docnumber: IEEE C37.015-1993
 date:
 - type: created
-  value: '1993-11-30'
-- type: published
-  value: '2019-04-05'
+  value: '1994'
 - type: issued
   value: '1993-12-02'
 contributor:
@@ -42,23 +40,10 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2019-04-05'
 language:
 - en
 script:
 - Latn
-abstract:
-- content: Guidance for the application of ac high-voltage circuit breakers for shunt
-    reactor switching is provided. Overvoltage generation for the three cases of directly
-    grounded, ungrounded, and neutral reactor grounded shunt reactors is addressed
-    in terms of derivation and limitation methods. Circuit breaker specification for
-    the purpose and the use of laboratory test results to predict field performance
-    is also covered by this guide.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 copyright:
 - owner:
   - name:
@@ -78,12 +63,16 @@ relation:
     formattedref:
       content: IEEE C37.015-2009
       format: text/plain
-keyword:
-- content: ac high voltage circuit breake
-- content: Small inductive currents
-- content: Shunt reactor switching
-- content: Overvoltages
-- content: Application
+- type: obsoletedBy
+  bibitem:
+    id: IEEEC37.015-2009
+    docid:
+    - id: IEEE C37.015-2009
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.015-2009
+      format: text/plain
 doctype: standard
 editorialgroup:
   committee:

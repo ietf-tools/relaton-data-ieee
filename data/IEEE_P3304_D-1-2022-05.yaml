@@ -47,6 +47,22 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: This is an adoption of the Moving Picture, Audio and Data Coding by Artificial
+    Intelligence (MPAI)--Technical Specification Neural Network Watermarking as an
+    IEEE Standard. The Neural Network Watermarking (MPAI-NNW) Technical Specification
+    provides standard methods to measure the ability of 1) a watermark inserter to
+    inject a payload without deteriorating the neural network (NN) performance, 2)
+    a watermark detector to recognize the presence and the watermark decoder to successfully
+    retrieve the payload of the inserted watermark, and 3) a watermark inserter to
+    inject a payload and the watermark detector/decoder to detect/decode a payload
+    from a watermarked model or any of its inferences at a measured computational
+    cost.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -64,13 +80,19 @@ keyword:
 - content: Video coding
 - content: Audio coding
 - content: Artificial intelligence
+- content: adoption
+- content: AI framework
+- content: Artificial Intelligence
+- content: IEEE 3304&#8482;
+- content: MPAI-NNW
+- content: Neural Network Watermarking
 doctype: standard
 editorialgroup:
   committee:
   - Entity Collaborative Activities Governance Board of the IEEE SA Board of Governors
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

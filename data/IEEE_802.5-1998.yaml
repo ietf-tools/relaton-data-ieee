@@ -28,9 +28,9 @@ date:
 - type: created
   value: '1998'
 - type: published
-  value: '2012-12-11'
+  value: '2007-09-04'
 - type: issued
-  value: '2012-12-11'
+  value: '1998'
 contributor:
 - organization:
     name:
@@ -40,27 +40,26 @@ contributor:
     url: http://www.ieee.org
     contact:
     - address:
-        city: Piscataway
+        city: New York
         country: USA
   role:
   - type: publisher
-revdate: '2012-12-11'
+revdate: '2007-09-04'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'This IEEE Standards product is part of the 802 family on LAN/MAN. This
-    Local and Metropolitan Area Network standard, ISO/IEC 8802-5 : 1998, is part of
-    a family of local area network (LAN) standards dealing with the physical and data
-    link layers as defined by the ISO/IEC Open Systems Interconnection Basic Reference
-    Model. Its purpose is to provide compatible interconnection of data processing
-    equipment by means of a LAN using the token-passing ring access method. The frame
-    format, including delimiters, addressing, and priority stacks, is defined. The
-    medium access control (MAC) protocol is defined. The finite state machine and
-    state tables are supplemented with a prose description of the algorithms. The
-    physical layer (PHY) functions of symbol encoding and decoding, symbol time, and
-    latency buffering are defined. The services provided by the MAC to the station
+- content: 'This Local and Metropolitan Area Network standard, ISO/IEC 8802-5 : 1998,
+    is part of a family of local area network (LAN) standards dealing with the physical
+    and data link layers as defined by the ISO/IEC Open Systems Interconnection Basic
+    Reference Model. Its purpose is to provide compatible interconnection of data
+    processing equipment by means of a LAN using the token-passing ring access method.
+    The frame format, including delimiters, addressing, and priority stacks, is defined.
+    The medium access control (MAC) protocol is defined. The finite state machine
+    and state tables are supplemented with a prose description of the algorithms.
+    The physical layer (PHY) functions of symbol encoding and decoding, symbol time,
+    and latency buffering are defined. The services provided by the MAC to the station
     management (SMT) and the services provided by the PHY to SMT and the MAC are described.
     These services are defined in terms of service primitives and associated parameters.
     The 4 and 16 Mbit/s, shielded twisted pair attachment of the station to the medium,
@@ -76,7 +75,7 @@ abstract:
   format: text/plain
 docstatus:
   stage:
-    value: approved
+    value: withdrawn
 copyright:
 - owner:
   - name:
@@ -92,12 +91,10 @@ keyword:
 - content: Media Access Protocol
 - content: Access control
 - content: Conformance testing
-- content: 802 family
-- content: LAN
-- content: MAN
-- content: medium access control
-- content: Protocol Implementation Conformance Statement
-- content: PHY
+- content: data processing interconnection
+- content: local area network (LAN)
+- content: medium access control (MAC)
+- content: token ring
 doctype: standard
 editorialgroup:
   committee:
@@ -111,7 +108,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Inactive
+  standard_modified: Withdrawn
   pubstatus: Active
   holdstatus: Publish

@@ -2,13 +2,13 @@
 schema-version: v1.2.3
 id: IEEE1636.2-2010
 title:
-- content: 'IEEE Standard for Software Interface for Maintenance Information Collection
-    and Analysis (SIMICA): Exchanging Maintenance Action Information via the Extensible
-    Markup Language (XML)'
+- content: 'IEEE Trial-Use Standard for Software Interface for Maintenance Information
+    Collection and Analysis (SIMICA): Exchanging Maintenance Action Information via
+    the Extensible Markup Language (XML)'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/6781494
+- content: https://ieeexplore.ieee.org/document/5648434
   type: src
 type: standard
 docid:
@@ -19,18 +19,18 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-0-7381-8164-6
+- id: 978-0-7381-6454-0
   type: ISBN
-- id: 10.1109/IEEESTD.2013.6781494
+- id: 10.1109/IEEESTD.2010.5648434
   type: DOI
 docnumber: IEEE 1636.2-2010
 date:
 - type: updated
-  value: '2014-07-18'
+  value: '2010-12-13'
 - type: created
-  value: '2013-02-01'
+  value: '2010-11-24'
 - type: published
-  value: '2014-04-01'
+  value: '2013-05-31'
 - type: issued
   value: '2010-09-30'
 contributor:
@@ -42,7 +42,7 @@ contributor:
     url: http://www.ieee.org
   role:
   - type: publisher
-revdate: '2014-04-01'
+revdate: '2013-05-31'
 language:
 - en
 script:
@@ -60,9 +60,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -70,7 +67,7 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2013'
+  from: '2010'
 relation:
 - type: obsoletedBy
   bibitem:
@@ -84,13 +81,7 @@ relation:
       format: text/plain
 keyword:
 - content: IEEE standards
-- content: Automatic test equipment
 - content: XML
-- content: Markup languages
-- content: Software engineering
-- content: Software interfaces
-- content: Software maintenance
-- content: Information analysis
 - content: automated test system (ATS)
 - content: eXtensible markup language (XML)
 - content: maintenance action information (MAI)
@@ -106,7 +97,6 @@ ics:
   text: Character sets and information coding
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
-  standard_modified: Approved
+  standard_status: Superseded
   pubstatus: Active
   holdstatus: Publish

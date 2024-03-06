@@ -48,13 +48,10 @@ language:
 script:
 - Latn
 abstract:
-- content: Basic requirements intended to mitigate the effects of the harsh environments
-    encountered by microprocessor-based controls of distribution switchgear rated
-    above 1 kV up to and including 38 kV are covered. Basic requirements include the
-    design, testing and application of microprocessor-based controls. Microprocessor-based
-    controls covered by IEEE Std C37.68 TM are intended to be applied in distribution
-    switchgear which is normally mounted on power poles, in wet or dry vaults, or
-    in pad-mounted switchgear enclosures.
+- content: Conformance tests and requirements for the integrity of pad-mounted, pole-mounted
+    and submersible distribution switchgear enclosures and associated control enclosures.
+    This standard applies to enclosure security and coating requirements, for coastal
+    and non-coastal environments
   language:
   - en
   script:
@@ -77,22 +74,21 @@ keyword:
 - content: Microprocessors
 - content: Power distribution
 - content: Poles and towers
+- content: coastal
 - content: control
-- content: dry vault
-- content: IEEE Std C37.68TM
-- content: medium-voltage distribution switchgear
-- content: microprocessor-based polemount
-- content: pad-mount
+- content: enclosure
+- content: integrity
+- content: switchgear
+- content: IEEE C37.75TM
+- content: non-coastal
 - content: submersible
-- content: vault
-- content: wet vault
 doctype: standard
 editorialgroup:
   committee:
   - Switchgear of the IEEE Power and Energy Society
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

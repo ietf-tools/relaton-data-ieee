@@ -45,19 +45,6 @@ language:
 - en
 script:
 - Latn
-abstract:
-- content: A set of operator interfaces frequently used in artificial intelligence
-    (AI) applications is defined in this standard, where the AI operators refer to
-    the standard building blocks and primitives for performing basic AI operations.
-    The functionality and the specific input and output operands of an AI operator
-    are discussed, as well as both generality and efficiency. Various types of operators,
-    such as those related to basic mathematics, neural network, and machine learning,
-    are highlighted.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -76,23 +63,18 @@ keyword:
 - content: Neural networks
 - content: Mathematics
 - content: User interfaces
-- content: artificial intelligence
-- content: AI
-- content: basic mathematics
-- content: IEEE 2941.1
-- content: neural network
-- content: machine learning
-- content: operators
+- content: Artificial Intelligence
+- content: Operators
+- content: Basic Mathematics
+- content: Neural Network
+- content: Machine Learning
 doctype: standard
 editorialgroup:
   committee:
   - Data Compression Standards Committee of the IEEE Computer Society
-ics:
-- code: 35.240.01
-  text: Application of information technology in general
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

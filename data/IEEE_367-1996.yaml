@@ -67,6 +67,16 @@ copyright:
     url: http://www.ieee.org
   from: '1997'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE367-2012
+    docid:
+    - id: IEEE 367-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 367-2012
+      format: text/plain
 - type: updates
   bibitem:
     id: ANSI-IEEE367-1987
@@ -84,26 +94,23 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
+- type: updates
   bibitem:
-    id: IEEE367-2012
+    id: ANSI-IEEE367-1987
     docid:
-    - id: IEEE 367-2012
+    - id: ANSI/IEEE 367-1987
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 367-2012
+      content: ANSI/IEEE 367-1987
       format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEE367-2012
-    docid:
-    - id: IEEE 367-2012
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 367-2012
-      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Power generation

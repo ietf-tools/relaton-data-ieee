@@ -65,6 +65,16 @@ copyright:
     url: http://www.ieee.org
   from: '1998'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: ISO-IEC-IEEE16326
+    docid:
+    - id: ISO/IEC/IEEE 16326
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ISO/IEC/IEEE 16326
+      format: text/plain
 - type: updates
   bibitem:
     id: IEEE1058.1-1987
@@ -82,16 +92,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: ISO-IEC-IEEE16326
-    docid:
-    - id: ISO/IEC/IEEE 16326
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ISO/IEC/IEEE 16326
-      format: text/plain
 keyword:
 - content: IEEE standards
 - content: management plans

@@ -49,9 +49,9 @@ script:
 - Latn
 abstract:
 - content: This amendment to IEEE Std 802.1Q-2022 as amended by IEEE Std 802.1Qcz-2023
-    and IEEE Std 802.1Qcw-2023 specifies protocols, procedures and management objects
-    for auto attachment of network devices to Provider Backbone service instances
-    using Type, Length, Value (TLVs) within the Link Layer Discovery Protocol (LLDP).
+    specifies the protocols, procedures and management objects for auto attachment
+    of network devices to Provider Backbone service instances by using Type, Length,
+    Value (TLVs) within the Link Layer Discovery Protocol (LLDP).
   language:
   - en
   script:
@@ -71,30 +71,13 @@ copyright:
 relation:
 - type: updates
   bibitem:
-    id: IEEE802.1Q-2022
+    id: IEEEP802.1Q-D-1.2-R--2022-05
     docid:
-    - id: IEEE 802.1Q-2022
+    - id: IEEE P802.1Q/D-1.2/R--2022-05
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 802.1Q-2022
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE802.1Q-2022
-    docid:
-    - id: IEEE 802.1Q-2022
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.1Q-2022
+      content: IEEE P802.1Q/D-1.2/R--2022-05
       format: text/plain
   description:
     content: amends
@@ -115,14 +98,8 @@ keyword:
 - content: local area network
 - content: MAC Bridge
 - content: metropolitan area network
-- content: MSTP
-- content: Multiple Spanning Tree Protocol
-- content: PBN
-- content: Provider Bridged Network
-- content: Rapid Spanning Tree Protocol
-- content: RSTP
 - content: Shortest Path Bridging Protocol
-- content: SPB Protocol
+- content: SPB protocol
 - content: Time-Sensitive Networking
 - content: TSN
 - content: Virtual Bridged Network
@@ -130,23 +107,20 @@ keyword:
 - content: VLAN Bridge
 - content: Provider Backbone Bridged Network
 - content: PBBN
-- content: Auto Attach
-- content: Auto Attach Protocol
+- content: auto attach
+- content: auto attach protocol
 - content: AAP
-- content: Auto Attach Backbone Edge Bridge
+- content: auto attach Backbone Edge Bridge
 - content: AAB
-- content: Auto Attach Device
-- content: AAD.
+- content: auto attach device
+- content: AAD
 doctype: standard
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society
-ics:
-- code: '35.110'
-  text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

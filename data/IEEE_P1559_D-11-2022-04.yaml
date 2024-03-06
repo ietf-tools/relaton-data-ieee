@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: IEEEP1559-D-11-2022-04
 title:
-- content: IEEE Approved Draft Standard for Inertial Systems Terminology
+- content: IEEE Draft Standard for Inertial Systems Terminology
   format: text/plain
   type: main
 link:
@@ -22,7 +22,7 @@ docid:
 docnumber: IEEE P1559/D-11-2022-04
 date:
 - type: created
-  value: '2022'
+  value: '2022-05-31'
 - type: published
   value: '2022-06-01'
 - type: issued
@@ -50,7 +50,7 @@ abstract:
     navigation, guidance, orientation, stabilization, and related applications are
     presented. Usage as understood by the inertial systems community is given preference
     over general technical usage of the terms herein. The criterion for inclusion
-    of a term and its definition in this document is the term's usefulness as related
+    of a term and its definition in this document is the term’s usefulness as related
     to inertial systems technology.
   language:
   - en
@@ -86,12 +86,47 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1559-2009
+    docid:
+    - id: IEEE 1559-2009
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1559-2009
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1559-2009
+    docid:
+    - id: IEEE 1559-2009
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1559-2009
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Inertial navigation
 - content: Terminology
 - content: Inertial sensors
 - content: Aerospace engineering
+- content: IEEE 1559
 - content: inertial systems technology
 - content: inertial systems terminology
 doctype: standard
@@ -105,7 +140,7 @@ ics:
   text: On-board equipment and instruments
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

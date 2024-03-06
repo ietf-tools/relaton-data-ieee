@@ -19,8 +19,6 @@ docid:
   primary: true
 - id: 979-8-8557-0122-7
   type: ISBN
-- id: 10.1109/IEEESTD.2023.10352399
-  type: DOI
 docnumber: IEEE 1812-2023
 date:
 - type: created
@@ -93,12 +91,41 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1812-2014
+    docid:
+    - id: IEEE 1812-2014
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1812-2014
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1812-2014
+    docid:
+    - id: IEEE 1812-2014
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1812-2014
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
-- content: IEEE Standards
-- content: Generators
-- content: Production facilities
-- content: Permanent magnets
-- content: Permanent magnet motors
 - content: IEEE 1812&#8482;
 - content: parameter determination
 - content: permanent magnet machines

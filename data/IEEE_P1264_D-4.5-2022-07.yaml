@@ -47,10 +47,10 @@ language:
 script:
 - Latn
 abstract:
-- content: This guide documents methods and designs to mitigate interruptions, equipment
-    damage and personnel safety issues resulting from animal intrusions into electric
-    power supply substations, thereby improving reliability and safety, and minimizing
-    the associated revenue loss.
+- content: Documented in this guide are methods and designs to mitigate interruptions,
+    equipment damage, and personnel safety issues resulting from animal intrusions
+    into electric power supply substations, thereby improving reliability and safety,
+    and minimizing the associated revenue loss.
   language:
   - en
   script:
@@ -102,6 +102,23 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1264-2015
+    docid:
+    - id: IEEE 1264-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1264-2015
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Animals
@@ -114,7 +131,7 @@ keyword:
 - content: damage
 - content: deterrent
 - content: fencing
-- content: IEEE 1264&#8482;-2015
+- content: IEEE 1264
 - content: insulation
 - content: intrusion
 - content: laser
@@ -129,7 +146,7 @@ keyword:
 - content: repellent
 - content: slide
 - content: survey
-- content: wire.
+- content: wire
 doctype: standard
 editorialgroup:
   committee:
@@ -139,7 +156,7 @@ ics:
   text: Power transmission and distribution lines
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

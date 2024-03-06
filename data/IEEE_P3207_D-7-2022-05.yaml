@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: IEEEP3207-D-7-2022-05
 title:
-- content: IEEE Approved Draft Standard for Blockchain-based Digital Asset Identification
+- content: IEEE Draft Standard for Blockchain-based Digital Asset Identification
   format: text/plain
   type: main
 link:
@@ -46,10 +46,10 @@ language:
 script:
 - Latn
 abstract:
-- content: This standard defines the data fields, types, and formats related to digital
-    assets to improve digital asset identification efficiency. Moreover, the definition
-    and description of methods and data structures in this standard provide guidance
-    for blockchain-based digital asset identification.
+- content: The data fields, types, and formats related to digital assets to improve
+    digital asset identification efficiency are defined by this standard. Moreover,
+    guidance for blockchain-based digital asset identification is provided by the
+    definition and description of methods and data structures in this standard.
   language:
   - en
   script:
@@ -76,15 +76,22 @@ keyword:
 - content: cryptocurrency
 - content: digital asset
 - content: FT
+- content: fungible token
+- content: IEEE 3207&#8482;
 - content: NFT
-- content: IEEE 3207
+- content: nonfungible token
 doctype: standard
 editorialgroup:
   committee:
   - Blockchain and Distributed Ledgers of the IEEE Computer Society
+ics:
+- code: '03.060'
+  text: Finances. Banking. Monetary systems. Insurance
+- code: 35.240.99
+  text: IT applications in other fields
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

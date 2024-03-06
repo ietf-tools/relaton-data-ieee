@@ -2,13 +2,13 @@
 schema-version: v1.2.3
 id: ISO-IEC
 title:
-- content: 'Iso/iec/ieee international standard--telecommunications and exchange between
-    information technology systems--requirements for local and metropolitan area networks--part
-    3: standard for ethernet amendment 10: maintenance #14: isolation'
+- content: 'IEEE/ISO/IEC International Standard--Systems and software engineering--Life
+    cycle management--Part 7000: Standard model process for addressing ethical concerns
+    during system design'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/9825490
+- content: https://ieeexplore.ieee.org/document/9967807
   type: src
 type: standard
 docid:
@@ -19,16 +19,16 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-8806-8
+- id: 978-1-5044-9220-1
   type: ISBN
-- id: 10.1109/IEEESTD.2022.9825490
+- id: 10.1109/IEEESTD.2022.9967807
   type: DOI
 docnumber: ISO/ IEC
 date:
 - type: created
-  value: '2022'
+  value: '2022-12-02'
 - type: published
-  value: '2022-07-08'
+  value: '2022-11-30'
 - type: issued
   value: '2022'
 contributor:
@@ -44,15 +44,22 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-07-08'
+revdate: '2022-11-30'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This amendment to IEEE Std 802.3-2018 replaces references to the IEC 60950
-    series of standards with appropriate references to the IEC 62368 series and makes
-    appropriate changes to the standard corresponding to the new references.
+- content: A set of processes by which organizations can include consideration of
+    ethical values throughout the stages of concept exploration and development is
+    established by this standard. Management and engineering in transparent communication
+    with selected stakeholders for ethical values elicitation and prioritization is
+    supported by this standard, involving traceability of ethical values through an
+    operational concept, value propositions, and value dispositions in the system
+    design. Processes that provide for traceability of ethical values in the concept
+    of operations, ethical requirements, and ethical risk-based design are described
+    in the standard. All sizes and types of organizations using their own life cycle
+    models are relevant to this standard.
   language:
   - en
   script:
@@ -76,40 +83,34 @@ copyright:
 relation:
 - type: adoptedFrom
   bibitem:
-    id: IEEE802.3cr-2021
+    id: IEEE7000-2021
     docid:
-    - id: IEEE 802.3cr-2021
+    - id: IEEE 7000-2021
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 802.3cr-2021
+      content: IEEE 7000-2021
       format: text/plain
 keyword:
-- content: IEEE Standards
-- content: ISO Standards
-- content: IEC Standards
-- content: Local area networks
-- content: Metropolitan area networks
-- content: Information technology
-- content: Ethernet
-- content: Maintenance engineering
-- content: Information exchange
-- content: Ethernet
-- content: IEC 60950
-- content: IEC 62368
-- content: IEEE 802.3
-- content: IEEE 802.3cr
-- content: isolation
-- content: safety
+- content: case for ethics
+- content: concept of operations
+- content: ethical value requirements
+- content: ethical values elicitation
+- content: ethically aligned design
+- content: IEEE 7000
+- content: software engineering
+- content: system engineering
+- content: value-based requirements
+- content: value prioritization
 doctype: standard
 editorialgroup:
   committee:
-  - LAN/MAN Standards Committee of the IEEE Computer Society
+  - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society
 ics:
-- code: 35.100.10
-  text: Physical layer
-- code: '35.110'
-  text: Networking
+- code: 03.100.02
+  text: Governance and ethics
+- code: 03.100.70
+  text: Management systems
 ext:
   schema-version: v1.0.0
   standard_status: Active

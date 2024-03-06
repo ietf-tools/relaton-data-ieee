@@ -132,13 +132,40 @@ relation:
     script:
     - Latn
     format: text/plain
-keyword:
-- content: IEEE Standards
-- content: ISO Standards
-- content: IEC Standards
-- content: Software engineering
-- content: Systems analysis and theory
-- content: Design methodology
+- type: updates
+  bibitem:
+    id: IEEE26514-2010
+    docid:
+    - id: IEEE 26514-2010
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 26514-2010
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE26514-2010
+    docid:
+    - id: IEEE 26514-2010
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 26514-2010
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 doctype: standard
 editorialgroup:
   committee:

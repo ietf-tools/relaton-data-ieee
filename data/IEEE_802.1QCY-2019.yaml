@@ -62,9 +62,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -101,23 +98,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE802.1Q-2018
-    docid:
-    - id: IEEE 802.1Q-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.1Q-2018
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: obsoletedBy
   bibitem:
     id: ISO-IEC-IEEE8802.1Q-Amd3-2020
@@ -128,23 +108,16 @@ relation:
     formattedref:
       content: ISO/IEC/IEEE 8802.1Q/Amd3-2020
       format: text/plain
-- type: updates
+- type: obsoletedBy
   bibitem:
-    id: IEEE802.1Q-2018
+    id: ISO-IEC-IEEE8802.1Q-Amd3-2020
     docid:
-    - id: IEEE 802.1Q-2018
+    - id: ISO/IEC/IEEE 8802.1Q/Amd3-2020
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 802.1Q-2018
+      content: ISO/IEC/IEEE 8802.1Q/Amd3-2020
       format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Local area networks
@@ -167,7 +140,6 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
-  standard_modified: Approved
+  standard_status: Superseded
   pubstatus: Active
   holdstatus: Publish

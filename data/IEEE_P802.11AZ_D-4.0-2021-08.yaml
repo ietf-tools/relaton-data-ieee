@@ -50,7 +50,7 @@ script:
 - Latn
 abstract:
 - content: This amendment defines modifications to both the IEEE 802.11 medium access
-    control layer (MAC) and physical layers (PHY). Compared to Std IEEE 802.11-2016
+    control layer (MAC) and physical layers (PHY). Compared to Std IEEE 802.11-2020
     it enables absolute and relative position estimation with higher accuracy, and
     reduces wireless medium utilization and power consumption, is scalable to dense
     deployments, and includes security features.
@@ -89,6 +89,9 @@ relation:
     - Latn
     format: text/plain
 keyword:
+- content: IEEE Standards
+- content: Timing analysis
+- content: Position measurement
 - content: Fine Timing Measurement (FTM)
 - content: positioning
 - content: ranging
@@ -102,7 +105,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

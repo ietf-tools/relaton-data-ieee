@@ -47,12 +47,12 @@ language:
 script:
 - Latn
 abstract:
-- content: This standard defines the requirements of an identity framework for metaverse.
-    This standard provides an identity framework for use across different metaverse
-    systems. Furthermore, the standard helps to recognize the relevance between real
-    world and virtual world entities. The standard covers business logic, operational
-    procedures, and authentication programs. Also, the standard defines terminologies,
-    a basic architectural framework, and key indicators.
+- content: The requirements of an identity framework for metaverse is defined in this
+    standard. An identity framework for use across different metaverse systems is
+    provided. Furthermore, the relevance between real world and virtual world entities
+    is recognized. Business logic, operational procedures, and authentication programs
+    is covered in this standard. Also, terminologies, a basic architectural framework,
+    and key indicators are defined.
   language:
   - en
   script:
@@ -73,15 +73,22 @@ keyword:
 - content: IEEE Standards
 - content: Metaverse
 - content: Software architecture
-- content: Identity; identity framework; metaverse; identity framework for metaverse.
+- content: Identity
+- content: identity framework
+- content: identity framework for metaverse
+- content: IEEE 3812.1
+- content: metaverse
 doctype: standard
 editorialgroup:
   committee:
   - Digital Finance and Economy Standards Committee of the IEEE Consumer Technology
     Society
+ics:
+- code: 35.240.95
+  text: Internet applications
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

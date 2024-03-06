@@ -75,16 +75,6 @@ copyright:
     url: http://www.ieee.org
   from: '1999'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE1100-2005
-    docid:
-    - id: IEEE 1100-2005
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1100-2005
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEE1100-1992
@@ -102,6 +92,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE1100-2005
+    docid:
+    - id: IEEE 1100-2005
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1100-2005
+      format: text/plain
 keyword:
 - content: IEEE standards
 - content: commercial applications

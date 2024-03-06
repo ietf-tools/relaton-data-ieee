@@ -73,6 +73,16 @@ copyright:
     url: http://www.ieee.org
   from: '2003'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE521-2019
+    docid:
+    - id: IEEE 521-2019
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 521-2019
+      format: text/plain
 - type: updates
   bibitem:
     id: IEEE521-1984
@@ -90,16 +100,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEE521-2019
-    docid:
-    - id: IEEE 521-2019
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 521-2019
-      format: text/plain
 keyword:
 - content: frequency
 - content: letter band

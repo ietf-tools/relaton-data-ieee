@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: IEEEP741-D-0-2021-06
 title:
-- content: IEEE Approved Draft Standard for Criteria for the Protection of Class 1E
-    Power Systems and Equipment in Nuclear Power Generating Stations
+- content: IEEE Draft Standard for Criteria for the Protection of Class 1E Power Systems
+    and Equipment in Nuclear Power Generating Stations
   format: text/plain
   type: main
 link:
@@ -23,11 +23,11 @@ docid:
 docnumber: IEEE P741/D-0-2021-06
 date:
 - type: created
-  value: '2022'
+  value: '2021'
 - type: published
   value: '2021-06-14'
 - type: issued
-  value: '2022-03-24'
+  value: '2021'
 contributor:
 - organization:
     name:
@@ -88,6 +88,23 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE741-2017
+    docid:
+    - id: IEEE 741-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 741-2017
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Electronics equipment
@@ -96,7 +113,7 @@ keyword:
 - content: Regulation
 - content: Class 1E
 - content: electrical equipment
-- content: IEEE 741
+- content: IEEE 741&#8482;
 - content: nuclear power generating stations
 - content: power systems
 - content: protection
@@ -104,12 +121,9 @@ doctype: standard
 editorialgroup:
   committee:
   - Nuclear Power Engineering of the IEEE Power and Energy Society
-ics:
-- code: 27.120.20
-  text: Nuclear power plants. Safety
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

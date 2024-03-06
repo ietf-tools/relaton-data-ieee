@@ -26,12 +26,10 @@ docid:
   type: ISBN
 docnumber: IEEE 493-2007 Redline
 date:
-- type: updated
-  value: '2011-11-07'
 - type: created
   value: '2007'
 - type: published
-  value: '2013-01-08'
+  value: '2011-10-12'
 - type: issued
   value: '2007-02-12'
 contributor:
@@ -41,9 +39,13 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
-revdate: '2013-01-08'
+revdate: '2011-10-12'
 language:
 - en
 script:
@@ -74,24 +76,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2007'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE493-1997
-    docid:
-    - id: IEEE 493-1997
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 493-1997
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Design methodology

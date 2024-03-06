@@ -24,10 +24,8 @@ docnumber: IEEE P1685/D-1-2022-04
 date:
 - type: created
   value: '2022-05-03'
-- type: published
-  value: '2022-05-04'
 - type: issued
-  value: '2022-09-21'
+  value: '2022'
 contributor:
 - organization:
     name:
@@ -41,7 +39,6 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-05-04'
 language:
 - en
 script:
@@ -53,7 +50,7 @@ abstract:
     abstractions of those buses, and details of the components including address maps,
     register and field descriptions, and file set descriptions for use in automating
     design, verification, documentation, and use flows for electronic systems. A set
-    of XML schemas of the form described by the World Wide Web Consortium (W3C(R))
+    of XML schemas of the form described by the World Wide Web Consortium (W3C&#174;)
     and a set of semantic consistency rules (SCRs) are included. A generator interface
     that is portable across tool environments is provided. The specified combination
     of methodology-independent meta-data and the tool-independent mechanism for accessing
@@ -93,23 +90,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1685-2014
-    docid:
-    - id: IEEE 1685-2014
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1685-2014
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: XML
@@ -124,7 +104,7 @@ keyword:
 - content: electronic design automation
 - content: electronic system level
 - content: ESL
-- content: IEEE 1685 implementation constraints
+- content: implementation constraints
 - content: IP-XACT
 - content: register transfer level
 - content: RTL
@@ -134,18 +114,18 @@ keyword:
 - content: tight generator interface
 - content: tool and data interoperability
 - content: use models
-- content: XML design metadata
+- content: XML design meta-data
 - content: XML schema
 doctype: standard
 editorialgroup:
   committee:
   - Design Automation of the IEEE Computer Society
 ics:
-- code: 35.240.95
-  text: Internet applications
+- code: 35.240.99
+  text: IT applications in other fields
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

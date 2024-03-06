@@ -2,12 +2,12 @@
 schema-version: v1.2.3
 id: IEEE315-1975
 title:
-- content: IEEE Standard American National Standard Canadian Standard Graphic Symbols
-    for Electrical and Electronics Diagrams (Including Reference Designation Letters)
+- content: IEEE Standard for Graphic Symbols for Electrical and Electronics Diagrams
+    (Including Reference Designation Letters)
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/985670
+- content: https://ieeexplore.ieee.org/document/8996120
   type: src
 type: standard
 docid:
@@ -20,12 +20,16 @@ docid:
   primary: true
 - id: 978-0-7381-0947-3
   type: ISBN
-- id: 10.1109/IEEESTD.1993.93397
+- id: 10.1109/IEEESTD.1975.8996120
   type: DOI
 docnumber: IEEE 315-1975
 date:
+- type: updated
+  value: '2020-06-19'
 - type: created
-  value: '1993'
+  value: '1975-12-29'
+- type: published
+  value: '2020-02-12'
 - type: issued
   value: '1975-09-04'
 contributor:
@@ -41,10 +45,23 @@ contributor:
         country: USA
   role:
   - type: publisher
+revdate: '2020-02-12'
 language:
 - en
 script:
 - Latn
+abstract:
+- content: A list of graphic symbols and class designation letters for use on electrical
+    and electronics diagrams is provided. All of the symbols are designed so that
+    their connection points fall on a modular grid, to help those who use a grid basis
+    for the preparation of diagrams. A substantial effort has been made to make this
+    standard compatible with approved International Electrotechnical Commission (IEC)
+    Recommendations (IEC Publication 117, in various parts).
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 copyright:
 - owner:
   - name:
@@ -56,8 +73,17 @@ copyright:
 keyword:
 - content: IEEE Standards
 - content: Symbols
+- content: IEC Standards
 - content: Graphics
-- content: Electrical engineering
+- content: Electronic equipment
+- content: graphic
+- content: symbols
+- content: diagrams
+- content: electrical
+- content: electronics
+- content: Y32.1
+- content: Y32.2
+- content: Z99
 doctype: standard
 editorialgroup:
   committee:

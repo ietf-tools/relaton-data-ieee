@@ -6,7 +6,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/511938
+- content: https://ieeexplore.ieee.org/document/8684617
   type: src
 type: standard
 docid:
@@ -19,12 +19,14 @@ docid:
   primary: true
 - id: 978-0-7381-0911-4
   type: ISBN
-- id: 10.1109/IEEESTD.1996.81046
+- id: 10.1109/IEEESTD.1995.8684617
   type: DOI
 docnumber: IEEE C37.102-1995
 date:
 - type: created
-  value: '1996'
+  value: '1995-11-30'
+- type: published
+  value: '2019-04-05'
 - type: issued
   value: '1995-12-12'
 contributor:
@@ -40,15 +42,17 @@ contributor:
         country: USA
   role:
   - type: publisher
+revdate: '2019-04-05'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: In this IEEE standard a review of the generally accepted forms of relay
-    protection for the synchronous generator and its excitation system is presented.
-    This guide is primarily concerned with protection against faults and abnormal
-    operating conditions for large hydraulic, steam, and combustion-turbine generators.
+- content: Superseded by IEEE Std C37.102-2006 A review of the generally accepted
+    forms of relay protection for the synchronous generator and its excitation system
+    is presented. This guide is primarily concerned with protection against faults
+    and abnormal operating conditions for large hydraulic, steam and conbustion-turbine
+    generators.
   language:
   - en
   script:
@@ -63,6 +67,23 @@ copyright:
     url: http://www.ieee.org
   from: '1996'
 relation:
+- type: updates
+  bibitem:
+    id: IEEEC37.102-1987
+    docid:
+    - id: IEEE C37.102-1987
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.102-1987
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: obsoletedBy
   bibitem:
     id: IEEEC37.102-2006
@@ -90,25 +111,11 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC37.102-1987
-    docid:
-    - id: IEEE C37.102-1987
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.102-1987
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
-- content: Synchronous generator excitation
+- content: ac generator
+- content: generator protection
+- content: relay protection
+- content: synchronous
 doctype: standard
 editorialgroup:
   committee:
