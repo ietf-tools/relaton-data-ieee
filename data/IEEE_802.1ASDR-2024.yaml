@@ -1,0 +1,121 @@
+---
+schema-version: v1.2.3
+id: IEEE802.1ASdr-2024
+title:
+- content: 'IEEE Standard for Local and Metropolitan Area Networks--Timing and Synchronization
+    for Time‐Sensitive Applications Amendment 1: Inclusive Terminology'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10460486
+  type: src
+type: standard
+docid:
+- id: IEEE 802.1ASdr-2024
+  type: IEEE
+  primary: true
+- id: IEEE 802.1ASdr®-2024
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-0539-3
+  type: ISBN
+- id: 10.1109/IEEESTD.2024.10460486
+  type: DOI
+docnumber: IEEE 802.1ASdr-2024
+date:
+- type: created
+  value: '2024'
+- type: published
+  value: '2024-03-06'
+- type: issued
+  value: '2024-02-15'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2024-03-06'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This amendment to IEEE Std 802.1AS&#8482;-2020 replaces terminology with
+    alternative terminology identified by IEEE Std 1588g&#8482;-2022. All changes
+    made in figures are only to replace terminology.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2024'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE802.1AS-2020
+    docid:
+    - id: IEEE 802.1AS-2020
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1AS-2020
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Terminology
+- content: Timing
+- content: Synchronization
+- content: amendment
+- content: best timeTransmitter
+- content: frequency offset
+- content: Grandmaster Clock
+- content: Grandmaster PTP Instance
+- content: IEEE 802.1AS&#8482;
+- content: IEEE 802.1ASdr&#8482;
+- content: phase offset
+- content: PTP End Instance
+- content: PTP Relay Instance
+- content: synchronization
+- content: syntonization
+- content: time-aware system
+doctype: standard
+editorialgroup:
+  committee:
+  - LAN/MAN Standards Committee of the IEEE Computer Society
+ics:
+- code: '35.110'
+  text: Networking
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Approved
+  pubstatus: Active
+  holdstatus: Publish
