@@ -24,7 +24,7 @@ date:
 - type: created
   value: '2023-05-26'
 - type: published
-  value: '2023-05-30'
+  value: '2023-05-29'
 - type: issued
   value: '2023'
 contributor:
@@ -40,11 +40,21 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-05-30'
+revdate: '2023-05-29'
 language:
 - en
 script:
 - Latn
+abstract:
+- content: This standard is a compilation of terminology and definitions related to
+    electric power and distribution transformers and associated apparatus. It also
+    includes similar terminology relating to power systems and insulation that is
+    commonly involved in transformer technology.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -57,6 +67,23 @@ copyright:
     url: http://www.ieee.org
   from: '2023'
 relation:
+- type: updates
+  bibitem:
+    id: IEEEC57.12.80-2010
+    docid:
+    - id: IEEE C57.12.80-2010
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C57.12.80-2010
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEEC57.12.80-2010
@@ -97,7 +124,7 @@ ics:
   text: Transformers. Reactors
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

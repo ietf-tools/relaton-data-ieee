@@ -28,7 +28,7 @@ date:
 - type: published
   value: '2021-07-28'
 - type: issued
-  value: '2021-12-08'
+  value: '2021'
 contributor:
 - organization:
     name:
@@ -50,7 +50,7 @@ script:
 abstract:
 - content: This amendment specifies YANG data models and MIB modules that allow configuration
     and status reporting for bridges and end systems with the capabilities for Frame
-    Replication and Elimination for Reliability (FRER) and Stream identification.
+    Replication and Elimination for Reliability (FRER) and stream identification.
   language:
   - en
   script:
@@ -986,26 +986,43 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.1CB-2017
+    docid:
+    - id: IEEE 802.1CB-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1CB-2017
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Local area networks
 - content: Metropolitan area networks
 - content: Data models
 - content: Management information base
-- content: Bridged Local Area Networks
-- content: Bridges
+- content: TSN
+- content: Time-Sensitive Networking
+- content: Redundancy
 - content: Bridging
-- content: Frame Elimination
+- content: Bridges
 - content: Frame Replication
-- content: IEEE 802
-- content: IEEE 802.1CB
-- content: IEEE 802.1Q
+- content: Frame Elimination
+- content: Bridged Local Area Networks
+- content: IEEE 802&#174;
+- content: IEEE 802.1Q&#8482;
+- content: IEEE 802.1CB&#8482;
 - content: local area networks (LANs)
 - content: MAC Bridges
-- content: Redundancy
-- content: Time-Sensitive Networking
-- content: TSN
-- content: Virtual Bridged Local Area Networks (virtual LANs)
+- content: Virtual Bridged Local Area Networks (virtual LANs).
 doctype: standard
 editorialgroup:
   committee:

@@ -2,12 +2,12 @@
 schema-version: v1.2.3
 id: IEEEP1667-D-14-2015
 title:
-- content: IEEE Approved Draft Standard for Discovery, Authentication, and Authorization
-    in Host Attachments of Storage Devices
+- content: IEEE Draft Standard for Discovery, Authentication, and Authorization in
+    Host Attachments of Storage Devices
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/7314840
+- content: https://ieeexplore.ieee.org/document/8734135
   type: src
 type: standard
 docid:
@@ -23,9 +23,9 @@ docid:
 docnumber: IEEE P1667/D-14-2015
 date:
 - type: created
-  value: '2016-01-11'
+  value: '2015'
 - type: published
-  value: '2015-11-02'
+  value: '2019-06-10'
 - type: issued
   value: '2015-09-03'
 contributor:
@@ -41,11 +41,21 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2015-11-02'
+revdate: '2019-06-10'
 language:
 - en
 script:
 - Latn
+abstract:
+- content: Discovery, authentication, and authorization protocols between hosts and
+    storage devices over multiple transports are defined in this standard. It specifies
+    a new Silo Type Identifier (STID) allocation process that uses the IEEE Registration
+    Authority.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -87,35 +97,34 @@ relation:
       format: text/plain
 keyword:
 - content: IEEE Standards
+- content: Storage management
 - content: Authentication
-- content: Passwords
-- content: Storage automation
-- content: Smart cards
-- content: Computer security
-- content: AUTHENTICATION
-- content: AUTHORIZATION
+- content: Authorization
+- content: authentication
+- content: authorization
 - content: CF
-- content: COMPACTFLASH
-- content: DISCOVERY
+- content: compactflash
+- content: discovery
 - content: EMMC
-- content: PASSWORD SILO
-- content: PROBE SILO
+- content: IEEE 1667(TM)
+- content: password silo
+- content: probe silo
 - content: SAS
 - content: SATA
 - content: SCSI
 - content: SCTS
-- content: SECURITY
+- content: security
 - content: SILO
-- content: SMART CARD TRANSPORT SILO
+- content: smart card transport silo
 - content: STID
-- content: STORAGE
-- content: TCG STORAGE TRANSPORT SILO
-- content: TRANSPORT INDEPENDENT
-- content: TRUSTED COMPUTING GROUP
+- content: storage
+- content: TCG storage transport silo
+- content: transport independent
+- content: trusted computing group
 - content: UAS
 - content: UFS
 - content: USB BOT
-- content: USB.
+- content: USB
 doctype: standard
 editorialgroup:
   committee:

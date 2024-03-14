@@ -11,7 +11,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/10366215
+- content: https://ieeexplore.ieee.org/document/6168178
   type: src
 type: standard
 docid:
@@ -29,7 +29,7 @@ date:
 - type: created
   value: '2011-12-09'
 - type: published
-  value: '2023-12-20'
+  value: '2013-08-15'
 - type: issued
   value: '2011-09-10'
 contributor:
@@ -45,7 +45,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-12-20'
+revdate: '2013-08-15'
 language:
 - en
 script:
@@ -79,6 +79,60 @@ copyright:
     url: http://www.ieee.org
   from: '2012'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEEP1349-D-7.0-2021-02
+    docid:
+    - id: IEEE P1349/D-7.0-2021-02
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE P1349/D-7.0-2021-02
+      format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1349-2001
+    docid:
+    - id: IEEE 1349-2001
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1349-2001
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEEP1349-D-7.0-2021-02
+    docid:
+    - id: IEEE P1349/D-7.0-2021-02
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE P1349/D-7.0-2021-02
+      format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1349-2001
+    docid:
+    - id: IEEE 1349-2001
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1349-2001
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: obsoletedBy
   bibitem:
     id: IEEEP1349-D-7.0-2021-02
@@ -480,99 +534,12 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1349-2001
-    docid:
-    - id: IEEE 1349-2001
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1349-2001
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1349-2001
-    docid:
-    - id: IEEE 1349-2001
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1349-2001
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1349-2001
-    docid:
-    - id: IEEE 1349-2001
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1349-2001
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1349-2001
-    docid:
-    - id: IEEE 1349-2001
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1349-2001
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1349-2001
-    docid:
-    - id: IEEE 1349-2001
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1349-2001
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
-- content: IEEE Standards
-- content: Variable speed drives
-- content: Ignition
+- content: IEEE standards
+- content: Electric machines
 - content: Temperature measurement
-- content: Rotors
 - content: Hazards
-- content: Synchronous motors
+- content: Variable speed drives
 - content: adjustable speed drive; autoignition temperature; Class I
 - content: Division 2; Class I
 - content: Zone 2; classified locations; enclosure sparking; hazardous locations;
@@ -582,7 +549,7 @@ keyword:
 doctype: redline
 editorialgroup:
   committee:
-  - Petroleum and Chemical Industry of the IEEE Industry Applications Society
+  - Petroleum &amp; Chemical Industry of the IEEE Industry Applications Society
 ics:
 - code: 29.160.30
   text: Motors

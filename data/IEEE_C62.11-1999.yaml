@@ -68,6 +68,16 @@ copyright:
     url: http://www.ieee.org
   from: '1999'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEEC62.11-2005
+    docid:
+    - id: IEEE C62.11-2005
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C62.11-2005
+      format: text/plain
 - type: updates
   bibitem:
     id: IEEEC62.11-1993
@@ -85,16 +95,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEEC62.11-2005
-    docid:
-    - id: IEEE C62.11-2005
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C62.11-2005
-      format: text/plain
 keyword:
 - content: IEEE standards
 - content: classifying current

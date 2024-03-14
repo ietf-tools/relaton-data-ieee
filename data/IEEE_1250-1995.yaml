@@ -6,7 +6,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8684663
+- content: https://ieeexplore.ieee.org/document/467536
   type: src
 type: standard
 docid:
@@ -19,14 +19,14 @@ docid:
   primary: true
 - id: 978-0-7381-0383-9
   type: ISBN
-- id: 10.1109/IEEESTD.1994.8684663
+- id: 10.1109/IEEESTD.1995.122634
   type: DOI
 docnumber: IEEE 1250-1995
 date:
+- type: updated
+  value: '1995-09-26'
 - type: created
-  value: '1994-11-30'
-- type: published
-  value: '2019-04-05'
+  value: '1995'
 - type: issued
   value: '1995-03-16'
 contributor:
@@ -42,7 +42,6 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2019-04-05'
 language:
 - en
 script:
@@ -52,10 +51,10 @@ abstract:
     conversion have created entirely new areas of power quality considerations. There
     is an increasing awareness that much of this new user equipment is not designed
     to withstand the surges, faults, and reclosing duty present on typical distribution
-    systems. Momentary voltage disturbances occuring in ac power distribution and
+    systems. Momentary voltage disturbances occuring in AC power distribution and
     utilization systems, their potential effects on this new, sensitive, user equipment,
     and guidance toward mitigation of these effects are described. Harmonic distortion
-    limits are also discussed.
+    limits are also discussed.<<ETX>>
   language:
   - en
   script:
@@ -80,26 +79,12 @@ relation:
     formattedref:
       content: IEEE 1250-2011
       format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEE1250-2011
-    docid:
-    - id: IEEE 1250-2011
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1250-2011
-      format: text/plain
 keyword:
-- content: surge protection
-- content: power conditioners
-- content: momentary voltage disturbances
-- content: harmonic distortion
-- content: faults
-- content: disturbance analyzers
-- content: Surges
-- content: Sensitive equipment
-- content: Noise
+- content: Power quality
+- content: Harmonic distortion
+- content: IEEE standards
+- content: Power distribution faults
+- content: Arresters
 doctype: standard
 editorialgroup:
   committee:

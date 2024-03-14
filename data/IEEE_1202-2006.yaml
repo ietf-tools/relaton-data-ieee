@@ -26,7 +26,7 @@ date:
 - type: created
   value: '2006'
 - type: published
-  value: '2006-10-09'
+  value: '2013-01-03'
 - type: issued
   value: '2006-06-08'
 contributor:
@@ -42,22 +42,25 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2006-10-09'
+revdate: '2013-01-03'
 language:
 - en
 script:
 - Latn
 abstract:
 - content: Standardization of cable flame propagation testing is beneficial to cable
-    manufacturers, distributors, and users. Uniform procedures; consistent, repeatable
-    results; and measurable test acceptance criteria are required to allow comparisons
-    among competing products and to allow selection of the correct product for the
+    manufacturers,distributors, and users. Uniform procedures; consistent, repeatable
+    results; and measurable testacceptance criteria are required to allow comparisons
+    among competing products and to allowselection of the correct product for the
     application.
   language:
   - en
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -67,6 +70,23 @@ copyright:
     url: http://www.ieee.org
   from: '2006'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE1202-1991
+    docid:
+    - id: IEEE 1202-1991
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1202-1991
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE1202-1991
@@ -319,7 +339,7 @@ keyword:
 - content: char
 - content: charring
 - content: flame propagation
-- content: test protocol
+- content: testprotocol
 - content: vertical cable tray
 - content: wire
 doctype: standard
@@ -333,7 +353,7 @@ ics:
   text: Cables
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
-  standard_modified: Reserved
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

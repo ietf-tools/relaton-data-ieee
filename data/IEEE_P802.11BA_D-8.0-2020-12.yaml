@@ -50,7 +50,8 @@ script:
 - Latn
 abstract:
 - content: This amendment defines modifications to both the IEEE 802.11 physical layer
-    (PHY) and the medium access control (MAC) sublayer for wake-up radio operation.
+    (PHY) and the IEEE 802.11 medium access control (MAC) sublayer for wake-up radio
+    operation.
   language:
   - en
   script:
@@ -93,12 +94,14 @@ keyword:
 - content: Information technology
 - content: Wireless LAN
 - content: Radio communication
-- content: wake-up radio
-- content: PHY
-- content: physical layer
+- content: IEEE 802.11
+- content: IEEE 802.11ba
 - content: MAC
 - content: medium access control
+- content: PHY
+- content: physical layer
 - content: power save
+- content: wake-up radio
 doctype: standard
 editorialgroup:
   committee:
@@ -108,7 +111,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

@@ -26,9 +26,9 @@ date:
 - type: created
   value: '2022-10-31'
 - type: published
-  value: '2022-11-02'
+  value: '2023-08-22'
 - type: issued
-  value: '2022'
+  value: '2023-06-05'
 contributor:
 - organization:
     name:
@@ -42,7 +42,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-11-02'
+revdate: '2023-08-22'
 language:
 - en
 script:
@@ -80,6 +80,40 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: ISO-IEC-IEEE
+    docid:
+    - id: ISO/IEC/ IEEE
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ISO/IEC/ IEEE
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: ISO-IEC-IEEE
+    docid:
+    - id: ISO/IEC/ IEEE
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ISO/IEC/ IEEE
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: ISO Standards
@@ -94,9 +128,11 @@ editorialgroup:
 ics:
 - code: '35.080'
   text: Software
+- code: 35.240.95
+  text: Internet applications
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

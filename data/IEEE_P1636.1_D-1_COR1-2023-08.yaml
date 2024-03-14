@@ -48,12 +48,7 @@ language:
 script:
 - Latn
 abstract:
-- content: This standard is intended to promote and facilitate interoperability between
-    components of automatic test systems where test results need to be shared. The
-    standard thus facilitates the capture of test results data in storage devices
-    and databases, facilitating online and offline analysis. The test results schema
-    becomes a class of information that can be used within the SIMICA family of standards.
-    The exchange format is expressed in both the OWL and XML formats.
+- content: Make corrections to the XML Schema files to address namespace inconsistencies
   language:
   - en
   script:
@@ -88,6 +83,74 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1636.1-2018
+    docid:
+    - id: IEEE 1636.1-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1636.1-2018
+      format: text/plain
+  description:
+    content: corrects
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1636.1-2018
+    docid:
+    - id: IEEE 1636.1-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1636.1-2018
+      format: text/plain
+  description:
+    content: corrects
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1636.1-2018
+    docid:
+    - id: IEEE 1636.1-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1636.1-2018
+      format: text/plain
+  description:
+    content: corrects
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1636.1-2018
+    docid:
+    - id: IEEE 1636.1-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1636.1-2018
+      format: text/plain
+  description:
+    content: corrects
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: XML
@@ -99,11 +162,11 @@ keyword:
 - content: Automatic testing
 - content: automated test system (ATS)
 - content: extensible markup language (XML)
-- content: IEEE 1636.1
-- content: OWL ontology
+- content: IEEE 1636.1&#8482;
+- content: test results and session information
 - content: Software Interface for Maintenance Information Collection and Analysis
     (SIMICA)
-- content: test results and session information
+- content: OWL ontology
 - content: XML schema
 doctype: standard
 editorialgroup:
@@ -116,7 +179,7 @@ ics:
   text: Languages used in information technology
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

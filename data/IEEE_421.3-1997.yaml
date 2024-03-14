@@ -7,7 +7,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8684473
+- content: https://ieeexplore.ieee.org/document/658561
   type: src
 type: standard
 docid:
@@ -20,14 +20,14 @@ docid:
   primary: true
 - id: 978-0-7381-1391-3
   type: ISBN
-- id: 10.1109/IEEESTD.1997.8684473
+- id: 10.1109/IEEESTD.1998.85954
   type: DOI
 docnumber: IEEE 421.3-1997
 date:
 - type: created
-  value: '1997-11-30'
+  value: '1998'
 - type: published
-  value: '2019-04-05'
+  value: '2016-03-30'
 - type: issued
   value: '1997-12-09'
 contributor:
@@ -43,7 +43,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2019-04-05'
+revdate: '2016-03-30'
 language:
 - en
 script:
@@ -67,16 +67,23 @@ copyright:
     url: http://www.ieee.org
   from: '1998'
 relation:
-- type: obsoletedBy
+- type: updates
   bibitem:
-    id: IEEE421.3-2016
+    id: ANSI-IEEE421B-1979
     docid:
-    - id: IEEE 421.3-2016
+    - id: ANSI/IEEE 421B-1979
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 421.3-2016
+      content: ANSI/IEEE 421B-1979
       format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: ANSI-IEEE421B-1979
@@ -104,24 +111,18 @@ relation:
     formattedref:
       content: IEEE 421.3-2016
       format: text/plain
-- type: updates
+- type: obsoletedBy
   bibitem:
-    id: ANSI-IEEE421B-1979
+    id: IEEE421.3-2016
     docid:
-    - id: ANSI/IEEE 421B-1979
+    - id: IEEE 421.3-2016
       type: IEEE
       primary: true
     formattedref:
-      content: ANSI/IEEE 421B-1979
+      content: IEEE 421.3-2016
       format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
+- content: Synchronous machines
 - content: dielectric testing
 - content: excitation systems
 - content: test voltages

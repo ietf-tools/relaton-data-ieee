@@ -2,12 +2,11 @@
 schema-version: v1.2.3
 id: IEEE802
 title:
-- content: 'IEEE 802 Nendica Report: Flexible Factory IoT: Use Cases and Communication
-    Requirements for Wired and Wireless Bridged Networks'
+- content: 'IEEE 802 Nendica Report: The Lossless Network for Data Centers'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/9068511
+- content: https://ieeexplore.ieee.org/document/8462819
   type: src
 type: standard
 docid:
@@ -18,16 +17,16 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-6229-7
+- id: 978-1-5044-5102-4
   type: ISBN
 docnumber: IEEE 802
 date:
 - type: created
-  value: '2020'
+  value: '2018-08-17'
 - type: published
-  value: '2020-04-15'
+  value: '2018-09-12'
 - type: issued
-  value: '2020'
+  value: '2018'
 contributor:
 - organization:
     name:
@@ -41,11 +40,32 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2020-04-15'
+revdate: '2018-09-12'
 language:
 - en
 script:
 - Latn
+abstract:
+- content: Modern data centers are tasked with delivering intelligent multi-media
+    responses to real-time human interactions. Massive amounts of data are being churned
+    and sifted by highly parallel applications, such as Online Data Intensive Services
+    (OLDI) and Artificial Intelligence (AI), which historically required specialized
+    High-Performance Computing (HPC) infrastructure. New advancements in high-speed
+    distributed solid-state storage, coupled with remote direct memory access (RDMA)
+    and new networking technologies to better manage congestion, are allowing these
+    parallel environments to run atop more generalized next generation cloud infrastructure.
+    Generalized cloud infrastructure is also being deployed in the telecommunication
+    operator’s central office. The key to advancing cloud infrastructure to the next
+    level is the elimination of loss in the network, not just packet loss, but throughput
+    loss and latency loss. There simply should be no loss in the data center network.
+    Congestion is the primary source of loss and in the network, congestion leads
+    to dramatic performance degradation. This paper discusses the need for new technologies
+    to combat loss in the data center network and introduces promising potential solutions.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 copyright:
 - owner:
   - name:
@@ -53,13 +73,15 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2020'
+  from: '2018'
 keyword:
-- content: '802'
-- content: bridged networks
-- content: Nendica
-- content: wireless
-- content: wired
+- content: IEEE Standards
+- content: Data centers
+- content: Artificial intelligence
+- content: Real-time systems
+- content: Next generation networking
+- content: Central office
+- content: High performance computing
 doctype: standard
 editorialgroup:
   committee:

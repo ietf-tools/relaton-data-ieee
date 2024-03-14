@@ -26,7 +26,7 @@ date:
 - type: published
   value: '2021-07-27'
 - type: issued
-  value: '2021-11-09'
+  value: '2021'
 contributor:
 - organization:
     name:
@@ -46,9 +46,9 @@ language:
 script:
 - Latn
 abstract:
-- content: Principles of power bus protection are discussed. The availability and
-    location of breakers, current sensing devices, and disconnect switches are addressed,
-    as well as bus configurations and switching schemes and their impact on the selection
+- content: This guide discusses principles of power bus protection. It addresses availability
+    and location of breakers, current sensing devices, and disconnect switches as
+    well as bus configurations and switching schemes and their impact on the selection
     and application of bus protection. Bus protection schemes are presented, and their
     characteristics, strengths, and limitations are examined. Bus protection applications
     are presented.
@@ -103,6 +103,40 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC37.234-2009
+    docid:
+    - id: IEEE C37.234-2009
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.234-2009
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC37.234-2009
+    docid:
+    - id: IEEE C37.234-2009
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.234-2009
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Voltage control
@@ -112,8 +146,7 @@ keyword:
 - content: Power system reliability
 - content: Protective relaying
 - content: Impedance
-- content: blocking zone-interlocked bus protection
-- content: breaker-and-a-half
+- content: Breaker-and-a-half
 - content: breaker failure (BF) protection
 - content: breaker substitution
 - content: buses
@@ -126,7 +159,6 @@ keyword:
 - content: dynamic bus replica
 - content: electric power substations
 - content: high-impedance differential
-- content: IEEE C37.234
 - content: main bus
 - content: partial differential
 - content: percentage-restrained differential
@@ -136,6 +168,7 @@ keyword:
 - content: stub bus
 - content: transfer bus
 - content: voltage trip supervision
+- content: blocking zone-interlocked bus protection
 doctype: standard
 editorialgroup:
   committee:

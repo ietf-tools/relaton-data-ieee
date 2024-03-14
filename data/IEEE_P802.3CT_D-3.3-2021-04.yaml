@@ -28,7 +28,7 @@ date:
 - type: published
   value: '2021-04-09'
 - type: issued
-  value: '2021'
+  value: '2021-06-16'
 contributor:
 - organization:
     name:
@@ -49,10 +49,10 @@ script:
 - Latn
 abstract:
 - content: This amendment includes changes to IEEE Std 802.3-2018 and adds Clause
-    152 through Clause 154. This amendment adds 100 Gb/s Physical Layer specifications
-    and management parameters for operation over DWDM systems using a combination
-    of phase and amplitude modulation with coherent detection for reaches of at least
-    80 km.
+    152 through Clause 154 and Annex 154A. This amendment adds 100 Gb/s Physical Layer
+    specifications and management parameters for operation over DWDM systems using
+    a combination of phase and amplitude modulation with coherent detection for reaches
+    of at least 80 km.
   language:
   - en
   script:
@@ -87,23 +87,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE802.3-2018
-    docid:
-    - id: IEEE 802.3-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.3-2018
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Local area networks
@@ -115,14 +98,15 @@ keyword:
 - content: 100 Gb/s Ethernet
 - content: 100GBASE-ZR
 - content: DP-DQPSK
-- content: Dense Wavelength Division Multiplexing (DWDM)
+- content: dense wavelength division multiplexing (DWDM)
+- content: DWDM black link
 - content: Energy-Efficient Ethernet (EEE)
 - content: Ethernet
-- content: Forward Error Correction (FEC)
-- content: IEEE 802.3&#8482;
-- content: IEEE 802.3ct&#8482;
+- content: forward error correction (FEC)
+- content: IEEE 802.3
+- content: IEEE 802.3ct
 - content: Physical Medium Dependent (PMD) sublayer
-- content: single-mode fiber (SMF).
+- content: single-mode fiber (SMF)
 doctype: standard
 editorialgroup:
   committee:

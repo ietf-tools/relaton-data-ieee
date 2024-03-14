@@ -28,7 +28,7 @@ date:
 - type: published
   value: '2022-02-01'
 - type: issued
-  value: '2022-09-21'
+  value: '2022'
 contributor:
 - organization:
     name:
@@ -48,16 +48,17 @@ language:
 script:
 - Latn
 abstract:
-- content: Super-PON optical subscriber access networks, which are in the family of
-    Ethernet passive optical networks (EPONs), are defined in this amendment to IEEE
-    Std 802.3-2022. Super-PON has a reach of up to 50 km and up to 1024 ONUs over
-    a point-to-multipoint passive optical distribution network (ODN) through wavelength
-    division multiplexing (WDM). A Super-PON ODN contains a passive wavelength router
-    that determines the channels used by the ODN. This standard specifies the Super-PON
-    Reconciliation Sublayer (RS), Physical Coding Sublayer (PCS), Physical Medium
-    Attachment (PMA) sublayer, and Physical Medium Dependent (PMD) sublayer at a MAC
-    data rate of 10 Gb/s in the downstream direction and of 10 Gb/s or 2.5 Gb/s in
-    the upstream direction.
+- content: This amendment to IEEE Std 802.3-202x extends the operation of Ethernet
+    passive optical networks (EPONs) to Super-PON optical subscriber access networks.
+    Super-PON supports an increased optical reach of up to 50 km and an expanded customer
+    coverage of up to 1024 subscribers over a point-to-multipoint passive optical
+    distribution network (ODN) through wavelength division multiplexing (WDM). The
+    defining element of a Super-PON optical distribution network (ODN) is the presence
+    of a passive wavelength router that determines the channels supported by the ODN.
+    This standard specifies the Super-PON Reconciliation Sublayer (RS), Physical Coding
+    Sublayer (PCS), Physical Media Attachment (PMA) sublayer, and Physical Medium
+    Dependent (PMD) sublayer at a MAC data rate of 10 Gb/s in the downstream direction
+    and of 10 Gb/s or 2.5 Gb/s in the upstream direction.
   language:
   - en
   script:
@@ -75,40 +76,6 @@ copyright:
     url: http://www.ieee.org
   from: '2022'
 relation:
-- type: updates
-  bibitem:
-    id: IEEE802.3-2022
-    docid:
-    - id: IEEE 802.3-2022
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.3-2022
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE802.3-2018
-    docid:
-    - id: IEEE 802.3-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.3-2018
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: updates
   bibitem:
     id: IEEE802.3-2018
@@ -132,18 +99,17 @@ keyword:
 - content: Optical fiber communication
 - content: Physical layer
 - content: Media Access Protocol
-- content: amendment
-- content: IEEE 802.3
-- content: IEEE 802.3cs
-- content: Multipoint MAC Control (MPMC)
-- content: Optical Distribution Network (ODN)
-- content: Passive Optical Network (PON)
-- content: Physical Coding Sublayer (PCS)
-- content: Physical Medium Attachment (PMA)
-- content: Physical Medium Dependent (PMD)
-- content: Point-to- Multipoint (P2MP)
-- content: Reconciliation Sublayer (RS)
 - content: Super-PON
+- content: IEEE 802.3&#8482;
+- content: IEEE 802.3cs&#8482;
+- content: Optical Distribution Network (ODN)
+- content: Multipoint MAC Control (MPMC)
+- content: Reconciliation Sublayer (RS)
+- content: Physical Coding Sublayer (PCS)
+- content: Physical Media Attachment (PMA)
+- content: Physical Medium Dependent (PMD)
+- content: Passive Optical Network (PON)
+- content: Point-to-Multipoint (P2MP).
 doctype: standard
 editorialgroup:
   committee:
@@ -155,7 +121,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

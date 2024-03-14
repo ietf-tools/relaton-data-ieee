@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2021-11-18'
 - type: issued
-  value: '2022-11-08'
+  value: '2021'
 contributor:
 - organization:
     name:
@@ -47,11 +47,11 @@ language:
 script:
 - Latn
 abstract:
-- content: Guidance for technical requirements for the design, fabrication, testing,
-    and installation of indoor gas-insulated substations (GIS) 1 kV up to 52 kV is
-    provided in this standard. Parameters to be supplied by the purchaser are suggested
-    and technical requirements for the design, fabrication, testing, and installations
-    to be furnished by the manufacturer are established.
+- content: A guide to the technical requirements for the design, fabrication, testing,
+    and installation of indoor gas-insulated substations (GIS) 1 kV up to 52 kV are
+    covered. Parameters to be supplied by the purchaser are suggested and technical
+    requirements for the design, fabrication, testing, and installations to be furnished
+    by the manufacturer are established.
   language:
   - en
   script:
@@ -86,18 +86,72 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC37.122.2-2011
+    docid:
+    - id: IEEE C37.122.2-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.122.2-2011
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC37.122.2-2011
+    docid:
+    - id: IEEE C37.122.2-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.122.2-2011
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC37.122.2-2011
+    docid:
+    - id: IEEE C37.122.2-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.122.2-2011
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Gas insulation
 - content: Substations
+- content: IEEE C37.20.9; IEEE Standard for Metal-Enclosed Switchgear Rated 1 kV to
+    52 kV Incorporating Gas Insulating Systems
+- content: IEEE C37.122.2;IEEE Guide for the Application of Gas-Insulated Substations
+    Rated 1 kV to 52 kV
 - content: gas-insulated substation
 - content: GIS
 - content: GIS design
 - content: GIS equipment
 - content: GIS installation
 - content: GIS testing
-- content: IEEE C37.20.9
-- content: SF
+- content: SF6
 - content: sulfur hexafluoride
 doctype: standard
 editorialgroup:
@@ -108,7 +162,7 @@ ics:
   text: Power stations in general
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

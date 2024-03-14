@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2023-02-02'
 - type: issued
-  value: '2023'
+  value: '2023-09-21'
 contributor:
 - organization:
     name:
@@ -89,6 +89,23 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC57.163-2015
+    docid:
+    - id: IEEE C57.163-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C57.163-2015
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Power transformers
@@ -97,16 +114,18 @@ keyword:
 - content: Thermal management
 - content: core saturation
 - content: design review
-- content: geomagnetically induced current (GIC)
+- content: geomagnetic disturbances
+- content: geomagnetically induced current
 - content: geomagnetically induced current signature
-- content: geomagnetic disturbances (GMD)
+- content: GIC
+- content: GMD
 - content: IEEE C57.163&#8482;
 - content: magnetic
 - content: monitoring
+- content: power transformers
 - content: temperature gradient
 - content: testing
 - content: thermal
-- content: power transformers
 doctype: standard
 editorialgroup:
   committee:

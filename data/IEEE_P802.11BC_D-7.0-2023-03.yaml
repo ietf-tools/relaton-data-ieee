@@ -49,10 +49,10 @@ language:
 script:
 - Latn
 abstract:
-- content: This amendment defines modifications to the IEEE 802.11 medium access control
-    layer (MAC) for the enhanced transmission and reception of broadcast content,
-    both while associated with an infrastructure BSS and while not associated with
-    an infrastructure BSS
+- content: Modifications to the IEEE 802.11 medium access control layer (MAC) for
+    the enhanced transmission and reception of broadcast content, both while associated
+    with an infrastructure basic service set (BSS) and while not associated with an
+    infrastructure BSS, are defined in this amendment.
   language:
   - en
   script:
@@ -96,6 +96,9 @@ keyword:
 - content: Information exchange
 - content: Broadcasting
 - content: Enhanced Broadcast Services (EBCS)
+- content: IEEE 802&#174;
+- content: IEEE 802.11&#8482;
+- content: IEEE 802.11bc&#8482;
 doctype: standard
 editorialgroup:
   committee:
@@ -105,7 +108,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

@@ -46,6 +46,16 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: Terms critical to the use of fiber optic DAS interrogators along with key
+    definitions of performance parameters used to both fully describe a fiber optic
+    DAS based sensor system and readily compare systems from different suppliers are
+    defined and explained in this standard.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -62,13 +72,27 @@ keyword:
 - content: Optical fiber communication
 - content: Acoustic sensing
 - content: Terminology
+- content: amplitude
+- content: distributed acoustic sensors
+- content: fiber optic sensors
+- content: frequency
+- content: IEEE 3101&#8482;
+- content: interrogators
+- content: phase
+- content: spatial Interval
+- content: spatial resolution
 doctype: standard
 editorialgroup:
   committee:
   - Standards Committee of the IEEE Photonics Society
+ics:
+- code: 01.040.33
+  text: Telecommunications. Audio and video engineering (Vocabularies)
+- code: 33.180.99
+  text: Other fibre optic equipment
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

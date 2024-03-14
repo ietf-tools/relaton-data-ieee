@@ -46,13 +46,13 @@ language:
 script:
 - Latn
 abstract:
-- content: This standard defines a data model for describing, referencing, and sharing
-    competency definitions and frameworks of competency definitions, in the context
-    of online and distributed learning and in employment and work. This standard provides
-    a way to formally represent the key characteristics of a competency definition,
-    independently of its use in any particular context. It enables interoperability
-    among learning systems that deal with competency information by providing a means
-    for them to refer to common definitions with common meanings.
+- content: Defined in this standard are a data model for describing, referencing,
+    and sharing competency definitions, and frameworks of competency definitions and
+    rubrics in the context of online and distributed learning and in employment and
+    work. This standard provides a way to formally represent the key characteristics
+    of a competency definition, independently of its use in any particular context.
+    It enables interoperability among learning systems that deal with competency information
+    by providing a means for them to refer to common definitions with common meanings.
   language:
   - en
   script:
@@ -84,9 +84,12 @@ doctype: standard
 editorialgroup:
   committee:
   - Learning Technology of the IEEE Computer Society
+ics:
+- code: 35.240.90
+  text: IT applications in education
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

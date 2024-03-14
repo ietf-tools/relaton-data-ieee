@@ -6,7 +6,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8638365
+- content: https://ieeexplore.ieee.org/document/705931
   type: src
 type: standard
 docid:
@@ -19,14 +19,12 @@ docid:
   primary: true
 - id: 978-0-7381-0580-2
   type: ISBN
-- id: 10.1109/IEEESTD.1997.8638365
+- id: 10.1109/IEEESTD.1998.87897
   type: DOI
 docnumber: IEEE 211-1997
 date:
 - type: created
-  value: '1997-11-30'
-- type: published
-  value: '2019-02-08'
+  value: '1998'
 - type: issued
   value: '1997-12-09'
 contributor:
@@ -42,7 +40,6 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2019-02-08'
 language:
 - en
 script:
@@ -93,6 +90,23 @@ relation:
     formattedref:
       content: IEEE 211-2018
       format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE211-1990
+    docid:
+    - id: IEEE 211-1990
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 211-1990
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: obsoletedBy
   bibitem:
     id: IEEE211-2018
@@ -104,13 +118,7 @@ relation:
       content: IEEE 211-2018
       format: text/plain
 keyword:
-- content: IEEE Standards
-- content: Electromagnetic propagation
-- content: Antennas
-- content: Telecommunications
-- content: Remote sensing
-- content: electromagnetic wave propagation
-- content: terminology
+- content: IEEE standards
 doctype: standard
 editorialgroup:
   committee:

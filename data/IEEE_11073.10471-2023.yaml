@@ -28,7 +28,7 @@ date:
 - type: created
   value: '2023'
 - type: published
-  value: '2023-06-21'
+  value: '2023-06-20'
 - type: issued
   value: '2023-03-30'
 contributor:
@@ -44,7 +44,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-06-21'
+revdate: '2023-06-20'
 language:
 - en
 script:
@@ -95,6 +95,40 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE11073.10471-2008
+    docid:
+    - id: IEEE 11073.10471-2008
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 11073.10471-2008
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE11073.10471-2008
+    docid:
+    - id: IEEE 11073.10471-2008
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 11073.10471-2008
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Medical devices
@@ -114,8 +148,6 @@ editorialgroup:
 ics:
 - code: 35.240.80
   text: IT applications in health care technology
-- code: 11.040.55
-  text: Diagnostic equipment
 ext:
   schema-version: v1.0.0
   standard_status: Active

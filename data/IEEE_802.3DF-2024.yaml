@@ -1,0 +1,126 @@
+---
+schema-version: v1.2.3
+id: IEEE802.3df-2024
+title:
+- content: 'IEEE Standard for Ethernet Amendment 9: Media Access Control Parameters
+    for 800 Gb/s and Physical Layers and Management Parameters for 400 Gb/s and 800
+    Gb/s Operation'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10472445
+  type: src
+type: standard
+docid:
+- id: IEEE 802.3df-2024
+  type: IEEE
+  primary: true
+- id: IEEE 802.3df®-2024
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-0541-6
+  type: ISBN
+- id: 10.1109/IEEESTD.2024.10472445
+  type: DOI
+docnumber: IEEE 802.3df-2024
+date:
+- type: created
+  value: '2024'
+- type: published
+  value: '2024-03-13'
+- type: issued
+  value: '2024-02-15'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2024-03-13'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'This amendment includes changes to IEEE Std 802.3-2022 and adds Clause
+    169 through Clause 173, Annex 172A, and Annex 173A. This amendment adds MAC parameters,
+    Physical Layers, and management parameters for the transfer of IEEE 802.3 format
+    frames at 400 Gb/s and 800 Gb/s. Additional files can be found here: https://standards.ieee.org/wp-content/uploads/2024/03/802.3df-2024_downloads.zip'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2024'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE802.3-2022
+    docid:
+    - id: IEEE 802.3-2022
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3-2022
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: 800GAUI-8
+- content: 800GBASE-CR8
+- content: 400GBASE-DR4-2
+- content: 800GBASE-DR8
+- content: 800GBASE-DR8-2
+- content: 800GBASE-KR8
+- content: 800GBASE-R
+- content: 800GBASE-SR8
+- content: 800GBASE-VR8
+- content: 800 Gigabit Ethernet
+- content: 800GMII
+- content: 800GXS
+- content: amendment
+- content: FEC
+- content: IEEE 802.3&#8482;
+- content: IEEE 802.3df&#8482;
+- content: PCS
+- content: Physical Coding Sublayer
+- content: PMD
+- content: Physical Medium Attachment
+doctype: standard
+editorialgroup:
+  committee:
+  - LAN/MAN Standards Committee of the IEEE Computer Society
+ics:
+- code: 35.100.10
+  text: Physical layer
+- code: '35.110'
+  text: Networking
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Approved
+  pubstatus: Active
+  holdstatus: Publish

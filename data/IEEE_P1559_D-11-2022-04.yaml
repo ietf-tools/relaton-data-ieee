@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: IEEEP1559-D-11-2022-04
 title:
-- content: IEEE Draft Standard for Inertial Systems Terminology
+- content: IEEE Approved Draft Standard for Inertial Systems Terminology
   format: text/plain
   type: main
 link:
@@ -22,7 +22,7 @@ docid:
 docnumber: IEEE P1559/D-11-2022-04
 date:
 - type: created
-  value: '2022-05-31'
+  value: '2022'
 - type: published
   value: '2022-06-01'
 - type: issued
@@ -69,6 +69,40 @@ copyright:
     url: http://www.ieee.org
   from: '2022'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE1559-2009
+    docid:
+    - id: IEEE 1559-2009
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1559-2009
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1559-2009
+    docid:
+    - id: IEEE 1559-2009
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1559-2009
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE1559-2009

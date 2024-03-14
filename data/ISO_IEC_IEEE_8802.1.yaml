@@ -2,13 +2,13 @@
 schema-version: v1.2.3
 id: ISO-IEC-IEEE8802.1
 title:
-- content: 'ISO/IEC/IEEE International Standard - Information technology — Telecommunications
-    and information exchange between systems — Local and metropolitan area networks
-    — Specific requirements — Part 1BA: Audio video bridging (AVB) systems'
+- content: ISO/IEC/IEEE International Standard - Information technology - Telecommunications
+    and information exchange between systems - Local and metropolitan area networks
+    - Specific requirements Part 1AX--Link Aggregation
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/7731263
+- content: https://ieeexplore.ieee.org/document/7393432
   type: src
 type: standard
 docid:
@@ -19,16 +19,16 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-2443-1
+- id: 978-1-5044-0672-7
   type: ISBN
-- id: 10.1109/IEEESTD.2016.7731263
+- id: 10.1109/IEEESTD.2016.7393432
   type: DOI
 docnumber: ISO/IEC/IEEE 8802.1
 date:
 - type: created
-  value: '2016-10-31'
+  value: '2016-02-01'
 - type: published
-  value: '2016-11-02'
+  value: '2016-01-26'
 - type: issued
   value: '2016'
 contributor:
@@ -44,16 +44,17 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2016-11-02'
+revdate: '2016-01-26'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Profiles that select features, options, configurations, defaults, protocols
-    and procedures of bridges, stations and LANs that are necessary to build networks
-    that are capable of transporting time-sensitive audio and/or video data streams
-    are defined in this standard.
+- content: MAC-independent Link Aggregation capability and general information relevant
+    to specific MAC types are defined in this standard. Link Aggregation allows parallel
+    full-duplex point-to-point links to be used as if they were a single link and
+    also supports the use of multiple links as a resilient load sharing interconnect
+    between multiple nodes in two separately administered networks.
   language:
   - en
   script:
@@ -74,6 +75,16 @@ copyright:
 relation:
 - type: adoptedFrom
   bibitem:
+    id: IEEE802.1AX-2014
+    docid:
+    - id: IEEE 802.1AX-2014
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1AX-2014
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
     id: IEEE802.1BA-2011
     docid:
     - id: IEEE 802.1BA-2011
@@ -84,13 +95,43 @@ relation:
       format: text/plain
 - type: adoptedFrom
   bibitem:
-    id: IEEE802.1AX-2014
+    id: IEEE802.1BA-2011
     docid:
-    - id: IEEE 802.1AX-2014
+    - id: IEEE 802.1BA-2011
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 802.1AX-2014
+      content: IEEE 802.1BA-2011
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.1
+    docid:
+    - id: IEEE 802.1
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.1
+    docid:
+    - id: IEEE 802.1
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.1
+    docid:
+    - id: IEEE 802.1
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1
       format: text/plain
 - type: adoptedFrom
   bibitem:
@@ -106,24 +147,24 @@ keyword:
 - content: IEEE Standards
 - content: ISO Standards
 - content: IEC Standards
+- content: Resilient networks
+- content: Aggregatorsa
+- content: Link aggregators
 - content: Local area networks
-- content: Metropolitan area networks
-- content: Information exchange
-- content: Bridge circuits
-- content: Time measurement
-- content: Sensitivity analysis
-- content: audio video bridging
-- content: AVB
-- content: Bridged Local Area Networks
-- content: IEEE 802.1BA
-- content: LANs
-- content: local area networks
-- content: MAC Bridges
-- content: MANs
-- content: metropolitan area networks
-- content: time sensitive data streams
-- content: Virtual Bridged Local Area Networks
-- content: virtual LANs
+- content: Telecommunication network management
+- content: Aggregated Link
+- content: Aggregator
+- content: Distributed Resilient Network Interconnect
+- content: DRNI
+- content: IEEE 802(R)
+- content: IEEE 802.1AX(TM)
+- content: interconnect
+- content: Link Aggregation
+- content: Link Aggregation Group
+- content: local area network
+- content: management
+- content: Network-Network Interface
+- content: NNI
 doctype: standard
 editorialgroup:
   committee:

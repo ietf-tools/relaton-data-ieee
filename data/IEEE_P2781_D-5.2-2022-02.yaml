@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: IEEEP2781-D-5.2-2022-02
 title:
-- content: IEEE Approved Draft Guide for Load Modeling and Simulations for Power Systems
+- content: IEEE Draft Guide for Load Modeling and Simulations for Power Systems
   format: text/plain
   type: main
 link:
@@ -26,7 +26,7 @@ date:
 - type: published
   value: '2022-02-28'
 - type: issued
-  value: '2022-05-13'
+  value: '2022'
 contributor:
 - organization:
     name:
@@ -46,19 +46,18 @@ language:
 script:
 - Latn
 abstract:
-- content: Load modeling plays an important role in power system modeling, and the
-    load model is an indispensable component in power system simulation. To get accurate
-    load models and formulate a unified document, this guide has been developed to
-    provide comprehensive policies and procedures of load modeling and simulations.
-    A review and comparison of the two most widely used methodologies for load modeling
-    is presented in this document, that is, the measurement based and component-based
-    approaches. A critical and updated overview of opportunities and challenges of
-    load modeling with emerging networks and components is also provided. The guidelines
+- content: Load modeling plays a very important role in power system modeling, and
+    the load model is an indispensable component in power system simulation. To get
+    accurate load models and formulate a unified document, this standard is developed
+    to provide comprehensive policies and procedures of load modeling and simulations.
+    A review and comparison of two existing most widely used methodologies for load
+    modeling is presented in this document, that is, the measurement-based and component-based
+    approach. A critical and updated overview of opportunities and challenges of load
+    modelling with emerging networks and components is also provided. The guidelines
     for power system simulation with a variety of load models are proposed. A case
     study adhering to the proposed guidelines clearly indicates the need for a hybrid
-    approach in the future that will combine the strengths of the measurement-based
-    and component-based approaches with the data acquisition capabilities offered
-    by modern measurement equipment.
+    approach in the future that will combine strengths of measurement-based and component-based
+    approaches with data acquisition capabilities offered by modern measurement equipment.
   language:
   - en
   script:
@@ -81,28 +80,22 @@ keyword:
 - content: Power systems distribution
 - content: Power system measurement
 - content: Microgrids
-- content: active distribution network
-- content: component-based approach
-- content: dynamic load model
-- content: IEEE 2781
 - content: load modeling
-- content: measurement-based approach
-- content: microgrids
 - content: power system simulations
-- content: simulation
 - content: static load model
+- content: dynamic load model
+- content: component based approach
+- content: measurement-based approach
+- content: Active Distribution Network
+- content: Micro Grids
+- content: simulation
 doctype: standard
 editorialgroup:
   committee:
   - Smart Buildings, Loads and Customer Systems of the IEEE Power and Energy Society
-ics:
-- code: 29.240.99
-  text: Other equipment related to power transmission and distribution networks
-- code: 35.240.99
-  text: IT applications in other fields
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

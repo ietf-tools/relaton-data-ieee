@@ -28,7 +28,7 @@ date:
 - type: created
   value: '2023'
 - type: published
-  value: '2023-07-19'
+  value: '2023-07-18'
 - type: issued
   value: '2023-06-05'
 contributor:
@@ -44,7 +44,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-07-19'
+revdate: '2023-07-18'
 language:
 - en
 script:
@@ -82,23 +82,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: ISO-IEC-IEEE
-    docid:
-    - id: ISO/IEC/ IEEE
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ISO/IEC/ IEEE
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: IEC Standards
@@ -114,6 +97,8 @@ editorialgroup:
 ics:
 - code: '35.080'
   text: Software
+- code: 35.240.95
+  text: Internet applications
 ext:
   schema-version: v1.0.0
   standard_status: Active

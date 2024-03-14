@@ -2,11 +2,11 @@
 schema-version: v1.2.3
 id: ANSI-IEEE4-1978
 title:
-- content: IEEE Standard Techniques for High Voltage Testing
+- content: IEEE Standard Techniques for High-Voltage Testing
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8684553
+- content: https://ieeexplore.ieee.org/document/18456
   type: src
 type: standard
 docid:
@@ -19,14 +19,12 @@ docid:
   primary: true
 - id: 978-0-7381-4204-3
   type: ISBN
-- id: 10.1109/IEEESTD.1977.8684553
+- id: 10.1109/IEEESTD.1978.119190
   type: DOI
 docnumber: ANSI/IEEE 4-1978
 date:
 - type: created
-  value: '1977-11-30'
-- type: published
-  value: '2019-04-05'
+  value: '1978'
 - type: issued
   value: '1978-01-01'
 contributor:
@@ -42,20 +40,19 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2019-04-05'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Standard methods of measurement of high voltage and basic techniques for
-    dielectrics, so far as they are generally applicable to all types of apparatus,
-    for alternating voltages, direct voltages, lightning impulse voltages, switching
-    impulse voltages, and impulse currents are established. General definitions and
-    test requirements are provided, and test procedures and measuring devices are
-    described. A measuring devices application guide and recommendations for voltage
-    measurements by means of sphere gaps are included. The contents are based on and
-    adhere very closely to IEC high- voltage test techniques documents.
+- content: This IEEE standard establishes standard methods of measurement of HV and
+    basic testing techniques for application to all types of apparatus. The first
+    section defines terms and presents general requirements regarding tests. Section
+    2 defines terms relating to the specific tests and describes methods for generation
+    and measurement of voltages and currents. Section 3 provides definitions of terms
+    related to the measurements. Section 4 provides information on measuring systems.
+    Finally section 5 looks at the use of the sphere gap for the measurement of peak
+    value.<<ETX>>
   language:
   - en
   script:
@@ -91,10 +88,10 @@ relation:
       content: IEEE 4-1995
       format: text/plain
 keyword:
-- content: high
-- content: voltage
-- content: testing
-- content: techniques
+- content: Current measurement
+- content: Standards
+- content: Testing
+- content: Voltage measurement
 doctype: standard
 editorialgroup:
   committee:

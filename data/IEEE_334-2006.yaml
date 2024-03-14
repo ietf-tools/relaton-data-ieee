@@ -27,7 +27,7 @@ date:
 - type: created
   value: '2007-01-31'
 - type: published
-  value: '2007-02-05'
+  value: '2012-05-22'
 - type: issued
   value: '2006-09-15'
 contributor:
@@ -43,7 +43,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2007-02-05'
+revdate: '2012-05-22'
 language:
 - en
 script:
@@ -65,6 +65,9 @@ abstract:
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -74,6 +77,23 @@ copyright:
     url: http://www.ieee.org
   from: '2007'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE334-1994
+    docid:
+    - id: IEEE 334-1994
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 334-1994
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE334-1994
@@ -370,7 +390,7 @@ ics:
   text: Nuclear power plants. Safety
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
-  standard_modified: Reserved
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

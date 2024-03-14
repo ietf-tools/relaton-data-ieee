@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: IEEEP516.2021-Cor1.1-D-2-2022-11
 title:
-- content: IEEE Draft Guide for Maintenance Methods on Energized Power Lines - Corrigendum
-    1.1
+- content: IEEE Approved Draft Guide for Maintenance Methods on Energized Power Lines
+    - Corrigendum 1.1
   format: text/plain
   type: main
 link:
@@ -23,11 +23,11 @@ docid:
 docnumber: IEEE P516.2021/D-2-2022-11
 date:
 - type: created
-  value: '2022-11-16'
+  value: '2023'
 - type: published
-  value: '2022-11-18'
+  value: '2022-11-17'
 - type: issued
-  value: '2022'
+  value: '2023-03-30'
 contributor:
 - organization:
     name:
@@ -41,14 +41,14 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-11-18'
+revdate: '2022-11-17'
 language:
 - en
 script:
 - Latn
 abstract:
 - content: This corrigendum provides corrections to typographical errors in two equations
-    of 516-2021.
+    from 516-2021.
   language:
   - en
   script:
@@ -83,10 +83,84 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE516-2021
+    docid:
+    - id: IEEE 516-2021
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 516-2021
+      format: text/plain
+  description:
+    content: corrects
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE516-2021
+    docid:
+    - id: IEEE 516-2021
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 516-2021
+      format: text/plain
+  description:
+    content: corrects
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE516-2021
+    docid:
+    - id: IEEE 516-2021
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 516-2021
+      format: text/plain
+  description:
+    content: corrects
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE516-2021
+    docid:
+    - id: IEEE 516-2021
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 516-2021
+      format: text/plain
+  description:
+    content: corrects
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Maintenance engineering
 - content: Power transmission lines
+- content: energized
+- content: equipment
+- content: IEEE 516&#8482;
+- content: maintenance
+- content: power lines
+- content: tools
 doctype: standard
 editorialgroup:
   committee:
@@ -96,7 +170,7 @@ ics:
   text: Power transmission and distribution lines
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

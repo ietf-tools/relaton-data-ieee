@@ -2,12 +2,13 @@
 schema-version: v1.2.3
 id: IEEE1671.1-2009
 title:
-- content: 'IEEE Standard for Automatic Test Markup Language (ATML) for Exchanging
-    Automatic Test Equipment and Test Information via XML: Exchanging Test Descriptions'
+- content: 'IEEE Trial-Use Standard for Automatic Test Markup Language (ATML) for
+    Exchanging Automatic Test Equipment and Test Information via XML: Exchanging Test
+    Descriptions'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/6781521
+- content: https://ieeexplore.ieee.org/document/5353117
   type: src
 type: standard
 docid:
@@ -18,16 +19,18 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-0-7381-8152-3
+- id: 978-0-7381-6066-5
   type: ISBN
-- id: 10.1109/IEEESTD.2009.6781521
+- id: 10.1109/IEEESTD.2009.5353117
   type: DOI
 docnumber: IEEE 1671.1-2009
 date:
+- type: updated
+  value: '2010-01-08'
 - type: created
   value: '2009-12-11'
 - type: published
-  value: '2014-04-01'
+  value: '2014-03-25'
 - type: issued
   value: '2009-09-11'
 contributor:
@@ -37,23 +40,19 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-    contact:
-    - address:
-        city: New York
-        country: USA
   role:
   - type: publisher
-revdate: '2014-04-01'
+revdate: '2014-03-25'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This document specifies an exchange format, using the extensible Markup
-    Language (XML), for exchanging the test description information defining test
+- content: This document specifies an exchange format, using the extensible markup
+    language (XML), for exchanging the test description information defining test
     performance, test conditions, diagnostic requirements, and support equipment to
-    locate, align, and verify the proper operation of a Unit Under Test (UUT). This
-    is in support of the development of Test Program Sets (TPSs) that will be used
+    locate, align, and verify the proper operation of a unit under test (UUT). This
+    is in support of the development of test program sets (TPSs) that will be used
     in an automatic test environment.
   language:
   - en
@@ -67,7 +66,7 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2013'
+  from: '2009'
 relation:
 - type: obsoletedBy
   bibitem:
@@ -79,23 +78,13 @@ relation:
     formattedref:
       content: EEE 1671.1-2017
       format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: EEE1671.1-2017
-    docid:
-    - id: EEE 1671.1-2017
-      type: IEEE
-      primary: true
-    formattedref:
-      content: EEE 1671.1-2017
-      format: text/plain
 keyword:
-- content: IEEE standards
-- content: Markup languages
+- content: IEEE Standards
 - content: XML
+- content: Trademarks
+- content: Patents
 - content: Automatic test equipment
-- content: Testing
-- content: Test requirements
+- content: Warranties
 - content: 1671.1-2009
 - content: automatic test equipment (ATE)
 - content: Automatic Test Markup Language (ATML)

@@ -46,6 +46,14 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: This corrigendum provides corrections to references, figures, processes,
+    tables, and ASN.1 modules from 1609.2.1-2022.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -75,10 +83,35 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1609.2.1-2022
+    docid:
+    - id: IEEE 1609.2.1-2022
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1609.2.1-2022
+      format: text/plain
+  description:
+    content: corrects
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Vehicular ad hoc networks
 - content: Intelligent transportation systems
+- content: authorization
+- content: certificate
+- content: end entity
+- content: enrollment
+- content: IEEE 1609&#8482;
+- content: IEEE 1609.2.1&#8482;
+- content: interface
+- content: Security Credential Management System (SCMS)
 doctype: standard
 editorialgroup:
   committee:
@@ -88,7 +121,7 @@ ics:
   text: IT applications in transport
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

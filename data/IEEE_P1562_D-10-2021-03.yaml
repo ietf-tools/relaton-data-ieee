@@ -47,14 +47,14 @@ language:
 script:
 - Latn
 abstract:
-- content: This recommended practice provides information to assist 1 in sizing the
-    array and battery of a stand-alone photovoltaic system. Systems considered in
-    this recommended practice consist of PV as the only power source and a battery
+- content: Provided in this recommended practice is information to assist in sizing
+    the array and battery of a stand-alone photovoltaic (PV) system. Systems considered
+    in this recommended practice consist of PV as the only power source and a battery
     for energy storage. These systems also commonly employ controls to protect the
-    battery from being over- or undercharged, and may employ a power conversion subsystem
+    battery from being over- or under-charged and may employ a power conversion subsystem
     (inverter or converter). This recommended practice is applicable to all stand-alone
     PV systems where PV is the only charging source. This recommended practice does
-    not include PV hybrid systems nor grid connected systems. This recommended practice
+    not include PV hybrid systems nor grid-connected systems. This recommended practice
     covers lead-acid batteries only; nickel-cadmium and other battery types are not
     included. This recommended practice does not include the sizing of the system
     controller, inverter, wiring, or other system components.
@@ -92,23 +92,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1562-2007
-    docid:
-    - id: IEEE 1562-2007
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1562-2007
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Energy storage
@@ -118,9 +101,11 @@ keyword:
 - content: Photovoltaic systems
 - content: Lead acid batteries
 - content: Control systems
-- content: PV Systems
-- content: Distributed Energy Resources
-- content: Energy Storage
+- content: distributed energy resources
+- content: energy storage
+- content: IEEE Std1562
+- content: photovoltaic systems
+- content: PV systems
 doctype: standard
 editorialgroup:
   committee:
@@ -130,7 +115,7 @@ ics:
   text: Solar energy engineering
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold
