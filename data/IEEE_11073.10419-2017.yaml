@@ -27,7 +27,7 @@ date:
 - type: created
   value: '2018-01-25'
 - type: published
-  value: '2018-01-19'
+  value: '2018-01-22'
 - type: issued
   value: '2017-09-28'
 contributor:
@@ -43,7 +43,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2018-01-19'
+revdate: '2018-01-22'
 language:
 - en
 script:
@@ -65,9 +65,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -76,6 +73,34 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2017'
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE11073.10419-2023
+    docid:
+    - id: IEEE 11073.10419-2023
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 11073.10419-2023
+      format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE11073.10419-2015
+    docid:
+    - id: IEEE 11073.10419-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 11073.10419-2015
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Medical devices
@@ -84,7 +109,7 @@ keyword:
 - content: Insulin
 - content: Diabetes
 - content: Pumps
-- content: IEEE 11073-10419(TM)
+- content: IEEE 11073-10419
 - content: insulin pump
 - content: medical device communication
 - content: personal health devices
@@ -98,7 +123,6 @@ ics:
   text: IT applications in health care technology
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Superseded
   pubstatus: Active
   holdstatus: Publish
