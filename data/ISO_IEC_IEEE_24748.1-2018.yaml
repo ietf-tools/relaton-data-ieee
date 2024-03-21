@@ -24,8 +24,6 @@ docid:
   type: DOI
 docnumber: ISO/IEC/IEEE 24748.1-2018
 date:
-- type: updated
-  value: '2020-10-02'
 - type: created
   value: '2018-11-01'
 - type: published
@@ -66,9 +64,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -82,6 +77,23 @@ copyright:
     - content: IEC
   from: '2018'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE24748.1-2011
+    docid:
+    - id: IEEE 24748.1-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 24748.1-2011
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE24748.1-2011
@@ -115,7 +127,6 @@ ics:
   text: Software
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Superseded
   pubstatus: Active
   holdstatus: Publish
