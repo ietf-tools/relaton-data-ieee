@@ -101,6 +101,33 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: ISO-IEC-IEEE15288-2023
+    docid:
+    - id: ISO/IEC/IEEE 15288-2023
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ISO/IEC/IEEE 15288-2023
+      format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE15288-2008
+    docid:
+    - id: IEEE 15288-2008
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 15288-2008
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE15288-2008

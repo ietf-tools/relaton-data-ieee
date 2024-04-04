@@ -1,0 +1,122 @@
+---
+schema-version: v1.2.3
+id: IEEE1857.3-2023
+title:
+- content: IEEE Standard for a System of Advanced Audio and Video Coding
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10491126
+  type: src
+type: standard
+docid:
+- id: IEEE 1857.3-2023
+  type: IEEE
+  primary: true
+- id: IEEE 1857.3™-2023
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-0614-7
+  type: ISBN
+- id: 10.1109/IEEESTD.2024.10491126
+  type: DOI
+docnumber: IEEE 1857.3-2023
+date:
+- type: created
+  value: '2024'
+- type: published
+  value: '2024-04-03'
+- type: issued
+  value: '2023-11-08'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2024-04-03'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Storage file formats and RTP payload formats for IEEE Std 1857&#8482; video;
+    IEEE Std 1857.2&#8482; audio; IEEE Std 1857.4&#8482; second generation IEEE Std
+    1857 video; IEEE Std 1857.5&#8482; mobile speech and audio; IEEE Std 1857.8 second
+    generation audio coding; and IEEE Std 1857.10 third generation video coding are
+    defined in this standard. The storage of video and audio not only uses the existing
+    capabilities of the ISO base media file format, but also defines extensions to
+    support specific features of the IEEE Std 1857, IEEE Std 1857.2, IEEE Std 1857.4,
+    IEEE Std 1857.5, IEEE Std 1857.8, and IEEE Std 1857.10 video and audio codecs.
+    The target applications and services include, but are not limited to, Internet
+    media streaming, IPTV, video conference, video telephony, and video-on-demand.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2024'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1857.3-2013
+    docid:
+    - id: IEEE 1857.3-2013
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1857.3-2013
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: audio
+- content: box
+- content: file format
+- content: IEEE 1857.3&#8482;
+- content: NAL unit
+- content: packetization
+- content: RTP payload format
+- content: storage
+- content: system
+- content: track
+- content: transmission
+- content: video
+doctype: standard
+editorialgroup:
+  committee:
+  - Data Compression Standards Committee of the IEEE Computer Society
+ics:
+- code: 33.040.40
+  text: Data communication networks
+- code: '35.040'
+  text: Information coding
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Approved
+  pubstatus: Active
+  holdstatus: Publish
