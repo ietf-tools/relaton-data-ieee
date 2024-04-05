@@ -2,12 +2,12 @@
 schema-version: v1.2.3
 id: IEEEC57.113-1991
 title:
-- content: IEEE Guide for Partial Discharge Measurement in Liquid- Filled Power Transformers
+- content: IEEE Guide for Partial Discharge Measurement in Liquid-Filled Power Transformers
     and Shunt Reactors
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/182808
+- content: https://ieeexplore.ieee.org/document/8705054
   type: src
 type: standard
 docid:
@@ -20,12 +20,14 @@ docid:
   primary: true
 - id: 978-0-7381-0843-8
   type: ISBN
-- id: 10.1109/IEEESTD.1992.106971
+- id: 10.1109/IEEESTD.1991.8705054
   type: DOI
 docnumber: IEEE C57.113-1991
 date:
 - type: created
-  value: '1992'
+  value: '1991-11-30'
+- type: published
+  value: '2019-05-02'
 - type: issued
   value: '1991-12-05'
 contributor:
@@ -41,6 +43,7 @@ contributor:
         country: USA
   role:
   - type: publisher
+revdate: '2019-05-02'
 language:
 - en
 script:
@@ -48,9 +51,9 @@ script:
 abstract:
 - content: The detection and measurement by the wide-band apparent charge method of
     partial discharges occurring in liquid-filled power transformers and shunt reactors
-    during dielectric tests are covered. The standard covers the measuring instrument,
+    during dielectric tests are covered. This standard covers the measuring instrument,
     calibrator characteristics, test circuits, calibration procedure, and partial
-    discharge measurement during induced-voltage tests.<<ETX>>
+    discharge measurement during induced-voltage tests.
   language:
   - en
   script:
@@ -92,17 +95,32 @@ relation:
     formattedref:
       content: IEEE C57.113-2010
       format: text/plain
+- type: updates
+  bibitem:
+    id: ANSI-IEEETransformers
+    docid:
+    - id: ANSI/IEEE Transformers
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI/IEEE Transformers
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
-- content: Calibration
-- content: Charge measurement
-- content: Oil insulation
-- content: Insulation testing
-- content: Partial discharges
+- content: IEEE Standards
 - content: Power transformers
-- content: Inductors
-- content: Standards
-- content: Transformers
-- content: Insulation
+- content: Partial discharges
+- content: Liquid cooling
+- content: Shunt reactors
+- content: Shunt reactor
+- content: Partial discharge
+- content: Liquid-filled transformer
 doctype: standard
 editorialgroup:
   committee:

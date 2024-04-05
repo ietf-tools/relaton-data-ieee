@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: IEEEP1241-D-15-2023-02
 title:
-- content: IEEE Approved Draft Standard for Terminology and Test Methods for Analog-to-Digital
+- content: IEEE Draft Standard for Terminology and Test Methods for Analog-to-Digital
     Converters
   format: text/plain
   type: main
@@ -23,11 +23,11 @@ docid:
 docnumber: IEEE P1241/D-15-2023-02
 date:
 - type: created
-  value: '2023'
+  value: '2023-02-15'
 - type: published
   value: '2023-02-17'
 - type: issued
-  value: '2023-06-05'
+  value: '2023'
 contributor:
 - organization:
     name:
@@ -46,20 +46,6 @@ language:
 - en
 script:
 - Latn
-abstract:
-- content: The material presented in this standard is intended to provide common terminology
-    and test methods for the testing and evaluation of analog-to-digital converters
-    (ADCs). This standard considers only those ADCs whose output values are extracted
-    (sampled) and then digitized at known time intervals. In general, this quantization
-    is assumed to be nominally uniform (the input-output transfer curve is approximately
-    a straight line) and the sampling is assumed to be at a nominally uniform rate.
-    Some but not all of the test methods in this standard can be used for ADCs that
-    are designed for non-uniform quantization.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -89,63 +75,7 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1241-2010
-    docid:
-    - id: IEEE 1241-2010
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1241-2010
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1241-2010
-    docid:
-    - id: IEEE 1241-2010
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1241-2010
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1241-2010
-    docid:
-    - id: IEEE 1241-2010
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1241-2010
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
-- content: IEEE Standards
-- content: Noise measurement
-- content: Sampling methods
-- content: Terminology
-- content: AC-DC power converters
 - content: ADC
 - content: analog-to-digital converter
 - content: code transition level
@@ -174,7 +104,7 @@ ics:
   text: Integrated circuits. Microelectronics
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

@@ -62,6 +62,9 @@ abstract:
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -94,10 +97,13 @@ editorialgroup:
   committee:
   - Transformers of the IEEE Power and Energy Society
 ics:
-- code: '29.180'
+- code: 17.220.99
+  text: Other standards related to electricity and magnetism
+- code: '29.18'
   text: Transformers. Reactors
 ext:
   schema-version: v1.0.0
-  standard_status: Superseded
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

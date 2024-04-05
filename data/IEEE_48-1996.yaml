@@ -66,16 +66,6 @@ copyright:
     url: http://www.ieee.org
   from: '1996'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE48-2009
-    docid:
-    - id: IEEE 48-2009
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 48-2009
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEE48-1990
@@ -93,6 +83,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE48-2009
+    docid:
+    - id: IEEE 48-2009
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 48-2009
+      format: text/plain
 keyword:
 - content: Power cable testing
 - content: accelerated contamination testing

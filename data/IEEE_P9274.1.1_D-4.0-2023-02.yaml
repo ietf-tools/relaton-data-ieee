@@ -26,9 +26,9 @@ date:
 - type: created
   value: '2023-02-06'
 - type: published
-  value: '2023-02-07'
+  value: '2023-02-08'
 - type: issued
-  value: '2023-03-30'
+  value: '2023'
 contributor:
 - organization:
     name:
@@ -42,25 +42,11 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-02-07'
+revdate: '2023-02-08'
 language:
 - en
 script:
 - Latn
-abstract:
-- content: This standard is a collaborative effort to improve and standardize the
-    1.0.3 version Experience Application Programming Interface (xAPI) specification.
-    This Standard describes a JavaScript Object Notation (JSON) data model format
-    and a Representational State Transfer (RESTful) Web Service Application Programming
-    Interface (API) for communication between Activities experienced by an individual,
-    group, or other entity and a Learning Record Store (LRS). The LRS is a system
-    that exposes the RESTful Web Service API for the purpose of tracking and accessing
-    experiential data, especially in learning and human performance.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -79,29 +65,24 @@ keyword:
 - content: Representational state transfer
 - content: Application programming interface
 - content: Experience API
-- content: IEEE 9274&#8482;
-- content: IEEE 9274.1.1&#8482;
-- content: JavaScript object notation
+- content: xAPI
+- content: IEEE 9274.1.1
+- content: IEEE 9274
 - content: JSON
-- content: Learning Record Provider
+- content: JavaScript Object Notation
+- content: REST
+- content: Representational State Transfer
+- content: LRS
 - content: Learning Record Store
 - content: LRP
-- content: LRS
-- content: representational state transfer
-- content: REST
-- content: xAPI
+- content: Learning Record Provider
 doctype: standard
 editorialgroup:
   committee:
   - Learning Technology of the IEEE Computer Society
-ics:
-- code: 35.240.90
-  text: IT applications in education
-- code: 35.240.95
-  text: Internet applications
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

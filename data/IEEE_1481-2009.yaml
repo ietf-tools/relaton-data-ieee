@@ -6,7 +6,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/9056870
+- content: https://ieeexplore.ieee.org/document/5430852
   type: src
 type: standard
 docid:
@@ -19,12 +19,14 @@ docid:
   primary: true
 - id: 978-0-7381-6155-6
   type: ISBN
+- id: 10.1109/IEEESTD.2009.5430852
+  type: DOI
 docnumber: IEEE 1481-2009
 date:
+- type: updated
+  value: '2010-03-29'
 - type: created
-  value: '2010'
-- type: published
-  value: '2020-04-03'
+  value: '2009'
 - type: issued
   value: '2009-12-09'
 contributor:
@@ -36,7 +38,6 @@ contributor:
     url: http://www.ieee.org
   role:
   - type: publisher
-revdate: '2020-04-03'
 language:
 - en
 script:
@@ -46,8 +47,8 @@ abstract:
     consistently across a broad set of electric design automation (EDA) applications
     are covered in this standard. Methods by which integrated circuit vendors can
     express timing and power information once per given technology are also covered.
-    In addition, this standard covers means by which EDA vendors can meet their application
-    performance and capacity needs.
+    In addition, the means by which EDA vendors can meet their application performance
+    and capacity needs are discussed.
   language:
   - en
   script:
@@ -90,16 +91,8 @@ relation:
     - Latn
     format: text/plain
 keyword:
-- content: IEEE Standards
-- content: Integrated circuits
-- content: Delays
-- content: Printed circuits
-- content: Electronic design automation
-- content: 1481-2009
-- content: chip delay
-- content: electronic design automation (EDA)
-- content: integrated circuit (IC) design
-- content: power calculation
+- content: chip delay, electronic design automation (EDA), integrated circuit (IC)
+    design, power calculation
 doctype: standard
 editorialgroup:
   committee:

@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: IEEEP1349-D-9.0-2021-05
 title:
-- content: IEEE Approved Draft Guide for the Application of Electric Machines in Zone
-    2 and Class I, Division 2 Hazardous (Classified) Locations
+- content: IEEE Draft Guide for the Application of Electric Machines in Zone 2 and
+    Class I, Division 2 Hazardous (Classified) Locations
   format: text/plain
   type: main
 link:
@@ -23,11 +23,11 @@ docid:
 docnumber: IEEE P1349/D-9.0-2021-05
 date:
 - type: created
-  value: '2021'
+  value: '2021-05-14'
 - type: published
   value: '2021-05-21'
 - type: issued
-  value: '2021-06-16'
+  value: '2021'
 contributor:
 - organization:
     name:
@@ -46,27 +46,6 @@ language:
 - en
 script:
 - Latn
-abstract:
-- content: Three-phase and single-phase ac synchronous and induction electric machines
-    in ratings 0.18 kW (1/4 hp) and larger are covered in this guide. Primary emphasis
-    is on the use of open or nonexplosionproof or nonflameproof enclosed machines
-    in Zone 2 and Class I, Division 2 locations as covered in the NEC(R) (NFPA 70-2020)
-    and CE Code(R) (CSA C22.1-2021) as applicable. Surface temperature test methods
-    and sine wave and non-sine wave applications are covered. Precautions against
-    excessive surface temperatures and sparking are included. To help mitigate hot
-    surface temperatures and sparking, this document provides guidance for selecting,
-    operating, and maintaining machines in Zone 2 and Class I, Division 2 locations.
-    This guide does not cover ac wound rotor machines and dc electric machines. Machines
-    installed in locations other than Zone 2 and Class I, Division 2 as covered in
-    NFPA 70-2020 or CSA C22.1-2021 are not covered in this guide. This document is
-    not a specification and is not intended to be used as a specification for purchasing
-    electric machines. The voltage breaks in this document are 1000 V and less, and
-    over 1000 V.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -113,39 +92,13 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1349-2011
-    docid:
-    - id: IEEE 1349-2011
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1349-2011
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
-- content: IEEE Standards
-- content: Induction motors
-- content: Synchronous motors
-- content: Rotors
-- content: Variable speed drives
-- content: Hazards
-- content: Temperature measurement
-- content: Heating systems
 - content: adjustable speed drive; autoignition temperature; Class I
-- content: Division 2; classified locations; electric machine; enclosure sparking;
+- content: Division 2; Zone 2; classified locations; electric machine; enclosure sparking;
     generator; hazardous locations; IEEE 1349; induction motor; label test; motor;
-    motor enclosure; motor temperature; multisection motor; paint test; rotor; rotor
-    sparking; rotor temperature; space heater test; synchronous motor; T Code; temperature
-    code
-- content: Zone 2
+    motor enclosure; motor temperature; multisection motor; 86 paint test; rotor;
+    rotor sparking; rotor temperature; synchronous motor; T Code; temperature code
+- content: space heater test
 doctype: standard
 editorialgroup:
   committee:
@@ -157,7 +110,7 @@ ics:
   text: Electrical apparatus for explosive atmospheres
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

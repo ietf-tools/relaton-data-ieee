@@ -46,17 +46,16 @@ language:
 script:
 - Latn
 abstract:
-- content: A framework for support of drone applications is established in this standard.
+- content: Framework for support of drone applications is established in this standard.
     It specifies typical drone application classes and application scenarios and the
     required application execution environments. The general facility requirements
     of drone application are listed, including flight platform, flight control system,
     ground control station, payload, control link and data link, takeoff and landing
-    system, etc. The drone safety and management requirements include airworthiness,
-    airspace, and air traffic requirements, qualification of operators, qualification
-    of personnel, insurance, confidentiality and others. The general operation process
-    is detailed. The operation results stipulate the operation record and operation
-    report, including data classification, data collection and processing, data record
-    and analysis and data reference format.
+    system, etc. The safety and management of drones include the requirement of airworthiness,
+    airspace, qualification of operators, qualification of personnel, insurance, confidentiality
+    and others. The general operation process is detailed. The operation results stipulate
+    the operation record and operation report, including data classification, data
+    collection and processing, data record and analysis and data reference format.
   language:
   - en
   script:
@@ -113,7 +112,7 @@ editorialgroup:
   - Access and Core Networks Standards Committee of the IEEE Communications Society
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

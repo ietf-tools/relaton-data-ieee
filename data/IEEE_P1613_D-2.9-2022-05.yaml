@@ -25,7 +25,7 @@ date:
 - type: created
   value: '2022-05-17'
 - type: published
-  value: '2022-05-19'
+  value: '2022-05-18'
 - type: issued
   value: '2022'
 contributor:
@@ -41,7 +41,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-05-19'
+revdate: '2022-05-18'
 language:
 - en
 script:
@@ -54,7 +54,11 @@ abstract:
     the harsh environment of electric power apparatus installations. This develops
     a common and reproducible basis for designing and testing devices with communications
     functions installed in this harsh environment. Devices that support communications
-    functions use communications ports.
+    functions use communications ports. Where the device does not perform protection
+    or control functions, testing of the communications functions is covered by IEEE
+    Std 1613. Where the device performs protection or control functions and has communications
+    ports, tests for all communications functions are covered by the IEEE C37.90 family
+    of standards.
   language:
   - en
   script:
@@ -72,125 +76,6 @@ copyright:
     url: http://www.ieee.org
   from: '2022'
 relation:
-- type: updates
-  bibitem:
-    id: IEEE1613-2009
-    docid:
-    - id: IEEE 1613-2009
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1613-2009
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1613-2009
-    docid:
-    - id: IEEE 1613-2009
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1613-2009
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1613-2009
-    docid:
-    - id: IEEE 1613-2009
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1613-2009
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1613-2009
-    docid:
-    - id: IEEE 1613-2009
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1613-2009
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1613-2009
-    docid:
-    - id: IEEE 1613-2009
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1613-2009
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1613-2009
-    docid:
-    - id: IEEE 1613-2009
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1613-2009
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1613-2009
-    docid:
-    - id: IEEE 1613-2009
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1613-2009
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: updates
   bibitem:
     id: IEEE1613-2009
@@ -259,7 +144,7 @@ ics:
   text: Substations. Surge arresters
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

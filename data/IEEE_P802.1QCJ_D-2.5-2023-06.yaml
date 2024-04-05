@@ -2,9 +2,9 @@
 schema-version: v1.2.3
 id: IEEEP802.1Qcj-D-2.5-2023-06
 title:
-- content: 'IEEE Approved Draft Standard for Local and Metropolitan Area Networks
-    -- Bridges and Bridged Networks Amendment 37: Automatic Attachment to Provider
-    Backbone Bridging (PBB) services'
+- content: 'IEEE Draft Standard for Local and Metropolitan Area Networks -- Bridges
+    and Bridged Networks Amendment 37: Automatic Attachment to Provider Backbone Bridging
+    (PBB) services'
   format: text/plain
   type: main
 link:
@@ -28,7 +28,7 @@ date:
 - type: published
   value: '2023-06-19'
 - type: issued
-  value: '2023-09-21'
+  value: '2023'
 contributor:
 - organization:
     name:
@@ -86,6 +86,23 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.1Q-2022
+    docid:
+    - id: IEEE 802.1Q-2022
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1Q-2022
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Local area networks
@@ -94,7 +111,7 @@ keyword:
 - content: Virtual LAN
 - content: Media Access Protocol
 - content: Bridged Network
-- content: IEEE 802.1Q
+- content: IEEE 802.1Q&#8482;
 - content: LAN
 - content: local area network
 - content: MAC Bridge

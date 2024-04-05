@@ -24,8 +24,6 @@ docid:
   type: DOI
 docnumber: IEEE 1127-2013
 date:
-- type: updated
-  value: '2015-02-13'
 - type: created
   value: '2014-01-24'
 - type: published
@@ -39,6 +37,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2014-01-23'
@@ -57,9 +59,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -131,7 +130,6 @@ ics:
   text: Power stations in general
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Superseded
   pubstatus: Active
   holdstatus: Publish

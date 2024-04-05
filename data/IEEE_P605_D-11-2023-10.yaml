@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: IEEEP605-D-11-2023-10
 title:
-- content: IEEE Draft Guide for Bus Design in Air Insulated Substations
+- content: IEEE Approved Draft Guide for Bus Design in Air Insulated Substations
   format: text/plain
   type: main
 link:
@@ -22,11 +22,11 @@ docid:
 docnumber: IEEE P605/D-11-2023-10
 date:
 - type: created
-  value: '2023-10-19'
+  value: '2023-12-14'
 - type: published
   value: '2023-10-20'
 - type: issued
-  value: '2023'
+  value: '2023-12-06'
 contributor:
 - organization:
     name:
@@ -72,6 +72,23 @@ copyright:
     url: http://www.ieee.org
   from: '2023'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE605-2008
+    docid:
+    - id: IEEE 605-2008
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 605-2008
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE605-2008

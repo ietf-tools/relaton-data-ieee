@@ -67,6 +67,16 @@ copyright:
     url: http://www.ieee.org
   from: '1993'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE18-2002
+    docid:
+    - id: IEEE 18-2002
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 18-2002
+      format: text/plain
 - type: updates
   bibitem:
     id: ANSI-IEEE18-1980
@@ -84,16 +94,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEE18-2002
-    docid:
-    - id: IEEE 18-2002
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 18-2002
-      format: text/plain
 keyword:
 - content: Power capacitors
 - content: Standards

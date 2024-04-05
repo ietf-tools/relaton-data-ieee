@@ -29,7 +29,7 @@ date:
 - type: published
   value: '2022-02-25'
 - type: issued
-  value: '2022'
+  value: '2022-09-21'
 contributor:
 - organization:
     name:
@@ -48,6 +48,21 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: Certain electrical, dimensional, and mechanical characteristics are set
+    forth, as well as certain safety features of three-phase, 60 Hz, liquid-immersed,
+    self-cooled, pad-mounted, compartmental-type distribution transformers. These
+    transformers are rated 10 MVA and smaller, with the high-voltage limit of 34.5
+    kV nominal system voltage and below, and with low-voltage limit of 15 kV nominal
+    system voltage and below. This standard covers the connector, bushing, and terminal
+    arrangements for radial or loop-feed systems. This standard does not cover the
+    electrical and mechanical requirements of any accessory devices that may be supplied
+    with the transformer.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -77,6 +92,74 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC57.12.34-2015
+    docid:
+    - id: IEEE C57.12.34-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C57.12.34-2015
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC57.12.34-2015
+    docid:
+    - id: IEEE C57.12.34-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C57.12.34-2015
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC57.12.34-2015
+    docid:
+    - id: IEEE C57.12.34-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C57.12.34-2015
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC57.12.34-2015
+    docid:
+    - id: IEEE C57.12.34-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C57.12.34-2015
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Power transformers
@@ -85,6 +168,7 @@ keyword:
 - content: Low voltage
 - content: compartmental
 - content: connector arrangements
+- content: IEEE C57.12.34
 - content: loop
 - content: pad-mounted
 - content: pad-mount distribution transformers
@@ -100,7 +184,7 @@ ics:
   text: Transformers. Reactors
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

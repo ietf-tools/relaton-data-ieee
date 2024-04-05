@@ -6,7 +6,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/1274921
+- content: https://ieeexplore.ieee.org/document/8684511
   type: src
 type: standard
 docid:
@@ -19,12 +19,14 @@ docid:
   primary: true
 - id: 978-0-7381-2995-2
   type: ISBN
-- id: 10.1109/IEEESTD.2001.94438
+- id: 10.1109/IEEESTD.1999.8684511
   type: DOI
 docnumber: IEEE 1366-2001
 date:
 - type: created
-  value: '2001'
+  value: '1999'
+- type: published
+  value: '2019-04-05'
 - type: issued
   value: '1998-12-10'
 contributor:
@@ -40,15 +42,17 @@ contributor:
         country: USA
   role:
   - type: publisher
+revdate: '2019-04-05'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Useful distribution reliability indices, and factors that affect their
-    calculation, are identified. This guide includes indices that are useful today
-    as well as ones that may be useful in the future. The indices are intended to
-    apply to distribution systems, substations, circuits, and defined regions.
+- content: Superseded by IEEE Std 1366-2003. Useful distribution reliability indices,
+    and factors that affect their calculation, are identi-fied. This guide includes
+    indices that are useful today as well as ones that may be useful in thefuture.
+    The indices are intended to apply to distribution systems, substations, circuits,
+    and definedregions.
   language:
   - en
   script:
@@ -73,18 +77,12 @@ relation:
     formattedref:
       content: IEEE 1366-2003
       format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEE1366-2003
-    docid:
-    - id: IEEE 1366-2003
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1366-2003
-      format: text/plain
 keyword:
-- content: IEEE standards
+- content: circuits
+- content: distribution reliability indices
+- content: distribution systems
+- content: electric power
+- content: reliability indices
 doctype: standard
 editorialgroup:
   committee:

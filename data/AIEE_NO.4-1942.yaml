@@ -6,7 +6,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8684382
+- content: https://ieeexplore.ieee.org/document/7419174
   type: src
 type: standard
 docid:
@@ -19,12 +19,16 @@ docid:
   primary: true
 - id: 978-1-5044-0336-8
   type: ISBN
+- id: 10.1109/IEEESTD.1942.7419174
+  type: DOI
 docnumber: AIEE No.4-1942
 date:
+- type: updated
+  value: '2016-03-11'
 - type: created
-  value: '1941-11-30'
+  value: '1942-02-23'
 - type: published
-  value: '2019-04-05'
+  value: '2016-02-24'
 - type: issued
   value: '1942'
 contributor:
@@ -36,16 +40,37 @@ contributor:
     url: http://www.ieee.org
   role:
   - type: publisher
-revdate: '2019-04-05'
+revdate: '2016-02-24'
 language:
 - en
 script:
 - Latn
+abstract:
+- content: 'In this Standard are set forth methods for the measurement of test voltages
+    and wave shapes used in dielectric tests of electric apparatus or insulating material.
+    These tests are in three classes: 1. Puncture tests. 2. Flashover tests.3. Voltage
+    proof tests. The tests may involve the use of alternating current, direct current,
+    or surges from surge generators. Different pieces of apparatus may require different
+    dielectric tests, some requiring power frequency or direct current tests only;
+    other apparatus may require surge tests in addition. The specific requirements
+    for any particular type of apparatus will be found in the Standard dealing with
+    that type of apparatus. This Standard deals with the measurements themselves.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 copyright:
 - owner:
   - name:
     - content: AIEE
   from: '1942'
+keyword:
+- content: AIEE Standards
+- content: Voltage measurement
+- content: Dielectrics
+- content: Testing
+- content: Power system measurements
 doctype: standard
 ext:
   schema-version: v1.0.0

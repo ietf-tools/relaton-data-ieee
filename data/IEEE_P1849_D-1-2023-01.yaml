@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: IEEEP1849-D-1-2023-01
 title:
-- content: IEEE Approved Draft Standard for eXtensible Event Stream (XES) for Achieving
-    Interoperability in Event Logs and Event Streams
+- content: IEEE Draft Standard for eXtensible Event Stream (XES) for Achieving Interoperability
+    in Event Logs and Event Streams
   format: text/plain
   type: main
 link:
@@ -23,11 +23,11 @@ docid:
 docnumber: IEEE P1849/D-1-2023-01
 date:
 - type: created
-  value: '2023'
+  value: '2023-01-23'
 - type: published
-  value: '2023-01-24'
+  value: '2023-01-25'
 - type: issued
-  value: '2023-06-05'
+  value: '2023'
 contributor:
 - organization:
     name:
@@ -41,7 +41,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-01-24'
+revdate: '2023-01-25'
 language:
 - en
 script:
@@ -50,7 +50,7 @@ abstract:
 - content: A grammar for a tag-based language whose aim is to provide designers of
     information systems with a unified and extensible methodology for capturing systems’
     behaviors by means of event logs and event streams is defined in the XES standard.
-    An “XML Schema” describing the structure of an XES event log/stream and an “XML
+    An “XML Schema” describing the structure of an XES event log/stream and a “XML
     Schema” describing the structure of an extension of such a log/stream are included
     in this standard. Moreover, a basic collection of so-called “XES extension” prototypes
     that provide semantics to certain attributes as recorded in the event log/stream
@@ -72,74 +72,6 @@ copyright:
     url: http://www.ieee.org
   from: '2023'
 relation:
-- type: updates
-  bibitem:
-    id: IEEE1849-2016
-    docid:
-    - id: IEEE 1849-2016
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1849-2016
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1849-2016
-    docid:
-    - id: IEEE 1849-2016
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1849-2016
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1849-2016
-    docid:
-    - id: IEEE 1849-2016
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1849-2016
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1849-2016
-    docid:
-    - id: IEEE 1849-2016
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1849-2016
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: updates
   bibitem:
     id: IEEE1849-2016
@@ -181,7 +113,7 @@ ics:
   text: IT applications in health care technology
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

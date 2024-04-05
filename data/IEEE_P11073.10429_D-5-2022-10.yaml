@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: IEEEP11073.10429-D-5-2022-10
 title:
-- content: 'IEEE Approved Draft Standard for Health Informatics -- Device Interoperability
+- content: 'IEEE Draft Standard for Health Informatics -- Device Interoperability
     -- Part 10429: Personal Health Device Communication -- Device Specialization -
     Spirometry'
   format: text/plain
@@ -24,11 +24,11 @@ docid:
 docnumber: IEEE P11073.10429/D-5-2022-10
 date:
 - type: created
-  value: '2022-12-09'
+  value: '2022-10-12'
 - type: published
   value: '2022-10-13'
 - type: issued
-  value: '2022-12-03'
+  value: '2022'
 contributor:
 - organization:
     name:
@@ -47,23 +47,6 @@ language:
 - en
 script:
 - Latn
-abstract:
-- content: Within the context of the ISO/IEEE 11073 family of standards for device
-    communication, in this standard, a normative definition of the communication between
-    personal telehealth spirometry devices and managers (e.g., cell phones, personal
-    computers, personal health appliances, set-top boxes) is established in a manner
-    that enables plug-and-play interoperability. Appropriate portions of existing
-    standards are leveraged, including ISO/IEEE 11073 terminology, information models,
-    application profile standards, and transport standards. The use of specific term
-    codes, formats, and behaviors are specified in telehealth environments restricting
-    optionality in base frameworks in favor of interoperability. A common core of
-    communication functionality for personal telehealth spirometry is defined in this
-    standard.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -76,16 +59,10 @@ copyright:
     url: http://www.ieee.org
   from: '2022'
 keyword:
-- content: IEEE Standards
-- content: Medical devices
-- content: Point of care
-- content: Bioinformatics
-- content: Interoperability
-- content: Spirometry
-- content: device interoperability
-- content: IEEE 11073-10429&#8482;
-- content: personal health devices communication
 - content: spirometry
+- content: IEEE 11073-10429&#8482;
+- content: device interoperability
+- content: personal health devices communication
 doctype: standard
 editorialgroup:
   committee:
@@ -93,7 +70,7 @@ editorialgroup:
     Society
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

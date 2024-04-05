@@ -26,7 +26,7 @@ date:
 - type: published
   value: '2021-02-22'
 - type: issued
-  value: '2021-09-23'
+  value: '2021'
 contributor:
 - organization:
     name:
@@ -45,22 +45,6 @@ language:
 - en
 script:
 - Latn
-abstract:
-- content: The recommended practices for the measurement of antenna transmitting and
-    receiving properties are presented. Throughout this standard it is assumed that
-    the antenna to be measured can be treated as a passive, linear, and reciprocal
-    device. A fundamental property of any antenna is its radiation pattern. The measurement
-    of radiation patterns in an antenna test facility is discussed. The design of
-    antenna test facilities is described along with instrumentation requirements for
-    the proper operation of the antenna facility, directions for the evaluation of
-    an (existing) range, and the operation of ranges is discussed. References are
-    provided that are illustrative of measurement techniques and in which details
-    may be found.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -107,44 +91,73 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: ANSI-IEEE149-1979
+    docid:
+    - id: ANSI/IEEE 149-1979
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI/IEEE 149-1979
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: ANSI-IEEE149-1979
+    docid:
+    - id: ANSI/IEEE 149-1979
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI/IEEE 149-1979
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Electromagnetic compatibility
 - content: Antenna measurements
 - content: Calibration
 - content: Anechoic chambers
+- content: Antenna
+- content: antenna measurements
+- content: antenna gain
 - content: absorbers
 - content: accuracy
 - content: alignment
 - content: anechoic
-- content: antenna
-- content: antenna gain
-- content: antenna measurements
 - content: calibration
 - content: chamber
-- content: compact range
-- content: EIRP
-- content: electromagnetic compatibility
+- content: compact range EIRP
 - content: electromagnetic testing
-- content: EMC
-- content: equivalent isotropically radiated power
+- content: EMI/EMC
 - content: errors
 - content: evaluation
 - content: facilities
-- content: far field
+- content: far-Field
 - content: far-field range
 - content: gain/temperature
 - content: ground bounce
 - content: high power
-- content: IEEE 149
 - content: impedance
 - content: instrumentation
-- content: inter-range comparison
+- content: inter-Range comparison
 - content: measurement
-- content: near-field
 - content: near zone
+- content: near-field
 - content: noise
-- content: outdoor range
 - content: passive
 - content: pattern
 - content: phase
@@ -153,7 +166,7 @@ keyword:
 - content: quiet zone
 - content: radar
 - content: radiation
-- content: radio frequency
+- content: radio Frequency
 - content: radome
 - content: range
 - content: receiver
@@ -164,12 +177,9 @@ keyword:
 - content: software
 - content: standard gain horn
 - content: standard
-- content: tapered chamber
+- content: Tapered chamber
 - content: target support
 - content: techniques
-- content: test facility
-- content: test range
-- content: test zone
 - content: three-antenna measurement
 - content: tracking
 - content: uncertainties
@@ -187,7 +197,7 @@ ics:
   text: Aerials
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

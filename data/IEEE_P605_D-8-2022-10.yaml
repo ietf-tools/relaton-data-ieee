@@ -24,7 +24,7 @@ date:
 - type: created
   value: '2022-10-31'
 - type: published
-  value: '2023-09-11'
+  value: '2022-11-02'
 - type: issued
   value: '2022'
 contributor:
@@ -40,7 +40,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-09-11'
+revdate: '2022-11-02'
 language:
 - en
 script:
@@ -89,6 +89,23 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE605-2008
+    docid:
+    - id: IEEE 605-2008
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 605-2008
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Corona
@@ -120,7 +137,7 @@ ics:
   text: Integrated circuits. Microelectronics
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

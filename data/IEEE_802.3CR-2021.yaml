@@ -23,8 +23,6 @@ docid:
   type: DOI
 docnumber: IEEE 802.3cr-2021
 date:
-- type: updated
-  value: '2021-04-16'
 - type: created
   value: '2021-02-24'
 - type: published
@@ -87,16 +85,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: ISO-IEC
-    docid:
-    - id: ISO/ IEC
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ISO/ IEC
-      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Ethernet

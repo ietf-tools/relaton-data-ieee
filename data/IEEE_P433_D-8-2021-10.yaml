@@ -25,9 +25,9 @@ date:
 - type: created
   value: '2021-10-19'
 - type: published
-  value: '2021-10-25'
+  value: '2021-10-26'
 - type: issued
-  value: '2021'
+  value: '2022-02-09'
 contributor:
 - organization:
     name:
@@ -41,14 +41,15 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2021-10-25'
+revdate: '2021-10-26'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This recommended practice describes very low frequency withstand and diagnostic
-    tests that are performed on the stator windings of ac electric machines.
+- content: Described in this recommended practice are very low frequency withstand
+    and diagnostic tests that are performed on the stator windings of ac electric
+    machines.
   language:
   - en
   script:
@@ -117,40 +118,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE433-2009
-    docid:
-    - id: IEEE 433-2009
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 433-2009
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE433-2009
-    docid:
-    - id: IEEE 433-2009
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 433-2009
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Stator windings
@@ -161,10 +128,11 @@ keyword:
 - content: Safety
 - content: AC machines
 - content: Testing
-- content: ac electric machines
 - content: ac electric machine testing
+- content: ac electric machines
 - content: diagnostic test
 - content: high-potential (hipotential) test
+- content: IEEE 433
 - content: over potential test
 - content: proof testing
 - content: safety
@@ -178,6 +146,8 @@ editorialgroup:
 ics:
 - code: 29.080.01
   text: Electrical insulation in general
+- code: 29.160.01
+  text: Rotating machinery in general
 ext:
   schema-version: v1.0.0
   standard_status: Inactive

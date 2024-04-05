@@ -28,7 +28,7 @@ date:
 - type: published
   value: '2022-12-16'
 - type: issued
-  value: '2023-09-21'
+  value: '2022'
 contributor:
 - organization:
     name:
@@ -49,7 +49,7 @@ script:
 - Latn
 abstract:
 - content: This amendment to IEEE Std 802.1Q-2022 as amended by IEEE Std 802.1Qcz-2023
-    and IEEE Std 802.1Qcw-2023 specifies protocols, procedures, and management objects
+    and IEEE Std 802.1Qcw-2023 specifies protocols, procedures and management objects
     for auto attachment of network devices to Provider Backbone service instances
     using Type, Length, Value (TLVs) within the Link Layer Discovery Protocol (LLDP).
   language:
@@ -88,13 +88,13 @@ relation:
     format: text/plain
 - type: updates
   bibitem:
-    id: IEEEP802.1Q-D-1.2-R--2022-05
+    id: IEEE802.1Q-2022
     docid:
-    - id: IEEE P802.1Q/D-1.2/R--2022-05
+    - id: IEEE 802.1Q-2022
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE P802.1Q/D-1.2/R--2022-05
+      content: IEEE 802.1Q-2022
       format: text/plain
   description:
     content: amends
@@ -109,26 +109,15 @@ keyword:
 - content: Metropolitan area networks
 - content: Bridge circuits
 - content: Virtual LAN
-- content: AAB
-- content: AAD
-- content: AAP
-- content: amendment
-- content: Auto Attach
-- content: Auto Attach Backbone Edge Bridge
-- content: Auto Attach Device
-- content: Auto Attach Protocol
 - content: Bridged Network
 - content: IEEE 802.1Q&#8482;
-- content: IEEE 802.1Qcj&#8482;
 - content: LAN
 - content: local area network
 - content: MAC Bridge
 - content: metropolitan area network
 - content: MSTP
 - content: Multiple Spanning Tree Protocol
-- content: PBBN
 - content: PBN
-- content: Provider Backbone Bridged Network
 - content: Provider Bridged Network
 - content: Rapid Spanning Tree Protocol
 - content: RSTP
@@ -139,6 +128,15 @@ keyword:
 - content: Virtual Bridged Network
 - content: virtual LAN
 - content: VLAN Bridge
+- content: Provider Backbone Bridged Network
+- content: PBBN
+- content: Auto Attach
+- content: Auto Attach Protocol
+- content: AAP
+- content: Auto Attach Backbone Edge Bridge
+- content: AAB
+- content: Auto Attach Device
+- content: AAD.
 doctype: standard
 editorialgroup:
   committee:

@@ -63,9 +63,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -80,6 +77,16 @@ copyright:
     url: https://www.ansi.org
   from: '2013'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: ANSIC63.10-2020
+    docid:
+    - id: ANSI C63.10-2020
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI C63.10-2020
+      format: text/plain
 - type: updates
   bibitem:
     id: ANSIC63.10-2009
@@ -137,7 +144,6 @@ ics:
   text: Emission
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Superseded
   pubstatus: Active
   holdstatus: Publish

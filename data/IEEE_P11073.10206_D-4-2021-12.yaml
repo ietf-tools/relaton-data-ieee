@@ -28,7 +28,7 @@ date:
 - type: published
   value: '2022-03-31'
 - type: issued
-  value: '2022'
+  value: '2022-09-21'
 contributor:
 - organization:
     name:
@@ -50,8 +50,9 @@ script:
 abstract:
 - content: Within the context of the ISO/IEEE 11073 family of standards for device
     communication, a simplified framework for making an abstract model of personal
-    health data available. The specification addresses the structure and content of
-    information. It does not address communication of the information between devices.
+    health data is available in this standard. The specification addresses the structure
+    and content of information. It does not address communication of the information
+    between devices.
   language:
   - en
   script:
@@ -76,14 +77,19 @@ keyword:
 - content: Interoperability
 - content: ISO Standards
 - content: Information services
-- content: IEEE 11073-10206&#8482;
 - content: device interoperability
+- content: IEEE 11073-10206
 - content: personal health device communication
 doctype: standard
 editorialgroup:
   committee:
   - IEEE 11073 Standards Committee of the IEEE Engineering in Medicine and Biology
     Society
+ics:
+- code: 35.100.70
+  text: Application layer
+- code: 35.240.80
+  text: IT applications in health care technology
 ext:
   schema-version: v1.0.0
   standard_status: Inactive

@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: IEEEP400-D-6-2023-03
 title:
-- content: IEEE Approved Draft Guide for Field Testing and Evaluation of the Insulation
-    of Shielded Power Cable Systems Rated 5 kV and Above
+- content: IEEE Draft Guide for Field Testing and Evaluation of the Insulation of
+    Shielded Power Cable Systems Rated 5 kV and Above
   format: text/plain
   type: main
 link:
@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2023-03-30'
 - type: issued
-  value: '2023-06-29'
+  value: '2023'
 contributor:
 - organization:
     name:
@@ -47,12 +47,12 @@ language:
 script:
 - Latn
 abstract:
-- content: Various field test methods that are currently available for or have been
+- content: Various field test methods that are currently 1 available for or have been
     developed are listed in this guide. The guide covers shielded, insulated power
-    cable systems rated 5 kV and above. The guide also describes the tests and gives
-    advantages and disadvantages, suggested applications, and typical results. Complete
-    guides covering some of the test methods listed are available in the form of IEEE
-    400 “point” documents.
+    cable systems rated 5 kV and above. The guide describes the tests and gives advantages
+    and disadvantages, suggested applications, and typical results. Complete guides
+    covering some of the test methods listed are available in the form of IEEE 400
+    “point” documents
   language:
   - en
   script:
@@ -104,6 +104,23 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE400-2012
+    docid:
+    - id: IEEE 400-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 400-2012
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Power system reliability
@@ -111,7 +128,7 @@ keyword:
 - content: Power cables
 - content: Cable shielding
 - content: field testing
-- content: IEEE 400&#8482;
+- content: IEEE 400
 - content: power cable system
 doctype: standard
 editorialgroup:
@@ -122,7 +139,7 @@ ics:
   text: Power transmission and distribution networks in general
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

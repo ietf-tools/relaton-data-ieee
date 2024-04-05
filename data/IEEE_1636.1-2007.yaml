@@ -2,13 +2,13 @@
 schema-version: v1.2.3
 id: IEEE1636.1-2007
 title:
-- content: 'IEEE Standard for Software Interface for Maintenance Information Collection
-    and Analysis (SIMICA): Exchanging Test Results and Session Information via the
-    eXtensible Markup Language(XML)'
+- content: 'IEEE Trial-Use Standard for Software Interface for Maintenance Information
+    Collection and Analysis (SIMICA): Exchanging Test Results and Session Information
+    via the eXtensible Markup Language(XML)'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/6457401
+- content: https://ieeexplore.ieee.org/document/4460804
   type: src
 type: standard
 docid:
@@ -19,9 +19,9 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-0-7381-8162-2
+- id: 978-0-7381-5703-0
   type: ISBN
-- id: 10.1109/IEEESTD.2008.6457401
+- id: 10.1109/IEEESTD.2008.4460804
   type: DOI
 docnumber: IEEE 1636.1-2007
 date:
@@ -38,10 +38,6 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-    contact:
-    - address:
-        city: New York
-        country: USA
   role:
   - type: publisher
 revdate: '2013-02-07'
@@ -68,7 +64,7 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2013'
+  from: '2008'
 relation:
 - type: obsoletedBy
   bibitem:
@@ -80,12 +76,23 @@ relation:
     formattedref:
       content: IEEE 1636.1-2013 Redline
       format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE1636.1-2013Redline
+    docid:
+    - id: IEEE 1636.1-2013 Redline
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1636.1-2013 Redline
+      format: text/plain
 keyword:
-- content: IEEE standards
+- content: IEEE Standards
 - content: XML
-- content: Software interfaces
-- content: Software maintenance
-- content: Software testing
+- content: Software
+- content: Maintenance engineering
+- content: Trademarks
+- content: Patents
 - content: Automatic Test Markup Language (ATML)
 - content: automatic test systems
 - content: eXtensible Markup Language (XML)

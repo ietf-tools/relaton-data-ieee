@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: IEEEPC37.233-D-6.0-2022-09
 title:
-- content: IEEE Approved Draft Guide for Power System Protection Testing
+- content: IEEE Draft Guide for Power System Protection Testing
   format: text/plain
   type: main
 link:
@@ -24,9 +24,9 @@ date:
 - type: created
   value: '2023'
 - type: published
-  value: '2023-03-28'
+  value: '2023-03-29'
 - type: issued
-  value: '2023-06-05'
+  value: '2023'
 contributor:
 - organization:
     name:
@@ -40,19 +40,18 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-03-28'
+revdate: '2023-03-29'
 language:
 - en
 script:
 - Latn
 abstract:
 - content: Test approaches and procedures for the components and the overall protection
-    and control system functions are presented in this guide. Test of equipment in
-    the system protection scheme, associated communications equipment, auxiliary power
-    supplies, and the control of power apparatus are addressed. Much of the testing
-    emphasizes a bottom-up approach, in which the basic behavior of scheme components
-    are verified first, followed by testing of interconnected components in a function-oriented
-    assembly.
+    and control system functions are presented. Test of equipment in the system protection
+    scheme, associated communications equipment, auxiliary power supplies, and the
+    control of power apparatus are addressed. Much of the testing emphasizes a bottom-up
+    approach, in which the basic behavior of scheme components are verified first,
+    followed by testing of interconnected components in a function-oriented assembly.
   language:
   - en
   script:
@@ -87,74 +86,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC37.233-2009
-    docid:
-    - id: IEEE C37.233-2009
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.233-2009
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC37.233-2009
-    docid:
-    - id: IEEE C37.233-2009
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.233-2009
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC37.233-2009
-    docid:
-    - id: IEEE C37.233-2009
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.233-2009
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC37.233-2009
-    docid:
-    - id: IEEE C37.233-2009
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.233-2009
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Maintenance engineering
@@ -167,7 +98,6 @@ keyword:
 - content: IEEE C37.233&#8482;
 - content: maintenance testing
 - content: performance assessment
-- content: type testing
 doctype: standard
 editorialgroup:
   committee:
@@ -179,7 +109,7 @@ ics:
   text: Power transmission and distribution networks in general
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

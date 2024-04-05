@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2021-02-24'
 - type: issued
-  value: '2021-06-16'
+  value: '2021'
 contributor:
 - organization:
     name:
@@ -46,17 +46,6 @@ language:
 - en
 script:
 - Latn
-abstract:
-- content: The framework and architecture for machine learning in which a model is
-    trained using encrypted data that has been aggregated from multiple sources and
-    is processed by a trusted third party are defined in this standard. Functional
-    components, workflows, security requirements, technical requirements, and protocols
-    are specified in this standard.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -73,19 +62,16 @@ keyword:
 - content: Machine learning
 - content: Data fusion
 - content: Trust management
-- content: data fusion
-- content: IEEE 2830
-- content: shared machine learning
-- content: SML
-- content: trusted execution environment
-- content: TEE
+- content: Shared Machine Learning
+- content: Trusted Execution Environment
+- content: Data Fusion
 doctype: standard
 editorialgroup:
   committee:
-  - Artificial Intelligence Standards Committee of the IEEE Computer Society
+  - Standards Activities Board of the IEEE Computer Society
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: IEEEP1858-D-1-2022-10
 title:
-- content: IEEE Approved Draft Standard for Camera Phone Image Quality (CPIQ)
+- content: IEEE Draft Standard for Camera Phone Image Quality (CPIQ)
   format: text/plain
   type: main
 link:
@@ -22,11 +22,11 @@ docid:
 docnumber: IEEE P1858/D-1-2022-10
 date:
 - type: created
-  value: '2023-02-22'
+  value: '2022-11-11'
 - type: published
-  value: '2022-11-14'
+  value: '2022-11-15'
 - type: issued
-  value: '2023-02-15'
+  value: '2022'
 contributor:
 - organization:
     name:
@@ -40,7 +40,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-11-14'
+revdate: '2022-11-15'
 language:
 - en
 script:
@@ -50,9 +50,9 @@ abstract:
     in this standard, with an emphasis on metrics and procedures appropriate to the
     types of sensors, lenses, and signal processing routines present on such devices.
     It is not intended as a general image quality standard for photographs produced
-    by high-end dedicated cameras [e.g., digital single lens reflexes (DSLRs)]. Metrics
-    include spatial frequency response, color uniformity, chroma level, lateral chromatic
-    displacement, local geometric distortion, texture blur, and visual noise.
+    by high-end dedicated cameras, e.g., DSLRs. Metrics include spatial frequency
+    response, color uniformity, chroma level, lateral chromatic displacement, local
+    geometric distortion, texture blur, and visual noise.
   language:
   - en
   script:
@@ -70,40 +70,6 @@ copyright:
     url: http://www.ieee.org
   from: '2022'
 relation:
-- type: updates
-  bibitem:
-    id: IEEE1858-2016
-    docid:
-    - id: IEEE 1858-2016
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1858-2016
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1858-2016
-    docid:
-    - id: IEEE 1858-2016
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1858-2016
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: updates
   bibitem:
     id: IEEE1858-2016
@@ -143,7 +109,7 @@ ics:
   text: Photographic equipment. Projectors
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

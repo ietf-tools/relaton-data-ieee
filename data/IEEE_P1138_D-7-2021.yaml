@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2021-08-19'
 - type: issued
-  value: '2021'
+  value: '2021-09-23'
 contributor:
 - organization:
     name:
@@ -50,9 +50,10 @@ abstract:
 - content: The performance, test requirements, procedures, and acceptance criteria
     for a transmission line overhead ground wire (a.k.a. shield wire, static wire,
     earth wire, skywire) with optical fibers commonly known as optical ground wire
-    (OPGW) are covered. Functional requirements, such as electrical, mechanical, optical
-    fiber, environmental, and packaging, and test requirements related to design,
-    installation, in-service, and maintenance, including routine tests, are covered.
+    (OPGW) are covered in this standard. Functional requirements such as electrical,
+    mechanical, optical fiber, environmental, and packaging, and test requirements
+    related to design, installation, in-service, and maintenance, including routine
+    tests are also covered.
   language:
   - en
   script:
@@ -121,6 +122,40 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1138-2009
+    docid:
+    - id: IEEE 1138-2009
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1138-2009
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1138-2009
+    docid:
+    - id: IEEE 1138-2009
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1138-2009
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Optical fiber communication
@@ -131,6 +166,7 @@ keyword:
 - content: Wiring
 - content: Optical fibers
 - content: fiber optic ground wire
+- content: IEEE 1138
 - content: laboratory tests
 - content: OPGW
 - content: optical ground wire
@@ -146,7 +182,7 @@ ics:
   text: Fibre optic systems in general
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

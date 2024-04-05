@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: IEEEP1872.2-D-2-2021-08
 title:
-- content: IEEE Approved Draft Standard for Autonomous Robotics (AuR) Ontology
+- content: IEEE Draft Standard for Autonomous Robotics (AuR) Ontology
   format: text/plain
   type: main
 link:
@@ -22,7 +22,7 @@ docid:
 docnumber: IEEE P1872.2/D-2-2021-08
 date:
 - type: created
-  value: '2021'
+  value: '2021-08-13'
 - type: published
   value: '2021-08-16'
 - type: issued
@@ -46,13 +46,13 @@ language:
 script:
 - Latn
 abstract:
-- content: This standard extends IEEE 1872-2015 Standard for Ontologies for Robotics
-    and Automation to represent additional domain-specific concepts, definitions,
-    and axioms commonly used in Autonomous Robotics (AuR). This standard is general
-    and can be used in many ways - for example, to specify the domain knowledge needed
-    to unambiguously describe the design patterns of AuR systems, to represent AuR
-    system architectures in a unified way, or as a guideline to build autonomous systems
-    consisting of robots operating in various environments.
+- content: This standard extends IEEE Std 1872-2015, IEEE Standard for Ontologies
+    for Robotics and Automation, to represent additional domain-specific concepts,
+    definitions, and axioms commonly used in Autonomous Robotics (AuR). This standard
+    is general and can be used in many ways--for example, to specify the domain knowledge
+    needed to unambiguously describe the design patterns of AuR systems; to represent
+    AuR system architectures in a unified way; or as a guideline to build autonomous
+    systems consisting of robots operating in various environments.
   language:
   - en
   script:
@@ -75,11 +75,11 @@ keyword:
 - content: Automation
 - content: Ontologies
 - content: Autonomous systems
-- content: robotics
 - content: automation
+- content: autonomous robots
 - content: IEEE1872.2
 - content: ontology
-- content: autonomous robots
+- content: robotics
 doctype: standard
 editorialgroup:
   committee:
@@ -89,7 +89,7 @@ ics:
   text: Health care technology (Vocabularies)
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

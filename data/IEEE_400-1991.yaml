@@ -71,6 +71,16 @@ copyright:
     url: http://www.ieee.org
   from: '1991'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE400-2001
+    docid:
+    - id: IEEE 400-2001
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 400-2001
+      format: text/plain
 - type: updates
   bibitem:
     id: ANSI-IEEE400-1980
@@ -88,16 +98,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEE400-2001
-    docid:
-    - id: IEEE 400-2001
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 400-2001
-      format: text/plain
 keyword:
 - content: Cable insulation
 - content: Power cables
