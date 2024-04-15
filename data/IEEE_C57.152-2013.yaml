@@ -24,8 +24,6 @@ docid:
   type: DOI
 docnumber: IEEE C57.152-2013
 date:
-- type: updated
-  value: '2013-08-09'
 - type: created
   value: '2013'
 - type: published
@@ -39,6 +37,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2013-06-20'
@@ -64,9 +66,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -75,24 +74,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2013'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE62-1995
-    docid:
-    - id: IEEE 62-1995
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 62-1995
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Electrical safety
@@ -105,7 +86,7 @@ keyword:
 - content: diagnostic evaluation
 - content: field testing
 - content: fluid-filled transformer
-- content: IEEE C57.152&#8482;
+- content: IEEE C57.152
 - content: insulating liquid
 - content: off-line testing
 - content: reactor
@@ -123,7 +104,7 @@ ics:
   text: Transformers. Reactors
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Inactive
+  standard_modified: Reserved
   pubstatus: Active
   holdstatus: Publish

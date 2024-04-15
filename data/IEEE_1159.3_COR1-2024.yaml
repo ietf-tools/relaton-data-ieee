@@ -1,0 +1,121 @@
+---
+schema-version: v1.2.3
+id: IEEE1159.3-Cor1-2024
+title:
+- content: IEEE Recommended Practice for Power Quality Data Interchange Format (PQDIF)
+    - Corrigendum 1
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10497558
+  type: src
+type: standard
+docid:
+- id: IEEE 1159.3/Cor1-2024
+  type: IEEE
+  primary: true
+- id: IEEE 1159.3™/Cor1-2024
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-0670-3
+  type: ISBN
+- id: 10.1109/IEEESTD.2024.10497558
+  type: DOI
+docnumber: IEEE 1159.3/Cor1-2024
+date:
+- type: created
+  value: '2024'
+- type: published
+  value: '2024-04-12'
+- type: issued
+  value: '2024-02-15'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2024-04-12'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'IEEE Std 1159.3&#8482;-2019 specifies the Power Quality Data Interchange
+    Format (PQDIF), which is a file format suitable for exchanging power quality related
+    measurement and simulation data in a vendor-independent manner. Two critical “tags”
+    to Table B.6 that were recommended in IEEE Std 1159.3-2003 but removed in IEEE
+    Std 1159.3-2019: tagChannelDefnIdx and tagChannelGroupID are reinstated in this
+    corrigendum.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2024'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1159.3-2019
+    docid:
+    - id: IEEE 1159.3-2019
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1159.3-2019
+      format: text/plain
+  description:
+    content: corrects
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Standards
+- content: Power quality
+- content: Warranties
+- content: Trademarks
+- content: Regulation
+- content: Power measurement
+- content: data interchange
+- content: file format
+- content: IEEE 1159.3&#8482;
+- content: measurement
+- content: monitoring
+- content: power quality
+- content: PQDIF
+doctype: standard
+editorialgroup:
+  committee:
+  - Transmission and Distribution of the IEEE Power and Energy Society
+ics:
+- code: 29.240.01
+  text: Power transmission and distribution networks in general
+- code: 35.240.63
+  text: IT applications in trade
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Approved
+  pubstatus: Active
+  holdstatus: Publish

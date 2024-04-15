@@ -24,8 +24,6 @@ docid:
   type: DOI
 docnumber: IEEE 1888.1-2013
 date:
-- type: updated
-  value: '2013-12-23'
 - type: created
   value: '2013-10-11'
 - type: published
@@ -39,6 +37,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2013-10-10'
@@ -60,9 +62,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -88,13 +87,13 @@ keyword:
 doctype: standard
 editorialgroup:
   committee:
-  - Corporate Advisory Group of the IEEE-SA Board of Governors
+  - Entity Collaborative Activities Governance Board of the IEEE SA Board of Governors
 ics:
 - code: '35.110'
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Inactive
+  standard_modified: Reserved
   pubstatus: Active
   holdstatus: Publish

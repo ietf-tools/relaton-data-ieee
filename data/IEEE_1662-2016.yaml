@@ -24,8 +24,6 @@ docid:
   type: DOI
 docnumber: IEEE 1662-2016
 date:
-- type: updated
-  value: '2017-03-31'
 - type: created
   value: '2017'
 - type: published
@@ -39,6 +37,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2017-03-08'
@@ -61,9 +63,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -73,6 +72,33 @@ copyright:
     url: http://www.ieee.org
   from: '2016'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE1662-2023
+    docid:
+    - id: IEEE 1662-2023
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1662-2023
+      format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1662-2008
+    docid:
+    - id: IEEE 1662-2008
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1662-2008
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: obsoletedBy
   bibitem:
     id: IEEE1662-2023
@@ -131,13 +157,12 @@ keyword:
 doctype: standard
 editorialgroup:
   committee:
-  - Petroleum &amp; Chemical Industry of the IEEE Industry Applications Society
+  - Petroleum and Chemical Industry of the IEEE Industry Applications Society
 ics:
 - code: 47.020.60
   text: Electrical equipment of ships and of marine structures
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Superseded
   pubstatus: Active
   holdstatus: Publish

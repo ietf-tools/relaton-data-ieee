@@ -24,8 +24,6 @@ docid:
   type: DOI
 docnumber: IEEE 317-2013
 date:
-- type: updated
-  value: '2013-07-26'
 - type: created
   value: '2013'
 - type: published
@@ -39,6 +37,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2013-07-11'
@@ -66,9 +68,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -129,13 +128,13 @@ keyword:
 doctype: standard
 editorialgroup:
   committee:
-  - Nuclear Power Engineering of the IEEE Power and Energy Society
+  - Nuclear Power Engineering Committee of the IEEE Power and Energy Society
 ics:
 - code: 27.120.10
   text: Reactor engineering
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Inactive
+  standard_modified: Reserved
   pubstatus: Active
   holdstatus: Publish

@@ -24,8 +24,6 @@ docid:
   type: DOI
 docnumber: IEEE 400.2-2013
 date:
-- type: updated
-  value: '2013-06-14'
 - type: created
   value: '2013'
 - type: published
@@ -39,6 +37,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2013-05-21'
@@ -58,9 +60,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -104,7 +103,7 @@ keyword:
 - content: dielectric spectroscopy
 - content: grounding
 - content: hipot testing
-- content: IEEE 400.2&#8482;
+- content: IEEE 400.2
 - content: partial discharge testing
 - content: proof testing
 - content: safety
@@ -120,7 +119,7 @@ ics:
   text: Wires and symmetrical cables
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Inactive
+  standard_modified: Reserved
   pubstatus: Active
   holdstatus: Publish

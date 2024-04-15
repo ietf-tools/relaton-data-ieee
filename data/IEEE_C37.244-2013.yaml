@@ -24,8 +24,6 @@ docid:
   type: DOI
 docnumber: IEEE C37.244-2013
 date:
-- type: updated
-  value: '2013-06-14'
 - type: created
   value: '2013-05-10'
 - type: published
@@ -39,6 +37,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2013-05-06'
@@ -54,9 +56,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -84,15 +83,15 @@ keyword:
 doctype: standard
 editorialgroup:
   committee:
-  - IEEE Power and Energy Society
+  - Power System Communications and Cybersecurity of the IEEE Power and Energy Society
 ics:
-- code: '29.180'
+- code: 29.240.01
   text: Power transmission and distribution networks in general
-- code: ''
+- code: '33.200'
   text: Telecontrol. Telemetering
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Inactive
+  standard_modified: Reserved
   pubstatus: Active
   holdstatus: Publish
