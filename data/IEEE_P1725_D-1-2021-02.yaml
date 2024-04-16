@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: IEEEP1725-D-1-2021-02
 title:
-- content: IEEE Draft Standard for Rechargeable Batteries for Cellular Telephones
+- content: IEEE Approved Draft Standard for Rechargeable Batteries for Cellular Telephones
   format: text/plain
   type: main
 link:
@@ -26,7 +26,7 @@ date:
 - type: published
   value: '2021-03-23'
 - type: issued
-  value: '2021'
+  value: '2021-06-16'
 contributor:
 - organization:
     name:
@@ -49,7 +49,7 @@ abstract:
 - content: 'Criteria for design analysis for qualification, quality, and reliability
     of rechargeable lithium ion batteries for host devices such as cellular telephone
     applications are established. Also included are: battery pack electrical and mechanical
-    construction, packaging technologies, pack and cell level charge and discharge
+    construction, packaging technologies, pack- and celllevel charge and discharge
     controls, and overall system considerations.'
   language:
   - en
@@ -136,6 +136,40 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1725-2011
+    docid:
+    - id: IEEE 1725-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1725-2011
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1725-2011
+    docid:
+    - id: IEEE 1725-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1725-2011
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Lithium ion batteries
@@ -143,7 +177,7 @@ keyword:
 - content: Cellular phones
 - content: cellular telephones
 - content: host device
-- content: IEEE 1725
+- content: IEEE 1725(TM)
 - content: lithium ion batteries
 doctype: standard
 editorialgroup:
@@ -155,7 +189,7 @@ ics:
   text: Primary cells and batteries
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

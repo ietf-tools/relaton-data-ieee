@@ -80,16 +80,6 @@ copyright:
     - content: IEC
   from: '2011'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: ISO-IEC-IEEE15289-2015
-    docid:
-    - id: ISO/IEC/IEEE 15289-2015
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ISO/IEC/IEEE 15289-2015
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEE-EIA12207.1-1997
@@ -107,6 +97,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: ISO-IEC-IEEE15289-2015
+    docid:
+    - id: ISO/IEC/IEEE 15289-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ISO/IEC/IEEE 15289-2015
+      format: text/plain
 keyword:
 - content: IEEE standards
 - content: Software engineering

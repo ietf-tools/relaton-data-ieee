@@ -6,7 +6,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/7862972
+- content: https://ieeexplore.ieee.org/document/213705
   type: src
 type: standard
 docid:
@@ -19,14 +19,12 @@ docid:
   primary: true
 - id: 978-0-7381-4401-6
   type: ISBN
-- id: 10.1109/IEEESTD.1986.7862972
+- id: 10.1109/IEEESTD.1989.114461
   type: DOI
 docnumber: IEEE 730.1-1989
 date:
 - type: created
-  value: '1986-10-10'
-- type: published
-  value: '2017-02-23'
+  value: '1989'
 - type: issued
   value: '1989-08-17'
 contributor:
@@ -42,11 +40,29 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2017-02-23'
 language:
 - en
 script:
 - Latn
+abstract:
+- content: The purpose of the IEEE standard presented is to provide uniform, minimum
+    acceptable requirements for preparation and content of software quality assurance
+    plans (SQAPs). In considering adoption of this standard, regulatory bodies should
+    be aware that specific application of this standard may already be covered by
+    one or more IEEE or ANSI standards documents relating to quality assurance, definitions,
+    or other matters. This standard applies to the development and maintenance of
+    critical software. For non-critical software, or for software already developed,
+    a subset of the requirements of this standard may be applied. The existence of
+    this standard should not be construed to prohibit additional content in a SQAP.
+    An assessment should be made for the specific software item to assure adequacy
+    of coverage. Where this standard is invoked for an organization or project engaged
+    in producting several software items, the applicability of the standard should
+    be specified for each of the software items.<<ETX>>
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 copyright:
 - owner:
   - name:
@@ -91,9 +107,10 @@ relation:
     - Latn
     format: text/plain
 keyword:
-- content: IEEE Standards
+- content: Quality control
 - content: Software quality
-- content: Quality assurance
+- content: Software reliability
+- content: Standards
 doctype: standard
 editorialgroup:
   committee:

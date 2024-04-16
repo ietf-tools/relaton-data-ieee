@@ -46,6 +46,20 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: The in-service visual inspection, application, care, maintenance, and electrical
+    and mechanical testing of insulating flexible slings, including core, insulating
+    sheath, and attachments for use during live line work on voltages up to 1000 kV
+    alternating current (AC) and ±800 kV direct current (DC) is provided in this guide.
+    Testing pertains only to electrical and mechanical tests that may be performed
+    periodically to check if there is any reduction in the electrical performance,
+    mechanical performance, and both (combined) electrical and mechanical performance
+    of the insulating flexible sling.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -63,15 +77,21 @@ keyword:
 - content: Power transmission lines
 - content: Insulation testing
 - content: Performance evaluation
-- content: insulating flexible sling; live working; AC 1000kV; DC ±800kV; overhead
-    power transmission line；electrical performance；mechanical performance
+- content: ac 1000 kV
+- content: dc ± 800 kV
+- content: electrical performance
+- content: IEEE 2942&#8482;
+- content: insulating flexible sling
+- content: live working
+- content: mechanical performance
+- content: overhead power transmission line
 doctype: standard
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

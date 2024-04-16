@@ -29,7 +29,7 @@ date:
 - type: published
   value: '2021-05-21'
 - type: issued
-  value: '2022-12-03'
+  value: '2021'
 contributor:
 - organization:
     name:
@@ -50,10 +50,10 @@ script:
 - Latn
 abstract:
 - content: This amendment defines modifications to both the IEEE 802.11 medium access
-    control layer (MAC) and physical layers (PHY). Compared to IEEE Std 802.11-2020
-    it enables absolute and relative position estimation with higher accuracy, and
-    reduces wireless medium utilization and power consumption, is scalable to dense
-    deployments, and includes security features.
+    control layer (MAC) and physical layers (PHY). It enables absolute and relative
+    position estimation with higher-accuracy executing on the same PHY-type. Further,
+    it reduces existing wireless medium utilization and power consumption, is scalable
+    to dense deployments, and includes security features.
   language:
   - en
   script:
@@ -88,6 +88,108 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.11-2020
+    docid:
+    - id: IEEE 802.11-2020
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.11-2020
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.11-2020
+    docid:
+    - id: IEEE 802.11-2020
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.11-2020
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.11-2020
+    docid:
+    - id: IEEE 802.11-2020
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.11-2020
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.11-2020
+    docid:
+    - id: IEEE 802.11-2020
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.11-2020
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.11-2020
+    docid:
+    - id: IEEE 802.11-2020
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.11-2020
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.11-2020
+    docid:
+    - id: IEEE 802.11-2020
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.11-2020
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: IEEE 802.11 Standard
@@ -98,12 +200,10 @@ keyword:
 - content: Metropolitan area networks
 - content: Information technology
 - content: Information exchange
-- content: direction measurement
 - content: Fine Timing Measurement (FTM)
-- content: IEEE 802.11
-- content: IEEE 802.11az
 - content: positioning
 - content: ranging
+- content: direction measurement
 doctype: standard
 editorialgroup:
   committee:
@@ -113,7 +213,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

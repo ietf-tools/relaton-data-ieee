@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: IEEEP11073.10419-D-15-2023-09
 title:
-- content: 'IEEE Draft Standard for Health Informatics - Device interoperability -
-    Part 10419: Personal Health Device Communication --Device Specialization - Insulin
+- content: 'IEEE Approved Draft Standard for Health Informatics - Device interoperability
+    - Part 10419: Personal Health Device Communication --Device Specialization - Insulin
     Pump'
   format: text/plain
   type: main
@@ -24,11 +24,11 @@ docid:
 docnumber: IEEE P11073.10419/D-15-2023-09
 date:
 - type: created
-  value: '2023'
+  value: '2024'
 - type: published
   value: '2023-09-29'
 - type: issued
-  value: '2023'
+  value: '2023-12-06'
 contributor:
 - organization:
     name:
@@ -143,8 +143,63 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE11073.10419-2017
+    docid:
+    - id: IEEE 11073.10419-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 11073.10419-2017
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE11073.10419-2017
+    docid:
+    - id: IEEE 11073.10419-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 11073.10419-2017
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE11073.10419-2017
+    docid:
+    - id: IEEE 11073.10419-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 11073.10419-2017
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
-- content: IEEE 11073-10419(TM)
+- content: IEEE Standards
+- content: Medical devices
+- content: Interoperability
+- content: Insulin pumps
+- content: IEEE 11073-10419&#8482;
 - content: insulin pump
 - content: medical device communication
 - content: personal health devices
@@ -158,7 +213,7 @@ ics:
   text: IT applications in health care technology
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

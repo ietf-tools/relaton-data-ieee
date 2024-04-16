@@ -6,7 +6,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/754766
+- content: https://ieeexplore.ieee.org/document/7862114
   type: src
 type: standard
 docid:
@@ -19,12 +19,14 @@ docid:
   primary: true
 - id: 978-0-7381-1554-2
   type: ISBN
-- id: 10.1109/IEEESTD.1998.89205
+- id: 10.1109/IEEESTD.1999.7862114
   type: DOI
 docnumber: IEEE 1445-1998
 date:
 - type: created
-  value: '1998'
+  value: '1999'
+- type: published
+  value: '2017-02-22'
 - type: issued
   value: '1998-12-08'
 contributor:
@@ -40,6 +42,7 @@ contributor:
         country: USA
   role:
   - type: publisher
+revdate: '2017-02-22'
 language:
 - en
 script:
@@ -48,9 +51,8 @@ abstract:
 - content: 'The information content and the data formats for the interchange of digital
     test program data between digital automated test program generators (DATPGs) and
     automatic test equipment (ATE) for board-level printed circuit assemblies are
-    defined. This information can be broadly grouped into data that defines the following:
-    the UUT (unit under test) model, stimulus and response, the fault dictionary,
-    and probes.'
+    deÞned. This information can be broadly grouped into data that deÞnes the following:
+    UUT Model, Stimulus and Response, Fault Dictionary, and Probe.'
   language:
   - en
   script:
@@ -86,7 +88,16 @@ relation:
       content: IEEE 1445-2016
       format: text/plain
 keyword:
-- content: IEEE standards
+- content: IEEE Standards
+- content: Automatic test equipment
+- content: Testing
+- content: Program generators
+- content: Digital test interchange format
+- content: Fault diagnosis
+- content: automatic test equipment (ATE)
+- content: digital automated test program generator (DATPG)
+- content: digital test interchange format (DTIF)
+- content: Fault Dictionary data
 doctype: standard
 editorialgroup:
   committee:

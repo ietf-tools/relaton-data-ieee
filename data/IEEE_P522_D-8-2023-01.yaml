@@ -92,6 +92,23 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE522-2004
+    docid:
+    - id: IEEE 522-2004
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 522-2004
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: AC machines
@@ -114,7 +131,7 @@ ics:
   text: Other standards related to insulation
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

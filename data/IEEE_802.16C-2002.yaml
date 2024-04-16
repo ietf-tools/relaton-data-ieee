@@ -3,12 +3,12 @@ schema-version: v1.2.3
 id: IEEE802.16c-2002
 title:
 - content: 'IEEE Standard for Local and Metropolitan Area Networks - Part 16: Air
-    Interface for Fixed Broadband Wireless Access Systems - Amendment 1: Detailed
-    System Profiles for 10-66 GHz'
+    Interface for Fixed Broadband Wireless Access Systems-Amendment 1: Detailed System
+    Profiles for 10-66 GHz'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8684696
+- content: https://ieeexplore.ieee.org/document/1167375
   type: src
 type: standard
 docid:
@@ -21,14 +21,12 @@ docid:
   primary: true
 - id: 978-0-7381-3494-9
   type: ISBN
-- id: 10.1109/IEEESTD.2003.8684696
+- id: 10.1109/IEEESTD.2002.94227
   type: DOI
 docnumber: IEEE 802.16c-2002
 date:
 - type: created
-  value: '2003-01-09'
-- type: published
-  value: '2019-04-05'
+  value: '2002'
 - type: issued
   value: '2002-12-11'
 contributor:
@@ -44,7 +42,6 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2019-04-05'
 language:
 - en
 script:
@@ -53,7 +50,7 @@ abstract:
 - content: This amendment updates and expands Clause 12 of IEEE Std 802.16-2001, which
     concerns system profiles that list sets of features and functions to be used in
     typical implementation cases. Errors and inconsistencies in IEEE Std 802.16-2001
-    are also corrected. The scope is limited to 10&#8211;66 GHz.
+    are also corrected. The scope is limited to 10-66 GHz.
   language:
   - en
   script:
@@ -85,12 +82,23 @@ relation:
     script:
     - Latn
     format: text/plain
-keyword:
-- content: fixed broadband wireless access networks
-- content: metropolitan area network
-- content: millimeter waves
-- content: microwaves
-- content: WirelessMAN standards
+- type: updates
+  bibitem:
+    id: IEEE802.16-2001
+    docid:
+    - id: IEEE 802.16-2001
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.16-2001
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 doctype: standard
 editorialgroup:
   committee:

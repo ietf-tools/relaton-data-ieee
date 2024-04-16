@@ -2,14 +2,13 @@
 schema-version: v1.2.3
 id: ISO-IEC-IEEE8802.1
 title:
-- content: 'ISO/IEC/IEEE International Standard for Information technology -- Telecommunications
-    and information exchange between systems -- Local and metropolitan area networks
-    -- Specific requirements -- Part 1BR: Virtual bridged local area networks -- Bridge
-    port extension'
+- content: ISO/IEC/IEEE International Standard - Information technology - Telecommunications
+    and information exchange between systems - Local and metropolitan area networks
+    - Specific requirements Part 1AX--Link Aggregation
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/7731260
+- content: https://ieeexplore.ieee.org/document/7393432
   type: src
 type: standard
 docid:
@@ -20,16 +19,16 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-2441-7
+- id: 978-1-5044-0672-7
   type: ISBN
-- id: 10.1109/IEEESTD.2016.7731260
+- id: 10.1109/IEEESTD.2016.7393432
   type: DOI
 docnumber: ISO/IEC/IEEE 8802.1
 date:
 - type: created
-  value: '2016-10-15'
+  value: '2016-02-01'
 - type: published
-  value: '2016-11-02'
+  value: '2016-01-26'
 - type: issued
   value: '2016'
 contributor:
@@ -45,23 +44,22 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2016-11-02'
+revdate: '2016-01-26'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This standard specifies the operation of Bridge Port Extenders, including
-    management, protocols, and algorithms. Bridge Port Extenders operate in support
-    of the MAC Service by Extended Bridges.
+- content: MAC-independent Link Aggregation capability and general information relevant
+    to specific MAC types are defined in this standard. Link Aggregation allows parallel
+    full-duplex point-to-point links to be used as if they were a single link and
+    also supports the use of multiple links as a resilient load sharing interconnect
+    between multiple nodes in two separately administered networks.
   language:
   - en
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -77,36 +75,66 @@ copyright:
 relation:
 - type: adoptedFrom
   bibitem:
-    id: IEEE802.1BA-2011
+    id: IEEE802.1AX-2014
     docid:
-    - id: IEEE 802.1BA-2011
+    - id: IEEE 802.1AX-2014
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 802.1BA-2011
+      content: IEEE 802.1AX-2014
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.1Q-2014
+    docid:
+    - id: IEEE 802.1Q-2014
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1Q-2014
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.1AX-2014
+    docid:
+    - id: IEEE 802.1AX-2014
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1AX-2014
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.1Q-2014
+    docid:
+    - id: IEEE 802.1Q-2014
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1Q-2014
       format: text/plain
 keyword:
 - content: IEEE Standards
 - content: ISO Standards
 - content: IEC Standards
-- content: Bridge circuits
+- content: Resilient networks
+- content: Aggregatorsa
+- content: Link aggregators
 - content: Local area networks
-- content: Metropolitan area networks
-- content: Virtual networks
-- content: Media Access Protocol
-- content: Data centers
-- content: Bridged Local Area Networks
-- content: Data Center Bridging
-- content: DCB
-- content: Edge Virtual Bridging
-- content: EVB
-- content: IEEE 802.1BR
-- content: LANs
-- content: local area networks
-- content: MAC Bridges
-- content: MANs
-- content: metropolitan area networks
-- content: Virtual Bridged Local Area Networks
+- content: Telecommunication network management
+- content: Aggregated Link
+- content: Aggregator
+- content: Distributed Resilient Network Interconnect
+- content: DRNI
+- content: IEEE 802(R)
+- content: IEEE 802.1AX(TM)
+- content: interconnect
+- content: Link Aggregation
+- content: Link Aggregation Group
+- content: local area network
+- content: management
+- content: Network-Network Interface
+- content: NNI
 doctype: standard
 editorialgroup:
   committee:
@@ -116,7 +144,6 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Superseded
   pubstatus: Active
   holdstatus: Publish

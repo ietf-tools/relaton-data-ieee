@@ -25,9 +25,9 @@ date:
 - type: created
   value: '2023'
 - type: published
-  value: '2023-06-09'
+  value: '2023-06-08'
 - type: issued
-  value: '2023'
+  value: '2023-11-08'
 contributor:
 - organization:
     name:
@@ -41,13 +41,13 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-06-09'
+revdate: '2023-06-08'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'e-Voting is an application of modern Web and Distributed Ledger Technology
+- content: 'e-Voting is an application of modern Web 3 and distributed ledger technology
     (DLT) for more choices and security in registration and voting. Choices range
     from voting with anonymous paper ballots and postal mail, to online voting where
     an electronic ballot can be authenticated that it was received and recorded as
@@ -80,17 +80,23 @@ keyword:
 - content: Cryptocurrency
 - content: Distributed ledger
 - content: adjudicate
-- content: administrative
+- content: administration
 - content: anonymous
 - content: application
 - content: archival
+- content: area
 - content: audit
-- content: authenticate
+- content: authenticated
 - content: ballot
+- content: blockchain
+- content: certification
+- content: chain of custody
 - content: choices
 - content: classify
 - content: clear
+- content: code
 - content: communications
+- content: compliance
 - content: confirm
 - content: council
 - content: cryptocurrency
@@ -100,7 +106,7 @@ keyword:
 - content: digital wallet
 - content: directed acyclic graph
 - content: distributed ledger technology
-- content: e-voting
+- content: e-Voting
 - content: efficient
 - content: electronic
 - content: error
@@ -109,24 +115,34 @@ keyword:
 - content: fraud
 - content: fungible token
 - content: genesis
-- content: IEEE 13 2818.11&#8482;
+- content: hash
+- content: IEEE 2418.11&#8482;
 - content: level
+- content: location
 - content: methods
 - content: mint
 - content: modern
 - content: non-fungible token
 - content: on-site
 - content: online
+- content: optional
 - content: paper
 - content: performance
 - content: pillars
+- content: polling
 - content: postal mail
+- content: private key
+- content: provenance
 - content: pseudo-anonymous
+- content: public address
+- content: public key
 - content: quantum
 - content: quick response code
 - content: real-time
 - content: receive
 - content: record
+- content: registered ballot
+- content: registered voter
 - content: registration
 - content: registration area
 - content: scalable
@@ -134,29 +150,37 @@ keyword:
 - content: send
 - content: settle
 - content: source
+- content: storage
 - content: sub-divisions
 - content: supervisor of elections
 - content: suspicious
+- content: sustainable
 - content: system
 - content: tailored
 - content: timeline
 - content: token
 - content: transaction
 - content: transparent
+- content: unique
 - content: validate
 - content: validation node
 - content: verify
 - content: voter identification card
 - content: voting
-- content: web 3
+- content: Web 3
 doctype: standard
 editorialgroup:
   committee:
   - Industrial Electronics Society Standards Committee of the IEEE Industrial Electronics
     Society
+ics:
+- code: '35.030'
+  text: IT Security
+- code: 35.240.99
+  text: IT applications in other fields
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

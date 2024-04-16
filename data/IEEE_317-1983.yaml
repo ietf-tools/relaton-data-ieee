@@ -70,6 +70,16 @@ copyright:
     url: http://www.ieee.org
   from: '1983'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE317-2013
+    docid:
+    - id: IEEE 317-2013
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 317-2013
+      format: text/plain
 - type: updates
   bibitem:
     id: IEEE317-1976
@@ -97,6 +107,23 @@ relation:
     formattedref:
       content: IEEE 317-2013
       format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE317-1976
+    docid:
+    - id: IEEE 317-1976
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 317-1976
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: penetration
 - content: containment

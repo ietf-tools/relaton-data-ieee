@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: IEEEP11073.10442-D-7-2023-06
 title:
-- content: 'IEEE Draft Health Informatics - Personal Health Device Communication Part
-    10442: Device Specialization - Strength Fitness Equipment'
+- content: 'IEEE Approved Draft Health Informatics - Personal Health Device Communication
+    Part 10442: Device Specialization - Strength Fitness Equipment'
   format: text/plain
   type: main
 link:
@@ -25,9 +25,9 @@ date:
 - type: created
   value: '2023'
 - type: published
-  value: '2023-07-19'
+  value: '2023-07-18'
 - type: issued
-  value: '2023'
+  value: '2023-09-21'
 contributor:
 - organization:
     name:
@@ -41,11 +41,28 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-07-19'
+revdate: '2023-07-18'
 language:
 - en
 script:
 - Latn
+abstract:
+- content: Within the context of the ISO/IEEE 11073 family of standards for device
+    communication, a normative definition of the communication between personal strength
+    fitness devices and managers (e.g., cell phones, personal computers, personal
+    health appliances, and set top boxes) in a manner that enables plug-and-play interoperability
+    is established in this standard. Appropriate portions of existing standards including
+    ISO/IEEE 11073 terminology and information models are leveraged. The use of specific
+    term codes, formats, and behaviors in telehealth environments restricting optionality
+    in base frameworks in favor of interoperability is specified. A common core of
+    communication functionality for personal telehealth strength fitness devices is
+    defined. In this context, strength fitness devices are being used broadly to cover
+    strength fitness devices that measure musculo-skeletal strength-conditioning activities.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -58,23 +75,6 @@ copyright:
     url: http://www.ieee.org
   from: '2023'
 relation:
-- type: updates
-  bibitem:
-    id: IEEE11073.10442-2008
-    docid:
-    - id: IEEE 11073.10442-2008
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 11073.10442-2008
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: updates
   bibitem:
     id: IEEE11073.10442-2008
@@ -109,11 +109,9 @@ editorialgroup:
 ics:
 - code: 35.240.80
   text: IT applications in health care technology
-- code: 11.040.55
-  text: Diagnostic equipment
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

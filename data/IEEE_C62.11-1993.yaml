@@ -67,16 +67,6 @@ copyright:
     url: http://www.ieee.org
   from: '1994'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEEC62.11-1999
-    docid:
-    - id: IEEE C62.11-1999
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C62.11-1999
-      format: text/plain
 - type: updates
   bibitem:
     id: ANSI-IEEEC62.11-1987
@@ -94,6 +84,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEEC62.11-1999
+    docid:
+    - id: IEEE C62.11-1999
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C62.11-1999
+      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Arresters

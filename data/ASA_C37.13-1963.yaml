@@ -7,7 +7,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8684455
+- content: https://ieeexplore.ieee.org/document/7370721
   type: src
 type: standard
 docid:
@@ -20,14 +20,16 @@ docid:
   primary: true
 - id: 978-1-5044-0481-5
   type: ISBN
-- id: 10.1109/IEEESTD.1962.8684455
+- id: 10.1109/IEEESTD.1963.7370721
   type: DOI
 docnumber: ASA C37.13-1963
 date:
+- type: updated
+  value: '2016-01-29'
 - type: created
-  value: '1962-11-30'
+  value: '1963-01-12'
 - type: published
-  value: '2019-04-05'
+  value: '2016-01-01'
 - type: issued
   value: '1963'
 contributor:
@@ -39,11 +41,23 @@ contributor:
     url: http://www.ieee.org
   role:
   - type: publisher
-revdate: '2019-04-05'
+revdate: '2016-01-01'
 language:
 - en
 script:
 - Latn
+abstract:
+- content: This standard applies to all low-voltage power circuit breakers of the
+    600-volt insulation class capable of interrupting short-circuit currents in excess
+    of 10,000 amp (amperes) for use with ac circuits. Other low-voltage power circuit
+    breakers for use on circuits rated up to 1,000 volts ac and 3,000 volts dc are
+    not covered by this standard; molded-case circuit breakers are specifically not
+    covered.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 copyright:
 - owner:
   - name:
@@ -54,6 +68,12 @@ copyright:
   - name:
     - content: ASA
   from: '1963'
+keyword:
+- content: ANSI Standards
+- content: Circuit breakers
+- content: Low power electronics
+- content: Voltage control
+- content: AC machines
 doctype: standard
 ext:
   schema-version: v1.0.0

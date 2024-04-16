@@ -75,16 +75,6 @@ copyright:
     url: http://www.ieee.org
   from: '2020'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: ISO-IEC-IEEE8802.3-Amd9-2021
-    docid:
-    - id: ISO/IEC/IEEE 8802.3/Amd9-2021
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ISO/IEC/IEEE 8802.3/Amd9-2021
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEE802.3-2018
@@ -102,26 +92,23 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
+- type: updates
   bibitem:
-    id: ISO-IEC-IEEE8802.3-Amd9-2021
+    id: IEEE802.3-2018
     docid:
-    - id: ISO/IEC/IEEE 8802.3/Amd9-2021
+    - id: IEEE 802.3-2018
       type: IEEE
       primary: true
     formattedref:
-      content: ISO/IEC/IEEE 8802.3/Amd9-2021
+      content: IEEE 802.3-2018
       format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: ISO-IEC-IEEE8802.3-Amd9-2021
-    docid:
-    - id: ISO/IEC/IEEE 8802.3/Amd9-2021
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ISO/IEC/IEEE 8802.3/Amd9-2021
-      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Ethernet

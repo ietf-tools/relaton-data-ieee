@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: IEEEP1636.1-D-1-Cor1-2023-08
 title:
-- content: 'IEEE Draft Standard for Software Interface for Maintenance Information
+- content: 'IEEE Approved Draft Standard for Software Interface for Maintenance Information
     Collection and Analysis (SIMICA): Exchanging Test Results and Session Information
     via the eXtensible Markup Language (XML) - Corrigendum 1'
   format: text/plain
@@ -24,11 +24,11 @@ docid:
 docnumber: IEEE P1636.1/D-1/Cor1-2023-08
 date:
 - type: created
-  value: '2023'
+  value: '2023-11-14'
 - type: published
   value: '2023-07-28'
 - type: issued
-  value: '2023'
+  value: '2023-11-08'
 contributor:
 - organization:
     name:
@@ -88,23 +88,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1636.1-2018
-    docid:
-    - id: IEEE 1636.1-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1636.1-2018
-      format: text/plain
-  description:
-    content: corrects
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: XML
@@ -116,24 +99,26 @@ keyword:
 - content: Automatic testing
 - content: automated test system (ATS)
 - content: extensible markup language (XML)
-- content: IEEE 1636.1&#8482;
-- content: test results and session information
+- content: IEEE 1636.1
+- content: OWL ontology
 - content: Software Interface for Maintenance Information Collection and Analysis
     (SIMICA)
-- content: OWL ontology
+- content: test results and session information
 - content: XML schema
 doctype: standard
 editorialgroup:
   committee:
-  - IEEE SA Board of Governors
+  - SCC20 - Test and Diagnosis for Electronic Systems of the IEEE SA Board of Governors
 ics:
 - code: 25.040.01
   text: Industrial automation systems in general
 - code: '35.060'
   text: Languages used in information technology
+- code: '35.200'
+  text: Interface and interconnection equipment
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

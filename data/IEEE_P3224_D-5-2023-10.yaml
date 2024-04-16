@@ -47,13 +47,13 @@ language:
 script:
 - Latn
 abstract:
-- content: This standard specifies requirements and specifications for using blockchain
-    for green power identification applications. It describes a technical framework
-    for the planning, design, construction and operation of green power identification
-    systems. The purpose is to improve the efficiency of system interactions, perform
-    life cycle traceability management of green power identification applications,
+- content: Requirements and specifications for using blockchain for green power identification
+    applications are specified in this standard. A technical framework for the planning,
+    design, construction, and operation of green power identification systems is described.
+    The purpose is to improve the efficiency of system interactions, perform life
+    cycle traceability management of green power identification applications, and
     enhance the efficiency of multi-subject identity authentication for green power
-    identification, and thereby improve business efficiency.
+    identification, thereby improving business efficiency.
   language:
   - en
   script:
@@ -74,17 +74,23 @@ keyword:
 - content: IEEE Standards
 - content: Blockchains
 - content: Green products
-- content: green power
-- content: green electricity certificate
 - content: blockchain
-- content: IEEE 3224
+- content: certificate
+- content: green electricity
+- content: green power
+- content: IEEE 3224&#8482;
 doctype: standard
 editorialgroup:
   committee:
   - Blockchain and Distributed Ledgers of the IEEE Computer Society
+ics:
+- code: '27.190'
+  text: Biological sources and alternative sources of energy
+- code: 35.240.99
+  text: IT applications in other fields
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

@@ -2,11 +2,11 @@
 schema-version: v1.2.3
 id: ANSI-IEEE1014-1987
 title:
-- content: 'IEEE Standard for a Versatile Backplane Bus: VMEbus'
+- content: 'IEEE Standard for A Versatile Backplane Bus: VMEbus'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/172897
+- content: https://ieeexplore.ieee.org/document/8957719
   type: src
 type: standard
 docid:
@@ -19,12 +19,14 @@ docid:
   primary: true
 - id: 978-0-7381-1175-9
   type: ISBN
-- id: 10.1109/IEEESTD.1987.101857
+- id: 10.1109/IEEESTD.1988.8957719
   type: DOI
 docnumber: ANSI/IEEE 1014-1987
 date:
 - type: created
-  value: '1987'
+  value: '1988'
+- type: published
+  value: '2020-01-13'
 - type: issued
   value: '1987-03-12'
 contributor:
@@ -40,24 +42,25 @@ contributor:
         country: USA
   role:
   - type: publisher
+revdate: '2020-01-13'
 language:
 - en
 script:
 - Latn
 abstract:
 - content: 'This IEEE 1014 standard specifies a high-performance backplane bus for
-    use in microcomputer systems that employ single or multiple microprocessors. It
-    is based on the VMEbus specification, released by the VME Manufacturers'' Group
-    in August of 1982. The bus includes four subbuses: data transfer bus, priority
+    use in microcomputer systems that employ single or multiple microprocessors is
+    specified. It is based on the VMEbus specification, released by the VME Manufacturers''
+    Group in August of 1982. The bus includes four subbuses: data transfer bus, priority
     interrupt bus, arbitration bus, and utility bus. The data transfer bus supports
-    8-, 16-, and 32-bit transfers over a nonmultiplexed 32-bit data and address highway.
+    8-, 16-, and 32-bit transfers over a non-multiplexed 32-bit data and address highway.
     The transfer protocols are asynchronous and fully handshaken. The priority interrupt
     bus provides real-time interrupt services to the system. The allocation of bus
     mastership is performed by the arbitration bus, which allows to implement round
     robin and prioritized arbitration algorithms. The utility bus provides the system
     with power-up and power-down synchronization. The mechanical specifications of
-    boards, backplanes, subracks, and enclosures are based on IEC 297 specification
-    also known as the Euroboard form factor.<<ETX>>'
+    boards, backplanes, subracks, and enclosures are based on IEC 297 specification,
+    also know as the Euroboard form factor.'
   language:
   - en
   script:
@@ -72,8 +75,18 @@ copyright:
     url: http://www.ieee.org
   from: '1987'
 keyword:
-- content: Computer interfaces
-- content: Standards
+- content: IEEE Standards
+- content: Backplanes
+- content: Data transfer
+- content: Microprocessors
+- content: Microcomputers
+- content: versatile
+- content: backplane
+- content: bus
+- content: VME
+- content: Multimicroprocessing
+- content: Microcomputer interfaces
+- content: Data buses
 doctype: standard
 editorialgroup:
   committee:

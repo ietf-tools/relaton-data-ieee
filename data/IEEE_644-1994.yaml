@@ -3,11 +3,11 @@ schema-version: v1.2.3
 id: IEEE644-1994
 title:
 - content: IEEE Standard Procedures for Measurement of Power Frequency Electric and
-    Magnetic Fields From AC Power Lines
+    Magnetic Fields from AC Power Lines
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/467478
+- content: https://ieeexplore.ieee.org/document/9079749
   type: src
 type: standard
 docid:
@@ -20,12 +20,12 @@ docid:
   primary: true
 - id: 978-0-7381-0362-4
   type: ISBN
-- id: 10.1109/IEEESTD.1995.122621
-  type: DOI
 docnumber: IEEE 644-1994
 date:
 - type: created
-  value: '1995'
+  value: '1994-11-30'
+- type: published
+  value: '2020-04-27'
 - type: issued
   value: '1994-12-13'
 contributor:
@@ -41,18 +41,18 @@ contributor:
         country: USA
   role:
   - type: publisher
+revdate: '2020-04-27'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: In this IEEE Standard uniform procedures for the measurement of power frequency
-    electric and magnetic fields from alternating current (AC) overhead power lines
-    and for the calibration of the meters used in these measurements are established.
-    The procedures apply to the measurement of electric and magnetic fields close
-    to ground level. The procedures can also be tentatively applied (with limitations,
-    as specified in the standard) to electric fields near an energized conductor or
-    structure<<ETX>>
+- content: Uniform procedures for the measurement of power frequency electric and
+    magnetic fields from alternating current 9ac) overhead power lines and for the
+    calibration of the meters used in these measurements are established. The procedures
+    apply to the measurement of electric and magnetic fields close to ground level.
+    The procedures can also be tentatively applied (with limitations, as specified
+    in the standard) to electric fields near an energized conductor or structure.
   language:
   - en
   script:
@@ -112,11 +112,15 @@ relation:
     - Latn
     format: text/plain
 keyword:
-- content: Electric field measurement
-- content: IEEE standards
+- content: IEEE Standards
+- content: Frequency measurement
+- content: Current measurement
 - content: Magnetic field measurement
-- content: Power system measurements
-- content: Power transmission lines
+- content: Magnetic fields
+- content: ac power lines
+- content: electric field
+- content: magnetic field
+- content: measurement
 doctype: standard
 editorialgroup:
   committee:

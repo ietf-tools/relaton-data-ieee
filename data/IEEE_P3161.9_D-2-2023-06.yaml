@@ -26,7 +26,7 @@ date:
 - type: published
   value: '2023-08-02'
 - type: issued
-  value: '2023'
+  value: '2023-09-21'
 contributor:
 - organization:
     name:
@@ -46,11 +46,11 @@ language:
 script:
 - Latn
 abstract:
-- content: This standard specifies the aspects of communication process, general requirements
-    and data format of interfaces for multiple data streams and control commands involved
-    in the digital retina systems (DRS). It provides protocol and interface specifications
-    for the design, development and manufacturing of devices or platforms, to enable
-    connections and interactions among heterogeneous devices.
+- content: Specified in this standard are the aspects of communication process, general
+    requirements, and data format of interfaces for multiple data streams and control
+    commands involved in digital retina systems (DRSs). It provides protocol and interface
+    specifications for the design, development, and manufacturing of devices or platforms
+    to enable connections and interactions among heterogeneous devices.
   language:
   - en
   script:
@@ -73,20 +73,27 @@ keyword:
 - content: Streaming media
 - content: Retina
 - content: Interface management
-- content: digital retina system
-- content: protocol
-- content: interface
 - content: communication process
-- content: video stream
-- content: feature stream
-- content: model stream
 - content: control command
+- content: digital retina system
+- content: feature stream
 - content: function definition
-- content: IEEE 3161.9TM
+- content: IEEE 3161.9
+- content: interface
+- content: model stream
+- content: protocol
+- content: video stream
 doctype: standard
 editorialgroup:
   committee:
   - Data Compression Standards Committee of the IEEE Computer Society
+ics:
+- code: 35.040.30
+  text: Coding of graphical and photographical information
+- code: 37.040.99
+  text: Other standards related to photography
+- code: 37.060.99
+  text: Other standards related to cinematography
 ext:
   schema-version: v1.0.0
   standard_status: Inactive

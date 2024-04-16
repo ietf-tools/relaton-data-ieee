@@ -2,13 +2,13 @@
 schema-version: v1.2.3
 id: IEEE1003.1d-1999
 title:
-- content: 'IEEE Standard for Information Technology-Portable Operating System Interface
-    (POSIX)-Part 1: System Application Program Interface (API)- Amendment D: Additional
-    Real time Extensions [C Language]'
+- content: 'IEEE Standard for Information Technology--Portable Operating System Interface
+    (POSIX(TM))--Part 1: System Application Program Interface (API)--Amendment 4:
+    Additional Realtime Extensions [C Language]'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/846694
+- content: https://ieeexplore.ieee.org/document/8684694
   type: src
 type: standard
 docid:
@@ -21,12 +21,14 @@ docid:
   primary: true
 - id: 978-0-7381-1816-1
   type: ISBN
-- id: 10.1109/IEEESTD.1999.91515
+- id: 10.1109/IEEESTD.2000.8684694
   type: DOI
 docnumber: IEEE 1003.1d-1999
 date:
 - type: created
-  value: '1999'
+  value: '2000'
+- type: published
+  value: '2019-04-05'
 - type: issued
   value: '1999-09-16'
 contributor:
@@ -42,6 +44,7 @@ contributor:
         country: USA
   role:
   - type: publisher
+revdate: '2019-04-05'
 language:
 - en
 script:
@@ -50,8 +53,8 @@ abstract:
 - content: This standard is part of the POSIX series of standards for applications
     and user inter-faces to open systems. It defines the applications interface to
     system services for spawning a process, timeouts for blocking services, sporadic
-    server scheduling, execution time clocks and timers, and advisory information
-    for file management. This standard is stated in terms of its C binding.
+    server scheduling, execution time clocks andtimers, and advisory information for
+    file management. This standard is stated in terms of its Cbinding.
   language:
   - en
   script:
@@ -65,6 +68,16 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '1999'
+keyword:
+- content: API
+- content: application portability
+- content: C (programming language)
+- content: data processing
+- content: open systems
+- content: operating system
+- content: portable application
+- content: POSIX
+- content: realtime
 doctype: standard
 editorialgroup:
   committee:

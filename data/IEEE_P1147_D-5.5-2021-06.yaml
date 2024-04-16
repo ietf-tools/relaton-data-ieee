@@ -26,7 +26,7 @@ date:
 - type: published
   value: '2021-06-17'
 - type: issued
-  value: '2021-09-23'
+  value: '2021'
 contributor:
 - organization:
     name:
@@ -47,14 +47,13 @@ script:
 - Latn
 abstract:
 - content: This guide is intended for the hydroelectric power industry to assist hydroelectric
-    power plant owners, operators, and designers in the economic (feasibility) and
+    1 power plant owners, operators, and designers in the economic (feasibility) and
     technical evaluation (electrical aspects) of existing hydroelectric installations
     for rehabilitation. It addresses conventional hydropower. Portions of this guide
-    are relevant to pumped storage, but the unique features of pumped storage are
-    not covered. Feasibility study results may indicate redevelopment of the site.
-    Redevelopment will not be treated in detail in this guide. This guide covers all
-    generating equipment up to and including the main transformer and typical auxiliary
-    equipment.
+    are relevant to pumped storage but the unique features of pumped storage are not
+    covered. Feasibility study results may indicate redevelopment of the site. Redevelopment
+    will not be treated in detail in this guide. This guide covers all generating
+    equipment up to and including the main transformer and typical auxiliary equipment.
   language:
   - en
   script:
@@ -72,40 +71,6 @@ copyright:
     url: http://www.ieee.org
   from: '2021'
 relation:
-- type: updates
-  bibitem:
-    id: IEEE1147-2005
-    docid:
-    - id: IEEE 1147-2005
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1147-2005
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1147-2005
-    docid:
-    - id: IEEE 1147-2005
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1147-2005
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: updates
   bibitem:
     id: IEEE1147-2005
@@ -159,7 +124,6 @@ keyword:
 - content: governor
 - content: grounding heating
 - content: hydroelectric
-- content: IEEE 1147&#8482;
 - content: lighting
 - content: lubrication
 - content: machine shop
@@ -181,7 +145,7 @@ ics:
   text: Hydraulic energy engineering
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

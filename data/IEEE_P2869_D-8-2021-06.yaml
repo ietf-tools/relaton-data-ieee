@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: IEEEP2869-D-8-2021-06
 title:
-- content: IEEE Approved Draft Guide for the Synchronous Monitoring of Direct Current
-    (DC) Bias Magnetic Current Distribution in Power Grid
+- content: IEEE Draft Guide for the Synchronous Monitoring of Direct Current (DC)
+    Bias Magnetic Current Distribution in Power Grid
   format: text/plain
   type: main
 link:
@@ -46,6 +46,17 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: The synchronous monitoring method, the layout principle, and the analysis
+    of monitoring results of direct current (dc) magnetic bias current distribution
+    on transmission networks 110 kV and above from transformers (including converter
+    transformers) are specified in this guide. This guide does not discuss the effect
+    of dc or geomagnetically induced current (GIC) on transformers.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -67,20 +78,22 @@ keyword:
 - content: Current measurement
 - content: DC motors
 - content: Magnetic devices
-- content: DC bias magnetic current
-- content: DC current measurement
-- content: monitoring equipment
-- content: synchronous monitoring system
-- content: high-voltage direct current (HVDC)
-- content: neutral point of the power transformer
+- content: dc bias magnetic current
+- content: dc measurement
 - content: grounding electrode
+- content: high-voltage direct current
+- content: HVDC
+- content: IEEE 2869
+- content: monitoring equipment
+- content: neutral point of the power transformer
+- content: synchronous monitoring system
 doctype: standard
 editorialgroup:
   committee:
   - Analytic Methods for Power Systems of the IEEE Power and Energy Society
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2021-10-08'
 - type: issued
-  value: '2021'
+  value: '2021-12-08'
 contributor:
 - organization:
     name:
@@ -47,19 +47,19 @@ language:
 script:
 - Latn
 abstract:
-- content: This recommended practice provides a technical basis for implementation
-    of electronic power subsystems. It is intended for electronic systems engineers
+- content: A technical basis for implementation of electronic power subsystems is
+    provided in this recommended practice. It is intended for electronic systems engineers
     and integrators, electronic power subsystem designers and integrators, as well
-    as power element manufacturers and suppliers. It addresses system- level issues
-    in element or subsystem integration, adaptation, and accommodation. It also defines
-    system interface parameters, test methods, and test conditions. This recommended
-    practice applies to ac&#8211;dc, dc-ac and dc&#8211;dc electronic power subsystems.
-    The range of electronic power subsystems includes those with dc, single-phase,
-    and three-phase inputs, having power levels from a fraction of a watt up to 20
-    kW. The voltage range is 600 V and below at a frequency or frequencies of dc 1
-    kHz. Internal operating frequencies within elements or subsystems may be much
-    higher than 1 kHz. This recommended practice may be used outside the range where
-    applicable. This recommended practice builds on and supplements IEEE Std 1515-2000.
+    as for power element manufacturers and suppliers. System-level issues in element
+    or subsystem integration, adaptation, and accommodation are addressed, and system
+    interface parameters, test methods, and test conditions are defined. Ac&#8211;dc,
+    dc-ac, and dc&#8211;dc electronic power subsystems are discussed. The range of
+    electronic power subsystems includes those with dc, single-phase, and three-phase
+    inputs, having power levels from a fraction of a watt up to 20 kW. The voltage
+    range is 600 V and below at a frequency or frequencies of dc 1 kHz. Internal operating
+    frequencies within elements or subsystems may be much higher than 1 kHz. This
+    recommended practice may be used outside the range where applicable. IEEE Std
+    1515-2000 is built on and supplemented in this document.
   language:
   - en
   script:
@@ -94,9 +94,65 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1573-2003
+    docid:
+    - id: IEEE 1573-2003
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1573-2003
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1573-2003
+    docid:
+    - id: IEEE 1573-2003
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1573-2003
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1573-2003
+    docid:
+    - id: IEEE 1573-2003
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1573-2003
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
-- content: Electronic Power Subsystems
-- content: Power Electronics
+- content: IEEE Standards
+- content: Power systems
+- content: Power electronics
+- content: Performance evaluation
+- content: electronic power subsystems
+- content: IEEE 1573
+- content: power electronics
 doctype: standard
 editorialgroup:
   committee:
@@ -106,7 +162,7 @@ ics:
   text: Electronic components in general
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

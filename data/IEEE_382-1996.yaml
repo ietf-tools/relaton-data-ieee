@@ -69,23 +69,6 @@ copyright:
     url: http://www.ieee.org
   from: '1996'
 relation:
-- type: updates
-  bibitem:
-    id: IEEE382-1985
-    docid:
-    - id: IEEE 382-1985
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 382-1985
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: obsoletedBy
   bibitem:
     id: IEEE382-2006
@@ -113,16 +96,23 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
+- type: updates
   bibitem:
-    id: IEEE382-2006
+    id: IEEE382-1985
     docid:
-    - id: IEEE 382-2006
+    - id: IEEE 382-1985
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 382-2006
+      content: IEEE 382-1985
       format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: class 1E safety equipment
 - content: nuclear power plants

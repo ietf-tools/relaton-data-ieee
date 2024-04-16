@@ -23,7 +23,7 @@ docid:
 docnumber: ISO/IEC/IEEE P24774/D-3-2021-01
 date:
 - type: created
-  value: '2021'
+  value: '2021-05-25'
 - type: published
   value: '2021-01-27'
 - type: issued
@@ -47,11 +47,17 @@ language:
 script:
 - Latn
 abstract:
-- content: 'This document provides an explanation of considerations involved in defining
-    a process. It gives requirements and recommendations for the description of processes
-    by identifying elements and rules for their formulation. It characterizes the
-    following elements of process description: - Title; - Purpose; - Outcomes; - Activities;
-    - Tasks; - Outputs, including - information items. - Controls and constraints'
+- content: A number of international, national and industry standards describe processes
+    and process models. Process models are developed for a range of purposes including
+    process implementation and assessment. In order for users of standards to select
+    the appropriate forms of process description and apply them in a consistent fashion,
+    it is desirable to develop a common characterization of all of these forms of
+    process description. This document presents requirements for the description of
+    processes in terms of their format, content and level of prescription. Because
+    of the wide usage of process descriptions, process elements are categorized as
+    “Required” or “Optional”. Although developed within ISO/IEC/JTC1/SC7 &#8211; Systems
+    and software engineering, the requirements of this document can be applied to
+    any process model or description developed for any purpose.
   language:
   - en
   script:
@@ -141,6 +147,23 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE24774-2012
+    docid:
+    - id: IEEE 24774-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 24774-2012
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: ISO Standards
@@ -157,7 +180,7 @@ ics:
   text: Software
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

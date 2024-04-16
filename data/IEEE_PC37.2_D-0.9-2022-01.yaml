@@ -25,9 +25,9 @@ date:
 - type: created
   value: '2022'
 - type: published
-  value: '2022-03-08'
+  value: '2022-03-07'
 - type: issued
-  value: '2022-09-21'
+  value: '2022'
 contributor:
 - organization:
     name:
@@ -41,7 +41,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-03-08'
+revdate: '2022-03-07'
 language:
 - en
 script:
@@ -56,10 +56,10 @@ abstract:
     disturbance monitoring equipment, environmental data, fault data concentrator,
     high impedance fault detector, human machine interface, historian, scheme logic,
     substation metering, phasor data concentrator, phasor measurement unit, power
-    quality monitor, remedial action scheme, remote input/output device, remote terminal
-    unit/data concentrator, sequence of events recorder, and trip circuit monitor.
-    The use of prefixes and suffixes to provide a more specific definition of a function
-    is defined. Device contact designations are also covered.
+    quality monitor, remedial action scheme, remote input / output device, remote
+    terminal unit / data concentrator, sequence of events recorder, and trip circuit
+    monitor. The use of prefixes and suffixes to provide a more specific definition
+    of a function is defined. Device contact designations are also covered.
   language:
   - en
   script:
@@ -77,23 +77,6 @@ copyright:
     url: http://www.ieee.org
   from: '2022'
 relation:
-- type: updates
-  bibitem:
-    id: IEEEC37.2-2008
-    docid:
-    - id: IEEE C37.2-2008
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.2-2008
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: updates
   bibitem:
     id: IEEEC37.2-2008
@@ -146,7 +129,6 @@ keyword:
 - content: device function numbers
 - content: function numbers
 - content: IEC 61850
-- content: IEEE C37.2
 - content: relay
 - content: switchgear
 doctype: standard
@@ -158,7 +140,7 @@ ics:
   text: Rectifiers. Converters. Stabilized power supply
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

@@ -64,6 +64,16 @@ copyright:
     url: http://www.ieee.org
   from: '1998'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE1127-2013
+    docid:
+    - id: IEEE 1127-2013
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1127-2013
+      format: text/plain
 - type: updates
   bibitem:
     id: IEEE1127-1990
@@ -81,16 +91,23 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
+- type: updates
   bibitem:
-    id: IEEE1127-2013
+    id: IEEE1127-1990
     docid:
-    - id: IEEE 1127-2013
+    - id: IEEE 1127-1990
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 1127-2013
+      content: IEEE 1127-1990
       format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: A-weighted sound level
 - content: commercial zone

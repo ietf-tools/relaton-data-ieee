@@ -27,7 +27,7 @@ date:
 - type: created
   value: '2024'
 - type: published
-  value: '2024-04-05'
+  value: '2024-04-04'
 - type: issued
   value: '2023-12-06'
 contributor:
@@ -43,7 +43,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2024-04-05'
+revdate: '2024-04-04'
 language:
 - en
 script:
@@ -92,13 +92,29 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1662-2016
+    docid:
+    - id: IEEE 1662-2016
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1662-2016
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
-- content: Reliability engineering
 - content: IEEE Standards
 - content: Power electronics
 - content: Power system reliability
-- content: Maintenance
-- content: Standards
+- content: Maintenance engineering
+- content: Reliability engineering
 - content: Testing
 - content: IEEE 1662&#8482;
 - content: integrated power systems

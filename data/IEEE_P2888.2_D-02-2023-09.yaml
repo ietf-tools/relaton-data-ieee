@@ -47,14 +47,14 @@ language:
 script:
 - Latn
 abstract:
-- content: 'This standard defines the vocabulary, data formats, and APIs for controlling
-    the actuators, which helps enable the definition of interfaces between the cyber
-    world and the physical world, including: - data formats for interfacing actuator
-    commands defining a root schema with individual actuators, - data formats for
-    recognizing actuator capabilities defining a root schema with individual actuators,
-    - data formats for common data types, and - application programming interfaces
-    to transmit commands and capability descriptions of the actuators between cyber
-    and physical worlds.'
+- content: 'The vocabulary, data formats, and application programming interfaces (APIs)
+    for controlling the actuators, which helps enable the definition of interfaces
+    between the cyber world and the physical world, are defined in this standard,
+    including: -Data formats for interfacing actuator commands defining a root schema
+    with individual actuators -Data formats for recognizing actuator capabilities
+    defining a root schema with individual actuators -Data formats for common data
+    types -Application programming interfaces to transmit commands and capability
+    descriptions of the actuators between the cyber and physical worlds'
   language:
   - en
   script:
@@ -78,17 +78,21 @@ keyword:
 - content: Training
 - content: Virtual reality
 - content: Data models
-- content: actuator APIs
+- content: actuator application programming interfaces (APIs)
 - content: actuator capabilities
 - content: actuator data formats
-- content: large space VR training system actuators
+- content: IEEE 2888.2&#8482;
+- content: large space virtual reality (VR) training system actuators
 doctype: standard
 editorialgroup:
   committee:
-  - Standards Activities Board of the IEEE Computer Society
+  - Standards Activities Board Standards Committee of the IEEE Computer Society
+ics:
+- code: '35.180'
+  text: IT terminal and other peripheral equipment
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

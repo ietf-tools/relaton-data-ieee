@@ -29,7 +29,7 @@ date:
 - type: created
   value: '2023-08-30'
 - type: published
-  value: '2023-08-30'
+  value: '2023-08-31'
 - type: issued
   value: '2023'
 contributor:
@@ -45,7 +45,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-08-30'
+revdate: '2023-08-31'
 language:
 - en
 script:
@@ -76,6 +76,16 @@ copyright:
     - content: IEC
   from: '2023'
 relation:
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.1ABdh-2021
+    docid:
+    - id: IEEE 802.1ABdh-2021
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1ABdh-2021
+      format: text/plain
 - type: adoptedFrom
   bibitem:
     id: IEEE802.1ABdh-2021

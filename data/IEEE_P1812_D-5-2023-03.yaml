@@ -26,7 +26,7 @@ date:
 - type: published
   value: '2023-03-22'
 - type: issued
-  value: '2023'
+  value: '2023-06-29'
 contributor:
 - organization:
     name:
@@ -46,13 +46,13 @@ language:
 script:
 - Latn
 abstract:
-- content: This guide contains instructions for conducting tests to determine the
-    performance characteristics of permanent magnet (PM) machines. The tests described
-    may be applied to motors and generators, as needed, and no attempt is made to
-    partition this guide into clauses applying to motors and clauses applying to generators.
-    It is not intended that this guide shall cover all possible tests, or tests of
-    a research nature, but only those general methods that may be used to obtain the
-    performance data. The schedule of factory and field tests, which may be required
+- content: Instructions for conducting tests to determine the performance characteristics
+    of permanent magnet (PM) machines are contained in this guide. Motors and generators
+    may have the described tests applied as needed, and no attempt is made to partition
+    this guide into clauses applying to motors and clauses applying to generators.
+    It is not intended that all possible tests, or tests of a research nature, shall
+    be covered by this guide but only those general methods that may be used to obtain
+    the performance data. The schedule of factory and field tests, which may be required
     on new equipment, is normally specified by applicable standards or by contract
     specifications. This guide should not be interpreted as requiring any specific
     test in a given transaction or implying any guarantee as to specific performance
@@ -113,21 +113,22 @@ keyword:
 - content: Permanent magnet machines
 - content: Testing
 - content: Parameter estimation
+- content: IEEE 1812&#8482;
+- content: parameter determination
 - content: permanent magnet machines
 - content: testing
-- content: parameter determination
 doctype: standard
 editorialgroup:
   committee:
   - Electric Machinery of the IEEE Power and Energy Society
 ics:
-- code: 29.160.30
-  text: Motors
 - code: '19.080'
   text: Electrical and electronic testing
+- code: 29.160.30
+  text: Motors
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

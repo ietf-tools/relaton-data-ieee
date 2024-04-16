@@ -73,6 +73,16 @@ copyright:
     url: http://www.ieee.org
   from: '1987'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE352-2016
+    docid:
+    - id: IEEE 352-2016
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 352-2016
+      format: text/plain
 - type: updates
   bibitem:
     id: ANSI-IEEE352-1975
@@ -90,16 +100,23 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
+- type: updates
   bibitem:
-    id: IEEE352-2016
+    id: ANSI-IEEE352-1975
     docid:
-    - id: IEEE 352-2016
+    - id: ANSI/IEEE 352-1975
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 352-2016
+      content: ANSI/IEEE 352-1975
       format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: Nuclear power generation
 - content: Reliability

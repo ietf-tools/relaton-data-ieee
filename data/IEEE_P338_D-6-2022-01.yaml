@@ -24,8 +24,6 @@ docnumber: IEEE P338/D-6-2022-01
 date:
 - type: created
   value: '2022'
-- type: published
-  value: '2022-03-29'
 - type: issued
   value: '2022'
 contributor:
@@ -41,7 +39,6 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-03-29'
 language:
 - en
 script:
@@ -106,6 +103,23 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE338-2012
+    docid:
+    - id: IEEE 338-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 338-2012
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Surveillance
@@ -126,7 +140,7 @@ ics:
   text: Nuclear power plants. Safety
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

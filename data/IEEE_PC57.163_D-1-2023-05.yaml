@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: IEEEPC57.163-D-1-2023-05
 title:
-- content: IEEE Draft Guide for Establishing Power Transformer Capability while under
-    Geomagnetic Disturbances
+- content: IEEE Approved ADraft Guide for Establishing Power Transformer Capability
+    while under Geomagnetic Disturbances
   format: text/plain
   type: main
 link:
@@ -23,11 +23,11 @@ docid:
 docnumber: IEEE PC57.163/D-1-2023-05
 date:
 - type: created
-  value: '2023-05-25'
-- type: published
-  value: '2023-06-09'
-- type: issued
   value: '2023'
+- type: published
+  value: '2023-06-08'
+- type: issued
+  value: '2023-09-21'
 contributor:
 - organization:
     name:
@@ -41,7 +41,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-06-09'
+revdate: '2023-06-08'
 language:
 - en
 script:
@@ -106,6 +106,40 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC57.163-2015
+    docid:
+    - id: IEEE C57.163-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C57.163-2015
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC57.163-2015
+    docid:
+    - id: IEEE C57.163-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C57.163-2015
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Power transformers
@@ -114,16 +148,18 @@ keyword:
 - content: Thermal engineering
 - content: core saturation
 - content: design review
-- content: geomagnetically induced current (GIC)
+- content: geomagnetic disturbances
+- content: geomagnetically induced current
 - content: geomagnetically induced current signature
-- content: geomagnetic disturbances (GMD)
+- content: GIC
+- content: GMD
 - content: IEEE C57.163&#8482;
 - content: magnetic
 - content: monitoring
+- content: power transformers
 - content: temperature gradient
 - content: testing
 - content: thermal
-- content: power transformers
 doctype: standard
 editorialgroup:
   committee:
@@ -133,7 +169,7 @@ ics:
   text: Transformers. Reactors
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold
