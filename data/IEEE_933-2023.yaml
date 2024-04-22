@@ -1,35 +1,35 @@
 ---
 schema-version: v1.2.3
-id: IEEE933-2013
+id: IEEE933-2023
 title:
 - content: IEEE Guide for the Definition of Reliability Program Plans for Nuclear
     Generating Stations and Other Nuclear Facilities
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/6708412
+- content: https://ieeexplore.ieee.org/document/10506060
   type: src
 type: standard
 docid:
-- id: IEEE 933-2013
+- id: IEEE 933-2023
   type: IEEE
   primary: true
-- id: IEEE 933™-2013
+- id: IEEE 933™-2023
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-0-7381-8750-1
+- id: 979-8-8557-0458-7
   type: ISBN
-- id: 10.1109/IEEESTD.2014.6708412
+- id: 10.1109/IEEESTD.2024.10506060
   type: DOI
-docnumber: IEEE 933-2013
+docnumber: IEEE 933-2023
 date:
 - type: created
-  value: '2014-01-10'
+  value: '2024'
 - type: published
-  value: '2014-01-09'
+  value: '2024-04-19'
 - type: issued
-  value: '2013-12-11'
+  value: '2023-11-08'
 contributor:
 - organization:
     name:
@@ -43,22 +43,25 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2014-01-09'
+revdate: '2024-04-19'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Guidelines for the definition of a reliability program at nuclear generating
-    stations and other nuclear facilities are provided. The document emphasizes reliability
-    programs during the operating phase of such stations; however, the general approach
-    applies to all phases of the nuclear power generating station life cycle (e.g.,
-    design, construction, start-up, operating, and decommissioning).
+- content: Guidelines for the definition of a reliability program at nuclear power
+    generating stations and other nuclear facilities are provided. The document emphasizes
+    reliability programs during the operating phase of such stations; however, the
+    general approach applies to all phases of the nuclear power generating station
+    life cycle (e.g., design, construction, start-up, operating, and decommissioning).
   language:
   - en
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -66,17 +69,17 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2014'
+  from: '2024'
 relation:
 - type: updates
   bibitem:
-    id: IEEE933-1999
+    id: IEEE933-2013
     docid:
-    - id: IEEE 933-1999
+    - id: IEEE 933-2013
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 933-1999
+      content: IEEE 933-2013
       format: text/plain
   description:
     content: revises
@@ -86,11 +89,7 @@ relation:
     - Latn
     format: text/plain
 keyword:
-- content: IEEE standards
-- content: Nuclear power generation
-- content: Power system reliability
-- content: Reliability
-- content: IEEE 933(TM)
+- content: IEEE 933&#8482;
 - content: problem analysis
 - content: reliability analysis
 - content: reliability program plan
@@ -103,6 +102,7 @@ ics:
   text: Nuclear power plants. Safety
 ext:
   schema-version: v1.0.0
-  standard_status: Superseded
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

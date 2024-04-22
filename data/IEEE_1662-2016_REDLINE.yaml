@@ -5,9 +5,13 @@ title:
 - content: IEEE Recommended Practice for the Design and Application of Power Electronics
     in Electrical Power Systems
   format: text/plain
+  type: title-main
+- content: IEEE Recommended Practice for the Design and Application of Power Electronics
+    in Electrical Power Systems - Redline
+  format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8085450
+- content: https://ieeexplore.ieee.org/document/10506062
   type: src
 type: standard
 docid:
@@ -25,7 +29,7 @@ date:
 - type: created
   value: '2017'
 - type: published
-  value: '2017-10-26'
+  value: '2024-04-19'
 - type: issued
   value: '2016-09-22'
 contributor:
@@ -41,7 +45,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2017-10-26'
+revdate: '2024-04-19'
 language:
 - en
 script:
@@ -70,6 +74,33 @@ copyright:
     url: http://www.ieee.org
   from: '2016'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE1662-2023
+    docid:
+    - id: IEEE 1662-2023
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1662-2023
+      format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1662-2008
+    docid:
+    - id: IEEE 1662-2008
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1662-2008
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE1662-2008
@@ -88,9 +119,6 @@ relation:
     - Latn
     format: text/plain
 keyword:
-- content: IEEE Standards
-- content: Power systems
-- content: Power electronics
 - content: IEEE 1662(TM)
 - content: integrated power systems
 - content: PEBB
@@ -99,13 +127,13 @@ keyword:
 doctype: redline
 editorialgroup:
   committee:
-  - Petroleum &amp; Chemical Industry of the IEEE Industry Applications Society
+  - Petroleum and Chemical Industry of the IEEE Industry Applications Society
 ics:
 - code: 47.020.60
   text: Electrical equipment of ships and of marine structures
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Superseded
   standard_modified: Redline
   pubstatus: Active
   holdstatus: Publish
