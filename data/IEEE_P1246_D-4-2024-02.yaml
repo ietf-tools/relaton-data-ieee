@@ -1,33 +1,32 @@
 ---
 schema-version: v1.2.3
-id: IEEEP933-D-3-2023-07
+id: IEEEP1246-D-4-2024-02
 title:
-- content: IEEE Draft Guide for the Definition of Reliability Program Plans for Nuclear
-    Generating Stations and Other Nuclear Facilities
+- content: IEEE Draft Guide for Temporary Protective Grounding Systems Used in Substations
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/10205994
+- content: https://ieeexplore.ieee.org/document/10508310
   type: src
 type: standard
 docid:
-- id: IEEE P933/D-3-2023-07
+- id: IEEE P1246/D-4-2024-02
   type: IEEE
   primary: true
-- id: IEEE P933™/D-3-2023-07
+- id: IEEE P1246™/D-4-2024-02
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-9971-2
+- id: 979-8-8557-0753-3
   type: ISBN
-docnumber: IEEE P933/D-3-2023-07
+docnumber: IEEE P1246/D-4-2024-02
 date:
 - type: created
-  value: '2023'
+  value: '2024'
 - type: published
-  value: '2023-08-02'
+  value: '2024-04-25'
 - type: issued
-  value: '2023'
+  value: '2024'
 contributor:
 - organization:
     name:
@@ -41,17 +40,15 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-08-02'
+revdate: '2024-04-25'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Guidelines for the definition of a reliability program at nuclear power
-    generating stations and other nuclear facilities are provided. The document emphasizes
-    reliability programs during the operating phase of such stations; however, the
-    general approach applies to all phases of the nuclear power generating station
-    life cycle (e.g., design, construction, start-up, operating, and decommissioning).
+- content: The design, performance, use, testing, and installation of temporary protective
+    grounding systems, including the connection points, as used in permanent and mobile
+    substations, are covered in this guide.
   language:
   - en
   script:
@@ -67,17 +64,17 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2023'
+  from: '2024'
 relation:
 - type: updates
   bibitem:
-    id: IEEE933-2013
+    id: IEEE1246-2020
     docid:
-    - id: IEEE 933-2013
+    - id: IEEE 1246-2020
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 933-2013
+      content: IEEE 1246-2020
       format: text/plain
   description:
     content: revises
@@ -88,21 +85,24 @@ relation:
     format: text/plain
 keyword:
 - content: IEEE Standards
-- content: Nuclear power generation
-- content: Power system reliability
+- content: Grounding
+- content: Substations
 - content: Safety
-- content: Planning
-- content: IEEE 933&#8482;
-- content: problem analysis
-- content: reliability analysis
-- content: reliability program plan
+- content: grounding
+- content: IEEE 1246
+- content: personnel safety
+- content: protective grounding
+- content: safety
+- content: temporary grounding
+- content: ultimate rating
+- content: withstand rating
 doctype: standard
 editorialgroup:
   committee:
-  - Nuclear Power Engineering of the IEEE Power and Energy Society
+  - Substations of the IEEE Power and Energy Society
 ics:
-- code: 27.120.20
-  text: Nuclear power plants. Safety
+- code: 29.120.50
+  text: Fuses and other overcurrent protection devices
 ext:
   schema-version: v1.0.0
   standard_status: Active
