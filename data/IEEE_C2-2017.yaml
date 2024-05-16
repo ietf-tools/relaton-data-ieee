@@ -4,12 +4,9 @@ id: IEEEC2-2017
 title:
 - content: 2017 National Electrical Safety Code(R) (NESC(R))
   format: text/plain
-  type: title-main
-- content: 2017 National Electrical Safety Code(R) (NESC(R)) - Redline
-  format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/7802541
+- content: https://ieeexplore.ieee.org/document/7526279
   type: src
 type: standard
 docid:
@@ -20,14 +17,16 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-2003-7
+- id: 978-1-5044-1992-5
   type: ISBN
+- id: 10.1109/IEEESTD.2016.7526279
+  type: DOI
 docnumber: IEEE C2-2017
 date:
 - type: created
   value: '2016-08-01'
 - type: published
-  value: '2016-12-30'
+  value: '2016-07-29'
 - type: issued
   value: '2016'
 contributor:
@@ -43,7 +42,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2016-12-30'
+revdate: '2016-07-29'
 language:
 - en
 script:
@@ -73,142 +72,16 @@ copyright:
     url: http://www.ieee.org
   from: '2016'
 relation:
-- type: updates
+- type: obsoletedBy
   bibitem:
-    id: IEEEC2-2012
+    id: IEEEC2-2023
     docid:
-    - id: IEEE C2-2012
+    - id: IEEE C2-2023
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE C2-2012
+      content: IEEE C2-2023
       format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC2-2012
-    docid:
-    - id: IEEE C2-2012
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C2-2012
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC2-2012
-    docid:
-    - id: IEEE C2-2012
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C2-2012
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC2-2012
-    docid:
-    - id: IEEE C2-2012
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C2-2012
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC2-2012
-    docid:
-    - id: IEEE C2-2012
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C2-2012
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC2-2012
-    docid:
-    - id: IEEE C2-2012
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C2-2012
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC2-2012
-    docid:
-    - id: IEEE C2-2012
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C2-2012
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC2-2012
-    docid:
-    - id: IEEE C2-2012
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C2-2012
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: updates
   bibitem:
     id: IEEEC2-2012
@@ -228,10 +101,15 @@ relation:
     format: text/plain
 keyword:
 - content: ANSI Standards
+- content: Electricity supply industry
 - content: Electrical safety
+- content: Voltage control
+- content: Power transmission lines
+- content: Underground power cables
+- content: National electric code
 - content: communications industry safety
 - content: construction of communication lines
-- content: construction of electric supply lines
+- content: construction of electric upply lines
 - content: electrical safety
 - content: electric supply stations
 - content: electric utility stations
@@ -244,7 +122,7 @@ keyword:
 - content: safety work rules
 - content: underground communication line safety
 - content: underground electric line safety
-doctype: redline
+doctype: standard
 ics:
 - code: '13.260'
   text: Protection against electric shock. Live working
@@ -253,6 +131,5 @@ ics:
 ext:
   schema-version: v1.0.0
   standard_status: Superseded
-  standard_modified: Redline
   pubstatus: Active
   holdstatus: Publish

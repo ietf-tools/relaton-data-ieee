@@ -8,7 +8,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8546832
+- content: https://ieeexplore.ieee.org/document/8511103
   type: src
 type: standard
 docid:
@@ -21,14 +21,16 @@ docid:
   primary: true
 - id: 978-1-5044-5007-2
   type: ISBN
-- id: 10.1109/IEEESTD.2018.8546832
+- id: 10.1109/IEEESTD.2018.8511103
   type: DOI
 docnumber: IEEE C57.110
 date:
+- type: updated
+  value: '2020-09-25'
 - type: created
   value: '2018-10-31'
 - type: published
-  value: '2018-11-26'
+  value: '2018-10-26'
 - type: issued
   value: '2018-06-14'
 contributor:
@@ -44,7 +46,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2018-11-26'
+revdate: '2018-10-26'
 language:
 - en
 script:
@@ -93,12 +95,29 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC57.110-2008
+    docid:
+    - id: IEEE C57.110-2008
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C57.110-2008
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
-- content: Liquids
 - content: Harmonic analysis
-- content: Loss measurement
-- content: Load management
+- content: Load modeling
+- content: Liquid cooling
+- content: Power transformers
 - content: current harmonics
 - content: harmonic loss factor
 - content: IEEE C57.110&#8482;

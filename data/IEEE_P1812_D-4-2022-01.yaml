@@ -24,9 +24,9 @@ date:
 - type: created
   value: '2023-01-13'
 - type: published
-  value: '2023-01-16'
+  value: '2023-01-17'
 - type: issued
-  value: '2023-06-29'
+  value: '2023'
 contributor:
 - organization:
     name:
@@ -40,28 +40,11 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-01-16'
+revdate: '2023-01-17'
 language:
 - en
 script:
 - Latn
-abstract:
-- content: Instructions for conducting tests to determine the performance characteristics
-    of permanent magnet (PM) machines are contained in this guide. Motors and generators
-    may have the described tests applied as needed, and no attempt is made to partition
-    this guide into clauses applying to motors and clauses applying to generators.
-    It is not intended that all possible tests, or tests of a research nature, shall
-    be covered by this guide but only those general methods that may be used to obtain
-    the performance data. The schedule of factory and field tests, which may be required
-    on new equipment, is normally specified by applicable standards or by contract
-    specifications. This guide should not be interpreted as requiring any specific
-    test in a given transaction or implying any guarantee as to specific performance
-    indices or operating conditions.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -108,44 +91,26 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1812-2014
-    docid:
-    - id: IEEE 1812-2014
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1812-2014
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Permanent magnet machines
 - content: Parameter estimation
 - content: Testing
-- content: IEEE 1812&#8482;
-- content: parameter determination
 - content: permanent magnet machines
 - content: testing
+- content: parameter determination
 doctype: standard
 editorialgroup:
   committee:
   - Electric Machinery of the IEEE Power and Energy Society
 ics:
-- code: '19.080'
-  text: Electrical and electronic testing
 - code: 29.160.30
   text: Motors
+- code: '19.080'
+  text: Electrical and electronic testing
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

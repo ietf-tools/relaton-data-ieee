@@ -66,16 +66,6 @@ copyright:
     url: http://www.ieee.org
   from: '1997'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE112-2004
-    docid:
-    - id: IEEE 112-2004
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 112-2004
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEE112-1991
@@ -93,6 +83,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE112-2004
+    docid:
+    - id: IEEE 112-2004
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 112-2004
+      format: text/plain
 keyword:
 - content: Induction motors
 - content: generators

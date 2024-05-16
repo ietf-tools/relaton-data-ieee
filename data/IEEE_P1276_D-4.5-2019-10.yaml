@@ -2,12 +2,12 @@
 schema-version: v1.2.3
 id: IEEEP1276-D-4.5-2019-10
 title:
-- content: IEEE Draft Guide for the Application of High-Temperature Insulation Materials
-    in Liquid-Immersed Distribution, Power and Regulating Transformers
+- content: IEEE Approved Draft Guide for the Application of High-Temperature Insulation
+    Materials in Liquid-Immersed Distribution, Power and Regulating Transformers
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8890043
+- content: https://ieeexplore.ieee.org/document/8979563
   type: src
 type: standard
 docid:
@@ -23,9 +23,9 @@ docid:
 docnumber: IEEE P1276/D-4.5-2019-10
 date:
 - type: created
-  value: '2019-10-31'
+  value: '2020-01-30'
 - type: published
-  value: '2019-11-01'
+  value: '2020-02-03'
 - type: issued
   value: '2020-01-30'
 contributor:
@@ -41,7 +41,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2019-11-01'
+revdate: '2020-02-03'
 language:
 - en
 script:
@@ -89,13 +89,31 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1276-1997
+    docid:
+    - id: IEEE 1276-1997
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1276-1997
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Temperature measurement
-- content: Power transformers
 - content: Insulation
-- content: Liquid cooling
+- content: Liquid colling
 - content: Power distribution
+- content: Power transformers
+- content: Load management
 - content: high-temperature insulation
 - content: hybrid insulation system
 - content: IEEE 1276

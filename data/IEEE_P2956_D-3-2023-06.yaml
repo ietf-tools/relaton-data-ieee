@@ -50,10 +50,10 @@ abstract:
 - content: Uniform measurement procedures and technology are provided for determining
     the shielding effectiveness of shielded power cables and connectors for rail vehicles
     at frequencies from 9 kHz to 30 MHz (which can be extended according to the length
-    of the device under test). The test methods include triaxial method and tube-in-tube
-    method. These methods determine the shielding effectiveness by applying specified
-    current and voltage to the screen of the cable and measuring the induced voltage
-    in order to determine the surface transfer impedance.
+    of the device under test). The test methods include triaxial method and tube in
+    tube method. In essence, these methods determine the shielding effectiveness by
+    applying specified current and voltage to the screen of the cable and measuring
+    the induced voltage in order to determine the surface transfer impedance.
   language:
   - en
   script:
@@ -77,26 +77,20 @@ keyword:
 - content: Rail transportation
 - content: Cable shielding
 - content: Testing
-- content: connectors
-- content: IEEE 2956&#8482;
-- content: shielded power cables
 - content: shielding effectiveness
-- content: surface transfer impedance
+- content: shielded power cables
+- content: connectors
 - content: triaxial method
-- content: tube-in-tube method
+- content: tube in tube method
+- content: surface transfer impedance
 doctype: standard
 editorialgroup:
   committee:
   - High Speed Train and Maglev Standards Committee of the IEEE Vehicular Technology
     Society
-ics:
-- code: 33.100.01
-  text: Electromagnetic compatibility in general
-- code: 33.120.10
-  text: Coaxial cables. Waveguides
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

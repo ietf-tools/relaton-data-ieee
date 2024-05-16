@@ -47,10 +47,10 @@ language:
 script:
 - Latn
 abstract:
-- content: Requirements for power line carrier (PLC) transmitter/receiver equipment
-    used to transfer discrete teleprotection signals at power line carrier frequencies
-    (30-500 kHz) are described in this standard. Test requirements and conditions
-    for determining performance, as well as manufacturing requirements, are defined.
+- content: This standard describes requirements for power line carrier (PLC) transmitter/receiver
+    equipment used to transfer discrete teleprotection signals at power line carrier
+    frequencies (30-500 kHz). Test requirements and conditions for determining performance,
+    as well as manufacturing requirements, are defined.
   language:
   - en
   script:
@@ -74,17 +74,16 @@ keyword:
 - content: Security
 - content: Grounding
 - content: Substations
-- content: dependability
-- content: FSK
-- content: IEEE C93.5
-- content: ON-OFF
-- content: PLC
 - content: power line carrier
-- content: receiver
-- content: security
+- content: PLC
 - content: teleprotection
-- content: transceiver
 - content: transmitter
+- content: receiver
+- content: transceiver
+- content: security
+- content: dependability
+- content: ON-OFF
+- content: FSK
 doctype: standard
 editorialgroup:
   committee:
@@ -94,7 +93,7 @@ ics:
   text: Health care technology (Vocabularies)
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

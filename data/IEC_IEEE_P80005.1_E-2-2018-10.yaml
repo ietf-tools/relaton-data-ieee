@@ -2,12 +2,12 @@
 schema-version: v1.2.3
 id: IEC-IEEEP80005.1-E-2-2018-10
 title:
-- content: 'IEC/IEEE Approved Draft International Standard - Utility Connections in
-    Port--Part 1: High Voltage Shore Connection (HVSC) Systems--General requirements'
+- content: 'IEC/IEEE Draft International Standard - Utility Connections in Port--Part
+    1: High Voltage Shore Connection (HVSC) Systems--General requirements'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8640883
+- content: https://ieeexplore.ieee.org/document/8509656
   type: src
 type: standard
 docid:
@@ -23,9 +23,9 @@ docid:
 docnumber: IEC/IEEE P80005.1/E-2-2018-10
 date:
 - type: created
-  value: '2019-01-25'
+  value: '2018-10-23'
 - type: published
-  value: '2019-02-12'
+  value: '2018-10-25'
 - type: issued
   value: '2019-02-08'
 contributor:
@@ -41,23 +41,11 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2019-02-12'
+revdate: '2018-10-25'
 language:
 - en
 script:
 - Latn
-abstract:
-- content: This application guide covers procedures and calculations necessary to
-    apply the standard transient recovery voltage (TRV) ratings for ac high-voltage
-    circuit breakers rated above 1000 V. The breaking capability limits of these circuit
-    breakers are determined to a great degree by the TRV. The TRV ratings are compared
-    with typical system TRV duties. Examples of TRV calculation are given with suggested
-    options if the TRV duty exceeds the TRV ratings of the circuit breaker.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -89,15 +77,29 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEC-ISO-IEEE80005.1-2012
+    docid:
+    - id: IEC/ISO/IEEE 80005.1-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEC/ISO/IEEE 80005.1-2012
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: IEC Standards
+- content: Electricity supply industry
 - content: High-voltage techniques
-- content: Voltage techniques
-- content: Transient analysis
-- content: Circuit breakers
-- content: high voltage circuit breakers
-- content: transient recovery voltage
+- content: Voltage control
 doctype: standard
 editorialgroup:
   committee:

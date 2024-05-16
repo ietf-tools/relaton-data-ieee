@@ -2,13 +2,13 @@
 schema-version: v1.2.3
 id: IEEEP802.15.4w-D-6-2019-10
 title:
-- content: IEEE Draft Standard for Low-Rate Wireless Networks Amendment for a Low
-    Power Wide Area Network (LPWAN) extension to the Low Energy Critical Infrastructure
+- content: IEEE Approved Draft Standard for Low-Rate Wireless Networks Amendment for
+    a Low Power Wide Area Network (LPWAN) extension to the Low Energy Critical Infrastructure
     Monitoring (LECIM) Physical layer (PHY)
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8864079
+- content: https://ieeexplore.ieee.org/document/9115359
   type: src
 type: standard
 docid:
@@ -24,9 +24,9 @@ docid:
 docnumber: IEEE P802.15.4w/D-6-2019-10
 date:
 - type: created
-  value: '2019-10-09'
+  value: '2020'
 - type: published
-  value: '2019-10-10'
+  value: '2020-06-11'
 - type: issued
   value: '2020-06-04'
 contributor:
@@ -42,17 +42,18 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2019-10-10'
+revdate: '2020-06-11'
 language:
 - en
 script:
 - Latn
 abstract:
 - content: The existing low-energy critical infrastructure monitoring (LECIM) frequency
-    shift keying (FSK) physical layer of IEEE Std 802.15.4-2015 is extended to be
-    more robust in presence of interference and achieve higher link budgets for applications
-    in low power wide area networks (LPWAN). Lower symbol rates and a split mode with
-    low rate forward error correction (FEC) codes are introduced to achieve this goal.
+    shift keying (FSK) physical layer of IEEE Std 802.15.4-2020 is extended to be
+    more robust in the presence of interference and achieve higher link budgets for
+    applications in low power wide area networks (LPWAN). Lower symbol rates and a
+    split mode with low-rate forward error correction (FEC) codes are introduced to
+    achieve this goal.
   language:
   - en
   script:
@@ -87,33 +88,49 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.15.4-2015
+    docid:
+    - id: IEEE 802.15.4-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.15.4-2015
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Wireless networks
 - content: Low power electronics
-- content: Radio frequency
 - content: Personal area networks
 - content: Physical layer
-- content: Wireless personal area networks
+- content: Energy efficiency
+- content: Radio frequency
 - content: amendment
-- content: IEEE 802.15.4&#8482;
-- content: IEEE 802.15.4w&#8482;
+- content: IEEE 802.15.4
+- content: IEEE 802.15.4w
 - content: low data rate
 - content: LPWAN
 - content: low power wide area network
 - content: LECIM
-- content: low-energy
-- content: critical infrastructure monitoring
+- content: low-energy critical infrastructure monitoring
 - content: PAN
 - content: personal area network
 - content: PHY
 - content: physical layer
 - content: radio frequency
 - content: RF
+- content: splitting
 - content: ultra-low power
 - content: wireless personal area network
 - content: WPAN
-- content: splitting
 doctype: standard
 editorialgroup:
   committee:

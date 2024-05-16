@@ -2,12 +2,12 @@
 schema-version: v1.2.3
 id: IEEEP1615-D-17-2018-10
 title:
-- content: IEEE Approved Draft Recommended Practice for Network Communication in Electric
-    Power Substations
+- content: IEEE Draft Recommended Practice for Network Communication in Electric Power
+    Substations
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8833589
+- content: https://ieeexplore.ieee.org/document/8495129
   type: src
 type: standard
 docid:
@@ -23,9 +23,9 @@ docid:
 docnumber: IEEE P1615/D-17-2018-10
 date:
 - type: created
-  value: '2019'
+  value: '2018-10-16'
 - type: published
-  value: '2019-09-11'
+  value: '2018-10-17'
 - type: issued
   value: '2019-09-05'
 contributor:
@@ -41,7 +41,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2019-09-11'
+revdate: '2018-10-17'
 language:
 - en
 script:
@@ -88,16 +88,29 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1615-2007
+    docid:
+    - id: IEEE 1615-2007
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1615-2007
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Substations
-- content: Media
-- content: Channel allocation
-- content: Ethernet
-- content: Optical fiber communication
-- content: Wireless networks
-- content: Noise measurement
-- content: Data security
+- content: Electric equipment
+- content: Resource management
+- content: Electricity supply industry
 - content: Distributed Network Protocol 3 (DNP3)
 - content: Ethernet
 - content: fiber-optic

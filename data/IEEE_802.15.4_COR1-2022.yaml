@@ -25,9 +25,9 @@ docid:
 docnumber: IEEE 802.15.4/Cor1-2022
 date:
 - type: created
-  value: '2022-01-10'
-- type: published
   value: '2023-01-10'
+- type: published
+  value: '2023-01-11'
 - type: issued
   value: '2022-09-21'
 contributor:
@@ -43,15 +43,14 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-01-10'
+revdate: '2023-01-11'
 language:
 - en
 script:
 - Latn
 abstract:
 - content: Errors, inconsistencies, and ambiguities in IEEE Std 802.15.4-2020 and
-    its amendments are corrected in this corrigendum. (The PDF of this standard is
-    available at no cost compliments of the IEEE GET program at https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=68)
+    its amendments are corrected in this corrigendum.
   language:
   - en
   script:
@@ -69,6 +68,23 @@ copyright:
     url: http://www.ieee.org
   from: '2022'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE802.15.4-2020
+    docid:
+    - id: IEEE 802.15.4-2020
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.15.4-2020
+      format: text/plain
+  description:
+    content: corrects
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE802.15.4-2020

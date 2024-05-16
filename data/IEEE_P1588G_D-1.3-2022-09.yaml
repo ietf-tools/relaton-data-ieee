@@ -48,9 +48,10 @@ language:
 script:
 - Latn
 abstract:
-- content: This amendment to IEEE Std 1588-2019 identifies alternative terms for “master”
-    and “slave” used in implementations or PTP profiles; identifies alternative names
-    for port state names; and identifies abbreviations for clock roles or port states.
+- content: 'This draft standard is an amendment of IEEE Std 1588-2019. This amendment:
+    a) Identifies alternative terms for “master’ and “slave” used in implementations
+    or PTP Profiles; b) Identifies alternative names for port state names; c) Identifies
+    abbreviations for clock roles or port states.'
   language:
   - en
   script:
@@ -119,6 +120,57 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1588-2019
+    docid:
+    - id: IEEE 1588-2019
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1588-2019
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1588-2019
+    docid:
+    - id: IEEE 1588-2019
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1588-2019
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1588-2019
+    docid:
+    - id: IEEE 1588-2019
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1588-2019
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Main-secondary
@@ -126,14 +178,11 @@ keyword:
 - content: Clocks
 - content: Synchronization
 - content: Transmitters
-- content: grandmaster
-- content: IEEE 1588g&#8482;
+- content: PTP
 - content: master
-- content: Precision Time Protocol (PTP)
-- content: synchronization
 - content: slave
-- content: timeReceiver
 - content: timeTransmitter
+- content: timeReceiver
 doctype: standard
 editorialgroup:
   committee:
@@ -143,7 +192,7 @@ ics:
   text: Other time-measuring instruments
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

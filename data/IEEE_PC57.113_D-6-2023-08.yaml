@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: IEEEPC57.113-D-6-2023-08
 title:
-- content: IEEE Approved Draft Recommended Practice for Partial Discharge Measurement
-    in Liquid-Filled Power Transformers and Shunt Reactors
+- content: IEEE Draft Recommended Practice for Partial Discharge Measurement in Liquid-Filled
+    Power Transformers and Shunt Reactors
   format: text/plain
   type: main
 link:
@@ -23,11 +23,11 @@ docid:
 docnumber: IEEE PC57.113/D-6-2023-08
 date:
 - type: created
-  value: '2023-11-13'
+  value: '2023-08-30'
 - type: published
-  value: '2023-08-31'
+  value: '2023-09-01'
 - type: issued
-  value: '2023-11-08'
+  value: '2023'
 contributor:
 - organization:
     name:
@@ -41,7 +41,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-08-31'
+revdate: '2023-09-01'
 language:
 - en
 script:
@@ -87,6 +87,40 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC57.113-2010
+    docid:
+    - id: IEEE C57.113-2010
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C57.113-2010
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC57.113-2010
+    docid:
+    - id: IEEE C57.113-2010
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C57.113-2010
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Partial discharges
@@ -95,9 +129,7 @@ keyword:
 - content: Inductors
 - content: Dielectric liquids
 - content: apparent charge
-- content: IEEE C57.113&#8482;
-- content: partial discharge
-- content: PD
+- content: partial discharge (PD)
 - content: power transformer
 - content: shunt reactor
 - content: wideband PD measurement
@@ -110,7 +142,7 @@ ics:
   text: Transformers. Reactors
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

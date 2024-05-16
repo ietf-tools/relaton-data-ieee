@@ -49,11 +49,11 @@ script:
 - Latn
 abstract:
 - content: Certain electrical, dimensional, and mechanical characteristics are covered
-    in this standard. Certain safety features of three-phase, 60-Hz, liquid-immersed,
-    self-cooled, submersible transformers with separable insulated high-voltage connectors
-    are also taken into consideration These transformers are rated 3750 kVA and smaller
-    with high voltages of 34 500 GrdY/19 920 V and below and with low voltages of
-    600 V and below.
+    in this standard. It also takes into consideration certain safety features of
+    three-phase, 60 Hz, liquid-immersed, self-cooled, submersible transformers with
+    separable insulated high-voltage connectors. These transformers are rated 3750
+    kVA and smaller with high voltages of 34 500 GrdY/19 920 V and below and with
+    low voltages of 600 V and below.
   language:
   - en
   script:
@@ -88,57 +88,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC57.12.24-2016
-    docid:
-    - id: IEEE C57.12.24-2016
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C57.12.24-2016
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC57.12.24-2016
-    docid:
-    - id: IEEE C57.12.24-2016
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C57.12.24-2016
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC57.12.24-2016
-    docid:
-    - id: IEEE C57.12.24-2016
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C57.12.24-2016
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Transformers
@@ -147,7 +96,7 @@ keyword:
 - content: High-voltage techniques
 - content: Low voltage
 - content: distribution
-- content: IEEE C57.12.24&#8482;
+- content: IEEE C57.12.24
 - content: submersible
 - content: three phase
 - content: transformers
@@ -160,7 +109,7 @@ ics:
   text: Transformers. Reactors
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

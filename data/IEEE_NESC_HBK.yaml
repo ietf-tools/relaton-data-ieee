@@ -2,11 +2,12 @@
 schema-version: v1.2.3
 id: IEEENESCHBK
 title:
-- content: 2017 NESC(R) Handbook, Eighth Edition
+- content: Electrical Safety Manual for Power and Communications Industries [Adapted
+    from the 2017 IEEE NESC(R) Handbook Premier Edition] - Chinese Edition
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/7526285
+- content: https://ieeexplore.ieee.org/document/8844364
   type: src
 type: standard
 docid:
@@ -17,18 +18,18 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-2076-1
+- id: 978-1-5044-5722-4
   type: ISBN
-- id: 10.1109/IEEESTD.2016.7526285
+- id: 10.1109/IEEESTD.2019.8844364
   type: DOI
 docnumber: IEEE NESC HBK
 date:
 - type: created
-  value: '2016-08-01'
+  value: '2019'
 - type: published
-  value: '2018-03-20'
+  value: '2019-09-18'
 - type: issued
-  value: '2016'
+  value: '2019'
 contributor:
 - organization:
     name:
@@ -42,44 +43,34 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2018-03-20'
+revdate: '2019-09-18'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'The 2017 NESC &#174; Handbook, Eight Edition, a Discussion of the National
-    Electrical Safety Code(R), is an essential companion to the Code. This handbook
-    includes text directly from Code which provides users an easy reference back to
-    the code, ruling-by-ruling. It gives users insight into what lies behind the NESC(R)s
-    rules and how to apply them. The Handbook was developed for use at many levels
-    in the electric and communication industries, including those involved in system
-    design, construction, maintenance, inspection, standards development and worker
-    training. The Handbook also discusses how the NESC Committee has developed the
-    rules in the Code and responded to change proposals during the past 100 years.
-    This allows users to understand how questions they may have were dealt with in
-    the past. These are key points from the 2017 Handbook Edition: - Revising the
-    purpose rule to include only the safeguarding of persons and utility facilities
-    and clarifying the application - Deleting unused definitions and adding definitions
-    for communication and supply space. - Revising the substation impenetrable fence
-    requirements. - Adding an exception to exempt underground cable grounding requirements
-    from the 4 grounds in each mile rule under certain conditions. - Revising and
-    reorganizing the guy insulator placement rules along with eliminating the voltage
-    transfer requirements associated with them. - Requiring a 40” vertical clearance
-    from communication cables in the communication space if a luminaire is not effectively
-    grounded. - Deleting the conductance requirement for underground insulating jacketed
-    grounded neutral supply cables and revising the grounding and bonding rules for
-    supply and communication cables in random separation installations. - Revising
-    and reorganizing the Grades of Construction Table 242-1 that will now include
-    service drops. - Revising the strength rules to require that all conductors be
-    considered for damage due to Aeolian vibration. - Revising the rules in Part 4
-    to align with changes made to 29 CFR by the Occupational Safety and Health Administration
-    (OSHA).'
+- content: This handbook, in its Chinese version, is essential for Chinese speaking
+    communities and assist in areas that need well-defined regulations related to
+    electrical safety for power, energy transmission and distribution, and communications
+    industries. Important to power and energy engineers, as well as to communications
+    providers, such as internet, phone et al. The handbook includes text directly
+    from the NESC 2017 edition, which provides users an easy reference back to the
+    code, ruling-by-ruling, all in Chinese; plus, subject matter expert commentary
+    also in Chinese. It gives users insight into what lies behind the NESC's rules
+    and how to apply them. The Handbook was developed for use at many levels in the
+    electric and communication industries, including those involved in system design,
+    construction, maintenance, inspection, standards development and worker training.
+    The Handbook also discusses how the NESC Committee has developed the rules in
+    the Code and responded to change proposals during the past 100 years. This allows
+    users to understand how questions they may have dealt with in the past.
   language:
   - en
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -87,32 +78,30 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2016'
+  from: '2019'
 keyword:
-- content: ANSI Standards
-- content: Electricity supply industry
+- content: IEEE Standards
+- content: China
 - content: Electrical safety
-- content: Voltage control
+- content: Electricity supply industry
+- content: High-voltage techniques
+- content: Communication systems
 - content: Power transmission lines
-- content: National electric code
-- content: communications industry safety
-- content: construction of communication lines
-- content: construction of electric supply lines
-- content: electrical safety
-- content: electric supply stations
-- content: electric utility stations
-- content: high-voltage safety
-- content: operation of communications sys­tems
-- content: operation of electric supply systems
-- content: power station equipment
-- content: power station safety
-- content: public utility safety
-- content: safety work rules
-- content: underground communication line safety
-- content: underground electric line safety.
+- content: Mandarin
+- content: Chinese
+- content: communications industry safety; construction of communication lines; construction
+    of electric supply lines; electrical safety; electric supply stations; electric
+    utility stations; high-voltage safety; operation of communications sys­tems; operation
+    of electric supply systems; power station equipment; power station safety; public
+    utility safety; safety work rules; underground communication line safety; underground
+    electric line safety.
 doctype: standard
+editorialgroup:
+  committee:
+  - National Electrical Safety Code
 ext:
   schema-version: v1.0.0
-  standard_status: Superseded
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

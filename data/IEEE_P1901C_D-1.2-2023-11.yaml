@@ -2,10 +2,9 @@
 schema-version: v1.2.3
 id: IEEEP1901c-D-1.2-2023-11
 title:
-- content: 'IEEE Approved Draft Standard for Broadband over Power Line Networks: Medium
-    Access Control and Physical Layer Specifications Amendment 3: Enhanced Flexible
-    Channel Wavelet (FCW) physical and media access control layers for use on any
-    media'
+- content: 'IEEE Draft Standard for Broadband over Power Line Networks: Medium Access
+    Control and Physical Layer Specifications Amendment 3: Enhanced Flexible Channel
+    Wavelet (FCW) physical and media access control layers for use on any media'
   format: text/plain
   type: main
 link:
@@ -25,11 +24,11 @@ docid:
 docnumber: IEEE P1901c/D-1.2-2023-11
 date:
 - type: created
-  value: '2024-02-21'
+  value: '2023-11-27'
 - type: published
   value: '2023-11-28'
 - type: issued
-  value: '2024-02-15'
+  value: '2023'
 contributor:
 - organization:
     name:
@@ -73,6 +72,23 @@ copyright:
     url: http://www.ieee.org
   from: '2023'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE1901-2020
+    docid:
+    - id: IEEE 1901-2020
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1901-2020
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE1901-2020

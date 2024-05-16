@@ -87,9 +87,37 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC37.92-2005
+    docid:
+    - id: IEEE C37.92-2005
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.92-2005
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
+- content: IEEE Standards
+- content: Low power electronics
+- content: Switchgear
+- content: Sensors
+- content: Voltage transformers
+- content: Transducers
+- content: Power systems
+- content: Magnetooptic devices
+- content: IEEE C37.92&#8482;
+- content: LEA
 - content: low-power instrument transformer
 - content: low-energy analog
+- content: LPIT
 - content: medium-voltage switchgear
 - content: phase correction
 - content: phase error
@@ -107,7 +135,7 @@ ics:
   text: Relays
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

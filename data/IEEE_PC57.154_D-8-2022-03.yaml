@@ -2,8 +2,9 @@
 schema-version: v1.2.3
 id: IEEEPC57.154-D-8-2022-03
 title:
-- content: IEEE Draft Standard for Liquid-Immersed Transformers Designed to Operate
-    at Temperatures Above Conventional Limits Using High-Temperature Insulation Systems.
+- content: IEEE Approved Draft Standard for Liquid-Immersed Transformers Designed
+    to Operate at Temperatures Above Conventional Limits Using High-Temperature Insulation
+    Systems.
   format: text/plain
   type: main
 link:
@@ -47,12 +48,12 @@ language:
 script:
 - Latn
 abstract:
-- content: Covered in this standard are all liquid-immersed distribution, power, and
-    regulating transformers that are designed to operate at temperatures that exceed
-    the normal thermal limits of IEEE C57.12.00 under continuous load, in the designed
-    average ambient, and at rated conditions. Specific requirements and guidance in
-    the design, testing, and application of the transformers covered within the scope
-    of this standard are provided. High-temperature insulation systems or systems
+- content: All liquid-immersed distribution, power, and regulating transformers that
+    are designed to operate at temperatures that exceed the normal thermal limits
+    of IEEE C57.12.00TM under continuous load, in the designed average ambient, and
+    at rated conditions are covered by this standard. Specific requirements and guidance
+    in the design, testing, and application of the transformers covered within the
+    scope of this standard are provided. High-temperature insulation systems or systems
     that use a combination of high-temperature and conventional insulation are incorporated
     by these transformers.
   language:
@@ -72,6 +73,23 @@ copyright:
     url: http://www.ieee.org
   from: '2022'
 relation:
+- type: updates
+  bibitem:
+    id: IEEEC57.154-2012
+    docid:
+    - id: IEEE C57.154-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C57.154-2012
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEEC57.154-2012
@@ -129,7 +147,7 @@ ics:
   text: Transformers. Reactors
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

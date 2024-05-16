@@ -2,12 +2,12 @@
 schema-version: v1.2.3
 id: IEEEWhitePaper
 title:
-- content: Cybersecurity for Next-Generation Connectivity Systems--Rethinking Digital
-    Architectures to Safeguard the Next Generation From Cybersecurity Breaches
+- content: Assessment of DER Interconnection Installation for Conformance with IEEE
+    Std 1547
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/9940224
+- content: https://ieeexplore.ieee.org/document/8305686
   type: src
 type: standard
 docid:
@@ -18,16 +18,16 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-9134-1
+- id: 978-1-5044-4710-2
   type: ISBN
 docnumber: IEEE White Paper
 date:
 - type: created
-  value: '2022-11-04'
+  value: '2018-02-22'
 - type: published
-  value: '2022-11-04'
+  value: '2018-03-01'
 - type: issued
-  value: '2022'
+  value: '2018'
 contributor:
 - organization:
     name:
@@ -41,21 +41,22 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-11-04'
+revdate: '2018-03-01'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This paper outlines the reasons why next-generation architecture is needed
-    that can protect technology, systems, networks, and data in a dynamic risk environment.
-    Although the Internet is integral to the flow of information across the globe
-    and national boundaries, it was not built for the highly sensitive, critical data
-    we see today. Architecture throughout protocol and software application stacks
-    is not set up to face the cybersecurity issues. The forward-facing and strategic
-    approach introduced here promotes an architecture inherently resilient to cybersecurity
-    threats. This approach would also address the needs for 6G technologies, Web X.0,
-    Metaverse, and any evolutionary technologies envisioned.
+- content: Standards and codes establish the functional performance requirements of
+    equipment interconnecting Distributed Energy Resources (DERs) with an Electric
+    Power System (EPS). Nationally Recognized Testing Laboratories (NRTLs) evaluate
+    equipment for safety and compliance with applicable standards and codes. Equipment
+    meeting these requirements are then listed as suitable for their intended use
+    in compliance with the applicable requirements. The EPS operator enters into a
+    binding agreement with the DER operator for interconnection with the EPS at a
+    specific site to meet the requirements of the EPS infrastructure at that location.
+    IEEE Conformity Assessment Program proposes a process and procedure to ensure
+    compliance with the applicable standards and the interconnection agreement.
   language:
   - en
   script:
@@ -68,18 +69,23 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2022'
+  from: '2018'
 keyword:
-- content: architectures
-- content: cloud security
-- content: cybersecurity
-- content: data
-- content: Industry Connections
-- content: next generation
+- content: IEEE Standards
+- content: Resource management
+- content: Power system management
+- content: Energy management
+- content: Power distribution
+- content: IEEE 1547
+- content: conformity assessment
+- content: DER
+- content: distributed energy resource
+- content: electric power system
+- content: EPS
 doctype: standard
 editorialgroup:
   committee:
-  - Industry Connections Committee of the IEEE-SASB
+  - Institute of Electrical and Electronics Engineers
 ext:
   schema-version: v1.0.0
   standard_status: Active

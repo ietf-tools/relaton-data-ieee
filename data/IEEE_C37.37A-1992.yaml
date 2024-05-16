@@ -2,12 +2,11 @@
 schema-version: v1.2.3
 id: IEEEC37.37a-1992
 title:
-- content: IEEE Standard Loading Guide for AC High-Voltage Air Switches Under Emergency
-    Conditions
+- content: IEEE Loading Guide for AC High-Voltage Air Switches Under Emergency Conditions
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/590293
+- content: https://ieeexplore.ieee.org/document/8684580
   type: src
 type: standard
 docid:
@@ -20,12 +19,14 @@ docid:
   primary: true
 - id: 978-0-7381-4438-2
   type: ISBN
-- id: 10.1109/IEEESTD.1992.82407
+- id: 10.1109/IEEESTD.1993.8684580
   type: DOI
 docnumber: IEEE C37.37a-1992
 date:
 - type: created
-  value: '1992'
+  value: '1993-12-23'
+- type: published
+  value: '2019-04-05'
 - type: issued
   value: '1992-12-03'
 contributor:
@@ -41,10 +42,23 @@ contributor:
         country: USA
   role:
   - type: publisher
+revdate: '2019-04-05'
 language:
 - en
 script:
 - Latn
+abstract:
+- content: Guidance for users and manufacturers in the determination of (1) the Allowable
+    Continuous Current Class (ACCC) designations, (2) the continuous load current-carrying
+    capabilities of air switches under various conditions of ambient temperature,
+    and (3) the emergency load current-carrying capabilities of air switches under
+    various conditions of ambient temperature is provided. This guide applies to ac
+    high-voltage air switches in excess of 1000 V
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 copyright:
 - owner:
   - name:
@@ -71,6 +85,9 @@ relation:
     script:
     - Latn
     format: text/plain
+keyword:
+- content: ac high-voltage air switches
+- content: Emergency conditions
 doctype: standard
 editorialgroup:
   committee:

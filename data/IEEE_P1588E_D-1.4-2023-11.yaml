@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: IEEEP1588e-D-1.4-2023-11
 title:
-- content: 'IEEE Approved Draft Standard for a Precision Clock Synchronization Protocol
-    for Networked Measurement and Control Systems Amendment: MIB and YANG Data Models'
+- content: 'IEEE Draft Standard for a Precision Clock Synchronization Protocol for
+    Networked Measurement and Control Systems Amendment: MIB and YANG Data Models'
   format: text/plain
   type: main
 link:
@@ -23,11 +23,11 @@ docid:
 docnumber: IEEE P1588e/D-1.4-2023-11
 date:
 - type: created
-  value: '2024-02-21'
+  value: '2023-11-22'
 - type: published
   value: '2023-11-23'
 - type: issued
-  value: '2024-02-15'
+  value: '2023'
 contributor:
 - organization:
     name:
@@ -66,6 +66,23 @@ copyright:
     url: http://www.ieee.org
   from: '2023'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE1588-2019
+    docid:
+    - id: IEEE 1588-2019
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1588-2019
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE1588-2019

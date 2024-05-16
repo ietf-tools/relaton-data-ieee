@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: IEEEP802.3cp-D-3.2-2021-05
 title:
-- content: 'IEEE Approved Draft Standard for Ethernet Amendment 14: Bidirectional
-    10 Gb/s, 25 Gb/s, and 50 Gb/s Optical Access PHYs'
+- content: 'IEEE Draft Standard for Ethernet Amendment 14: Bidirectional 10 Gb/s,
+    25 Gb/s, and 50 Gb/s Optical Access PHYs'
   format: text/plain
   type: main
 link:
@@ -23,11 +23,11 @@ docid:
 docnumber: IEEE P802.3cp/D-3.2-2021-05
 date:
 - type: created
-  value: '2021'
+  value: '2021-05-14'
 - type: published
   value: '2021-05-21'
 - type: issued
-  value: '2021-06-16'
+  value: '2021'
 contributor:
 - organization:
     name:
@@ -90,6 +90,8 @@ keyword:
 - content: Ethernet
 - content: Physical layer
 - content: Computer networks
+- content: bidirectional (BiDi)
+- content: multi-gigabit Ethernet bidirectional Physical Layers
 - content: 10GBASE-BR10
 - content: 10GBASE-BR20
 - content: 10GBASE-BR40
@@ -99,15 +101,10 @@ keyword:
 - content: 50GBASE-BR10
 - content: 50GBASE-BR20
 - content: 50GBASE-BR40
-- content: bidirectional (BiDi)
-- content: Ethernet
 - content: forward error correction (FEC)
-- content: IEEE 802.3&#8482;
-- content: IEEE 802.3cp&#8482;
-- content: multi-gigabit Ethernet bidirectional Physical Layers
 - content: Physical Coding Sublayer (PCS)
-- content: Physical Medium Attachment (PMA) sublayer
-- content: Physical Medium Dependent (PMD) sublayer
+- content: Physical Medium Attachment (PMA)
+- content: Physical Medium Dependent (PMD)
 doctype: standard
 editorialgroup:
   committee:
@@ -119,7 +116,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

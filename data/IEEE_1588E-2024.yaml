@@ -1,0 +1,113 @@
+---
+schema-version: v1.2.3
+id: IEEE1588e-2024
+title:
+- content: 'IEEE Standard for Precision Clock Synchronization Protocol for Networked
+    Measurement and Control Systems Amendment 5: MIB and YANG Modules'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10530578
+  type: src
+type: standard
+docid:
+- id: IEEE 1588e-2024
+  type: IEEE
+  primary: true
+- id: IEEE 1588e™-2024
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-0709-0
+  type: ISBN
+- id: 10.1109/IEEESTD.2024.10530578
+  type: DOI
+docnumber: IEEE 1588e-2024
+date:
+- type: created
+  value: '2024-05-15'
+- type: published
+  value: '2024-05-15'
+- type: issued
+  value: '2024-02-15'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2024-05-15'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Updates to IEEE Std 1588&#8482;-2019 are provided in this amendment. This
+    amendment specifies the structure and content of the IEEE 1588 MIB and YANG modules.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2024'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1588-2019
+    docid:
+    - id: IEEE 1588-2019
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1588-2019
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Synchronization
+- content: Precision engineering
+- content: Networked control systems
+- content: Measurement
+- content: Clocks
+- content: Management information base
+- content: IEEE 1588e&#8482;
+- content: Management
+- content: MIB
+- content: PTP
+- content: YANG
+doctype: standard
+editorialgroup:
+  committee:
+  - TC9 - Sensor Technology of the IEEE Instrumentation and Measurement Society
+ics:
+- code: 39.040.99
+  text: Other time-measuring instruments
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Approved
+  pubstatus: Active
+  holdstatus: Publish

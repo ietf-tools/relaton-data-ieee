@@ -52,18 +52,14 @@ abstract:
 - content: This standard specifies how the Media Access Control (MAC) Service is supported
     by Bridged Networks, the principles of operation of those networks, and the operation
     of MAC Bridges and VLAN Bridges, including management, protocols, and algorithms.
-    Supersedes 802.1Q-2014. IEEE 802.1Qcd-2015, IEEE 802.1Qca-2015,IEEE 802.1Q-2014_Cor-1-2015,
-    IEEE 802.1Qbv-2015, IEEE 802.1Qbu-2016, IEEE 802-1Qbz-2016, IEEE 802.1Qci-2017
-    and IEEE 802.1Qch-2017. (The PDF of this standard is available at no cost to you
-    compliments of the IEEE GET program https://ieeexplore.ieee.org/browse/standards/get-program/page)
+    Supersedes 802.1Q&#8482;-2014. IEEE 802.1Qcd&#8482;-2015, IEEE 802.1Qca&#8482;-2015,IEEE
+    802.1Q&#8482;-2014_Cor-1-2015, IEEE 802.1Qbv&#8482;-2015, IEEE 802.1Qbu&#8482;-2016,
+    IEEE 802.1Qbz&#8482;-2016, IEEE 802.1Qci&#8482;-2017 and IEEE 802.1Qch&#8482;-2017.
   language:
   - en
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -73,40 +69,6 @@ copyright:
     url: http://www.ieee.org
   from: '2018'
 relation:
-- type: updates
-  bibitem:
-    id: IEEE802.1Q-2014
-    docid:
-    - id: IEEE 802.1Q-2014
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.1Q-2014
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE802.1Q-2014
-    docid:
-    - id: IEEE 802.1Q-2014
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.1Q-2014
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: obsoletedBy
   bibitem:
     id: IEEE802.1Q-2022
@@ -117,6 +79,23 @@ relation:
     formattedref:
       content: IEEE 802.1Q-2022
       format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.1Q-2014
+    docid:
+    - id: IEEE 802.1Q-2014
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1Q-2014
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE802.1Q-2014
@@ -185,7 +164,6 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Superseded
   pubstatus: Active
   holdstatus: Publish

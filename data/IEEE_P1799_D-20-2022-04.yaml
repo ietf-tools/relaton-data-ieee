@@ -47,9 +47,9 @@ language:
 script:
 - Latn
 abstract:
-- content: The procedure for quality control testing of external discharges on stator
-    coils, bars, and windings of large air-cooled ac electric machines is described
-    in this recommended practice.
+- content: This recommended practice describes 1 the procedure for quality control
+    testing of external discharges on stator coils, bars and windings of large air-cooled
+    ac electric machines.
   language:
   - en
   script:
@@ -118,6 +118,23 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1799-2012
+    docid:
+    - id: IEEE 1799-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1799-2012
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Voltage control
@@ -126,14 +143,13 @@ keyword:
 - content: Stator windings
 - content: Ultraviolet sources
 - content: ac
+- content: external discharges
+- content: ultraviolet radiation
 - content: acoustic emission
 - content: corona-imaging instrument
 - content: discharge inception voltage
 - content: electrical insulation
-- content: external discharges
-- content: IEEE 1799
-- content: stator winding
-- content: ultraviolet radiation
+- content: stator winding.
 doctype: standard
 editorialgroup:
   committee:
@@ -143,7 +159,7 @@ ics:
   text: Rotating machinery in general
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

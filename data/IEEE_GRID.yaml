@@ -2,11 +2,11 @@
 schema-version: v1.2.3
 id: IEEEGrid
 title:
-- content: IEEE Grid Vision 2050
+- content: IEEE Grid Vision 2050 Reference Model
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/6577603
+- content: https://ieeexplore.ieee.org/document/6577591
   type: src
 type: standard
 docid:
@@ -17,9 +17,9 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-0-7381-8373-2
+- id: 978-0-7381-8403-6
   type: ISBN
-- id: 10.1109/IEEESTD.2013.6577603
+- id: 10.1109/IEEESTD.2013.6577591
   type: DOI
 docnumber: IEEE Grid
 date:
@@ -48,14 +48,10 @@ language:
 script:
 - Latn
 abstract:
-- content: This document describes the IEEE PES s vision of the power system infrastructure
-    into the year 2050. This document sets the stage and includes future scenarios,
-    electricity generation (Make), electricity transmission and distribution (Move),
-    and electricity usage (Use). It also covers the related Operations and Control
-    issues. The document uses scenarios from the International Energy Agency (IEA),
-    which defines future energy availability, production and usage into the year 2050.
-    For Corporate or Institutional Access, request a custom quote for your organization
-    at www.ieee.org/smartgridresearch
+- content: The IEEE Grid Vision 2050 Reference Model summarizes the main concepts
+    defined in the IEEE Grid Vision 2050; such as, reference models for energy usage,
+    energy delivery, and energy operations and control. For Corporate or Institutional
+    Access, request a custom quote for your organization at www.ieee.org/smartgridresearch
   language:
   - en
   script:
@@ -71,34 +67,40 @@ copyright:
   from: '2013'
 keyword:
 - content: Smart grids
-- content: Power grids
 - content: Power system reliability
-- content: Electricity supply industry
+- content: Power grids
 - content: Computer security
+- content: Electricity supply industry
+- content: Power distribution
+- content: Security
 - content: Technology forecasting
 - content: Forecasting
-- content: Smart grid
-- content: Grid
-- content: power
-- content: IEEE PES
-- content: electrical grid
-- content: grid modernization
-- content: generation
-- content: transmission
-- content: distribution
-- content: load
 - content: consumer
-- content: operations
 - content: controls
 - content: cyber security
 - content: distributed resources
+- content: distribution
 - content: electric infrastructure and reliability
 - content: electric power system
+- content: electrical grid
 - content: electricity customers and loads
+- content: generation
+- content: grid
 - content: grid architecture
+- content: grid modernization
 - content: grid operations
+- content: IEEE PES
+- content: load
+- content: operations
+- content: power
 - content: power systems
+- content: reference model
+- content: smart grid
+- content: transmission
 doctype: standard
+editorialgroup:
+  committee:
+  - IEEE Power and Energy Society
 ics:
 - code: 29.240.01
   text: Power transmission and distribution networks in general

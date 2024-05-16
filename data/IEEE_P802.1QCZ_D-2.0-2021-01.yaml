@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2021-01-22'
 - type: issued
-  value: '2023-06-05'
+  value: '2021'
 contributor:
 - organization:
     name:
@@ -47,7 +47,7 @@ language:
 script:
 - Latn
 abstract:
-- content: This amendment to IEEE Std 802.1Q&#8482;-2022 specifies protocols, procedures,
+- content: This amendment to IEEE Std 802.1Q&#8482;-2018 specifies protocols, procedures
     and managed objects that support the isolation of congesting data flows within
     data center environments.
   language:
@@ -67,23 +67,6 @@ copyright:
     url: http://www.ieee.org
   from: '2021'
 relation:
-- type: updates
-  bibitem:
-    id: IEEE802.1Q-2022
-    docid:
-    - id: IEEE 802.1Q-2022
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.1Q-2022
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: updates
   bibitem:
     id: IEEE802.1Q-2018
@@ -109,20 +92,15 @@ keyword:
 - content: Metropolitan area networks
 - content: Data centers
 - content: Telecommunication traffic
-- content: amendment
 - content: Bridged Local Area Networks
-- content: congestion
-- content: congestion isolation
-- content: Data Center Bridging
-- content: flow control
-- content: IEEE 802.1Q&#8482;
-- content: IEEE 802.1Qcz&#8482;
-- content: LANs
-- content: Local Area Networks
+- content: Local Area Networks (LANs)
 - content: MAC Bridges
+- content: Virtual Bridged Local Area Networks (virtual LANs)
+- content: Data Center Bridging
 - content: priority
-- content: Virtual Bridged Local Area Networks
-- content: virtual LANs
+- content: flow control
+- content: congestion
+- content: congestion isolation.
 doctype: standard
 editorialgroup:
   committee:

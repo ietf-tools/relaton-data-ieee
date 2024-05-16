@@ -1,0 +1,115 @@
+---
+schema-version: v1.2.3
+id: IEEEP1149.4-D-2-2024-02
+title:
+- content: IEEE Draft Standard for a Mixed-Signal Test Bus
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10530566
+  type: src
+type: standard
+docid:
+- id: IEEE P1149.4/D-2-2024-02
+  type: IEEE
+  primary: true
+- id: IEEE P1149.4™/D-2-2024-02
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-0776-2
+  type: ISBN
+docnumber: IEEE P1149.4/D-2-2024-02
+date:
+- type: created
+  value: '2024-05-01'
+- type: published
+  value: '2024-05-15'
+- type: issued
+  value: '2024'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2024-05-15'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The testability structure for digital c 1 ircuits described in IEEE Std
+    1149.1 has been extended to provide similar facilities for mixed-signal circuits.
+    The architecture is described, together with the means of control of and access
+    to, both analog and digital test data. Sample implementation and application details
+    (which are not part of the standard) are included for illustration. Also, extensions
+    to the standard BSDL are defined that allow description of key component-specific
+    aspects of such testability features.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: draft
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2024'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1149.4-2010
+    docid:
+    - id: IEEE 1149.4-2010
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1149.4-2010
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Design for testability
+- content: Mixed analog-digital integrated circuits
+- content: Circuit testing
+- content: analog test
+- content: board testing
+- content: boundary scan
+- content: BSDL
+- content: design for testability
+- content: IEEE 1149.4
+- content: in-circuit test
+- content: mixed-signal test
+doctype: standard
+editorialgroup:
+  committee:
+  - Test Technology of the IEEE Computer Society
+ics:
+- code: '31.180'
+  text: Printed circuits and boards
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

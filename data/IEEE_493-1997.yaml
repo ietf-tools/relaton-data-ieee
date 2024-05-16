@@ -86,16 +86,6 @@ copyright:
     url: http://www.ieee.org
   from: '1998'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE493-2007
-    docid:
-    - id: IEEE 493-2007
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 493-2007
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEE493-1990
@@ -113,6 +103,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE493-2007
+    docid:
+    - id: IEEE 493-2007
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 493-2007
+      format: text/plain
 keyword:
 - content: Industrial power systems
 - content: The fundamentals of reliability analysis to the planning and design of

@@ -24,6 +24,8 @@ docid:
   type: DOI
 docnumber: IEEE 1377-2012
 date:
+- type: updated
+  value: '2012-09-14'
 - type: created
   value: '2012-08-10'
 - type: published
@@ -37,10 +39,6 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-    contact:
-    - address:
-        city: New York
-        country: USA
   role:
   - type: publisher
 revdate: '2012-08-09'
@@ -72,6 +70,9 @@ abstract:
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -81,57 +82,6 @@ copyright:
     url: http://www.ieee.org
   from: '2012'
 relation:
-- type: updates
-  bibitem:
-    id: IEEE1377-1997
-    docid:
-    - id: IEEE 1377-1997
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1377-1997
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1377-1997
-    docid:
-    - id: IEEE 1377-1997
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1377-1997
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1377-1997
-    docid:
-    - id: IEEE 1377-1997
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1377-1997
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: updates
   bibitem:
     id: IEEE1377-1997
@@ -161,13 +111,13 @@ keyword:
 doctype: standard
 editorialgroup:
   committee:
-  - Strategic and Emerging Standards Committee of the IEEE SA Board of Governors
+  - IEEE-SASB Coordinating Committees
 ics:
-- code: 35.240.50
-  text: IT applications in industry
+- code: '35.180'
+  text: IT terminal and other peripheral equipment
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
-  standard_modified: Reserved
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

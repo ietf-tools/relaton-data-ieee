@@ -49,7 +49,7 @@ script:
 - Latn
 abstract:
 - content: Certain electrical, dimensional, and mechanical characteristics and safety
-    features of single- and three-phase, 60-Hz, liquid-immersed, self-cooled, overhead-type
+    features of single- and three-phase, 60 Hz, liquid-immersed, self-cooled, overhead-type
     distribution transformers 500 kVA and smaller, high voltages 34 500 V and below,
     and low voltages 7970/13 800Y V and below are covered in this standard.
   language:
@@ -154,23 +154,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC57.12.20-2017
-    docid:
-    - id: IEEE C57.12.20-2017
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C57.12.20-2017
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Power transformers
@@ -178,7 +161,7 @@ keyword:
 - content: High-voltage techniques
 - content: Low voltage
 - content: distribution transformer
-- content: IEEE C57.12.20&#8482;
+- content: IEEE C57.12.20
 - content: liquid
 - content: overhead
 - content: transformer
@@ -191,7 +174,7 @@ ics:
   text: Fuses and other overcurrent protection devices
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

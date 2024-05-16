@@ -26,7 +26,7 @@ date:
 - type: published
   value: '2023-07-17'
 - type: issued
-  value: '2023-11-08'
+  value: '2023'
 contributor:
 - organization:
     name:
@@ -46,14 +46,14 @@ language:
 script:
 - Latn
 abstract:
-- content: 'The vocabulary, data formats, and application programming interfaces (APIs)
-    for controlling the actuators, which helps enable the definition of interfaces
-    between the cyber world and the physical world, are defined in this standard,
-    including: -Data formats for interfacing actuator commands defining a root schema
-    with individual actuators -Data formats for recognizing actuator capabilities
-    defining a root schema with individual actuators -Data formats for common data
-    types -Application programming interfaces to transmit commands and capability
-    descriptions of the actuators between the cyber and physical worlds'
+- content: 'This standard defines the vocabulary, data formats, and APIs for controlling
+    the actuators, which helps enable the definition of interfaces between the cyber
+    world and the physical world, including: - data formats for interfacing actuator
+    commands defining a root schema with individual actuators, - data formats for
+    recognizing actuator capabilities defining a root schema with individual actuators,
+    - data formats for common data types, and - application programming interfaces
+    to transmit commands and capability descriptions of the actuators between cyber
+    and physical worlds.'
   language:
   - en
   script:
@@ -75,18 +75,14 @@ keyword:
 - content: Actuators
 - content: Training
 - content: Virtual reality
-- content: actuator application programming interfaces (APIs)
+- content: actuator APIs
 - content: actuator capabilities
 - content: actuator data formats
-- content: IEEE 2888.2&#8482;
-- content: large space virtual reality (VR) training system actuators
+- content: large space VR training system actuators
 doctype: standard
 editorialgroup:
   committee:
-  - Standards Activities Board Standards Committee of the IEEE Computer Society
-ics:
-- code: '35.180'
-  text: IT terminal and other peripheral equipment
+  - Standards Activities Board of the IEEE Computer Society
 ext:
   schema-version: v1.0.0
   standard_status: Inactive

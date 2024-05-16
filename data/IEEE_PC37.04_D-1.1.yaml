@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2021-02-10'
 - type: issued
-  value: '2021-06-16'
+  value: '2021'
 contributor:
 - organization:
     name:
@@ -46,24 +46,6 @@ language:
 - en
 script:
 - Latn
-abstract:
-- content: This standard covers the rating structure for all high-voltage circuit
-    breakers, which include all voltage ratings above 1000 V ac and comprise both
-    indoor and outdoor types. Preferred ratings are also provided. Typical circuit
-    breakers covered by these standards have maximum voltage ratings ranging from
-    4.76 kV through 800 kV, and continuous current ratings of 600 A, 1200 A, 2000
-    A, 3000 A, and 4000 A associated with the various maximum voltage ratings. The
-    rating structure establishes the basis for all assigned ratings, including continuous
-    current, insulation capability (formerly dielectric withstand voltages), short-circuit
-    current, transient recovery voltage, and capacitor switching, plus associated
-    capabilities such as mechanical endurance, load current, and out-of-phase switching.
-    This standard does not cover generator circuit breakers, which are covered by
-    IEC/IEEE Std 62271-37-013(TM).
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -110,6 +92,40 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC37.04-2018
+    docid:
+    - id: IEEE C37.04-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.04-2018
+      format: text/plain
+  description:
+    content: corrects
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC37.04-2018
+    docid:
+    - id: IEEE C37.04-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.04-2018
+      format: text/plain
+  description:
+    content: corrects
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Voltage control
@@ -118,7 +134,7 @@ keyword:
 - content: Power frequency
 - content: Fault diagnosis
 - content: capacitive current switching
-- content: IEEE C37.04
+- content: IEEE C37.04&#8482;
 - content: indoor
 - content: insulation capability
 - content: interrupting time

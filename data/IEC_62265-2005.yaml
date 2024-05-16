@@ -2,12 +2,12 @@
 schema-version: v1.2.3
 id: IEC62265-2005
 title:
-- content: 'IEC/IEEE Standard for Advanced Library Format (ALF) describing integrated
-    circuit (IC) technology, cells, and blocks (Adoption of IEEE Std 1603-2003) '
+- content: IEC/IEEE International Standard - Advanced Library Format (ALF) Describing
+    Integrated Circuit (IC) Technology, Cells, and Blocks
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/4140789
+- content: https://ieeexplore.ieee.org/document/8894281
   type: src
 type: standard
 docid:
@@ -20,12 +20,14 @@ docid:
   primary: true
 - id: 978-0-7381-4776-5
   type: ISBN
-- id: 10.1109/IEEESTD.2005.339571
+- id: 10.1109/IEEESTD.2004.8894281
   type: DOI
 docnumber: IEC 62265-2005
 date:
 - type: created
-  value: '2005'
+  value: '2004-02-20'
+- type: published
+  value: '2019-11-07'
 - type: issued
   value: '2005'
 contributor:
@@ -41,10 +43,23 @@ contributor:
         country: USA
   role:
   - type: publisher
+revdate: '2019-11-07'
 language:
 - en
 script:
 - Latn
+abstract:
+- content: Replaces IEEE Std 1603-2003. ALF is a modeling language for library elements
+    used in IC technology. ALF enables description of electrical, functional, and
+    physical models in a formal language suitable for electronic design automation
+    (EDA) application tools targeted for design and analysis of an IC. This standard
+    provides rules that describe ALF and how tool developers, integrators, library
+    creators, and library users should use it.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: withdrawn
@@ -57,9 +72,31 @@ copyright:
     url: http://www.ieee.org
   from: '2005'
 keyword:
-- content: IEC Standards
 - content: IEEE Standards
+- content: IEC Standards
 - content: Integrated circuits
+- content: Timing analysis
+- content: Signal integrity
+- content: behavioral
+- content: block
+- content: cell
+- content: derate
+- content: EDA
+- content: electrical
+- content: format
+- content: functional
+- content: gate-level
+- content: integrated circuit
+- content: language
+- content: layout
+- content: library
+- content: modeling
+- content: physical
+- content: power
+- content: RTL
+- content: signal integrity
+- content: technology
+- content: timing
 doctype: standard
 editorialgroup:
   committee:

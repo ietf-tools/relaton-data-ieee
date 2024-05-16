@@ -2,15 +2,15 @@
 schema-version: v1.2.3
 id: IEEEP802.11ay-D-7.0-2020-12
 title:
-- content: 'IEEE Draft Standard for Information Technology-Telecommunications and
-    Information Exchange Between Systems - Local and Metropolitan Area Networks-Specific
+- content: 'IEEE Approved Draft Standard for Information Technology-Telecommunications
+    and Information Exchange Between Systems - Local and Metropolitan Area Networks-Specific
     Requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer
     (PHY) Specifications-Amendment 2: Enhanced Throughput for Operation in License-Exempt
     Bands Above 45 GHz'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/9295503
+- content: https://ieeexplore.ieee.org/document/9387692
   type: src
 type: standard
 docid:
@@ -26,9 +26,9 @@ docid:
 docnumber: IEEE P802.11ay/D-7.0-2020-12
 date:
 - type: created
-  value: '2020-12-11'
+  value: '2021'
 - type: published
-  value: '2020-12-15'
+  value: '2021-03-26'
 - type: issued
   value: '2021-03-25'
 contributor:
@@ -44,18 +44,17 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2020-12-15'
+revdate: '2021-03-26'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: In this amendment to IEEE Std 802.11-2020, standardized modifications to
-    both the IEEE 802.11 physical layer (PHY) and the IEEE 802.11 medium access control
-    (MAC) sublayer are defined to enable at least one mode of operation capable of
-    supporting a maximum throughput of at least 20 gigabits per second (measured at
-    the MAC data service access point), while maintaining or improving the power efficiency
-    per station.
+- content: This amendment defines standardized modifications to both the IEEE 802.11
+    physical layers (PHY) and the IEEE 802.11 medium access control layer (MAC) that
+    enables at least one mode of operation capable of supporting a maximum throughput
+    of at least 20 gigabits per second (measured at the MAC data service access point),
+    while maintaining or improving the power efficiency per station.
   language:
   - en
   script:
@@ -90,42 +89,21 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE802.11-2020
-    docid:
-    - id: IEEE 802.11-2020
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.11-2020
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
-- content: Information technology
-- content: Information exchange
-- content: Physical layer
-- content: Media Access Protocols
 - content: Local area networks
 - content: Metropolitan area networks
-- content: Information exchange
-- content: 60 GHz
-- content: beamforming
-- content: directional multi-gigabit
-- content: EDMG
-- content: Extended DMG
-- content: IEEE 802.11&#8482;
-- content: IEEE 802.11ay&#8482;
-- content: millimeter-wave
+- content: Millimeter wave communications
+- content: Array signal processing
 - content: MIMO
+- content: 60 GHz
+- content: millimeter-wave
+- content: directional multi-gigabit
+- content: Extended DMG
+- content: EDMG
+- content: beamforming
 - content: multiple input multiple output
+- content: MIMO
 - content: variable channel widths
 doctype: standard
 editorialgroup:
@@ -136,7 +114,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold
