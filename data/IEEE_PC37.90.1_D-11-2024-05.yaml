@@ -1,0 +1,110 @@
+---
+schema-version: v1.2.3
+id: IEEEPC37.90.1-D-11-2024-05
+title:
+- content: IEEE Draft Standard for Relays, Relay Systems, and Control Devices used
+    for Protection and Control of Electric Power Apparatus-Surge Withstand Capability
+    (SWC) and Electrical Fast Transient (EFT) Requirements and Tests
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10537124
+  type: src
+type: standard
+docid:
+- id: IEEE PC37.90.1/D-11-2024-05
+  type: IEEE
+  primary: true
+- id: IEEE PC37.90.1™/D-11-2024-05
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-0829-5
+  type: ISBN
+docnumber: IEEE PC37.90.1/D-11-2024-05
+date:
+- type: created
+  value: '2024-05-21'
+- type: published
+  value: '2024-05-22'
+- type: issued
+  value: '2024'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2024-05-22'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This standard specifies 1 design tests for relays, relay systems, and control
+    devices used for Protection and Control of Electric Power Apparatus, that relate
+    to the immunity of this equipment to repetitive electrical transients. Two types
+    of tests are specified, the slow damped oscillatory test, and the electrical fast
+    transient (EFT) burst test. For devices with communication ports, where the device
+    does not perform protection or control functions, testing of the communication
+    functions is covered by IEEE Std. 1613. Where the device performs protection or
+    control functions and has communication ports, tests for all communication functions
+    are covered by this document. For devices without communication ports, the tests
+    are covered by this document.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: draft
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2024'
+relation:
+- type: updates
+  bibitem:
+    id: IEEEC37.90.1-2012
+    docid:
+    - id: IEEE C37.90.1-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.90.1-2012
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: Switching(surge)
+- content: transient
+doctype: standard
+editorialgroup:
+  committee:
+  - Power System Relaying and Control of the IEEE Power and Energy Society
+ics:
+- code: 29.120.70
+  text: Relays
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

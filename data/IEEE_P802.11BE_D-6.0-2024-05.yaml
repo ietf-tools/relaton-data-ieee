@@ -1,0 +1,128 @@
+---
+schema-version: v1.2.3
+id: IEEEP802.11be-D-6.0-2024-05
+title:
+- content: 'IEEE Draft Standard for Information technology--Telecommunications and
+    information exchange between systems Local and metropolitan area networks--Specific
+    requirements - Part 11: Wireless LAN Medium Access Control (MAC) and Physical
+    Layer (PHY) Specifications Amendment: Enhancements for Extremely High Throughput
+    (EHT)'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10535453
+  type: src
+type: standard
+docid:
+- id: IEEE P802.11be/D-6.0-2024-05
+  type: IEEE
+  primary: true
+- id: IEEE P802.11be™/D-6.0-2024-05
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-0822-6
+  type: ISBN
+docnumber: IEEE P802.11be/D-6.0-2024-05
+date:
+- type: created
+  value: '2024-05-17'
+- type: published
+  value: '2024-05-21'
+- type: issued
+  value: '2024'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2024-05-21'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This amendment defines standardized modifications to both the IEEE Std
+    802.11 physical layers (PHY) and the Medium Access Control Layer (MAC) that enable
+    at least one mode of operation capable of supporting a maximum throughput of at
+    least 30 Gbit/s, as measured at the MAC data service access point (SAP), with
+    carrier frequency operation between 1 and 7.250 GHz while ensuring backward compatibility
+    and coexistence with legacy IEEE Std 802.11 compliant devices operating in the
+    2.4 GHz, 5 GHz, and 6 GHz bands. This amendment defines at least one mode of operation
+    capable of improved worst case latency and jitter.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: draft
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2024'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE802.11-2020
+    docid:
+    - id: IEEE 802.11-2020
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.11-2020
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Information technology
+- content: Jitter
+- content: Throughput
+- content: Media Access Protocol
+- content: Physical layer
+- content: Wireless LAN
+- content: Information exchange
+- content: EHT
+- content: extremely high throughput
+- content: jitter
+- content: latency
+- content: MAC
+- content: medium access control
+- content: PHY
+- content: physical layer
+- content: wireless local area network
+- content: WLAN
+doctype: standard
+editorialgroup:
+  committee:
+  - LAN/MAN Standards Committee of the IEEE Computer Society
+ics:
+- code: '35.110'
+  text: Networking
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold
