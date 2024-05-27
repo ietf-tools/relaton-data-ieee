@@ -1,31 +1,30 @@
 ---
 schema-version: v1.2.3
-id: IEEEP1695-D-5-2024-05
+id: IEEEP1854-D-001-2024-01
 title:
-- content: IEEE Draft Guide to Understanding, Diagnosing, and Mitigating Stray and
-    Contact Voltage
+- content: IEEE Draft Guide for Smart Distribution Applications
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/10537086
+- content: https://ieeexplore.ieee.org/document/10538245
   type: src
 type: standard
 docid:
-- id: IEEE P1695/D-5-2024-05
+- id: IEEE P1854/D-001-2024-01
   type: IEEE
   primary: true
-- id: IEEE P1695™/D-5-2024-05
+- id: IEEE P1854™/D-001-2024-01
   type: IEEE
   scope: trademark
   primary: true
-- id: 979-8-8557-0831-8
+- id: 979-8-8557-0834-9
   type: ISBN
-docnumber: IEEE P1695/D-5-2024-05
+docnumber: IEEE P1854/D-001-2024-01
 date:
 - type: created
-  value: '2024-05-21'
+  value: '2024-05-22'
 - type: published
-  value: '2024-05-23'
+  value: '2024-05-24'
 - type: issued
   value: '2024'
 contributor:
@@ -41,18 +40,16 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2024-05-23'
+revdate: '2024-05-24'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Voltage conditions that may arise at publicly and privately accessible
-    locations as a result of the delivery and use of electrical energy are addressed
-    in this guide. This guide is not intended for use as a statement of cause and
-    effect. It focuses primarily on the presence of power frequency related voltage
-    conditions and discusses definitions, sources, testing techniques, and strategies
-    that may be available to help reduce those conditions.
+- content: This guide categorizes important smart distribution applications, develops
+    descriptions of the critical functions involved, defines important components
+    of these systems, and provides examples of the systems that can be considered
+    as part of distribution management systems or other smart distribution systems.
   language:
   - en
   script:
@@ -72,13 +69,13 @@ copyright:
 relation:
 - type: updates
   bibitem:
-    id: IEEE1695-2016
+    id: IEEE1854-2019
     docid:
-    - id: IEEE 1695-2016
+    - id: IEEE 1854-2019
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 1695-2016
+      content: IEEE 1854-2019
       format: text/plain
   description:
     content: revises
@@ -89,17 +86,29 @@ relation:
     format: text/plain
 keyword:
 - content: IEEE Standards
-- content: Voltage control
-- content: contact voltage
-- content: IEEE 1695&#8482;
-- content: stray voltage
+- content: Power distribution
+- content: Power system reliability
+- content: Power quality
+- content: Energy efficiency
+- content: Power markets
+- content: Smart grids
+- content: Smart
+- content: distribution
+- content: power
+- content: grid
+- content: reliability
+- content: power quality
+- content: efficiency
+- content: hosting
+- content: capacity
+- content: market
 doctype: standard
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society
 ics:
-- code: '29.020'
-  text: Electrical engineering in general
+- code: 29.240.01
+  text: Power transmission and distribution networks in general
 ext:
   schema-version: v1.0.0
   standard_status: Active
