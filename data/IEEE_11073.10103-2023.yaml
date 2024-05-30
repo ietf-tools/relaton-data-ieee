@@ -1,0 +1,135 @@
+---
+schema-version: v1.2.3
+id: IEEE11073.10103-2023
+title:
+- content: 'IEEE Standard Health Informatics--Device Interoperability Part 10103:
+    Point‐of‐Care Medical Device Communication--Nomenclature--Implantable Device,
+    Cardiac'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10541939
+  type: src
+type: standard
+docid:
+- id: IEEE 11073.10103-2023
+  type: IEEE
+  primary: true
+- id: IEEE 11073.10103™-2023
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-0756-4
+  type: ISBN
+- id: 10.1109/IEEESTD.2024.10541939
+  type: DOI
+docnumber: IEEE 11073.10103-2023
+date:
+- type: created
+  value: '2024-05-30'
+- type: published
+  value: '2024-05-29'
+- type: issued
+  value: '2023-11-08'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2024-05-29'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The base nomenclature provided in IEEE 11073 to support terminology for
+    implantable cardiac devices is extended in this standard. Devices within the scope
+    of this nomenclature are implantable devices such as pacemakers, defibrillators,
+    devices for cardiac resynchronization therapy, and implantable cardiac monitors.
+    The discrete terms necessary to convey a clinically relevant summary of the information
+    obtained during a device interrogation are defined in this nomenclature. To improve
+    workflow efficiencies, cardiology and electrophysiology practices require the
+    management of summary interrogation information from all vendor devices and systems
+    in a central system such as an Electronic Health Records (EHR) system or a device
+    clinic management system. To address this requirement, the Implantable Device,
+    Cardiac (IDC) Nomenclature defines a standard-based terminology for device data.
+    The nomenclature facilitates the transfer of data from the vendor proprietary
+    systems to the clinic EHR or device clinic management system.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2024'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE11073.10103-2012
+    docid:
+    - id: IEEE 11073.10103-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 11073.10103-2012
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: cardiac resynchronization therapy
+- content: codes
+- content: CRT
+- content: follow-up
+- content: home monitoring
+- content: ICD
+- content: IDC
+- content: IEEE 11073-10103&#8482;
+- content: implantable cardioverter defibrillator
+- content: implantable devices
+- content: implantable device cardiac
+- content: medical device communication
+- content: nomenclature
+- content: pacemaker
+- content: remote follow-up
+- content: remote monitoring
+- content: terminology
+doctype: standard
+editorialgroup:
+  committee:
+  - IEEE 11073 Standards Committee of the IEEE Engineering in Medicine and Biology
+    Society
+ics:
+- code: 35.240.80
+  text: IT applications in health care technology
+- code: 11.040.40
+  text: Implants for surgery, prosthetics and orthotics
+- code: 01.040.35
+  text: Information technology (Vocabularies)
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Approved
+  pubstatus: Active
+  holdstatus: Publish
