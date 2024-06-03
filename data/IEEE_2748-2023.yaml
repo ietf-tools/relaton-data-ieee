@@ -1,0 +1,106 @@
+---
+schema-version: v1.2.3
+id: IEEE2748-2023
+title:
+- content: IEEE Recommended Practice for Fault Diagnosis and Protection in Smart Distribution
+    System
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10542673
+  type: src
+type: standard
+docid:
+- id: IEEE 2748-2023
+  type: IEEE
+  primary: true
+- id: IEEE 2748™-2023
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-0618-5
+  type: ISBN
+- id: 10.1109/IEEESTD.2024.10542673
+  type: DOI
+docnumber: IEEE 2748-2023
+date:
+- type: created
+  value: '2024-05-31'
+- type: published
+  value: '2024-05-31'
+- type: issued
+  value: '2023-12-06'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2024-05-31'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The fault diagnosis and protection schemes and application cases for smart
+    distribution systems from ac 6 kV to 20 kV are provided by this recommended practice,
+    covering security requirements, architectures, and configuration, as well as basic
+    functions and technical indexes of software systems and hardware terminals and
+    requirements of information exchange. Schemes provided in this document are adaptable
+    to various operation modes, control patterns, equipment conditions, and reliability
+    requirements of distribution systems. This recommended practice is mainly based
+    on engineering practices in the voltage range of 6 kV to 20 kV. The proposed fault
+    location, isolation, and service restoration (FLISR) schemes can also be used
+    in the voltage range of 2.4 kV to 38 kV as specified in ANSI C84.1 after an evaluation
+    of communication conditions and cost analysis. Phase (three-phase and phase-to-phase)
+    faults, ground (three-phase-to-ground, two-phase-to-ground, and single-phase-to-ground)
+    faults and conductor-broken faults are covered by the fault types. Changes and
+    needs brought by the connection of distributed generators are considered, and
+    schemes empowered by information and communication technologies are also introduced.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2024'
+keyword:
+- content: IEEE Standards
+- content: Power distribution
+- content: Fault diagnosis
+- content: Communication systems
+- content: Power system protection
+- content: Smart grids
+- content: centralized scheme
+- content: communication-assisted scheme
+- content: fault diagnosis and protection
+- content: IEEE 2748&#8482;
+- content: non-communication-based scheme
+- content: smart distributed scheme
+- content: smart distribution system
+doctype: standard
+editorialgroup:
+  committee:
+  - Transmission and Distribution of the IEEE Power and Energy Society
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Approved
+  pubstatus: Active
+  holdstatus: Publish
