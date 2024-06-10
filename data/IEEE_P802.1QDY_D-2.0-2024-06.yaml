@@ -1,0 +1,123 @@
+---
+schema-version: v1.2.3
+id: IEEEP802.1Qdy-D-2.0-2024-06
+title:
+- content: 'IEEE Draft Standard for Local and Metropolitan Area Networks - Bridges
+    and Bridged Networks -Amendment 40: YANG for the Multiple Spanning Tree Protocol'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10551764
+  type: src
+type: standard
+docid:
+- id: IEEE P802.1Qdy/D-2.0-2024-06
+  type: IEEE
+  primary: true
+- id: IEEE P802.1Qdy™/D-2.0-2024-06
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-0875-2
+  type: ISBN
+docnumber: IEEE P802.1Qdy/D-2.0-2024-06
+date:
+- type: created
+  value: '2024'
+- type: published
+  value: '2024-06-07'
+- type: issued
+  value: '2024'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2024-06-07'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This amendment to IEEE Std 802.1Q-2022 as amended by IEEE Std 802.1Qcz-2023,
+    IEEE Std 802.1Qcw-2023, IEEE Std 802.1Qcj-2023, IEEE Std 802.1Qdj-2024, and IEEE
+    Std 802.1Qdx-2024 addresses Multiple Spanning Tree Protocol (MSTP) requirements
+    arising from industrial automation networks. It specifies YANG for bridge and
+    bridge component RSTP and MSTP configuration and status reporting.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: draft
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2024'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE802.1Q-2022
+    docid:
+    - id: IEEE 802.1Q-2022
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1Q-2022
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Bridge circuits
+- content: Virtual LAN
+- content: Bridged Network
+- content: IEEE 802.1Q&#8482;
+- content: IEEE 802.1Qdy&#8482;
+- content: LAN
+- content: local area network
+- content: MAC Bridge
+- content: metropolitan area network
+- content: MSTP
+- content: Multiple Spanning Tree Protocol
+- content: MIB
+- content: Rapid Spanning Tree Protocol
+- content: RSTP
+- content: Virtual Bridged Network
+- content: virtual LAN
+- content: VLAN Bridge
+- content: YANG
+doctype: standard
+editorialgroup:
+  committee:
+  - LAN/MAN Standards Committee of the IEEE Computer Society
+ics:
+- code: '35.110'
+  text: Networking
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

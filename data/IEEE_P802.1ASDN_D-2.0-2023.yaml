@@ -1,0 +1,114 @@
+---
+schema-version: v1.2.3
+id: IEEEP802.1ASdn-D-2.0-2023
+title:
+- content: 'IEEE Draft Standard for Local and Metropolitan Area Networks - Timing
+    and Synchronization for Time-Sensitive Applications Amendment: YANG Data Model'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10551774
+  type: src
+type: standard
+docid:
+- id: IEEE P802.1ASdn/D-2.0-2023
+  type: IEEE
+  primary: true
+- id: IEEE P802.1ASdn™/D-2.0-2023
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-0404-4
+  type: ISBN
+docnumber: IEEE P802.1ASdn/D-2.0-2023
+date:
+- type: created
+  value: '2023-12-14'
+- type: published
+  value: '2024-06-07'
+- type: issued
+  value: '2023'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2024-06-07'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This amendment to IEEE Std 802.1ASTM-2020 specifies a YANG data model that
+    allows configuration and state reporting for all managed objects of the base standard.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: draft
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2023'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE802.1AS-2020
+    docid:
+    - id: IEEE 802.1AS-2020
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1AS-2020
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Data models
+- content: Telecommunication network management
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Synchronization
+- content: Timing
+- content: YANG
+- content: data model
+- content: network management
+- content: managed objects
+- content: IEEE 802.1AS&#8482;
+- content: synchronization
+- content: syntonization
+- content: time-aware system
+doctype: standard
+editorialgroup:
+  committee:
+  - LAN/MAN Standards Committee of the IEEE Computer Society
+ics:
+- code: '35.110'
+  text: Networking
+ext:
+  schema-version: v1.0.0
+  standard_status: Inactive
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold
