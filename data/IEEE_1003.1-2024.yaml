@@ -1,0 +1,149 @@
+---
+schema-version: v1.2.3
+id: IEEE1003.1-2024
+title:
+- content: IEEE/Open Group Standard for Information Technology--Portable Operating
+    System Interface (POSIX™) Base Specifications, Issue 8
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10555529
+  type: src
+type: standard
+docid:
+- id: IEEE 1003.1-2024
+  type: IEEE
+  primary: true
+- id: IEEE 1003.1-2024™
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-0793-9
+  type: ISBN
+- id: 10.1109/IEEESTD.2024.10555529
+  type: DOI
+docnumber: IEEE 1003.1-2024
+date:
+- type: created
+  value: '2024'
+- type: published
+  value: '2024-06-12'
+- type: issued
+  value: '2024-05-20'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2024-06-12'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'POSIX.1-2024 is simultaneously IEEE Std 1003.1&#8482;-2024 and The Open
+    Group Standard Base Specifications, Issue 8. POSIX.1-2024 defines a standard operating
+    system interface and environment, including a command interpreter (or “shell”),
+    and common utility programs to support applications portability at the source
+    code level. POSIX.1-2024 is intended to be used by both application developers
+    and system implementors and comprises four major components (each in an associated
+    volume): --General terms, concepts, and interfaces common to all volumes of this
+    standard, including utility conventions and C-language header definitions, are
+    included in the Base Definitions volume. --Definitions for system service functions
+    and subroutines, language-specific system services for the C programming language,
+    function issues, including portability, error handling, and error recovery, are
+    included in the System Interfaces volume. --Definitions for a standard source
+    code-level interface to command interpretation services (a “shell”) and common
+    utility programs for application programs are included in the Shell and Utilities
+    volume. --Extended rationale that did not fit well into the rest of the document
+    structure, which contains historical information concerning the contents of POSIX.1-2024
+    and why features were included or discarded by the standard developers, is included
+    in the Rationale (Informative) volume.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  - name:
+    - content: Open Group
+  from: '2024'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1003.1-2017
+    docid:
+    - id: IEEE 1003.1-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1003.1-2017
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Information technology
+- content: Open systems
+- content: Operating systems
+- content: Application programming interfaces
+- content: application program interface (API)
+- content: argument
+- content: asynchronous
+- content: basic regular expression (BRE)
+- content: built-in utility
+- content: byte
+- content: child
+- content: command language interpreter
+- content: CPU
+- content: extended regular expression (ERE)
+- content: FIFO
+- content: file access control mechanism
+- content: IEEE 1003.1&#8482;
+- content: input/output (I/O)
+- content: job control
+- content: network
+- content: parent
+- content: portable operating system interface (POSIX&#8482;)
+- content: shell
+- content: stream
+- content: string
+- content: synchronous
+- content: system
+- content: thread
+- content: X/Open System Interface (XSI)
+doctype: standard
+editorialgroup:
+  committee:
+  - Microprocessor Standards Committee of the IEEE Computer Society
+ics:
+- code: '35.060'
+  text: Languages used in information technology
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Approved
+  pubstatus: Active
+  holdstatus: Publish
