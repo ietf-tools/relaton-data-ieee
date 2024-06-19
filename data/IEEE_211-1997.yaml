@@ -66,6 +66,16 @@ copyright:
     url: http://www.ieee.org
   from: '1998'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE211-2018
+    docid:
+    - id: IEEE 211-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 211-2018
+      format: text/plain
 - type: updates
   bibitem:
     id: IEEE211-1990
@@ -93,16 +103,23 @@ relation:
     formattedref:
       content: IEEE 211-2018
       format: text/plain
-- type: obsoletedBy
+- type: updates
   bibitem:
-    id: IEEE211-2018
+    id: IEEE211-1990
     docid:
-    - id: IEEE 211-2018
+    - id: IEEE 211-1990
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 211-2018
+      content: IEEE 211-1990
       format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Electromagnetic propagation

@@ -69,16 +69,6 @@ copyright:
     url: http://www.ieee.org
   from: '2013'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE308-2020
-    docid:
-    - id: IEEE 308-2020
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 308-2020
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEE308-2001
@@ -96,6 +86,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE308-2020
+    docid:
+    - id: IEEE 308-2020
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 308-2020
+      format: text/plain
 keyword:
 - content: IEEE standards
 - content: Power systems

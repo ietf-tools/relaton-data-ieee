@@ -58,9 +58,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -70,6 +67,16 @@ copyright:
     url: http://www.ieee.org
   from: '2021'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: ISO-IEC-IEEE8802.3
+    docid:
+    - id: ISO/IEC/IEEE 8802.3
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ISO/IEC/IEEE 8802.3
+      format: text/plain
 - type: updates
   bibitem:
     id: IEEE802.3-2018
@@ -130,7 +137,6 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Superseded
   pubstatus: Active
   holdstatus: Publish

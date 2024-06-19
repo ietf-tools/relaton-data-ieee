@@ -67,6 +67,40 @@ copyright:
     url: http://www.ieee.org
   from: '1998'
 relation:
+- type: updates
+  bibitem:
+    id: ANSI-IEEE421B-1979
+    docid:
+    - id: ANSI/IEEE 421B-1979
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI/IEEE 421B-1979
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: ANSI-IEEE421B-1979
+    docid:
+    - id: ANSI/IEEE 421B-1979
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI/IEEE 421B-1979
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: obsoletedBy
   bibitem:
     id: IEEE421.3-2016
@@ -77,40 +111,16 @@ relation:
     formattedref:
       content: IEEE 421.3-2016
       format: text/plain
-- type: updates
+- type: obsoletedBy
   bibitem:
-    id: ANSI-IEEE421B-1979
+    id: IEEE421.3-2016
     docid:
-    - id: ANSI/IEEE 421B-1979
+    - id: IEEE 421.3-2016
       type: IEEE
       primary: true
     formattedref:
-      content: ANSI/IEEE 421B-1979
+      content: IEEE 421.3-2016
       format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: ANSI-IEEE421B-1979
-    docid:
-    - id: ANSI/IEEE 421B-1979
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI/IEEE 421B-1979
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: dielectric testing
 - content: excitation systems

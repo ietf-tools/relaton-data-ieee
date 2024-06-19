@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: IEEEP802.11-2020
 title:
-- content: 'IEEE Draft Standard for Information Technology--Telecommunications and
-    Information Exchange between Systems - Local and Metropolitan Area Networks--Specific
+- content: 'IEEE Approved Draft Standard for Information Technology--Telecommunications
+    and Information Exchange between Systems - Local and Metropolitan Area Networks--Specific
     Requirements - Part 11: Wireless LAN Medium Access Control (MAC) and Physical
     Layer (PHY) Specifications - Corrigendum 1 -- Correct IEEE 802.11ay Assignment
     of Protected Announce Support bit'
@@ -30,7 +30,7 @@ date:
 - type: published
   value: '2022-06-10'
 - type: issued
-  value: '2022'
+  value: '2022-09-21'
 contributor:
 - organization:
     name:
@@ -49,6 +49,15 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: A change to IEEE Std 802.11 for wireless local area networks (WLANs) that
+    corrects an error in the position of the Protected Announce Support field in the
+    Extended RSN Capabilities field in the RSN Extension element.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -95,23 +104,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE802.11-2020
-    docid:
-    - id: IEEE 802.11-2020
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.11-2020
-      format: text/plain
-  description:
-    content: corrects
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Information technology
@@ -119,6 +111,10 @@ keyword:
 - content: Media Access Protocol
 - content: Physical layer
 - content: Wireless LAN
+- content: corrigendum
+- content: IEEE 802.11
+- content: IEEE 802.11ay
+- content: Protected Announce Support field
 doctype: standard
 editorialgroup:
   committee:
@@ -128,7 +124,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

@@ -24,6 +24,8 @@ docid:
   type: DOI
 docnumber: IEEE 3333.1.1-2015
 date:
+- type: updated
+  value: '2015-07-27'
 - type: created
   value: '2015'
 - type: published
@@ -37,10 +39,6 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-    contact:
-    - address:
-        city: New York
-        country: USA
   role:
   - type: publisher
 revdate: '2015-07-10'
@@ -96,13 +94,13 @@ keyword:
 doctype: standard
 editorialgroup:
   committee:
-  - Standards Activities Board Standards Committee of the IEEE Computer Society
+  - Standards Activities Board of the IEEE Computer Society
 ics:
-- code: '33.170'
-  text: Television and radio broadcasting
+- code: 35.240.80
+  text: IT applications in health care technology
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

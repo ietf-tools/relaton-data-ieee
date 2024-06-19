@@ -29,7 +29,7 @@ date:
 - type: created
   value: '2023'
 - type: published
-  value: '2024-04-18'
+  value: '2024-04-19'
 - type: issued
   value: '2023-03-30'
 contributor:
@@ -45,7 +45,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2024-04-18'
+revdate: '2024-04-19'
 language:
 - en
 script:
@@ -87,16 +87,31 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1851-2012
+    docid:
+    - id: IEEE 1851-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1851-2012
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
-- content: IEEE Standards
+- content: Home appliances
 - content: Instruments
 - content: Microservice architectures
 - content: Metadata
-- content: Home appliances
-- content: Virtualization
-- content: Microservice architectures
-- content: Sensors
-- content: Interoperability
+- content: IEEE Standards
+- content: Software
+- content: Standards
 - content: complex virtual instruments
 - content: household appliances test
 - content: IEEE 1851&#8482;

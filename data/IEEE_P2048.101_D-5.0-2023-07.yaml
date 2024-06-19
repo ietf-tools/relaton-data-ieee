@@ -46,6 +46,19 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: This standard specifies the general technical framework, components, integration,
+    and main business processes of augmented reality systems applied to mobile devices,
+    and defines its technical requirements, including functional requirements, performance
+    requirements and the corresponding test methods. The target applications and services
+    include but are not limited to the design, development, and management of augmented
+    reality and mixed reality enabled applications or features of applications on
+    mobile devices.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -68,26 +81,26 @@ keyword:
 - content: Face recognition
 - content: Gesture recognition
 - content: Rendering (computer graphics)
+- content: 3D reconstruction
 - content: augmented reality
+- content: face alignment
+- content: function requirement
+- content: gesture recognition
+- content: IEEE 2048.101&#8482;
+- content: illumination estimation
 - content: mobile device
+- content: performance requirement
 - content: real-time tracking and localization
+- content: rendering engine
 - content: scale estimation
 - content: target recognition and tracking
-- content: 3D reconstruction
-- content: IEEE P2048.101
-- content: illumination estimation
-- content: face alignment
-- content: gesture recognition
-- content: rendering engine
-- content: function requirement
-- content: performance requirement
 doctype: standard
 editorialgroup:
   committee:
   - Metaverse Standards Committee of the IEEE Consumer Technology Society
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

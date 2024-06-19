@@ -47,24 +47,24 @@ language:
 script:
 - Latn
 abstract:
-- content: This specification describes circuitry that may be added to an integrated
-    circuit to provide access to on-chip Test Access Ports (TAPs) specified by IEEE
-    Std 1149.1. The circuitry uses IEEE Std 1149.1 as its foundation, providing complete
-    backward compatibility, while aggressively adding features to support test and
-    applications debug. It defines six classes of 1149.7 Test Access Ports (TAP.7s),
-    T0&#8211;T5, with each class providing incremental capability, building on that
-    of the lower level classes. Class T0 provides the behavior specified by 1149.1
-    from startup when there are multiple on-chip TAPs. Class T1 adds common debug
-    functions and features to minimize power consumption. Class T2 adds operating
+- content: Circuitry that may be added to an integrated circuit to provide access
+    to on-chip Test Access Ports (TAPs) specified by IEEE Std 1149.1 is described
+    in this standard. The circuitry uses IEEE Std 1149.1 as its foundation, providing
+    complete backward compatibility, while aggressively adding features to support
+    test and applications debug. It defines six classes of IEEE 1149.7 Test Access
+    Ports (TAP.7s), T0 to T5, with each class providing incremental capability, building
+    on that of the lower level classes. Class T0 provides the behavior specified by
+    1149.1 from startup when there are multiple on-chip TAPs. Class T1 adds common
+    debug functions and features to minimize power consumption. Class T2 adds operating
     modes that maximize scan performance. It also provides an optional hot-connection
     capability to prevent system corruption when a connection is made to a powered
     system. Class T3 supports operation in either a four-wire Series or Star Scan
     Topology. Class T4 provides for communication with either a two-pin or four-pin
-    interface. The two-pin operation serializes 1149.1 transactions and provides for
-    higher Test Clock rates. Class T5 adds the ability to perform data transfers concurrently
-    with scan, supports utilization of functions other than scan, and provides control
-    of TAP.7 pins to custom debug technologies in a manner that ensures current and
-    future interoperability.
+    interface. The two-pin operation serializes IEEE 1149.1 transactions and provides
+    for higher Test Clock rates. Class T5 adds the ability to perform data transfers
+    concurrently with scan, supports utilization of functions other than scan, and
+    provides control of TAP.7 pins to custom debug technologies in a manner that ensures
+    current and future interoperability.
   language:
   - en
   script:
@@ -116,31 +116,12 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1149.7-2009
-    docid:
-    - id: IEEE 1149.7-2009
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1149.7-2009
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Data transfer
 - content: Protocols
 - content: Pins
 - content: Boundary conditions
-- content: '1149.1'
-- content: '1149.7'
 - content: 2-pin
 - content: 2-wire
 - content: 4-pin
@@ -194,9 +175,13 @@ keyword:
 - content: extended operation
 - content: Extended Protocol
 - content: EXTEST
+- content: four-pin
+- content: four-wire
 - content: HSDL
 - content: HSDL.7
 - content: IDCODE
+- content: IEEE 1149.1
+- content: IEEE 1149.7
 - content: Instruction Register
 - content: JScan
 - content: JScan0
@@ -220,6 +205,104 @@ keyword:
 - content: OScan5
 - content: OScan6
 - content: OScan7
+- content: Pause-DR
+- content: Pause-IR
+- content: PC0
+- content: PC1
+- content: RSU
+- content: Reset and selection unit
+- content: RTI
+- content: Run- Test/Idle
+- content: scan
+- content: scan DR
+- content: scan format
+- content: scan IR
+- content: Scan Packet
+- content: scan path
+- content: scan performance
+- content: scan protocol
+- content: scan topology
+- content: series
+- content: Series Branch
+- content: Series Scan
+- content: Series Scan Topology
+- content: Series- Equivalent Scan
+- content: Series Topology
+- content: Shift-DR
+- content: Shift-IR
+- content: SiP
+- content: Star Scan
+- content: Star Scan Topology
+- content: Star Topology
+- content: Star-2
+- content: Star-2 Branch
+- content: Star-2 Scan
+- content: Star-2
+- content: Scan Topology
+- content: Star-4
+- content: Star-4 Branch
+- content: Star- 4 Scan
+- content: Star-4 Scan Topology
+- content: SP
+- content: SScan
+- content: SScan0
+- content: SScan1
+- content: SScan2
+- content: SScan3
+- content: stall
+- content: SSD
+- content: Scan Selection Directive
+- content: Standard Protocol
+- content: star scan
+- content: STL
+- content: System Test Logic
+- content: TAP
+- content: TAP controller
+- content: TAP controller address
+- content: TAP selection
+- content: TAP.1
+- content: TAP.7
+- content: TAPC
+- content: TCA
+- content: TCK
+- content: TCKC
+- content: TDI
+- content: TDIC
+- content: TDOC
+- content: TDOE
+- content: Test Access Port
+- content: test and debug
+- content: Test-Logic-Reset
+- content: TLR
+- content: TMSC
+- content: Transport Packet
+- content: T0
+- content: T0 TAP.7
+- content: T1
+- content: T1 TAP.7
+- content: T2
+- content: T2 TAP.7
+- content: T3
+- content: T3 TAP.7
+- content: T4
+- content: T4 TAP.7
+- content: T4(N)
+- content: T4(N) TAP.7
+- content: T4(W)
+- content: T4(W) TAP.7
+- content: T5
+- content: T5 TAP.7
+- content: T5(N)
+- content: T5(N) TAP.7
+- content: T5(W)
+- content: T5(W) TAP.7
+- content: TP
+- content: two-pin
+- content: two-wire
+- content: Update-DR
+- content: Update-IR
+- content: ZBS
+- content: zero bit scan
 doctype: standard
 editorialgroup:
   committee:
@@ -229,7 +312,7 @@ ics:
   text: Interface and interconnection equipment
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

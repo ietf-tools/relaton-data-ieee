@@ -25,9 +25,9 @@ date:
 - type: created
   value: '2023'
 - type: published
-  value: '2023-03-14'
+  value: '2023-03-15'
 - type: issued
-  value: '2023-06-05'
+  value: '2023'
 contributor:
 - organization:
     name:
@@ -41,7 +41,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-03-14'
+revdate: '2023-03-15'
 language:
 - en
 script:
@@ -85,6 +85,23 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1658-2011
+    docid:
+    - id: IEEE 1658-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1658-2011
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Digital-analog conversion
@@ -96,8 +113,8 @@ keyword:
 - content: SFDR
 - content: SNR
 - content: spectrum
-- content: test methods
 - content: test terminology
+- content: test methods
 doctype: standard
 editorialgroup:
   committee:
@@ -108,7 +125,7 @@ ics:
   text: Integrated circuits. Microelectronics
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

@@ -25,9 +25,9 @@ date:
 - type: created
   value: '2023-02-01'
 - type: published
-  value: '2023-02-02'
+  value: '2023-02-03'
 - type: issued
-  value: '2023-03-30'
+  value: '2023'
 contributor:
 - organization:
     name:
@@ -41,21 +41,21 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-02-02'
+revdate: '2023-02-03'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Outlined in this document are standardized terminology and indexes for
-    reporting electric generating unit reliability, availability, and productivity
-    performance measures that recognize the power industry’s needs, including marketplace
-    competition. This standard also includes equations for equivalent demand forced
-    outage rate (EFORd), newly identified outage states, energy weighted equations
-    for group performance indexes, definitions of outside management control (OMC),
-    pooling methodologies, and time-based calculations for group performance indexes.
-    It includes consideration of variable energy resource units and resource unavailability
-    and new indexes appropriate for that purpose.
+- content: This document standardizes terminology and indexes for reporting electric
+    generating unit reliability, availability, and productivity performance measures
+    while recognizing the power industry’s needs, including marketplace competition.
+    This standard also includes equations for equivalent demand forced outage rate
+    (EFORd), newly identified outage states, energy weighted equations for group performance
+    indexes, definitions of outside management control (OMC), pooling methodologies,
+    and time-based calculations for group performance indexes. It includes consideration
+    of Variable Energy Resource Units and Resource Unavailability and new indexes
+    appropriate for that purpose.
   language:
   - en
   script:
@@ -90,6 +90,40 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE762-2006
+    docid:
+    - id: IEEE 762-2006
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 762-2006
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE762-2006
+    docid:
+    - id: IEEE 762-2006
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 762-2006
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Maintenance engineering
@@ -103,7 +137,6 @@ keyword:
 - content: EFORd
 - content: equivalent demand forced outage rate
 - content: forced outage
-- content: IEEE 762
 - content: maintenance outage
 - content: OMC
 - content: outside management control
@@ -125,7 +158,7 @@ ics:
   text: Power stations in general
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

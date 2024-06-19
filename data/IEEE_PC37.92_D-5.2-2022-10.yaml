@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: IEEEPC37.92-D-5.2-2022-10
 title:
-- content: IEEE Draft Standard for Low-Energy Analog Interfaces between Protective
+- content: IEEE Approved Draft Standard for Low-Energy Analog Interfaces between Protective
     Relays and Power System Signal Sources
   format: text/plain
   type: main
@@ -23,11 +23,11 @@ docid:
 docnumber: IEEE PC37.92/D-5.2-2022-10
 date:
 - type: created
-  value: '2022-10-25'
+  value: '2023-02-22'
 - type: published
-  value: '2022-10-27'
+  value: '2023-02-23'
 - type: issued
-  value: '2022'
+  value: '2023-02-15'
 contributor:
 - organization:
     name:
@@ -41,7 +41,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-10-27'
+revdate: '2023-02-23'
 language:
 - en
 script:
@@ -70,6 +70,23 @@ copyright:
     url: http://www.ieee.org
   from: '2022'
 relation:
+- type: updates
+  bibitem:
+    id: IEEEC37.92-2005
+    docid:
+    - id: IEEE C37.92-2005
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.92-2005
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEEC37.92-2005

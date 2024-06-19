@@ -88,50 +88,18 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1900.6-2011
-    docid:
-    - id: IEEE 1900.6-2011
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1900.6-2011
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1900.6-2011
-    docid:
-    - id: IEEE 1900.6-2011
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1900.6-2011
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Sensors
 - content: Radio communication
 - content: Dynamic spectrum access
 - content: Data structures
-- content: IEEE 1900.6(TM)
+- content: amendment
+- content: IEEE 1900.6
+- content: IEEE 1900.6b
+- content: interface
 - content: spectrum sensing
 - content: spectrum database
-- content: interface
 doctype: standard
 editorialgroup:
   committee:
@@ -142,7 +110,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

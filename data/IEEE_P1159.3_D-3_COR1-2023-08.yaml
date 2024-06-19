@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: IEEEP1159.3-D-3-Cor1-2023-08
 title:
-- content: IEEE Draft Recommended Practice for Power Quality Data Interchange Format
-    (PQDIF) - Corrigendum 1
+- content: IEEE Approved Draft Recommended Practice for Power Quality Data Interchange
+    Format (PQDIF) - Corrigendum 1
   format: text/plain
   type: main
 link:
@@ -23,11 +23,11 @@ docid:
 docnumber: IEEE P1159.3/D-3/Cor1-2023-08
 date:
 - type: created
-  value: '2023'
+  value: '2024-02-28'
 - type: published
-  value: '2023-09-13'
+  value: '2023-09-12'
 - type: issued
-  value: '2023'
+  value: '2024-02-15'
 contributor:
 - organization:
     name:
@@ -41,7 +41,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-09-13'
+revdate: '2023-09-12'
 language:
 - en
 script:
@@ -69,6 +69,23 @@ copyright:
     url: http://www.ieee.org
   from: '2023'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE1159.3-2019
+    docid:
+    - id: IEEE 1159.3-2019
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1159.3-2019
+      format: text/plain
+  description:
+    content: corrects
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE1159.3-2019

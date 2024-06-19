@@ -2,12 +2,12 @@
 schema-version: v1.2.3
 id: IEEEP1073.3.3-D-8-2003-07
 title:
-- content: IEEE Draft Standard for Health Informatics -- Point-of-Care Medical Device
-    Communications -- Transport Profile -- IrDA Based -- Infrared Wireless
+- content: IEEE Draft Standard for Health Informatics - Point-of-Care Medical Device
+    Communication - Transport profile - IrDA based - Infrared Wireless
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8685851
+- content: https://ieeexplore.ieee.org/document/6740096
   type: src
 type: standard
 docid:
@@ -20,12 +20,14 @@ docid:
   primary: true
 - id: 978-1-5044-5532-9
   type: ISBN
+- id: 10.1109/IEEESTD.2004.6740096
+  type: DOI
 docnumber: IEEE P1073.3.3/D-8-2003-07
 date:
 - type: created
-  value: '2019-02-11'
+  value: '2004-12-15'
 - type: published
-  value: '2019-04-09'
+  value: '2014-02-13'
 - type: issued
   value: '2004'
 contributor:
@@ -37,11 +39,22 @@ contributor:
     url: http://www.ieee.org
   role:
   - type: publisher
-revdate: '2019-04-09'
+revdate: '2014-02-13'
 language:
 - en
 script:
 - Latn
+abstract:
+- content: ISO/IEEE Dual logo This standard establishes a connection-oriented transport
+    profile and physical layer suitable for medical device communications that use
+    short-range infrared wireless. This standard defines communications services and
+    protocols consistent with specifications of the Infrared Data Association, and
+    are optimized for point-of-care applications at or near the patient.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -54,17 +67,33 @@ copyright:
     url: http://www.ieee.org
   from: '2004'
 keyword:
-- content: IEEE Standards
-- content: Point of care
-- content: Biomedical equipment
-- content: Wireless communication
+- content: IEEE standards
+- content: Informatics
+- content: Medical devices
+- content: Bioinformatics
 - content: Infrared sensors
-- content: P1073
-- content: '1073'
-- content: P11073
-- content: '11073'
-- content: P1073.3.3
-- content: 1073.3.3
+- content: Wireless communication
+- content: Patient monitoring
+- content: Biomedical monitoring
+- content: access point
+- content: bedside
+- content: device interfaces
+- content: infrared
+- content: Infrared Data Association
+- content: IrDA
+- content: legacy device
+- content: medical device
+- content: medical device communications
+- content: medical information bus
+- content: MIB
+- content: patient
+- content: Simple Network Time Protocol
+- content: SNTP
+- content: point-of-care
+- content: POC
+- content: point-of-care testing
+- content: POCT
+- content: wireless
 doctype: standard
 editorialgroup:
   committee:

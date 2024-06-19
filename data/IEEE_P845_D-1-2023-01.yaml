@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2023-03-29'
 - type: issued
-  value: '2023'
+  value: '2023-11-08'
 contributor:
 - organization:
     name:
@@ -50,7 +50,8 @@ abstract:
 - content: Guidance for evaluating human-system performance related to systems, equipment,
     and facilities in nuclear power generating stations is provided. Specific evaluation
     techniques and rationale for their application within the integrated systems approach
-    to plant design, operations, and maintenance described in IEEE Std 1023 are summarized.
+    to plant design, operations, and maintenance described in IEEE Std 1023&#8482;
+    are summarized.
   language:
   - en
   script:
@@ -85,23 +86,57 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE845-1999
+    docid:
+    - id: IEEE 845-1999
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 845-1999
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE845-1999
+    docid:
+    - id: IEEE 845-1999
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 845-1999
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Nuclear power generation
 - content: Maintenance engineering
 - content: Human factors
 - content: design
+- content: generating stations
 - content: human-system performance
-- content: IEEE 845
+- content: IEEE 845&#8482;
 - content: integrated systems
 - content: maintenance
 - content: nuclear power
-- content: generating stations
-- content: and operation
+- content: operation
 doctype: standard
 editorialgroup:
   committee:
-  - Nuclear Power Engineering of the IEEE Power and Energy Society
+  - Nuclear Power Engineering Committee of the IEEE Power and Energy Society
 ics:
 - code: 27.120.01
   text: Nuclear energy in general

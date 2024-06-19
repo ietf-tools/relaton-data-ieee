@@ -5,13 +5,9 @@ title:
 - content: American National Standard Methods of Measurement of Compatibility between
     Wireless Communications Devices and Hearing Aids
   format: text/plain
-  type: title-main
-- content: American National Standard Methods of Measurement of Compatibility between
-    Wireless Communications Devices and Hearing Aids - Redline
-  format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/6046067
+- content: https://ieeexplore.ieee.org/document/5782919
   type: src
 type: standard
 docid:
@@ -22,10 +18,14 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-0-7381-7040-4
+- id: 978-0-7381-6725-1
   type: ISBN
+- id: 10.1109/IEEESTD.2011.5782919
+  type: DOI
 docnumber: IEEE C63.19-
 date:
+- type: updated
+  value: '2011-11-18'
 - type: created
   value: '2011-05-27'
 - type: published
@@ -39,10 +39,6 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-    contact:
-    - address:
-        city: New York
-        country: USA
   role:
   - type: publisher
 revdate: '2013-08-15'
@@ -51,8 +47,8 @@ language:
 script:
 - Latn
 abstract:
-- content: Available in PDF only. Uniform methods of measurement for compatibility
-    between hearing aids and wireless communications devices are set forth.
+- content: Uniform methods of measurement for compatibility between hearing aids and
+    wireless communications devices are set forth.
   language:
   - en
   script:
@@ -67,6 +63,23 @@ copyright:
     url: http://www.ieee.org
   from: '2011'
 relation:
+- type: updates
+  bibitem:
+    id: ANSIC63.19-2007
+    docid:
+    - id: ANSI C63.19-2007
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI C63.19-2007
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: obsoletedBy
   bibitem:
     id: ANSIC63.19-2019
@@ -77,48 +90,13 @@ relation:
     formattedref:
       content: ANSI C63.19-2019
       format: text/plain
-- type: updates
-  bibitem:
-    id: ANSIC63.19-2007
-    docid:
-    - id: ANSI C63.19-2007
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI C63.19-2007
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: ANSIC63.19-2007
-    docid:
-    - id: ANSI C63.19-2007
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI C63.19-2007
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
+- content: ANSI standards
 - content: Wireless communication
-- content: Electromagnetic compatibility
 - content: Hearing aids
-- content: Biomedical measurements
+- content: Biomedical equipment
 - content: Measurement
-- content: Biomedical communication
 - content: American National Standard
 - content: C63.19
 - content: electromagnetic compatibility
@@ -127,7 +105,7 @@ keyword:
 - content: measurement methods
 - content: operational compatibility
 - content: wireless communications device
-doctype: redline
+doctype: standard
 editorialgroup:
   committee:
   - Accredited Standards Committee on Electromagnetic Compatibility
@@ -139,6 +117,5 @@ ics:
 ext:
   schema-version: v1.0.0
   standard_status: Superseded
-  standard_modified: Redline
   pubstatus: Active
   holdstatus: Publish

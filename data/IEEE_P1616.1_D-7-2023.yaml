@@ -26,7 +26,7 @@ date:
 - type: published
   value: '2023-03-17'
 - type: issued
-  value: '2023-06-29'
+  value: '2023'
 contributor:
 - organization:
     name:
@@ -46,22 +46,22 @@ language:
 script:
 - Latn
 abstract:
-- content: The goals and metrics of a data storage system for automated driving (DSSAD)
-    are defined in this standard. Functions and common technical requirements for
-    data storage are identified. Data elements relevant to automated driving system
-    (ADS) Level 3, Level 4 and Level 5 are defined. The usage of data among diverse
-    end users is also defined. A compendium of data elements used in vehicles of categories
-    M1 and N1 regarding their EDR and DSSAD for partial and fully automated vehicles
-    is provided in this standard. An on-board diagnostic (OBD) port lockout/near field
-    communication (NFC) protocol for protection against data manipulation via the
-    vehicle diagnostic port is provided. This standard is made available without prejudice
-    to national and regional laws related to data privacy, protection, and personal
-    data processing. Users are responsible for compliance with all such laws and regulations.
-    This standard may be frequently updated to include relevant data definitions and
-    data elements toward the development of automated vehicles. The overall goal is
-    to create a data collection standard for automated driving that includes functional
-    requirements for automated vehicle gateways and security guidelines for cloud-based
-    automotive data recorder requirements.
+- content: This standardization defines the goals and metrics of a Data Storage System
+    for Automated Driving (DSSAD). It identifies functions and common technical requirements
+    for data storage requirements. It defines data elements relevant to Automated
+    Driving System (ADS) Level 3, Level 4 and Level 5. It defines the usage of data
+    amongst diverse end users. The standard compiles a compendium of data elements
+    used in vehicles of categories M1 and N1 regarding their EDR and DSSAD for partial
+    and fully automated vehicles. The standard also has an On-Board Diagnostic (OBD)
+    port lockout / Near Field Communication (NFC) protocol for protection against
+    data manipulation via the vehicle diagnostic port. This standard is made available
+    without prejudice [[of]] to national and regional laws related to data privacy,
+    protection, and personal data processing. Users are responsible for compliance
+    with all such laws and regulations. This standard may be frequently updated to
+    include relevant data definitions and data elements towards the development of
+    automated vehicles. The overall goal is to create a data collection standard for
+    automated driving that includes functional requirements for automated vehicle
+    gateways and security guidelines for cloud-based automotive data recorder requirements.
   language:
   - en
   script:
@@ -79,55 +79,37 @@ copyright:
     url: http://www.ieee.org
   from: '2023'
 keyword:
-- content: IEEE Standards
-- content: Memory
-- content: Storage management
-- content: Intelligent transportation systems
-- content: Cloud computing
-- content: Data processing
-- content: Autonomous vehicles
-- content: Advanced driver assistance systems
-- content: Recording
-- content: ADS
-- content: ADS-operated vehicle
+- content: ads-operated vehicle
 - content: assumption
 - content: automated driving system
+- content: automated driving system (ADS)
 - content: autonomous vehicles
 - content: cloud
 - content: cloud-based DSSAD
-- content: cloud-based event
-- content: data elements data recorder
+- content: cloud-based event data recorder (EDR)
+- content: cyber-physical systems (CPS)
 - content: data recorders
-- content: data storage system automated driving
+- content: data storage system automated driving (DSSAD)
 - content: decision making
-- content: DSSAD
-- content: EDR
-- content: EDR-DSSAD
-- content: EDR security threats
-- content: EDDR-DSAAD definitions
+- content: edr security threats
+- content: edr-dssad data elements
+- content: edr-dssad definitions
 - content: functional requirements
 - content: gateway architecture
-- content: IEEE 1616.1&#8482;
+- content: near field communication (NFC) protocol
 - content: interfaces
-- content: near field communication protocol
-- content: NFC
-- content: ODD
-- content: OES
-- content: operating envelope specification
-- content: operational design domain
+- content: operating envelope specification (OES)
+- content: operational design domain (ODD)
 - content: safety measurement
 - content: security requirements
-- content: vehicle gateway
+- content: vehicle gateway.
 doctype: standard
 editorialgroup:
   committee:
   - Intelligent Transportation Systems of the IEEE Vehicular Technology Society
-ics:
-- code: 43.040.15
-  text: Car informatics. On board computer systems
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

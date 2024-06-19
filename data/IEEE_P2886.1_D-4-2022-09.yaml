@@ -24,9 +24,9 @@ date:
 - type: created
   value: '2023'
 - type: published
-  value: '2023-03-02'
+  value: '2023-03-03'
 - type: issued
-  value: '2023-06-05'
+  value: '2023'
 contributor:
 - organization:
     name:
@@ -40,15 +40,15 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-03-02'
+revdate: '2023-03-03'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The software architecture of a device trusted extension system (DTX) is
-    described in a hierarchal way, the security components to the layers are mapped,
-    and the security components are defined by this document.
+- content: This document describes the software architecture of a Device Trusted Extension
+    system in a hierarchical way, maps the security components to the layers, and
+    defines the security components.
   language:
   - en
   script:
@@ -69,23 +69,17 @@ keyword:
 - content: IEEE Standards
 - content: Software architecture
 - content: Trusted computing
-- content: device trusted extension
+- content: Device Trusted Extension
 - content: DTX
-- content: IEEE 2866.1&#8482;
+- content: Trusted
 - content: software architecture
-- content: trusted
 doctype: standard
 editorialgroup:
   committee:
   - Emerging Technology Standards Committee of the IEEE Consumer Technology Society
-ics:
-- code: '35.030'
-  text: IT Security
-- code: '35.080'
-  text: Software
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

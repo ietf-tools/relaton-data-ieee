@@ -48,7 +48,12 @@ language:
 script:
 - Latn
 abstract:
-- content: Make corrections to the XML Schema files to address namespace inconsistencies
+- content: This standard is intended to promote and facilitate interoperability between
+    components of automatic test systems where test results need to be shared. The
+    standard thus facilitates the capture of test results data in storage devices
+    and databases, facilitating online and offline analysis. The test results schema
+    becomes a class of information that can be used within the SIMICA family of standards.
+    The exchange format is expressed in both the OWL and XML formats.
   language:
   - en
   script:
@@ -128,11 +133,11 @@ keyword:
 - content: Automatic testing
 - content: automated test system (ATS)
 - content: extensible markup language (XML)
-- content: IEEE 1636.1&#8482;
-- content: test results and session information
+- content: IEEE 1636.1
+- content: OWL ontology
 - content: Software Interface for Maintenance Information Collection and Analysis
     (SIMICA)
-- content: OWL ontology
+- content: test results and session information
 - content: XML schema
 doctype: standard
 editorialgroup:
@@ -143,9 +148,11 @@ ics:
   text: Industrial automation systems in general
 - code: '35.060'
   text: Languages used in information technology
+- code: '35.200'
+  text: Interface and interconnection equipment
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

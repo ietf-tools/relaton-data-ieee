@@ -45,6 +45,23 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: This standard defines the Streaming Telemetry Transport Protocol, STTP.
+    This protocol is initially designed for streaming power system data over Internet
+    protocol (IP) communication systems. It is focused on streaming real-time measurements
+    but can be used with any type of continuously flowing data. It features built-in
+    security and lossless data compression options for efficient transport. It specifies
+    data types and transport control methods using a publish-subscribe architecture
+    for controlled signal-level data access. It uses standard security and transport
+    options, so it is easy to maintain and update. It is highly configurable for time
+    precision, compression level, and packet sizes to optimize the stream within data
+    and transport limitations. It has been proven and refined in several demonstration
+    projects and production environments.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -61,13 +78,25 @@ keyword:
 - content: Telemetry
 - content: IP networks
 - content: Streaming media
+- content: streaming telemetry
+- content: streaming data
+- content: time-series data
+- content: STTP
+- content: C37.118
+- content: real-time data
+- content: phasor
+- content: PMU
+- content: PDC
+- content: synchrophasor
+- content: phasor measurement unit
+- content: phasor data concentrator
 doctype: standard
 editorialgroup:
   committee:
-  - IEEE Power and Energy Society
+  - Power System Communications and Cybersecurity of the IEEE Power and Energy Society
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

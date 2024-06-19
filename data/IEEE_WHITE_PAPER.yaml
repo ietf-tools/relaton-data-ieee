@@ -2,12 +2,12 @@
 schema-version: v1.2.3
 id: IEEEWhitePaper
 title:
-- content: Assessment of DER Interconnection Installation for Conformance with IEEE
-    Std 1547
+- content: Discussion on Measurement Test Distance for Determining EIRP or TRP for
+    Active Antenna Systems
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8305686
+- content: https://ieeexplore.ieee.org/document/10416984
   type: src
 type: standard
 docid:
@@ -18,16 +18,16 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-4710-2
+- id: 979-8-8557-0474-7
   type: ISBN
 docnumber: IEEE White Paper
 date:
 - type: created
-  value: '2018-02-22'
+  value: '2024-01-31'
 - type: published
-  value: '2018-03-01'
+  value: '2024-01-30'
 - type: issued
-  value: '2018'
+  value: '2024'
 contributor:
 - organization:
     name:
@@ -41,22 +41,16 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2018-03-01'
+revdate: '2024-01-30'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Standards and codes establish the functional performance requirements of
-    equipment interconnecting Distributed Energy Resources (DERs) with an Electric
-    Power System (EPS). Nationally Recognized Testing Laboratories (NRTLs) evaluate
-    equipment for safety and compliance with applicable standards and codes. Equipment
-    meeting these requirements are then listed as suitable for their intended use
-    in compliance with the applicable requirements. The EPS operator enters into a
-    binding agreement with the DER operator for interconnection with the EPS at a
-    specific site to meet the requirements of the EPS infrastructure at that location.
-    IEEE Conformity Assessment Program proposes a process and procedure to ensure
-    compliance with the applicable standards and the interconnection agreement.
+- content: This paper discusses general guidance and methodologies for the determination
+    of far-field (FF) peak gain, equivalent isotropic radiated power (EIRP), and total
+    radiated power (TRP) of active antenna systems (AAS) at ranges shorter than the
+    classical Fraunhofer distance (FHD).
   language:
   - en
   script:
@@ -69,23 +63,18 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2018'
+  from: '2024'
 keyword:
-- content: IEEE Standards
-- content: Resource management
-- content: Power system management
-- content: Energy management
-- content: Power distribution
-- content: IEEE 1547
-- content: conformity assessment
-- content: DER
-- content: distributed energy resource
-- content: electric power system
-- content: EPS
+- content: AAS
+- content: active antenna systems
+- content: antenna
+- content: C63
+- content: test distance
+- content: white paper
 doctype: standard
 editorialgroup:
   committee:
-  - Institute of Electrical and Electronics Engineers
+  - IEEE Electromagnetic Compatibility Society
 ext:
   schema-version: v1.0.0
   standard_status: Active

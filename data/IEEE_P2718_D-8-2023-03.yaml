@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2023-05-05'
 - type: issued
-  value: '2023'
+  value: '2023-12-06'
 contributor:
 - organization:
     name:
@@ -46,6 +46,16 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: 'This guide provides near-field measurement methods and characterization
+    of stochastic electromagnetic fields emitted from devices. The document includes
+    algorithms for the analysis of the measurements in the frequency range of 30 MHz
+    to 6 GHz. Download URL: https://standards.ieee.org/wp-content/uploads/2024/03/2718-2023_downloads.zip'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -64,16 +74,20 @@ keyword:
 - content: Radiation effects
 - content: Emissions
 - content: Near field communication
+- content: cross-correlation
+- content: far field
+- content: IEEE 2718&#8482;
+- content: near field
 - content: radiated emissions
 - content: stochastic fields
-- content: near field
-- content: far field
-- content: cross-correlation
-- content: Wigner functions.
+- content: Wigner functions
 doctype: standard
 editorialgroup:
   committee:
   - Standards Development Committee of the IEEE Electromagnetic Compatibility Society
+ics:
+- code: 33.100.01
+  text: Electromagnetic compatibility in general
 ext:
   schema-version: v1.0.0
   standard_status: Inactive

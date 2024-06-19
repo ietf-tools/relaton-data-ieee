@@ -47,6 +47,20 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: This standard applies to premium-efficiency totally enclosed fan-cooled
+    (TEFC) and totally enclosed nonventilated (TENV), horizontal and vertical, single-speed,
+    squirrel cage polyphase induction motors, 0.75 kW to 370 kW (1 hp to 500 hp),
+    and up to 4000 V nominal, in National Electrical Manufacturers Association (NEMA)
+    frame sizes 143T and larger, for petroleum, chemical, and other severe-duty applications
+    (commonly referred to as premium-efficiency severe-duty motors). Excluded from
+    the scope of this standard are motors with sleeve bearings and additional specific
+    features required for explosion-proof motors.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -76,74 +90,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE841-2009
-    docid:
-    - id: IEEE 841-2009
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 841-2009
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE841-2009
-    docid:
-    - id: IEEE 841-2009
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 841-2009
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE841-2009
-    docid:
-    - id: IEEE 841-2009
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 841-2009
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE841-2009
-    docid:
-    - id: IEEE 841-2009
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 841-2009
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Induction motors
@@ -153,12 +99,13 @@ keyword:
 - content: Metal enclosures
 - content: Cooling
 - content: IEEE 841&#8482;
-- content: NEMA frame motors; polyphase induction motor
+- content: NEMA frame motors
+- content: polyphase induction motor
 - content: severe duty motors
 - content: squirrel cage motors
 - content: totally enclosed fan-cooled (TEFC) motors
 - content: totally enclosed air over (TEAO) motors
-- content: totally enclosed non ventilated (TENV) motors
+- content: totally enclosed nonventilated (TENV) motors
 doctype: standard
 editorialgroup:
   committee:

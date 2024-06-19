@@ -23,6 +23,8 @@ docid:
   type: DOI
 docnumber: IEEE 1159.3-2019
 date:
+- type: updated
+  value: '2020-05-22'
 - type: created
   value: '2019-05-01'
 - type: published
@@ -210,6 +212,23 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1159.3-2003
+    docid:
+    - id: IEEE 1159.3-2003
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1159.3-2003
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Power distribution
@@ -231,8 +250,6 @@ editorialgroup:
 ics:
 - code: 29.240.01
   text: Power transmission and distribution networks in general
-- code: 35.240.63
-  text: IT applications in trade
 ext:
   schema-version: v1.0.0
   standard_status: Active

@@ -29,7 +29,7 @@ date:
 - type: created
   value: '2010'
 - type: published
-  value: '2013-08-15'
+  value: '2011-07-12'
 - type: issued
   value: '2010-06-17'
 contributor:
@@ -45,7 +45,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2013-08-15'
+revdate: '2011-07-12'
 language:
 - en
 script:
@@ -68,6 +68,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2011'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1641-2004
+    docid:
+    - id: IEEE 1641-2004
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1641-2004
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Signal processing

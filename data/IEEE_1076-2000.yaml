@@ -69,6 +69,16 @@ copyright:
     url: http://www.ieee.org
   from: '2000'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE1076-2002
+    docid:
+    - id: IEEE 1076-2002
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1076-2002
+      format: text/plain
 - type: updates
   bibitem:
     id: ANSI-IEEE1076-1993
@@ -86,16 +96,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEE1076-2002
-    docid:
-    - id: IEEE 1076-2002
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1076-2002
-      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Hardware

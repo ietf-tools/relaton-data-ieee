@@ -422,6 +422,23 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE145-1993
+    docid:
+    - id: IEEE 145-1993
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 145-1993
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Antennas
@@ -434,7 +451,8 @@ keyword:
 doctype: redline
 editorialgroup:
   committee:
-  - Antennas of the IEEE Antennas and Propagation Society
+  - Antennas and Propagation Standards Committee of the IEEE Antennas and Propagation
+    Society
 ics:
 - code: 01.040.33
   text: Telecommunications. Audio and video engineering (Vocabularies)
@@ -442,7 +460,7 @@ ics:
   text: Aerials
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Redline
   pubstatus: Active
   holdstatus: Publish

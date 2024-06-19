@@ -7,7 +7,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/500134
+- content: https://ieeexplore.ieee.org/document/8684594
   type: src
 type: standard
 docid:
@@ -20,12 +20,14 @@ docid:
   primary: true
 - id: 978-0-7381-3349-2
   type: ISBN
-- id: 10.1109/IEEESTD.1996.80813
+- id: 10.1109/IEEESTD.1995.8684594
   type: DOI
 docnumber: IEEE 1187-1996
 date:
 - type: created
-  value: '1996'
+  value: '1995-11-30'
+- type: published
+  value: '2019-04-05'
 - type: issued
   value: '1996-03-21'
 contributor:
@@ -41,16 +43,17 @@ contributor:
         country: USA
   role:
   - type: publisher
+revdate: '2019-04-05'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This IEEE standard covers recommended design practices and procedures for
+- content: Superseded by 1187-2002. Recommended design practices and procedures for
     storage, location, mounting, ventilation, instrumentation, preassembly, assembly,
-    and charging of valve-regulated lead-acid (VRLA) storage batteries. Recommended
-    safety practices are also included. This recommended practice applies to all VRLA
-    battery stationary installations.
+    and charging of valve-regulated lead-acid (VRLA) storage batteries are provided.
+    Recommended safety practices are also included. This recommended practice applies
+    to all VRLA battery stationary installations.
   language:
   - en
   script:
@@ -75,21 +78,19 @@ relation:
     formattedref:
       content: IEEE 1187-2002
       format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEE1187-2002
-    docid:
-    - id: IEEE 1187-2002
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1187-2002
-      format: text/plain
 keyword:
-- content: IEEE standards
-- content: Lead materials/devices
-- content: Batteries
-- content: Protection/safety
+- content: acceptance test
+- content: alarms
+- content: assembly
+- content: initial charge
+- content: installation design criteria
+- content: internal ohmic measurements
+- content: mounting
+- content: parallel-battery strings
+- content: protective equipment
+- content: resistance measurements
+- content: seismic protection
+- content: thermal runaway
 doctype: standard
 editorialgroup:
   committee:

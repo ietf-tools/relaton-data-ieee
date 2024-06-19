@@ -6,7 +6,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8684563
+- content: https://ieeexplore.ieee.org/document/35069
   type: src
 type: standard
 docid:
@@ -19,14 +19,12 @@ docid:
   primary: true
 - id: 978-0-7381-4400-9
   type: ISBN
-- id: 10.1109/IEEESTD.1994.8684563
+- id: 10.1109/IEEESTD.1985.86343
   type: DOI
 docnumber: ANSI/IEEE 716-1985
 date:
 - type: created
-  value: '1994-11-30'
-- type: published
-  value: '2019-04-05'
+  value: '1985'
 - type: issued
   value: '1989-03-08'
 contributor:
@@ -42,16 +40,25 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2019-04-05'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Superseded by 716-1995. Common ATLAS (C/ATLAS), a high-order language for
-    testing is defined. C/ATLAS is designed to describe tests in terms that are independent
-    of any specific test system. It has been constrained to ensure that it can be
-    implemented on automatic test equipment.
+- content: ANSI/IEEE Std 716-1985, Standard C/ATLAS, is an editorial revision and
+    consolidation of C/ATLAS Test Language and C/ATLAS Syntax. C/ATLAS is a programming/programmable
+    language which is a subset of IEEE Standard ATLAS Test Language with a specific
+    and unique purpose. It has been developed to serve as the minimum ATLAS program
+    requirements for use with specific equipment and systems. This single volume describes
+    the language to be used for the writing of test programs for units under test
+    (UUTs), so that these programs can operate on various makes and models of automatic
+    test equipment (ATE). It includes the required portion which forms the core, or
+    common basis, of all ATLAS subsets and the optional elements such as nouns, noun
+    modifiers, and units. The single volume contains material explaining the formal
+    syntax rules used, the actual formal syntax, and a thorough cross-referenced list,
+    in alphabetical order, of syntax variables and symbols providing quick and easy
+    reference to the different lexical symbols, rule names and literals which occur
+    within the production rules.<<ETX>>
   language:
   - en
   script:
@@ -77,10 +84,9 @@ relation:
       content: IEEE 716-1995
       format: text/plain
 keyword:
-- content: C/ATLAS
-- content: test
-- content: language
-- content: C
+- content: Automatic test equipment
+- content: High-level languages
+- content: Standards
 doctype: standard
 editorialgroup:
   committee:

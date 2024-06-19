@@ -72,16 +72,6 @@ copyright:
     url: http://www.ieee.org
   from: '1993'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEEC37.40-2003
-    docid:
-    - id: IEEE C37.40-2003
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.40-2003
-      format: text/plain
 - type: updates
   bibitem:
     id: ANSI-IEEEC37.40-1981
@@ -99,6 +89,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEEC37.40-2003
+    docid:
+    - id: IEEE C37.40-2003
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.40-2003
+      format: text/plain
 keyword:
 - content: Fuses
 - content: IEEE Standards

@@ -3,11 +3,11 @@ schema-version: v1.2.3
 id: IEEE1212.1-1993
 title:
 - content: IEEE Standard for Communicating Among Processors and Peripherals Using
-    Shared Memory (Direct Memory Access - DMA)
+    Shared Memory (DMA)
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8686399
+- content: https://ieeexplore.ieee.org/document/316889
   type: src
 type: standard
 docid:
@@ -20,14 +20,12 @@ docid:
   primary: true
 - id: 978-0-7381-1193-3
   type: ISBN
-- id: 10.1109/IEEESTD.1993.8686399
+- id: 10.1109/IEEESTD.1994.120263
   type: DOI
 docnumber: IEEE 1212.1-1993
 date:
 - type: created
-  value: '1993-11-30'
-- type: published
-  value: '2019-04-10'
+  value: '1994'
 - type: issued
   value: '1993-06-17'
 contributor:
@@ -43,26 +41,10 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2019-04-10'
 language:
 - en
 script:
 - Latn
-abstract:
-- content: Administratively withdrawn January 2007 Primitive yet high-performance
-    means are defined for passing messages across the bus between the Processor and
-    some form of intelligence in the I/O Unit's Function. This message-passing scheme
-    makes minimal demands on the instruction set and hardware required. In addition,
-    several simple conventions are defined for the structure of the messages passed.
-    The intent is to provide a standard architectural framework that supports the
-    detailed definition of application-dependent I/O Unit and Function interface standards.
-    The algorithms and definitions themselves are useful in the design of integrated
-    circuits for I/O.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 docstatus:
   stage:
     value: withdrawn
@@ -74,16 +56,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '1994'
-keyword:
-- content: IEEE Standards
-- content: Memory management
-- content: Instruction sets
-- content: Integrated circuits
-- content: Processor
-- content: Memory
-- content: I/O
-- content: Direct memory access
-- content: DMA
 doctype: standard
 editorialgroup:
   committee:

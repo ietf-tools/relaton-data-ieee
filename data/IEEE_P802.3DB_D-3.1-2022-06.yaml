@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: IEEEP802.3db-D-3.1-2022-06
 title:
-- content: 'IEEE Draft Standard for Ethernet - Amendment 4: Physical Layer Specifications
+- content: 'IEEE Draft Standard for Ethernet - Amendment 3: Physical Layer Specifications
     and Management Parameters for 100 Gb/s, 200 Gb/s, and 400 Gb/s Operation over
     Optical Fiber using 100 Gb/s Signaling'
   format: text/plain
@@ -26,9 +26,9 @@ date:
 - type: created
   value: '2022'
 - type: published
-  value: '2022-06-10'
+  value: '2022-06-09'
 - type: issued
-  value: '2022'
+  value: '2022-09-21'
 contributor:
 - organization:
     name:
@@ -42,14 +42,14 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-06-10'
+revdate: '2022-06-09'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This amendment to IEEE Std 802.3-202x adds Physical Layer specifications
-    and Management Parameters for 100 Gb/s, 200 Gb/s, and 400 Gb/s Ethernet optical
+- content: This amendment to IEEE Std 802.3-2022 adds Physical Layer specifications
+    and management parameters for 100 Gb/s, 200 Gb/s, and 400 Gb/s Ethernet optical
     interfaces based on 100 Gb/s per wavelength optical signaling over multimode fiber.
   language:
   - en
@@ -70,30 +70,13 @@ copyright:
 relation:
 - type: updates
   bibitem:
-    id: IEEE802.3-2018
+    id: IEEE802.3-2022
     docid:
-    - id: IEEE 802.3-2018
+    - id: IEEE 802.3-2022
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 802.3-2018
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE802.3-2018
-    docid:
-    - id: IEEE 802.3-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.3-2018
+      content: IEEE 802.3-2022
       format: text/plain
   description:
     content: amends
@@ -109,23 +92,26 @@ keyword:
 - content: Energy efficiency
 - content: Optical fiber communication
 - content: Forward error correction
-- content: 100 Gb/s Ethernet
-- content: 100GBASE-VR1
+- content: Gb/s Ethernet
 - content: 100GBASE-SR1
+- content: 100GBASE-VR1
 - content: 200 Gb/s Ethernet
-- content: 200GBASE-VR2
 - content: 200GBASE-SR2
+- content: 200GBASE-VR2
 - content: 400 Gb/s Ethernet
-- content: 400GBASE-VR4
 - content: 400GBASE-SR4
+- content: 400GBASE-VR4
+- content: amendment
 - content: Energy-Efficient Ethernet (EEE)
 - content: Ethernet
 - content: forward error correction (FEC)
-- content: IEEE 802.3TM
-- content: IEEE 802.3dbTM
+- content: IEEE 802.3
+- content: IEEE 802.3cs
+- content: IEEE 802.3db
+- content: IEEE 802.3dd
+- content: multimode fiber (MMF)
 - content: PAM4
 - content: Physical Medium Dependent (PMD) sublayer
-- content: multimode fiber (MMF).
 doctype: standard
 editorialgroup:
   committee:
@@ -137,7 +123,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

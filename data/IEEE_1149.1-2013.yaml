@@ -23,8 +23,6 @@ docid:
   type: DOI
 docnumber: IEEE 1149.1-2013
 date:
-- type: updated
-  value: '2014-04-04'
 - type: created
   value: '2013-05-13'
 - type: published
@@ -38,6 +36,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2013-05-14'
@@ -61,9 +63,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -73,40 +72,6 @@ copyright:
     url: http://www.ieee.org
   from: '2013'
 relation:
-- type: updates
-  bibitem:
-    id: IEEE1149.1-2001
-    docid:
-    - id: IEEE 1149.1-2001
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1149.1-2001
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1149.1-2001
-    docid:
-    - id: IEEE 1149.1-2001
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1149.1-2001
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: updates
   bibitem:
     id: IEEE1149.1-2001
@@ -475,12 +440,11 @@ keyword:
 - content: boundary-scan architecture
 - content: Boundary-Scan Description Language
 - content: boundary-scan boundary scan
-- content: boundary-scan architecture
 - content: Boundary-Scan Description Language (BSDL)
 - content: boundary-scan register
 - content: circuit boards
 - content: circuitry
-- content: IEEE 1149.1TM
+- content: IEEE 1149.1
 - content: integrated circuit
 - content: printed circuit boards
 - content: Procedural Description Language (PDL)
@@ -499,7 +463,7 @@ ics:
   text: Integrated circuits. Microelectronics
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Inactive
+  standard_modified: Reserved
   pubstatus: Active
   holdstatus: Publish
