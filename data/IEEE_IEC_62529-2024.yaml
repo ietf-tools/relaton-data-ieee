@@ -1,0 +1,109 @@
+---
+schema-version: v1.2.3
+id: IEEE-IEC62529-2024
+title:
+- content: IEEE/IEC International Standard for Signal and Test Definition
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10577613
+  type: src
+type: standard
+docid:
+- id: IEEE/IEC 62529-2024
+  type: IEEE
+  primary: true
+- id: IEEE/IEC 62529™-2024
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-0940-7
+  type: ISBN
+- id: 10.1109/IEEESTD.2024.10577613
+  type: DOI
+docnumber: IEEE/IEC 62529-2024
+date:
+- type: created
+  value: '2024'
+- type: published
+  value: '2024-06-28'
+- type: issued
+  value: '2024'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2024-06-28'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The means to define and describe signals used in testing ae provided in
+    this standard. It also provides a set of common basic signals, built upon formal
+    mathematical specifications so that signals can be combined to form complex signals
+    usable across all test platforms.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  - name:
+    - content: IEC
+  from: '2024'
+relation:
+- type: adoptedFrom
+  bibitem:
+    id: IEEE1641-2022
+    docid:
+    - id: IEEE 1641-2022
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1641-2022
+      format: text/plain
+keyword:
+- content: ATE
+- content: ATLAS
+- content: automatic test equipment
+- content: IEEE 1641M
+- content: signal definitions
+- content: test definitions
+- content: test requirements
+- content: test signals
+- content: unit under test
+- content: UUT
+doctype: standard
+editorialgroup:
+  committee:
+  - SCC20 - Test and Diagnosis for Electronic Systems of the IEEE SA Board of Governors
+ics:
+- code: '31.020'
+  text: Electronic components in general
+- code: '35.060'
+  text: Languages used in information technology
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Approved
+  pubstatus: Active
+  holdstatus: Publish
