@@ -51,29 +51,29 @@ script:
 abstract:
 - content: 'POSIX.1-2017 is simultaneously IEEE Std 1003.1-2017 and The Open Group
     Standard Base Specifications, Issue 7. POSIX.1-2017 defines a standard operating
-    system interface and environment, including a command interpreter (or “shell”),
+    system interface and environment, including a command interpreter (or "shell"),
     and common utility programs to support applications portability at the source
     code level. POSIX.1-2017 is intended to be used by both application developers
     and system implementors and comprises four major components (each in an associated
-    volume): &#8226; General terms, concepts, and interfaces common to all volumes
-    of this standard, including utility conventions and C-language header definitions,
-    are included in the Base Definitions volume. &#8226; Definitions for system service
-    functions and subroutines, language-specific system services for the C programming
-    language, function issues, including portability, error handling, and error recovery,
-    are included in the System Interfaces volume. &#8226; Definitions for a standard
-    source code-level interface to command interpretation services (a “shell”) and
-    common utility programs for application programs are included in the Shell and
-    Utilities volume. &#8226; Extended rationale that did not fit well into the rest
-    of the document structure, which contains historical information concerning the
-    contents of POSIX.1-201x and why features were included or discarded by the standard
-    developers, is included in the Rationale (Informative) volume. The following areas
-    are outside the scope of POSIX.1-201x: &#8226; Graphics interfaces &#8226; Database
-    management system interfaces &#8226; Record I/O considerations &#8226; Object
-    or binary code portability &#8226; System configuration and resource availability
-    POSIX.1-2017 describes the external characteristics and facilities that are of
-    importance to application developers, rather than the internal construction techniques
-    employed to achieve these capabilities. Special emphasis is placed on those functions
-    and facilities that are needed in a wide variety of commercial applications.'
+    volume): -General terms, concepts, and interfaces common to all volumes of this
+    standard, including utility conventions and C-language header definitions, are
+    included in the Base Definitions volume. -Definitions for system service functions
+    and subroutines, language-specific system services for the C programming language,
+    function issues, including portability, error handling, and error recovery, are
+    included in the System Interfaces volume. -Definitions for a standard source code-level
+    interface to command interpretation services (a "shell") and common utility programs
+    for application programs are included in the Shell and Utilities volume. -Extended
+    rationale that did not fit well into the rest of the document structure, which
+    contains historical information concerning the contents of POSIX.1-201x and why
+    features were included or discarded by the standard developers, is included in
+    the Rationale (Informative) volume. The following areas are outside the scope
+    of POSIX.1-201x: -Graphics interfaces -Database management system interfaces -Record
+    I/O considerations -Object or binary code portability -System configuration and
+    resource availability POSIX.1-2017 describes the external characteristics and
+    facilities that are of importance to application developers, rather than the internal
+    construction techniques employed to achieve these capabilities. Special emphasis
+    is placed on those functions and facilities that are needed in a wide variety
+    of commercial applications.'
   language:
   - en
   script:
@@ -93,6 +93,16 @@ copyright:
     - content: Open Group
   from: '2018'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE1003.1-2024
+    docid:
+    - id: IEEE 1003.1-2024
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1003.1-2024
+      format: text/plain
 - type: updates
   bibitem:
     id: IEEE1003.1-2008
@@ -278,13 +288,13 @@ keyword:
 doctype: standard
 editorialgroup:
   committee:
-  - Portable Applications of the IEEE Computer Society
+  - Microprocessor Standards Committee of the IEEE Computer Society
 ics:
-- code: '35.080'
-  text: Software
+- code: '35.060'
+  text: Languages used in information technology
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish
