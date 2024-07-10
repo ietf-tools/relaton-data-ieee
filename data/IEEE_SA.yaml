@@ -2,12 +2,11 @@
 schema-version: v1.2.3
 id: IEEESA
 title:
-- content: IEEE SA 3D Body Processing Industry Connections--Summary and Recommended
-    Actions for Communications, Security, Privacy, and Trust (CSPT) [IEEE P3141]
+- content: 'IEEE 802 Nendica Report: Intelligent Lossless Data Center Networks'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/9546723
+- content: https://ieeexplore.ieee.org/document/9457238
   type: src
 type: standard
 docid:
@@ -18,14 +17,14 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-7955-4
+- id: 978-1-5044-7741-3
   type: ISBN
 docnumber: IEEE SA
 date:
 - type: created
   value: '2021'
 - type: published
-  value: '2021-09-22'
+  value: '2021-06-16'
 - type: issued
   value: '2021'
 contributor:
@@ -41,30 +40,26 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2021-09-22'
+revdate: '2021-06-16'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 3D scanning is a process that captures the three-dimensional attributes
-    of an object and includes surface texture and spectral content. 3D scanners have
-    become a critical tool for shortening product development and manufacturing time.
-    The ongoing technological advancements in terms of portability, scanning range,
-    and image quality have opened new application areas for 3D scanning. However,
-    3D scanning appears to be primarily dependent on users. Innovation in technology
-    and application software, as well as growing and diverse connectivity, are leading
-    3D scanners to become a more integral element in the overall value chain. This
-    notwithstanding, interoperability, data security and privacy, quality, portability,
-    and trustworthiness are opportunities to be realized. The intent of this white
-    paper is to highlight areas of opportunity for standard development organizations,
-    specifically the IEEE P3141 Working Group, to focus on and further enable broad
-    market use for the various sectors and users.
+- content: 'This paper is the result of a work item [19] within the IEEE 802 “Network
+    Enhancements for the Next Decade” Industry Connections Activity known as Nendica.
+    The paper extends a previous report, “IEEE 802 Nendica Report: The Lossless Network
+    for Data Centers” [20] published on August 17, 2018. This update provides additional
+    background on evolving use cases in modern data centers and proposes solutions
+    to additional problems identified by this report.'
   language:
   - en
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -72,18 +67,22 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  - name:
-    - content: ISTO
   from: '2021'
 keyword:
-- content: 3D BP
-- content: 3D body processing
-- content: 3D scanning
-- content: IEEE P3141
-- content: privacy
-- content: standards development
-- content: trust
-- content: white paper
+- content: Industries
+- content: Data centers
+- content: Web and internet services
+- content: Telecommunications
+- content: System recovery
+- content: Sun
+- content: Patents
+- content: '802'
+- content: artificial intelligence
+- content: Industry Connections
+- content: lossless data center
+- content: Nendica
+- content: networking
+- content: report
 doctype: standard
 ics:
 - code: 01.040.11
@@ -91,5 +90,6 @@ ics:
 ext:
   schema-version: v1.0.0
   standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

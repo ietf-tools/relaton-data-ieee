@@ -7,7 +7,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/4512343
+- content: https://ieeexplore.ieee.org/document/8400611
   type: src
 type: standard
 docid:
@@ -20,16 +20,14 @@ docid:
   primary: true
 - id: 978-0-7381-5348-3
   type: ISBN
-- id: 10.1109/IEEESTD.2007.4512343
+- id: 10.1109/IEEESTD.2008.8400611
   type: DOI
 docnumber: IEEE 592-2007
 date:
-- type: updated
-  value: '2008-09-12'
 - type: created
   value: '2008-05-08'
 - type: published
-  value: '2013-08-15'
+  value: '2018-06-29'
 - type: issued
   value: '2007-12-05'
 contributor:
@@ -41,16 +39,16 @@ contributor:
     url: http://www.ieee.org
   role:
   - type: publisher
-revdate: '2013-08-15'
+revdate: '2018-06-29'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Design test for shield resistance and a simulated fault-current initiation
-    for exposed semiconducting shields used on cable accessories, specifically joints
-    and separable insulated connectors rated 15 kV through 35 kV are provided in this
-    standard.
+- content: Revision of IEEE Std 592-1990. Design test for shield resistance and a
+    simulated fault-current initiation for exposed semiconducting shields used on
+    cable accessories, specifically joints and separable insulated connectors rated
+    15 kV through 35 kV is provided in this standard.
   language:
   - en
   script:
@@ -65,16 +63,6 @@ copyright:
     url: http://www.ieee.org
   from: '2008'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE592-2018
-    docid:
-    - id: IEEE 592-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 592-2018
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEE592-1990
@@ -119,14 +107,24 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE592-2018
+    docid:
+    - id: IEEE 592-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 592-2018
+      format: text/plain
 keyword:
-- content: IEEE standards
-- content: Standards
-- content: Standards Board
-- content: Connectors
+- content: IEEE Standards
+- content: Semiconductor devices
+- content: Fault diagnosis
 - content: Cable shielding
-- content: Cable insulation
-- content: Committees
+- content: Current distribution
+- content: Voltage control
+- content: High-voltage techniques
 - content: 592-2007
 - content: fault-current initiation
 - content: shield resistance

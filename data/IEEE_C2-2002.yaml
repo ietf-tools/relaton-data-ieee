@@ -2,11 +2,12 @@
 schema-version: v1.2.3
 id: IEEEC2-2002
 title:
-- content: National Electrical Safety Code 2002 Edition
+- content: Preprint Proposals for Revision of the 1997 Edition National Electrical
+    Safety Code for the 2002 Edition
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/6516109
+- content: https://ieeexplore.ieee.org/document/6828698
   type: src
 type: standard
 docid:
@@ -17,18 +18,20 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-0-7381-2780-4
+- id: 978-0-7381-1801-7
   type: ISBN
-- id: 10.1109/IEEESTD.2001.6516109
+- id: 10.1109/IEEESTD.1999.6828698
   type: DOI
 docnumber: IEEE C2-2002
 date:
+- type: updated
+  value: '2014-07-24'
 - type: created
-  value: '2001-08-01'
+  value: '1999'
 - type: published
-  value: '2013-05-14'
+  value: '2014-06-10'
 - type: issued
-  value: '2002'
+  value: '1999'
 contributor:
 - organization:
     name:
@@ -38,23 +41,26 @@ contributor:
     url: http://www.ieee.org
   role:
   - type: publisher
-revdate: '2013-05-14'
+revdate: '2014-06-10'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This standard covers basic provisions for safeguarding of persons from
-    hazards arising from the installation, operation, or maintenance of 1) conductors
-    and equipment in electric supply stations, and 2) overhead and underground electric
-    supply and communication lines. It also includes work rules for the construction,
-    maintenance, and operation of electric supply and communication lines and equipment.
-    The standard is applicable to the systems and equipment operated by utilities,
-    or similar systems and equipment, of an industrial establishment or complex under
-    the control of qualified persons. This standard consists of the introduction,
-    definitions, grounding rules, list of referenced and bibliographic documents,
-    and Parts 1, 2, 3, and 4 of the 2002 Edition of the National Electrical Safety
-    Code.
+- content: 'This Preprint provides the full text of each proposal to revise the 1997
+    Edition of the NESC together with the recommendation of the subcommittee that
+    has cognizance of the rule addresses by the change proposal (CP). A change bar,
+    located in the left hand margin, signifies the specific material that the various
+    subcommittees each have approved for inclusion in the revised Code. Two of the
+    change proposals submitted apply to relatively large numbers of rules. For this
+    reason, the Preprint is divided into two groups as follows: I. General. Change
+    proposals that apply to a single rule or to a few closely related rules. This
+    includes a proposal that is contained in an unnumbered section of the NESC (Letter
+    Symbols for Units), and a proposal that affects three parts of the Code. II. Reorganization
+    of Sections 25 and 26 on Loading and Strength of Overhead Lines. Contains CP 2372,
+    which is a continuation of CP 1964 from the Preprint 1997 Proposals of the NESC.
+    This CP consolidates similar requirements of similar Rules in Sections 25 and
+    26.'
   language:
   - en
   script:
@@ -67,33 +73,15 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2002'
+  from: '1999'
 keyword:
 - content: IEEE standards
-- content: Electrical safety
-- content: Safety
-- content: High-voltage techniques
-- content: Electricity supply industry
-- content: Power generation
-- content: communications industry safety
-- content: construction of communication lines
-- content: construction of electric supply lines
-- content: electrical safety
-- content: electric supply stations
-- content: electric utility stations
-- content: high-voltage safety
-- content: operation of communications systems
-- content: operation of electric supply systems
-- content: power station equipment
-- content: power station safety
-- content: public utility safety
-- content: safety work rules
-- content: underground communication line safety
-- content: underground electric line safety
+- content: Trademarks
+- content: Security
+- content: Standards Board
+- content: Companies
+- content: Committees
 doctype: standard
-editorialgroup:
-  committee:
-  - Gyro Accelerometer Panel of the IEEE Aerospace and Electronic Systems Society
 ics:
 - code: '13.260'
   text: Protection against electric shock. Live working

@@ -69,16 +69,6 @@ copyright:
     url: http://www.ieee.org
   from: '2006'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEEC50.13-2014
-    docid:
-    - id: IEEE C50.13-2014
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C50.13-2014
-      format: text/plain
 - type: updates
   bibitem:
     id: ANSIC50.13-1977
@@ -96,6 +86,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEEC50.13-2014
+    docid:
+    - id: IEEE C50.13-2014
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C50.13-2014
+      format: text/plain
 keyword:
 - content: IEEE standards
 - content: Synchronous generators

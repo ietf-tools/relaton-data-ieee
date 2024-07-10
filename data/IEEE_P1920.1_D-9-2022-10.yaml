@@ -26,7 +26,7 @@ date:
 - type: published
   value: '2022-10-06'
 - type: issued
-  value: '2022'
+  value: '2022-12-03'
 contributor:
 - organization:
     name:
@@ -46,19 +46,13 @@ language:
 script:
 - Latn
 abstract:
-- content: 'IEEE Std P1920.1TM defines air-to-air communications for self-organized
-    ad hoc aerial networks. It outlines the network service architecture, security
-    framework, and data model. IEEE Std P1920.1 is agnostic to the type of network
-    (Wireless or Cellular or other) and it is applicable to crewed and uncrewed, small
-    and large, and civil and commercial aircraft systems. IEEE Std P1920.1 is the
-    first in the series of IEEE P1920.X standards. It is anticipated that IEEE Std
-    P1920.1 will be used as a foundation to define more specific standards in this
-    series. For example, the development of IEEE Std P1920.2: Vehicle-to-Vehicle Communications
-    is currently taking place. This document contains seven clauses. The first three
-    clauses provide an introduction and important information about IEEE Std P1920.1.
-    The fourth clause presents an overview of aerial ad hoc networks. The fifth clause
-    addresses network architecture, and the sixth clause addresses security architecture.
-    The seventh clause outlines the data model with a set typical use cases.'
+- content: IEEE Std 1920.1 defines air-to-air communications for self-organized ad
+    hoc aerial networks. It outlines the network service architecture, security framework,
+    and data model. IEEE Std 1920.1 is agnostic to the type of network (Wireless or
+    Cellular or other) and it is applicable to manned and unmanned, small and large,
+    and civil and commercial aircraft systems. IEEE Std 1920.1 is the first in the
+    series of IEEE P1920.X standards. It is anticipated that IEEE Std 1920.1 will
+    be used as a foundation to define more specific standards in this series.
   language:
   - en
   script:
@@ -76,19 +70,31 @@ copyright:
     url: http://www.ieee.org
   from: '2022'
 keyword:
-- content: Aerial Networks
-- content: Ad Hoc Network
-- content: Beyond Radio Line-of-Sight Communications (BRLOS)
-- content: Uncrewed Aircraft (UA)
-- content: Uncrewed Aircraft Systems (UAS)
-- content: Self-Organized Aerial Networks (SOANs).
+- content: IEEE Standards
+- content: Aircraft
+- content: Ad hoc networks
+- content: Line-of-sight propagation
+- content: Autonomous aerial vehicles
+- content: Self-organizing networks
+- content: aerial networks
+- content: ad hoc network
+- content: beyond radio line-of-sight communications (BRLOS)
+- content: IEEE 1920.1
+- content: self-organized aerial networks (SOANs)
+- content: unmanned aircraft (UA)
+- content: unmanned aircraft systems (UAS)
 doctype: standard
 editorialgroup:
   committee:
   - Mobile Communication Networks Standards Committee of the IEEE Communications Society
+ics:
+- code: 33.060.99
+  text: Other equipment for radiocommunications
+- code: '49.090'
+  text: On-board equipment and instruments
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

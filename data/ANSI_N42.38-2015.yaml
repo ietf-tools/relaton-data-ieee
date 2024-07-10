@@ -24,8 +24,6 @@ docid:
   type: DOI
 docnumber: ANSI N42.38-2015
 date:
-- type: updated
-  value: '2016-02-26'
 - type: created
   value: '2016-01-29'
 - type: published
@@ -39,6 +37,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2016-01-29'
@@ -58,9 +60,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -75,227 +74,6 @@ copyright:
     url: https://www.ansi.org
   from: '2016'
 relation:
-- type: updates
-  bibitem:
-    id: ANSIN42.38-2006
-    docid:
-    - id: ANSI N42.38-2006
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI N42.38-2006
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: ANSIN42.38-2006
-    docid:
-    - id: ANSI N42.38-2006
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI N42.38-2006
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: ANSIN42.38-2006
-    docid:
-    - id: ANSI N42.38-2006
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI N42.38-2006
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: ANSIN42.38-2006
-    docid:
-    - id: ANSI N42.38-2006
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI N42.38-2006
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: ANSIN42.38-2006
-    docid:
-    - id: ANSI N42.38-2006
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI N42.38-2006
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: ANSIN42.38-2006
-    docid:
-    - id: ANSI N42.38-2006
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI N42.38-2006
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: ANSIN42.38-2006
-    docid:
-    - id: ANSI N42.38-2006
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI N42.38-2006
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: ANSIN42.38-2006
-    docid:
-    - id: ANSI N42.38-2006
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI N42.38-2006
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: ANSIN42.38-2006
-    docid:
-    - id: ANSI N42.38-2006
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI N42.38-2006
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: ANSIN42.38-2006
-    docid:
-    - id: ANSI N42.38-2006
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI N42.38-2006
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: ANSIN42.38-2006
-    docid:
-    - id: ANSI N42.38-2006
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI N42.38-2006
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: ANSIN42.38-2006
-    docid:
-    - id: ANSI N42.38-2006
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI N42.38-2006
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: ANSIN42.38-2006
-    docid:
-    - id: ANSI N42.38-2006
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI N42.38-2006
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: updates
   bibitem:
     id: ANSIN42.38-2006
@@ -538,7 +316,6 @@ ics:
   text: Physicochemical methods of analysis
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Superseded
   pubstatus: Active
   holdstatus: Publish

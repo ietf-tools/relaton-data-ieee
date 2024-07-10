@@ -25,7 +25,7 @@ date:
 - type: created
   value: '2023'
 - type: published
-  value: '2023-04-04'
+  value: '2023-04-05'
 - type: issued
   value: '2023'
 contributor:
@@ -41,14 +41,14 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-04-04'
+revdate: '2023-04-05'
 language:
 - en
 script:
 - Latn
 abstract:
 - content: 'POSIX.1-202x defines a standard operating system interface and environment,
-    including a command interpreter (or "shell"), and common utility programs to support
+    including a command interpreter (or “shell”), and common utility programs to support
     applications portability at the source code level. POSIX.1-202x is intended to
     be used by both application developers and system implementors and comprises four
     major components (each in an associated volume): &#8226; General terms, concepts,
@@ -58,7 +58,7 @@ abstract:
     system services for the C programming language, function issues, including portability,
     error handling, and error recovery, are included in the System Interfaces volume.
     &#8226; Definitions for a standard source code-level interface to command interpretation
-    services (a "shell") and common utility programs for application programs are
+    services (a “shell”) and common utility programs for application programs are
     included in the Shell and Utilities volume. &#8226; Extended rationale that did
     not fit well into the rest of the document structure, which contains historical
     information concerning the contents of POSIX.1-202x and why features were included
@@ -139,91 +139,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1003.1-2017
-    docid:
-    - id: IEEE 1003.1-2017
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1003.1-2017
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1003.1-2017
-    docid:
-    - id: IEEE 1003.1-2017
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1003.1-2017
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1003.1-2017
-    docid:
-    - id: IEEE 1003.1-2017
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1003.1-2017
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1003.1-2017
-    docid:
-    - id: IEEE 1003.1-2017
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1003.1-2017
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1003.1-2017
-    docid:
-    - id: IEEE 1003.1-2017
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1003.1-2017
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Application programming interfaces
@@ -248,7 +163,7 @@ keyword:
 - content: job control
 - content: network
 - content: parent
-- content: portable operating system interface (POSIX)
+- content: portable operating system interface (POSIX&#8482;)
 - content: shell
 - content: stream
 - content: string
@@ -259,13 +174,13 @@ keyword:
 doctype: standard
 editorialgroup:
   committee:
-  - Microprocessor Standards Committee of the IEEE Computer Society
+  - Portable Applications of the IEEE Computer Society
 ics:
 - code: '35.060'
   text: Languages used in information technology
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

@@ -67,6 +67,16 @@ copyright:
     url: http://www.ieee.org
   from: '1994'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE260.1-2004
+    docid:
+    - id: IEEE 260.1-2004
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 260.1-2004
+      format: text/plain
 - type: updates
   bibitem:
     id: ANSI-IEEE260-1978
@@ -84,16 +94,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEE260.1-2004
-    docid:
-    - id: IEEE 260.1-2004
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 260.1-2004
-      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Measurement units

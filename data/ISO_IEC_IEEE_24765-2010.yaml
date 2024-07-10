@@ -75,16 +75,6 @@ copyright:
     url: http://www.ieee.org
   from: '2011'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: ISO-IEC-IEEE24765-2017
-    docid:
-    - id: ISO/IEC/IEEE 24765-2017
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ISO/IEC/IEEE 24765-2017
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEE610.12-1990
@@ -102,6 +92,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: ISO-IEC-IEEE24765-2017
+    docid:
+    - id: ISO/IEC/IEEE 24765-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ISO/IEC/IEEE 24765-2017
+      format: text/plain
 keyword:
 - content: IEEE standards
 - content: ISO standards

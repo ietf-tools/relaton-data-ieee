@@ -24,8 +24,6 @@ docid:
   type: DOI
 docnumber: ANSI N42.38a-2018
 date:
-- type: updated
-  value: '2020-05-22'
 - type: created
   value: '2019-02-01'
 - type: published
@@ -61,9 +59,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -78,23 +73,6 @@ copyright:
     url: https://www.ansi.org
   from: '2019'
 relation:
-- type: updates
-  bibitem:
-    id: ANSIN42.38-2015
-    docid:
-    - id: ANSI N42.38-2015
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI N42.38-2015
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: updates
   bibitem:
     id: ANSIN42.38-2015
@@ -134,7 +112,6 @@ ics:
   text: Physicochemical methods of analysis
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Superseded
   pubstatus: Active
   holdstatus: Publish

@@ -48,14 +48,13 @@ language:
 script:
 - Latn
 abstract:
-- content: This amendment to IEEE Std 802.1Q-2022 as amended by IEEE Std 802.1Qcz-2023,
-    IEEE Std 802.1Qcw-2023, and IEEE Std 802.1Qcj-2023 describes the relationships
-    and division of responsibilities between Centralized User Configuration (CUC)
-    components, that can be used to configure end stations' use of Time-Sensitive
-    Networking (TSN) capabilities, and a Centralized Network Configuration (CNC) component
-    that can be used to configure network resources within an administrative Configuration
+- content: This amendment to IEEE Std 802.1Q&#8482; describes the relationships and
+    division of responsibilities between Centralized User Configuration (CUC) components,
+    that can be used to configure end stations' use of Time-Sensitive Networking (TSN)
+    capabilities, and a Centralized Network Configuration (CNC) component that can
+    be used to configure network resources within an administrative Configuration
     Domain. A YANG model and modules that can be used by a network configuration protocol,
-    such as NETCONF, to provide communication between the CNC and a CUC is specified.
+    such as NETCONF, to provide a CUC-CNC interface is specified.
   language:
   - en
   script:
@@ -124,108 +123,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE802.1Q-2018
-    docid:
-    - id: IEEE 802.1Q-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.1Q-2018
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE802.1Q-2018
-    docid:
-    - id: IEEE 802.1Q-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.1Q-2018
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE802.1Q-2018
-    docid:
-    - id: IEEE 802.1Q-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.1Q-2018
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE802.1Q-2018
-    docid:
-    - id: IEEE 802.1Q-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.1Q-2018
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE802.1Q-2018
-    docid:
-    - id: IEEE 802.1Q-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.1Q-2018
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE802.1Q-2018
-    docid:
-    - id: IEEE 802.1Q-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.1Q-2018
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Local area networks
@@ -240,7 +137,6 @@ keyword:
 - content: Centralized User Configuration
 - content: CUC
 - content: IEEE 802.1Q&#8482;
-- content: IEEE 802.1Qdj&#8482;
 - content: LAN
 - content: local area network
 - content: Time-Sensitive Networking
@@ -248,7 +144,7 @@ keyword:
 - content: Virtual Bridged Network
 - content: virtual LAN
 - content: VLAN Bridge
-- content: YANG
+- content: YANG.
 doctype: standard
 editorialgroup:
   committee:
@@ -258,7 +154,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

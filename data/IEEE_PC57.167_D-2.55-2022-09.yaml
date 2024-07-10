@@ -26,7 +26,7 @@ date:
 - type: published
   value: '2022-10-06'
 - type: issued
-  value: '2022'
+  value: '2023-02-15'
 contributor:
 - organization:
     name:
@@ -46,12 +46,12 @@ language:
 script:
 - Latn
 abstract:
-- content: This guide provides a classification system of liquid-filled distribution
-    transformer types, risk exposures, outage impacts, unusual service conditions
-    and installation locations to help guide users in determining what monitoring
-    parameters might be useful in achieving the goal of safe and continuous power
-    delivery to customers. It also provides guidance on device installation, communications,
-    and alert types.
+- content: A classification system of liquid-filled distribution transformer types,
+    risk exposures, outage impacts, unusual service conditions, and installation locations
+    to help guide users in determining what monitoring parameters might be useful
+    in achieving the goal of safe and continuous power delivery to customers is provided
+    by this guide. Guidance on device installation, communications, and alert types
+    is also provided by this guide.
   language:
   - en
   script:
@@ -69,19 +69,28 @@ copyright:
     url: http://www.ieee.org
   from: '2022'
 keyword:
-- content: Distribution transformer
-- content: Subsurface Transformer
-- content: Key Monitoring Parameters
-- content: Alert
-- content: Communications
-- content: and Installation
+- content: IEEE Standards
+- content: Power distribution
+- content: Power transfromers
+- content: Parameter estimation
+- content: alert
+- content: communications
+- content: distribution transformer
+- content: IEEE C57.167
+- content: installation
+- content: key monitoring parameters
 doctype: standard
 editorialgroup:
   committee:
   - Transformers of the IEEE Power and Energy Society
+ics:
+- code: 01.040.29
+  text: Electrical engineering (Vocabularies)
+- code: '29.180'
+  text: Transformers. Reactors
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

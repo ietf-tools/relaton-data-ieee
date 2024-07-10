@@ -67,6 +67,16 @@ copyright:
     url: http://www.ieee.org
   from: '1990'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE67-2005
+    docid:
+    - id: IEEE 67-2005
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 67-2005
+      format: text/plain
 - type: updates
   bibitem:
     id: ANSI-IEEE67-1972
@@ -84,16 +94,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEE67-2005
-    docid:
-    - id: IEEE 67-2005
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 67-2005
-      format: text/plain
 keyword:
 - content: Maintenance
 - content: Machine windings

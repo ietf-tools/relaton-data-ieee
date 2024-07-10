@@ -3,11 +3,11 @@ schema-version: v1.2.3
 id: IEEEC57.110-1998
 title:
 - content: IEEE Recommended Practice for Establishing Transformer Capability When
-    Supplying Non-sinusoidal Load Currents
+    Supplying Nonsinusoidal Load Currents
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/754767
+- content: https://ieeexplore.ieee.org/document/8684609
   type: src
 type: standard
 docid:
@@ -20,12 +20,14 @@ docid:
   primary: true
 - id: 978-0-7381-0841-4
   type: ISBN
-- id: 10.1109/IEEESTD.1998.89206
+- id: 10.1109/IEEESTD.1999.8684609
   type: DOI
 docnumber: IEEE C57.110-1998
 date:
 - type: created
-  value: '1998'
+  value: '1999'
+- type: published
+  value: '2019-04-05'
 - type: issued
   value: '1998-07-02'
 contributor:
@@ -41,20 +43,21 @@ contributor:
         country: USA
   role:
   - type: publisher
+revdate: '2019-04-05'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Methods are developed to conservatively evaluate the feasibility of supplying
-    additional nonsinusoidal load currents from an existing installed dry-type or
-    liquid-filled transformer, as a portion of the total load. Clarification of the
-    necessary application information is provided to assist in properly specifying
-    a new transformer expected to carry a load, a portion of which is composed of
-    nonsinusoidal load currents. A number of examples illustrating these methods and
-    calculations are presented. Reference annexes make a comparison of the document
-    calculations to calculations found in other industry standards and suggested temperature
-    rise methods are detailed for reference purposes.
+- content: Superseded by IEEE Std C57.110-2008. Methods are developed to conservatively
+    evaluate the feasibility of supplying additional nonsinusoidal load currents from
+    an existing installed dry-type or liquified transformer, as a portion of the total
+    load. Clarification of the necessary application information is provided to assist
+    in properly specifying a new transformer expected to carry a load, a portion of
+    which is composed of nonsinusoidal load currents. A number of examples illustrating
+    these methods and calculations are presented. Reference annexes make a comparison
+    of the document calculations to calculations found in other industry standards
+    and suggested temperature rise methods are detailed for reference purposes.
   language:
   - en
   script:
@@ -90,7 +93,16 @@ relation:
       content: IEEE C57.110-2008
       format: text/plain
 keyword:
-- content: IEEE standards
+- content: current
+- content: eddy-current losses
+- content: harmonic current
+- content: harmonic load losses
+- content: harmonic loss factor
+- content: harmonics
+- content: K-factor
+- content: load currents
+- content: nonsinusoidal
+- content: transformer
 doctype: standard
 editorialgroup:
   committee:

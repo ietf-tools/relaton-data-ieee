@@ -46,17 +46,6 @@ language:
 - en
 script:
 - Latn
-abstract:
-- content: Defined in this standard are elements and commonly used components in excitation
-    systems. Also contained are definitions for excitation systems applied to synchronous
-    machines. An included annex contains one-line block diagrams of some typical excitation
-    systems. These are presented to illustrate the defined terminology referenced
-    in this standard and clarify the understanding of the excitation control system.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -103,74 +92,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE421.1-2007
-    docid:
-    - id: IEEE 421.1-2007
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 421.1-2007
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE421.1-2007
-    docid:
-    - id: IEEE 421.1-2007
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 421.1-2007
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE421.1-2007
-    docid:
-    - id: IEEE 421.1-2007
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 421.1-2007
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE421.1-2007
-    docid:
-    - id: IEEE 421.1-2007
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 421.1-2007
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Synchronous machines
@@ -181,7 +102,6 @@ keyword:
 - content: excitation block diagrams
 - content: excitation control systems
 - content: excitation systems terminology
-- content: '421.1'
 - content: synchronous generator controls
 doctype: standard
 editorialgroup:
@@ -192,7 +112,7 @@ ics:
   text: Other standards related to rotating machinery
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

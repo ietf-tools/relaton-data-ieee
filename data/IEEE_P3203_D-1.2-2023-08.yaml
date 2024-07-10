@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: IEEEP3203-D-1.2-2023-08
 title:
-- content: IEEE Draft Standard for Blockchain Interoperability Naming Protocol
+- content: IEEE Approved Draft Standard for Blockchain Interoperability Naming Protocol
   format: text/plain
   type: main
 link:
@@ -22,11 +22,11 @@ docid:
 docnumber: IEEE P3203/D-1.2-2023-08
 date:
 - type: created
-  value: '2023-08-08'
+  value: '2023-11-13'
 - type: published
   value: '2023-08-09'
 - type: issued
-  value: '2023'
+  value: '2023-11-08'
 contributor:
 - organization:
     name:
@@ -45,6 +45,16 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: A set of protocols are defined in this standard that enable blockchain
+    networks to locate each other’s trusted nodes through standardized names. The
+    set of protocols define a naming scheme, an interface for name registration, and
+    the data format that request and response messages use to resolve names.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -61,16 +71,17 @@ keyword:
 - content: Blockchains
 - content: Interoperability
 - content: Protocols
-- content: Blockchain
-- content: Interoperability
-- content: Protocol
+- content: blockchain
+- content: IEEE 3203&#8482;
+- content: interoperability
+- content: protocol
 doctype: standard
 editorialgroup:
   committee:
   - Blockchain and Distributed Ledgers of the IEEE Computer Society
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

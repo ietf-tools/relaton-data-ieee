@@ -2,12 +2,13 @@
 schema-version: v1.2.3
 id: IEEE11073
 title:
-- content: 'IEEE Standard for Health Informatics--Device Interoperability Part 10417:
-    Personal Health Device Communication--Device Specialization--Glucose Meter'
+- content: 'IEEE Standard for Health Informatics--Device Interoperability Part 10406:
+    Personal Health Device Communication--Device Specialization--Basic Electrocardiography
+    (ECG) (1‐ to 3‐lead ECG)'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/10287895
+- content: https://ieeexplore.ieee.org/document/10287901
   type: src
 type: standard
 docid:
@@ -18,16 +19,16 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 979-8-8557-0185-2
+- id: 979-8-8557-0178-4
   type: ISBN
-- id: 10.1109/IEEESTD.2023.10287895
+- id: 10.1109/IEEESTD.2023.10287901
   type: DOI
 docnumber: IEEE 11073
 date:
 - type: created
   value: '2023-10-19'
 - type: published
-  value: '2023-10-18'
+  value: '2023-10-19'
 - type: issued
   value: '2023-02-15'
 contributor:
@@ -43,23 +44,28 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-10-18'
+revdate: '2023-10-19'
 language:
 - en
 script:
 - Latn
 abstract:
 - content: Within the context of the ISO/IEEE 11073 family of standards for device
-    communication, a normative definition of communication between personal telehealth
-    glucose meter devices and compute engines (e.g., cell phones, personal computers,
-    personal health appliances, and set top boxes) is established by this standard
-    in a manner that enables plug-and-play interoperability. Appropriate portions
-    of existing standards are leveraged, including ISO/IEEE 11073 terminology, information
-    models, application profile standards, and transport standards. The use of specific
-    term codes, formats, and behaviors in telehealth environments restricting optionality
-    in base frameworks in favor of interoperability are specified. A common core of
-    communication functionality for personal telehealth glucose meters is defined
-    in this standard.
+    communication, a normative definition of the communication between personal basic
+    electrocardiograph (ECG) devices and managers (e.g., cell phones, personal computers,
+    personal health appliances, and set-top boxes) in a manner that enables plug-and-play
+    interoperability is established in this standard. Appropriate portions of existing
+    standards including ISO/IEEE 11073 terminology and IEEE 11073-20601 information
+    models are leveraged. The use of specific term codes, formats, and behaviors in
+    telehealth environments restricting optionality in base frameworks in favor of
+    interoperability is specified. A common core of communication functionality for
+    personal telehealth basic ECG (1- to 3-lead ECG) devices is defined. Monitoring
+    ECG devices are distinguished from diagnostic ECG equipment with respect to including
+    support for wearable ECG devices, limiting the number of leads supported by the
+    equipment to three, and not requiring the capability of annotating or analyzing
+    the detected electrical activity to determine known cardiac phenomena. This standard
+    is consistent with the base framework and allows multifunction implementations
+    by following multiple device specializations (e.g., ECG and respiration rate).
   language:
   - en
   script:
@@ -79,6 +85,40 @@ copyright:
 relation:
 - type: updates
   bibitem:
+    id: IEEE11073.10406-2011
+    docid:
+    - id: IEEE 11073.10406-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 11073.10406-2011
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE11073.10406-2011
+    docid:
+    - id: IEEE 11073.10406-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 11073.10406-2011
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
     id: IEEE11073.10417-2015
     docid:
     - id: IEEE 11073.10417-2015
@@ -94,14 +134,134 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE11073.10406-2011
+    docid:
+    - id: IEEE 11073.10406-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 11073.10406-2011
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE11073.10406-2011
+    docid:
+    - id: IEEE 11073.10406-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 11073.10406-2011
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE11073.10406-2011
+    docid:
+    - id: IEEE 11073.10406-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 11073.10406-2011
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE11073.10406-2011
+    docid:
+    - id: IEEE 11073.10406-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 11073.10406-2011
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE11073.10406-2011
+    docid:
+    - id: IEEE 11073.10406-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 11073.10406-2011
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE11073.10406-2011
+    docid:
+    - id: IEEE 11073.10406-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 11073.10406-2011
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE11073.10406-2011
+    docid:
+    - id: IEEE 11073.10406-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 11073.10406-2011
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
-- content: Biomedical monitoring
-- content: Medical devices
 - content: Bioinformatics
-- content: Glucose sensors
-- content: glucose meter
-- content: IEEE 11073-10417
+- content: Medical devices
+- content: Electrocardiography
+- content: 1- to 3-lead ECG
+- content: basic electrocardiograph
+- content: ECG
+- content: IEEE 11073-10406&#8482;
 - content: medical device communication
 - content: personal health devices
 doctype: standard

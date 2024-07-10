@@ -2,9 +2,9 @@
 schema-version: v1.2.3
 id: ISO-IEC-IEEEFDISP23026-2023-04
 title:
-- content: ISO/IEC/IEEE Approved Draft International Standard - Systems and Software
-    Engineering -- Engineering and Management of Websites for Systems, Software, and
-    Services Information
+- content: ISO/IEC/IEEE Draft International Standard - Systems and Software Engineering
+    -- Engineering and Management of Websites for Systems, Software, and Services
+    Information
   format: text/plain
   type: main
 link:
@@ -28,7 +28,7 @@ date:
 - type: published
   value: '2023-04-07'
 - type: issued
-  value: '2023-06-05'
+  value: '2023'
 contributor:
 - organization:
     name:
@@ -114,6 +114,23 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: ISO-IEC-IEEE
+    docid:
+    - id: ISO/IEC/ IEEE
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ISO/IEC/ IEEE
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: ISO Standards
@@ -128,11 +145,9 @@ editorialgroup:
 ics:
 - code: '35.080'
   text: Software
-- code: 35.240.95
-  text: Internet applications
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

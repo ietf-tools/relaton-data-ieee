@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: IEEEP1573-D-4-2021-10
 title:
-- content: 'IEEE Draft Recommended Practice for Electronic Power Subsystems: Parameters,
-    Interfaces, Elements, and Performance'
+- content: 'IEEE Approved Draft Recommended Practice for Electronic Power Subsystems:
+    Parameters, Interfaces, Elements, and Performance'
   format: text/plain
   type: main
 link:
@@ -23,11 +23,11 @@ docid:
 docnumber: IEEE P1573/D-4-2021-10
 date:
 - type: created
-  value: '2021-10-22'
+  value: '2021-12-13'
 - type: published
   value: '2021-10-25'
 - type: issued
-  value: '2021'
+  value: '2021-12-08'
 contributor:
 - organization:
     name:
@@ -77,6 +77,40 @@ copyright:
     url: http://www.ieee.org
   from: '2021'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE1573-2003
+    docid:
+    - id: IEEE 1573-2003
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1573-2003
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1573-2003
+    docid:
+    - id: IEEE 1573-2003
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1573-2003
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE1573-2003

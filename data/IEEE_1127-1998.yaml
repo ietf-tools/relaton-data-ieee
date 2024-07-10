@@ -64,16 +64,6 @@ copyright:
     url: http://www.ieee.org
   from: '1998'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE1127-2013
-    docid:
-    - id: IEEE 1127-2013
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1127-2013
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEE1127-1990
@@ -91,6 +81,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE1127-2013
+    docid:
+    - id: IEEE 1127-2013
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1127-2013
+      format: text/plain
 - type: updates
   bibitem:
     id: IEEE1127-1990

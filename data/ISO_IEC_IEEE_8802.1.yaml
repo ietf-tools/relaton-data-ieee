@@ -2,13 +2,13 @@
 schema-version: v1.2.3
 id: ISO-IEC-IEEE8802.1
 title:
-- content: 'Iso/iec/ieee international standard--telecommunications and exchange between
-    information technology systems--requirements for local and metropolitan area networks--part
-    1cs: link-local registration protocol'
+- content: 'ISO/IEC/IEEE International Standard - Information technology — Telecommunications
+    and information exchange between systems — Local and metropolitan area networks
+    — Specific requirements — Part 1BA: Audio video bridging (AVB) systems'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/9825639
+- content: https://ieeexplore.ieee.org/document/7731263
   type: src
 type: standard
 docid:
@@ -19,18 +19,18 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-8801-3
+- id: 978-1-5044-2443-1
   type: ISBN
-- id: 10.1109/IEEESTD.2022.9825639
+- id: 10.1109/IEEESTD.2016.7731263
   type: DOI
 docnumber: ISO/IEC/IEEE 8802.1
 date:
 - type: created
-  value: '2022'
+  value: '2016-10-31'
 - type: published
-  value: '2022-07-08'
+  value: '2016-11-02'
 - type: issued
-  value: '2022'
+  value: '2016'
 contributor:
 - organization:
     name:
@@ -44,26 +44,21 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-07-08'
+revdate: '2016-11-02'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Protocols, procedures, and managed objects for a Link-local Registration
-    Protocol (LRP) to replicate a registration database from one end to the other
-    of a point-to-point link and to replicate changes to parts of that database are
-    specified in this standard. A facility is provided to purge the replicated database
-    if the source becomes unresponsive. LRP is optimized for databases on the order
-    of 1 Mbyte.
+- content: Profiles that select features, options, configurations, defaults, protocols
+    and procedures of bridges, stations and LANs that are necessary to build networks
+    that are capable of transporting time-sensitive audio and/or video data streams
+    are defined in this standard.
   language:
   - en
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -75,18 +70,8 @@ copyright:
     - content: ISO
   - name:
     - content: IEC
-  from: '2022'
+  from: '2016'
 relation:
-- type: adoptedFrom
-  bibitem:
-    id: IEEE802.1
-    docid:
-    - id: IEEE 802.1
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.1
-      format: text/plain
 - type: adoptedFrom
   bibitem:
     id: IEEE802.1BA-2011
@@ -97,28 +82,68 @@ relation:
     formattedref:
       content: IEEE 802.1BA-2011
       format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.1AX-2014
+    docid:
+    - id: IEEE 802.1AX-2014
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1AX-2014
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.1Q-2014
+    docid:
+    - id: IEEE 802.1Q-2014
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1Q-2014
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.1AX-2014
+    docid:
+    - id: IEEE 802.1AX-2014
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1AX-2014
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.1AX-2014
+    docid:
+    - id: IEEE 802.1AX-2014
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1AX-2014
+      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: ISO Standards
 - content: IEC Standards
 - content: Local area networks
 - content: Metropolitan area networks
-- content: Bridge circuts
-- content: Media Access Protocol
-- content: Virtual LAN
+- content: Information exchange
+- content: Bridge circuits
+- content: Time measurement
+- content: Sensitivity analysis
+- content: audio video bridging
+- content: AVB
 - content: Bridged Local Area Networks
-- content: bridges
-- content: bridging
-- content: IEEE 802
-- content: IEEE 802.1CS
-- content: IEEE 802.1Q
-- content: Link-local Registration Protocol
-- content: local area networks (LANs)
-- content: LRP
+- content: IEEE 802.1BA
+- content: LANs
+- content: local area networks
 - content: MAC Bridges
-- content: Time-Sensitive Networking
-- content: TSN
-- content: Virtual Bridged Local Area Networks (virtual LANs)
+- content: MANs
+- content: metropolitan area networks
+- content: time sensitive data streams
+- content: Virtual Bridged Local Area Networks
+- content: virtual LANs
 doctype: standard
 editorialgroup:
   committee:
@@ -128,7 +153,6 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Superseded
   pubstatus: Active
   holdstatus: Publish

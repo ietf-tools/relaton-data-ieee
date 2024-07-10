@@ -70,6 +70,23 @@ copyright:
     url: http://www.ieee.org
   from: '1994'
 relation:
+- type: updates
+  bibitem:
+    id: ANSI-IEEEC57.13-1978
+    docid:
+    - id: ANSI/IEEE C57.13-1978
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI/IEEE C57.13-1978
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: obsoletedBy
   bibitem:
     id: IEEEC57.13-2008
@@ -97,23 +114,16 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
+- type: obsoletedBy
   bibitem:
-    id: ANSI-IEEEC57.13-1978
+    id: IEEEC57.13-2008
     docid:
-    - id: ANSI/IEEE C57.13-1978
+    - id: IEEE C57.13-2008
       type: IEEE
       primary: true
     formattedref:
-      content: ANSI/IEEE C57.13-1978
+      content: IEEE C57.13-2008
       format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Transformers
