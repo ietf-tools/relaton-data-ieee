@@ -24,12 +24,10 @@ docid:
   type: DOI
 docnumber: ANSI C63.15-2010
 date:
-- type: updated
-  value: '2010-07-30'
 - type: created
   value: '2010-05-14'
 - type: published
-  value: '2018-03-01'
+  value: '2010-07-15'
 - type: issued
   value: '2010'
 contributor:
@@ -39,9 +37,13 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
-revdate: '2018-03-01'
+revdate: '2010-07-15'
 language:
 - en
 script:
@@ -69,6 +71,16 @@ copyright:
     url: http://www.ieee.org
   from: '2010'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: ANSIC63.15-2017
+    docid:
+    - id: ANSI C63.15-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI C63.15-2017
+      format: text/plain
 - type: obsoletedBy
   bibitem:
     id: ANSIC63.15-2017

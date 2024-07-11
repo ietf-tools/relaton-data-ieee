@@ -1,0 +1,112 @@
+---
+schema-version: v1.2.3
+id: IEEEP802.1ASdm-D-2.5-2024-07
+title:
+- content: 'IEEE Draft Standard for Local and Metropolitan Area Networks - Timing
+    and Synchronization for Time-Sensitive Applications - Amendment: Hot Standby and
+    Clock Drift Error Reduction'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10594765
+  type: src
+type: standard
+docid:
+- id: IEEE P802.1ASdm/D-2.5-2024-07
+  type: IEEE
+  primary: true
+- id: IEEE P802.1ASdm™/D-2.5-2024-07
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-0996-4
+  type: ISBN
+docnumber: IEEE P802.1ASdm/D-2.5-2024-07
+date:
+- type: created
+  value: '2024'
+- type: published
+  value: '2024-07-10'
+- type: issued
+  value: '2024'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2024-07-10'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This amendment to IEEE Std 802.1AS&#8482;-2020 specifies hot standby, and
+    addresses errors and omissions in the description of existing functionality.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: draft
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2024'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE802.1AS-2020
+    docid:
+    - id: IEEE 802.1AS-2020
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1AS-2020
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: hot standby
+- content: best timeTransmitter
+- content: frequency offset
+- content: Grandmaster Clock
+- content: Grandmaster PTP Instance
+- content: PTP End Instance
+- content: PTP Relay Instance
+- content: IEEE 802.1AS&#8482;
+- content: phase offset
+- content: synchronization
+- content: syntonization
+- content: time-aware system
+doctype: standard
+editorialgroup:
+  committee:
+  - LAN/MAN Standards Committee of the IEEE Computer Society
+ics:
+- code: '35.110'
+  text: Networking
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

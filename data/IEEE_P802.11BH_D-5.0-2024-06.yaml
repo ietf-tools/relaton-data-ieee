@@ -1,31 +1,34 @@
 ---
 schema-version: v1.2.3
-id: IEEE30.1-D-10-2024-06
+id: IEEEP802.11bh-D-5.0-2024-06
 title:
-- content: 'IEEE/IEC Draft International Standard - Explosive atmospheres -- Part
-    30-1: Electrical resistance trace heating -- General and testing requirements'
+- content: 'IEEE Draft Standard for Information Technology--Telecommunications and
+    Information Exchange Between Systems Local and Metropolitan Area Networks--Specific
+    Requirements - Part 11: Wireless LAN Medium Access Control (MAC) and Physical
+    Layer (PHY) Specifications Amendment 1: Operation with Randomized and Changing
+    MAC Addresses'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/10586924
+- content: https://ieeexplore.ieee.org/document/10591736
   type: src
 type: standard
 docid:
-- id: IEEE 30.1/D-10-2024-06
+- id: IEEE P802.11bh/D-5.0-2024-06
   type: IEEE
   primary: true
-- id: IEEE 30.1™/D-10-2024-06
+- id: IEEE P802.11bh™/D-5.0-2024-06
   type: IEEE
   scope: trademark
   primary: true
-- id: 979-8-8557-0979-7
+- id: 979-8-8557-0989-6
   type: ISBN
-docnumber: IEEE 30.1/D-10-2024-06
+docnumber: IEEE P802.11bh/D-5.0-2024-06
 date:
 - type: created
   value: '2024'
 - type: published
-  value: '2024-07-04'
+  value: '2024-07-10'
 - type: issued
   value: '2024'
 contributor:
@@ -41,7 +44,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2024-07-04'
+revdate: '2024-07-10'
 language:
 - en
 script:
@@ -56,22 +59,20 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  - name:
-    - content: IEC
   from: '2024'
 relation:
 - type: updates
   bibitem:
-    id: IEC-IEEE60079-1930
+    id: IEEE802.11-2020
     docid:
-    - id: IEC/IEEE 60079-1930
+    - id: IEEE 802.11-2020
       type: IEEE
       primary: true
     formattedref:
-      content: IEC/IEEE 60079-1930
+      content: IEEE 802.11-2020
       format: text/plain
   description:
-    content: revises
+    content: amends
     language:
     - en
     script:
@@ -79,20 +80,21 @@ relation:
     format: text/plain
 keyword:
 - content: IEEE Standards
-- content: IEC Standards
-- content: Testing
-- content: Resistance heating
-- content: Explosives
-- content: Atmospheric measurements
-- content: Explosions
-- content: Heating systems
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Information exchange
+- content: Information technology
+- content: Wireless LAN
+- content: Physical layer
+- content: Media Access Protocol
+- content: Randomized and Changing MAC Address (RCM)
 doctype: standard
 editorialgroup:
   committee:
-  - Petroleum and Chemical Industry of the IEEE Industry Applications Society
+  - LAN/MAN Standards Committee of the IEEE Computer Society
 ics:
-- code: 29.260.20
-  text: Electrical apparatus for explosive atmospheres
+- code: '35.110'
+  text: Networking
 ext:
   schema-version: v1.0.0
   standard_status: Active
