@@ -1,0 +1,107 @@
+---
+schema-version: v1.2.3
+id: IEEE1932.1-2024
+title:
+- content: IEEE Standard for Licensed/Unlicensed Spectrum Interoperability in Wireless
+    Mobile Networks
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10597148
+  type: src
+type: standard
+docid:
+- id: IEEE 1932.1-2024
+  type: IEEE
+  primary: true
+- id: IEEE 1932.1™-2024
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-0545-4
+  type: ISBN
+- id: 10.1109/IEEESTD.2024.10597148
+  type: DOI
+docnumber: IEEE 1932.1-2024
+date:
+- type: created
+  value: '2024'
+- type: published
+  value: '2024-07-12'
+- type: issued
+  value: '2024-02-15'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2024-07-12'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'The proliferation of connected users and downloaded applications has driven
+    the development of a new paradigm in wireless mobile networks. Additional air
+    interfaces operating in the unlicensed spectrum serving as supplementary downlinks
+    (SDL) and enhancing end-user throughput are utilized by this paradigm. However,
+    integrating these interfaces into licensed base stations can be challenging, as
+    they are distributed across various domains. WiFi is a key technology for increasing
+    capacity through the user plane interface. Traffic is buffered in WiFi when unlicensed
+    channels become unavailable, and transmissions resume once new radio slots are
+    free. To meet the strict round-time delay requirements of fifth generation (5G)
+    networks, a new virtual controller that resides at the mobile edge cloud is defined
+    in this standard. The multi-connectivity model and traffic sharing between licensed
+    and unlicensed interfaces are coordinated by the controller based on the real-time
+    availability of unlicensed channels for specific user equipment.Two schemes are
+    presented for managing multi-connectivity modes: distributed and centralized.
+    In the distributed scheme, traffic forwarding and steering between distributed
+    radio interfaces across domain sites is managed by the controller. In the centralized
+    scheme, various radio interfaces are co‑located in the same base station, and
+    traffic steering is managed by the controller through a new unified 5G media access
+    control (MAC) design. Traffic sharing between different interfaces is ensured
+    by the controller, given that access to operator-deployed WiFis or any other customer
+    WiFi using separate service level agreements (SLAs) is provided by operators.
+    Multi-connectivity modes imply the provision of efficient new services that may
+    require measuring airtime for each interface and changes to user plane topology.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2024'
+keyword:
+- content: 5G core
+- content: IEEE 1932.1
+- content: licensed band
+- content: spectrum utilization
+- content: unlicensed band
+- content: virtual controller
+doctype: standard
+editorialgroup:
+  committee:
+  - Mobile Communication Networks Standards Committee of the IEEE Communications Society
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Approved
+  pubstatus: Active
+  holdstatus: Publish
