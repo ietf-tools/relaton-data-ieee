@@ -1,33 +1,33 @@
 ---
 schema-version: v1.2.3
-id: IEEE1937.3-2024
+id: IEEEC37.252-2024
 title:
-- content: IEEE Standard for Flight Data Transmission of Civil Unmanned Aerial Vehicle
-    Based on Short Message Mechanisms
+- content: IEEE Guide for Testing Automatic Voltage Control Systems in Regional Power
+    Grids
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/10597374
+- content: https://ieeexplore.ieee.org/document/10599383
   type: src
 type: standard
 docid:
-- id: IEEE 1937.3-2024
+- id: IEEE C37.252-2024
   type: IEEE
   primary: true
-- id: IEEE 1937.3™-2024
+- id: IEEE C37.252™-2024
   type: IEEE
   scope: trademark
   primary: true
-- id: 979-8-8557-0808-0
+- id: 979-8-8557-0836-3
   type: ISBN
-- id: 10.1109/IEEESTD.2024.10597374
+- id: 10.1109/IEEESTD.2024.10599383
   type: DOI
-docnumber: IEEE 1937.3-2024
+docnumber: IEEE C37.252-2024
 date:
 - type: created
   value: '2024'
 - type: published
-  value: '2024-07-12'
+  value: '2024-07-15'
 - type: issued
   value: '2024-03-21'
 contributor:
@@ -43,15 +43,15 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2024-07-12'
+revdate: '2024-07-15'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The content, the transmission protocol, and the transmission method of
-    UAV flight supervision data based on Global Navigation Satellite System (GNSS)
-    short message mechanisms are specified in this standard.
+- content: The application philosophy, limitations, and testing methods for the automatic
+    voltage control (AVC) system of the power grid are described in this guide. The
+    testing for reactive power control based AVC systems in the power grid is applied.
   language:
   - en
   script:
@@ -70,23 +70,23 @@ copyright:
   from: '2024'
 keyword:
 - content: IEEE Standards
-- content: Protocols
-- content: Autonomous aerial vehicles
-- content: Global navigation satellite system
-- content: Message systems
-- content: Power transmission
-- content: Flight recording
-- content: Data communication
-- content: flight supervision data
-- content: IEEE 1937.3&#8482;
-- content: short message mechanisms
-- content: transmission protocol
-- content: UAV
+- content: Automatic voltage control
+- content: Power grids
+- content: Reactive power control
+- content: Voltage control
+- content: Testing
+- content: automatic voltage control
+- content: AVC
+- content: IEEE C37.252&#8482;
+- content: reactive power control
+- content: power grid
+- content: test methods
+- content: function test
+- content: zone division
 doctype: standard
 editorialgroup:
   committee:
-  - Unmanned Aerial Vehicles Communications Standards Committee of the IEEE Communications
-    Society
+  - Power System Relaying and Control of the IEEE Power and Energy Society
 ext:
   schema-version: v1.0.0
   standard_status: Active
