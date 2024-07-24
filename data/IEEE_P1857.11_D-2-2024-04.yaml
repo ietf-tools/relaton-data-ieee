@@ -48,8 +48,8 @@ script:
 abstract:
 - content: This standard defines a set of tools for efficient image coding, including
     tools for encoding, for decoding, and for encapsulation. Some of the tools are
-    based on trained neural networks, and shall perform block partitioning, prediction,
-    transform, quantization, entropy coding, filtering, etc., respectively.
+    based on trained neural networks. These tools are designed to perform block partitioning,
+    prediction, transform, quantization, entropy coding, filtering, etc., respectively.
   language:
   - en
   script:
@@ -87,7 +87,7 @@ editorialgroup:
   - Data Compression Standards Committee of the IEEE Computer Society
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

@@ -7,7 +7,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8684611
+- content: https://ieeexplore.ieee.org/document/617108
   type: src
 type: standard
 docid:
@@ -20,14 +20,12 @@ docid:
   primary: true
 - id: 978-0-7381-0713-4
   type: ISBN
-- id: 10.1109/IEEESTD.1996.8684611
+- id: 10.1109/IEEESTD.1997.83810
   type: DOI
 docnumber: IEEE 741-1997
 date:
 - type: created
-  value: '1996-11-30'
-- type: published
-  value: '2019-04-05'
+  value: '1997'
 - type: issued
   value: '1997-06-26'
 contributor:
@@ -43,19 +41,17 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2019-04-05'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Superseded by IEEE Std 741-2007. This standard prescribes criteria that
-    establish protection requirements for Class 1E power systems and equipment. It
-    describes the purpose of and the means for obtaining protection from electrical
-    and mechanical damage, or failures that can occur within a time period that is
-    shorter than that required for operator action. It includes testing and surveillance
-    requirements. It does not include plant physical design requirements to protect
-    against events such as pipe whip, fire, dropped load, etc.
+- content: In this IEEE Standard, criteria that establish protection requirements
+    for Class 1E power systems and equipment are prescribed. The purpose of and the
+    means for obtaining protection from electrical and mechanical damage or failures
+    that can occur within a time period that is shorter than that required for operator
+    action are described. Testing and surveillance requirements are included. Plant
+    physical design requirements to protect against certain events are not included.
   language:
   - en
   script:
@@ -70,6 +66,23 @@ copyright:
     url: http://www.ieee.org
   from: '1997'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE741-1990
+    docid:
+    - id: IEEE 741-1990
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 741-1990
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE741-1990
@@ -108,10 +121,7 @@ relation:
       content: IEEE 741-2007
       format: text/plain
 keyword:
-- content: design requirements
-- content: nuclear power generating stations
-- content: surveillance
-- content: valve actuator motor
+- content: IEEE standards
 doctype: standard
 editorialgroup:
   committee:

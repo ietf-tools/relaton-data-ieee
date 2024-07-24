@@ -50,7 +50,7 @@ abstract:
 - content: The base nomenclature provided in IEEE 11073 to support terminology for
     implantable cardiac devices is extended in this standard. Devices within the scope
     of this nomenclature are implantable devices such as pacemakers, defibrillators,
-    devices for cardiac resynchronization therapy, and implantable cardiac monitors.
+    devices for cardiac re-synchronization therapy, and implantable cardiac monitors.
     The discrete terms necessary to convey a clinically relevant summary of the information
     obtained during a device interrogation are defined in this nomenclature. To improve
     workflow efficiencies, cardiology and electrophysiology practices require the
@@ -94,40 +94,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE11073.10103-2012
-    docid:
-    - id: IEEE 11073.10103-2012
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 11073.10103-2012
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE11073.10103-2012
-    docid:
-    - id: IEEE 11073.10103-2012
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 11073.10103-2012
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Biomedical monitoring
@@ -144,7 +110,7 @@ keyword:
 - content: codes
 - content: follow-up
 - content: home monitoring
-- content: IEEE 11073-10103&#8482;
+- content: IEEE 11073-10103
 - content: implantable cardioverter defibrillator (ICD)
 - content: implantable devices
 - content: implantable device cardiac (IDC) medical device communication
@@ -167,7 +133,7 @@ ics:
   text: Information technology (Vocabularies)
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

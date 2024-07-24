@@ -24,9 +24,9 @@ date:
 - type: created
   value: '2023'
 - type: published
-  value: '2023-07-19'
+  value: '2023-07-20'
 - type: issued
-  value: '2023-11-08'
+  value: '2023'
 contributor:
 - organization:
     name:
@@ -40,26 +40,11 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-07-19'
+revdate: '2023-07-20'
 language:
 - en
 script:
 - Latn
-abstract:
-- content: The encapsulation and mapping of radio protocols transported over Ethernet
-    frames and Internet Protocol (IP) packets and the operation of the mappers and
-    de-mappers are defined in this standard. Structure-agnostic definitions are provided
-    for any digitized radio data. Structure-aware definitions are provided for the
-    Common Public Radio Interface (CPRI&#8482;). Native mode definitions are provided
-    for normal and compressed digitized radio in-phase and quadrature (I/Q) payload.
-    Specifications are provided for parameters, control messages, and mechanisms that
-    help operate, administrate, and maintain the mapping and demapping functions.
-    A management model and a YANG data model are defined.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -72,6 +57,74 @@ copyright:
     url: http://www.ieee.org
   from: '2023'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE1914.3-2018
+    docid:
+    - id: IEEE 1914.3-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1914.3-2018
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1914.3-2018
+    docid:
+    - id: IEEE 1914.3-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1914.3-2018
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1914.3-2018
+    docid:
+    - id: IEEE 1914.3-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1914.3-2018
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1914.3-2018
+    docid:
+    - id: IEEE 1914.3-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1914.3-2018
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE1914.3-2018
@@ -127,7 +180,7 @@ ics:
   text: Mobile services in general
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

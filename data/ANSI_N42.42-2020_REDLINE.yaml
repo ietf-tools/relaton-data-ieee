@@ -26,8 +26,6 @@ docid:
   type: ISBN
 docnumber: ANSI N42.42-2020 Redline
 date:
-- type: updated
-  value: '2021-05-23'
 - type: created
   value: '2020-11-20'
 - type: published
@@ -78,6 +76,40 @@ copyright:
     url: https://www.ansi.org
   from: '2020'
 relation:
+- type: updates
+  bibitem:
+    id: ANSIN42.42-2012
+    docid:
+    - id: ANSI N42.42-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI N42.42-2012
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: ANSIN42.42-2012
+    docid:
+    - id: ANSI N42.42-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI N42.42-2012
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: ANSIN42.42-2012

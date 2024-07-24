@@ -26,9 +26,9 @@ date:
 - type: created
   value: '2022'
 - type: published
-  value: '2022-09-08'
+  value: '2022-09-09'
 - type: issued
-  value: '2023-03-30'
+  value: '2022'
 contributor:
 - organization:
     name:
@@ -42,15 +42,15 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-09-08'
+revdate: '2022-09-09'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This amendment to IEEE Std 802.3-2022 adds Physical Layer specifications
-    and management parameters for 2.5 Gb/s, 5 Gb/s, 10 Gb/s, 25 Gb/s, and 50 Gb/s
-    operation on glass optical fiber in an automotive environment.
+- content: This amendment to IEEE Std 802.3-2022 adds physical layer specifications
+    and management parameters for 2.5 Gb/s, 5 Gb/s, 10 Gb/s, 25 Gb/s and 50 Gb/s operation
+    on optical fiber for use in automotive applications.
   language:
   - en
   script:
@@ -70,6 +70,23 @@ copyright:
 relation:
 - type: updates
   bibitem:
+    id: IEEE802.3-2018
+    docid:
+    - id: IEEE 802.3-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3-2018
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
     id: IEEE802.3-2022
     docid:
     - id: IEEE 802.3-2022
@@ -77,6 +94,40 @@ relation:
       primary: true
     formattedref:
       content: IEEE 802.3-2022
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.3-2018
+    docid:
+    - id: IEEE 802.3-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3-2018
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.3-2018
+    docid:
+    - id: IEEE 802.3-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3-2018
       format: text/plain
   description:
     content: amends
@@ -97,15 +148,13 @@ keyword:
 - content: 10GBASE-AU
 - content: 25GBASE-AU
 - content: 50GBASE-AU
-- content: amendment
-- content: automotive Ethernet
 - content: Ethernet
-- content: IEEE 802.3
-- content: IEEE 802.3cz
+- content: IEEE 802.3cz&#8482;
 - content: Medium Dependent Interface
 - content: Physical Coding Sublayer
 - content: Physical Layer
 - content: Physical Medium Attachment
+- content: Automotive Ethernet.
 doctype: standard
 editorialgroup:
   committee:
@@ -117,7 +166,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

@@ -27,9 +27,9 @@ date:
 - type: created
   value: '2023'
 - type: published
-  value: '2023-03-29'
+  value: '2023-03-28'
 - type: issued
-  value: '2023'
+  value: '2023-06-29'
 contributor:
 - organization:
     name:
@@ -43,13 +43,13 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-03-29'
+revdate: '2023-03-28'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This amendment to IEEE Std. C37.238-2017 specifies a LEAP_SECOND_EVENT
+- content: This amendment to IEEE Std. C37.238&#8482;-2017 specifies a LEAP_SECOND_EVENT
     TLV to enable grandmaster-capable clocks to distribute leap second event and validity
     information in advance.
   language:
@@ -86,35 +86,54 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC37.238-2017
+    docid:
+    - id: IEEE C37.238-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.238-2017
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Clocks
 - content: Precision engineering
 - content: Synchronization
 - content: Phasor measurement units
+- content: boundary clock
+- content: end device
 - content: grandmaster clock
 - content: IEEE 1588&#8482;
 - content: IEEE C37.238&#8482;
-- content: power substation
 - content: leap second
+- content: power substation
 - content: precise time
+- content: precision time protocol
+- content: PTP
+- content: sample synchronization
 - content: synchronization
-- content: Precision Time Protocol (“PTP”)
-- content: UTC
-- content: boundary clock
 - content: synchrophasors
 - content: transparent clock
-- content: end device.
+- content: UTC
 doctype: standard
 editorialgroup:
   committee:
-  - IEEE Power and Energy Society
+  - Power System Communications and Cybersecurity of the IEEE Power and Energy Society
 ics:
 - code: 39.040.99
   text: Other time-measuring instruments
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

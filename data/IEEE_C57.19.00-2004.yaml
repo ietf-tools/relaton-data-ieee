@@ -27,7 +27,7 @@ date:
 - type: created
   value: '2005'
 - type: published
-  value: '2020-07-01'
+  value: '2005-06-13'
 - type: issued
   value: '2004-12-08'
 contributor:
@@ -43,15 +43,16 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2020-07-01'
+revdate: '2005-06-13'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Revision of IEEE Std C57.19.00-1991 This standard applies to power apparatus
-    bushings that have basic impulse insulation levels of 110 kV and above for use
-    as components of oil-filled transformers and oil-filled reactors.
+- content: 'This standard applies to power apparatus bushings that have basic impulse
+    insulation levels of 110 kV and above for use as components of oil-filled transformers
+    and oil-filled reactors. Keywords: apparatus bushings, bushings, oil-filled reactors,
+    oil-filled transformers'
   language:
   - en
   script:
@@ -65,6 +66,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2005'
+relation:
+- type: updates
+  bibitem:
+    id: IEEEC57.19.01-1991
+    docid:
+    - id: IEEE C57.19.01-1991
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C57.19.01-1991
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: Standards
 - content: IEEE Standards

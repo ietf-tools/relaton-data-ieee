@@ -73,23 +73,16 @@ copyright:
     url: http://www.ieee.org
   from: '2006'
 relation:
-- type: updates
+- type: obsoletedBy
   bibitem:
-    id: IEEEC2-2002
+    id: IEEEC2-2012
     docid:
-    - id: IEEE C2-2002
+    - id: IEEE C2-2012
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE C2-2002
+      content: IEEE C2-2012
       format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: updates
   bibitem:
     id: IEEEC2-2002
@@ -276,8 +269,6 @@ doctype: standard
 ics:
 - code: '13.260'
   text: Protection against electric shock. Live working
-- code: '29.020'
-  text: Electrical engineering in general
 ext:
   schema-version: v1.0.0
   standard_status: Superseded

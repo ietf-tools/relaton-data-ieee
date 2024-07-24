@@ -68,6 +68,16 @@ copyright:
     url: http://www.ieee.org
   from: '1994'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE960-1177-1993
+    docid:
+    - id: IEEE 960/1177-1993
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 960/1177-1993
+      format: text/plain
 - type: updates
   bibitem:
     id: IEEE960.1989-1177-Std
@@ -85,16 +95,23 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
+- type: updates
   bibitem:
-    id: IEEE960-1177-1993
+    id: IEEE960.1989-1177-Std
     docid:
-    - id: IEEE 960/1177-1993
+    - id: IEEE 960.1989-1177-Std
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 960/1177-1993
+      content: IEEE 960.1989-1177-Std
       format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Data acquisition

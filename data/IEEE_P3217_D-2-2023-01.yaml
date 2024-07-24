@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2023-01-12'
 - type: issued
-  value: '2023'
+  value: '2023-06-05'
 contributor:
 - organization:
     name:
@@ -47,11 +47,10 @@ language:
 script:
 - Latn
 abstract:
-- content: This standard is IEEE Standard for Application Interface Specification
-    for Blockchain Systems. It defines an application programming interface (API)
-    collection and data transmission format between the chain layer and the application
-    layer in a blockchain system and standardizes the string, encoding, and request-response
-    format of the API.
+- content: An application programming interface (API) collection and data transmission
+    format between the chain layer and the application layer in a blockchain system
+    is defined by this standard and the string, encoding, and request-response format
+    of the API is standardized.
   language:
   - en
   script:
@@ -72,14 +71,18 @@ keyword:
 - content: IEEE Standards
 - content: Blockchains
 - content: Application programming interface
+- content: API
 - content: application interface specification
 - content: blockchain systems
-- content: API
+- content: IEEE 3217&#8482;
 - content: request-response
 doctype: standard
 editorialgroup:
   committee:
   - Blockchain and Distributed Ledgers of the IEEE Computer Society
+ics:
+- code: 35.240.99
+  text: IT applications in other fields
 ext:
   schema-version: v1.0.0
   standard_status: Inactive

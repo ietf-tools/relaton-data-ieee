@@ -2,12 +2,12 @@
 schema-version: v1.2.3
 id: IEEE1313.1-1996
 title:
-- content: IEEE Standard for Insulation Coordination - Definitions, Principles, and
+- content: IEEE Standard for Insulation Coordination - Definitions, Principles and
     Rules
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/531662
+- content: https://ieeexplore.ieee.org/document/8684657
   type: src
 type: standard
 docid:
@@ -20,12 +20,14 @@ docid:
   primary: true
 - id: 978-0-7381-0813-1
   type: ISBN
-- id: 10.1109/IEEESTD.1996.81077
+- id: 10.1109/IEEESTD.1994.8684657
   type: DOI
 docnumber: IEEE 1313.1-1996
 date:
 - type: created
-  value: '1996'
+  value: '1994-11-30'
+- type: published
+  value: '2019-04-05'
 - type: issued
   value: '1996-07-18'
 contributor:
@@ -41,16 +43,16 @@ contributor:
         country: USA
   role:
   - type: publisher
+revdate: '2019-04-05'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: In this IEEE standard the procedure for selection of the withstand voltages
-    for equipment phase-to-ground and phase-to-phase insulation systems is specified.
-    A list of standard insulation levels, based on the voltage stress to which the
-    equipment is being exposed, is also identified. This standard applies to three-phase
-    AC systems above 1 kV.
+- content: The procedure for selection of the withstand voltages for equipment phase-to-ground
+    and phase-to-phase insulation systems is specified. A list of standard insulation
+    levels, based on the voltage stress to which the equipment is being exposed, is
+    also identified. This standard applies to three-phase ac systems above 1 kV.
   language:
   - en
   script:
@@ -92,8 +94,59 @@ relation:
     formattedref:
       content: IEEE C62.82.1-2010
       format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1313-1993
+    docid:
+    - id: IEEE 1313-1993
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1313-1993
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1313-1993
+    docid:
+    - id: IEEE 1313-1993
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1313-1993
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
-- content: IEEE standards
+- content: atmospheric correction
+- content: correction factor
+- content: basic lightning impulse
+- content: BIL
+- content: impulse insulation level
+- content: basic switching
+- content: BSL
+- content: crest valve
+- content: ground fault factor
+- content: insulation coordination
+- content: overvoltage
+- content: phase to ground
+- content: insulation configuration
+- content: phase to phase
+- content: protective margin
+- content: protective ratio
+- content: standard withstand voltages
+- content: voltage stress
 doctype: standard
 editorialgroup:
   committee:

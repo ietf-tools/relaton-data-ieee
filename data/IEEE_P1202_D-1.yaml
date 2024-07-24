@@ -22,11 +22,11 @@ docid:
 docnumber: IEEE P1202/D-1
 date:
 - type: created
-  value: '2023-01-26'
+  value: '2023'
 - type: published
   value: '2023-01-27'
 - type: issued
-  value: '2023'
+  value: '2023-09-21'
 contributor:
 - organization:
     name:
@@ -50,7 +50,7 @@ abstract:
     manufacturers, distributors, and users. Uniform procedures; consistent, repeatable
     results; and measurable test acceptance criteria are required to allow comparisons
     among competing products and to allow selection of the correct product for the
-    application.
+    application. These criteria are detailed in this standard.
   language:
   - en
   script:
@@ -85,23 +85,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1202-2006
-    docid:
-    - id: IEEE 1202-2006
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1202-2006
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Fires
@@ -111,12 +94,13 @@ keyword:
 - content: Testing
 - content: 20 kW
 - content: 20 min
-- content: 70 000 Btu/h
+- content: 70 000 BTU/h
 - content: after burn
 - content: cable
 - content: char
 - content: charring
 - content: flame propagation
+- content: IEEE 1202&#8482;
 - content: test protocol
 - content: vertical cable tray
 - content: wire
@@ -131,7 +115,7 @@ ics:
   text: Cables
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

@@ -2,12 +2,13 @@
 schema-version: v1.2.3
 id: IEC-IEEE60079-1930
 title:
-- content: 'IEC/IEEE International Standard - Explosive atmospheres -- Part 30-1:
-    Electrical resistance trace heating -- General and testing requirements'
+- content: 'IEEE/IEC International Standard for Explosive atmospheres -- Part 30-2:
+    Electrical resistance trace heating -- Application guide for design, installation
+    and maintenance'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/7279035
+- content: https://ieeexplore.ieee.org/document/7279041
   type: src
 type: standard
 docid:
@@ -18,14 +19,16 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-0-7381-9846-0
+- id: 978-0-7381-9848-4
   type: ISBN
-- id: 10.1109/IEEESTD.2015.7279035
+- id: 10.1109/IEEESTD.2015.7279041
   type: DOI
 docnumber: IEC/IEEE 60079-1930
 date:
+- type: updated
+  value: '2015-10-23'
 - type: created
-  value: '2015-10-29'
+  value: '2015'
 - type: published
   value: '2015-09-28'
 - type: issued
@@ -37,10 +40,6 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-    contact:
-    - address:
-        city: New York
-        country: USA
   role:
   - type: publisher
 revdate: '2015-09-28'
@@ -49,15 +48,7 @@ language:
 script:
 - Latn
 abstract:
-- content: IEC/IEEE 60079-30-1 is intended to provide a comprehensive overview of
-    the essential requirements and testing appropriate to electric surface heating
-    equipment used in explosive atmospheres. The requirements of this part of IEC
-    60079 are considered to be the minimum requirements for equipment protection levels
-    Gb, Gc, Db, and Dc in explosive atmospheres for gases, dusts, and fibres/flyings.
-    While some of this work already exists in national standards or international
-    standards, this standard has collated much of this existing work and considerably
-    added to it. This standard also contains the minimum requirements for users applying
-    the Division method of area classification.
+- content: The paper presents the standard for explosive atmospheres.
   language:
   - en
   script:
@@ -78,12 +69,12 @@ copyright:
   from: '2015'
 keyword:
 - content: IEEE Standards
-- content: Gases
-- content: Temperature sensors
 - content: IEC Standards
+- content: Insulation
 - content: Resistance heating
-- content: Explosives
 - content: Atmospheric measurements
+- content: Explosives
+- content: Testing
 - content: Trace heating
 doctype: standard
 editorialgroup:

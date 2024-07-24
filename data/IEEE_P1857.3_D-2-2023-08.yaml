@@ -22,7 +22,7 @@ docid:
 docnumber: IEEE P1857.3/D-2-2023-08
 date:
 - type: created
-  value: '2024'
+  value: '2023-11-13'
 - type: published
   value: '2023-08-14'
 - type: issued
@@ -46,16 +46,16 @@ language:
 script:
 - Latn
 abstract:
-- content: Storage file formats and RTP payload formats for IEEE Std 1857&#8482; video;
-    IEEE Std 1857.2&#8482; audio; IEEE Std 1857.4&#8482; second generation IEEE Std
-    1857 video; IEEE Std 1857.5&#8482; mobile speech and audio; IEEE Std 1857.8 second
-    generation audio coding; and IEEE Std 1857.10 third generation video coding are
-    defined in this standard. The storage of video and audio not only uses the existing
-    capabilities of the ISO base media file format, but also defines extensions to
-    support specific features of the IEEE Std 1857, IEEE Std 1857.2, IEEE Std 1857.4,
-    IEEE Std 1857.5, IEEE Std 1857.8, and IEEE Std 1857.10 video and audio codecs.
-    The target applications and services include, but are not limited to, Internet
-    media streaming, IPTV, video conference, video telephony, and video-on-demand.
+- content: This Standard defines the storage file formats and RTP payload formats
+    for IEEE Std 1857 Video, IEEE Std 1857.2 Audio, IEEE Std 1857.4 Second Generation
+    IEEE 1857 Video, IEEE Std 1857.5 Mobile Speech and Audio, IEEE Std 1857.8 Second
+    Generation Audio Coding, and IEEE Std 1857.10 Third Generation Video Coding. The
+    storage of video and audio not only uses the existing capabilities of the ISO
+    Base Media File Format, but also defines extensions to support specific features
+    of the IEEE Std 1857, IEEE Std 1857.2, IEEE Std 1857.4, IEEE Std 1857.5, IEEE
+    Std 1857.8, and IEEE Std 1857.10 video and audio codecs. The target applications
+    and services include but not limited to Internet media streaming, IPTV, video
+    conference, video telephony, and video-on-demand
   language:
   - en
   script:
@@ -90,58 +90,23 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1857.3-2013
-    docid:
-    - id: IEEE 1857.3-2013
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1857.3-2013
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1857.3-2013
-    docid:
-    - id: IEEE 1857.3-2013
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1857.3-2013
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Streaming media
 - content: Video coding
 - content: File systems
 - content: Payloads
-- content: audio
-- content: box
-- content: file format
-- content: IEEE 1857.3&#8482;
-- content: NAL unit
-- content: packetization
+- content: System
+- content: Video
+- content: Audio
+- content: Storage
+- content: File format
+- content: Track
+- content: Box
+- content: Transmission
 - content: RTP payload format
-- content: storage
-- content: system
-- content: track
-- content: transmission
-- content: video
+- content: NAL unit
+- content: Packetization
 doctype: standard
 editorialgroup:
   committee:
@@ -153,7 +118,7 @@ ics:
   text: Information coding
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

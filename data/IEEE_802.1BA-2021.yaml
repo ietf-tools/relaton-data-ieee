@@ -52,7 +52,8 @@ abstract:
 - content: Profiles that select features, options, configurations, defaults, protocols,
     and procedures of bridges, stations, and LANs that are necessary to build networks
     that are capable of transporting time-sensitive audio and/or video data streams
-    are defined in this standard.
+    are defined in this standard. The PDF of this standard is available at no cost
+    via the IEEE GET program at https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=68
   language:
   - en
   script:
@@ -70,6 +71,23 @@ copyright:
     url: http://www.ieee.org
   from: '2021'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE802.1BA-2011
+    docid:
+    - id: IEEE 802.1BA-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1BA-2011
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE802.1BA-2011

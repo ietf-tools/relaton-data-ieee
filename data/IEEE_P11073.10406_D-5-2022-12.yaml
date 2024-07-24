@@ -2,9 +2,9 @@
 schema-version: v1.2.3
 id: IEEEP11073.10406-D-5-2022-12
 title:
-- content: 'IEEE Approved Draft Standard for Health Informatics--Personal Health Device
-    Communication Part 10406: Device Specialization--Basic Electrocardiograph (ECG)
-    (1- to 3-lead ECG)'
+- content: 'IEEE Draft Standard for Health Informatics--Personal Health Device Communication
+    Part 10406: Device Specialization--Basic Electrocardiograph (ECG) (1- to 3-lead
+    ECG)'
   format: text/plain
   type: main
 link:
@@ -24,7 +24,7 @@ docid:
 docnumber: IEEE P11073.10406/D-5-2022-12
 date:
 - type: created
-  value: '2023-02-22'
+  value: '2022-12-19'
 - type: published
   value: '2022-12-20'
 - type: issued
@@ -47,6 +47,28 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: Within the context of the ISO/IEEE 11073 family of standards for device
+    communication, a normative definition of the communication between personal basic
+    electrocardiograph (ECG) devices and managers (e.g., cell phones, personal computers,
+    personal health appliances, and set-top boxes) in a manner that enables plug-and-play
+    interoperability is established in this standard. Appropriate portions of existing
+    standards including ISO/IEEE 11073 terminology and IEEE 11073-20601 information
+    models are leveraged. The use of specific term codes, formats, and behaviors in
+    telehealth environments restricting optionality in base frameworks in favor of
+    interoperability is specified. A common core of communication functionality for
+    personal telehealth basic ECG (1- to 3-lead ECG) devices is defined. Monitoring
+    ECG devices are distinguished from diagnostic ECG equipment with respect to including
+    support for wearable ECG devices, limiting the number of leads supported by the
+    equipment to three, and not requiring the capability of annotating or analyzing
+    the detected electrical activity to determine known cardiac phenomena. This standard
+    is consistent with the base framework and allows multifunction implementations
+    by following multiple device specializations (e.g., ECG and respiration rate).
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -110,99 +132,16 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE11073.10406-2011
-    docid:
-    - id: IEEE 11073.10406-2011
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 11073.10406-2011
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE11073.10406-2011
-    docid:
-    - id: IEEE 11073.10406-2011
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 11073.10406-2011
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE11073.10406-2011
-    docid:
-    - id: IEEE 11073.10406-2011
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 11073.10406-2011
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE11073.10406-2011
-    docid:
-    - id: IEEE 11073.10406-2011
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 11073.10406-2011
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE11073.10406-2011
-    docid:
-    - id: IEEE 11073.10406-2011
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 11073.10406-2011
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Biomedical equipment
 - content: Electroencephalography
 - content: Biomedical monitoring
 - content: Medical devices
-- content: basic electrocardiograph (ECG) (1- to 3-lead ECG)
-- content: IEEE 11073-10406
+- content: 1- to 3-lead ECG
+- content: basic electrocardiograph
+- content: ECG
+- content: IEEE 11073-10406&#8482;
 - content: medical device communication
 - content: personal health devices
 doctype: standard
@@ -213,11 +152,9 @@ editorialgroup:
 ics:
 - code: 35.240.80
   text: IT applications in health care technology
-- code: 11.040.55
-  text: Diagnostic equipment
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

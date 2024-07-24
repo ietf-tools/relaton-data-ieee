@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: IEEEP3810-D-2.1.2-2023-04
 title:
-- content: IEEE Draft Standard for Framework of Energy Market Simulation
+- content: IEEE Approved Draft Standard for Framework of Energy Market Simulation
   format: text/plain
   type: main
 link:
@@ -22,11 +22,11 @@ docid:
 docnumber: IEEE P3810/D-2.1.2-2023-04
 date:
 - type: created
-  value: '2023-05-25'
-- type: published
-  value: '2023-06-09'
-- type: issued
   value: '2023'
+- type: published
+  value: '2023-06-08'
+- type: issued
+  value: '2023-09-21'
 contributor:
 - organization:
     name:
@@ -40,11 +40,22 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-06-09'
+revdate: '2023-06-08'
 language:
 - en
 script:
 - Latn
+abstract:
+- content: Requirements on the simulation of renewable, nuclear, and fossil-based
+    energy sources are specified in this standard. These simulations aid the financing
+    and management of green energy businesses. The simulation scope, simulation participants
+    relationship parameters, simulation tools, simulation data type, simulation data
+    format, and simulation outcome verification are specified.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -63,17 +74,21 @@ keyword:
 - content: Energy management
 - content: Algorithm design and analysis
 - content: Simulation
-- content: framework of energy market simulation
 - content: algorithm module
+- content: framework of energy market simulation
+- content: IEEE 3810&#8482;
 - content: special event generator
 doctype: standard
 editorialgroup:
   committee:
   - Digital Finance and Economy Standards Committee of the IEEE Consumer Technology
     Society
+ics:
+- code: '27.010'
+  text: Energy and heat transfer engineering in general
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

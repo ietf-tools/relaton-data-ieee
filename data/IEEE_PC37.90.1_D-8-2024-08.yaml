@@ -47,6 +47,22 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: This standard specifies 1 design tests for relays, relay systems, and control
+    devices used for Protection and Control of Electric Power Apparatus, that relate
+    to the immunity of this equipment to repetitive electrical transients. Two types
+    of tests are specified, the slow damped oscillatory test, and the electrical fast
+    transient (EFT) burst test. For devices with communication ports, where the device
+    does not perform protection or control functions, testing of the communication
+    functions is covered by IEEE Std. 1613. Where the device performs protection or
+    control functions and has communication ports, tests for all communication functions
+    are covered by this document. For devices without communication ports, the tests
+    are covered by this document.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -95,7 +111,7 @@ ics:
   text: Relays
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

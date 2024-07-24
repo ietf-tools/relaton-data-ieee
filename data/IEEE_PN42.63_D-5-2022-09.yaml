@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: IEEEPN42.63-D-5-2022-09
 title:
-- content: IEEE Draft Standard for Unmanned Aerial System-Radiation Detection (UAS-RD)
+- content: IEEE Draft Standard for Unmanned Aerial Radiation Measurement System (UAS-RaMS)
   format: text/plain
   type: main
 link:
@@ -26,7 +26,7 @@ date:
 - type: published
   value: '2023-03-07'
 - type: issued
-  value: '2023'
+  value: '2023-06-29'
 contributor:
 - organization:
     name:
@@ -45,6 +45,20 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: Performance criteria and characterization techniques are established in
+    this standard for radiation measurement systems incorporated onto unmanned aerial
+    systems. This standard focuses on radiation response expectations and environmental
+    parameters that could be experienced during use such as temperature changes, mechanical
+    shock, and onboard vibration. For radiation response expectations, response vectors
+    include those expected from distributed radioactive contamination and from radioactive
+    point sources. The primary unmanned aerial vehicles (UAVs) of interest include
+    those from Group 1 and Group 2 UAV designations.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -60,8 +74,7 @@ keyword:
 - content: IEEE
 - content: Autonomous aerial vehicles
 - content: Radiation detectors
-- content: Unmanned aerial vehicles (UAVs)
-- content: unmanned aerial systems (UASs)
+- content: IEEE N42.63&#8482;
 - content: radiation detector
 - content: radiation response
 - content: response vectors
@@ -70,6 +83,9 @@ editorialgroup:
   committee:
   - TC45 - Radiation and Nuclear Instrumentation and Systems of the IEEE Instrumentation
     and Measurement Society
+ics:
+- code: '17.240'
+  text: Radiation measurements
 ext:
   schema-version: v1.0.0
   standard_status: Inactive

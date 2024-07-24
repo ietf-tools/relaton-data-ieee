@@ -65,16 +65,6 @@ copyright:
     url: http://www.ieee.org
   from: '1994'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEEC37.101-2006
-    docid:
-    - id: IEEE C37.101-2006
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.101-2006
-      format: text/plain
 - type: updates
   bibitem:
     id: ANSI-IEEEC37.101-1985
@@ -92,6 +82,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEEC37.101-2006
+    docid:
+    - id: IEEE C37.101-2006
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.101-2006
+      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Generators

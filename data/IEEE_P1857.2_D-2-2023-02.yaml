@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: IEEEP1857.2-D-2-2023-02
 title:
-- content: IEEE Draft Standard for Advanced Audio Coding
+- content: IEEE Approved Draft Standard for Advanced Audio Coding
   format: text/plain
   type: main
 link:
@@ -22,11 +22,11 @@ docid:
 docnumber: IEEE P1857.2/D-2-2023-02
 date:
 - type: created
-  value: '2023-02-13'
-- type: published
-  value: '2023-02-15'
-- type: issued
   value: '2023'
+- type: published
+  value: '2023-02-14'
+- type: issued
+  value: '2023-06-05'
 contributor:
 - organization:
     name:
@@ -40,7 +40,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-02-15'
+revdate: '2023-02-14'
 language:
 - en
 script:
@@ -89,6 +89,23 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1857.2-2013
+    docid:
+    - id: IEEE 1857.2-2013
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1857.2-2013
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Audio coding
@@ -107,17 +124,11 @@ editorialgroup:
   committee:
   - Data Compression Standards Committee of the IEEE Computer Society
 ics:
-- code: 33.040.40
-  text: Data communication networks
-- code: '35.040'
-  text: Information coding
-- code: 29.240.01
-  text: Power transmission and distribution networks in general
-- code: 91.140.50
-  text: Electricity supply systems
+- code: 35.040.40
+  text: Coding of audio, video, multimedia and hypermedia information
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

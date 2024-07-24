@@ -46,6 +46,13 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: This corrigendum is to improve the current IEEE Std C37.016.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -58,6 +65,23 @@ copyright:
     url: http://www.ieee.org
   from: '2021'
 relation:
+- type: updates
+  bibitem:
+    id: IEEEC37.016-2018
+    docid:
+    - id: IEEE C37.016-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.016-2018
+      format: text/plain
+  description:
+    content: corrects
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEEC37.016-2018

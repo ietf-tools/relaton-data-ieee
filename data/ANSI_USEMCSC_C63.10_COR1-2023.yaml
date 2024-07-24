@@ -27,7 +27,7 @@ date:
 - type: created
   value: '2023'
 - type: published
-  value: '2023-06-02'
+  value: '2023-06-01'
 - type: issued
   value: '2023'
 contributor:
@@ -43,7 +43,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-06-02'
+revdate: '2023-06-01'
 language:
 - en
 script:
@@ -84,6 +84,40 @@ copyright:
     url: https://www.ansi.org
   from: '2023'
 relation:
+- type: updates
+  bibitem:
+    id: ANSIC63.10-2020
+    docid:
+    - id: ANSI C63.10-2020
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI C63.10-2020
+      format: text/plain
+  description:
+    content: corrects
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: ANSIC63.10-2020
+    docid:
+    - id: ANSI C63.10-2020
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI C63.10-2020
+      format: text/plain
+  description:
+    content: corrects
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: ANSIC63.10-2020

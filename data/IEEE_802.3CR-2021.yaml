@@ -56,6 +56,9 @@ abstract:
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -65,16 +68,6 @@ copyright:
     url: http://www.ieee.org
   from: '2021'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: ISO-IEC
-    docid:
-    - id: ISO/ IEC
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ISO/ IEC
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEE802.3-2018
@@ -92,16 +85,23 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
+- type: updates
   bibitem:
-    id: ISO-IEC
+    id: IEEE802.3-2018
     docid:
-    - id: ISO/ IEC
+    - id: IEEE 802.3-2018
       type: IEEE
       primary: true
     formattedref:
-      content: ISO/ IEC
+      content: IEEE 802.3-2018
       format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Ethernet
@@ -125,6 +125,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Superseded
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

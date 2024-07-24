@@ -2,12 +2,11 @@
 schema-version: v1.2.3
 id: IEEE605-2008
 title:
-- content: IEEE Guide for Specifications of High-Voltage Circuit Breakers (over 1000
-    Volts)
+- content: IEEE Guide for Bus Design in Air Insulated Substations
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/4811155
+- content: https://ieeexplore.ieee.org/document/6581801
   type: src
 type: standard
 docid:
@@ -18,16 +17,18 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-0-7381-5883-9
+- id: 978-0-7381-5857-0
   type: ISBN
-- id: 10.1109/IEEESTD.2008.4811155
+- id: 10.1109/IEEESTD.2010.6581801
   type: DOI
 docnumber: IEEE 605-2008
 date:
+- type: updated
+  value: '2013-10-04'
 - type: created
-  value: '2009'
+  value: '2010-05-14'
 - type: published
-  value: '2022-02-24'
+  value: '2013-08-15'
 - type: issued
   value: '2008-12-10'
 contributor:
@@ -37,27 +38,31 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-    contact:
-    - address:
-        city: New York
-        country: USA
   role:
   - type: publisher
-revdate: '2022-02-24'
+revdate: '2013-08-15'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: These specifications apply to all indoor and outdoor types of ac high-voltage
-    circuit breakers rate above 1000 volts. this document is issued only as a guide
-    for use in compiling specifications for ac high-voltage circuit breakers. the
-    imperative mode of the language is illustrative of that used in specifications.
+- content: A proper design of the substation bus ensures a safe and reliable operation
+    of the substation and the power system. Two different types of buses are used
+    in substations, the rigid bus and the strain (cable). This guide provides information
+    on the different bus arrangements used in substations stating the advantages and
+    disadvantages of each. Also it provides information as related to each bus type
+    and construction. Once the bus type is selected, this guide provides the calculation
+    tools for each bus type. Based on these calculations, the engineer can specify
+    the bus size, forces acting on the bus structure, number of mounting structures
+    required, and hardware requirements.
   language:
   - en
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -65,38 +70,8 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2009'
+  from: '2010'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEEC37.12-2018
-    docid:
-    - id: IEEE C37.12-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.12-2018
-      format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEEC37.12-2018
-    docid:
-    - id: IEEE C37.12-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.12-2018
-      format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEEC37.12-2018
-    docid:
-    - id: IEEE C37.12-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.12-2018
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEE605-1998
@@ -114,46 +89,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEEC37.12-2018
-    docid:
-    - id: IEEE C37.12-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.12-2018
-      format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEEC37.12-2018
-    docid:
-    - id: IEEE C37.12-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.12-2018
-      format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEEC37.12-2018
-    docid:
-    - id: IEEE C37.12-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.12-2018
-      format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEEC37.12-2018
-    docid:
-    - id: IEEE C37.12-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.12-2018
-      format: text/plain
 - type: obsoletedBy
   bibitem:
     id: IEEEC37.12-2018
@@ -270,42 +205,38 @@ relation:
     - Latn
     format: text/plain
 keyword:
-- content: IEEE Standards
-- content: High-voltage techniques
+- content: IEEE standards
+- content: Finite element methods
+- content: Corona
 - content: Circuit breakers
-- content: Interrupters
-- content: Capacitance
-- content: Power frequency
-- content: Fault diagnosis
-- content: C37.12-2008
-- content: capacitance current switching
-- content: circuit breaker
-- content: dielectric withstand
-- content: fast transient recovery voltage
-- content: high-voltage
-- content: indoor
-- content: initial
-- content: interrupting time
-- content: manufacturer
-- content: mechanical endurance
-- content: operating duty
-- content: outdoor
-- content: power frequency
-- content: purchaser
-- content: ratings
-- content: related capabilities
-- content: short-circuit current
-- content: short-line fault
-- content: specification.
+- content: Short circuits
+- content: Ampacity
+- content: Ice
+- content: Substations
+- content: Insulation
+- content: ampacity
+- content: bus support
+- content: corona
+- content: electromagnetic
+- content: finite-element
+- content: forces
+- content: ice
+- content: mounting structure
+- content: rigid bus structures
+- content: short circuit
+- content: strain-bus structures
+- content: substation design
+- content: wind
 doctype: standard
 editorialgroup:
   committee:
-  - Switchgear of the IEEE Power and Energy Society
+  - Substations of the IEEE Power and Energy Society
 ics:
-- code: 01.040.11
-  text: Health care technology (Vocabularies)
+- code: '31.200'
+  text: Integrated circuits. Microelectronics
 ext:
   schema-version: v1.0.0
-  standard_status: Superseded
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

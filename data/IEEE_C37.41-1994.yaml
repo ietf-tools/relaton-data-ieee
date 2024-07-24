@@ -69,16 +69,6 @@ copyright:
     url: http://www.ieee.org
   from: '1995'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEEC37.41-2000
-    docid:
-    - id: IEEE C37.41-2000
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.41-2000
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEEC37.41-1988
@@ -96,6 +86,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEEC37.41-2000
+    docid:
+    - id: IEEE C37.41-2000
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.41-2000
+      format: text/plain
 keyword:
 - content: Circuit breakers
 - content: Fuses

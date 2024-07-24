@@ -360,6 +360,23 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1680.2-2012
+    docid:
+    - id: IEEE 1680.2-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1680.2-2012
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Imaging
@@ -388,7 +405,7 @@ keyword:
 doctype: standard
 editorialgroup:
   committee:
-  - Standards Activities Board Standards Committee of the IEEE Computer Society
+  - Standards Activities Board of the IEEE Computer Society
 ics:
 - code: 13.020.30
   text: Environmental impact assessment
@@ -396,7 +413,7 @@ ics:
   text: Microprocessor systems
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold
