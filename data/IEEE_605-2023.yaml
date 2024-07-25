@@ -1,0 +1,128 @@
+---
+schema-version: v1.2.3
+id: IEEE605-2023
+title:
+- content: IEEE Guide for Bus Design in Air Insulated Substations
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10608043
+  type: src
+type: standard
+docid:
+- id: IEEE 605-2023
+  type: IEEE
+  primary: true
+- id: IEEE 605™-2023
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-0689-5
+  type: ISBN
+- id: 10.1109/IEEESTD.2024.10608043
+  type: DOI
+docnumber: IEEE 605-2023
+date:
+- type: created
+  value: '2024'
+- type: published
+  value: '2024-07-23'
+- type: issued
+  value: '2023-12-06'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2024-07-23'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: 'A proper design of the substation bus is aimed towards a safe and reliable
+    operation of the substation and the power system. Two different types of buses
+    are used in substations: the rigid bus and the strain (cable). Information is
+    provided by this guide on the different bus arrangements used in substations stating
+    the advantages and disadvantages of each. Information as related to each bus type
+    and construction is also provided. Once the bus type is selected, the calculation
+    tools for each bus type are provided by this guide. Based on these calculations,
+    the bus size, forces acting on the bus structure, the number of mounting structures
+    required, and hardware requirements can be specified by the engineer.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2024'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE605-2008
+    docid:
+    - id: IEEE 605-2008
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 605-2008
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Corona
+- content: Electromagnetics
+- content: Finite element analysis
+- content: Short-circuit currents
+- content: Substations
+- content: Insulation testing
+- content: ampacity
+- content: bus support
+- content: corona
+- content: electromagnetic
+- content: finite-element
+- content: forces
+- content: ice
+- content: IEEE 605&#8482;
+- content: mounting structure
+- content: rigid bus structures
+- content: short circuit
+- content: strain-bus structures
+- content: substation design
+- content: wind
+doctype: standard
+editorialgroup:
+  committee:
+  - Substations Committee of the IEEE Power and Energy Society
+ics:
+- code: '31.200'
+  text: Integrated circuits. Microelectronics
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Approved
+  pubstatus: Active
+  holdstatus: Publish
