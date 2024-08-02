@@ -27,7 +27,7 @@ date:
 - type: created
   value: '2024-01-12'
 - type: published
-  value: '2024-01-11'
+  value: '2024-01-10'
 - type: issued
   value: '2023-11-08'
 contributor:
@@ -43,7 +43,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2024-01-11'
+revdate: '2024-01-10'
 language:
 - en
 script:
@@ -74,6 +74,23 @@ copyright:
     url: http://www.ieee.org
   from: '2024'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE11073.10101-2019
+    docid:
+    - id: IEEE 11073.10101-2019
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 11073.10101-2019
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE11073.10101-2019
@@ -167,6 +184,8 @@ editorialgroup:
   - IEEE 11073 Standards Committee of the IEEE Engineering in Medicine and Biology
     Society
 ics:
+- code: 01.040.35
+  text: Information technology (Vocabularies)
 - code: 35.240.80
   text: IT applications in health care technology
 ext:

@@ -95,6 +95,23 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1730.1-2013
+    docid:
+    - id: IEEE 1730.1-2013
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1730.1-2013
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Systems engineering and theory
@@ -125,8 +142,8 @@ editorialgroup:
   - Simulation Interoperability Stds Organization/Stds Activity Committee of the IEEE
     Computer Society
 ics:
-- code: '35.080'
-  text: Software
+- code: 35.240.99
+  text: IT applications in other fields
 ext:
   schema-version: v1.0.0
   standard_status: Active

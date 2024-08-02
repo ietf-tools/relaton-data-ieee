@@ -69,23 +69,6 @@ copyright:
     url: http://www.ieee.org
   from: '2006'
 relation:
-- type: updates
-  bibitem:
-    id: IEEEC57.106-2002
-    docid:
-    - id: IEEE C57.106-2002
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C57.106-2002
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: obsoletedBy
   bibitem:
     id: IEEEC57.106-2015
@@ -123,6 +106,23 @@ relation:
     formattedref:
       content: IEEE C57.106-2015
       format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC57.106-2002
+    docid:
+    - id: IEEE C57.106-2002
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C57.106-2002
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: insulation testing
 - content: load tap changers

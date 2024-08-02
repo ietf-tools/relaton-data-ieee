@@ -2,9 +2,9 @@
 schema-version: v1.2.3
 id: IEC-IEEEFDISP62582.4-2022-06
 title:
-- content: 'IEC/IEEE Draft International Standard - Nuclear power plants - Instrumentation
-    and control important to safety - Electrical equipment condition monitoring methods
-    - Part 4: Oxidation induction techniques'
+- content: 'IEC/IEEE Approved Draft International Standard - Nuclear power plants
+    - Instrumentation and control important to safety - Electrical equipment condition
+    monitoring methods - Part 4: Oxidation induction techniques'
   format: text/plain
   type: main
 link:
@@ -26,9 +26,9 @@ date:
 - type: created
   value: '2022'
 - type: published
-  value: '2022-06-10'
+  value: '2022-06-09'
 - type: issued
-  value: '2022'
+  value: '2022-09-21'
 contributor:
 - organization:
     name:
@@ -42,11 +42,18 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-06-10'
+revdate: '2022-06-09'
 language:
 - en
 script:
 - Latn
+abstract:
+- content: This standard contains both English and French
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -61,142 +68,6 @@ copyright:
     - content: IEC
   from: '2022'
 relation:
-- type: updates
-  bibitem:
-    id: IEC-IEEE62582.4-2011
-    docid:
-    - id: IEC/IEEE 62582.4-2011
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEC/IEEE 62582.4-2011
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEC-IEEE62582.4-2011
-    docid:
-    - id: IEC/IEEE 62582.4-2011
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEC/IEEE 62582.4-2011
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEC-IEEE62582.4-2011
-    docid:
-    - id: IEC/IEEE 62582.4-2011
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEC/IEEE 62582.4-2011
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEC-IEEE62582.4-2011
-    docid:
-    - id: IEC/IEEE 62582.4-2011
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEC/IEEE 62582.4-2011
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEC-IEEE62582.4-2011
-    docid:
-    - id: IEC/IEEE 62582.4-2011
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEC/IEEE 62582.4-2011
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEC-IEEE62582.4-2011
-    docid:
-    - id: IEC/IEEE 62582.4-2011
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEC/IEEE 62582.4-2011
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEC-IEEE62582.4-2011
-    docid:
-    - id: IEC/IEEE 62582.4-2011
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEC/IEEE 62582.4-2011
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEC-IEEE62582.4-2011
-    docid:
-    - id: IEC/IEEE 62582.4-2011
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEC/IEEE 62582.4-2011
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: updates
   bibitem:
     id: IEC-IEEE62582.4-2011
@@ -232,7 +103,7 @@ ics:
   text: Nuclear power plants. Safety
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

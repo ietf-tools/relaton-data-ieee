@@ -60,6 +60,9 @@ abstract:
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -90,14 +93,15 @@ keyword:
 doctype: standard
 editorialgroup:
   committee:
-  - Data Compression Standards Committee of the IEEE Computer Society
+  - Standards Activities Board of the IEEE Computer Society
 ics:
 - code: 33.040.40
   text: Data communication networks
 - code: '35.040'
-  text: Information coding
+  text: Character sets and information coding
 ext:
   schema-version: v1.0.0
-  standard_status: Superseded
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

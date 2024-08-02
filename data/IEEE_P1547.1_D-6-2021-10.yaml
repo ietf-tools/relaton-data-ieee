@@ -25,9 +25,9 @@ date:
 - type: created
   value: '2021-10-18'
 - type: published
-  value: '2021-10-25'
+  value: '2021-10-26'
 - type: issued
-  value: '2021'
+  value: '2022-05-13'
 contributor:
 - organization:
     name:
@@ -41,7 +41,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2021-10-25'
+revdate: '2021-10-26'
 language:
 - en
 script:
@@ -88,40 +88,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1597.1-2008
-    docid:
-    - id: IEEE 1597.1-2008
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1597.1-2008
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1597.1-2008
-    docid:
-    - id: IEEE 1597.1-2008
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1597.1-2008
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Computational modeling
@@ -137,6 +103,7 @@ keyword:
 - content: convergence
 - content: electromagnetic compatibility
 - content: electromagnetic interference
+- content: IEEE 1597.1&#8482;
 - content: modeling and simulation
 - content: numerical techniques
 - content: radar cross section
@@ -148,8 +115,8 @@ editorialgroup:
   committee:
   - Standards Development Committee of the IEEE Electromagnetic Compatibility Society
 ics:
-- code: 33.100.10
-  text: Emission
+- code: 35.240.50
+  text: IT applications in industry
 ext:
   schema-version: v1.0.0
   standard_status: Inactive

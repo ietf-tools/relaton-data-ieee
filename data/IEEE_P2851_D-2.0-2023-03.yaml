@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2023-05-10'
 - type: issued
-  value: '2023-09-21'
+  value: '2023'
 contributor:
 - organization:
     name:
@@ -47,15 +47,28 @@ language:
 script:
 - Latn
 abstract:
-- content: A dependability lifecycle of products with focus on interoperable activities
-    related to functional safety and its interactions with reliability, security,
-    operational safety and time determinism are defined in this standard. The standard
-    also describes methods, description languages, data models, and database schema
-    that have been identified as necessary or critical, to enable the exchange/interoperability
-    of data across all steps of the lifecycle encompassing activities executed at
-    intellectual property (IP), system-on-chip (SoC), system and item levels, in a
-    way that allows integration in different application domains such as automotive,
-    industrial, medical and avionics safety critical systems.
+- content: The development of dependable systems is rapidly growing due to the expansion
+    of new applications such as automated driving or autonomous mobile robotics. Standards
+    such as ISO 26262 (automotive https://www.iso.org/standard/68383.html), IEC 61508
+    (https://www.iec.ch/functionalsafety/), and many others define the complete set
+    of activities that need to be performed, requiring companies at different levels
+    of the supply chain to tailor the lifecycle activities that apply to them and
+    deliver results to other levels of the chain for which other requirements are
+    applicable. However, currently, there are no common methods, languages, or formats
+    to exchange the relevant data. As a result of this gap, companies are struggling
+    with many different types of methods and description languages and are investing
+    valuable time and effort to reconsolidate, compare, integrate, and combine the
+    data. For this reason, the safety critical community is urgently asking for a
+    solution to accelerate the safety engineering process while reducing risks and
+    costs. The IEEE P2851 standardization initiative was started to define a dependability
+    lifecycle as well as methods and formats for exchange/interoperability of data
+    across all steps of the lifecycle in a consistent way. Additionally, the work
+    products of this standardization initiative are expected to help enable interoperability
+    between tools. The goal of this work is to provide structures and directions to
+    allow a seamless exchange of information and interoperability between activities
+    at the same or different level of abstraction, as well as activities across lifecycles
+    related to different dependability attributes across application domains such
+    as automotive, industrial, medical and avionics safety critical systems.
   language:
   - en
   script:
@@ -78,19 +91,11 @@ keyword:
 - content: Interoperability
 - content: dependability
 - content: functional safety
-- content: IEEE 2851&#8482;
 - content: interoperability
 doctype: standard
 editorialgroup:
   committee:
   - Functional Safety Standards Committee of the IEEE Computer Society
-ics:
-- code: 03.120.10
-  text: Quality management and quality assurance
-- code: '35.080'
-  text: Software
-- code: '43.020'
-  text: Road vehicles in general
 ext:
   schema-version: v1.0.0
   standard_status: Inactive

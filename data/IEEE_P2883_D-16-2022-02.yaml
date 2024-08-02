@@ -26,7 +26,7 @@ date:
 - type: published
   value: '2022-02-24'
 - type: issued
-  value: '2022'
+  value: '2022-06-16'
 contributor:
 - organization:
     name:
@@ -46,9 +46,9 @@ language:
 script:
 - Latn
 abstract:
-- content: Methods of sanitizing logical storage 1 and physical storage as well as
+- content: Methods of sanitizing logical storage and physical storage, as well as
     providing technology-specific requirements and guidance for the elimination of
-    recorded data is specified in this standard.
+    recorded data, are specified in this standard.
   language:
   - en
   script:
@@ -70,22 +70,27 @@ keyword:
 - content: Computer security
 - content: Storage management
 - content: clear
-- content: data destruct
 - content: crypto erase
 - content: cryptographic erase
 - content: crypto scramble
+- content: data destruct
 - content: data removal
 - content: destroy
-- content: IEEE 2883&#8482;
+- content: IEEE 2883
 - content: media sanitization
 - content: purge
-- content: sanitize
 - content: sanitization
+- content: sanitize
 - content: security
 doctype: standard
 editorialgroup:
   committee:
   - Cybersecurity and Privacy Standards Committee of the IEEE Computer Society
+ics:
+- code: '35.160'
+  text: Microprocessor systems
+- code: 35.220.01
+  text: Data storage devices in general
 ext:
   schema-version: v1.0.0
   standard_status: Inactive

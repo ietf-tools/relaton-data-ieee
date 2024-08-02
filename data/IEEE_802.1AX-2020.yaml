@@ -23,6 +23,8 @@ docid:
   type: DOI
 docnumber: IEEE 802.1AX-2020
 date:
+- type: updated
+  value: '2020-06-19'
 - type: created
   value: '2020-05-29'
 - type: published
@@ -70,6 +72,40 @@ copyright:
     url: http://www.ieee.org
   from: '2020'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE802.1AX-2014
+    docid:
+    - id: IEEE 802.1AX-2014
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1AX-2014
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.1AX-2014
+    docid:
+    - id: IEEE 802.1AX-2014
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1AX-2014
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE802.1AX-2014

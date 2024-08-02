@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: IEEEP2410.2021-D-10-2021-02
 title:
-- content: IEEE Approved Draft Standard for Biometric Privacy
+- content: IEEE Draft Standard for Biometric Privacy
   format: text/plain
   type: main
 link:
@@ -22,7 +22,7 @@ docid:
 docnumber: IEEE P2410.2021/D-10-2021-02
 date:
 - type: created
-  value: '2021'
+  value: '2021-02-11'
 - type: published
   value: '2021-02-12'
 - type: issued
@@ -47,7 +47,7 @@ script:
 - Latn
 abstract:
 - content: The Standard for Biometric Privacy (SBP) provides private identity assertion.
-    SBP enhances and extends the prior IEEE 2410-2019 by including a formal specification
+    SBP supersedes the prior IEEE Std 2410(TM)-2019 by including a formal specification
     for privacy and biometrics such that a conforming SBP system does not incur GDPR,
     CCPA, BIPA or HIPAA privacy obligations. Homomorphic encryption ensures the biometric
     payload is always one-way encrypted with no need for key management and provides
@@ -60,9 +60,9 @@ abstract:
     or a search engine. The SBP implementation functionality offers a “point-and-cut”
     mechanism to add the appropriate security to the production systems as well as
     to the systems in development. The architecture is language neutral, allowing
-    Representational State Transfer (REST), JavaScript Object Notation (JSON), and
-    Secure Sockets Layer (SSL) or Transport Layer Security to provide the communication
-    interface. This document describes the essential methodology to SBP.
+    Representational State Transfer (REST ), JavaScript Object Notation (JSON), and
+    Transport Layer Security (TLS) to provide the communication interface. This document
+    describes the essential methodology to SBP.
   language:
   - en
   script:
@@ -114,63 +114,29 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE2410-2019
-    docid:
-    - id: IEEE 2410-2019
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 2410-2019
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE2410-2019
-    docid:
-    - id: IEEE 2410-2019
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 2410-2019
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Biometrics
 - content: Privacy
 - content: Servers
-- content: biometrics
-- content: privacy
 - content: admin console
 - content: application
-- content: SBP admin
-- content: SBP cluster
-- content: SBP server
-- content: SBP IDS
+- content: biometric-driven device
+- content: biometrics
+- content: privacy
 - content: client device IDS
-- content: Jena Rules
 - content: IDS cluster
-- content: IEEE 2410
+- content: IEEE Std 2410(TM)
+- content: Jena Rules
 - content: liveness
 - content: original site admin
+- content: SBP admin
+- content: SBP cluster
+- content: SBP IDS
+- content: SBP server
 - content: site admin
 - content: trusted adjudicated data
 - content: user
-- content: user device
 doctype: standard
 editorialgroup:
   committee:
@@ -181,7 +147,7 @@ ics:
   text: Identification cards. Chip cards. Biometrics
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

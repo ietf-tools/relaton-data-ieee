@@ -25,9 +25,9 @@ date:
 - type: created
   value: '2023'
 - type: published
-  value: '2023-06-28'
+  value: '2023-06-29'
 - type: issued
-  value: '2023-09-21'
+  value: '2023'
 contributor:
 - organization:
     name:
@@ -41,17 +41,16 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-06-28'
+revdate: '2023-06-29'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The YANG module containing the EtherType information, including a compact
-    humanreadable name and description, for a subset of EtherTypes taken from the
-    IEEE Registration Authority EtherType public listing is specified in this amendment.
-    This amendment also addresses errors and omissions in IEEE Std 802 description
-    of existing functionality.
+- content: This amendment specifies a YANG module containing the EtherType information,
+    including a compact human-readable name and description, for a subset of EtherTypes
+    taken from the IEEE Registration Authority EtherType public listing. This amendment
+    also addresses errors and omissions in IEEE Std 802 description of existing functionality.
   language:
   - en
   script:
@@ -103,40 +102,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE802-2014
-    docid:
-    - id: IEEE 802-2014
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802-2014
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE802-2014
-    docid:
-    - id: IEEE 802-2014
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802-2014
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Local area networks
@@ -150,7 +115,6 @@ keyword:
 - content: body area networks
 - content: EtherTypes
 - content: IEEE 802&#174;
-- content: IEEE 802f&#8482;
 - content: IEEE 802 architecture
 - content: IEEE 802 reference model
 - content: LANs
@@ -174,7 +138,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

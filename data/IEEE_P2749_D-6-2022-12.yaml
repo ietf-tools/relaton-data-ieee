@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: IEEEP2749-D-6-2022-12
 title:
-- content: IEEE Approved Draft Recommended Practice for Risk Identification and Evaluation
+- content: IEEE Draft Recommended Practice for Risk Identification and Evaluation
     of Smart Power Distribution System
   format: text/plain
   type: main
@@ -23,7 +23,7 @@ docid:
 docnumber: IEEE P2749/D-6-2022-12
 date:
 - type: created
-  value: '2023'
+  value: '2023-01-06'
 - type: published
   value: '2023-01-09'
 - type: issued
@@ -47,16 +47,16 @@ language:
 script:
 - Latn
 abstract:
-- content: This recommended practice presents the risk factors that should be considered
-    for the planning, operation, and maintenance of the distribution network. It also
-    provides the approaches and practices for risk identification and evaluation,
+- content: The risk factors that should be considered for the planning, operation,
+    and maintenance of the distribution network are presented in this recommended
+    practice. The approaches and practices for risk identification and evaluation,
     including the identification of risk factors and events, classification of risk
     types, evaluation of equipment and network risks, as well as the grading, warning,
-    prevention measures, dynamic tracking, and simulation of risks. This recommended
-    practice can be applied to the operation risk evaluation and guides the planning,
-    construction, and maintenance of conventional power systems, microgrids, and smart
-    distribution networks with high penetration of distributed energy resources (DER),
-    and flexible loads.
+    prevention measures, dynamic tracking, and simulation of risks are also provided.
+    This recommended practice can be applied to the operation risk evaluation and
+    guides the planning, construction, and maintenance of conventional power systems,
+    microgrids, and smart distribution networks with high penetration of distributed
+    energy resources (DER), and flexible loads.
   language:
   - en
   script:
@@ -85,17 +85,21 @@ keyword:
 - content: Distributed power generation
 - content: Load modeling
 - content: distribution network
-- content: risk identification
-- content: risk warning
-- content: risk simulation
+- content: IEEE 2749&#8482;
 - content: proactive defense
+- content: risk identification
+- content: risk simulation
+- content: risk warning
 doctype: standard
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society
+ics:
+- code: 29.240.99
+  text: Other equipment related to power transmission and distribution networks
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

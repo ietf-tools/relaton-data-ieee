@@ -49,6 +49,20 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: This amendment defines standardized modifications to both the IEEE Std
+    802.11 physical layers (PHY) and the Medium Access Control Layer (MAC) that enable
+    at least one mode of operation capable of supporting a maximum throughput of at
+    least 30 Gbit/s, as measured at the MAC data service access point (SAP), with
+    carrier frequency operation between 1 and 7.250 GHz while ensuring backward compatibility
+    and coexistence with legacy IEEE Std 802.11 compliant devices operating in the
+    2.4 GHz, 5 GHz, and 6 GHz bands. This amendment defines at least one mode of operation
+    capable of improved worst case latency and jitter.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -106,7 +120,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

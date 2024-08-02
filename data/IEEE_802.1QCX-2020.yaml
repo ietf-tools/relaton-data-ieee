@@ -24,8 +24,6 @@ docid:
   type: DOI
 docnumber: IEEE 802.1Qcx-2020
 date:
-- type: updated
-  value: '2020-11-01'
 - type: created
   value: '2020-10-05'
 - type: published
@@ -61,9 +59,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -73,6 +68,23 @@ copyright:
     url: http://www.ieee.org
   from: '2020'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE802.1Q-2018
+    docid:
+    - id: IEEE 802.1Q-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1Q-2018
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE802.1Q-2018
@@ -121,7 +133,6 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Superseded
   pubstatus: Active
   holdstatus: Publish

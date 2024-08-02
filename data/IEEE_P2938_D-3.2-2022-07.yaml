@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2022-09-30'
 - type: issued
-  value: '2022'
+  value: '2023-03-30'
 contributor:
 - organization:
     name:
@@ -48,8 +48,8 @@ script:
 - Latn
 abstract:
 - content: The production process of sensitive users is easy to interrupt due to voltage
-    sag, resulting in a lot of economic losses. This document provides a method to
-    evaluate the economic losses of sensitive industrial users due to voltage sag.
+    sag, resulting in a lot of economic losses. A method to evaluate the economic
+    losses of sensitive industrial users due to voltage sag is provided in this guide.
     This document specifies the costs of power quality monitoring and voltage sag
     mitigation projects for power users, proposes the economic loss indexes due to
     voltage sag, and introduces the technical and economic evaluation method of voltage
@@ -78,24 +78,27 @@ keyword:
 - content: Power quality
 - content: Power system economics
 - content: Voltage control
-- content: voltage sag
-- content: IEEE 2938TM
-- content: power quality
-- content: economic loss
 - content: economy evaluation
-- content: sensitive industry
-- content: sensitive equipment
-- content: voltage tolerance curve
-- content: voltage sag mitigation
-- content: industry process
+- content: economic loss
 - content: equipment trip
+- content: IEEE 2938
+- content: industry process
+- content: power quality
+- content: sensitive equipment
+- content: sensitive industry
+- content: voltage sag
+- content: voltage sag mitigation
+- content: voltage tolerance curve
 doctype: standard
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society
+ics:
+- code: 29.240.99
+  text: Other equipment related to power transmission and distribution networks
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

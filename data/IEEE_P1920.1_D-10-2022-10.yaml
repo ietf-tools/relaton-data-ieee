@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: IEEEP1920.1-D-10-2022-10
 title:
-- content: IEEE Approved Draft Trial-Use Standard for Aerial Ad Hoc Networks
+- content: IEEE Draft Trial-Use Standard for Aerial Ad Hoc Networks
   format: text/plain
   type: main
 link:
@@ -22,11 +22,11 @@ docid:
 docnumber: IEEE P1920.1/D-10-2022-10
 date:
 - type: created
-  value: '2022-12-08'
+  value: '2022-10-18'
 - type: published
-  value: '2023-04-21'
+  value: '2022-10-20'
 - type: issued
-  value: '2022-12-03'
+  value: '2022'
 contributor:
 - organization:
     name:
@@ -40,19 +40,25 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-04-21'
+revdate: '2022-10-20'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: IEEE Std 1920.1 defines air-to-air communications for self-organized ad
-    hoc aerial networks. It outlines the network service architecture, security framework,
-    and data model. IEEE Std 1920.1 is agnostic to the type of network (Wireless or
-    Cellular or other) and it is applicable to manned and unmanned, small and large,
-    and civil and commercial aircraft systems. IEEE Std 1920.1 is the first in the
-    series of IEEE P1920.X standards. It is anticipated that IEEE Std 1920.1 will
-    be used as a foundation to define more specific standards in this series.
+- content: 'IEEE Std P1920.1TM defines air-to-air communications for self-organized
+    ad hoc aerial networks. It outlines the network service architecture, security
+    framework, and data model. IEEE Std P1920.1 is agnostic to the type of network
+    (Wireless or Cellular or other) and it is applicable to crewed and uncrewed, small
+    and large, and civil and commercial aircraft systems. IEEE Std P1920.1 is the
+    first in the series of IEEE P1920.X standards. It is anticipated that IEEE Std
+    P1920.1 will be used as a foundation to define more specific standards in this
+    series. For example, the development of IEEE Std P1920.2: Vehicle-to-Vehicle Communications
+    is currently taking place. This document contains seven clauses. The first three
+    clauses provide an introduction and important information about IEEE Std P1920.1.
+    The fourth clause presents an overview of aerial ad hoc networks. The fifth clause
+    addresses network architecture, and the sixth clause addresses security architecture.
+    The seventh clause outlines the data model with a set typical use cases.'
   language:
   - en
   script:
@@ -75,20 +81,19 @@ keyword:
 - content: Ad hoc networks
 - content: Line-of-sight propagation
 - content: Self-organizing networks
-- content: aerial networks
-- content: ad hoc network
-- content: beyond radio line-of-sight communications (BRLOS)
-- content: IEEE 1920.1
-- content: self-organized aerial networks (SOANs)
-- content: unmanned aircraft (UA)
-- content: unmanned aircraft systems (UAS)
+- content: Aerial Networks
+- content: Ad Hoc Network
+- content: Beyond Radio Line-of-Sight Communications (BRLOS)
+- content: Uncrewed Aircraft (UA)
+- content: Uncrewed Aircraft Systems (UAS)
+- content: Self-Organized Aerial Networks (SOANs).
 doctype: standard
 editorialgroup:
   committee:
   - Mobile Communication Networks Standards Committee of the IEEE Communications Society
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

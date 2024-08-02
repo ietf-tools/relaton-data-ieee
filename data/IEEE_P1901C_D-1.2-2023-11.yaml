@@ -2,9 +2,10 @@
 schema-version: v1.2.3
 id: IEEEP1901c-D-1.2-2023-11
 title:
-- content: 'IEEE Draft Standard for Broadband over Power Line Networks: Medium Access
-    Control and Physical Layer Specifications Amendment 3: Enhanced Flexible Channel
-    Wavelet (FCW) physical and media access control layers for use on any media'
+- content: 'IEEE Approved Draft Standard for Broadband over Power Line Networks: Medium
+    Access Control and Physical Layer Specifications Amendment 3: Enhanced Flexible
+    Channel Wavelet (FCW) physical and media access control layers for use on any
+    media'
   format: text/plain
   type: main
 link:
@@ -24,11 +25,11 @@ docid:
 docnumber: IEEE P1901c/D-1.2-2023-11
 date:
 - type: created
-  value: '2023-11-27'
+  value: '2024-02-21'
 - type: published
   value: '2023-11-28'
 - type: issued
-  value: '2023'
+  value: '2024-02-15'
 contributor:
 - organization:
     name:
@@ -89,57 +90,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1901-2020
-    docid:
-    - id: IEEE 1901-2020
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1901-2020
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1901-2020
-    docid:
-    - id: IEEE 1901-2020
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1901-2020
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1901-2020
-    docid:
-    - id: IEEE 1901-2020
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1901-2020
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Power transmission lines
@@ -150,23 +100,24 @@ keyword:
 - content: Smart cities
 - content: Energy management
 - content: Channel capacity
-- content: extended flexible channel wavelet (FCW) PHY/MAC
-- content: physical layer (PHY)
-- content: medium access control (MAC)
-- content: wavelet orthogonal frequency division multiplexing (wavelet OFDM)
-- content: Internet of Things (IoT)
 - content: any media
-- content: power lines
-- content: coaxial cables
-- content: signal cables
-- content: underwater communication
-- content: near field communication
-- content: IEEE Std 1588
-- content: precision time protocol (PTP)
 - content: channel notification
+- content: coaxial cables
+- content: extended flexible channel wavelet (FCW) PHY/MAC
+- content: IEEE Std 1588
+- content: IEEE Std 1901
+- content: Internet of Things (IoT)
+- content: medium access control (MAC)
+- content: near field communication
+- content: physical layer (PHY)
+- content: power lines
+- content: precision time protocol (PTP)
+- content: signal cables
 - content: smart city
-- content: smart grid
 - content: smart energy
+- content: smart grid
+- content: underwater communication
+- content: wavelet orthogonal frequency division multiplexing (wavelet OFDM)
 doctype: standard
 editorialgroup:
   committee:
@@ -176,7 +127,7 @@ ics:
   text: Powerline telecommunications
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: IEEEP1722.1-D-13-2021-09
 title:
-- content: IEEE Approved Draft Standard for Device Discovery, Connection Management,
-    and Control Protocol for Time-Sensitive Networking Systems
+- content: IEEE Draft Standard for Device Discovery, Connection Management, and Control
+    Protocol for Time-Sensitive Networking Systems
   format: text/plain
   type: main
 link:
@@ -23,11 +23,11 @@ docid:
 docnumber: IEEE P1722.1/D-13-2021-09
 date:
 - type: created
-  value: '2021-11-11'
+  value: '2021'
 - type: published
   value: '2021-09-10'
 - type: issued
-  value: '2021-11-09'
+  value: '2021'
 contributor:
 - organization:
     name:
@@ -49,7 +49,7 @@ script:
 abstract:
 - content: This standard specifies the protocol, device discovery, connection management
     and device control procedures used to facilitate interoperability between audio
-    and video based End Stations that use IEEE 1722 based Streams on IEEE 802 based
+    and video based End Stations that use IEEE 1722 based Streams on IEEE 802(R) based
     networks.
   language:
   - en
@@ -85,23 +85,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1722.1-2013
-    docid:
-    - id: IEEE 1722.1-2013
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1722.1-2013
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Local area networks
@@ -112,15 +95,15 @@ keyword:
 - content: ATDECC
 - content: bridged LAN
 - content: IEC 61883
-- content: IEEE 802.1 AVB protocols
-- content: IEEE 802.1BA
-- content: IEEE 1722.1
-- content: IEEE Std 802.1AS 2011
-- content: IEEE Std 802.1AS 2020
-- content: IEEE Std 802.1Q 2011
-- content: IEEE Std 802.1Q 2018
-- content: IEEE Std 1722 2011
-- content: IEEE Std 1722 2016
+- content: IEEE 802.1&#8482; AVB protocols
+- content: IEEE 802.1BA&#8482;
+- content: IEEE 1722.1&#8482;
+- content: IEEE Std 802.1AS&#8482;2011
+- content: IEEE Std 802.1AS&#8482;2020
+- content: IEEE Std 802.1Q&#8482;2011
+- content: IEEE Std 802.1Q&#8482;2018
+- content: IEEE Std 1722&#8482;2011
+- content: IEEE Std 1722&#8482;2016
 - content: LAN
 - content: QoS
 - content: time sensitive media streaming
@@ -134,7 +117,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

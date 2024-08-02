@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: IEEEP2030.13-D-2.8-2023-12
 title:
-- content: IEEE Draft Guide for Electric Transportation Fast Charging Station Management
-    System Functional Specification
+- content: IEEE Approved Draft Guide for Electric Transportation Fast Charging Station
+    Management System Functional Specification
   format: text/plain
   type: main
 link:
@@ -23,11 +23,11 @@ docid:
 docnumber: IEEE P2030.13/D-2.8-2023-12
 date:
 - type: created
-  value: '2023-12-14'
+  value: '2024'
 - type: published
-  value: '2023-12-20'
+  value: '2023-12-19'
 - type: issued
-  value: '2023'
+  value: '2024-03-21'
 contributor:
 - organization:
     name:
@@ -41,27 +41,25 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-12-20'
+revdate: '2023-12-19'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This guide develops a functional specification for fast charging stations
-    (FCS) for electric vehicles (EV) and electric transportation systems in general.
-    The primary role of the FCS is to aggregate multiple fast chargers and local assets,
-    and to coordinate their operation and energy management. The FCS may incorporate
-    local distributed energy resources (DER), including renewable energy resources,
-    such as solar photovoltaic (PV) generation, and other DER, such as battery energy
-    storage systems and controllable loads. The inclusion of these resources allows
-    the FCS to be configured as a microgrid. The guide develops the basic functional
-    requirements for FCS control system as two sets of core functions, associated
-    with an energy management system and a charge management system. The core functions
-    include discovery and evaluation of charging requirements of EV batteries; monitoring
-    and control of charging profiles; estimation of available and required energy;
-    energy scheduling and management; electric power system interaction and power
-    exchange management. Grid interconnection requirements, and grid and ancillary
-    services provision, are addressed.
+- content: A guide for the development of a functional specification for electric
+    transportation fast charging station management and control systems, including
+    the energy management and grid interaction functions, is provided in this document.
+    The fast charging station may incorporate local energy sources, including renewable
+    energy resources such as solar photovoltaic (PV) generation, and battery energy
+    storage systems. The document develops guiding principles for the implementation
+    and deployment of fast charging station control systems and the basic functional
+    requirements for the control system and presents a set of core functions. These
+    include electric transportation energy storage discovery and evaluation of charging
+    requirements; monitoring and control of charging profiles; charging station energy
+    estimation, energy scheduling, and management; and charging station grid interaction
+    and grid power exchange management. Grid code requirements and ancillary services
+    provision are addressed.
   language:
   - en
   script:
@@ -87,29 +85,28 @@ keyword:
 - content: Electric vehicles
 - content: Transportation
 - content: Charging stations
-- content: Ancillary services
+- content: ancillary services
 - content: battery energy storage system
 - content: charge management system
 - content: distributed energy resources
-- content: electric transportation system
 - content: electric power system interconnection
-- content: electric vehicles
-- content: electric transportation systems
+- content: electric transportation system
+- content: electric vehicle battery charging
 - content: energy management system
 - content: fast charging station
 - content: fast charger
 - content: grid services
+- content: IEEE 2030.7
+- content: IEEE 2030.11
+- content: IEEE 2030.13
 - content: microgrid
-- content: IEEE 2030.7TM
-- content: IEEE 2030.11TM
-- content: IEEE 2030.13TM.
 doctype: standard
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

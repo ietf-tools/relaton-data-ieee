@@ -48,10 +48,10 @@ script:
 - Latn
 abstract:
 - content: A data integrated framework of the test software for household appliances
-    is defined. This standard specifies the node information of Complex Virtual Instruments
+    is defined by this standard. The node information of complex virtual instruments
     (CVIs), the sensor parameter information, the test metadata information, and the
     sensor data information, as well as the means to acquire the information (either
-    microservices or data-exchange files).
+    microservices or data-exchange files), are specified by this standard.
   language:
   - en
   script:
@@ -92,10 +92,11 @@ keyword:
 - content: Home automation
 - content: Home appliances
 - content: Remote sensing
-- content: household appliances test
-- content: sensor data
-- content: microservice
 - content: complex virtual instruments
+- content: household appliances test
+- content: IEEE 1851&#8482;
+- content: microservice
+- content: sensor data
 - content: systems interoperability
 doctype: standard
 editorialgroup:
@@ -108,7 +109,7 @@ ics:
   text: Miscellaneous domestic and commercial equipment
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

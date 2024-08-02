@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: IEEEP1484.20.3-D-2-2022-02
 title:
-- content: IEEE Draft Standard Data Model for Sharable Competency Definitions
+- content: IEEE Approved Draft Standard Data Model for Sharable Competency Definitions
   format: text/plain
   type: main
 link:
@@ -22,11 +22,11 @@ docid:
 docnumber: IEEE P1484.20.3/D-2-2022-02
 date:
 - type: created
-  value: '2022-08-23'
+  value: '2022-12-09'
 - type: published
   value: '2022-08-24'
 - type: issued
-  value: '2022'
+  value: '2022-12-03'
 contributor:
 - organization:
     name:
@@ -46,13 +46,13 @@ language:
 script:
 - Latn
 abstract:
-- content: This standard defines a data model for describing, referencing, and sharing
-    competency definitions and frameworks of competency definitions, in the context
-    of online and distributed learning and in employment and work. This standard provides
-    a way to formally represent the key characteristics of a competency definition,
-    independently of its use in any particular context. It enables interoperability
-    among learning systems that deal with competency information by providing a means
-    for them to refer to common definitions with common meanings.
+- content: Defined in this standard are a data model for describing, referencing,
+    and sharing competency definitions, and frameworks of competency definitions and
+    rubrics in the context of online and distributed learning and in employment and
+    work. This standard provides a way to formally represent the key characteristics
+    of a competency definition, independently of its use in any particular context.
+    It enables interoperability among learning systems that deal with competency information
+    by providing a means for them to refer to common definitions with common meanings.
   language:
   - en
   script:
@@ -84,9 +84,12 @@ doctype: standard
 editorialgroup:
   committee:
   - Learning Technology of the IEEE Computer Society
+ics:
+- code: 35.240.90
+  text: IT applications in education
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

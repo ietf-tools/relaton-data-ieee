@@ -24,6 +24,8 @@ docid:
   type: DOI
 docnumber: IEEE 532-2021
 date:
+- type: updated
+  value: '2021-06-04'
 - type: created
   value: '2021'
 - type: published
@@ -73,6 +75,23 @@ copyright:
     url: http://www.ieee.org
   from: '2021'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE532-2007
+    docid:
+    - id: IEEE 532-2007
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 532-2007
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE532-2007

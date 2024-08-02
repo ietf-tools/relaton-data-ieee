@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: IEEEP802.1Qcw-D-2.2-2023-04
 title:
-- content: 'IEEE Draft Standard for Local and Metropolitan Area Networks--Bridges
+- content: 'IEEE Approved Draft Standard for Local and Metropolitan Area Networks--Bridges
     and Bridged Networks Amendment 36: YANG Data Models for Scheduled Traffic, Frame
     Preemption, and Per-Stream Filtering and Policing'
   format: text/plain
@@ -24,7 +24,7 @@ docid:
 docnumber: IEEE P802.1Qcw/D-2.2-2023-04
 date:
 - type: created
-  value: '2023-05-01'
+  value: '2023'
 - type: published
   value: '2023-05-02'
 - type: issued
@@ -49,8 +49,8 @@ script:
 - Latn
 abstract:
 - content: This amendment specifies YANG data models that allow configuration and
-    status reporting for Bridges and Bridge components with the capabilities of scheduled
-    traffic, frame preemption, and Per-Stream Filtering and Policing.
+    status reporting for bridges and bridge components with the capabilities of scheduled
+    traffic, frame preemption and per-stream filtering and policing.
   language:
   - en
   script:
@@ -85,23 +85,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE802.1Q-2022
-    docid:
-    - id: IEEE 802.1Q-2022
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.1Q-2022
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Local area networks
@@ -110,18 +93,17 @@ keyword:
 - content: Virtual LAN
 - content: Media Access Protocol
 - content: Telecommunications traffic
-- content: amendment
 - content: Bridged Local Area Networks
-- content: frame preemption
-- content: IEEE 802.1Q&#8482;
-- content: IEEE 802.1Qcw&#8482;
+- content: Frame Preemption
+- content: IEEE 802.1Q
+- content: IEEE 802.1Qcw
 - content: Local Area Networks (LANs)
 - content: MAC Bridges
 - content: Per-Stream Filtering and Policing
-- content: scheduled traffic
-- content: traffic shaping
+- content: Scheduled Traffic
+- content: Traffic Shaping
 - content: Virtual Bridged Local Area Networks (virtual LANs)
-- content: YANG
+- content: YANG.
 doctype: standard
 editorialgroup:
   committee:
@@ -131,7 +113,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

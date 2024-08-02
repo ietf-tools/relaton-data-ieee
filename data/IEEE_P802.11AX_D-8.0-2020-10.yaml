@@ -29,7 +29,7 @@ date:
 - type: published
   value: '2021-02-11'
 - type: issued
-  value: '2020'
+  value: '2021-02-09'
 contributor:
 - organization:
     name:
@@ -49,9 +49,9 @@ language:
 script:
 - Latn
 abstract:
-- content: This amendment defines modifications to both the IEEE 802.11 physical layer
-    (PHY) and the medium access control (MAC) sublayer for high efficiency operation
-    in frequency bands between 1 GHz and 7.125 GHz.
+- content: Modifications to both the IEEE 802.11 physical layer (PHY) and medium access
+    control (MAC) sublayer for high-efficiency operation in frequency bands between
+    1 GHz and 7.125 GHz are defined in this amendment to IEEE Std 802.11-2020.
   language:
   - en
   script:
@@ -71,13 +71,13 @@ copyright:
 relation:
 - type: updates
   bibitem:
-    id: IEEE802.11-2012
+    id: IEEE802.11-2020
     docid:
-    - id: IEEE 802.11-2012
+    - id: IEEE 802.11-2020
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 802.11-2012
+      content: IEEE 802.11-2020
       format: text/plain
   description:
     content: amends
@@ -94,13 +94,16 @@ keyword:
 - content: Physical layer
 - content: Enregy efficiency
 - content: Wireless LAN
+- content: dense deployment
 - content: high efficiency
-- content: PHY
-- content: physical layer
+- content: IEEE 802.11&#8482;
+- content: IEEE 802.11ax&#8482;
 - content: MAC
 - content: medium access control
 - content: OFDMA
 - content: orthogonal frequency division multiple access
+- content: PHY
+- content: physical layer
 - content: wireless local area network
 - content: WLAN
 doctype: standard
@@ -108,13 +111,11 @@ editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society
 ics:
-- code: 35.100.10
-  text: Physical layer
 - code: '35.110'
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

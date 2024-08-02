@@ -25,9 +25,9 @@ date:
 - type: created
   value: '2023-02-13'
 - type: published
-  value: '2023-02-14'
+  value: '2023-02-15'
 - type: issued
-  value: '2023-06-05'
+  value: '2023'
 contributor:
 - organization:
     name:
@@ -41,19 +41,11 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-02-14'
+revdate: '2023-02-15'
 language:
 - en
 script:
 - Latn
-abstract:
-- content: Guidelines for cybersecurity of distributed energy resources (DER) interconnection
-    with electric power systems (EPS) are provided in this guide.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -66,74 +58,6 @@ copyright:
     url: http://www.ieee.org
   from: '2023'
 relation:
-- type: updates
-  bibitem:
-    id: IEEE1547.3-2007
-    docid:
-    - id: IEEE 1547.3-2007
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1547.3-2007
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1547.3-2007
-    docid:
-    - id: IEEE 1547.3-2007
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1547.3-2007
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1547.3-2007
-    docid:
-    - id: IEEE 1547.3-2007
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1547.3-2007
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1547.3-2007
-    docid:
-    - id: IEEE 1547.3-2007
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1547.3-2007
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: updates
   bibitem:
     id: IEEE1547.3-2007
@@ -187,7 +111,7 @@ keyword:
 - content: grid
 - content: grid support
 - content: harmonics
-- content: IEEE 1547
+- content: IEEE 1547&#8482;
 - content: induction machines
 - content: installation
 - content: interconnection requirements and specifications
@@ -229,7 +153,7 @@ ics:
   text: Power stations in general
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

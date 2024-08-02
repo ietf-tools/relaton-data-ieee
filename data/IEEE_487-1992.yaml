@@ -68,6 +68,16 @@ copyright:
     url: http://www.ieee.org
   from: '1992'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE487-2000
+    docid:
+    - id: IEEE 487-2000
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 487-2000
+      format: text/plain
 - type: updates
   bibitem:
     id: ANSI-IEEE487-1980
@@ -85,16 +95,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEE487-2000
-    docid:
-    - id: IEEE 487-2000
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 487-2000
-      format: text/plain
 keyword:
 - content: Protection
 - content: Standards

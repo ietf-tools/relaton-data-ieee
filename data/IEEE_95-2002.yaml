@@ -27,7 +27,7 @@ date:
 - type: created
   value: '2002'
 - type: published
-  value: '2013-01-03'
+  value: '2002-08-07'
 - type: issued
   value: '2002-03-21'
 contributor:
@@ -39,11 +39,11 @@ contributor:
     url: http://www.ieee.org
     contact:
     - address:
-        city: Piscataway
+        city: New York
         country: USA
   role:
   - type: publisher
-revdate: '2013-01-03'
+revdate: '2002-08-07'
 language:
 - en
 script:
@@ -57,9 +57,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -69,6 +66,40 @@ copyright:
     url: http://www.ieee.org
   from: '2002'
 relation:
+- type: updates
+  bibitem:
+    id: ANSI-IEEE95-1977
+    docid:
+    - id: ANSI/IEEE 95-1977
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI/IEEE 95-1977
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: ANSI-IEEE95-1977
+    docid:
+    - id: ANSI/IEEE 95-1977
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI/IEEE 95-1977
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: ANSI-IEEE95-1977
@@ -100,10 +131,10 @@ editorialgroup:
   - Electric Machinery of the IEEE Power and Energy Society
 ics:
 - code: 29.080.01
-  text: Insulation in general
+  text: Electrical insulation in general
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Inactive
+  standard_modified: Reserved
   pubstatus: Active
   holdstatus: Publish

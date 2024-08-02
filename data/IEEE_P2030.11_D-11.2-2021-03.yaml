@@ -48,15 +48,16 @@ script:
 - Latn
 abstract:
 - content: A key concept and requirement for an operational and effective deployment
-    of a large number of Distributed Energy Resources (DER) which include sources
+    of a large number of distributed energy resources (DER), which include sources
     of power and demand response, to enable the provision of flexibility and grid
-    services is the aggregation of DER. A DER Management System (DERMS) provides this
-    aggregation function, as well as the functions required to enable grid services.
-    This guide provides a functional specification for a DERMS and describes the grid
-    services that aggregated DER can provide the distribution and transmission systems.
-    It addresses implementation issues and discusses the interoperability requirements
+    services, is the aggregation of DER. This aggregation function, as well as the
+    functions required to enable grid services, are provided by DER management systems
+    (DERMS). A functional specification for a DERMS and a description of the grid
+    services that aggregated DER can provide the distribution and transmission systems
+    is provided by this guide. Implementation issues and the interoperability requirements
     of a DERMS with its environment, including the transmission and distribution systems,
-    and the communication and information infrastructure of modern grids.
+    and the communication and information infrastructure of modern grids are addressed
+    by this guide.
   language:
   - en
   script:
@@ -84,28 +85,28 @@ keyword:
 - content: Information and communication technology
 - content: Energy management
 - content: Microgrids
-- content: distributed energy resources
-- content: distributed generation
-- content: distributed energy storage system
-- content: demand response
-- content: aggregation
-- content: distribution system
-- content: transmission system
 - content: advanced distribution management system
+- content: aggregation
+- content: ancillary services
+- content: demand response
+- content: DERMS
+- content: distributed energy resources
+- content: distributed energy storage system
+- content: distributed generation
+- content: distribution system
 - content: energy management system
 - content: grid and system services
-- content: ancillary services
+- content: IEEE 2030.11
 - content: microgrid
+- content: transmission system
 - content: virtual power plant
-- content: DERMS
-- content: IEEE 2030.11&#8482;
 doctype: standard
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

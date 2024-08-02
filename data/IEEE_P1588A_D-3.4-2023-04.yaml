@@ -28,7 +28,7 @@ date:
 - type: published
   value: '2023-05-12'
 - type: issued
-  value: '2023-09-21'
+  value: '2023'
 contributor:
 - organization:
     name:
@@ -48,10 +48,9 @@ language:
 script:
 - Latn
 abstract:
-- content: Updates to information and messages for the Enhanced Accuracy TLV are provided
-    in this amendment to IEEE 1588-2019. This amendment also clarifies the operation
-    of the best master clock algorithm (BMCA), provides a new annex about the default
-    BMCA, corrects errors in the text, and clarifies unclear passages.
+- content: 'This draft amendment: Updates information and messages for the Enhanced
+    Accuracy TLV, Updates operation of the BMCA, and provides a new appendix to the
+    default BMCA, Corrects errors in the text and clarifies unclear passages'
   language:
   - en
   script:
@@ -86,57 +85,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1588-2019
-    docid:
-    - id: IEEE 1588-2019
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1588-2019
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1588-2019
-    docid:
-    - id: IEEE 1588-2019
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1588-2019
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1588-2019
-    docid:
-    - id: IEEE 1588-2019
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1588-2019
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: Standards
 - content: IEEE Standards
@@ -145,11 +93,9 @@ keyword:
 - content: Protocols
 - content: Organizations
 - content: Data privacy
-- content: Best Master Clock
-- content: BMCA
 - content: Enhanced Accuracy
-- content: IEEE 1588a&#8482;
 - content: TLV
+- content: BMCA
 doctype: standard
 editorialgroup:
   committee:

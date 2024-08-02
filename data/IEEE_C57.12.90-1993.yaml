@@ -74,6 +74,16 @@ copyright:
     url: http://www.ieee.org
   from: '1993'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEEC57.12.90-1999
+    docid:
+    - id: IEEE C57.12.90-1999
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C57.12.90-1999
+      format: text/plain
 - type: updates
   bibitem:
     id: ANSI-IEEEC57.12.90-1987
@@ -91,16 +101,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEEC57.12.90-1999
-    docid:
-    - id: IEEE C57.12.90-1999
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C57.12.90-1999
-      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Power transformers

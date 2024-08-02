@@ -58,6 +58,9 @@ abstract:
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -123,8 +126,7 @@ keyword:
 - content: multi-gigabit Ethernet bidirectional Physical Layers
 - content: Physical Coding Sublayer (PCS)
 - content: Physical Medium Attachment (PMA) sublayer
-- content: Physical Medium Dependent (PMD) sublayer (The PDF of this standard is available
-    at no cost to you compliments of the IEEE GET program at https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=68)
+- content: Physical Medium Dependent (PMD) sublayer
 doctype: standard
 editorialgroup:
   committee:
@@ -136,6 +138,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Superseded
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

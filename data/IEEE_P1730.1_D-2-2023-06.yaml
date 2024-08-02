@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: IEEEP1730.1-D-2-2023-06
 title:
-- content: IEEE Approved Draft Recommended Practice for Distributed Simulation Engineering
+- content: IEEE Draft Recommended Practice for Distributed Simulation Engineering
     and Execution Process Multi-Architecture Overlay (DMAO)
   format: text/plain
   type: main
@@ -23,11 +23,11 @@ docid:
 docnumber: IEEE P1730.1/D-2-2023-06
 date:
 - type: created
-  value: '2023-11-13'
+  value: '2023'
 - type: published
-  value: '2023-07-27'
+  value: '2023-07-28'
 - type: issued
-  value: '2023-11-08'
+  value: '2023'
 contributor:
 - organization:
     name:
@@ -41,7 +41,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-07-27'
+revdate: '2023-07-28'
 language:
 - en
 script:
@@ -76,6 +76,23 @@ copyright:
     url: http://www.ieee.org
   from: '2023'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE1730.1-2013
+    docid:
+    - id: IEEE 1730.1-2013
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1730.1-2013
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE1730.1-2013

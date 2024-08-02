@@ -2,7 +2,8 @@
 schema-version: v1.2.3
 id: IEEEP1619.2-D-2-2021-02
 title:
-- content: IEEE Draft Standard for Wide-Block Encryption for Shared Storage Media
+- content: IEEE Approved Draft Standard for Wide-Block Encryption for Shared Storage
+    Media
   format: text/plain
   type: main
 link:
@@ -22,11 +23,11 @@ docid:
 docnumber: IEEE P1619.2/D-2-2021-02
 date:
 - type: created
-  value: '2021-02-09'
+  value: '2021-05-09'
 - type: published
   value: '2021-02-10'
 - type: issued
-  value: '2021'
+  value: '2021-05-09'
 contributor:
 - organization:
     name:
@@ -46,9 +47,9 @@ language:
 script:
 - Latn
 abstract:
-- content: EME2-AES and XCB-AES wide-block encryption 1 with associated data (EAD)
-    modes of the NIST AES block cipher, providing usage guidelines and test vectors,
-    are described. A wide block encryption algorithm behaves as a single block cipher
+- content: EME2-AES and XCB-AES wide-block encryption with associated data (EAD) modes
+    of the NIST AES block cipher, providing usage guidelines and test vectors, are
+    described. A wide block encryption algorithm behaves as a single block cipher
     with a large plaintext input and ciphertext output, but uses a narrow block cipher
     [in this case Advanced Encryption Standard (AES)] internally. These encryption
     modes are oriented toward random access storage devices that do not provide authentication,
@@ -70,108 +71,6 @@ copyright:
     url: http://www.ieee.org
   from: '2021'
 relation:
-- type: updates
-  bibitem:
-    id: IEEE1619.2-2010
-    docid:
-    - id: IEEE 1619.2-2010
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1619.2-2010
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1619.2-2010
-    docid:
-    - id: IEEE 1619.2-2010
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1619.2-2010
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1619.2-2010
-    docid:
-    - id: IEEE 1619.2-2010
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1619.2-2010
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1619.2-2010
-    docid:
-    - id: IEEE 1619.2-2010
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1619.2-2010
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1619.2-2010
-    docid:
-    - id: IEEE 1619.2-2010
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1619.2-2010
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1619.2-2010
-    docid:
-    - id: IEEE 1619.2-2010
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1619.2-2010
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: updates
   bibitem:
     id: IEEE1619.2-2010
@@ -231,7 +130,7 @@ ics:
   text: IT applications in transport
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

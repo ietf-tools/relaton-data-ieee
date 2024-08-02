@@ -55,9 +55,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -70,37 +67,6 @@ copyright:
   - name:
     - content: IEC
   from: '2015'
-relation:
-- type: obsoletedBy
-  bibitem:
-    id: ISO-IEC-IEEE29119.4-2021
-    docid:
-    - id: ISO/IEC/IEEE 29119.4-2021
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ISO/IEC/IEEE 29119.4-2021
-      format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: ISO-IEC-IEEE29119.4-2021
-    docid:
-    - id: ISO/IEC/IEEE 29119.4-2021
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ISO/IEC/IEEE 29119.4-2021
-      format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: ISO-IEC-IEEE29119.4-2021
-    docid:
-    - id: ISO/IEC/IEEE 29119.4-2021
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ISO/IEC/IEEE 29119.4-2021
-      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: ISO Standards
@@ -121,7 +87,6 @@ ics:
   text: Health care technology (Vocabularies)
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Superseded
   pubstatus: Active
   holdstatus: Publish

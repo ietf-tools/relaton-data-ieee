@@ -46,6 +46,16 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: Electrical and mechanical performance and test requirements for on-load
+    tap-changers of both resistor and reactor types, de-energized tap-changers, and
+    their motor-drive mechanisms installed in power and distribution transformers,
+    reactors, and voltage regulators are covered.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -75,6 +85,57 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC57.131-2012
+    docid:
+    - id: IEEE C57.131-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C57.131-2012
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC57.131-2012
+    docid:
+    - id: IEEE C57.131-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C57.131-2012
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC57.131-2012
+    docid:
+    - id: IEEE C57.131-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C57.131-2012
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Power transformers
@@ -82,23 +143,22 @@ keyword:
 - content: Gas insulated transmission lines
 - content: Motor drives
 - content: Inductors
-- content: C57.131
-- content: 60214-1
-- content: 60214-2
 - content: bridging position
 - content: change-over selector
-- content: De-Energized Tap-Changer (DETC)
+- content: de-energized tap-changer (DETC)
 - content: diverter switch
 - content: equalizer winding
-- content: gas immersed tap-changer
+- content: gas-immersed tap-changer
+- content: IEC 60214-1
+- content: IEC 60214-2
+- content: IEEE C57.131
 - content: motor-drive
 - content: non-bridging position
-- content: On-Load Tap-Changer (OLTC)
+- content: on-load tap-changer (OLTC)
 - content: reactor
 - content: regulating transformer
 - content: resistor
 - content: tap positions
-- content: tap-changer
 - content: through-current
 - content: transfer contacts
 - content: transition contacts
@@ -113,7 +173,7 @@ ics:
   text: Transformers. Reactors
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold
