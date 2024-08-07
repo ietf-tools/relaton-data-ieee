@@ -2,14 +2,14 @@
 schema-version: v1.2.3
 id: ISO-IEC-IEEE8802.3-Amd1-2021
 title:
-- content: 'IEEE/ISO/IEC International Standard - Telecommunications and exchange
-    between information technology systems--Requirements for local and metropolitan
-    area networks--Part 3: Standard for Ethernet AMENDMENT 14: Bidirectional 10 Gb/s,
-    25 Gb/s, and 50 Gb/s optical access PHYs'
+- content: 'IEEE/ISO/IEC International Standard-Telecommunications and exchange between
+    information technology systems — Requirements for local and metropolitan area
+    networks —Part 3: Standard for Ethernet AMENDMENT 1: Physical layer specifications
+    and management parameters for 2.5 Gb/s and 5 Gb/s operation over backplane'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/9921249
+- content: https://ieeexplore.ieee.org/document/9673685
   type: src
 type: standard
 docid:
@@ -20,16 +20,16 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-9058-0
+- id: 978-1-5044-8340-7
   type: ISBN
-- id: 10.1109/IEEESTD.2022.9921249
+- id: 10.1109/IEEESTD.2022.9673685
   type: DOI
 docnumber: ISO/IEC/IEEE 8802.3/Amd1-2021
 date:
 - type: created
-  value: '2022-10-17'
+  value: '2022-01-06'
 - type: published
-  value: '2022-10-18'
+  value: '2022-01-06'
 - type: issued
   value: '2022'
 contributor:
@@ -45,16 +45,16 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-10-18'
+revdate: '2022-01-06'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This amendment to IEEE Std 802.3-2018 adds Physical Layer specifications
-    and management parameters for 10 Gb/s, 25 Gb/s, and 50 Gb/s Ethernet optical interfaces
-    for bidirectional operation over a single strand of single-mode fiber with reaches
-    of at least 10 km, 20 km, and 40 km.
+- content: Ethernet Media Access Control (MAC) parameters, Physical Layer specifications,
+    and management objects for the serial transfer of Ethernet format frames at 2.5
+    Gb/s and 5 Gb/s over electrical backplanes are defined in this amendment to IEEE
+    Std 802.3-2018.
   language:
   - en
   script:
@@ -78,39 +78,61 @@ copyright:
 relation:
 - type: adoptedFrom
   bibitem:
-    id: IEEE802.3cp-2021
+    id: IEEE802.3cb-2018
     docid:
-    - id: IEEE 802.3cp-2021
+    - id: IEEE 802.3cb-2018
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 802.3cp-2021
+      content: IEEE 802.3cb-2018
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.3cb-2018
+    docid:
+    - id: IEEE 802.3cb-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3cb-2018
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.3cb-2018
+    docid:
+    - id: IEEE 802.3cb-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3cb-2018
       format: text/plain
 keyword:
 - content: IEEE Standards
 - content: IEC Standards
 - content: ISO Standards
+- content: Ethernet
+- content: Energy efficiency
 - content: Local area networks
 - content: Metropolitan area networks
 - content: Information exchange
-- content: 10GBASE-BR10
-- content: 10GBASE-BR20
-- content: 10GBASE-BR40
-- content: 25GBASE-BR10
-- content: 25GBASE-BR20
-- content: 25GBASE-BR40
-- content: 50GBASE-BR10
-- content: 50GBASE-BR20
-- content: 50GBASE-BR40
-- content: bidirectional (BiDi)
+- content: Physical layer
+- content: 2.5 Gigabit Ethernet
+- content: 5 Gigabit Ethernet
+- content: 2.5GBASE-KX
+- content: 2.5GBASE-X
+- content: 5GBASE-KR
+- content: 5GBASE-R
+- content: amendment
+- content: AN
+- content: Auto-Negotiation
+- content: Backplane Ethernet
+- content: BASE-R
+- content: BASE-X
+- content: EEE
+- content: Energy Efficient Ethernet
 - content: Ethernet
-- content: forward error correction (FEC)
 - content: IEEE 802.3
-- content: IEEE 802.3cp
-- content: multi-gigabit Ethernet bidirectional Physical Layers
-- content: Physical Coding Sublayer (PCS)
-- content: Physical Medium Attachment (PMA) sublayer
-- content: Physical Medium Dependent (PMD) sublayer
+- content: IEEE 802.3cb
 doctype: standard
 editorialgroup:
   committee:

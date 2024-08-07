@@ -25,7 +25,7 @@ date:
 - type: created
   value: '2023-10-18'
 - type: published
-  value: '2023-10-20'
+  value: '2023-10-19'
 - type: issued
   value: '2023'
 contributor:
@@ -41,7 +41,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-10-20'
+revdate: '2023-10-19'
 language:
 - en
 script:
@@ -85,6 +85,40 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC37.105-2010
+    docid:
+    - id: IEEE C37.105-2010
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.105-2010
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC37.105-2010
+    docid:
+    - id: IEEE C37.105-2010
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.105-2010
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Nuclear power generation
@@ -107,7 +141,7 @@ keyword:
 doctype: standard
 editorialgroup:
   committee:
-  - Nuclear Power Engineering of the IEEE Power and Energy Society
+  - Nuclear Power Engineering Committee of the IEEE Power and Energy Society
 ics:
 - code: 27.120.20
   text: Nuclear power plants. Safety
@@ -115,7 +149,7 @@ ics:
   text: Relays
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

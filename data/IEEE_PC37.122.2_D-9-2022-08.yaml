@@ -86,13 +86,24 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC37.122.2-2011
+    docid:
+    - id: IEEE C37.122.2-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.122.2-2011
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
-- content: IEEE Standards
-- content: Gas insulation
-- content: Substations
-- content: Switchgear
-- content: Metal enclosures
-- content: Sulfur hexafluoride
 - content: IEEE C37.20.9; IEEE Standard for Metal-Enclosed Switchgear Rated 1 kV to
     52 kV Incorporating Gas Insulating Systems
 - content: IEEE C37.122.2;IEEE Guide for the Application of Gas-Insulated Substations
@@ -114,7 +125,7 @@ ics:
   text: Power stations in general
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

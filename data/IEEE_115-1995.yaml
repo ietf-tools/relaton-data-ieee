@@ -66,6 +66,16 @@ copyright:
     url: http://www.ieee.org
   from: '1995'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE115-2009
+    docid:
+    - id: IEEE 115-2009
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 115-2009
+      format: text/plain
 - type: updates
   bibitem:
     id: IEEE115-1983
@@ -83,16 +93,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEE115-2009
-    docid:
-    - id: IEEE 115-2009
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 115-2009
-      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Performance evaluation

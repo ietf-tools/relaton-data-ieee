@@ -554,6 +554,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE730-1998
+    docid:
+    - id: IEEE 730-1998
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 730-1998
+      format: text/plain
 - type: updates
   bibitem:
     id: ANSI-IEEE730-1984
@@ -571,16 +581,23 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
+- type: updates
   bibitem:
-    id: IEEE730-1998
+    id: ANSI-IEEE730-1984
     docid:
-    - id: IEEE 730-1998
+    - id: ANSI/IEEE 730-1984
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 730-1998
+      content: ANSI/IEEE 730-1984
       format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Software quality

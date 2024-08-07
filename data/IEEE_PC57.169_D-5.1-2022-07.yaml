@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2022-07-29'
 - type: issued
-  value: '2023-02-15'
+  value: '2022'
 contributor:
 - organization:
     name:
@@ -105,31 +105,72 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1538-2000
+    docid:
+    - id: IEEE 1538-2000
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1538-2000
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1538-2000
+    docid:
+    - id: IEEE 1538-2000
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1538-2000
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1538-2000
+    docid:
+    - id: IEEE 1538-2000
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1538-2000
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
-- content: IEEE Standards
-- content: Temperature measurement
-- content: Temperature sensors
-- content: Power transformers
-- content: Predictive models
-- content: Immersion cooling
 - content: distribution transformer
 - content: hottest-spot temperature
-- content: IEEE C57.169
-- content: power transformers
-- content: temperature-rise test
+- content: power transformers. Temperature rise test
 - content: thermal model
 doctype: standard
 editorialgroup:
   committee:
   - Transformers of the IEEE Power and Energy Society
 ics:
-- code: 01.040.29
-  text: Electrical engineering (Vocabularies)
 - code: '29.180'
   text: Transformers. Reactors
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

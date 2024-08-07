@@ -27,7 +27,7 @@ date:
 - type: created
   value: '2009'
 - type: published
-  value: '2009-04-07'
+  value: '2022-02-24'
 - type: issued
   value: '2008-12-10'
 contributor:
@@ -43,7 +43,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2009-04-07'
+revdate: '2022-02-24'
 language:
 - en
 script:
@@ -77,46 +77,91 @@ relation:
     formattedref:
       content: IEEE C37.12-2018
       format: text/plain
-- type: obsoletedBy
+- type: updates
   bibitem:
-    id: IEEEC37.12-2018
+    id: IEEE605-1998
     docid:
-    - id: IEEE C37.12-2018
+    - id: IEEE 605-1998
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE C37.12-2018
+      content: IEEE 605-1998
       format: text/plain
-- type: obsoletedBy
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
   bibitem:
-    id: IEEEC37.12-2018
+    id: IEEE605-1998
     docid:
-    - id: IEEE C37.12-2018
+    - id: IEEE 605-1998
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE C37.12-2018
+      content: IEEE 605-1998
       format: text/plain
-- type: obsoletedBy
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
   bibitem:
-    id: IEEEC37.12-2018
+    id: IEEE605-1998
     docid:
-    - id: IEEE C37.12-2018
+    - id: IEEE 605-1998
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE C37.12-2018
+      content: IEEE 605-1998
       format: text/plain
-- type: obsoletedBy
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
   bibitem:
-    id: IEEEC37.12-2018
+    id: IEEE605-1998
     docid:
-    - id: IEEE C37.12-2018
+    - id: IEEE 605-1998
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE C37.12-2018
+      content: IEEE 605-1998
       format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE605-1998
+    docid:
+    - id: IEEE 605-1998
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 605-1998
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE605-1998
@@ -218,8 +263,8 @@ editorialgroup:
   committee:
   - Switchgear of the IEEE Power and Energy Society
 ics:
-- code: 29.130.10
-  text: High voltage switchgear and controlgear
+- code: 01.040.11
+  text: Health care technology (Vocabularies)
 ext:
   schema-version: v1.0.0
   standard_status: Superseded

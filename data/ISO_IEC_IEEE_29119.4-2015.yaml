@@ -24,8 +24,6 @@ docid:
   type: DOI
 docnumber: ISO/IEC/IEEE 29119.4-2015
 date:
-- type: updated
-  value: '2016-01-08'
 - type: created
   value: '2015-12-08'
 - type: published
@@ -39,6 +37,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2015-12-03'
@@ -67,6 +69,17 @@ copyright:
   - name:
     - content: IEC
   from: '2015'
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: ISO-IEC-IEEE29119.4-2021
+    docid:
+    - id: ISO/IEC/IEEE 29119.4-2021
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ISO/IEC/IEEE 29119.4-2021
+      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: ISO Standards
@@ -83,8 +96,8 @@ editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society
 ics:
-- code: 01.040.11
-  text: Health care technology (Vocabularies)
+- code: '35.080'
+  text: Software
 ext:
   schema-version: v1.0.0
   standard_status: Superseded

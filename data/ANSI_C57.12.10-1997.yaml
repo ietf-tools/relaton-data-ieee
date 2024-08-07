@@ -97,6 +97,16 @@ relation:
     formattedref:
       content: IEEE C57.12.10-2010
       format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEEC57.12.10-2010
+    docid:
+    - id: IEEE C57.12.10-2010
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C57.12.10-2010
+      format: text/plain
 keyword:
 - content: Current transformers
 - content: Power transformer insulation
@@ -110,8 +120,8 @@ editorialgroup:
   committee:
   - Transformers of the IEEE Power and Energy Society
 ics:
-- code: 01.040.11
-  text: Health care technology (Vocabularies)
+- code: '29.180'
+  text: Transformers. Reactors
 ext:
   schema-version: v1.0.0
   standard_status: Superseded

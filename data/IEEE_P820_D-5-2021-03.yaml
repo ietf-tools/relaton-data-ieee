@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: IEEEP820-D-5-2021-03
 title:
-- content: IEEE Draft Standard Telephone Loop Performance Characteristics
+- content: IEEE Approved Draft Standard Telephone Loop Performance Characteristics
   format: text/plain
   type: main
 link:
@@ -22,11 +22,11 @@ docid:
 docnumber: IEEE P820/D-5-2021-03
 date:
 - type: created
-  value: '2021'
+  value: '2021-12-13'
 - type: published
-  value: '2021-07-23'
+  value: '2021-07-26'
 - type: issued
-  value: '2021'
+  value: '2021-12-08'
 contributor:
 - organization:
     name:
@@ -40,7 +40,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2021-07-23'
+revdate: '2021-07-26'
 language:
 - en
 script:
@@ -83,11 +83,29 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE820-2005
+    docid:
+    - id: IEEE 820-2005
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 820-2005
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Performance evaluatoin
 - content: Classification
 - content: Telephone equipment
+- content: IEEE 820
 - content: performance characteristics
 - content: performance classifications
 - content: telephone loop
@@ -100,7 +118,7 @@ ics:
   text: Telephone networks
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

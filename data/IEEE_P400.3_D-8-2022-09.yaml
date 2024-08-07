@@ -25,9 +25,9 @@ date:
 - type: created
   value: '2022'
 - type: published
-  value: '2022-09-27'
+  value: '2022-09-28'
 - type: issued
-  value: '2022-12-03'
+  value: '2022'
 contributor:
 - organization:
     name:
@@ -41,18 +41,18 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-09-27'
+revdate: '2022-09-28'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The diagnostic testing of new or service-aged, installed shielded power
-    cable systems, which include cable, joints, and terminations, using electrical
-    partial discharge (PD) detection, measurement, and location is covered by this
-    guide. PD testing, which is a useful indicator of insulation degradation, may
-    be carried out online or by means of an external voltage source. The testing of
-    compressed gas insulated cable or termination systems is not covered by this guide.
+- content: This guide covers the diagnostic testing of new or service-aged, installed
+    shielded power cable systems, which include cable, joints, and terminations, using
+    electrical partial discharge (PD) detection, measurement, and location. Partial
+    discharge testing, which is a useful indicator of insulation degradation, may
+    be carried out on-line or by means of an external voltage source. This guide does
+    not cover the testing of compressed gas insulated cable or termination systems.
   language:
   - en
   script:
@@ -70,6 +70,40 @@ copyright:
     url: http://www.ieee.org
   from: '2022'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE400.3-2006
+    docid:
+    - id: IEEE 400.3-2006
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 400.3-2006
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE400.3-2006
+    docid:
+    - id: IEEE 400.3-2006
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 400.3-2006
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE400.3-2006
@@ -111,7 +145,7 @@ ics:
   text: Wires and symmetrical cables
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

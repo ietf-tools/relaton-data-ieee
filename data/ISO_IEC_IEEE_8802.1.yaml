@@ -2,14 +2,13 @@
 schema-version: v1.2.3
 id: ISO-IEC-IEEE8802.1
 title:
-- content: 'ISO/IEC/IEEE International Standard for Information technology -- Telecommunications
+- content: 'ISO/IEC/IEEE International Standard - Information technology -- Telecommunications
     and information exchange between systems -- Local and metropolitan area networks
-    -- Specific requirements -- Part 1BR: Virtual bridged local area networks -- Bridge
-    port extension'
+    -- Specific requirements -- Part 1Q: Bridges and bridged networks'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/7731260
+- content: https://ieeexplore.ieee.org/document/7435219
   type: src
 type: standard
 docid:
@@ -20,16 +19,16 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-2441-7
+- id: 978-1-5044-0808-0
   type: ISBN
-- id: 10.1109/IEEESTD.2016.7731260
+- id: 10.1109/IEEESTD.2016.7435219
   type: DOI
 docnumber: ISO/IEC/IEEE 8802.1
 date:
 - type: created
-  value: '2016-10-15'
+  value: '2016'
 - type: published
-  value: '2016-11-02'
+  value: '2016-03-17'
 - type: issued
   value: '2016'
 contributor:
@@ -45,23 +44,21 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2016-11-02'
+revdate: '2016-03-17'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This standard specifies the operation of Bridge Port Extenders, including
-    management, protocols, and algorithms. Bridge Port Extenders operate in support
-    of the MAC Service by Extended Bridges.
+- content: This international standard specifies how the Media Access Control (MAC)
+    Service is supported by Bridged Networks, the principles of operation of those
+    networks, and the operation of MAC Bridges and VLAN Bridges, including management,
+    protocols, and algorithms
   language:
   - en
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -99,24 +96,28 @@ keyword:
 - content: IEEE Standards
 - content: ISO Standards
 - content: IEC Standards
-- content: Bridge circuits
+- content: Bridged circuits
 - content: Local area networks
 - content: Metropolitan area networks
-- content: Virtual networks
+- content: Virtual LAN
 - content: Media Access Protocol
-- content: Data centers
-- content: Bridged Local Area Networks
-- content: Data Center Bridging
-- content: DCB
-- content: Edge Virtual Bridging
-- content: EVB
-- content: IEEE 802.1BR
-- content: LANs
-- content: local area networks
-- content: MAC Bridges
-- content: MANs
+- content: Bridged Network
+- content: IEEE 802.1Q(TM)
+- content: LAN
+- content: local area network
+- content: MAC Bridge
 - content: metropolitan area networks
-- content: Virtual Bridged Local Area Networks
+- content: MSTP
+- content: Multiple Spanning Tree Protocol
+- content: Rapid Spanning Tree Protocol
+- content: RSTP
+- content: PBN
+- content: Provider Bridged Network
+- content: Shortest Path Bridging Protocol
+- content: SPB Protocol
+- content: Virtual Bridged Network
+- content: virtual LAN
+- content: VLAN Bridge
 doctype: standard
 editorialgroup:
   committee:
@@ -126,7 +127,6 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Superseded
   pubstatus: Active
   holdstatus: Publish

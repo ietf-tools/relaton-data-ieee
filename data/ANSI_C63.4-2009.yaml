@@ -68,6 +68,16 @@ copyright:
     url: http://www.ieee.org
   from: '2009'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: ANSIC63.4-2014
+    docid:
+    - id: ANSI C63.4-2014
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI C63.4-2014
+      format: text/plain
 - type: updates
   bibitem:
     id: ANSIC63.4-2003
@@ -85,16 +95,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: ANSIC63.4-2014
-    docid:
-    - id: ANSI C63.4-2014
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI C63.4-2014
-      format: text/plain
 keyword:
 - content: Consumer electronics
 - content: Electric variables measurement

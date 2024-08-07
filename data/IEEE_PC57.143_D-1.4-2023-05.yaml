@@ -25,7 +25,7 @@ date:
 - type: created
   value: '2023-05-15'
 - type: published
-  value: '2023-05-17'
+  value: '2023-05-16'
 - type: issued
   value: '2023'
 contributor:
@@ -41,7 +41,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-05-17'
+revdate: '2023-05-16'
 language:
 - en
 script:
@@ -85,23 +85,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC57.143-2012
-    docid:
-    - id: IEEE C57.143-2012
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C57.143-2012
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Power transformers
@@ -110,6 +93,9 @@ keyword:
 - content: IEEE C57.143
 - content: liquid-immersed transformers
 - content: transformer monitoring
+- content: transformer components
+- content: monitoring equipment
+- content: online monitoring.
 doctype: standard
 editorialgroup:
   committee:
@@ -119,7 +105,7 @@ ics:
   text: Transformers. Reactors
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

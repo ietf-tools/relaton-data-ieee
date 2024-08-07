@@ -54,8 +54,6 @@ abstract:
     and IEEE Std 802.1Qcw-2023 specifies protocols, procedures, and management objects
     for auto attachment of network devices to Provider Backbone service instances
     using Type, Length, Value (TLVs) within the Link Layer Discovery Protocol (LLDP).
-    (PDF of this Standard is available at no charge, compliments of the IEEE GET program
-    at https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=68).
   language:
   - en
   script:
@@ -73,6 +71,23 @@ copyright:
     url: http://www.ieee.org
   from: '2023'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE802.1Q-2022
+    docid:
+    - id: IEEE 802.1Q-2022
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1Q-2022
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE802.1Q-2022

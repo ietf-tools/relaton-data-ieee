@@ -2,11 +2,11 @@
 schema-version: v1.2.3
 id: IEEE1675-2008
 title:
-- content: IEEE Standard for Broadband Over Powerline Hardware
+- content: IEEE Standard for Broadband Over Power Line Hardware
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8995814
+- content: https://ieeexplore.ieee.org/document/4747595
   type: src
 type: standard
 docid:
@@ -19,14 +19,14 @@ docid:
   primary: true
 - id: 978-0-7381-5810-5
   type: ISBN
-- id: 10.1109/IEEESTD.2009.8995814
+- id: 10.1109/IEEESTD.2008.4747595
   type: DOI
 docnumber: IEEE 1675-2008
 date:
+- type: updated
+  value: '2009-03-09'
 - type: created
   value: '2009-01-07'
-- type: published
-  value: '2020-02-12'
 - type: issued
   value: '2008-09-26'
 contributor:
@@ -38,11 +38,20 @@ contributor:
     url: http://www.ieee.org
   role:
   - type: publisher
-revdate: '2020-02-12'
 language:
 - en
 script:
 - Latn
+abstract:
+- content: Testing and verification standards for the commonly used hardware, primarily
+    couplers, and enclosures, for broadband over power line (BPL) installations, and
+    installation methods to enable compliance with applicable codes and standards
+    are provided in this standard.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 copyright:
 - owner:
   - name:
@@ -52,18 +61,8 @@ copyright:
     url: http://www.ieee.org
   from: '2009'
 keyword:
-- content: IEEE Standards
-- content: Broadband
-- content: Power transmission lines
-- content: Medium voltage
-- content: Couplers
-- content: Voltage control
-- content: 1675-2008
-- content: broadband over power line communications
-- content: broadband power line
-- content: coupler
-- content: installation
-- content: medium voltage
+- content: broadband over power line communications, broadband power line, coupler,
+    installation, medium voltage
 doctype: standard
 editorialgroup:
   committee:

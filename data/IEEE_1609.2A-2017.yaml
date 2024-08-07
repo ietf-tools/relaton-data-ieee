@@ -24,8 +24,6 @@ docid:
   type: DOI
 docnumber: IEEE 1609.2a-2017
 date:
-- type: updated
-  value: '2017-10-27'
 - type: created
   value: '2017-11-23'
 - type: published
@@ -39,6 +37,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2017-10-11'
@@ -68,23 +70,6 @@ copyright:
     url: http://www.ieee.org
   from: '2017'
 relation:
-- type: updates
-  bibitem:
-    id: IEEE1609.2-2016
-    docid:
-    - id: IEEE 1609.2-2016
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1609.2-2016
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: updates
   bibitem:
     id: IEEE1609.2-2016

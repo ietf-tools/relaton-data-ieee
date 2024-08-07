@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: IEEEP2941.2-D-3-2023-07
 title:
-- content: IEEE Approved Draft Standard for Application Programming Interface (API)
-    of Deep Learning Inference Engine
+- content: IEEE Draft Standard for Application Programming Interface (API) of Deep
+    Learning Inference Engine
   format: text/plain
   type: main
 link:
@@ -47,11 +47,11 @@ language:
 script:
 - Latn
 abstract:
-- content: A set of application program interfaces (APIs) is defined in this standard,
-    which is aimed at breaking down the barriers between different deep learning inference
-    engines and applications. The APIs are comprised of functional interfaces including
+- content: A set of application programming interfaces (APIs) that is aimed at breaking
+    down the barriers between different deep learning (DL) inference engines and applications
+    is defined in this standard. The APIs are comprised of functional interfaces including
     parameter reading, model compilation optimization, operator registration, thread
-    management, input/output data acquisition, inference instance creation and inference
+    management, input/output data acquisition, inference instance creation, and inference
     execution.
   language:
   - en
@@ -73,18 +73,25 @@ keyword:
 - content: IEEE Standards
 - content: Application programming interfaces
 - content: Deep architecture
-- content: application programming interfaces
-- content: inference engine
-- content: IEEE 2941.2
-- content: deep learning
+- content: APIs
+- content: application programming interface
 - content: artificial intelligence
+- content: deep learning
+- content: DL
+- content: IEEE 2941.2&#8482;
+- content: inference engine
 doctype: standard
 editorialgroup:
   committee:
   - Data Compression Standards Committee of the IEEE Computer Society
+ics:
+- code: '35.080'
+  text: Software
+- code: 35.240.01
+  text: Application of information technology in general
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

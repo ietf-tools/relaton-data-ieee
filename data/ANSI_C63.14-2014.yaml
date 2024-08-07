@@ -29,7 +29,7 @@ date:
 - type: published
   value: '2014-12-04'
 - type: issued
-  value: '2014-04-28'
+  value: '2014'
 contributor:
 - organization:
     name:
@@ -58,9 +58,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -612,6 +609,57 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: ANSIC63.14-2009
+    docid:
+    - id: ANSI C63.14-2009
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI C63.14-2009
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: ANSIC63.14-2009
+    docid:
+    - id: ANSI C63.14-2009
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI C63.14-2009
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: ANSIC63.14-2009
+    docid:
+    - id: ANSI C63.14-2009
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI C63.14-2009
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: ANSI standards
 - content: Dictionaries
@@ -624,17 +672,13 @@ keyword:
 - content: electromagnetic pulse (EMP)
 - content: electrostatic discharge (ESD)
 doctype: standard
-editorialgroup:
-  committee:
-  - Accredited Standards Committee on Electromagnetic Compatibility
 ics:
 - code: 01.040.33
   text: Telecommunications. Audio and video engineering (Vocabularies)
 - code: 33.100.01
-  text: Electromagnetic compatibility (EMC) in general
+  text: Electromagnetic compatibility in general
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Superseded
   pubstatus: Active
   holdstatus: Publish

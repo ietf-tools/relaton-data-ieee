@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2022-12-05'
 - type: issued
-  value: '2022'
+  value: '2023-11-08'
 contributor:
 - organization:
     name:
@@ -50,7 +50,7 @@ abstract:
 - content: The base nomenclature provided in IEEE 11073 to support terminology for
     implantable cardiac devices is extended in this standard. Devices within the scope
     of this nomenclature are implantable devices such as pacemakers, defibrillators,
-    devices for cardiac re-synchronization therapy, and implantable cardiac monitors.
+    devices for cardiac resynchronization therapy, and implantable cardiac monitors.
     The discrete terms necessary to convey a clinically relevant summary of the information
     obtained during a device interrogation are defined in this nomenclature. To improve
     workflow efficiencies, cardiology and electrophysiology practices require the
@@ -94,6 +94,23 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE11073.10103-2012
+    docid:
+    - id: IEEE 11073.10103-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 11073.10103-2012
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Biomedical monitoring
@@ -106,14 +123,18 @@ keyword:
 - content: Remote monitoring
 - content: Defibrillation
 - content: Bioinformatics
-- content: cardiac resynchronization therapy (CRT)
+- content: cardiac resynchronization therapy
 - content: codes
+- content: CRT
 - content: follow-up
 - content: home monitoring
-- content: IEEE 11073-10103
-- content: implantable cardioverter defibrillator (ICD)
+- content: ICD
+- content: IDC
+- content: IEEE 11073-10103&#8482;
+- content: implantable cardioverter defibrillator
 - content: implantable devices
-- content: implantable device cardiac (IDC) medical device communication
+- content: implantable device cardiac
+- content: medical device communication
 - content: nomenclature
 - content: pacemaker
 - content: remote follow-up
@@ -125,12 +146,10 @@ editorialgroup:
   - IEEE 11073 Standards Committee of the IEEE Engineering in Medicine and Biology
     Society
 ics:
-- code: 35.240.80
-  text: IT applications in health care technology
 - code: 11.040.40
   text: Implants for surgery, prosthetics and orthotics
-- code: 01.040.35
-  text: Information technology (Vocabularies)
+- code: 35.240.80
+  text: IT applications in health care technology
 ext:
   schema-version: v1.0.0
   standard_status: Inactive

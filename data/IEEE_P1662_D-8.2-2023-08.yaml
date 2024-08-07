@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: IEEEP1662-D-8.2-2023-08
 title:
-- content: IEEE Draft Recommended Practice for the Design and Application of Power
-    Electronics in Electrical Power Systems
+- content: IEEE Approved Draft Recommended Practice for the Design and Application
+    of Power Electronics in Electrical Power Systems
   format: text/plain
   type: main
 link:
@@ -23,11 +23,11 @@ docid:
 docnumber: IEEE P1662/D-8.2-2023-08
 date:
 - type: created
-  value: '2023'
+  value: '2023-12-14'
 - type: published
   value: '2023-09-29'
 - type: issued
-  value: '2023'
+  value: '2023-12-06'
 contributor:
 - organization:
     name:
@@ -50,7 +50,7 @@ abstract:
 - content: Recommendations and requirements for the design and applications of power
     electronics in land-based (onshore) and marine (offshore) electrical power systems
     are provided in this standard. A wide range of power electronics equipment with
-    aggregated power ratings at and above 100 kW with voltages equal or less than
+    aggregated power ratings at and above 100 kW with voltages equal to or less than
     52 kV (ac) or (dc) is covered. Existing engineering practices, analytical methods,
     and performance characteristics are described. Applicable international and local
     standards are referenced with appropriate guidance to provide users of the standard
@@ -90,11 +90,45 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1662-2016
+    docid:
+    - id: IEEE 1662-2016
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1662-2016
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1662-2016
+    docid:
+    - id: IEEE 1662-2016
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1662-2016
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Power electronics
 - content: Design engineering
-- content: IEEE 1662
+- content: IEEE 1662&#8482;
 - content: integrated power systems
 - content: PEBB
 - content: power electronic building blocks
@@ -108,7 +142,7 @@ ics:
   text: Electrical equipment of ships and of marine structures
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

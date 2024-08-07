@@ -24,6 +24,8 @@ docid:
   type: DOI
 docnumber: IEEE 3333.1.2-2017
 date:
+- type: updated
+  value: '2020-09-25'
 - type: created
   value: '2018'
 - type: published
@@ -60,6 +62,9 @@ abstract:
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -80,7 +85,7 @@ keyword:
 - content: foveation
 - content: human visual system
 - content: HVS
-- content: IEEE 3333.1.2
+- content: IEEE 3333.1.2&#8482;
 - content: quality assessment
 - content: QoE
 - content: quality of experience
@@ -97,12 +102,10 @@ keyword:
 doctype: standard
 editorialgroup:
   committee:
-  - Standards Activities Board Standards Committee of the IEEE Computer Society
-ics:
-- code: '33.170'
-  text: Television and radio broadcasting
+  - Standards Activities Board of the IEEE Computer Society
 ext:
   schema-version: v1.0.0
-  standard_status: Superseded
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

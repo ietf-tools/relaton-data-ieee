@@ -2,12 +2,14 @@
 schema-version: v1.2.3
 id: ANSI-IEEE802.3
 title:
-- content: 'IEEE Standards for Local Area Networks: Supplements to Carrier Sense Multiple
-    Access with Collision Detection (CSMA/CD) Access Method and Physical Layer Specifications'
+- content: 'IEEE Standards for LMANs: Supplement to IEEE 802.3 - Guidelines for the
+    Development of Managed Objects (GDMO) (IS0 10164-4) Format for Layer-Managed Objects
+    (Section 5) and Layer Management for 10 Mb/s Baseband Medium Attachment Units
+    (MAUs) (Section 20)'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/26520
+- content: https://ieeexplore.ieee.org/document/286119
   type: src
 type: standard
 docid:
@@ -18,18 +20,18 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-0-471-61153-0
+- id: 978-1-55937-342-5
   type: ISBN
-- id: 10.1109/IEEESTD.1987.78883
+- id: 10.1109/IEEESTD.1993.119668
   type: DOI
 docnumber: ANSI/IEEE 802.3
 date:
 - type: created
-  value: '1987-12-28'
+  value: '1993'
 - type: published
-  value: '2017-02-08'
+  value: '2019-04-05'
 - type: issued
-  value: '1987'
+  value: '1993-06-17'
 contributor:
 - organization:
     name:
@@ -43,19 +45,20 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2017-02-08'
+revdate: '2019-04-05'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'This report contains four supplements to IEEE 802.3: 802.3a Type 10BASE2
-    Coaxial Medium Specification (Section 10); 802.3b Type 10BROAD36 Medium Specification
-    (Section 11); 802.3c Repeater Unit Specification; and 802.3e Type 1BASE5 Twisted
-    Pair Medium Specification (Section 12). ANSI/IEEE Std 802.3-1985, Sections 1-7
-    form the base specification for these supplements. Supplements a, b, and c are
-    specifications for an alternate medium to be used in the CSMA/CD access method.
-    Supplement c completes the necessary specification for a Receiver Unit implementation.'
+- content: 'Abstract for IEEE 802.3-1993: This supplement to ISO/IEC 8802-3 : 1993
+    [IEEE Std 802.3,1993 Edition] defines a set of mechanisms that enable management
+    of ISO/IEC 8802-3 10 MWs integrated Medium Attachment Units (MAUs). The managed
+    objects within this standard are defined as sets of attributes, actions, notifications,
+    and behaviors in accordance with IEEE 802.1 and IS0 standards for network management.
+    Abstract for IEEE 802.3q-1993: Changes are made to Section 5, Lower Management,
+    of ISO/IEC 8802-3 : 1993 [IEEE Std 802.3,1 993 Edition] to bring it into alignment
+    with ISO/IEC 10165-4, Guidelines for the development of managed objects (GDMO).'
   language:
   - en
   script:
@@ -68,7 +71,7 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '1987'
+  from: '1993'
 relation:
 - type: updates
   bibitem:
@@ -87,27 +90,15 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: ANSI-IEEE802.3-1985
-    docid:
-    - id: ANSI/IEEE 802.3-1985
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI/IEEE 802.3-1985
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
-- content: Local area networks
-- content: Multiaccess communication
-- content: Standards
+- content: IEEE 802.3 Standard
+- content: EPON
+- content: IEC Standards
+- content: ISO Standards
+- content: Physical layer
+- content: carrier sense multiple access with collision detection (CSWCD); CSWCD Management
+    for DTEs; layer-managed objects; layer management; managed objects; medium attachment
+    units (MAUs); MAU Management
 doctype: standard
 editorialgroup:
   committee:

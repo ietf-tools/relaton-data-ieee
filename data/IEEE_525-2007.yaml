@@ -6,7 +6,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/4481755
+- content: https://ieeexplore.ieee.org/document/7752756
   type: src
 type: standard
 docid:
@@ -19,16 +19,16 @@ docid:
   primary: true
 - id: 978-0-7381-5530-2
   type: ISBN
-- id: 10.1109/IEEESTD.2007.4481755
+- id: 10.1109/IEEESTD.2008.7752756
   type: DOI
 docnumber: IEEE 525-2007
 date:
 - type: updated
-  value: '2008-10-24'
+  value: '2017-01-09'
 - type: created
   value: '2008'
 - type: published
-  value: '2013-08-15'
+  value: '2016-11-22'
 - type: issued
   value: '2007-03-08'
 contributor:
@@ -40,15 +40,15 @@ contributor:
     url: http://www.ieee.org
   role:
   - type: publisher
-revdate: '2013-08-15'
+revdate: '2016-11-22'
 language:
 - en
 script:
 - Latn
 abstract:
 - content: The design, installation, and protection of wire and cable systems in substations
-    are covered in this guide, with the objective of minimizing cable failures and
-    their consequences.
+    with the objective of minimizing cable failures and their consequences are covered
+    in this guide.
   language:
   - en
   script:
@@ -63,23 +63,6 @@ copyright:
     url: http://www.ieee.org
   from: '2007'
 relation:
-- type: updates
-  bibitem:
-    id: IEEE525-1992
-    docid:
-    - id: IEEE 525-1992
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 525-1992
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: obsoletedBy
   bibitem:
     id: IEEE525-2016
@@ -107,7 +90,30 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE525-1992
+    docid:
+    - id: IEEE 525-1992
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 525-1992
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
+- content: IEEE Standards
+- content: Maintenance engineering
+- content: Power cables
+- content: Optical fiber cable
+- content: Power system reliability
+- content: Cable installations
 - content: 525-2007
 - content: acceptance testing
 - content: cable

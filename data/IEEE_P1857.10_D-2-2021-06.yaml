@@ -26,7 +26,7 @@ date:
 - type: published
   value: '2021-06-21'
 - type: issued
-  value: '2021'
+  value: '2021-11-09'
 contributor:
 - organization:
     name:
@@ -45,6 +45,19 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: A set of high-efficiency video coding tools, including intra prediction,
+    inter prediction, transform, entropy coding and loop filter, and corresponding
+    decoding procedure, is defined in this standard. The target applications and services
+    include, but are not limited to, digital television broadcasting, IPTV, video
+    surveillance, video conference, Internet video streaming, and other video/audio-enabled
+    services and applications such as user-generated multimedia content, digital storage
+    media, and communication.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -62,24 +75,25 @@ keyword:
 - content: Predictive models
 - content: Encoding
 - content: Entropy
-- content: encoding
-- content: decoding
 - content: coding unit
-- content: intra prediction
-- content: inter prediction
-- content: prediction unit
-- content: prediction block
+- content: decoding
+- content: encoding
 - content: entropy coding
+- content: IEEE 1857.10&#8482;
+- content: inter prediction
+- content: intra prediction
+- content: loop filter
+- content: prediction block
+- content: prediction unit
 - content: quantization
 - content: slice
 - content: transform
 - content: transform block
 - content: transform coefficients
-- content: loop filter
 doctype: standard
 editorialgroup:
   committee:
-  - Standards Activities Board of the IEEE Computer Society
+  - Data Compression Standards Committee of the IEEE Computer Society
 ext:
   schema-version: v1.0.0
   standard_status: Inactive

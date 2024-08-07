@@ -2,14 +2,15 @@
 schema-version: v1.2.3
 id: ISO-IEC8802-2011
 title:
-- content: 'ISO/IEC International Standard - Information Technology  Telecommunications
-    and Information Exchange Between Systems  Local and Metropolitan Area Networks  Specific
-    Requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer
-    (PHY) Specifications Amendment 6: Medium Access Control (MAC) Security Enhancements'
+- content: 'ISO/IEC 8802-11:2005/AMD6, Information technology - Telecommunications
+    and information exchange between systems- Local and metropolitan area networks-
+    Specific requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical
+    Layer (PHY) specifications - Amendment 6: Medium Access Control(MAC) Security
+    Enhancements'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/4100091
+- content: https://ieeexplore.ieee.org/document/8727630
   type: src
 type: standard
 docid:
@@ -22,12 +23,14 @@ docid:
   primary: true
 - id: 978-0-7381-5542-5
   type: ISBN
-- id: 10.1109/IEEESTD.2004.311922
+- id: 10.1109/IEEESTD.2007.8727630
   type: DOI
 docnumber: ISO/IEC 8802-2011
 date:
 - type: created
-  value: '2004'
+  value: '2007-01-31'
+- type: published
+  value: '2019-05-31'
 - type: issued
   value: '2006'
 contributor:
@@ -43,6 +46,7 @@ contributor:
         country: USA
   role:
   - type: publisher
+revdate: '2019-05-31'
 language:
 - en
 script:
@@ -79,6 +83,46 @@ relation:
     formattedref:
       content: IEEE 802.11i-2004
       format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.11i-2004
+    docid:
+    - id: IEEE 802.11i-2004
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.11i-2004
+      format: text/plain
+keyword:
+- content: IEEE Standards
+- content: IEC Standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Physical Layer
+- content: Media Access Protocol
+- content: Wireless LAN
+- content: AES
+- content: authentication
+- content: CCM
+- content: CCMP
+- content: confidentiality
+- content: countermeasures
+- content: data authenticity
+- content: EAPOL-Key
+- content: 4-Way Handshake
+- content: Group Key Handshake
+- content: IEEE 802.1X
+- content: key management
+- content: key mixing
+- content: Michael
+- content: RC4
+- content: replay protection
+- content: robust security network
+- content: RSN
+- content: security
+- content: security association
+- content: TKIP
+- content: WEP
 doctype: standard
 editorialgroup:
   committee:

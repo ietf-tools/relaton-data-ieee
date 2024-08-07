@@ -22,7 +22,7 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-0-7381-6130-3
+- id: 978-1-5044-7426-9
   type: ISBN
 docnumber: IEEE 1800-2009 Redline
 date:
@@ -80,6 +80,67 @@ relation:
     formattedref:
       content: IEEE 1364-2005
       format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1800-2005
+    docid:
+    - id: IEEE 1800-2005
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1800-2005
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE1364-2005
+    docid:
+    - id: IEEE 1364-2005
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1364-2005
+      format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1800-2005
+    docid:
+    - id: IEEE 1800-2005
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1800-2005
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1800-2005
+    docid:
+    - id: IEEE 1800-2005
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1800-2005
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE1800-2005

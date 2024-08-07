@@ -27,7 +27,7 @@ date:
 - type: created
   value: '2006-02-24'
 - type: published
-  value: '2006-03-06'
+  value: '2013-01-03'
 - type: issued
   value: '2005-09-22'
 contributor:
@@ -39,18 +39,18 @@ contributor:
     url: http://www.ieee.org
     contact:
     - address:
-        city: New York
+        city: Piscataway
         country: USA
   role:
   - type: publisher
-revdate: '2006-03-06'
+revdate: '2013-01-03'
 language:
 - en
 script:
 - Latn
 abstract:
 - content: Uniform methods of measurements of radio-frequency power-line interference
-    filter attenuation performance in the range of 100 Hz to 10 GHz are set forth.
+    filterattenuation performance in the range of 100 Hz to 10 GHz are set forth.
     Nonloaded and loaded attenuation measurements are presented with varying source
     impedance, including radiofrequency current injection with linear and nonlinear
     load impedances. H- and S-parameter measurements are introduced for modeling results.
@@ -61,6 +61,9 @@ abstract:
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -81,13 +84,13 @@ keyword:
 - content: attenuation measurements
 - content: crest factor
 - content: dB
-- content: electromagnetic interference power-line filters
+- content: electromagnetic interference power-linefilters
 - content: EMI/RFI filters
 - content: insertion loss
 - content: LISN
 - content: no-load insertion loss
 - content: nonlinear load
-- content: radio-frequency current injection
+- content: radio-frequencycurrent injection
 - content: S-parameters
 doctype: standard
 editorialgroup:
@@ -95,10 +98,10 @@ editorialgroup:
   - Standards Development Committee of the IEEE Electromagnetic Compatibility Society
 ics:
 - code: 33.100.01
-  text: Electromagnetic compatibility in general
+  text: Electromagnetic compatibility (EMC) in general
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
-  standard_modified: Reserved
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

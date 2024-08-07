@@ -1,33 +1,30 @@
 ---
 schema-version: v1.2.3
-id: IEEE960-1177-1993
+id: IEEE960-1993
 title:
-- content: IEEE Standard FASTBUS Modular High-Speed Data Acquisition and Control System
-    and IEEE FASTBUS Standard Routines
+- content: 12. Signal Characteristics
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/467443
+- content: https://ieeexplore.ieee.org/document/476770
   type: src
 type: standard
 docid:
-- id: IEEE 960/1177-1993
+- id: IEEE 960-1993
   type: IEEE
   primary: true
-- id: IEEE 960™/1177™-1993
+- id: IEEE 960™-1993
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-0-7381-0723-3
+- id: 978-1-55937-396-8
   type: ISBN
-- id: 10.1109/IEEESTD.1994.122612
+- id: 10.1109/IEEESTD.1994.79586
   type: DOI
 docnumber: IEEE 960-1993
 date:
 - type: created
-  value: '1994-10-26'
-- type: published
-  value: '2017-02-09'
+  value: '1994'
 - type: issued
   value: '1993-12-02'
 contributor:
@@ -43,23 +40,10 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2017-02-09'
 language:
 - en
 script:
 - Latn
-abstract:
-- content: Mechanical, signal electrical, and protocol specifications are given for
-    a modular data bus system, which, while allowing equipment designers a wide choice
-    of solutions, ensure compatibility of all designs that obey the mandatory parts
-    of the specification. This standard applies to systems consisting of modular electronic
-    instrument units that process or transfer data or signals, normally in association
-    with computers or other automatic data processors.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 copyright:
 - owner:
   - name:
@@ -96,40 +80,6 @@ relation:
     formattedref:
       content: IEEE 960/1177-1993
       format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE960.1989-1177-Std
-    docid:
-    - id: IEEE 960.1989-1177-Std
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 960.1989-1177-Std
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEE960-1177-1993
-    docid:
-    - id: IEEE 960/1177-1993
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 960/1177-1993
-      format: text/plain
-keyword:
-- content: Data acquisition
-- content: FASTBUS
-- content: IEEE standards
-- content: bus system
-- content: data acquisition
-- content: FASTBUS
 doctype: standard
 editorialgroup:
   committee:
@@ -139,7 +89,6 @@ ics:
   text: Interface and interconnection equipment
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
-  standard_modified: Reserved
+  standard_status: Superseded
   pubstatus: Active
   holdstatus: Publish

@@ -50,7 +50,8 @@ script:
 abstract:
 - content: This amendment to IEEE Std 802.3-202x adds Physical Layer specifications
     and Management Parameters for 100 Gb/s, 200 Gb/s, and 400 Gb/s Ethernet optical
-    interfaces based on 100 Gb/s per wavelength optical signaling over multimode fiber.
+    interfaces for reaches up to 50 m and up to 100 m based on 100 Gb/s per wavelength
+    optical signaling.
   language:
   - en
   script:
@@ -68,40 +69,6 @@ copyright:
     url: http://www.ieee.org
   from: '2022'
 relation:
-- type: updates
-  bibitem:
-    id: IEEE802.3-2018
-    docid:
-    - id: IEEE 802.3-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.3-2018
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE802.3-2018
-    docid:
-    - id: IEEE 802.3-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.3-2018
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: updates
   bibitem:
     id: IEEE802.3-2018
@@ -155,7 +122,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

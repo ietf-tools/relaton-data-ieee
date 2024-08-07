@@ -25,7 +25,7 @@ date:
 - type: created
   value: '2023-02-09'
 - type: published
-  value: '2023-02-14'
+  value: '2023-02-15'
 - type: issued
   value: '2023'
 contributor:
@@ -41,20 +41,15 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-02-14'
+revdate: '2023-02-15'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The scope of this standard is to define a nomenclature for communication
-    of information from point-of-care medical devices. Primary emphasis is placed
-    on acute care medical devices and patient vital signs information. The nomenclature
-    also supports concepts in an object oriented information model that is for medical
-    device communications. This amendment extends IEEE Std 11073-10101 to include
-    additional terms primarily related to infusion pumps, ventilators, dialysis and
-    other key medical devices as well as event and alert identifiers for devices and
-    systems used in acute care .
+- content: Additional significant terms relevant to various medical devices in the
+    scope of IEEE 11073 have been proposed since initial publication and need to be
+    made normative to progress utilization of the Nomenclature standard overall.
   language:
   - en
   script:
@@ -72,6 +67,40 @@ copyright:
     url: http://www.ieee.org
   from: '2023'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE11073.10101-2019
+    docid:
+    - id: IEEE 11073.10101-2019
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 11073.10101-2019
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE11073.10101-2019
+    docid:
+    - id: IEEE 11073.10101-2019
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 11073.10101-2019
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE11073.10101-2019
@@ -166,7 +195,7 @@ ics:
   text: IT applications in health care technology
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

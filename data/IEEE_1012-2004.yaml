@@ -70,16 +70,6 @@ copyright:
     url: http://www.ieee.org
   from: '2005'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE1012-2012
-    docid:
-    - id: IEEE 1012-2012
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1012-2012
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEE1012-1998
@@ -97,6 +87,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE1012-2012
+    docid:
+    - id: IEEE 1012-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1012-2012
+      format: text/plain
 keyword:
 - content: Software
 - content: IEEE Standards

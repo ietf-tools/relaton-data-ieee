@@ -83,11 +83,40 @@ relation:
     script:
     - Latn
     format: text/plain
-keyword:
-- content: IEEE Standards
-- content: Digital recording
-- content: High-voltage techniques
-- content: Impulse testing
+- type: updates
+  bibitem:
+    id: IEEE1122-1998
+    docid:
+    - id: IEEE 1122-1998
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1122-1998
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1122-1998
+    docid:
+    - id: IEEE 1122-1998
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1122-1998
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 doctype: standard
 editorialgroup:
   committee:

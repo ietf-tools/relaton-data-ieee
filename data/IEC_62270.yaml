@@ -60,9 +60,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -74,108 +71,6 @@ copyright:
     - content: IEC
   from: '2013'
 relation:
-- type: updates
-  bibitem:
-    id: IEEE1249-1996
-    docid:
-    - id: IEEE 1249-1996
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1249-1996
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1249-1996
-    docid:
-    - id: IEEE 1249-1996
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1249-1996
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1249-1996
-    docid:
-    - id: IEEE 1249-1996
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1249-1996
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1249-1996
-    docid:
-    - id: IEEE 1249-1996
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1249-1996
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1249-1996
-    docid:
-    - id: IEEE 1249-1996
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1249-1996
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1249-1996
-    docid:
-    - id: IEEE 1249-1996
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1249-1996
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: updates
   bibitem:
     id: IEEE1249-1996
@@ -445,11 +340,9 @@ editorialgroup:
 ics:
 - code: '27.140'
   text: Hydraulic energy engineering
-- code: 35.240.50
-  text: IT applications in industry
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Inactive
+  standard_modified: Reserved
   pubstatus: Active
   holdstatus: Publish

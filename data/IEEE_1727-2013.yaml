@@ -60,9 +60,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -92,13 +89,13 @@ editorialgroup:
   committee:
   - Insulated Conductors of the IEEE Power and Energy Society
 ics:
-- code: 33.040.20
-  text: Transmission systems
 - code: 29.240.01
   text: Power transmission and distribution networks in general
+- code: 33.040.20
+  text: Transmission systems
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Inactive
+  standard_modified: Reserved
   pubstatus: Active
   holdstatus: Publish

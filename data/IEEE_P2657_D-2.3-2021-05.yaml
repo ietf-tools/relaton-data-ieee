@@ -47,15 +47,15 @@ language:
 script:
 - Latn
 abstract:
-- content: 'In the DC electric railways, when a train regenerates power, usually the
-    power has to be consumed within the DC network, because the DC Traction Power
-    Systems are usually not reversible. There are several technologies to improve
-    receptivity: energy consumption, energy feedback and energy storage. Solution
-    selection depends on the application. The Energy Feedback Systems (EFSs) convert
-    energy to AC power system as system DC voltage rises. Engineers are helped by
-    this guide to decide where these EFSs can provide the greatest benefits, design
-    solutions with the maximum effectiveness, and evaluate the costs and benefits
-    of developing new EFS projects.'
+- content: 'In the dc electric railways, when a train regenerates power, usually the
+    power has to be consumed within the dc network because the dc traction power systems
+    are often not reversible. Several technologies improve receptivity: energy consumption,
+    energy feedback, and energy storage. Solution selection depends on the application.
+    The energy feedback systems (EFSs) convert energy to ac power system as system
+    dc voltage rises. Engineers are helped by this guide to decide where these EFSs
+    can provide the greatest benefits, determine which design solutions will have
+    the maximum effectiveness, and evaluate the costs and benefits of developing new
+    EFS projects.'
   language:
   - en
   script:
@@ -79,19 +79,20 @@ keyword:
 - content: Voltage control
 - content: DC machines
 - content: Power system economics
-- content: DC traction
+- content: dc traction
+- content: economic consideration
 - content: energy saving
 - content: energy feedback system
-- content: voltage stabilization
+- content: IEEE 2657
 - content: modeling and simulation
-- content: economic consideration.
+- content: voltage stabilization
 doctype: standard
 editorialgroup:
   committee:
   - Rail Transportation Standards Committee of the IEEE Vehicular Technology Society
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

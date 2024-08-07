@@ -46,15 +46,15 @@ language:
 script:
 - Latn
 abstract:
-- content: This guide defines guidelines for knowledge graphs (KGs) in electric-power
-    fields. The guide specifies data and schema requirements, an Electric-Power-Oriented
-    KG construction process, KG integration, performance evaluation and application
-    scenarios. This guide helps institutions and enterprises that develop KGs in the
-    electric-power field follow a general implementation method. In addition, it may
-    help the suppliers provide compatible KGs under the unified power knowledge model
-    and interface specifications. With this guide, electric-power KGs can be simply
-    and efficiently combined and integrated, forming a more complete and accurate
-    knowledge service ecosystem in the power industry.
+- content: Guidelines for knowledge graphs (KGs) in electric power fields are provided
+    in this guide. Data and schema requirements, an electric power-oriented KG construction
+    process, KG integration, performance evaluation, and application scenarios are
+    also discussed. Institutions and enterprises that develop KGs in the electric
+    power field follow the general implementation method outlined here. In addition,
+    suppliers may be supported in providing compatible KGs under the unified power
+    knowledge model and interface specifications. With this guide, electric power
+    KGs can be simply and efficiently combined and integrated, forming a more complete
+    and accurate knowledge service ecosystem in the power industry.
   language:
   - en
   script:
@@ -78,18 +78,26 @@ keyword:
 - content: Ecosystems
 - content: Guidelines
 - content: Graphical models
-- content: knowledge graph
-- content: electric-power
-- content: knowledge graph application
+- content: electric power
 - content: EPKG
 - content: EPKG ODM
+- content: IEEE 2807.3&#8482;
+- content: knowledge graph
+- content: knowledge graph application
 doctype: standard
 editorialgroup:
   committee:
   - Standards Activities Board of the IEEE Computer Society
+ics:
+- code: '27.010'
+  text: Energy and heat transfer engineering in general
+- code: 29.240.01
+  text: Power transmission and distribution networks in general
+- code: 35.240.01
+  text: Application of information technology in general
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

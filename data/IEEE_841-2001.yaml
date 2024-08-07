@@ -70,16 +70,6 @@ copyright:
     url: http://www.ieee.org
   from: '2001'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE841-2009
-    docid:
-    - id: IEEE 841-2009
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 841-2009
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEE841-1994
@@ -97,6 +87,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE841-2009
+    docid:
+    - id: IEEE 841-2009
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 841-2009
+      format: text/plain
 keyword:
 - content: IEEE standards
 - content: NEMA frame motors

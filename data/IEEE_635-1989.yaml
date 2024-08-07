@@ -68,16 +68,6 @@ copyright:
     url: http://www.ieee.org
   from: '1989'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE635-2003
-    docid:
-    - id: IEEE 635-2003
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 635-2003
-      format: text/plain
 - type: updates
   bibitem:
     id: ANSI-IEEE635-1980
@@ -95,6 +85,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE635-2003
+    docid:
+    - id: IEEE 635-2003
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 635-2003
+      format: text/plain
 keyword:
 - content: Aluminum
 - content: Design methodology

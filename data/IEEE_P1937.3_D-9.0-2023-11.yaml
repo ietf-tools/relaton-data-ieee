@@ -47,9 +47,18 @@ language:
 script:
 - Latn
 abstract:
-- content: The content, the transmission protocol, and the transmission method of
-    UAV flight supervision data based on Global Navigation Satellite System (GNSS)
-    short message mechanisms are specified in this standard.
+- content: Effective regulation of civil unmanned aerial vehicle (UAV) is a key factor
+    to ensure the implementation of the low-altitude opening policy and promote the
+    development of the Drone industry and low-altitude economy. The current UAV flight
+    supervision technology based on cloud system relies on mobile public networks
+    that have many blind spots and UAV ground measurement and control links that are
+    easily interrupted by terrain and other factors, affecting the continuity of UAV
+    flight supervision. Message transmission through GNSS short message 6 mechanism
+    are not restricted by space, territory and terrain, which can enhance the continuity
+    and stability of transmission for UAV flight supervision and is an effective supplement
+    of the existing technique. This document specifies the content, the transmission
+    protocol, and the transmission method of UAV flight supervision data based on
+    GNSS short message mechanism.
   language:
   - en
   script:
@@ -67,16 +76,11 @@ copyright:
     url: http://www.ieee.org
   from: '2024'
 keyword:
-- content: IEEE Standards
-- content: Autonomous aerial vehicles
-- content: Data communication
-- content: Message services
-- content: Aerospace engineering
-- content: flight supervision data
-- content: IEEE 1937.3&#8482;
-- content: short message mechanisms
-- content: transmission protocol
+- content: IEEE std
 - content: UAV
+- content: short message mechanism
+- content: transmission protocol
+- content: flight supervision data
 doctype: standard
 editorialgroup:
   committee:
@@ -84,7 +88,7 @@ editorialgroup:
     Society
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

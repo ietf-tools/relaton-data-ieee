@@ -3,7 +3,7 @@ schema-version: v1.2.3
 id: IEEEC37.06-2009
 title:
 - content: IEEE Standard for AC High-Voltage Circuit Breakers Rated on a Symmetrical
-    Current Basis--Preferred Ratings and Related Required Capabilities for Voltages
+    Current Basis - Preferred Ratings and Related Required Capabilities for Voltages
     Above 1000 V
   format: text/plain
   type: main
@@ -27,8 +27,6 @@ docnumber: IEEE C37.06-2009
 date:
 - type: created
   value: '2009-11-06'
-- type: published
-  value: '2009-11-06'
 - type: issued
   value: '2009-09-11'
 contributor:
@@ -38,13 +36,8 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-    contact:
-    - address:
-        city: New York
-        country: USA
   role:
   - type: publisher
-revdate: '2009-11-06'
 language:
 - en
 script:
@@ -58,6 +51,9 @@ abstract:
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -75,23 +71,19 @@ keyword:
 - content: High-voltage techniques
 - content: Interrupters
 - content: Gas insulation
-- content: C37.06-2009
-- content: capacitance switching
-- content: dielectric withstand voltage
-- content: endurance
-- content: gas-insulated substations
-- content: high-voltage circuit breakers
-- content: interrupting capability
-- content: TRV
+- content: C37.06-2009, capacitance switching, dielectric withstand voltage, endurance,
+    gas-insulated substations, high-voltage circuit breakers, interrupting capability,
+    TRV
 doctype: standard
 editorialgroup:
   committee:
-  - Switchgear of the IEEE Power and Energy Society
+  - Switchgear Committee of the IEEE Power & Energy Society
 ics:
 - code: 29.120.50
   text: Fuses and other overcurrent protection devices
 ext:
   schema-version: v1.0.0
-  standard_status: Superseded
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

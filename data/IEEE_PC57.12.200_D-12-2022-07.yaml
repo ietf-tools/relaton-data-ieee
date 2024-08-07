@@ -47,15 +47,15 @@ language:
 script:
 - Latn
 abstract:
-- content: Bushings are critical components for power apparatus, as their main role
+- content: Bushings are critical components for power apparatus as their main role
     is to conduct current at high voltage through a grounded barrier. Statistical
-    studies have shown that bushing defects such as water ingression, and partial
-    discharge are among the most important causes for unexpected failures. Dielectric
-    Frequency Response, DFR, sometimes also known as Frequency Domain Spectroscopy,
-    FDS, which involves measurement of the bushing capacitance and dielectric losses
-    over a frequency range, is an effective method to detect deterioration of bushing
-    insulation. This guide applies to the DFR measurement of various types of bushings
-    either in the field or in the factory except for gas insulated bushings.
+    studies have shown that bushing defects such as water ingression and partial discharge
+    are among the most important causes for unexpected failures. Dielectric frequency
+    response (DFR), sometimes also known as frequency domain spectroscopy (FDS), which
+    involves measurement of the bushing capacitance and dielectric losses over a frequency
+    range, is an effective method to detect deterioration of bushing insulation. This
+    guide applies to the DFR measurement of various types of bushings either in the
+    field or in the factory except for gas-insulated bushings.
   language:
   - en
   script:
@@ -82,22 +82,23 @@ keyword:
 - content: Frequency response
 - content: Frequency-domain analysis
 - content: Reactive power
-- content: transformer bushing
+- content: dielectric frequency response (DFR)
+- content: dissipation factor
+- content: moisture
+- content: frequency domain spectroscopy (FDS)
+- content: IEEE C57.12.200
 - content: OIP bushing
+- content: power factor
 - content: RIP bushing
 - content: RIS bushing
-- content: moisture
-- content: power factor
-- content: dissipation factor
-- content: dielectric frequency response (DFR)
-- content: frequency domain spectroscopy (FDS)
+- content: transformer bushing
 doctype: standard
 editorialgroup:
   committee:
   - Transformers of the IEEE Power and Energy Society
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

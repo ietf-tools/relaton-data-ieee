@@ -73,6 +73,16 @@ copyright:
     url: http://www.ieee.org
   from: '1999'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE1293-2018
+    docid:
+    - id: IEEE 1293-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1293-2018
+      format: text/plain
 - type: updates
   bibitem:
     id: IEEE337-1972
@@ -90,16 +100,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEE1293-2018
-    docid:
-    - id: IEEE 1293-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1293-2018
-      format: text/plain
 keyword:
 - content: Acceleration measurement
 - content: accelerometer

@@ -87,16 +87,41 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE400.2-2013
+    docid:
+    - id: IEEE 400.2-2013
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 400.2-2013
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE400.2-2013
+    docid:
+    - id: IEEE 400.2-2013
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 400.2-2013
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
-- content: IEEE Standards
-- content: Power cable insulation
-- content: Dielectrics
-- content: Spectroscopy
-- content: Partial discharge measurement
-- content: Testing
-- content: Power system reliability
-- content: Safety
-- content: Voltage control
 - content: cable fault locating
 - content: cable system testing
 - content: cable testing
@@ -120,7 +145,7 @@ ics:
   text: Wires and symmetrical cables
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

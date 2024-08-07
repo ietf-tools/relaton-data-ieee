@@ -45,19 +45,6 @@ language:
 - en
 script:
 - Latn
-abstract:
-- content: This updated version is based on the material submitted for the 2020 reinstatement
-    of Working Group 120. The basic approach for the new organization is to provide
-    general guidelines intended to assist nonelectrical engineers and technicians
-    involved in quality control, acceptance, and prototype testing where electrical
-    instrumentation is the main tool for measuring, observing, or recording physical
-    quantities. The contributors strived to maintain the relevant and important knowledge
-    that was previously carefully collected and update this as appropriate.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -87,9 +74,91 @@ relation:
     script:
     - Latn
     format: text/plain
-keyword:
-- content: IEEE Standards
-- content: Power measurement
+- type: updates
+  bibitem:
+    id: ANSI-IEEE120-1989
+    docid:
+    - id: ANSI/IEEE 120-1989
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI/IEEE 120-1989
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: ANSI-IEEE120-1989
+    docid:
+    - id: ANSI/IEEE 120-1989
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI/IEEE 120-1989
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: ANSI-IEEE120-1989
+    docid:
+    - id: ANSI/IEEE 120-1989
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI/IEEE 120-1989
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: ANSI-IEEE120-1989
+    docid:
+    - id: ANSI/IEEE 120-1989
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI/IEEE 120-1989
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: ANSI-IEEE120-1989
+    docid:
+    - id: ANSI/IEEE 120-1989
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI/IEEE 120-1989
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 doctype: standard
 editorialgroup:
   committee:
@@ -99,7 +168,7 @@ ics:
   text: Measurement of electrical and magnetic quantities
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

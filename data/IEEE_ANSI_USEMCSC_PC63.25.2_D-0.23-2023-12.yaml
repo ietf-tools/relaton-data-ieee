@@ -25,7 +25,7 @@ date:
 - type: created
   value: '2024-05-29'
 - type: published
-  value: '2024-05-30'
+  value: '2024-05-31'
 - type: issued
   value: '2023'
 contributor:
@@ -41,22 +41,23 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2024-05-30'
+revdate: '2024-05-31'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: ANSI/USEMCSC C63.25.2 is a stand-alone standard for site validation measurements
+- content: USEMCSC C63.25.2 is a stand-alone standard for site validation measurements
     of radiated emission test sites from 30 MHz to 1 GHz. The site validation techniques
-    covered are the site comparison method and the delta normalized site attenuation
-    method. In addition, the traditional normalized site attenuation method is retained
-    for continuity. This standard incorporates Annex D of ANSI C63.4-2014 and ANSI
-    C63.14a-2017 as well as necessary information from ANSI C63.5-2017 related strictly
-    to site validation requirements (for example, antennas allowed to be used, geometry-specific
-    correction factors for biconical dipoles used in normalized site attenuation measurements).
-    This standard can be referenced by other ANSI/USEMCSC C63 standards where site
-    validation requirements are necessary.
+    covered are the site comparison method (SCM) and the delta normalized site attenuation
+    (DNSA) method. In addition, the traditional normalized site attenuation method
+    is retained for continuity. This standard incorporates Annex D of ANSI C63.4-2014
+    + A1-2017 [B16] as well as necessary information from ANSI C63.5-2017 related
+    strictly to site validation requirements (for example, antennas allowed to be
+    used, geometry-specific correction factors for biconical dipoles used in normalized
+    site attenuation measurements). This standard can be referenced by other Accredited
+    National Standards Committee (ANSC) C63 standards where site validation requirements
+    are necessary
   language:
   - en
   script:
@@ -85,17 +86,16 @@ keyword:
 - content: Electromagnetic measurements
 - content: Radiation detectors
 - content: Testing
-- content: ANSI C63.25.2
+- content: Site Validation
+- content: Normalized Site Attenuation
 - content: antennas
-- content: normalized site attenuation
-- content: site validation
 doctype: standard
 editorialgroup:
   committee:
   - Committee on Electromagnetic Compatibility
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

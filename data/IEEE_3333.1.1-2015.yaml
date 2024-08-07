@@ -61,9 +61,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -72,6 +69,17 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2015'
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE3333.1.1-2024
+    docid:
+    - id: IEEE 3333.1.1-2024
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 3333.1.1-2024
+      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Software quality
@@ -102,7 +110,6 @@ ics:
   text: Television and radio broadcasting
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
-  standard_modified: Approved
+  standard_status: Superseded
   pubstatus: Active
   holdstatus: Publish

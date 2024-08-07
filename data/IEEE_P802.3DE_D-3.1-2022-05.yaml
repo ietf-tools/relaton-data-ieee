@@ -2,9 +2,9 @@
 schema-version: v1.2.3
 id: IEEEP802.3de-D-3.1-2022-05
 title:
-- content: 'IEEE Approved Draft Standard for Ethernet - Amendment 5: Enhancements
-    to the MAC Merge and Time Synchronization Service Interface for Point-to-Point
-    10 Mb/s Single Pair Ethernet'
+- content: 'IEEE Draft Standard for Ethernet - Amendment 5: Enhancements to the MAC
+    Merge and Time Synchronization Service Interface for Point-to-Point 10 Mb/s Single
+    Pair Ethernet'
   format: text/plain
   type: main
 link:
@@ -48,7 +48,7 @@ language:
 script:
 - Latn
 abstract:
-- content: This amendment to IEEE Std 802.3-202x specifies additions to and appropriate
+- content: This amendment to IEEE Std 802.3-2022 specifies additions to and appropriate
     modifications of the IEEE Std 802.3 MAC Merge sublayer and the Time Synchronization
     Service Interface (TSSI) to support 10 Mb/s Single-Pair Ethernet point to point
     PHYs.
@@ -69,6 +69,23 @@ copyright:
     url: http://www.ieee.org
   from: '2022'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE802.3-2022
+    docid:
+    - id: IEEE 802.3-2022
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3-2022
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE802.3-2018
@@ -98,12 +115,12 @@ keyword:
 - content: 10BASE-T1S
 - content: copper
 - content: Ethernet
-- content: IEEE 802.3
-- content: IEEE 802.3cg&#8482;
-- content: IEEE 802.3de&#8482;
-- content: TSSI
 - content: express traffic
-- content: preemption.
+- content: IEEE 802.3
+- content: IEEE 802.3cg
+- content: IEEE 802.3de
+- content: preemption
+- content: TSSI
 doctype: standard
 editorialgroup:
   committee:
@@ -115,7 +132,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold
