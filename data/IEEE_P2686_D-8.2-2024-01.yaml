@@ -25,7 +25,7 @@ date:
 - type: created
   value: '2024-01-29'
 - type: published
-  value: '2024-01-31'
+  value: '2024-01-30'
 - type: issued
   value: '2024'
 contributor:
@@ -41,11 +41,28 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2024-01-31'
+revdate: '2024-01-30'
 language:
 - en
 script:
 - Latn
+abstract:
+- content: This document includes information and recommendations on the design, configuration,
+    and interoperability of battery management systems in stationary applications.
+    It considers the battery management system to be a functionally distinct component
+    of a battery energy storage system that includes active functions necessary to
+    protect the battery from modes of operation that could impact its safety or longevity.
+    It provides recommendations on how to configure a battery management system to
+    protect a given battery type in each application environment. Lastly, it stipulates
+    recommended communication structures and data models that help support interoperability
+    and cybersecurity. The result is a comprehensive list of best practices around
+    the design and integration of battery management systems that protect the safety
+    and longevity of batteries in energy storage applications.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -61,6 +78,15 @@ keyword:
 - content: IEEE Standards
 - content: Energy storage
 - content: Battery management systems
+- content: Batteries
+- content: Battery Management Systems
+- content: Energy Storage
+- content: Distributed Energy Technologies
+- content: Battery Safety
+- content: Battery Degradation
+- content: State-of-Charge
+- content: State-of-Health
+- content: Interoperability
 doctype: standard
 editorialgroup:
   committee:
@@ -68,7 +94,7 @@ editorialgroup:
     Society
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold
