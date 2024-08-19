@@ -24,8 +24,6 @@ docid:
   type: DOI
 docnumber: IEEE C37.63-2013
 date:
-- type: updated
-  value: '2013-06-14'
 - type: created
   value: '2013'
 - type: published
@@ -39,6 +37,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2013-04-29'
@@ -119,6 +121,23 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC37.63-2005
+    docid:
+    - id: IEEE C37.63-2005
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.63-2005
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Underwater power cables
@@ -141,7 +160,7 @@ ics:
   text: Switches
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish
