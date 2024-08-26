@@ -1,0 +1,114 @@
+---
+schema-version: v1.2.3
+id: IEEEP837
+title:
+- content: IEEE Draft Standard for Qualifying Permanent Connections Used in Substation
+    Grounding
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10645788
+  type: src
+type: standard
+docid:
+- id: IEEE P837
+  type: IEEE
+  primary: true
+- id: IEEE P837™
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-1133-2
+  type: ISBN
+docnumber: IEEE P837
+date:
+- type: created
+  value: '2024-08-22'
+- type: published
+  value: '2024-08-23'
+- type: issued
+  value: '2024'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2024-08-23'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Direction and methods for qualifying permanent connections used for substation
+    grounding are provided in this standard. This standard particularly addresses
+    the connection used within the grid system, the connection used to join ground
+    leads to the grid system, and the connection used to join the ground leads to
+    equipment and structures.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: draft
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2024'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE837-2014
+    docid:
+    - id: IEEE 837-2014
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 837-2014
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: conductor
+- content: conductor combination
+- content: connection
+- content: connection thermal capacity
+- content: control conductor
+- content: current loop cycle
+- content: equalizer
+- content: grid system
+- content: grounding
+- content: grounding connection
+- content: IEEE 837&#8482;
+- content: permanent connection
+doctype: standard
+editorialgroup:
+  committee:
+  - Substations Committee of the IEEE Power and Energy Society
+ics:
+- code: 29.240.10
+  text: Substations. Surge arresters
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

@@ -1,35 +1,36 @@
 ---
 schema-version: v1.2.3
-id: IEEEC37.012-Cor1-2016
+id: IEEEC37.63-2024
 title:
-- content: IEEE Guide for the Application of Capacitance Current Switching for AC
-    High-Voltage Circuit Breakers above 1000 V - Corrigendum 1
+- content: IEEE Standard Requirements for Overhead, Pad-Mounted, Dry-Vault, and Submersible
+    Automatic Line Sectionalizers for Alternating Current Systems up to and Including
+    38 kV
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/7405204
+- content: https://ieeexplore.ieee.org/document/10643023
   type: src
 type: standard
 docid:
-- id: IEEE C37.012/Cor1-2016
+- id: IEEE C37.63-2024
   type: IEEE
   primary: true
-- id: IEEE C37.012™/Cor1-2016
+- id: IEEE C37.63™-2024
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-0698-7
+- id: 979-8-8557-1037-3
   type: ISBN
-- id: 10.1109/IEEESTD.2016.7405204
+- id: 10.1109/IEEESTD.2024.10643023
   type: DOI
-docnumber: IEEE C37.012/Cor1-2016
+docnumber: IEEE C37.63-2024
 date:
 - type: created
-  value: '2016-02-12'
+  value: '2024-08-15'
 - type: published
-  value: '2016-02-11'
+  value: '2024-08-20'
 - type: issued
-  value: '2016-01-29'
+  value: '2024-03-21'
 contributor:
 - organization:
     name:
@@ -43,19 +44,24 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2016-02-11'
+revdate: '2024-08-20'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This corrigendum addresses a change in Equation (26) and the list of variables
-    belonging to this equation.
+- content: Required definitions, ratings, procedures for performing design tests and
+    production tests, constructional requirements, and application considerations
+    for overhead and pad-mounted, dry-vault, and submersible automatic line sectionalizers
+    for ac systems are specified in this standard.
   language:
   - en
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -63,20 +69,20 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2016'
+  from: '2024'
 relation:
 - type: updates
   bibitem:
-    id: IEEEC37.012-2014
+    id: IEEEC37.63-2013
     docid:
-    - id: IEEE C37.012-2014
+    - id: IEEE C37.63-2013
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE C37.012-2014
+      content: IEEE C37.63-2013
       format: text/plain
   description:
-    content: corrects
+    content: revises
     language:
     - en
     script:
@@ -84,10 +90,14 @@ relation:
     format: text/plain
 keyword:
 - content: IEEE Standards
-- content: Circuit breakers
-- content: Switching circuits
-- content: Capacitance
-- content: IEEE C37.012
+- content: Switchgear
+- content: Underwater cables
+- content: cutout type
+- content: dry-vault
+- content: IEEE Std C37.63&#8482;
+- content: pad-mounted
+- content: sectionalizers
+- content: submersible
 doctype: standard
 editorialgroup:
   committee:
@@ -97,6 +107,7 @@ ics:
   text: Switches
 ext:
   schema-version: v1.0.0
-  standard_status: Superseded
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish
