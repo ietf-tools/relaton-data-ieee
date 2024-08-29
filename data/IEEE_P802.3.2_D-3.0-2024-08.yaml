@@ -1,0 +1,109 @@
+---
+schema-version: v1.2.3
+id: IEEEP802.3.2-D-3.0-2024-08
+title:
+- content: IEEE Draft Standard for Ethernet - YANG Data Model Definitions
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10654772
+  type: src
+type: standard
+docid:
+- id: IEEE P802.3.2/D-3.0-2024-08
+  type: IEEE
+  primary: true
+- id: IEEE P802.3.2™/D-3.0-2024-08
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-1125-7
+  type: ISBN
+docnumber: IEEE P802.3.2/D-3.0-2024-08
+date:
+- type: created
+  value: '2024-08-21'
+- type: published
+  value: '2024-08-28'
+- type: issued
+  value: '2024'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2024-08-28'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: YANG models for IEEE Std 802.3 are defined in this standard. This standard
+    also publishes these models in a machine-readable format.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: draft
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2024'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE802.3.2-2019
+    docid:
+    - id: IEEE 802.3.2-2019
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3.2-2019
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Ethernet
+- content: YOLO
+- content: Data models
+- content: Local area networks
+- content: '802.3'
+- content: 802.3.2
+- content: Ethernet
+- content: YANG
+doctype: standard
+editorialgroup:
+  committee:
+  - LAN/MAN Standards Committee of the IEEE Computer Society
+ics:
+- code: 35.100.10
+  text: Physical layer
+- code: '35.110'
+  text: Networking
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold
