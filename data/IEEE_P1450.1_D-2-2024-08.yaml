@@ -1,0 +1,120 @@
+---
+schema-version: v1.2.3
+id: IEEEP1450.1-D-2-2024-08
+title:
+- content: IEEE Draft Standard for Extensions to Standard Test Interface Language
+    (STIL) (IEEE Std 1450-1999) for Semiconductor Design Environments
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10659395
+  type: src
+type: standard
+docid:
+- id: IEEE P1450.1/D-2-2024-08
+  type: IEEE
+  primary: true
+- id: IEEE P1450.1™/D-2-2024-08
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-1147-9
+  type: ISBN
+docnumber: IEEE P1450.1/D-2-2024-08
+date:
+- type: created
+  value: '2024-08-28'
+- type: published
+  value: '2024-08-29'
+- type: issued
+  value: '2024'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2024-08-29'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Standard Test Interface Language (STIL) provides an interface between digital
+    test generation tools and test equipment. Extensions to the test interface language
+    (contained in this standard) are defined that (1) facilitate the use of the language
+    in the design environment and (2) facilitate the use of the language for large
+    designs encompassing subdesigns with reusable patterns.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: draft
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2024'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1450.1-2005
+    docid:
+    - id: IEEE 1450.1-2005
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1450.1-2005
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Feedback
+- content: System-on-chip
+- content: Test equipment
+- content: Interface management
+- content: Semiconductor device measurement
+- content: advanced scan architecture
+- content: core
+- content: environment
+- content: fail feedback
+- content: lockstep
+- content: parallel patterns
+- content: parameterized data
+- content: pattern tiling
+- content: pragma
+- content: signal variable
+- content: system on chip (SoC)
+- content: test protocol
+doctype: standard
+editorialgroup:
+  committee:
+  - Test Technology of the IEEE Computer Society
+ics:
+- code: '35.060'
+  text: Languages used in information technology
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold
