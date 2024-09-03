@@ -68,6 +68,16 @@ copyright:
     url: http://www.ieee.org
   from: '1997'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEEC37.63-2005
+    docid:
+    - id: IEEE C37.63-2005
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.63-2005
+      format: text/plain
 - type: updates
   bibitem:
     id: ANSI-IEEEC37.63-1984
@@ -85,16 +95,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEEC37.63-2005
-    docid:
-    - id: IEEE C37.63-2005
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.63-2005
-      format: text/plain
 keyword:
 - content: IEEE standards
 - content: sectionalizers

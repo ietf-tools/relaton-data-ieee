@@ -25,7 +25,7 @@ date:
 - type: created
   value: '2022-12-02'
 - type: published
-  value: '2022-12-05'
+  value: '2022-12-06'
 - type: issued
   value: '2022'
 contributor:
@@ -41,7 +41,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-12-05'
+revdate: '2022-12-06'
 language:
 - en
 script:
@@ -67,6 +67,40 @@ copyright:
     url: http://www.ieee.org
   from: '2022'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE11073.10101-2019
+    docid:
+    - id: IEEE 11073.10101-2019
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 11073.10101-2019
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE11073.10101-2019
+    docid:
+    - id: IEEE 11073.10101-2019
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 11073.10101-2019
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE11073.10101-2019
@@ -181,7 +215,7 @@ ics:
   text: IT applications in health care technology
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

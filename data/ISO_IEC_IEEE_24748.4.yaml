@@ -24,10 +24,12 @@ docid:
   type: DOI
 docnumber: ISO/IEC/IEEE 24748.4
 date:
+- type: updated
+  value: '2016-06-06'
 - type: created
   value: '2016-05-15'
 - type: published
-  value: '2016-05-18'
+  value: '2016-05-17'
 - type: issued
   value: '2016-03-03'
 contributor:
@@ -37,13 +39,9 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-    contact:
-    - address:
-        city: New York
-        country: USA
   role:
   - type: publisher
-revdate: '2016-05-18'
+revdate: '2016-05-17'
 language:
 - en
 script:
@@ -81,23 +79,6 @@ copyright:
     - content: IEC
   from: '2016'
 relation:
-- type: updates
-  bibitem:
-    id: IEEE1220-2005
-    docid:
-    - id: IEEE 1220-2005
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1220-2005
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: updates
   bibitem:
     id: IEEE1220-2005

@@ -26,6 +26,8 @@ docnumber: IEEE 286-2000
 date:
 - type: created
   value: '2001'
+- type: published
+  value: '2002-08-07'
 - type: issued
   value: '2000-03-30'
 contributor:
@@ -41,21 +43,19 @@ contributor:
         country: USA
   role:
   - type: publisher
+revdate: '2002-08-07'
 language:
 - en
 script:
 - Latn
 abstract:
 - content: The power factor tip-up testing of stator coils and bars for use in large
-    electric machinery is covered in this recommended practice.
+    electric machineryis covered in this recommended practice.
   language:
   - en
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -286,142 +286,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: ANSI-IEEE286-1975
-    docid:
-    - id: ANSI/IEEE 286-1975
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI/IEEE 286-1975
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: ANSI-IEEE286-1975
-    docid:
-    - id: ANSI/IEEE 286-1975
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI/IEEE 286-1975
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: ANSI-IEEE286-1975
-    docid:
-    - id: ANSI/IEEE 286-1975
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI/IEEE 286-1975
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: ANSI-IEEE286-1975
-    docid:
-    - id: ANSI/IEEE 286-1975
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI/IEEE 286-1975
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: ANSI-IEEE286-1975
-    docid:
-    - id: ANSI/IEEE 286-1975
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI/IEEE 286-1975
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: ANSI-IEEE286-1975
-    docid:
-    - id: ANSI/IEEE 286-1975
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI/IEEE 286-1975
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: ANSI-IEEE286-1975
-    docid:
-    - id: ANSI/IEEE 286-1975
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI/IEEE 286-1975
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: ANSI-IEEE286-1975
-    docid:
-    - id: ANSI/IEEE 286-1975
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI/IEEE 286-1975
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Stators
@@ -429,6 +293,12 @@ keyword:
 - content: Power measurement
 - content: Machinery
 - content: Insultation
+- content: cell capacitance
+- content: electric generators
+- content: power factor
+- content: stator bar
+- content: stator winding
+- content: tan delta
 doctype: standard
 editorialgroup:
   committee:
@@ -438,7 +308,7 @@ ics:
   text: Insulation systems
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Inactive
+  standard_modified: Reserved
   pubstatus: Active
   holdstatus: Publish

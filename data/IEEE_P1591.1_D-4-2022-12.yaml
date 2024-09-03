@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2023-03-17'
 - type: issued
-  value: '2023-09-21'
+  value: '2023'
 contributor:
 - organization:
     name:
@@ -49,10 +49,10 @@ script:
 abstract:
 - content: Hardware performance, test requirements, procedures, and acceptance criteria
     for a transmission line overhead ground wire (also known as shield wire, static
-    wire, earth wire, and sky wire) with optical fibers commonly known as optical
-    ground wire (OPGW) are covered. Functional requirements--such as electrical, mechanical,
+    wire, earth wire, sky wire) with optical fibers commonly known as optical ground
+    wire (OPGW) are covered. Functional requirements, such as electrical, mechanical,
     optical fiber, environmental, and test requirements related to design, installation,
-    in service, and maintenance, including routine tests--are included.
+    in service, and maintenance, including routine tests, are included.
   language:
   - en
   script:
@@ -122,13 +122,8 @@ relation:
     - Latn
     format: text/plain
 keyword:
-- content: IEEE Standards
-- content: Optical fibers
-- content: Wires
-- content: Testing
-- content: Grounding
 - content: fiber optic ground wire
-- content: IEEE 1591.1&#8482;
+- content: IEEE 1591.1
 - content: laboratory tests
 - content: OPGW
 - content: optical ground wire
@@ -136,13 +131,13 @@ keyword:
 doctype: standard
 editorialgroup:
   committee:
-  - Power System Communications and Cybersecurity of the IEEE Power and Energy Society
+  - IEEE Power and Energy Society
 ics:
 - code: 33.180.10
   text: Fibres and cables
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

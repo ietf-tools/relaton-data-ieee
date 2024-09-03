@@ -2,8 +2,7 @@
 schema-version: v1.2.3
 id: IEEEPC37.234-D-11.1-2021-08
 title:
-- content: IEEE Approved Draft Guide for Protective Relay Applications to Power System
-    Buses
+- content: IEEE Draft Guide for Protective Relay Applications to Power System Buses
   format: text/plain
   type: main
 link:
@@ -23,11 +22,11 @@ docid:
 docnumber: IEEE PC37.234/D-11.1-2021-08
 date:
 - type: created
-  value: '2021-11-11'
+  value: '2021-08-25'
 - type: published
   value: '2021-08-31'
 - type: issued
-  value: '2021-11-09'
+  value: '2021'
 contributor:
 - organization:
     name:
@@ -47,9 +46,9 @@ language:
 script:
 - Latn
 abstract:
-- content: Principles of power bus protection are discussed. The availability and
-    location of breakers, current sensing devices, and disconnect switches are addressed,
-    as well as bus configurations and switching schemes and their impact on the selection
+- content: This guide discusses principles of power bus protection. It addresses availability
+    and location of breakers, current sensing devices, and disconnect switches as
+    well as bus configurations and switching schemes and their impact on the selection
     and application of bus protection. Bus protection schemes are presented, and their
     characteristics, strengths, and limitations are examined. Bus protection applications
     are presented.
@@ -87,23 +86,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC37.234-2009
-    docid:
-    - id: IEEE C37.234-2009
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.234-2009
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Circuit breakers
@@ -112,8 +94,7 @@ keyword:
 - content: Protective relaying
 - content: Voltage control
 - content: Substations
-- content: blocking zone-interlocked bus protection
-- content: breaker-and-a-half
+- content: Breaker-and-a-half
 - content: breaker failure (BF) protection
 - content: breaker substitution
 - content: buses
@@ -126,7 +107,6 @@ keyword:
 - content: dynamic bus replica
 - content: electric power substations
 - content: high-impedance differential
-- content: IEEE C37.234
 - content: main bus
 - content: partial differential
 - content: percentage-restrained differential
@@ -136,6 +116,7 @@ keyword:
 - content: stub bus
 - content: transfer bus
 - content: voltage trip supervision
+- content: blocking zone-interlocked bus protection
 doctype: standard
 editorialgroup:
   committee:
@@ -147,7 +128,7 @@ ics:
   text: Power transmission and distribution networks in general
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

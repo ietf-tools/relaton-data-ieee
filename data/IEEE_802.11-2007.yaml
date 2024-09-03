@@ -53,9 +53,7 @@ abstract:
 - content: This revision specifies technical corrections and clarifications to IEEE
     Std 802.11 for wireless local area networks (WLANS) as well as enhancements to
     the existing medium access control (MAC) and physical layer (PHY) functions. It
-    also incorporates Amendments 1 through 8 including a corrigendum. The "IEEE Get
-    Program" grants public access to view and download individual PDFs of select standards
-    at no charge. Visit http://standards.ieee.org/about/get/index.html for details.
+    also incorporates Amendments 1 through 8 including a corrigendum.
   language:
   - en
   script:
@@ -70,6 +68,16 @@ copyright:
     url: http://www.ieee.org
   from: '2007'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE802.11-2012
+    docid:
+    - id: IEEE 802.11-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.11-2012
+      format: text/plain
 - type: updates
   bibitem:
     id: ANSI-IEEE802.11-1999
@@ -87,16 +95,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEE802.11-2012
-    docid:
-    - id: IEEE 802.11-2012
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.11-2012
-      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Wireless LAN

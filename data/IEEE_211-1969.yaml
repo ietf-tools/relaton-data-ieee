@@ -6,7 +6,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8684401
+- content: https://ieeexplore.ieee.org/document/7370739
   type: src
 type: standard
 docid:
@@ -19,14 +19,16 @@ docid:
   primary: true
 - id: 978-1-5044-0203-3
   type: ISBN
-- id: 10.1109/IEEESTD.1968.8684401
+- id: 10.1109/IEEESTD.1969.7370739
   type: DOI
 docnumber: IEEE 211-1969
 date:
+- type: updated
+  value: '2016-02-03'
 - type: created
-  value: '1968-12-31'
+  value: '1969-01-12'
 - type: published
-  value: '2019-04-05'
+  value: '2016-01-01'
 - type: issued
   value: '1969'
 contributor:
@@ -38,13 +40,14 @@ contributor:
     url: http://www.ieee.org
   role:
   - type: publisher
-revdate: '2019-04-05'
+revdate: '2016-01-01'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Definitions of Terms for Radio Wave Propagation
+- content: This Standard presents a list of 123 terms for the study of radio wave
+    propagation. Definitions are presented.
   language:
   - en
   script:
@@ -69,6 +72,24 @@ relation:
     formattedref:
       content: ANSI/IEEE 211-1977
       format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: ANSI-IEEE211-1977
+    docid:
+    - id: ANSI/IEEE 211-1977
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI/IEEE 211-1977
+      format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Radio communication
+- content: Radio wave propagation
+- content: Wave propagation
+- content: Terminology
+- content: ANSI Standards
+- content: Broadcasting
 doctype: standard
 ext:
   schema-version: v1.0.0

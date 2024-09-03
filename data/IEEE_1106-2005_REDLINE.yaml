@@ -69,6 +69,16 @@ copyright:
     url: http://www.ieee.org
   from: '2005'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE1106-2015
+    docid:
+    - id: IEEE 1106-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1106-2015
+      format: text/plain
 - type: updates
   bibitem:
     id: IEEE1106-1995
@@ -86,16 +96,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEE1106-2015
-    docid:
-    - id: IEEE 1106-2015
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1106-2015
-      format: text/plain
 keyword:
 - content: IEEE standards
 - content: Batteries

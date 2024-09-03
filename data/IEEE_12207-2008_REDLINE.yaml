@@ -87,6 +87,16 @@ copyright:
     - content: IEC
   from: '2008'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: ISO-IEC-IEEE12207-2017
+    docid:
+    - id: ISO/IEC/IEEE 12207-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ISO/IEC/IEEE 12207-2017
+      format: text/plain
 - type: updates
   bibitem:
     id: IEEE-EIA12207.0-1996
@@ -104,16 +114,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: ISO-IEC-IEEE12207-2017
-    docid:
-    - id: ISO/IEC/IEEE 12207-2017
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ISO/IEC/IEEE 12207-2017
-      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: IEC Standards

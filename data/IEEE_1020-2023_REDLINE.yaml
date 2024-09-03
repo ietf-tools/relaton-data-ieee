@@ -29,7 +29,7 @@ date:
 - type: created
   value: '2023-08-31'
 - type: published
-  value: '2024-04-18'
+  value: '2024-04-19'
 - type: issued
   value: '2023-06-29'
 contributor:
@@ -45,7 +45,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2024-04-18'
+revdate: '2024-04-19'
 language:
 - en
 script:
@@ -170,12 +170,29 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1020-2011
+    docid:
+    - id: IEEE 1020-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1020-2011
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
-- content: IEEE Standards
 - content: Hydroelectric power generation
-- content: Industrial plants
-- content: Control systems
-- content: Power generation
+- content: IEEE Standards
+- content: Protection
+- content: Standards
+- content: Monitoring
 - content: control
 - content: hydroelectric
 - content: IEEE 1020&#8482;

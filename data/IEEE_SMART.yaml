@@ -2,11 +2,11 @@
 schema-version: v1.2.3
 id: IEEESmart
 title:
-- content: 'IEEE Smart Grid Vision for Computing: 2030 and Beyond Reference Model'
+- content: 'IEEE Smart Grid Vision for Vehicular Technology: 2030 and Beyond'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/7475484
+- content: https://ieeexplore.ieee.org/document/6716939
   type: src
 type: standard
 docid:
@@ -17,16 +17,18 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-1988-8
+- id: 978-0-7381-8835-5
   type: ISBN
+- id: 10.1109/IEEESTD.2014.6716939
+  type: DOI
 docnumber: IEEE Smart
 date:
 - type: created
-  value: '2016-05-16'
+  value: '2014-01-15'
 - type: published
-  value: '2016-05-20'
+  value: '2014-01-20'
 - type: issued
-  value: '2016'
+  value: '2014'
 contributor:
 - organization:
     name:
@@ -40,22 +42,22 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2016-05-20'
+revdate: '2014-01-20'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'This document, IEEE Smart Grid Vision for Computing: 2030 and Beyond Reference
-    Model introduces the concepts and structure of the more detailed IEEE Smart Grid
-    Vision for Computing: 2030 and Beyond and IEEE Smart Grid Vision for Computing:
-    2030 and Beyond Roadmap that together provide Smart Grid architectural concepts,
-    functional concepts, and technological concepts that describe the time-phased
-    role of computing that enable Smart Grid functions. The content and examples in
-    this reference model ultimately provide energy systems professionals and computing
-    technologists assistance in the use of the Vision documents, facilitating investment
-    decisions, and fostering advancements in the Smart Grid. For Corporate or Institutional
-    Access, request a custom quote for your organization at www.ieee.org/smartgridresearch'
+- content: 'Vehicle electrification is envisioned to be a significant component of
+    the forthcoming Smart Grid. In this document, a Smart Grid vision of electric
+    vehicle technology for the next 30 years and beyond is presented from six different
+    perspectives: 1) social, economic, and political implications, 2) intelligent
+    vehicles and grid interaction, 3) infrastructure, 4) travelers, 5) communications,
+    and 6) systems, operations, and scenarios. Following the chapters focusing on
+    these distinct perspectives, conclusive remarks will overview the interconnections
+    among all chapters. Discussions of key technologies dictating the real future
+    of the evolution of vehicle electrification will also be included. For Corporate
+    or Institutional Access, request a custom quote for your organization at www.ieee.org/smartgridresearch.'
   language:
   - en
   script:
@@ -68,25 +70,47 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2016'
+  from: '2014'
 keyword:
-- content: Smart grids
-- content: Trademarks
-- content: Computational modeling
-- content: IEEE Standards
-- content: Standards organizations
-- content: Organizations
-- content: Computational intelligence
-- content: Cyber security and resilience
-- content: Data analytics (and databases)
-- content: Distributed multi-agent architecture
-- content: High-performance computing
-- content: Messaging-oriented middleware
-- content: Modeling and simulation
-- content: Self-integrating systems
-- content: Software verification and validation
-- content: Virtual comput
+- content: electric vehicles
+- content: IEEE standards
+- content: smart power grids
+- content: IEEE smart grid vision
+- content: vehicular technology
+- content: vehicle electrification
+- content: electric vehicle technology
+- content: social implications
+- content: economic implications
+- content: political implications
+- content: intelligent vehicles
+- content: grid interaction
+- content: infrastructure
+- content: travelers
+- content: communications
+- content: www.ieee.org/smartgridresearch
+- content: IEEE standards
+- content: Electric vehicles
+- content: Intelligent transportation systems
+- content: Charging stations
+- content: Wireless communication
+- content: electric vehicle technology
+- content: transportation electrification
+- content: intelligent transportation system
+- content: intelligent vehicle charging
+- content: electrified vehicles
+- content: charging infrastructures
+- content: future mature transportation market
+- content: wireless charging
 doctype: standard
+ics:
+- code: 29.240.01
+  text: Power transmission and distribution networks in general
+- code: 33.040.40
+  text: Data communication networks
+- code: '33.200'
+  text: Telecontrol. Telemetering
+- code: 43.040.15
+  text: Car informatics. On-board computer systems
 ext:
   schema-version: v1.0.0
   standard_status: Active

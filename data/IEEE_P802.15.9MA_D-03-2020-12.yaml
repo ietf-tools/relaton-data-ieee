@@ -26,7 +26,7 @@ date:
 - type: published
   value: '2020-12-17'
 - type: issued
-  value: '2021-06-16'
+  value: '2020'
 contributor:
 - organization:
     name:
@@ -46,17 +46,16 @@ language:
 script:
 - Latn
 abstract:
-- content: A message exchange framework based on information elements as a transport
-    method for key management protocol (KMP) datagrams and guidelines for the use
-    of some existing KMPs with IEEE Std 802.15.4(TM) is defined in this standard.
-    A new KMP is not created in this standard. In support of KMP transmission and
-    reception, a generic multiplexed data service layer that can be used to transmit
-    large packets from the upper KMP to another peer and that provides for protocol
-    discrimination is also provided in this standard. The multiplexed data service
-    provides a fragmentation and multiplexing layer for those packets so they can
-    be delivered over smaller MAC layer frames and multiplexed on the recipient end
-    to the right processing service. The multiplexing provides for EtherType protocol
-    discrimination.
+- content: This standard defines a message exchange framework based on information
+    elements as a transport method for key management protocol (KMP) datagrams and
+    guidelines for the use of some existing KMPs with IEEE Std 802.15.4&#8482;. A
+    new KMP is not created in this standard. In support of KMP transmission and reception,
+    a generic multiplexed data service layer that can be used to transmit large packets
+    from the upper KMP to another peer and that provides for protocol discrimination
+    is also provided in this standard. The multiplexed data service provides a fragmentation
+    and multiplexing layer for those packets so they can be delivered over smaller
+    MAC layer frames and multiplexed on the recipient end to the right processing
+    service. The multiplexing provides for EtherType protocol discrimination.
   language:
   - en
   script:
@@ -98,15 +97,15 @@ keyword:
 - content: Multiplexing
 - content: Guidelines
 - content: Media Access Protocol
-- content: EtherType
 - content: fragmentation
 - content: IE
-- content: IEEE 802.15.9
+- content: IEEE 802.15.9&#8482;
 - content: information element
 - content: key management protocol
 - content: KMP
 - content: multiplexed data service
 - content: security
+- content: EtherType
 doctype: standard
 editorialgroup:
   committee:

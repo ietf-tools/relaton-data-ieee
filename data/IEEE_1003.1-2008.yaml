@@ -86,16 +86,6 @@ copyright:
     url: http://www.ieee.org
   from: '2008'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: ISO-IEC-IEEE9945-2009
-    docid:
-    - id: ISO/IEC/IEEE 9945-2009
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ISO/IEC/IEEE 9945-2009
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEE1003.1-2001
@@ -113,6 +103,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: ISO-IEC-IEEE9945-2009
+    docid:
+    - id: ISO/IEC/IEEE 9945-2009
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ISO/IEC/IEEE 9945-2009
+      format: text/plain
 keyword:
 - content: IEEE standards
 - content: Standards

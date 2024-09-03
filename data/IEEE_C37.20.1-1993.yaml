@@ -74,16 +74,6 @@ copyright:
     url: http://www.ieee.org
   from: '1994'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEEC37.20.1-2002
-    docid:
-    - id: IEEE C37.20.1-2002
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.20.1-2002
-      format: text/plain
 - type: updates
   bibitem:
     id: ANSI-IEEEC37.20.1-1987
@@ -101,6 +91,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEEC37.20.1-2002
+    docid:
+    - id: IEEE C37.20.1-2002
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.20.1-2002
+      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Circuit breakers

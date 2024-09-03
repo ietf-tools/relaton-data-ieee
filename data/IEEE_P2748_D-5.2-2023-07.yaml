@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2023-08-02'
 - type: issued
-  value: '2023-12-06'
+  value: '2023'
 contributor:
 - organization:
     name:
@@ -47,21 +47,17 @@ language:
 script:
 - Latn
 abstract:
-- content: The fault diagnosis and protection schemes and application cases for smart
-    distribution systems from ac 6 kV to 20 kV are provided by this recommended practice,
-    covering security requirements, architectures, and configuration, as well as basic
-    functions and technical indexes of software systems and hardware terminals and
-    requirements of information exchange. Schemes provided in this document are adaptable
-    to various operation modes, control patterns, equipment conditions, and reliability
-    requirements of distribution systems. This recommended practice is mainly based
-    on engineering practices in the voltage range of 6 kV to 20 kV. The proposed fault
-    location, isolation, and service restoration (FLISR) schemes can also be used
-    in the voltage range of 2.4 kV to 38 kV as specified in ANSI C84.1 after an evaluation
-    of communication conditions and cost analysis. Phase (three-phase and phase-to-phase)
-    faults, ground (three-phase-to-ground, two-phase-to-ground, and single-phase-to-ground)
-    faults and conductor-broken faults are covered by the fault types. Changes and
-    needs brought by the connection of distributed generators are considered, and
-    schemes empowered by information and communication technologies are also introduced.
+- content: This recommended practice provides the fault diagnosis and protection schemes
+    and application cases for smart distribution systems from AC 6 kV to 20 kV, covering
+    security requirements, architectures, and configuration, as well as basic functions
+    and technical indexes of software systems and hardware terminals, and requirements
+    of information exchange. Schemes provided in this document are adaptable to various
+    grid operation modes, control patterns, equipment conditions, and reliability
+    requirements of distribution systems. The fault types involved contain short circuit
+    three-phase, phase-to-phase, single-phase-to-ground, phases-to-ground, and single-phase
+    conductor-broken. Changes and needs brought by the connection of distributed generators
+    are considered. And schemes empowered by information and communication technologies
+    are also introduced.
   language:
   - en
   script:
@@ -83,22 +79,16 @@ keyword:
 - content: Fault diagnosis
 - content: Smart devices
 - content: Power distribution networks
-- content: centralized scheme
-- content: communication-assisted scheme
 - content: fault diagnosis and protection
-- content: IEEE 2748&#8482;
-- content: non-communication-based scheme
-- content: smart distributed scheme
 - content: smart distribution system
+- content: non-communication-based scheme
+- content: communication-assisted scheme
+- content: smart distributed scheme
+- content: centralized scheme.
 doctype: standard
 editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society
-ics:
-- code: 29.240.01
-  text: Power transmission and distribution networks in general
-- code: '33.200'
-  text: Telecontrol. Telemetering
 ext:
   schema-version: v1.0.0
   standard_status: Inactive

@@ -46,18 +46,19 @@ language:
 script:
 - Latn
 abstract:
-- content: Guidelines for protecting three-phase power transformers of more than 5
-    MVA rated capacity and operating at voltages exceeding 10 kV is provided to protection
-    engineers and other readers in this guide. In some cases, a user may apply the
-    techniques described in this guide for protecting transformers of less than 5
-    MVA ratings or operating at voltages less than 10 kV. Information to assist protection
-    engineers in properly applying relays and other devices to protect transformers
-    used in transmission and distribution systems is also provided. General philosophy,
-    practical applications, and economic considerations involved in power transformer
-    protection are discussed, with an emphasis on practical applications. Types of
-    faults in transformers are described. Technical problems with the protection systems,
-    including the behavior of current transformers during system faults, are discussed,
-    as well as associated problems, such as fault clearing and post trip reenergization.
+- content: This guide is intended to provide protection engineers and other readers
+    with guidelines for protecting three-phase power transformers of more than 5 MVA
+    rated capacity and operating at voltages exceeding 10 kV. In some cases, a user
+    may apply the techniques described in this guide for protecting transformers of
+    less than 5 MVA ratings or operating at voltages less than 10 kV. Information
+    to assist protection engineers in properly applying relays and other devices to
+    protect transformers used in transmission and distribution systems is provided
+    in this guide. General philosophy, practical applications, and economic considerations
+    involved in power transformer protection are discussed. Emphasis is placed on
+    practical applications. Types of faults in transformers are described. Technical
+    problems with the protection systems, including the behavior of current transformers
+    during system faults, are discussed. Associated problems, such as fault clearing
+    and post trip re-energization, are discussed as well.
   language:
   - en
   script:
@@ -109,40 +110,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC37.91-2008
-    docid:
-    - id: IEEE C37.91-2008
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.91-2008
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC37.91-2008
-    docid:
-    - id: IEEE C37.91-2008
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.91-2008
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Power transformers
@@ -155,7 +122,6 @@ keyword:
 - content: differential protection
 - content: gas accumulator relay
 - content: grounding transformer
-- content: IEEE C37.91
 - content: magnetizing inrush
 - content: overcurrent protection
 - content: power transformer
@@ -173,7 +139,7 @@ ics:
   text: Relays
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

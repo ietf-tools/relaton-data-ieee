@@ -28,7 +28,7 @@ date:
 - type: published
   value: '2023-07-19'
 - type: issued
-  value: '2024-02-15'
+  value: '2023'
 contributor:
 - organization:
     name:
@@ -48,10 +48,10 @@ language:
 script:
 - Latn
 abstract:
-- content: 'This amendment includes changes to IEEE Std 802.3-2022 and adds Clause
-    169 through Clause 173, Annex 172A, and Annex 173A. This amendment adds MAC parameters,
-    Physical Layers, and management parameters for the transfer of IEEE 802.3 format
-    frames at 400 Gb/s and 800 Gb/s. Additional files can be found here: https://standards.ieee.org/wp-content/uploads/2024/03/802.3df-2024_downloads.zip'
+- content: This amendment includes changes to IEEE Std 802.3-2022 and adds Clause
+    169 through Clause 173 and Annex 173A. The amendment adds MAC parameters, Physical
+    Layers, and management parameters for the transfer of IEEE 802.3 format frames
+    at 400 Gb/s and 800 Gb/s.
   language:
   - en
   script:
@@ -69,23 +69,6 @@ copyright:
     url: http://www.ieee.org
   from: '2023'
 relation:
-- type: updates
-  bibitem:
-    id: IEEE802.3-2022
-    docid:
-    - id: IEEE 802.3-2022
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.3-2022
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: updates
   bibitem:
     id: IEEE802.3-2018
@@ -111,9 +94,9 @@ keyword:
 - content: Physical layer
 - content: Local area networks
 - content: Metropolitan area networks
+- content: 400GBASE-DR4-2
 - content: 800GAUI-8
 - content: 800GBASE-CR8
-- content: 400GBASE-DR4-2
 - content: 800GBASE-DR8
 - content: 800GBASE-DR8-2
 - content: 800GBASE-KR8
@@ -123,14 +106,11 @@ keyword:
 - content: 800 Gigabit Ethernet
 - content: 800GMII
 - content: 800GXS
-- content: amendment
 - content: FEC
-- content: IEEE 802.3&#8482;
-- content: IEEE 802.3df&#8482;
 - content: PCS
-- content: Physical Coding Sublayer
 - content: PMD
-- content: Physical Medium Attachment
+- content: IEEE 802.3
+- content: IEEE 802.3df
 doctype: standard
 editorialgroup:
   committee:

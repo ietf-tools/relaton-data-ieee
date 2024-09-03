@@ -2,11 +2,11 @@
 schema-version: v1.2.3
 id: ANSI-IEEE309-1970
 title:
-- content: IEEE Standard Test Procedure for Geiger-Muller Counters
+- content: IEEE Standard Test Procedure for Geiger-Müller Counters
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/20965
+- content: https://ieeexplore.ieee.org/document/8684586
   type: src
 type: standard
 docid:
@@ -19,12 +19,14 @@ docid:
   primary: true
 - id: 978-0-7381-3041-5
   type: ISBN
-- id: 10.1109/IEEESTD.1970.120581
+- id: 10.1109/IEEESTD.1969.8684586
   type: DOI
 docnumber: ANSI/IEEE 309-1970
 date:
 - type: created
-  value: '1970'
+  value: '1969-11-30'
+- type: published
+  value: '2019-04-05'
 - type: issued
   value: '1969-05-28'
 contributor:
@@ -40,6 +42,7 @@ contributor:
         country: USA
   role:
   - type: publisher
+revdate: '2019-04-05'
 language:
 - en
 script:
@@ -49,7 +52,7 @@ abstract:
     radiation detectors. These detectors, originally announced by ?Geiger and Muller
     in 1928, represented a major step forward in the detection and counting of individual
     radioactive events. Standard test procedures are desirable so that measurements
-    may have the same meaning to all manufacturers and users.<<ETX>>
+    may have the same meaning to all manufacturers and users.
   language:
   - en
   script:
@@ -74,19 +77,12 @@ relation:
     formattedref:
       content: IEEE 309-1999
       format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEE309-1999
-    docid:
-    - id: IEEE 309-1999
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 309-1999
-      format: text/plain
 keyword:
-- content: Geiger counters
-- content: Standards
+- content: geiger
+- content: mueller
+- content: counters
+- content: radiation
+- content: nuclear
 doctype: standard
 editorialgroup:
   committee:

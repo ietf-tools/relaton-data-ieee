@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: IEEEP1407-D-7-2021-08
 title:
-- content: IEEE Approved Draft Guide for Accelerated Aging Tests for 5 kV to 46 kV
-    Extruded Electric Power Cables Using Water-Filled Tanks
+- content: IEEE Draft Guide for Accelerated Aging Tests for 5 kV to 46 kV Extruded
+    Electric Power Cables Using Water-Filled Tanks
   format: text/plain
   type: main
 link:
@@ -23,11 +23,11 @@ docid:
 docnumber: IEEE P1407/D-7-2021-08
 date:
 - type: created
-  value: '2021-11-11'
+  value: '2021-08-24'
 - type: published
   value: '2021-08-26'
 - type: issued
-  value: '2021-11-09'
+  value: '2021'
 contributor:
 - organization:
     name:
@@ -46,18 +46,6 @@ language:
 - en
 script:
 - Latn
-abstract:
-- content: Provided in this guide are information and recommendations on the equipment,
-    cable specimens, test conditions, test control methodologies, measurements, data
-    analysis, and interpretation in performing accelerated aging tests for 5 kV to
-    46 kV rated cables using water-filled tanks. The accelerated aging tests may be
-    time-to-failure tests and/or tests in which the samples are aged for fixed times
-    followed by diagnostic testing.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -104,6 +92,74 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1407-2007
+    docid:
+    - id: IEEE 1407-2007
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1407-2007
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1407-2007
+    docid:
+    - id: IEEE 1407-2007
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1407-2007
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1407-2007
+    docid:
+    - id: IEEE 1407-2007
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1407-2007
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1407-2007
+    docid:
+    - id: IEEE 1407-2007
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1407-2007
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Power cables
@@ -115,19 +171,15 @@ keyword:
 - content: Medium voltage
 - content: Tanks
 - content: accelerated aging test
-- content: accelerated cable life test
-- content: ACLT
-- content: cross-linked polyethylene
-- content: EPR
-- content: ethylene propylene rubber
-- content: IEEE 1407
-- content: measurement and profile
+- content: accelerated cable life test (ACLT)
+- content: cross-linked polyethylene (XLPE)
+- content: ethylene propylene rubber (EPR)
 - content: medium-voltage cable
 - content: tank structure
 - content: temperature
+- content: measurement and profile
 - content: test conditions
 - content: water-filled tanks
-- content: XLPE
 doctype: standard
 editorialgroup:
   committee:
@@ -137,7 +189,7 @@ ics:
   text: Cables
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2023-06-28'
 - type: issued
-  value: '2023-09-21'
+  value: '2023'
 contributor:
 - organization:
     name:
@@ -47,11 +47,10 @@ language:
 script:
 - Latn
 abstract:
-- content: The YANG module containing the EtherType information, including a compact
-    humanreadable name and description, for a subset of EtherTypes taken from the
-    IEEE Registration Authority EtherType public listing is specified in this amendment.
-    This amendment also addresses errors and omissions in IEEE Std 802 description
-    of existing functionality.
+- content: This amendment specifies a YANG module containing the EtherType information,
+    including a compact human-readable name and description, for a subset of EtherTypes
+    taken from the IEEE Registration Authority EtherType public listing. This amendment
+    also addresses errors and omissions in IEEE Std 802 description of existing functionality.
   language:
   - en
   script:
@@ -86,20 +85,28 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802-2014
+    docid:
+    - id: IEEE 802-2014
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802-2014
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
-- content: IEEE Standards
-- content: Local area networks
-- content: Metropolitan area networks
-- content: Ethernet
-- content: Regional area networks
-- content: Protocols
-- content: Body area networks
-- content: Network architecture
 - content: BANs
 - content: body area networks
 - content: EtherTypes
 - content: IEEE 802&#174;
-- content: IEEE 802f&#8482;
 - content: IEEE 802 architecture
 - content: IEEE 802 reference model
 - content: LANs
@@ -123,7 +130,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

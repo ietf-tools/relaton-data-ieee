@@ -25,9 +25,9 @@ date:
 - type: created
   value: '2023-02-22'
 - type: published
-  value: '2023-02-23'
+  value: '2023-02-24'
 - type: issued
-  value: '2023-11-08'
+  value: '2023'
 contributor:
 - organization:
     name:
@@ -41,7 +41,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-02-23'
+revdate: '2023-02-24'
 language:
 - en
 script:
@@ -104,6 +104,40 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC57.113-2010
+    docid:
+    - id: IEEE C57.113-2010
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C57.113-2010
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC57.113-2010
+    docid:
+    - id: IEEE C57.113-2010
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C57.113-2010
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Power transformers
@@ -111,9 +145,7 @@ keyword:
 - content: Partial discharges
 - content: Reactors
 - content: apparent charge
-- content: IEEE C57.113&#8482;
-- content: partial discharge
-- content: PD
+- content: partial discharge (PD)
 - content: power transformer
 - content: shunt reactor
 - content: wideband PD measurement
@@ -126,7 +158,7 @@ ics:
   text: Transformers. Reactors
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

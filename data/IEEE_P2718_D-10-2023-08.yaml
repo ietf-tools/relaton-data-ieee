@@ -46,6 +46,16 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: 'This guide provides near-field measurement methods and characterization
+    of stochastic electromagnetic fields emitted from devices. The document includes
+    algorithms for the analysis of the measurements in the frequency range of 30 MHz
+    to 6 GHz. Download URL: https://standards.ieee.org/wp-content/uploads/2024/03/2718-2023_downloads.zip'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -62,19 +72,20 @@ keyword:
 - content: Radiators
 - content: Near-field radiation pattern
 - content: Stochastic systems
+- content: cross-correlation
+- content: far field
+- content: IEEE 2718&#8482;
+- content: near field
 - content: radiated emissions
 - content: stochastic fields
-- content: near field
-- content: far field
-- content: cross-correlation
-- content: Wigner functions.
+- content: Wigner functions
 doctype: standard
 editorialgroup:
   committee:
   - Standards Development Committee of the IEEE Electromagnetic Compatibility Society
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

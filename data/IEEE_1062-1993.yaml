@@ -2,11 +2,11 @@
 schema-version: v1.2.3
 id: IEEE1062-1993
 title:
-- content: IEEE Recommended Practice for Software Acquisition.
+- content: IEEE Recommended Practice for Software Acquisition
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/467420
+- content: https://ieeexplore.ieee.org/document/8684509
   type: src
 type: standard
 docid:
@@ -19,12 +19,14 @@ docid:
   primary: true
 - id: 978-0-7381-0412-6
   type: ISBN
-- id: 10.1109/IEEESTD.1994.122163
+- id: 10.1109/IEEESTD.1992.8684509
   type: DOI
 docnumber: IEEE 1062-1993
 date:
 - type: created
-  value: '1994'
+  value: '1992-11-30'
+- type: published
+  value: '2019-04-05'
 - type: issued
   value: '1993-12-02'
 contributor:
@@ -40,10 +42,23 @@ contributor:
         country: USA
   role:
   - type: publisher
+revdate: '2019-04-05'
 language:
 - en
 script:
 - Latn
+abstract:
+- content: Superseded by 1062-1998. A set of useful quality practices that can be
+    selected and applied during one or more steps in a software acquisition process
+    is described. This recommended practice can be applied to software that runs on
+    any computer system regardless of the size, complexity, or criticality of the
+    software, but is more suited for use on modified-off-the-shelf software and fully
+    developed software.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 copyright:
 - owner:
   - name:
@@ -73,6 +88,12 @@ relation:
     formattedref:
       content: IEEE 1062-1998
       format: text/plain
+keyword:
+- content: acquirer
+- content: modified-off-the-shelf software
+- content: software acquisition life cycle
+- content: software acquisition process
+- content: supplier
 doctype: standard
 editorialgroup:
   committee:
