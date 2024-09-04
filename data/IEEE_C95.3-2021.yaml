@@ -25,6 +25,8 @@ docid:
   type: DOI
 docnumber: IEEE C95.3-2021
 date:
+- type: updated
+  value: '2021-07-02'
 - type: created
   value: '2021-05-28'
 - type: published
@@ -54,17 +56,14 @@ abstract:
     of methods for the computation and measurement of relevant metrics characterizing
     human exposure to electric and/or magnetic fields (collectively, electromagnetic
     fields) over the frequency range of 0 Hz to 300 GHz. This recommended practice
-    is a replacement for IEEE Std C95.3&#8482;-2002 and IEEE Std C95.3.1&#8482;-2010,
-    extensively revising the contents from those and harmonizing with IEEE Std C95.1&#8482;-2019.
+    is a replacement for IEEE Std C95.3&#x2122;-2002 and IEEE Std C95.3.1&#x2122;-2010,
+    extensively revising the contents from those and harmonizing with IEEE Std C95.1&#x2122;-2019.
     Detailed methodology is not described; rather, requirements for best practice
     are expressed through guidance and references to other documents and standards.
     Examples are included to clarify the guidance. This recommended practice is intended
     for professional users who are familiar with basic electromagnetic field theory
     and practice and for persons involved in specifying or implementing critical hazard
-    assessments or surveys such as those described in IEEE Std C95.7&#8482;-2014.
-    (The PDF of this standard is available in the IEEE GET program at no cost to you
-    compliments of the United States Navy, United States Air Force, and United States
-    Army https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=82)
+    assessments or surveys such as those described in IEEE Std C95.7&#x2122;-2014.
   language:
   - en
   script:
@@ -99,7 +98,66 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC95.3-2002
+    docid:
+    - id: IEEE C95.3-2002
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C95.3-2002
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC95.3-2002
+    docid:
+    - id: IEEE C95.3-2002
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C95.3-2002
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC95.3-2002
+    docid:
+    - id: IEEE C95.3-2002
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C95.3-2002
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
+- content: IEEE Standards
+- content: Electromagnetic field theory
+- content: Microwave technology
+- content: Hazards
+- content: Best practices
+- content: Magnetic field measurements
+- content: Portable document format
+- content: Electric variables measurement
 - content: C95.1-2021
 - content: electromagnetic field computation
 - content: electromagnetic field measurements

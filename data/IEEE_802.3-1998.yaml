@@ -79,16 +79,6 @@ copyright:
     url: http://www.ieee.org
   from: '1998'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE802.3-2000
-    docid:
-    - id: IEEE 802.3-2000
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.3-2000
-      format: text/plain
 - type: updates
   bibitem:
     id: ANSI-IEEE802.3-1985
@@ -106,6 +96,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE802.3-2000
+    docid:
+    - id: IEEE 802.3-2000
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3-2000
+      format: text/plain
 keyword:
 - content: IEEE standards
 - content: data processing; Ethernet; information interchange

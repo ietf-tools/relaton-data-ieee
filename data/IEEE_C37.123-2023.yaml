@@ -27,7 +27,7 @@ date:
 - type: created
   value: '2024'
 - type: published
-  value: '2024-04-12'
+  value: '2024-04-11'
 - type: issued
   value: '2023-12-06'
 contributor:
@@ -43,7 +43,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2024-04-12'
+revdate: '2024-04-11'
 language:
 - en
 script:
@@ -103,14 +103,32 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC37.123-2016
+    docid:
+    - id: IEEE C37.123-2016
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.123-2016
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
-- content: Technical requirements
+- content: IEEE Standards
 - content: Fabrication
 - content: Substations
 - content: Switches
 - content: High-voltage techniques
-- content: IEEE Standards
 - content: Gas insulation
+- content: Metal enclosures
+- content: Sulfur hexafluoride
 - content: gas-insulated metal-enclosed switchgear
 - content: gas-insulated substation
 - content: GIS equipment
@@ -122,7 +140,7 @@ keyword:
 doctype: standard
 editorialgroup:
   committee:
-  - Substations of the IEEE Power and Energy Society
+  - Substations Committee of the IEEE Power and Energy Society
 ics:
 - code: '27.100'
   text: Power stations in general

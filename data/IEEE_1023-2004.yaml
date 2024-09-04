@@ -56,6 +56,9 @@ abstract:
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -65,6 +68,74 @@ copyright:
     url: http://www.ieee.org
   from: '2005'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE1023-1988
+    docid:
+    - id: IEEE 1023-1988
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1023-1988
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1023-1988
+    docid:
+    - id: IEEE 1023-1988
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1023-1988
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1023-1988
+    docid:
+    - id: IEEE 1023-1988
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1023-1988
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1023-1988
+    docid:
+    - id: IEEE 1023-1988
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1023-1988
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE1023-1988
@@ -158,6 +229,7 @@ ics:
   text: Ergonomics
 ext:
   schema-version: v1.0.0
-  standard_status: Superseded
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

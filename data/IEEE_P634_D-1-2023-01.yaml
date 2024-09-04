@@ -2,7 +2,8 @@
 schema-version: v1.2.3
 id: IEEEP634-D-1-2023-01
 title:
-- content: IEEE Draft Standard for Cable-Penetration Fire Stop Qualification Test
+- content: IEEE Approved Draft Standard for Cable-Penetration Fire Stop Qualification
+    Test
   format: text/plain
   type: main
 link:
@@ -22,11 +23,11 @@ docid:
 docnumber: IEEE P634/D-1-2023-01
 date:
 - type: created
-  value: '2023-02-16'
+  value: '2023'
 - type: published
   value: '2023-02-17'
 - type: issued
-  value: '2023'
+  value: '2023-06-29'
 contributor:
 - organization:
     name:
@@ -45,6 +46,19 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: The details described in this standard involve developing data to determine
+    a fire stop’s resistance to fire and/or any external force imposed through a hose
+    stream or water spray. The topics are applicable to fire stops of various materials
+    and construction including cable-penetration fire stops which are intended for
+    use in fire-resistive barriers. Tests conducted in conformance with the specifications
+    listed in this standard will record the performance of fire stops during test
+    exposure.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -74,6 +88,74 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE634-2004
+    docid:
+    - id: IEEE 634-2004
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 634-2004
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE634-2004
+    docid:
+    - id: IEEE 634-2004
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 634-2004
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE634-2004
+    docid:
+    - id: IEEE 634-2004
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 634-2004
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE634-2004
+    docid:
+    - id: IEEE 634-2004
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 634-2004
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Fires
@@ -82,17 +164,18 @@ keyword:
 - content: Thermocouples
 - content: Cables
 - content: cable-penetration
+- content: F-rating
 - content: fire-resistant
 - content: fire-resistive barrier
 - content: fire stop
 - content: fire test
 - content: fire test facilities
 - content: fire test procedure
-- content: F-rating
+- content: IEEE 634&#8482;
 - content: penetration seal
 - content: thermocouple
 - content: time-temperature curve
-- content: T- rating
+- content: T-rating
 doctype: standard
 editorialgroup:
   committee:
@@ -104,7 +187,7 @@ ics:
   text: Cables
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

@@ -2,13 +2,12 @@
 schema-version: v1.2.3
 id: IEEEC62.41.2-2002
 title:
-- content: 'IEEE Recommended Practice on Characterization of Surges in Low-Voltage
-    (1000 V and Less) AC Power Circuits Corrigendum 1: Deletion of Table A.2 and Associated
-    Text'
+- content: IEEE Recommended Practice on Characterization of Surges in Low-Voltage
+    (1000 V and less) AC Power Circuits
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/9464894
+- content: https://ieeexplore.ieee.org/document/1196924
   type: src
 type: standard
 docid:
@@ -19,18 +18,18 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-0-7381-8130-1
+- id: 978-0-7381-3394-2
   type: ISBN
-- id: 10.1109/IEEESTD.2013.9464894
+- id: 10.1109/IEEESTD.2003.94254
   type: DOI
 docnumber: IEEE C62.41.2-2002
 date:
 - type: created
-  value: '2013-01-25'
+  value: '2003'
 - type: published
   value: '2021-06-24'
 - type: issued
-  value: '2012-12-05'
+  value: '2002-11-11'
 contributor:
 - organization:
     name:
@@ -50,7 +49,17 @@ language:
 script:
 - Latn
 abstract:
-- content: Deletion of Table A.2 and associated text is addressed in this corrigendum.
+- content: This IEEE standards product is part C62 Family on Surge Protection and
+    supersedes C62.41 The scope of this recommended practice is to characterize the
+    surge environment at locations on ac power circuits described in IEEE Std C62.41.1-2002
+    by means of standardized waveforms and other stress parameters. The surges considered
+    in this recommended practice do not exceed one half-cycle of the normal mains
+    waveform (fundamental frequency) in duration. They can be periodic or random events
+    and can appear in any combination of line, neutral, or grounding conductors. They
+    include surges with amplitudes, durations, or rates of change sufficient to cause
+    equipment damage or operational upset. While surge protective devices (SPDs) acting
+    primarily on the amplitude of the voltage or current are often applied to divert
+    the damaging surges, the upsetting surges might require other remedies.
   language:
   - en
   script:
@@ -63,16 +72,17 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2013'
+  from: '2003'
 keyword:
-- content: IEEE Standards
-- content: Surge protection
-- content: AC machines
-- content: Low voltage
-- content: Voltage control
-- content: IEEE C62.41.2
-- content: surge protective devices (SPDs)
-- content: waveforms
+- content: IEEE standards
+- content: Surges
+- content: Testing
+- content: Conductors
+- content: Grounding
+- content: Power systems
+- content: low-voltage ac power circuit
+- content: surge testing
+- content: surge withstand level
 doctype: standard
 editorialgroup:
   committee:

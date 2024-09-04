@@ -2,8 +2,7 @@
 schema-version: v1.2.3
 id: IEEEP3161.9-D-3-2023-08
 title:
-- content: IEEE Approved Draft Standard for Protocols and Interfaces of Digital Retina
-    Systems
+- content: IEEE Draft Standard for Protocols and Interfaces of Digital Retina Systems
   format: text/plain
   type: main
 link:
@@ -23,7 +22,7 @@ docid:
 docnumber: IEEE P3161.9/D-3-2023-08
 date:
 - type: created
-  value: '2023'
+  value: '2023-08-01'
 - type: published
   value: '2023-08-02'
 - type: issued
@@ -47,11 +46,11 @@ language:
 script:
 - Latn
 abstract:
-- content: This standard specifies the aspects of communication process, general requirements
-    and data format of interfaces for multiple data streams and control commands involved
-    in the digital retina systems (DRS). It provides protocol and interface specifications
-    for the design, development and manufacturing of devices or platforms, to enable
-    connections and interactions among heterogeneous devices.
+- content: Specified in this standard are the aspects of communication process, general
+    requirements, and data format of interfaces for multiple data streams and control
+    commands involved in digital retina systems (DRSs). It provides protocol and interface
+    specifications for the design, development, and manufacturing of devices or platforms
+    to enable connections and interactions among heterogeneous devices.
   language:
   - en
   script:
@@ -74,23 +73,30 @@ keyword:
 - content: Digital systems
 - content: Interface management
 - content: Streaming media
-- content: digital retina system
-- content: protocol
-- content: interface
 - content: communication process
-- content: video stream
-- content: feature stream
-- content: model stream
 - content: control command
+- content: digital retina system
+- content: feature stream
 - content: function definition
-- content: IEEE 3161.9TM
+- content: IEEE 3161.9
+- content: interface
+- content: model stream
+- content: protocol
+- content: video stream
 doctype: standard
 editorialgroup:
   committee:
   - Data Compression Standards Committee of the IEEE Computer Society
+ics:
+- code: 35.040.30
+  text: Coding of graphical and photographical information
+- code: 37.040.99
+  text: Other standards related to photography
+- code: 37.060.99
+  text: Other standards related to cinematography
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

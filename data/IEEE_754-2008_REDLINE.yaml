@@ -20,7 +20,7 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-0-7381-6981-1
+- id: 978-0-7381-5752-8
   type: ISBN
 - id: 10.1109/IEEESTD.2008.5976968
   type: DOI
@@ -69,6 +69,97 @@ copyright:
     url: http://www.ieee.org
   from: '2011'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE754-2019
+    docid:
+    - id: IEEE 754-2019
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 754-2019
+      format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE754-2019
+    docid:
+    - id: IEEE 754-2019
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 754-2019
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ANSI-IEEE754-1985
+    docid:
+    - id: ANSI/IEEE 754-1985
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI/IEEE 754-1985
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE754-2019
+    docid:
+    - id: IEEE 754-2019
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 754-2019
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ANSI-IEEE754-1985
+    docid:
+    - id: ANSI/IEEE 754-1985
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI/IEEE 754-1985
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE754-2019
+    docid:
+    - id: IEEE 754-2019
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 754-2019
+      format: text/plain
+- type: updates
+  bibitem:
+    id: ANSI-IEEE754-1985
+    docid:
+    - id: ANSI/IEEE 754-1985
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI/IEEE 754-1985
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: obsoletedBy
   bibitem:
     id: IEEE754-2019

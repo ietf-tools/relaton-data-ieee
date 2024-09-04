@@ -25,9 +25,9 @@ date:
 - type: created
   value: '2023-05-03'
 - type: published
-  value: '2023-05-05'
+  value: '2023-05-04'
 - type: issued
-  value: '2023'
+  value: '2023-12-06'
 contributor:
 - organization:
     name:
@@ -41,7 +41,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-05-05'
+revdate: '2023-05-04'
 language:
 - en
 script:
@@ -53,7 +53,9 @@ abstract:
     register transfer level (RTL), and gate-level abstraction levels, and for writing
     test benches using coverage, assertions, object-oriented programming, and constrained
     random verification. The standard also provides application programming interfaces
-    (APIs) to foreign programming languages.
+    (APIs) to foreign programming languages. (The PDF of this standard is available
+    at no cost at https://ieeexplore.ieee.org/browse/standards/get-program/page compliments
+    of Accellera Systems Initiative)
   language:
   - en
   script:
@@ -71,6 +73,40 @@ copyright:
     url: http://www.ieee.org
   from: '2023'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE1800-2017
+    docid:
+    - id: IEEE 1800-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1800-2017
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1800-2017
+    docid:
+    - id: IEEE 1800-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1800-2017
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE1800-2017
@@ -114,7 +150,7 @@ ics:
   text: Languages used in information technology
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

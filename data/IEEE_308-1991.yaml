@@ -71,16 +71,6 @@ copyright:
     url: http://www.ieee.org
   from: '1992'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE308-2001
-    docid:
-    - id: IEEE 308-2001
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 308-2001
-      format: text/plain
 - type: updates
   bibitem:
     id: ANSI-IEEE308-1980
@@ -98,6 +88,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE308-2001
+    docid:
+    - id: IEEE 308-2001
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 308-2001
+      format: text/plain
 keyword:
 - content: Fission reactor safety
 - content: Nuclear power generation

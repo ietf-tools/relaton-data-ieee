@@ -24,12 +24,10 @@ docid:
   type: DOI
 docnumber: IEEE 1516.2-2010
 date:
-- type: updated
-  value: '2010-09-20'
 - type: created
   value: '2010-08-18'
 - type: published
-  value: '2013-08-15'
+  value: '2010-08-26'
 - type: issued
   value: '2010-03-25'
 contributor:
@@ -39,9 +37,13 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
-revdate: '2013-08-15'
+revdate: '2010-08-26'
 language:
 - en
 script:
@@ -74,6 +76,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2010'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1516.2-2000
+    docid:
+    - id: IEEE 1516.2-2000
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1516.2-2000
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Computational modeling

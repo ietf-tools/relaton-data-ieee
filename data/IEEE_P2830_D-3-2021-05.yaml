@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: IEEEP2830-D-3-2021-05
 title:
-- content: IEEE Approved Draft Standard for Technical Framework and Requirements of
-    Trusted Execution Environment based Shared Machine Learning
+- content: IEEE Draft Standard for Technical Framework and Requirements of Trusted
+    Execution Environment based Shared Machine Learning
   format: text/plain
   type: main
 link:
@@ -23,7 +23,7 @@ docid:
 docnumber: IEEE P2830/D-3-2021-05
 date:
 - type: created
-  value: '2021'
+  value: '2021-05-14'
 - type: published
   value: '2021-06-22'
 - type: issued
@@ -46,6 +46,17 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: The framework and architecture for machine learning in which a model is
+    trained using encrypted data that has been aggregated from multiple sources and
+    is processed by a trusted third party are defined in this standard. Functional
+    components, workflows, security requirements, technical requirements, and protocols
+    are specified in this standard.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -62,16 +73,19 @@ keyword:
 - content: Data fusion
 - content: Machine learning
 - content: Environmental management
-- content: Shared Machine Learning
-- content: Trusted Execution Environment
-- content: Data Fusion
+- content: data fusion
+- content: IEEE 2830
+- content: shared machine learning
+- content: SML
+- content: trusted execution environment
+- content: TEE
 doctype: standard
 editorialgroup:
   committee:
-  - Standards Activities Board of the IEEE Computer Society
+  - Artificial Intelligence Standards Committee of the IEEE Computer Society
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

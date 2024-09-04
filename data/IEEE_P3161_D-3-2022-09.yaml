@@ -47,7 +47,7 @@ script:
 - Latn
 abstract:
 - content: The aspects of reference architecture, technical characteristics, components,
-    and functional requirements of digital retina systems for real time analysis and
+    and functional requirements of digital retina systems for real-time analysis and
     processing of video big data are discussed in this standard.
   language:
   - en
@@ -79,24 +79,31 @@ keyword:
 - content: Sensors
 - content: Cameras
 - content: Digital cameras
-- content: digital retina
-- content: video big data
-- content: end-edge-cloud collaborative computing
-- content: video stream
-- content: feature stream
-- content: model stream
 - content: architecture
-- content: feature coding
-- content: IEEE 3161TM
-- content: visual perception system
 - content: city brain
+- content: digital retina
+- content: end-edge-cloud collaborative computing
+- content: feature coding
+- content: feature stream
+- content: IEEE Std 3161
+- content: model stream
+- content: video big data
+- content: visual perception system
+- content: video stream
 doctype: standard
 editorialgroup:
   committee:
   - Data Compression Standards Committee of the IEEE Computer Society
+ics:
+- code: 35.040.30
+  text: Coding of graphical and photographical information
+- code: 37.040.99
+  text: Other standards related to photography
+- code: 37.060.99
+  text: Other standards related to cinematography
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

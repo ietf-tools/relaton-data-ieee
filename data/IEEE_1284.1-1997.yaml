@@ -2,12 +2,12 @@
 schema-version: v1.2.3
 id: IEEE1284.1-1997
 title:
-- content: IEEE Standard for Information Technology - Transport Independent Printer/System
+- content: IEEE Standard for Information Technology -Transport Independent Printer/System
     Interface (TIP/SI)
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/634864
+- content: https://ieeexplore.ieee.org/document/8716880
   type: src
 type: standard
 docid:
@@ -20,12 +20,14 @@ docid:
   primary: true
 - id: 978-0-7381-1368-5
   type: ISBN
-- id: 10.1109/IEEESTD.1997.84239
+- id: 10.1109/IEEESTD.1996.8716880
   type: DOI
 docnumber: IEEE 1284.1-1997
 date:
 - type: created
-  value: '1997'
+  value: '1996-11-30'
+- type: published
+  value: '2019-05-16'
 - type: issued
   value: '1997-07-29'
 contributor:
@@ -41,17 +43,18 @@ contributor:
         country: USA
   role:
   - type: publisher
+revdate: '2019-05-16'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: A protocol and methodology for software developers, computer vendors and
+- content: A protocol and methodology for software developers, computer vendors, and
     printer manufacturers to facilitate the orderly exchange of information between
     printers and host computers are defined in this standard. A minimum set of functions
     that permit meaningful data exchange is provided. Thus a foundation is established
-    upon which compatible applications, computers and printers can be developed, without
-    compromising an individual organization's desire for design innovation.
+    upon which compatible applications, computers, and printers can be developed,
+    without compromising an individual organization's desire for design innovation.
   language:
   - en
   script:
@@ -66,7 +69,13 @@ copyright:
     url: http://www.ieee.org
   from: '1997'
 keyword:
+- content: IEEE Standards
 - content: Printers
+- content: Interface management
+- content: computers
+- content: printer communications
+- content: printers
+- content: printer command sets
 doctype: standard
 editorialgroup:
   committee:

@@ -24,6 +24,8 @@ docid:
   type: DOI
 docnumber: IEEE 802.15.3e-2017
 date:
+- type: updated
+  value: '2017-06-23'
 - type: created
   value: '2017'
 - type: published
@@ -37,10 +39,6 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-    contact:
-    - address:
-        city: New York
-        country: USA
   role:
   - type: publisher
 revdate: '2017-06-07'
@@ -60,6 +58,9 @@ abstract:
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -129,8 +130,8 @@ keyword:
 - content: 60 GHz
 - content: close proximity
 - content: fast setup
-- content: IEEE 802.15.3
-- content: IEEE 802.15.3e
+- content: IEEE 802.15.3(TM)
+- content: IEEE 802.15.3e(TM)
 - content: millimeter wave
 - content: point-to-point
 - content: P2P
@@ -144,6 +145,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Superseded
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

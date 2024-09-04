@@ -2,11 +2,11 @@
 schema-version: v1.2.3
 id: IEEE1625-2004
 title:
-- content: IEEE Standard for Rechargeable Batteries for Portable Computing
+- content: IEEE Standard for Rechargable Batteries for Portable Computing
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8684626
+- content: https://ieeexplore.ieee.org/document/1309986
   type: src
 type: standard
 docid:
@@ -19,14 +19,12 @@ docid:
   primary: true
 - id: 978-0-7381-4012-4
   type: ISBN
-- id: 10.1109/IEEESTD.2004.8684626
+- id: 10.1109/IEEESTD.2004.243226
   type: DOI
 docnumber: IEEE 1625-2004
 date:
 - type: created
   value: '2004-05-28'
-- type: published
-  value: '2019-04-05'
 - type: issued
   value: '2004-04-08'
 contributor:
@@ -42,17 +40,23 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2019-04-05'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This standard establishes criteria for design analysis for qualification,
-    quality, and reliability of rechargeable battery systems for portable computing.
-    It also provides methods for quantifying the operational performance of these
-    batteries and their associated management and control systems, including considerations
-    for end-user notification.
+- content: Guidance for the designer/manufacturer/supplier in planning and implementing
+    controls for the design and manufacture of lithium-ion (Li-ion) and lithium-ion
+    polymer (Li-ion polymer) rechargeable battery packs used for portable computing
+    is provided. This standard's provisions work together, and they define approaches
+    to design, test, and evaluate a cell, battery pack, and host device to mitigate
+    battery system failure in user environments. Additionally, this standard provides
+    recommendations for end-user education and communication materials. This approach
+    suggests the interfaces between subsystems (e.g., cell, battery pack, host device)
+    and end users are as important to system reliability as is robust subsystem design
+    and testing. This standard therefore includes subsystem interface design responsibilities
+    for each subsystem designer/ manufacturer/supplier, and it provides messaging
+    and communication provisions for end-user awareness.
   language:
   - en
   script:
@@ -77,15 +81,23 @@ relation:
     formattedref:
       content: IEEE 1625-2008
       format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE1625-2008
+    docid:
+    - id: IEEE 1625-2008
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1625-2008
+      format: text/plain
 keyword:
-- content: battery
-- content: battery pack
-- content: cell
-- content: host device
-- content: lithium-ion (Li-ion)
-- content: lithium-ion polymer (Li-ion polymer)
-- content: notebook computer
-- content: pack
+- content: IEEE standards
+- content: Batteries
+- content: Lithium
+- content: Reliability
+- content: Computer power supplies
+- content: Microcomputers
 doctype: standard
 editorialgroup:
   committee:

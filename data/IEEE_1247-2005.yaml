@@ -3,11 +3,11 @@ schema-version: v1.2.3
 id: IEEE1247-2005
 title:
 - content: IEEE Standard for Interrupter Switches for Alternating Current, Rated Above
-    1000 Volts
+    1000 V
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/7499785
+- content: https://ieeexplore.ieee.org/document/1641146
   type: src
 type: standard
 docid:
@@ -20,14 +20,14 @@ docid:
   primary: true
 - id: 978-0-7381-4865-6
   type: ISBN
-- id: 10.1109/IEEESTD.2006.7499785
+- id: 10.1109/IEEESTD.2006.246247
   type: DOI
 docnumber: IEEE 1247-2005
 date:
+- type: updated
+  value: '2016-07-15'
 - type: created
   value: '2006'
-- type: published
-  value: '2016-06-24'
 - type: issued
   value: '2005-12-07'
 contributor:
@@ -39,7 +39,6 @@ contributor:
     url: http://www.ieee.org
   role:
   - type: publisher
-revdate: '2016-06-24'
 language:
 - en
 script:
@@ -62,11 +61,7 @@ copyright:
     url: http://www.ieee.org
   from: '2006'
 keyword:
-- content: IEEE Standards
-- content: Interrupters
-- content: Switching systems
-- content: Switching currents
-- content: AC generators
+- content: C37
 - content: enclosed switch
 - content: indoor switch
 - content: interrupter switch

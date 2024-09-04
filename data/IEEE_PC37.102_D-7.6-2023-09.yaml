@@ -24,9 +24,9 @@ date:
 - type: created
   value: '2023'
 - type: published
-  value: '2023-09-13'
+  value: '2023-09-12'
 - type: issued
-  value: '2023'
+  value: '2023-12-06'
 contributor:
 - organization:
     name:
@@ -40,7 +40,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-09-13'
+revdate: '2023-09-12'
 language:
 - en
 script:
@@ -48,7 +48,7 @@ script:
 abstract:
 - content: This guide has been prepared to assist the protection engineer in applying
     relays for the protection of generators from damage caused by internal electrical
-    faults, system faults or abnormal operating conditions.
+    faults, system faults, or abnormal operating conditions.
   language:
   - en
   script:
@@ -100,91 +100,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC37.102-2006
-    docid:
-    - id: IEEE C37.102-2006
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.102-2006
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC37.102-2006
-    docid:
-    - id: IEEE C37.102-2006
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.102-2006
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC37.102-2006
-    docid:
-    - id: IEEE C37.102-2006
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.102-2006
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC37.102-2006
-    docid:
-    - id: IEEE C37.102-2006
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.102-2006
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC37.102-2006
-    docid:
-    - id: IEEE C37.102-2006
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.102-2006
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Generators
@@ -197,22 +112,23 @@ keyword:
 - content: Resonance
 - content: Steady-state
 - content: Stability analysis
-- content: Generator
-- content: turbine
-- content: combustion
-- content: steam
-- content: hydro
+- content: abnormal operation
 - content: combined cycle
-- content: grounding
-- content: phase fault
+- content: combustion
+- content: excitation control system
+- content: generator
 - content: ground fault
+- content: grounding
+- content: hydro
+- content: IEEE C37.102&#8482;
+- content: phase fault
+- content: steady-state stability limit
+- content: steam
+- content: subsynchronous resonance
+- content: synchronization
 - content: system faults
 - content: system operations
-- content: abnormal operation
-- content: synchronization
-- content: excitation control system
-- content: sub-synchronous resonance
-- content: steady state stability limit
+- content: turbine
 doctype: standard
 editorialgroup:
   committee:
@@ -222,7 +138,7 @@ ics:
   text: Generators
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

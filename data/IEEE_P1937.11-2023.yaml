@@ -2,12 +2,12 @@
 schema-version: v1.2.3
 id: IEEEP1937.11-2023
 title:
-- content: IEEE Draft Standard for Technical Requirements of Polar Coordinate Photogrammetry
-    Based on Unmanned Aircraft System
+- content: IEEE Approved Draft Standard for Technical Requirements of Polar Coordinate
+    Photogrammetry Based on Unmanned Aircraft System
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/10112606
+- content: https://ieeexplore.ieee.org/document/10186319
   type: src
 type: standard
 docid:
@@ -18,16 +18,16 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-9702-2
+- id: 978-1-5044-9828-9
   type: ISBN
 docnumber: IEEE P1937.11-2023
 date:
 - type: created
   value: '2023'
 - type: published
-  value: '2023-04-28'
+  value: '2023-07-18'
 - type: issued
-  value: '2023'
+  value: '2023-09-21'
 contributor:
 - organization:
     name:
@@ -41,32 +41,15 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-04-28'
+revdate: '2023-07-18'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The acquisition, organization, storage, and display of data from any earth
-    observation system are all in polar coordinates (longitude and latitude), but
-    at present there is no standard on polar coordinate based photogrammetric processing
-    and analysis of this data especially for Unmanned Aircraft System (UAS). As we
-    know, images are represented and processed in Euclidean coordinates. This is despite
-    the fact that the photogrammetric process requires projective geometry rather
-    than Euclidean geometry. Projective geometry introduces the concept of a projection
-    center &#8211; referred to as a pole &#8211; that is well-defined in polar coordinate
-    system. Hence, the use of polar coordinates in photogrammetry (polar coordinate
-    photogrammetry) fits better for geometric operations and avoids error propagation
-    during coordinate conversions during acquisition, processing, management, and
-    storage. At present there is no technical standard on the use of polar photogrammetry
-    especially for imagery acquired by UAS; the remote sensing technicians lack unified
-    technical specifications when operating with UAS images in polar coordinates which
-    often reduces the quality of photogrammetric products. Generating the technical
-    specifications for polar coordinate photogrammetry will ensure data quality, improve
-    photogrammetric process efficiency, and offer better services for remote sensing
-    applications. More importantly, the establishment of polar coordinate photogrammetry
-    standard will unify the whole procedures of digital earth models from acquisition
-    to processing and then to organization and storage in polar coordinate system.
+- content: Described in this standard are efficient methods for acquisition, organization,
+    storage, and display of data gathered using polar coordinate photogrammetry for
+    imagery acquired by unmanned aircraft systems (UAS).
   language:
   - en
   script:
@@ -84,9 +67,21 @@ copyright:
     url: http://www.ieee.org
   from: '2023'
 keyword:
-- content: Unmanned Aircraft Systems (UAS)?Photogrammetry
-- content: Polar Coordinates
-- content: Remote Sensing
+- content: IEEE Standards
+- content: Autonomous aerial vehicles
+- content: Remote sensing
+- content: Coordinate measuring machines
+- content: Polarization
+- content: Projective geometry
+- content: Aircraft
+- content: Technical requirements
+- content: Earth Observing System
+- content: Data integrity
+- content: IEEE 1937.11
+- content: photogrammetry
+- content: polar coordinates
+- content: remote sensing
+- content: unmanned aircraft systems (UAS)
 doctype: standard
 editorialgroup:
   committee:
@@ -94,7 +89,7 @@ editorialgroup:
     Society
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

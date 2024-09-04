@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2022-05-18'
 - type: issued
-  value: '2022'
+  value: '2023-09-21'
 contributor:
 - organization:
     name:
@@ -53,8 +53,11 @@ abstract:
     (IEC) EMC standards (for which there are no equivalent IEEE standards), to represent
     the harsh environment of electric power apparatus installations. This develops
     a common and reproducible basis for designing and testing devices with communications
-    functions installed in this harsh environment. Devices that support communications
-    functions use communications ports.
+    functions installed in this harsh environment. Where the device does not perform
+    protection or control functions, testing of the communications functions is covered
+    by IEEE Std 1613. Where the device performs protection or control functions and
+    has communications ports, tests for all communications functions are covered by
+    the IEEE C37.90 family of standards.
   language:
   - en
   script:
@@ -123,106 +126,54 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1613-2009
-    docid:
-    - id: IEEE 1613-2009
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1613-2009
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1613-2009
-    docid:
-    - id: IEEE 1613-2009
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1613-2009
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1613-2009
-    docid:
-    - id: IEEE 1613-2009
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1613-2009
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1613-2009
-    docid:
-    - id: IEEE 1613-2009
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1613-2009
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
+- content: IEEE Standards
+- content: Humidity
+- content: Insulation
+- content: Surge protection
+- content: Communication systems
+- content: Electrostatic discharge
+- content: Ethernet
+- content: Voltage control
+- content: Temperature measurement
+- content: Dielectrics
 - content: auto dialers
 - content: bridges
+- content: common mode disturbances
 - content: communications networking device
 - content: communications ports
+- content: conducted RF immunity
+- content: damped oscillatory magnetic fields
 - content: derating
-- content: electrostatic discharge (ESD) test
+- content: EFT
+- content: electrical fast transient test
+- content: electrostatic discharge test
 - content: environmental requirements
+- content: ESD
 - content: Ethernet hubs
-- content: electrical fast transient (EFT) test
 - content: firewalls
 - content: humidity
+- content: IED
+- content: IEEE Std 1613&#8482;
+- content: immunity
 - content: impulse dielectric test
 - content: insulation test
+- content: intelligent electronic device
+- content: intended use
 - content: modems
 - content: power apparatus
-- content: radio frequency (RF) test
+- content: power frequency magnetic fields
+- content: radiated RF immunity
+- content: radio frequency test
+- content: RF
 - content: routers
-- content: surge withstand capability (SWC) test
+- content: surge
+- content: surge withstand capability test
+- content: SWC
 - content: switches
 - content: temperature range
 - content: temperature rise
 - content: voltage rating
-- content: intelligent electronic device (IED)
-- content: intended use
-- content: surge
-- content: immunity
-- content: radiated RF immunity
-- content: conducted RF immunity
-- content: power frequency magnetic fields
-- content: damped oscillatory magnetic fields
-- content: common mode disturbances.
 doctype: standard
 editorialgroup:
   committee:
@@ -232,7 +183,7 @@ ics:
   text: Substations. Surge arresters
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

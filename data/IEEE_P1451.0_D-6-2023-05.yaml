@@ -26,9 +26,9 @@ date:
 - type: created
   value: '2023-05-10'
 - type: published
-  value: '2023-05-12'
+  value: '2023-05-11'
 - type: issued
-  value: '2023'
+  value: '2024-02-15'
 contributor:
 - organization:
     name:
@@ -42,31 +42,32 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-05-12'
+revdate: '2023-05-11'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This standard provides the common functions, network services, transducer
-    services, and Transducer Electronic Data Sheet (TEDS) formats for members of the
-    IEEE 1451 family of standards to be interoperable in both network interface and
-    transducer interface. It defines the common functions and characteristics that
-    are to be performed by a network capable application processor (NCAP) which is
-    a 1451 server, and all devices that implement the NCAP. It defines a set of network
-    services that include a set of commands and replies to access transducer data
-    and TEDS data from the NCAP (1451 server) by the Internet of Things (IoT) applications
-    (APPs) that are 1451 clients. Application programming interfaces (APIs) of network
-    services are defined to facilitate communications between the APPs (1451 clients)
-    and NCAPs. It also defines the common functions and characteristics that are to
-    be performed by a transducer interface module (TIM) and all devices that implement
-    the TIM. It defines a set of transducer services that include a set of commands
-    and replies to facilitate the setup and control of the TIM as well as reading
-    and writing the data used by the NCAP. APIs of transducer services are defined
-    to facilitate communications between the NCAPs and TIMs. It specifies the formats
-    for a TEDS and methods to access the TEDS. It also defines the common functions
-    and characteristics that are to be performed by an APP and all devices that implement
-    the APP.
+- content: 'The common functions, network services, transducer services, and Transducer
+    Electronic Data Sheet (TEDS) formats for members of the IEEE 1451 family of standards
+    to be interoperable in both network interface and transducer interface are provided.
+    The common functions and characteristics that are to be performed by a network
+    capable application processor (NCAP), which is a 1451 server, and all devices
+    that implement the NCAP are defined. A set of network services that includes a
+    set of commands and replies to access transducer data and TEDS data from the NCAP
+    (1451 server) by the Internet of Things (IoT) applications (APPs) that are 1451
+    clients are also defined. Application programming interfaces (APIs) of network
+    services are outlined to facilitate communications between the APPs (1451 clients)
+    and NCAPs. Furthermore, the common functions and characteristics that are to be
+    performed by a transducer interface module (TIM) and all devices that implement
+    the TIM are discussed. A set of transducer services that includes a set of commands
+    and replies to facilitate the setup and control of the TIM, as well as reading
+    and writing the data used by the NCAP, are outlined. APIs of transducer services
+    are also discussed to facilitate communications between the NCAPs and TIMs. Finally,
+    the formats for a TEDS and methods to access the TEDS are specified, along with
+    the common functions and characteristics that are to be performed by an APP and
+    all devices that implement the APP. Additional Open Source content available here:
+    https://opensource.ieee.org/1451/1451.0-schema/'
   language:
   - en
   script:
@@ -152,125 +153,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1451.0-2007
-    docid:
-    - id: IEEE 1451.0-2007
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1451.0-2007
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1451.0-2007
-    docid:
-    - id: IEEE 1451.0-2007
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1451.0-2007
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1451.0-2007
-    docid:
-    - id: IEEE 1451.0-2007
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1451.0-2007
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1451.0-2007
-    docid:
-    - id: IEEE 1451.0-2007
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1451.0-2007
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1451.0-2007
-    docid:
-    - id: IEEE 1451.0-2007
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1451.0-2007
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1451.0-2007
-    docid:
-    - id: IEEE 1451.0-2007
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1451.0-2007
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1451.0-2007
-    docid:
-    - id: IEEE 1451.0-2007
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1451.0-2007
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Transducers
@@ -282,6 +164,7 @@ keyword:
 - content: actuator
 - content: application programming interface
 - content: communication protocol
+- content: IEEE 1451.0&#8482;
 - content: network-capable application processor
 - content: sensor
 - content: smart transducer
@@ -295,11 +178,11 @@ editorialgroup:
   committee:
   - TC9 - Sensor Technology of the IEEE Instrumentation and Measurement Society
 ics:
-- code: 25.040.40
-  text: Industrial process measurement and control
+- code: 35.040.50
+  text: Automatic identification and data capture techniques
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

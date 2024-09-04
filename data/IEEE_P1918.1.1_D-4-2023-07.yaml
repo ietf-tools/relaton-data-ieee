@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: IEEEP1918.1.1-D-4-2023-07
 title:
-- content: IEEE Draft Standard for Haptic Codecs for the Tactile Internet
+- content: IEEE Approved Draft Standard for Haptic Codecs for the Tactile Internet
   format: text/plain
   type: main
 link:
@@ -22,11 +22,11 @@ docid:
 docnumber: IEEE P1918.1.1/D-4-2023-07
 date:
 - type: created
-  value: '2023-10-09'
+  value: '2024-02-21'
 - type: published
   value: '2023-10-13'
 - type: issued
-  value: '2023'
+  value: '2024-02-15'
 contributor:
 - organization:
     name:
@@ -46,16 +46,16 @@ language:
 script:
 - Latn
 abstract:
-- content: This document describes haptic codecs for the data reduction of kinesthetic
-    and tactile signals in response to the Call for Contributions issued by the Haptic
-    Codecs Task Group for the standardization of Haptic Codecs for the Tactile Internet
-    (IEEE P1918.1.1). Three types of codecs are presented in this document, including
-    the no-delay kinesthetic codec (Part I), the delay-robust kinesthetic codec (Part
-    II) and the tactile codec (Part III). Additionally, this document introduces handshaking
-    and metadata exchange mechanisms for the exchange of the capabilities of haptic
-    devices (Part IV). This document also provides additional information (in informative
-    annexes) for codec implementation and evaluation, such as the reference software
-    and hardware setups for kinesthetic and tactile codecs, and cross-validation results.
+- content: 'Haptic codecs for the data reduction of kinesthetic and tactile signals
+    are described in this standard. Three types of codecs are presented in this document,
+    including the no-delay kinesthetic codec (Part I), the delay-robust kinesthetic
+    codec (Part II), and the tactile codec (Part III). Additionally, this document
+    introduces handshaking and metadata exchange mechanisms for the exchange of the
+    capabilities of haptic devices (Part IV). This standard also provides additional
+    information (in informative annexes) for codec implementation and evaluation,
+    such as the reference software and hardware setups for kinesthetic and tactile
+    codecs, and cross-validation results. Additional Open Source content available
+    here: https://opensource.ieee.org/haptic-codecs/kinesthetic/-/releases/0.1.0.'
   language:
   - en
   script:
@@ -79,19 +79,20 @@ keyword:
 - content: Codecs
 - content: Control systems
 - content: Stability analysis
-- content: Haptic codecs
-- content: Kinesthetic codec
-- content: Tactile codec
-- content: Perceptual deadband approach
-- content: Control scheme
-- content: Stability
+- content: control scheme
+- content: haptic codecs
+- content: IEEE 1918.1.1&#8482;
+- content: kinesthetic codec
+- content: perceptual deadband approach
+- content: stability
+- content: tactile codec
 doctype: standard
 editorialgroup:
   committee:
   - Mobile Communication Networks Standards Committee of the IEEE Communications Society
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

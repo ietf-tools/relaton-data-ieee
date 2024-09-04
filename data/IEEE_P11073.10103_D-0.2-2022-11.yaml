@@ -25,9 +25,9 @@ date:
 - type: created
   value: '2022-12-02'
 - type: published
-  value: '2022-12-06'
+  value: '2022-12-05'
 - type: issued
-  value: '2022'
+  value: '2023-11-08'
 contributor:
 - organization:
     name:
@@ -41,7 +41,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-12-06'
+revdate: '2022-12-05'
 language:
 - en
 script:
@@ -94,6 +94,23 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE11073.10103-2012
+    docid:
+    - id: IEEE 11073.10103-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 11073.10103-2012
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Biomedical monitoring
@@ -106,14 +123,18 @@ keyword:
 - content: Remote monitoring
 - content: Defibrillation
 - content: Bioinformatics
-- content: cardiac resynchronization therapy (CRT)
+- content: cardiac resynchronization therapy
 - content: codes
+- content: CRT
 - content: follow-up
 - content: home monitoring
+- content: ICD
+- content: IDC
 - content: IEEE 11073-10103&#8482;
-- content: implantable cardioverter defibrillator (ICD)
+- content: implantable cardioverter defibrillator
 - content: implantable devices
-- content: implantable device cardiac (IDC) medical device communication
+- content: implantable device cardiac
+- content: medical device communication
 - content: nomenclature
 - content: pacemaker
 - content: remote follow-up
@@ -125,15 +146,13 @@ editorialgroup:
   - IEEE 11073 Standards Committee of the IEEE Engineering in Medicine and Biology
     Society
 ics:
-- code: 35.240.80
-  text: IT applications in health care technology
 - code: 11.040.40
   text: Implants for surgery, prosthetics and orthotics
-- code: 01.040.35
-  text: Information technology (Vocabularies)
+- code: 35.240.80
+  text: IT applications in health care technology
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

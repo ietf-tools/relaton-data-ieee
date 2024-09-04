@@ -48,6 +48,19 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: This document is an elaboration standard for the risk management process
+    described in ISO/IEC/IEEE 15288 and ISO/IEC/IEEE 12207. This document provides
+    requirements for the tasks and activities of the risk management process in Clause
+    6, consistent with these life cycle process International Standards. This document
+    provides a definition of the content of the risk management plan and risk treatment
+    plan. This document also provides guidance for how risk management outcomes, activities,
+    and tasks pertain to other processes.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: approved
@@ -64,6 +77,57 @@ copyright:
     - content: IEC
   from: '2021'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE16085-2006
+    docid:
+    - id: IEEE 16085-2006
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 16085-2006
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE16085-2006
+    docid:
+    - id: IEEE 16085-2006
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 16085-2006
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE16085-2006
+    docid:
+    - id: IEEE 16085-2006
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 16085-2006
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE16085-2006

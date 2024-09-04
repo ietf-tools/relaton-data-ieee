@@ -26,7 +26,7 @@ date:
 - type: published
   value: '2023-04-26'
 - type: issued
-  value: '2023'
+  value: '2023-09-21'
 contributor:
 - organization:
     name:
@@ -46,17 +46,11 @@ language:
 script:
 - Latn
 abstract:
-- content: The current blockchain has problems such as a wide variety of chains, independent
-    design rules for each identity account, and different cryptographic curve signature
-    algorithms. If the traditional private key mode is used to manage multiple accounts
-    on the same chain or multiple accounts on different chains Identity requires users
-    to perform multiple backups, and faces complex management and authentication problems.
-    Therefore, the design of hierarchical deterministic schemes and related proposals
-    have emerged. The IEEE P3209 standard will unite many blockchain technology providers
-    to jointly formulate international standards for hierarchical deterministic schemes,
-    output uniform and standardized cryptographic derivation rules between different
-    chains, and determine multiple blockchains through mutual signature and self-certification
-    of private keys of different chains. The same identity corresponding to the public
+- content: IEEE Std 3209 will unite many blockchain technology providers to jointly
+    formulate international standards for hierarchical deterministic schemes, output
+    uniform and standardized cryptographic derivation rules between different chains,
+    and determine multiple blockchains through mutual signature and self-certification
+    of private keys of different chains. The same identity corresponds to the public
     and private keys on the chain.
   language:
   - en
@@ -80,19 +74,25 @@ keyword:
 - content: Cryptography
 - content: Public key
 - content: Elliptic curves
-- content: hierarchical determinism
 - content: blockchain
 - content: cryptography
+- content: elliptic curve
+- content: hierarchical determinism
+- content: IEEE 3209&#8482;
 - content: public key
 - content: private key
-- content: elliptic curve
 doctype: standard
 editorialgroup:
   committee:
   - Blockchain and Distributed Ledgers of the IEEE Computer Society
+ics:
+- code: '35.030'
+  text: IT Security
+- code: 35.240.99
+  text: IT applications in other fields
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

@@ -28,7 +28,7 @@ date:
 - type: published
   value: '2022-09-08'
 - type: issued
-  value: '2022'
+  value: '2023-03-30'
 contributor:
 - organization:
     name:
@@ -48,9 +48,9 @@ language:
 script:
 - Latn
 abstract:
-- content: This amendment to IEEE Std 802.3-2022 adds physical layer specifications
-    and management parameters for 2.5 Gb/s, 5 Gb/s, 10 Gb/s, 25 Gb/s and 50 Gb/s operation
-    on optical fiber for use in automotive applications.
+- content: This amendment to IEEE Std 802.3-2022 adds Physical Layer specifications
+    and management parameters for 2.5 Gb/s, 5 Gb/s, 10 Gb/s, 25 Gb/s, and 50 Gb/s
+    operation on glass optical fiber in an automotive environment.
   language:
   - en
   script:
@@ -68,6 +68,23 @@ copyright:
     url: http://www.ieee.org
   from: '2022'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE802.3-2022
+    docid:
+    - id: IEEE 802.3-2022
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3-2022
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE802.3-2018
@@ -97,13 +114,15 @@ keyword:
 - content: 10GBASE-AU
 - content: 25GBASE-AU
 - content: 50GBASE-AU
+- content: amendment
+- content: automotive Ethernet
 - content: Ethernet
-- content: IEEE 802.3cz&#8482;
+- content: IEEE 802.3
+- content: IEEE 802.3cz
 - content: Medium Dependent Interface
 - content: Physical Coding Sublayer
 - content: Physical Layer
 - content: Physical Medium Attachment
-- content: Automotive Ethernet.
 doctype: standard
 editorialgroup:
   committee:

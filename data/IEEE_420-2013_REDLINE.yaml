@@ -98,16 +98,40 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
+- type: updates
   bibitem:
-    id: IEEE420-2023
+    id: IEEE420-2001
     docid:
-    - id: IEEE 420-2023
+    - id: IEEE 420-2001
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 420-2023
+      content: IEEE 420-2001
       format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE420-2001
+    docid:
+    - id: IEEE 420-2001
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 420-2001
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE420-2001

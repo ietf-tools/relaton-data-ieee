@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2023-07-27'
 - type: issued
-  value: '2023'
+  value: '2023-12-06'
 contributor:
 - organization:
     name:
@@ -47,12 +47,13 @@ language:
 script:
 - Latn
 abstract:
-- content: 'Standard Test Interface Language (STIL) provides an interface between
+- content: 'Standard test interface language (STIL) provides an interface between
     digital test generation tools and test equipment. A test description language
-    is defined that: (a) facilitates the transfer of digital test vector data from
-    CAE to ATE environments; (b) specifies pattern, format, and timing information
-    sufficient to define the application of digital test vectors to a DUT; and (c)
-    supports the volume of test vector data generated from structured tests.'
+    is defined in this standard that: (a) facilitates the transfer of digital test
+    vector data from CAE to ATE environments; (b) specifies pattern, format, and timing
+    information sufficient to define the application of digital test vectors to a
+    DUT; and (c) supports the volume of test vector data generated from structured
+    tests.'
   language:
   - en
   script:
@@ -104,6 +105,91 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1450-1999
+    docid:
+    - id: IEEE 1450-1999
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1450-1999
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1450-1999
+    docid:
+    - id: IEEE 1450-1999
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1450-1999
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1450-1999
+    docid:
+    - id: IEEE 1450-1999
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1450-1999
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1450-1999
+    docid:
+    - id: IEEE 1450-1999
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1450-1999
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1450-1999
+    docid:
+    - id: IEEE 1450-1999
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1450-1999
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Automatic test pattern generation
@@ -113,14 +199,19 @@ keyword:
 - content: Functional programming
 - content: Vectors
 - content: Event detection
-- content: automatic test pattern generator (ATPG)
-- content: built-in self-test (BIST)
-- content: computer-aided engineering (CAE)
+- content: automatic test pattern generator
+- content: ATPG
+- content: BIST
+- content: built-in self-test
+- content: CAE
+- content: computer-aided engineering
 - content: cyclize
-- content: device under test (DUT)
+- content: device under test
 - content: digital test vectors
+- content: DUT
 - content: event
 - content: functional vectors
+- content: IEEE 1450&#8482;
 - content: pattern
 - content: scan vectors
 - content: signal

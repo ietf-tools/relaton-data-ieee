@@ -70,16 +70,40 @@ copyright:
     url: http://www.ieee.org
   from: '2016'
 relation:
-- type: obsoletedBy
+- type: updates
   bibitem:
-    id: IEEE1801-2018
+    id: IEEE1801-2013
     docid:
-    - id: IEEE 1801-2018
+    - id: IEEE 1801-2013
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 1801-2018
+      content: IEEE 1801-2013
       format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1801-2013
+    docid:
+    - id: IEEE 1801-2013
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1801-2013
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE1801-2013

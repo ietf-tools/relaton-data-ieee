@@ -24,6 +24,8 @@ docid:
   type: DOI
 docnumber: IEEE 1637-2020
 date:
+- type: updated
+  value: '2021-04-02'
 - type: created
   value: '2021-02-05'
 - type: published
@@ -60,9 +62,9 @@ abstract:
     and termination design, and it is generally restricted to single conductor underground
     residential distribution (URD) and shielded power cable that have a voltage rating
     from 5 kV to 46 kV, which includes some industrial cables. By nature, the terminations
-    referred to in this guide are considered to be “live front,” in that the terminations
-    comprise a transition from a shielded power cable system to an energized component
-    or bus that is either bare or simply covered.
+    referred to in this guide are considered to be &#x201C;live front,&#x201D; in
+    that the terminations comprise a transition from a shielded power cable system
+    to an energized component or bus that is either bare or simply covered.
   language:
   - en
   script:
@@ -80,6 +82,57 @@ copyright:
     url: http://www.ieee.org
   from: '2020'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE1637-2010
+    docid:
+    - id: IEEE 1637-2010
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1637-2010
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1637-2010
+    docid:
+    - id: IEEE 1637-2010
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1637-2010
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1637-2010
+    docid:
+    - id: IEEE 1637-2010
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1637-2010
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE1637-2010

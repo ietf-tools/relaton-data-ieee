@@ -57,6 +57,9 @@ abstract:
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -91,7 +94,7 @@ keyword:
 - content: Metropolitan area networks
 - content: Physical layer
 - content: 60 GHz
-- content: IEEE P802.15.3
+- content: IEEE P802.15.3(TM)
 - content: millimeter wave
 - content: wireless
 doctype: standard
@@ -103,6 +106,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Superseded
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

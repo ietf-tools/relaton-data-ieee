@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2023-08-14'
 - type: issued
-  value: '2023'
+  value: '2023-12-06'
 contributor:
 - organization:
     name:
@@ -48,15 +48,14 @@ script:
 - Latn
 abstract:
 - content: 'Privacy and security issues pose great challenges to the federated machine
-    leaning community. A general view on privacy and security risks while meeting
-    applicable privacy and security requirements in federated machine learning is
-    provided. A recommended practice is provided in four parts: malicious failure
-    and non-malicious failure in federated machine learning, privacy and security
-    requirements from the perspective of system and federated machine learning participants,
-    defensive methods and fault recovery methods and the privacy and security risks
-    evaluation. It also provides some guidance for typical federated learning scenarios
-    in different industry areas which can facilitate practitioners to use federal
-    learning in a better way.'
+    leaning (FML) community. A general view on privacy and security risks while meeting
+    applicable privacy and security requirements in FML is provided. This recommended
+    practice is provided in four parts: malicious failure and non-malicious failure
+    in FML, privacy and security requirements from the perspective of system and FML
+    participants, defensive methods and fault recovery methods, and the privacy and
+    security risks evaluation. It also provides some guidance for typical FML scenarios
+    in different industry areas, which can facilitate practitioners to use FML in
+    a better way.'
   language:
   - en
   script:
@@ -78,14 +77,21 @@ keyword:
 - content: Security
 - content: Privacy
 - content: Machine learning
-- content: Federated machine learning (FML)
-- content: Machine learning
-- content: Privacy
-- content: Security
+- content: federated machine learning
+- content: FML
+- content: IEEE 2986&#8482;
+- content: machine learning
+- content: privacy
+- content: security
 doctype: standard
 editorialgroup:
   committee:
   - Artificial Intelligence Standards Committee of the IEEE Computer Society
+ics:
+- code: '35.030'
+  text: IT Security
+- code: 35.240.01
+  text: Application of information technology in general
 ext:
   schema-version: v1.0.0
   standard_status: Inactive

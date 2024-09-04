@@ -2,7 +2,8 @@
 schema-version: v1.2.3
 id: IEEEP2847-D-4-2021-09
 title:
-- content: IEEE Draft Standard for DC Power Transmission and Communication to DC Loads
+- content: IEEE Approved Draft Standard for DC Power Transmission and Communication
+    to DC Loads
   format: text/plain
   type: main
 link:
@@ -22,11 +23,11 @@ docid:
 docnumber: IEEE P2847/D-4-2021-09
 date:
 - type: created
-  value: '2021'
+  value: '2021-11-10'
 - type: published
   value: '2021-09-16'
 - type: issued
-  value: '2021'
+  value: '2021-11-09'
 contributor:
 - organization:
     name:
@@ -46,19 +47,18 @@ language:
 script:
 - Latn
 abstract:
-- content: This standard defines physical layer and data link layer specifications
-    for power supply and communication over power lines from a DC Power Source to
-    multiple DC loads as specified in IEEE P2847(TM)/D4 2021. Each receiver has its
-    own physical address and is connected to the transmitter through a pair of power
-    lines in a multi-drop bus or tree topology. The transmitter sends the DC Power
-    and the electric signals corresponding to the communication packets including
-    the control command/data for controlling the DC loads and the target address through
-    the power line by electrically changing the voltage of the wires. Each receiver
-    supplies power to the DC loads with the transmitted and voltage-flattened DC power.
-    Each receiver decodes the control command/data and address from electric signals
-    on the power line and uses them for the connected DC loads control if the addresses
-    match. The standard is in compliance with known Electro-Magnetic Compatibility
-    (EMC) regulations
+- content: Physical layer and data link layer specifications for power supply and
+    communication over power lines from a dc power source to multiple dc loads are
+    specified. Each receiver has its own physical address and is connected to the
+    transmitter through a pair of power lines in a multidrop bus or tree topology.
+    The dc power is sent by the transmitter. This dc power, by electrically changing
+    the voltage of the wires, corresponds to the communication packets, including
+    the control command/data for controlling the dc loads and the target address.
+    Power to the dc loads with the transmitted and voltage-flattened dc power is supplied
+    by each receiver. The control command/data and addresses from electric signals
+    on the power line is decoded by each receiver, to be used for the connected dc
+    loads control if the addresses match. The standard is in compliance with known
+    electromagnetic compatibility (EMC) regulations.
   language:
   - en
   script:
@@ -76,30 +76,30 @@ copyright:
     url: http://www.ieee.org
   from: '2021'
 keyword:
-- content: Standards
 - content: IEEE Standards
-- content: Patents
+- content: Power transmission
 - content: DC power transmission
-- content: Licenses
+- content: Signal processing
 - content: Regulation
 - content: Power line communications
-- content: Power line communication
-- content: PLC
 - content: DC
-- content: DC power
-- content: DC power line communication
-- content: DC power transmission
-- content: DC loads
-- content: Differential signal
-- content: Differential signal communication
-- content: High power differential signal power line communication
+- content: dc loads
+- content: dc power
+- content: dc power line communication
+- content: dc power transmission
+- content: differential signal
+- content: differential signal communication
+- content: high-power differential signal power line communication
+- content: IEEE 2847
+- content: PLC
+- content: power line communication
 doctype: standard
 editorialgroup:
   committee:
   - Power Line Communications of the IEEE Communications Society
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

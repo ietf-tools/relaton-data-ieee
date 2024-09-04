@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2022-11-16'
 - type: issued
-  value: '2022'
+  value: '2023-06-29'
 contributor:
 - organization:
     name:
@@ -47,13 +47,14 @@ language:
 script:
 - Latn
 abstract:
-- content: 'This guide applies the smart grid interoperability reference model (SGIRM)
-    developed in IEEE Std 2030-2011 to systems that integrated distributed energy
-    resources (DER) such as DER management systems (DERMS). In the process of applying
+- content: 'The smart grid interoperability reference model (SGIRM) was developed
+    in IEEE Std 2030&#8482;-2011 for systems that integrate, among other assets, distributed
+    energy resources (DER). DER management systems (DERMS) and microgrid controllers
+    are examples of such systems applied in this guide. In the process of applying
     the SGIRM-2011, elements were added to reflect the changes that have occurred
     since 2011 in electric grids. These include the increasing deployment of DER both
-    at the distribution system and, when aggregated, at the transmission system, and
-    the increasing role of electricity markets, and business and environmental considerations
+    at the distribution system and, when aggregated, at the transmission system, the
+    increasing role of electricity markets, and business and environmental considerations
     in their deployment. These elements were added to the SGIRM. The SGIRM defines
     three integrated architectural perspectives (IAP): power systems, communications
     and information technology, and business and regulatory requirements. The SGIRM
@@ -61,7 +62,7 @@ abstract:
     relationships between elements of the complete installation, regrouped within
     IAPs, and by identifying the relevant and applicable standards and rules. The
     SGIRM can be used to complement design approaches for individual elements of a
-    system, and facilitates extensibility, scalability, and upgradeability.'
+    system and facilitates extensibility, scalability, and upgradeability.'
   language:
   - en
   script:
@@ -97,21 +98,27 @@ keyword:
 - content: electricity markets
 - content: grid architecture
 - content: grid operations
-- content: IEEE 2030
-- content: IEEE 2030.4
+- content: IEEE 2030&#8482;
+- content: IEEE 2030.4&#8482;
 - content: information technology
 - content: interconnection
 - content: interfaces
 - content: interoperability
-- content: smart grid reference 19 model
-- content: SGIRM. 20
+- content: smart grid reference model
+- content: SGIRM
 doctype: standard
 editorialgroup:
   committee:
-  - IEEE-SASB Coordinating Committees
+  - Distributed Generation, Energy Storage and Interoperability Standards Committee
+    of the IEEE SA Board of Governors
+ics:
+- code: 29.240.01
+  text: Power transmission and distribution networks in general
+- code: '35.110'
+  text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold
