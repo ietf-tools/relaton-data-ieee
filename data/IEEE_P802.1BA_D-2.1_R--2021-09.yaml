@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2021-10-01'
 - type: issued
-  value: '2021-12-08'
+  value: '2021'
 contributor:
 - organization:
     name:
@@ -47,8 +47,8 @@ language:
 script:
 - Latn
 abstract:
-- content: Profiles that select features, options, configurations, defaults, protocols,
-    and procedures of bridges, stations, and LANs that are necessary to build networks
+- content: Profiles that select features, options, configurations, defaults, protocols
+    and procedures of bridges, stations and LANs that are necessary to build networks
     that are capable of transporting time-sensitive audio and/or video data streams
     are defined in this standard.
   language:
@@ -85,12 +85,41 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.1BA-2011
+    docid:
+    - id: IEEE 802.1BA-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1BA-2011
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.1BA-2011
+    docid:
+    - id: IEEE 802.1BA-2011
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1BA-2011
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
-- content: IEEE Standards
-- content: Local area networks
-- content: Metropolitan area networks
-- content: Streaming media
-- content: Audio-visual systems
 - content: audio video bridging
 - content: AVB
 - content: Bridged Local Area Networks
@@ -114,7 +143,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

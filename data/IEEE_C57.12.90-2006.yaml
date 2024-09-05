@@ -7,7 +7,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/4109947
+- content: https://ieeexplore.ieee.org/document/8684651
   type: src
 type: standard
 docid:
@@ -20,14 +20,14 @@ docid:
   primary: true
 - id: 978-0-7381-5254-7
   type: ISBN
-- id: 10.1109/IEEESTD.2006.320496
+- id: 10.1109/IEEESTD.2007.8684651
   type: DOI
 docnumber: IEEE C57.12.90-2006
 date:
-- type: updated
-  value: '2008-02-11'
 - type: created
-  value: '2006'
+  value: '2007-02-15'
+- type: published
+  value: '2019-04-05'
 - type: issued
   value: '2006-09-15'
 contributor:
@@ -39,17 +39,18 @@ contributor:
     url: http://www.ieee.org
   role:
   - type: publisher
+revdate: '2019-04-05'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Methods for performing tests specified in IEEE Std C57.12.00<sup>TM</sup>-2006
-    and other standards applicable to liquid-immersed distribution, power, and regulating
+- content: Methods for performing tests specified in IEEE Std C57.12.00TM-2006 and
+    other standards applicable to liquid-immersed distribution, power, and regulating
     transformers are described. Instrument transformers, step-voltage and induction
     voltage regulators, arc furnace transformers, rectifier transformers, specialty
     transformers, grounding transformers, and mine transformers are excluded. This
-    standard covers resistance measurements, polarity and phase-relation tests, ratio
+    standard covers resistance measurements, polarity and phaserelation tests, ratio
     tests, no-load-loss and excitation current measurements, impedance and load loss
     measurements, dielectric tests, temperature tests, short-circuit tests, audible
     sound level measurements, calculated data, and certified test data.
@@ -94,23 +95,6 @@ relation:
     formattedref:
       content: IEEE C57.12.90-2010
       format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC57.12.90-1999
-    docid:
-    - id: IEEE C57.12.90-1999
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C57.12.90-1999
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: obsoletedBy
   bibitem:
     id: IEEEC57.12.90-2010
@@ -122,13 +106,9 @@ relation:
       content: IEEE C57.12.90-2010
       format: text/plain
 keyword:
-- content: IEEE Standards
-- content: Voltage control
-- content: Regulators
-- content: Furnaces
-- content: Voltage measurement
-- content: Rectifiers
-- content: Power transformers
+- content: tests
+- content: transformers
+- content: transformer tests
 doctype: standard
 editorialgroup:
   committee:

@@ -2,12 +2,11 @@
 schema-version: v1.2.3
 id: ISO-IEC15205-2000
 title:
-- content: ISO/IEC 15205:2000 (IEEE Std 1496-1993) SBus -- Chip and Module Interconnect
-    Bus
+- content: ISO/IEC Standard for SBus - Chip and Module Interconnect Bus
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8572657
+- content: https://ieeexplore.ieee.org/document/4140855
   type: src
 type: standard
 docid:
@@ -20,14 +19,12 @@ docid:
   primary: true
 - id: 978-0-7381-2917-4
   type: ISBN
-- id: 10.1109/IEEESTD.2001.8572657
+- id: 10.1109/IEEESTD.2000.339593
   type: DOI
 docnumber: ISO/IEC 15205-2000
 date:
 - type: created
-  value: '2001-05-30'
-- type: published
-  value: '2018-12-10'
+  value: '2000'
 - type: issued
   value: '2000'
 contributor:
@@ -43,35 +40,10 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2018-12-10'
 language:
 - en
 script:
 - Latn
-abstract:
-- content: An input/output expansion bus with a 32-or 64-bit width is described in
-    this standard.The SBus is designed for systems requiring a small number of expansion
-    ports.SBus Cards may be connected to a standard SBus Connector mounted on the
-    motherboard.SBus Devices may also be attached to the SBus directly on the system's
-    motherboard.The dimensions of the SBus Card are 83.8 mm by 146.7 mm,making the
-    cards appropriate for small computer systems that make extensive use of highly
-    integrated circuits.The SBus Cards are designed to be installed in a plane parallel
-    to the system's motherboard as mezzanine cards. They are designed to provide connections
-    for devices external to the computer system through an exposed back panel.The
-    form factor is useful in Futurebus+,VMEbus,desktop computers,and similar applications.
-    The SBus has the capability of transferring data at rates up to 168 Mbytes/s,depending
-    on the implementation options selected. SBus Cards may either serve as Masters
-    on the bus,providing all virtual address information as well as the data to be
-    transferred,or they may serve as Slaves on the bus,providing data transfer according
-    to the require- ments of some other SBus Master.The SBus Master for a data transfer
-    is selected by an arbitration process managed by the single SBus Controller on
-    the SBus.The SBus Controller provides a virtual to physical ad- dress translation
-    service.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 docstatus:
   stage:
     value: withdrawn
@@ -83,17 +55,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2000'
-keyword:
-- content: IEEE Standards
-- content: ISO Standards
-- content: IEC Standards
-- content: Data transfer
-- content: Connectors
-- content: Process control
-- content: I/O bus
-- content: SBus
-- content: SBus Card
-- content: Standard for Boot Firmware
 doctype: standard
 editorialgroup:
   committee:

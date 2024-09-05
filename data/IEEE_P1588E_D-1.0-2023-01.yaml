@@ -3,8 +3,7 @@ schema-version: v1.2.3
 id: IEEEP1588e-D-1.0-2023-01
 title:
 - content: 'IEEE Draft Standard for a Precision Clock Synchronization Protocol for
-    Networked Measurement and Control Systems Amendment: GDOI (Group Domain of Interpretation)
-    Key Management'
+    Networked Measurement and Control Systems Amendment: MIB and YANG Data Models'
   format: text/plain
   type: main
 link:
@@ -19,16 +18,16 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-9327-7
+- id: 978-1-5044-9318-5
   type: ISBN
 docnumber: IEEE P1588e/D-1.0-2023-01
 date:
 - type: created
-  value: '2023-01-09'
+  value: '2023-01-04'
 - type: published
-  value: '2023-01-05'
+  value: '2023-01-06'
 - type: issued
-  value: '2023-12-06'
+  value: '2023'
 contributor:
 - organization:
     name:
@@ -42,16 +41,14 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-01-05'
+revdate: '2023-01-06'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Updates to IEEE Std 1588&#8482;-2019 are provided in this amendment. This
-    amendment also adds guidelines on the application and operation of GDOI (Group
-    Domain of Interpretation) key management to Annex P. and it corrects errors and
-    clarifies statements in 16.4 and Annex P.
+- content: This draft standard is an amendment of IEEE Std 1588&#8482;-2019. This
+    amendment identifies the structure and content of the IEEE 1588 MIB and YANG modules.
   language:
   - en
   script:
@@ -94,10 +91,10 @@ keyword:
 - content: Measurement
 - content: Clocks
 - content: Management
-- content: GDOI
-- content: Group Domain of Interpretation
-- content: IEEE 1588d&#8482;
-- content: Key management
+- content: PTP
+- content: MIB
+- content: YANG
+- content: Management
 doctype: standard
 editorialgroup:
   committee:
@@ -107,7 +104,7 @@ ics:
   text: Other time-measuring instruments
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

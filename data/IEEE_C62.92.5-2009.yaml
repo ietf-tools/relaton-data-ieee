@@ -58,9 +58,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -70,23 +67,16 @@ copyright:
     url: http://www.ieee.org
   from: '2009'
 relation:
-- type: updates
+- type: obsoletedBy
   bibitem:
-    id: IEEEC62.92.5-1992
+    id: IEEEC62.92.5-2020
     docid:
-    - id: IEEE C62.92.5-1992
+    - id: IEEE C62.92.5-2020
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE C62.92.5-1992
+      content: IEEE C62.92.5-2020
       format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: updates
   bibitem:
     id: IEEEC62.92.5-1992
@@ -129,7 +119,6 @@ ics:
   text: Fuses and other overcurrent protection devices
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Superseded
   pubstatus: Active
   holdstatus: Publish

@@ -2,11 +2,12 @@
 schema-version: v1.2.3
 id: IEEE1202-2006
 title:
-- content: IEEE Standard for Flame-Propagation Testing of Wire & Cable
+- content: IEEE Standard for Flame-Propagation Testing of Wire and Cable - Corrigendum
+    1
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/1706053
+- content: https://ieeexplore.ieee.org/document/6365295
   type: src
 type: standard
 docid:
@@ -17,18 +18,18 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-0-7381-5001-7
+- id: 978-0-7381-8009-0
   type: ISBN
-- id: 10.1109/IEEESTD.2006.246240
+- id: 10.1109/IEEESTD.2012.6365295
   type: DOI
 docnumber: IEEE 1202-2006
 date:
 - type: created
-  value: '2006'
+  value: '2012-11-21'
 - type: published
-  value: '2006-10-09'
+  value: '2012-11-29'
 - type: issued
-  value: '2006-06-08'
+  value: '2012-10-19'
 contributor:
 - organization:
     name:
@@ -42,17 +43,14 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2006-10-09'
+revdate: '2012-11-29'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Standardization of cable flame propagation testing is beneficial to cable
-    manufacturers, distributors, and users. Uniform procedures; consistent, repeatable
-    results; and measurable test acceptance criteria are required to allow comparisons
-    among competing products and to allow selection of the correct product for the
-    application.
+- content: Corrected English unit conversions are included in this corrigendum to
+    IEEE Std 1202-2006.
   language:
   - en
   script:
@@ -65,7 +63,7 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2006'
+  from: '2012'
 relation:
 - type: updates
   bibitem:
@@ -305,114 +303,16 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1202-1991
-    docid:
-    - id: IEEE 1202-1991
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1202-1991
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1202-1991
-    docid:
-    - id: IEEE 1202-1991
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1202-1991
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1202-1991
-    docid:
-    - id: IEEE 1202-1991
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1202-1991
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1202-1991
-    docid:
-    - id: IEEE 1202-1991
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1202-1991
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1202-1991
-    docid:
-    - id: IEEE 1202-1991
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1202-1991
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1202-1991
-    docid:
-    - id: IEEE 1202-1991
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1202-1991
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
-- content: IEEE Standards
+- content: IEEE standards
+- content: Flammability
+- content: Fire
+- content: Hazards
+- content: Electrical safety
+- content: Cable trays
 - content: Wiring
-- content: Testing
-- content: Fires
 - content: Power cables
+- content: Power system testing
 - content: 20 kW
 - content: 20 min
 - content: 70 000 Btu/h
@@ -421,6 +321,7 @@ keyword:
 - content: char
 - content: charring
 - content: flame propagation
+- content: IEEE 1202
 - content: test protocol
 - content: vertical cable tray
 - content: wire

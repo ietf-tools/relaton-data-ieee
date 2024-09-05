@@ -26,7 +26,7 @@ date:
 - type: published
   value: '2019-08-14'
 - type: issued
-  value: '2021-09-23'
+  value: '2019'
 contributor:
 - organization:
     name:
@@ -46,18 +46,18 @@ language:
 script:
 - Latn
 abstract:
-- content: Guidance for the physical security of electric power substations is provided
-    in this guide. It addresses a number of threats, including unauthorized access
-    to substation facilities, theft of material, and vandalism. It describes some
-    options for positive access control, monitoring of facilities, and delay/deter
-    features that could be employed to mitigate these threats. This guide also discusses
-    options for different levels of physical security risk for electric power substations.
-    The guide does not establish recommendations based on voltage levels, size, or
-    any depiction of criticality of the substation. The user will make these decisions
-    based on threat assessment and criticality assignment by the substation owner.
-    Large scale overt attacks against the substation for the purpose of destroying
-    its capability to operate, such as explosives, projectiles, vehicles, etc., are
-    beyond the scope of this guide.
+- content: This guide describes recommended practices for the physical security of
+    electric power substations. It is designed to address a number of threats, including
+    unauthorized access to substation facilities, theft of material, and vandalism.
+    It describes options for positive access control, monitoring of facilities, and
+    delay/deter features which could be employed to mitigate these threats. This guide
+    also establishes options for different levels of physical security for electric
+    power substations. The guide does not establish recommendations based on voltage
+    levels, size or any depiction of criticality of the substation. The user will
+    make these decisions based on threat assessment and criticality assignment by
+    the substation owner. Overt attacks against the substation for the purpose of
+    destroying its capability to operate, such as explosives, projectiles, vehicles,
+    etc. are beyond the scope of this guide.
   language:
   - en
   script:
@@ -92,23 +92,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE1402-2000
-    docid:
-    - id: IEEE 1402-2000
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1402-2000
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Substations
@@ -121,7 +104,7 @@ keyword:
 - content: access control
 - content: alarms
 - content: fences
-- content: IEEE 1402
+- content: IEEE 1402TM
 - content: intrusion
 - content: lighting
 - content: monitoring

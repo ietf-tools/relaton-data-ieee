@@ -26,9 +26,9 @@ date:
 - type: created
   value: '2022-12-19'
 - type: published
-  value: '2022-12-20'
+  value: '2022-12-21'
 - type: issued
-  value: '2023-09-21'
+  value: '2022'
 contributor:
 - organization:
     name:
@@ -42,15 +42,15 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-12-20'
+revdate: '2022-12-21'
 language:
 - en
 script:
 - Latn
 abstract:
 - content: This amendment specifies YANG data models that allow configuration and
-    status reporting for Bridges and Bridge components with the capabilities of scheduled
-    traffic, frame preemption, and Per-Stream Filtering and Policing.
+    status reporting for bridges and bridge components with the capabilities of scheduled
+    traffic, frame preemption and per-stream filtering and policing
   language:
   - en
   script:
@@ -93,28 +93,25 @@ keyword:
 - content: Media Access Protocol
 - content: Filtering
 - content: Telecommunication traffic
-- content: amendment
 - content: Bridged Local Area Networks
-- content: frame preemption
-- content: IEEE 802.1Q&#8482;
-- content: IEEE 802.1Qcw&#8482;
 - content: Local Area Networks (LANs)
 - content: MAC Bridges
-- content: Per-Stream Filtering and Policing
-- content: scheduled traffic
-- content: traffic shaping
+- content: Metropolitan Area Networks
 - content: Virtual Bridged Local Area Networks (virtual LANs)
+- content: Traffic Shaping
+- content: Amendment
+- content: IEEE 802.1Qcw
 - content: YANG
+- content: Scheduled Traffic
+- content: Frame Preemption
+- content: Per-Stream Filtering and Policing.
 doctype: standard
 editorialgroup:
   committee:
   - LAN/MAN Standards Committee of the IEEE Computer Society
-ics:
-- code: '35.110'
-  text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

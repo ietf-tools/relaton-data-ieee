@@ -23,8 +23,6 @@ docid:
   type: DOI
 docnumber: IEEE 1863-2019
 date:
-- type: updated
-  value: '2020-05-22'
 - type: created
   value: '2020-05-11'
 - type: published
@@ -60,9 +58,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -71,6 +66,27 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2020'
+relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE1863-2024
+    docid:
+    - id: IEEE 1863-2024
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1863-2024
+      format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE1863-2024
+    docid:
+    - id: IEEE 1863-2024
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1863-2024
+      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Power transmission lines
@@ -94,13 +110,12 @@ keyword:
 doctype: standard
 editorialgroup:
   committee:
-  - Corporate Advisory Group of the IEEE SA Board of Governors
+  - Entity Collaborative Activities Governance Board of the IEEE SA Board of Governors
 ics:
-- code: 01.040.11
-  text: Health care technology (Vocabularies)
+- code: 29.240.20
+  text: Power transmission and distribution lines
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Superseded
   pubstatus: Active
   holdstatus: Publish

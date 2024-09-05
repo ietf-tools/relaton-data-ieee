@@ -24,8 +24,6 @@ docid:
   type: DOI
 docnumber: IEEE 802.15.3d-2017
 date:
-- type: updated
-  value: '2017-10-27'
 - type: created
   value: '2017-10-18'
 - type: published
@@ -39,6 +37,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2017-10-12'
@@ -56,9 +58,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -119,6 +118,23 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.15.3-2003
+    docid:
+    - id: IEEE 802.15.3-2003
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.15.3-2003
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Multimedia communication
@@ -126,8 +142,8 @@ keyword:
 - content: Wireless communication
 - content: 300 GHz
 - content: fixed point-to-point
-- content: IEEE 802.15.3(TM)
-- content: IEEE 802.15.3d(TM)
+- content: IEEE 802.15.3
+- content: IEEE 802.15.3d
 - content: submillimeter waves
 - content: THz
 - content: wireless
@@ -140,7 +156,6 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Superseded
   pubstatus: Active
   holdstatus: Publish

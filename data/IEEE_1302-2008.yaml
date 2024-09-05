@@ -68,6 +68,16 @@ copyright:
     url: http://www.ieee.org
   from: '2009'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE1302-2019
+    docid:
+    - id: IEEE 1302-2019
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1302-2019
+      format: text/plain
 - type: updates
   bibitem:
     id: IEEE1302-1998
@@ -85,16 +95,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEE1302-2019
-    docid:
-    - id: IEEE 1302-2019
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1302-2019
-      format: text/plain
 keyword:
 - content: IEEE standards
 - content: Probability density function

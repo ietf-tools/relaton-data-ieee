@@ -54,7 +54,7 @@ abstract:
     This standard defines the short-term (Pst) and long-term (Plt) indices used for
     the quantification of lamp flicker. For different system voltages, this standard
     defines planning levels for flicker that the utilities need their system to be
-    limited to in order to reduce customer complaints. This standard defines the procedure
+    limited to in order to avoid customer complaints. This standard defines the procedure
     for determining emission limits for individual installations at the Point of Common
     Coupling (PCC) so that the planning levels can be achieved in practice. Then,
     an assessment procedure for evaluating flicker compliance against emission limits
@@ -118,15 +118,41 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1453-2015
+    docid:
+    - id: IEEE 1453-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1453-2015
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1453-2015
+    docid:
+    - id: IEEE 1453-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1453-2015
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
-- content: IEEE Standards
-- content: Voltage flucuations
-- content: Voltage measurement
-- content: Switches
-- content: Power transformers
-- content: Power measurement
-- content: Power demand
-- content: Flicker
 - content: Flicker
 - content: fluctuating installations
 - content: IEEE 1453&#8482;
@@ -142,7 +168,7 @@ ics:
   text: Emission
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

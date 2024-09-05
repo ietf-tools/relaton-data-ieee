@@ -65,16 +65,6 @@ copyright:
     url: http://www.ieee.org
   from: '1998'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE45-2002
-    docid:
-    - id: IEEE 45-2002
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 45-2002
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEE45-1983
@@ -92,6 +82,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE45-2002
+    docid:
+    - id: IEEE 45-2002
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 45-2002
+      format: text/plain
 keyword:
 - content: IEEE standards
 - content: marine electrical engineering

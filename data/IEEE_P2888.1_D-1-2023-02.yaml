@@ -24,9 +24,9 @@ date:
 - type: created
   value: '2023'
 - type: published
-  value: '2023-03-28'
+  value: '2023-03-29'
 - type: issued
-  value: '2023-11-08'
+  value: '2023'
 contributor:
 - organization:
     name:
@@ -40,20 +40,19 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-03-28'
+revdate: '2023-03-29'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The vocabulary, data formats, and application programming interfaces (APIs)
-    for acquiring information from sensors are defined in this standard, enabling
-    communication between the cyber world and the physical world, including:--Data
-    formats for interfacing sensor data defining a root schema with individual sensor
-    data--Data formats for recognizing sensor capabilities defining a root schema
-    with individual sensor capabilities--Data formats for common data types--Application
-    programming interfaces to transmit a sensor and its capability data between cyber
-    and physical worlds
+- content: 'This standard defines the vocabulary, data formats, and APIs for acquiring
+    information from sensors, enabling communication between the cyber world and the
+    physical world, including: -- data formats for interfacing sensor data defining
+    a root schema with individual sensor data, -- data formats for recognizing sensor
+    capabilities defining a root schema with individual sensor capabilities, -- data
+    formats for common data types, and -- application programming interfaces to transmit
+    sensor and its capability data between cyber and physical worlds.'
   language:
   - en
   script:
@@ -77,25 +76,21 @@ keyword:
 - content: Training data
 - content: Biosensors
 - content: Audio-visual systems
+- content: Sensor data formats
+- content: sensor capabilities
+- content: sensor APIs
 - content: audio-visual sensors
 - content: biosensors
 - content: environmental sensors
-- content: IEEE 2888.1&#8482;
-- content: large space virtual reality (VR) training system sensors
 - content: location and position sensors
-- content: sensor capabilities
-- content: sensor data formats
-- content: sensor application programming interfaces (APIs)
+- content: large space VR training system sensors
 doctype: standard
 editorialgroup:
   committee:
-  - Standards Activities Board Standards Committee of the IEEE Computer Society
-ics:
-- code: '35.180'
-  text: IT terminal and other peripheral equipment
+  - Standards Activities Board of the IEEE Computer Society
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

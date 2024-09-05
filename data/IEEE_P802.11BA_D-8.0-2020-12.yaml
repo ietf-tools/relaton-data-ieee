@@ -2,14 +2,14 @@
 schema-version: v1.2.3
 id: IEEEP802.11ba-D-8.0-2020-12
 title:
-- content: 'IEEE Draft Standard for Information Technology--Telecommunications and
-    Information Exchange Between Systems Local and Metropolitan Area Networks--Specific
+- content: 'IEEE Approved Draft Standard for Information Technology--Telecommunications
+    and Information Exchange Between Systems Local and Metropolitan Area Networks--Specific
     Requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer
     (PHY) Specifications Amendment 3: Wake-Up Radio Operation'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/9295500
+- content: https://ieeexplore.ieee.org/document/9390505
   type: src
 type: standard
 docid:
@@ -25,9 +25,9 @@ docid:
 docnumber: IEEE P802.11ba/D-8.0-2020-12
 date:
 - type: created
-  value: '2020-12-14'
+  value: '2021'
 - type: published
-  value: '2020-12-15'
+  value: '2021-03-30'
 - type: issued
   value: '2021-03-25'
 contributor:
@@ -43,15 +43,14 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2020-12-15'
+revdate: '2021-03-30'
 language:
 - en
 script:
 - Latn
 abstract:
 - content: This amendment defines modifications to both the IEEE 802.11 physical layer
-    (PHY) and the IEEE 802.11 medium access control (MAC) sublayer for wake-up radio
-    operation.
+    (PHY) and the medium access control (MAC) sublayer for wake-up radio operation.
   language:
   - en
   script:
@@ -86,40 +85,20 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE802.11-2020
-    docid:
-    - id: IEEE 802.11-2020
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.11-2020
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
-- content: Information technology
-- content: Local area networks
-- content: Metropolitan area networks
-- content: Media Access Protocols
-- content: Wireless LAN
-- content: Physical layer
 - content: Information exchange
-- content: IEEE 802.11
-- content: IEEE 802.11ba
-- content: MAC
-- content: medium access control
+- content: Physical layer
+- content: Media Access Protocol
+- content: Information technology
+- content: Wireless LAN
+- content: Radio communication
+- content: wake-up radio
 - content: PHY
 - content: physical layer
+- content: MAC
+- content: medium access control
 - content: power save
-- content: wake-up radio
 doctype: standard
 editorialgroup:
   committee:
@@ -129,7 +108,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

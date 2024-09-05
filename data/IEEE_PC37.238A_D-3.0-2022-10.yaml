@@ -29,7 +29,7 @@ date:
 - type: published
   value: '2022-11-18'
 - type: issued
-  value: '2023-06-29'
+  value: '2022'
 contributor:
 - organization:
     name:
@@ -49,9 +49,9 @@ language:
 script:
 - Latn
 abstract:
-- content: This amendment to IEEE Std. C37.238&#8482;-2017 specifies a LEAP_SECOND_EVENT
-    TLV to enable grandmaster-capable clocks to distribute leap second event and validity
-    information in advance.
+- content: An extended profile is specified for the use of Precision Time Protocol
+    of IEEE Std 1588-2008 in power system protection, control, automation, and data
+    communication applications utilizing an Ethernet communications architecture.
   language:
   - en
   script:
@@ -103,192 +103,28 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC37.238-2017
-    docid:
-    - id: IEEE C37.238-2017
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.238-2017
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC37.238-2017
-    docid:
-    - id: IEEE C37.238-2017
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.238-2017
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC37.238-2017
-    docid:
-    - id: IEEE C37.238-2017
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.238-2017
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC37.238-2017
-    docid:
-    - id: IEEE C37.238-2017
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.238-2017
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC37.238-2017
-    docid:
-    - id: IEEE C37.238-2017
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.238-2017
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC37.238-2017
-    docid:
-    - id: IEEE C37.238-2017
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.238-2017
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC37.238-2017
-    docid:
-    - id: IEEE C37.238-2017
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.238-2017
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC37.238-2017
-    docid:
-    - id: IEEE C37.238-2017
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.238-2017
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC37.238-2017
-    docid:
-    - id: IEEE C37.238-2017
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.238-2017
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
-- content: IEEE Standards
-- content: Timing analysis
-- content: Clocks
-- content: Synchronization
-- content: Substations
-- content: Precision engineering
-- content: Synchrophasors
-- content: boundary clock
-- content: end device
 - content: grandmaster clock
 - content: IEEE 1588&#8482;
 - content: IEEE C37.238&#8482;
-- content: leap second
 - content: power substation
-- content: precise time
-- content: precision time protocol
+- content: precise time synchronization
+- content: Precision Time Protocol
 - content: PTP
 - content: sample synchronization
-- content: synchronization
+- content: slave-only clock
 - content: synchrophasors
 - content: transparent clock
-- content: UTC
 doctype: standard
 editorialgroup:
   committee:
-  - Power System Communications and Cybersecurity of the IEEE Power and Energy Society
+  - IEEE Power and Energy Society
 ics:
 - code: 39.040.99
   text: Other time-measuring instruments
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

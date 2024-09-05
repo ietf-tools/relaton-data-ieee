@@ -49,12 +49,15 @@ language:
 script:
 - Latn
 abstract:
-- content: Dimension errors in Table 5 for hex nuts have been corrected.
+- content: Dimension errors in Table 5 for hex nuts have been corrected
   language:
   - en
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -85,7 +88,7 @@ ics:
   text: Bolts, screws, studs
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
-  standard_modified: Reserved
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

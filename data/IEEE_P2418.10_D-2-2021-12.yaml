@@ -26,7 +26,7 @@ date:
 - type: published
   value: '2021-12-02'
 - type: issued
-  value: '2021'
+  value: '2022-03-24'
 contributor:
 - organization:
     name:
@@ -46,11 +46,9 @@ language:
 script:
 - Latn
 abstract:
-- content: A baseline architectural framework and functional roles for blockchain-based
-    digital asset management implementation, e.g., digital asset creator, distributor,
-    consumers, judiciaries, and blockchain platform providers are defined in this
-    standard. In addition, this standard outlines the general process for digital
-    asset management on blockchain.
+- content: A baseline architectural framework will be defined in this standard. In
+    addition, the general process for digital asset management on blockchain will
+    be outlined.
   language:
   - en
   script:
@@ -72,17 +70,21 @@ keyword:
 - content: Blockchains
 - content: Asset management
 - content: Digital systems
-- content: Blockchain
-- content: data asset
+- content: blockchain
 - content: digital asset
 - content: IEEE 2418.10
 doctype: standard
 editorialgroup:
   committee:
   - Blockchain Standards Committee of the IEEE Consumer Technology Society
+ics:
+- code: 35.240.63
+  text: IT applications in trade
+- code: 35.240.99
+  text: IT applications in other fields
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

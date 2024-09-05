@@ -6,7 +6,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8684459
+- content: https://ieeexplore.ieee.org/document/7442021
   type: src
 type: standard
 docid:
@@ -19,14 +19,16 @@ docid:
   primary: true
 - id: 978-1-5044-0477-8
   type: ISBN
-- id: 10.1109/IEEESTD.1949.8684459
+- id: 10.1109/IEEESTD.1950.7442021
   type: DOI
 docnumber: ASA C37.1-1950
 date:
+- type: updated
+  value: '2016-04-15'
 - type: created
-  value: '1949-11-30'
+  value: '1950'
 - type: published
-  value: '2019-04-05'
+  value: '2016-03-25'
 - type: issued
   value: '1950-03-30'
 contributor:
@@ -38,21 +40,17 @@ contributor:
     url: http://www.ieee.org
   role:
   - type: publisher
-revdate: '2019-04-05'
+revdate: '2016-03-25'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The standard in this publication is the first revision of the American
-    Standard for Relays Associated with Power Switchgear, C37.1-1937. A proposed revision,
-    dated January 12, 1949, was prepared by the American Institute of Electrical Engineers
-    Relay Committee and then submitted to the American Standards Association, Incorporated.
-    Subsequent work on the proposed standard was carried on by the Sectional Committee
-    on Power Switchgear, C37. The standard relates only to relays of types directly
-    associated with power switchgear. It does not cover relays of types designed primarily
-    for industrial control, excitation, or governor regulating, telephone, telegraph,
-    traffic signal, or similar purpose.
+- content: This standard covers all relays directly associated with electric power
+    apparatus. However, it relates only to relays of types directly associated with
+    power switchgear. It does not cover relays of types designed primarily for industrial
+    control, excitation, or governor regulating, telephone, telegraph, traffic signal,
+    or similar purpose.
   language:
   - en
   script:
@@ -69,11 +67,13 @@ copyright:
     - content: ASA
   from: '1950'
 keyword:
+- content: ASA Standards
 - content: Relays
-- content: ASA
-- content: Power systems
-- content: Advertising
-- content: Industrial control
+- content: Protective relaying
+- content: Circuit faults
+- content: Voltage control
+- content: Impedance
+- content: Switchgear
 doctype: standard
 ext:
   schema-version: v1.0.0

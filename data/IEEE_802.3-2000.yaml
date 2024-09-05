@@ -83,6 +83,16 @@ copyright:
     url: http://www.ieee.org
   from: '2000'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE802.3-2002
+    docid:
+    - id: IEEE 802.3-2002
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3-2002
+      format: text/plain
 - type: updates
   bibitem:
     id: IEEE802.3-1998
@@ -100,16 +110,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEE802.3-2002
-    docid:
-    - id: IEEE 802.3-2002
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.3-2002
-      format: text/plain
 keyword:
 - content: IEEE 802.3 Standard
 - content: EPON

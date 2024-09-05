@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: IEEEP3205-D-6.1-2023-01
 title:
-- content: IEEE Draft Standard for Blockchain Interoperability - Data Authentication
+- content: IEEE Approved Draft Standard for Blockchain Interoperability - Data Authentication
     and Communication Protocol
   format: text/plain
   type: main
@@ -23,11 +23,11 @@ docid:
 docnumber: IEEE P3205/D-6.1-2023-01
 date:
 - type: created
-  value: '2023-01-30'
-- type: published
-  value: '2023-02-01'
-- type: issued
   value: '2023'
+- type: published
+  value: '2023-01-31'
+- type: issued
+  value: '2023-03-30'
 contributor:
 - organization:
     name:
@@ -41,7 +41,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-02-01'
+revdate: '2023-01-31'
 language:
 - en
 script:
@@ -52,14 +52,14 @@ abstract:
     has been exchanged. The interfaces and protocols play a very important role in
     realizing interoperability. Therefore, the standard of cross-chain interoperability
     interfaces and protocols, especially those for data authentication and communication
-    among homogeneous and heterogeneous blockchains systems is needed. Such protocols
+    among homogeneous and heterogeneous blockchains systems, is needed. Such protocols
     coordinate blockchains while supporting multiple cross-chain models and levels
     to meet business demands without the need to customize gateways or exchanges for
-    specific use cases. The standard provides an infrastructure of cross chain interoperability,
-    as well as interfaces and protocols of data authentication and communication for
-    homogeneous and heterogeneous blockchain interoperability. The protocols include
-    the distributed identity protocol, metadata protocol, on-chain proof conversion
-    protocol, and cross-chain communication protocol.
+    specific use cases. Provided in this standard are an infrastructure of cross-chain
+    interoperability, as well as interfaces and protocols of data authentication and
+    communication for homogeneous and heterogeneous blockchain interoperability. The
+    protocols include the distributed identity protocol, metadata protocol, on-chain
+    proof transformation protocol, and cross-chain communication protocol.
   language:
   - en
   script:
@@ -82,16 +82,17 @@ keyword:
 - content: Interoperability
 - content: Data authentication
 - content: Protocols
-- content: Heterogeneous blockchain
-- content: Homogeneous blockchain
-- content: Interoperability
+- content: 'Keywords: heterogeneous blockchain'
+- content: homogeneous blockchain
+- content: IEEE 3205
+- content: interoperability
 doctype: standard
 editorialgroup:
   committee:
   - Blockchain and Distributed Ledgers of the IEEE Computer Society
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

@@ -88,13 +88,24 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE487.3-2014
+    docid:
+    - id: IEEE 487.3-2014
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 487.3-2014
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
-- content: IEEE Standards
-- content: Copper
-- content: Optical fiber communication
-- content: High-voltage techniques
-- content: Power generation
-- content: Communication systems
 - content: CFJ
 - content: copper-fiber junction
 - content: electric power stations
@@ -114,7 +125,7 @@ ics:
   text: Telecommunication systems in general
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

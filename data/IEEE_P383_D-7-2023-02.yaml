@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2023-04-18'
 - type: issued
-  value: '2023-09-21'
+  value: '2023'
 contributor:
 - organization:
     name:
@@ -48,12 +48,12 @@ script:
 - Latn
 abstract:
 - content: General requirements and methods for qualifying electric cables, and splices
-    for nuclear facilities are provided in this standard. Cable, wire, and splices
-    within or integral to other devices (e.g., instruments, panels, motors) should
-    be qualified using the requirements in the applicable device standard or IEEE/IEC
-    Std 60780-323&#8482;:2016. However, the requirements set in this standard may
-    be applied to the cable and splices within these devices. For qualification of
-    fiber optic cable, refer to IEEE Std 1682&#8482;.
+    for nuclear facilities are provided. Cable, wire, and splices within or integral
+    to other devices (e.g., instruments, panels, motors) should be qualified using
+    the requirements in the applicable device standard or IEEE/IEC Std 60780-323TM.
+    However, this standard's requirements may be applied to the cable and splices
+    within these devices. For qualification of fiber optic cable refer to IEEE Std
+    1682TM.
   language:
   - en
   script:
@@ -88,6 +88,23 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE383-2015
+    docid:
+    - id: IEEE 383-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 383-2015
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: Standards
 - content: IEEE Standards
@@ -96,27 +113,27 @@ keyword:
 - content: Warranties
 - content: Licenses
 - content: Trademarks
-- content: cable
-- content: class 1E
-- content: electric cable
-- content: factory rework
-- content: factory splice
-- content: IEEE 383&#8482;
-- content: nuclear facility
-- content: qualified life
-- content: representative cable
-- content: representative splice
-- content: splice
+- content: Cable
+- content: Electric Cable
+- content: Factory Rework
+- content: Factory Splice
+- content: IEEE 383TM
+- content: Nuclear Facility
+- content: Qualified Life
+- content: Representative Cable
+- content: Representative Splice
+- content: Class 1E
+- content: Splice
 doctype: standard
 editorialgroup:
   committee:
-  - Nuclear Power Engineering Committee of the IEEE Power and Energy Society
+  - Nuclear Power Engineering of the IEEE Power and Energy Society
 ics:
 - code: 29.060.20
   text: Cables
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold
