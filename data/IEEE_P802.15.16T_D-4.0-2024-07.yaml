@@ -1,0 +1,123 @@
+---
+schema-version: v1.2.3
+id: IEEEP802.15.16t-D-4.0-2024-07
+title:
+- content: IEEE Draft Standard for Air Interface for Broadband Wireless Access Systems
+    Amendment t - Fixed and Mobile Wireless Access in Narrowband Channels
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10669303
+  type: src
+type: standard
+docid:
+- id: IEEE P802.15.16t/D-4.0-2024-07
+  type: IEEE
+  primary: true
+- id: IEEE P802.15.16t™/D-4.0-2024-07
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-1181-3
+  type: ISBN
+docnumber: IEEE P802.15.16t/D-4.0-2024-07
+date:
+- type: created
+  value: '2024'
+- type: published
+  value: '2024-09-06'
+- type: issued
+  value: '2024'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2024-09-06'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This standard specifies the air interface, including the medium access
+    control layer (MAC) and physical layer (PHY), of combined fixed and mobile point-to-multipoint
+    broadband wireless access (BWA) systems providing multiple services. The MAC is
+    structured to support multiple PHY specifications, including WirelessMAN-SC, WirelessMAN-OFDM,
+    and WirelessMAN-OFDMA PHY specifications, each suited to a particular operational
+    environment.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: draft
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2024'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE802.16-2017
+    docid:
+    - id: IEEE 802.16-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.16-2017
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: broadband wireless access
+- content: BWA
+- content: cellular layer
+- content: fixed broadband wireless access
+- content: IEEE 802.16&#8482;
+- content: IMT-2000
+- content: MAN
+- content: management information base
+- content: MIB
+- content: microwave
+- content: mobile broadband
+- content: mobile broadband wireless access
+- content: OFDM
+- content: OFDMA
+- content: radio
+- content: standard
+- content: WAS
+- content: wireless access systems
+- content: WirelessMAN&#174;
+- content: wireless metropolitan area network
+doctype: standard
+editorialgroup:
+  committee:
+  - LAN/MAN Standards Committee of the IEEE Computer Society
+ics:
+- code: '35.110'
+  text: Networking
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold
