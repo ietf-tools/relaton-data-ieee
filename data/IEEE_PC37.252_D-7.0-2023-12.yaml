@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2023-12-08'
 - type: issued
-  value: '2023'
+  value: '2024-03-21'
 contributor:
 - organization:
     name:
@@ -46,6 +46,15 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: The application philosophy, limitations, and testing methods for the automatic
+    voltage control (AVC) system of the power grid are described in this guide. The
+    testing for reactive power control based AVC systems in the power grid is applied.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -58,19 +67,30 @@ copyright:
     url: http://www.ieee.org
   from: '2023'
 keyword:
+- content: IEEE Standards
+- content: Power grids
+- content: Automatic voltage control
+- content: Testing
+- content: Reactive power control
+- content: Power grids
+- content: automatic voltage control
 - content: AVC
+- content: IEEE C37.252&#8482;
 - content: reactive power control
 - content: power grid
 - content: test methods
 - content: function test
-- content: zone division.
+- content: zone division
 doctype: standard
 editorialgroup:
   committee:
   - Power System Relaying and Control of the IEEE Power and Energy Society
+ics:
+- code: '29.020'
+  text: Electrical engineering in general
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

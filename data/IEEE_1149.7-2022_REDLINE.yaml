@@ -1,0 +1,302 @@
+---
+schema-version: v1.2.3
+id: IEEE1149.7-2022Redline
+title:
+- content: IEEE Standard for Reduced-Pin and Enhanced-Functionality Test Access Port
+    and Boundary-Scan Architecture
+  format: text/plain
+  type: title-main
+- content: IEEE Standard for Reduced-Pin and Enhanced-Functionality Test Access Port
+    and Boundary-Scan Architecture - Redline
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10675472
+  type: src
+type: standard
+docid:
+- id: IEEE 1149.7-2022 Redline
+  type: IEEE
+  primary: true
+- id: IEEE 1149.7™-2022 Redline
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-1227-8
+  type: ISBN
+docnumber: IEEE 1149.7-2022 Redline
+date:
+- type: created
+  value: '2022-10-14'
+- type: published
+  value: '2024-09-11'
+- type: issued
+  value: '2022-06-16'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2024-09-11'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Circuitry that may be added to an integrated circuit to provide access
+    to on-chip Test Access Ports (TAPs) specified by IEEE Std 1149.1 is described
+    in this standard. The circuitry uses IEEE Std 1149.1 as its foundation, providing
+    complete backward compatibility, while aggressively adding features to support
+    test and applications debug. It defines six classes of IEEE 1149.7 Test Access
+    Ports (TAP.7s), T0 to T5, with each class providing incremental capability, building
+    on that of the lower level classes. Class T0 provides the behavior specified by
+    1149.1 from startup when there are multiple on-chip TAPs. Class T1 adds common
+    debug functions and features to minimize power consumption. Class T2 adds operating
+    modes that maximize scan performance. It also provides an optional hot-connection
+    capability to prevent system corruption when a connection is made to a powered
+    system. Class T3 supports operation in either a four-wire Series or Star Scan
+    Topology. Class T4 provides for communication with either a two-pin or four-pin
+    interface. The two-pin operation serializes IEEE 1149.1 transactions and provides
+    for higher Test Clock rates. Class T5 adds the ability to perform data transfers
+    concurrently with scan, supports utilization of functions other than scan, and
+    provides control of TAP.7 pins to custom debug technologies in a manner that ensures
+    current and future interoperability.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2022'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1149.7-2009
+    docid:
+    - id: IEEE 1149.7-2009
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1149.7-2009
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: System-on-chip
+- content: Power demand
+- content: Interoperability
+- content: Integrated circuits
+- content: Data transfer
+- content: Power system reliability
+- content: Testing
+- content: 2-pin
+- content: 2-wire
+- content: 4-pin
+- content: 4-wire
+- content: Advanced Protocol
+- content: Advanced Protocol Unit
+- content: APU
+- content: Background Data Transfer
+- content: background data transport
+- content: BDX
+- content: boundary scan
+- content: BSDL
+- content: BSDL.1
+- content: BSDL.7
+- content: BYPASS
+- content: Capture-IR
+- content: CDX
+- content: Chip-Level TAP Controller
+- content: CID
+- content: Class T0
+- content: Class T1
+- content: Class T2
+- content: Class T3
+- content: Class T4
+- content: Class T5
+- content: CLTAPC
+- content: compact JTAG
+- content: compliant behavior
+- content: compliant operation
+- content: control level
+- content: controller address
+- content: Controller ID
+- content: Controller Identification Number
+- content: CP
+- content: Custom Data Transfer
+- content: custom data transport
+- content: Data Register
+- content: debug interface
+- content: debug logic
+- content: debug and test interface
+- content: DOT1
+- content: DOT7
+- content: DTI
+- content: DTS
+- content: DTT
+- content: Debug Test System
+- content: debug test target
+- content: Escape
+- content: EOT
+- content: EPU
+- content: extended operation
+- content: Extended Protocol
+- content: EXTEST
+- content: four-pin
+- content: four-wire
+- content: HSDL
+- content: HSDL.7
+- content: IDCODE
+- content: IEEE 1149.1
+- content: IEEE 1149.7
+- content: Instruction Register
+- content: JScan
+- content: JScan0
+- content: JScan1
+- content: JScan2
+- content: JScan3
+- content: JTAG
+- content: MScan
+- content: MTCP
+- content: Multi-TAP Control Path
+- content: narrow Star Scan Topology
+- content: nTRST
+- content: nTRST_PD
+- content: optimized scan
+- content: OScan
+- content: OScan0
+- content: OScan1
+- content: OScan2
+- content: OScan3
+- content: OScan4
+- content: OScan5
+- content: OScan6
+- content: OScan7
+- content: Pause-DR
+- content: Pause-IR
+- content: PC0
+- content: PC1
+- content: RSU
+- content: Reset and selection unit
+- content: RTI
+- content: Run- Test/Idle
+- content: scan
+- content: scan DR
+- content: scan format
+- content: scan IR
+- content: Scan Packet
+- content: scan path
+- content: scan performance
+- content: scan protocol
+- content: scan topology
+- content: series
+- content: Series Branch
+- content: Series Scan
+- content: Series Scan Topology
+- content: Series- Equivalent Scan
+- content: Series Topology
+- content: Shift-DR
+- content: Shift-IR
+- content: SiP
+- content: Star Scan
+- content: Star Scan Topology
+- content: Star Topology
+- content: Star-2
+- content: Star-2 Branch
+- content: Star-2 Scan
+- content: Star-4
+- content: Star-4 Branch
+- content: Star- 4 Scan
+- content: Star-4 Scan Topology
+- content: SP
+- content: SScan
+- content: SScan0
+- content: SScan1
+- content: SScan2
+- content: SScan3
+- content: stall
+- content: SSD
+- content: Scan Selection Directive
+- content: Standard Protocol
+- content: STL
+- content: System Test Logic
+- content: TAP
+- content: TAP controller
+- content: TAP controller address
+- content: TAP selection
+- content: TAP.1
+- content: TAP.7
+- content: TAPC
+- content: TCA
+- content: TCK
+- content: TCKC
+- content: TDI
+- content: TDIC
+- content: TDOC
+- content: TDOE
+- content: Test Access Port
+- content: test and debug
+- content: Test-Logic-Reset
+- content: TLR
+- content: TMSC
+- content: Transport Packet
+- content: T0
+- content: T0 TAP.7
+- content: T1
+- content: T1 TAP.7
+- content: T2
+- content: T2 TAP.7
+- content: T3
+- content: T3 TAP.7
+- content: T4
+- content: T4 TAP.7
+- content: T4(N)
+- content: T4(N) TAP.7
+- content: T4(W)
+- content: T4(W) TAP.7
+- content: T5
+- content: T5 TAP.7
+- content: T5(N)
+- content: T5(N) TAP.7
+- content: T5(W)
+- content: T5(W) TAP.7
+- content: TP
+- content: two-pin
+- content: two-wire
+- content: Update-DR
+- content: Update-IR
+- content: ZBS
+- content: zero bit scan
+doctype: redline
+editorialgroup:
+  committee:
+  - Test Technology of the IEEE Computer Society
+ics:
+- code: '35.200'
+  text: Interface and interconnection equipment
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Redline
+  pubstatus: Active
+  holdstatus: Publish

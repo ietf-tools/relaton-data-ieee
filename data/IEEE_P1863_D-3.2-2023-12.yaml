@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2023-12-08'
 - type: issued
-  value: '2023'
+  value: '2024-03-21'
 contributor:
 - organization:
     name:
@@ -46,6 +46,21 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: Covered in this guide are basic principles, methods, and experience for
+    (design of 110 kV to 1000 kV) alternating current (ac) overhead transmission lines.
+    This guide may also be used as a reference for the design of lower-voltage overhead
+    transmission lines. Included in this guide are an introduction, definitions, meteorological
+    design and criteria, electrical design, structural design criteria, design of
+    foundations, experiment results, and design experience. This guide is a listing
+    of the information and procedures that can be referenced during the design of
+    ac transmission lines. Guidance is provided for transmission line designers in
+    the data collection design stage.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -195,10 +210,15 @@ relation:
     - Latn
     format: text/plain
 keyword:
+- content: IEEE Standards
+- content: Power transmission lines
+- content: Design engineering
+- content: Electrical products
 - content: AC overhead transmission line
-- content: electrical design
-- content: structure design
 - content: design experience
+- content: electrical design
+- content: IEEE 1863&#8482;
+- content: structure design
 doctype: standard
 editorialgroup:
   committee:
@@ -208,7 +228,7 @@ ics:
   text: Power transmission and distribution lines
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold
