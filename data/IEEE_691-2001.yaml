@@ -38,7 +38,7 @@ contributor:
     url: http://www.ieee.org
     contact:
     - address:
-        city: New York
+        city: Piscataway
         country: USA
   role:
   - type: publisher
@@ -56,6 +56,9 @@ abstract:
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -64,14 +67,25 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2001'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE691
+    docid:
+    - id: IEEE 691
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 691
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
-- content: IEEE Standards
-- content: Standards
-- content: Periodic structures
-- content: Power transmission lines
-- content: Patents
-- content: Poles and towers
-- content: Loading
 - content: anchor
 - content: foundation
 - content: guyed structure
@@ -90,7 +104,7 @@ ics:
   text: Power transmission and distribution lines
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
-  standard_modified: Reserved
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

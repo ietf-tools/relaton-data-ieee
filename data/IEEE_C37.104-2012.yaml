@@ -24,10 +24,12 @@ docid:
   type: DOI
 docnumber: IEEE C37.104-2012
 date:
+- type: updated
+  value: '2012-08-10'
 - type: created
   value: '2012'
 - type: published
-  value: '2012-07-05'
+  value: '2012-07-04'
 - type: issued
   value: '2012-06-08'
 contributor:
@@ -37,13 +39,9 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-    contact:
-    - address:
-        city: New York
-        country: USA
   role:
   - type: publisher
-revdate: '2012-07-05'
+revdate: '2012-07-04'
 language:
 - en
 script:
@@ -57,6 +55,9 @@ abstract:
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -66,6 +67,176 @@ copyright:
     url: http://www.ieee.org
   from: '2012'
 relation:
+- type: updates
+  bibitem:
+    id: IEEEC37.104-2002
+    docid:
+    - id: IEEE C37.104-2002
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.104-2002
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC37.104-2002
+    docid:
+    - id: IEEE C37.104-2002
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.104-2002
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC37.104-2002
+    docid:
+    - id: IEEE C37.104-2002
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.104-2002
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC37.104-2002
+    docid:
+    - id: IEEE C37.104-2002
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.104-2002
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC37.104-2002
+    docid:
+    - id: IEEE C37.104-2002
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.104-2002
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC37.104-2002
+    docid:
+    - id: IEEE C37.104-2002
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.104-2002
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC37.104-2002
+    docid:
+    - id: IEEE C37.104-2002
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.104-2002
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC37.104-2002
+    docid:
+    - id: IEEE C37.104-2002
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.104-2002
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC37.104-2002
+    docid:
+    - id: IEEE C37.104-2002
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.104-2002
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC37.104-2002
+    docid:
+    - id: IEEE C37.104-2002
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.104-2002
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEEC37.104-2002
@@ -337,12 +508,13 @@ keyword:
 doctype: standard
 editorialgroup:
   committee:
-  - Power System Relaying and Control of the IEEE Power and Energy Society
+  - Power System Relaying of the IEEE Power &amp; Energy Society
 ics:
 - code: 29.120.40
   text: Switches
 ext:
   schema-version: v1.0.0
-  standard_status: Superseded
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

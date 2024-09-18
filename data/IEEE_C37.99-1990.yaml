@@ -70,6 +70,16 @@ copyright:
     url: http://www.ieee.org
   from: '1991'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEEC37.99-2000
+    docid:
+    - id: IEEE C37.99-2000
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.99-2000
+      format: text/plain
 - type: updates
   bibitem:
     id: ANSI-IEEEC37.99-1980
@@ -87,16 +97,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEEC37.99-2000
-    docid:
-    - id: IEEE C37.99-2000
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.99-2000
-      format: text/plain
 keyword:
 - content: Power capacitors
 - content: Power system protection

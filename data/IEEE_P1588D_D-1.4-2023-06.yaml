@@ -48,10 +48,10 @@ language:
 script:
 - Latn
 abstract:
-- content: Updates to IEEE Std 1588&#8482;-2019 are provided in this amendment. This
-    amendment also adds guidelines on the application and operation of GDOI (Group
-    Domain of Interpretation) key management to Annex P. and it corrects errors and
-    clarifies statements in 16.4 and Annex P.
+- content: 'This draft standard is an amendment of IEEE Std 1588TM-2019. This amendment:
+    a) Adds guidelines on the application and operation of GDOI key management to
+    Annex P. Additional key management approaches might be covered in future amendments.
+    b) Fixes errors and clarifies statements in Annex P and Subclause 16.14.'
   language:
   - en
   script:
@@ -94,10 +94,9 @@ keyword:
 - content: Trademarks
 - content: Patents
 - content: Organizations
+- content: Key management
 - content: GDOI
 - content: Group Domain of Interpretation
-- content: IEEE 1588d&#8482;
-- content: Key management
 doctype: standard
 editorialgroup:
   committee:
@@ -107,7 +106,7 @@ ics:
   text: Other time-measuring instruments
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

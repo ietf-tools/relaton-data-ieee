@@ -56,6 +56,9 @@ abstract:
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -64,6 +67,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2004'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1193-1994
+    docid:
+    - id: IEEE 1193-1994
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1193-1994
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Time-frequency analysis
@@ -87,7 +108,7 @@ ics:
   text: Generators
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
-  standard_modified: Reserved
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

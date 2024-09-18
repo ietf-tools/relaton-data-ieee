@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: ISO-IEC-IEEEP24748.1
 title:
-- content: 'ISO/IEC/IEEE Draft International Standard - Systems and software engineering
-    - Life cycle management - Part 1: Guidelines for life cycle management'
+- content: 'ISO/IEC/IEEE Approved Draft International Standard - Systems and software
+    engineering - Life cycle management - Part 1: Guidelines for life cycle management'
   format: text/plain
   type: main
 link:
@@ -23,11 +23,11 @@ docid:
 docnumber: ISO/IEC/IEEE P24748.1
 date:
 - type: created
-  value: '2023-11-22'
+  value: '2024-02-28'
 - type: published
-  value: '2023-11-24'
+  value: '2023-11-23'
 - type: issued
-  value: '2023'
+  value: '2024-02-15'
 contributor:
 - organization:
     name:
@@ -41,7 +41,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-11-24'
+revdate: '2023-11-23'
 language:
 - en
 script:
@@ -79,14 +79,47 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: ISO-IEC-IEEE24748.1-2018
+    docid:
+    - id: ISO/IEC/IEEE 24748.1-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ISO/IEC/IEEE 24748.1-2018
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: ISO-IEC-IEEE24748.1-2018
+    docid:
+    - id: ISO/IEC/IEEE 24748.1-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ISO/IEC/IEEE 24748.1-2018
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
-- content: ISO Standards
+- content: IEEE Standards
 - content: IEC Standards
-- content: ISO
-- content: IEC
-- content: Patents
-- content: Organizations
-- content: Documentation
+- content: ISO Standards
+- content: Software engineering
+- content: Product lifecycle management
+- content: Systems engineering and theory
 doctype: standard
 editorialgroup:
   committee:

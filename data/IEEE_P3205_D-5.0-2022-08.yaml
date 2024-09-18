@@ -49,8 +49,12 @@ script:
 abstract:
 - content: Blockchain interoperability is the ability of two or more blockchain systems
     or applications to exchange information and to mutually use the information that
-    has been exchanged. The interfaces and protocols play a very important role in
-    realizing interoperability. Therefore, the standard of cross-chain interoperability
+    has been exchanged. There are diverse cross-chain use cases and differentiated
+    cross-platform bridging solutions that are difficult to reuse. There are many
+    disadvantages in existing solutions, such as applicability, security, scalability,
+    and performance. These make them difficult to apply to diverse blockchain, cross-chain
+    scenarios and future applications. The interfaces and protocols play a very important
+    role in realizing interoperability. Therefore, the standard of cross-chain interoperability
     interfaces and protocols, especially those for data authentication and communication
     among homogeneous and heterogeneous blockchains systems is needed. Such protocols
     coordinate blockchains while supporting multiple cross-chain models and levels
@@ -91,7 +95,7 @@ editorialgroup:
   - Blockchain and Distributed Ledgers of the IEEE Computer Society
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

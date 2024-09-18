@@ -6,9 +6,14 @@ title:
     Personal Health Device Communication--Device Specialization--Basic Electrocardiography
     (ECG) (1‐ to 3‐lead ECG)'
   format: text/plain
+  type: title-main
+- content: 'IEEE Standard for Health Informatics--Device Interoperability Part 10406:
+    Personal Health Device Communication--Device Specialization--Basic Electrocardiography
+    (ECG) (1‐ to 3‐lead ECG) - Redline'
+  format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/10287901
+- content: https://ieeexplore.ieee.org/document/10506830
   type: src
 type: standard
 docid:
@@ -19,16 +24,14 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 979-8-8557-0178-4
+- id: 979-8-8557-0741-0
   type: ISBN
-- id: 10.1109/IEEESTD.2023.10287901
-  type: DOI
 docnumber: IEEE 11073
 date:
 - type: created
   value: '2023-10-19'
 - type: published
-  value: '2023-10-20'
+  value: '2024-04-22'
 - type: issued
   value: '2023-02-15'
 contributor:
@@ -44,7 +47,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-10-20'
+revdate: '2024-04-22'
 language:
 - en
 script:
@@ -71,9 +74,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -168,103 +168,22 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE11073.10406-2011
-    docid:
-    - id: IEEE 11073.10406-2011
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 11073.10406-2011
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE11073.10406-2011
-    docid:
-    - id: IEEE 11073.10406-2011
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 11073.10406-2011
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE11073.10406-2011
-    docid:
-    - id: IEEE 11073.10406-2011
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 11073.10406-2011
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE11073.10406-2011
-    docid:
-    - id: IEEE 11073.10406-2011
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 11073.10406-2011
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE11073.10406-2011
-    docid:
-    - id: IEEE 11073.10406-2011
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 11073.10406-2011
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
-- content: Bioinformatics
-- content: Medical devices
 - content: Electrocardiography
+- content: Biomedical monitoring
+- content: Medical devices
+- content: Interoperability
+- content: Communications technology
+- content: Heart rate measurement
+- content: Bioinformatics
 - content: 1- to 3-lead ECG
 - content: basic electrocardiograph
 - content: ECG
 - content: IEEE 11073-10406&#8482;
 - content: medical device communication
 - content: personal health devices
-doctype: standard
+doctype: redline
 editorialgroup:
   committee:
   - IEEE 11073 Standards Committee of the IEEE Engineering in Medicine and Biology
@@ -272,11 +191,9 @@ editorialgroup:
 ics:
 - code: 35.240.80
   text: IT applications in health care technology
-- code: 11.040.55
-  text: Diagnostic equipment
 ext:
   schema-version: v1.0.0
   standard_status: Active
-  standard_modified: Approved
+  standard_modified: Redline
   pubstatus: Active
   holdstatus: Publish

@@ -24,10 +24,12 @@ docid:
   type: DOI
 docnumber: IEEE 1692-2011
 date:
+- type: updated
+  value: '2011-11-07'
 - type: created
   value: '2011-08-15'
 - type: published
-  value: '2011-08-17'
+  value: '2013-10-23'
 - type: issued
   value: '2011-06-16'
 contributor:
@@ -37,13 +39,9 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-    contact:
-    - address:
-        city: New York
-        country: USA
   role:
   - type: publisher
-revdate: '2011-08-17'
+revdate: '2013-10-23'
 language:
 - en
 script:
@@ -57,6 +55,9 @@ abstract:
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -81,7 +82,7 @@ keyword:
 doctype: standard
 editorialgroup:
   committee:
-  - IEEE Power and Energy Society
+  - Power System Communications of the IEEE Power &amp; Energy Society
 ics:
 - code: 29.120.50
   text: Fuses and other overcurrent protection devices
@@ -89,7 +90,7 @@ ics:
   text: Lightning protection
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
-  standard_modified: Reserved
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

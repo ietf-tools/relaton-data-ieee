@@ -45,22 +45,6 @@ language:
 - en
 script:
 - Latn
-abstract:
-- content: This document comprises recommended practices for the measurement of antenna
-    transmitting and receiving properties. Throughout this standard it is assumed
-    that the antenna to be measured can be treated as a passive, linear, and reciprocal
-    device. A fundamental property of any antenna is its radiation pattern. The measurement
-    of radiation patterns in an antenna test facility is discussed. The design of
-    antenna test facilities is described along with instrumentation requirements for
-    the proper operation of the antenna facility, directions for the evaluation of
-    an (existing) range, and the operation of ranges is discussed. References are
-    provided which are illustrative of measurement techniques and in which details
-    may be found.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -73,6 +57,23 @@ copyright:
     url: http://www.ieee.org
   from: '2021'
 relation:
+- type: updates
+  bibitem:
+    id: ANSI-IEEE149-1979
+    docid:
+    - id: ANSI/IEEE 149-1979
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI/IEEE 149-1979
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: ANSI-IEEE149-1979
@@ -213,7 +214,7 @@ ics:
   text: Aerials
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

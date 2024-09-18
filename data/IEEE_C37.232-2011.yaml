@@ -23,10 +23,12 @@ docid:
   type: DOI
 docnumber: IEEE C37.232-2011
 date:
+- type: updated
+  value: '2011-12-20'
 - type: created
   value: '2011-11-09'
 - type: published
-  value: '2011-11-15'
+  value: '2013-10-24'
 - type: issued
   value: '2011-10-31'
 contributor:
@@ -36,13 +38,9 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-    contact:
-    - address:
-        city: New York
-        country: USA
   role:
   - type: publisher
-revdate: '2011-11-15'
+revdate: '2013-10-24'
 language:
 - en
 script:
@@ -61,6 +59,9 @@ abstract:
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -113,13 +114,13 @@ keyword:
 doctype: standard
 editorialgroup:
   committee:
-  - Power System Relaying and Control of the IEEE Power and Energy Society
+  - Power System Relaying of the IEEE Power &amp; Energy Society
 ics:
-- code: '35.040'
-  text: Information coding
+- code: '29.180'
+  text: Character sets and information coding
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
-  standard_modified: Reserved
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

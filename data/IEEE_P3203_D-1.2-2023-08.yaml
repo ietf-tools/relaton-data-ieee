@@ -45,6 +45,16 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: A set of protocols are defined in this standard that enable blockchain
+    networks to locate each other’s trusted nodes through standardized names. The
+    set of protocols define a naming scheme, an interface for name registration, and
+    the data format that request and response messages use to resolve names.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -61,16 +71,17 @@ keyword:
 - content: Blockchains
 - content: Interoperability
 - content: Protocols
-- content: Blockchain
-- content: Interoperability
-- content: Protocol
+- content: blockchain
+- content: IEEE 3203&#8482;
+- content: interoperability
+- content: protocol
 doctype: standard
 editorialgroup:
   committee:
   - Blockchain and Distributed Ledgers of the IEEE Computer Society
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

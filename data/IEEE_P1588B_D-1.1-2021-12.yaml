@@ -48,10 +48,10 @@ language:
 script:
 - Latn
 abstract:
-- content: 'This draft standard is an amendment of IEEE Std 1588&#8482;-2019. This
-    amendment: a) Adds a normative annex that specifies the mapping of PTP to OTN,
-    b) Adds an enumeration value to the network Protocol table (Table 3, in 7.4.1),
-    c) Corrects errors in the text and clarifies unclear passages.'
+- content: This amendment to IEEE Std 1588-2019 adds a normative annex that specifies
+    the mapping of PTP to the OTN; and adds an enumeration value to the network Protocol
+    table (Table 3, in 7.4.1; and corrects errors in the text and clarifies unclear
+    passages.
   language:
   - en
   script:
@@ -86,6 +86,23 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1588-2019
+    docid:
+    - id: IEEE 1588-2019
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1588-2019
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Synchronization
@@ -93,9 +110,10 @@ keyword:
 - content: Optical fiber communication
 - content: Protocols
 - content: Precision engineering
-- content: PTP
-- content: OTN
-- content: Synchronization
+- content: IEEE 1588b
+- content: Optical Transport Network (OTN)
+- content: Precision Time Protocol (PTP)
+- content: synchronization
 doctype: standard
 editorialgroup:
   committee:
@@ -105,7 +123,7 @@ ics:
   text: Other time-measuring instruments
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

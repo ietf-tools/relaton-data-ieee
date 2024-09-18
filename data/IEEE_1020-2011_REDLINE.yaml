@@ -41,7 +41,7 @@ contributor:
     url: http://www.ieee.org
     contact:
     - address:
-        city: New York
+        city: Piscataway
         country: USA
   role:
   - type: publisher
@@ -66,6 +66,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2012'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1020-1988
+    docid:
+    - id: IEEE 1020-1988
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1020-1988
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Power distribution
@@ -81,13 +99,13 @@ keyword:
 doctype: redline
 editorialgroup:
   committee:
-  - Energy Development &amp; Power Generation of the IEEE Power and Energy Society
+  - Energy Development &amp; Power Generation of the IEEE Power &amp; Energy Society
 ics:
 - code: '27.140'
   text: Hydraulic energy engineering
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Redline
   pubstatus: Active
   holdstatus: Publish

@@ -26,8 +26,6 @@ docnumber: IEEE 1410-2010
 date:
 - type: created
   value: '2011-01-21'
-- type: published
-  value: '2022-01-06'
 - type: issued
   value: '2010-09-30'
 contributor:
@@ -39,11 +37,10 @@ contributor:
     url: http://www.ieee.org
     contact:
     - address:
-        city: New York
+        city: Piscataway
         country: USA
   role:
   - type: publisher
-revdate: '2022-01-06'
 language:
 - en
 script:
@@ -57,6 +54,9 @@ abstract:
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -84,13 +84,13 @@ keyword:
 doctype: standard
 editorialgroup:
   committee:
-  - Transmission and Distribution of the IEEE Power and Energy Society
+  - Transmission and Distribution of the IEEE Power &amp; Energy Society
 ics:
 - code: 29.240.20
   text: Power transmission and distribution lines
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
-  standard_modified: Reserved
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

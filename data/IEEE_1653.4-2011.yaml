@@ -24,10 +24,12 @@ docid:
   type: DOI
 docnumber: IEEE 1653.4-2011
 date:
+- type: updated
+  value: '2012-01-16'
 - type: created
   value: '2011-12-16'
 - type: published
-  value: '2011-12-13'
+  value: '2013-02-05'
 - type: issued
   value: '2011-10-31'
 contributor:
@@ -37,13 +39,9 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-    contact:
-    - address:
-        city: New York
-        country: USA
   role:
   - type: publisher
-revdate: '2011-12-13'
+revdate: '2013-02-05'
 language:
 - en
 script:
@@ -56,6 +54,9 @@ abstract:
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -79,13 +80,13 @@ keyword:
 doctype: standard
 editorialgroup:
   committee:
-  - Traction Power Systems Standards Committee of the IEEE Vehicular Technology Society
+  - Rail Transportation Standards Committee of the IEEE Vehicular Technology Society
 ics:
 - code: 45.060.10
   text: TrActive stock
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
-  standard_modified: Reserved
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

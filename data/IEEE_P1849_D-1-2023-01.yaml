@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: IEEEP1849-D-1-2023-01
 title:
-- content: IEEE Draft Standard for eXtensible Event Stream (XES) for Achieving Interoperability
-    in Event Logs and Event Streams
+- content: IEEE Approved Draft Standard for eXtensible Event Stream (XES) for Achieving
+    Interoperability in Event Logs and Event Streams
   format: text/plain
   type: main
 link:
@@ -23,11 +23,11 @@ docid:
 docnumber: IEEE P1849/D-1-2023-01
 date:
 - type: created
-  value: '2023-01-23'
-- type: published
-  value: '2023-01-25'
-- type: issued
   value: '2023'
+- type: published
+  value: '2023-01-24'
+- type: issued
+  value: '2023-06-05'
 contributor:
 - organization:
     name:
@@ -41,7 +41,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-01-25'
+revdate: '2023-01-24'
 language:
 - en
 script:
@@ -72,6 +72,40 @@ copyright:
     url: http://www.ieee.org
   from: '2023'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE1849-2016
+    docid:
+    - id: IEEE 1849-2016
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1849-2016
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1849-2016
+    docid:
+    - id: IEEE 1849-2016
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1849-2016
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE1849-2016

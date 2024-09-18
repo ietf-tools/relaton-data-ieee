@@ -7,7 +7,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/621111
+- content: https://ieeexplore.ieee.org/document/8684661
   type: src
 type: standard
 docid:
@@ -20,12 +20,14 @@ docid:
   primary: true
 - id: 978-0-7381-0694-6
   type: ISBN
-- id: 10.1109/IEEESTD.1997.83812
+- id: 10.1109/IEEESTD.1996.8684661
   type: DOI
 docnumber: IEEE 485-1997
 date:
 - type: created
-  value: '1997'
+  value: '1996-11-30'
+- type: published
+  value: '2019-04-05'
 - type: issued
   value: '1997-03-20'
 contributor:
@@ -41,18 +43,19 @@ contributor:
         country: USA
   role:
   - type: publisher
+revdate: '2019-04-05'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Methods for defining the DC load and for sizing a lead-acid battery to
+- content: Methods for defining the dc load and for sizing a lead-acid battery to
     supply that load for stationary battery applications in full float operations
     are described. Some factors relating to cell selection are provided for consideration.
-    Installation, maintenance, qualification, testing procedures and consideration
+    Installation, maintenance, qualification, testing procedures, and consideration
     of battery types other than lead-acid are beyond the scope of this recommended
-    practice. Design of the DC system and sizing of the battery charger(s) are also
-    beyond the scope of this recommended practice.
+    practice. Design of the dc system and sizing of the battery charger(s) are also
+    beyond the scope of this recommended practice. http://standards.ieee.org/reading/ieee/interp/485-1997.html
   language:
   - en
   script:
@@ -67,7 +70,16 @@ copyright:
     url: http://www.ieee.org
   from: '1997'
 keyword:
-- content: Lead
+- content: battery duty cycle
+- content: cell selection
+- content: dc load
+- content: full float operation
+- content: lead acid batteries
+- content: rated capacity
+- content: sizing
+- content: stationary applications
+- content: valve regulated lead acid (VRLA) cell
+- content: vented battery
 doctype: standard
 editorialgroup:
   committee:

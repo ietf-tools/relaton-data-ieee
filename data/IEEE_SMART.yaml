@@ -2,11 +2,11 @@
 schema-version: v1.2.3
 id: IEEESmart
 title:
-- content: 'IEEE Smart Grid Vision for Vehicular Technology: 2030 and Beyond'
+- content: 'IEEE Smart Grid Vision for Computing: 2030 and Beyond'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/6716939
+- content: https://ieeexplore.ieee.org/document/6577594
   type: src
 type: standard
 docid:
@@ -17,18 +17,18 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-0-7381-8835-5
+- id: 978-0-7381-8382-4
   type: ISBN
-- id: 10.1109/IEEESTD.2014.6716939
+- id: 10.1109/IEEESTD.2013.6577594
   type: DOI
 docnumber: IEEE Smart
 date:
 - type: created
-  value: '2014-01-15'
+  value: '2013'
 - type: published
-  value: '2014-01-20'
+  value: '2013-08-09'
 - type: issued
-  value: '2014'
+  value: '2013'
 contributor:
 - organization:
     name:
@@ -42,22 +42,21 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2014-01-20'
+revdate: '2013-08-09'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: 'Vehicle electrification is envisioned to be a significant component of
-    the forthcoming Smart Grid. In this document, a Smart Grid vision of electric
-    vehicle technology for the next 30 years and beyond is presented from six different
-    perspectives: 1) social, economic, and political implications, 2) intelligent
-    vehicles and grid interaction, 3) infrastructure, 4) travelers, 5) communications,
-    and 6) systems, operations, and scenarios. Following the chapters focusing on
-    these distinct perspectives, conclusive remarks will overview the interconnections
-    among all chapters. Discussions of key technologies dictating the real future
-    of the evolution of vehicle electrification will also be included. For Corporate
-    or Institutional Access, request a custom quote for your organization at www.ieee.org/smartgridresearch.'
+- content: The scope of this document is focused on computing technologies and the
+    role they will play in the future electric grid. The computing technologies identified
+    by the Computer Society Smart Grid Vision Project (CS-SGVP) team span many computing
+    disciplines and do not necessarily represent all technologies that will shape
+    the Smart Grid. Various projections of how Smart Grid concepts will influence
+    power systems were considered. These projections span bulk transmission systems
+    to isolated islands of local generation, as well as different demand side participation
+    concepts. For Corporate or Institutional Access, request a custom quote for your
+    organization at www.ieee.org/smartgridresearch
   language:
   - en
   script:
@@ -70,37 +69,50 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-  from: '2014'
+  from: '2013'
 keyword:
-- content: electric vehicles
-- content: IEEE standards
-- content: smart power grids
-- content: IEEE smart grid vision
-- content: vehicular technology
-- content: vehicle electrification
-- content: electric vehicle technology
-- content: social implications
-- content: economic implications
-- content: political implications
-- content: intelligent vehicles
-- content: grid interaction
-- content: infrastructure
-- content: travelers
-- content: communications
-- content: www.ieee.org/smartgridresearch
-- content: IEEE standards
-- content: Electric vehicles
-- content: Intelligent transportation systems
-- content: Charging stations
-- content: Wireless communication
-- content: electric vehicle technology
-- content: transportation electrification
-- content: intelligent transportation system
-- content: intelligent vehicle charging
-- content: electrified vehicles
-- content: charging infrastructures
-- content: future mature transportation market
-- content: wireless charging
+- content: Power grids
+- content: Smart grids
+- content: Computer security
+- content: Power system reliability
+- content: Electricity supply industry
+- content: Power distribution
+- content: Network security
+- content: Technology forecasting
+- content: Forecasting
+- content: Smart grid
+- content: Grid
+- content: IEEE Computer Society
+- content: electrical grid
+- content: grid modernization
+- content: generation
+- content: transmission
+- content: distribution
+- content: load
+- content: consumer
+- content: operations
+- content: controls
+- content: cyber security
+- content: distributed resources
+- content: electric power system
+- content: grid architecture
+- content: grid operations
+- content: Computational intelligence
+- content: Cyber security and resilience
+- content: Data analytics (and databases)
+- content: Distributed multi-agent architecture
+- content: High-performance computing
+- content: Messaging-oriented middleware
+- content: Modeling and simulation
+- content: Self-integrating systems
+- content: Software verification and validation
+- content: Virtual computing
+- content: Visualization
+- content: Artificial Intelligence
+- content: fast mathematics
+- content: high-performance computing
+- content: Internet and real-time systems
+- content: Information security technology
 doctype: standard
 ics:
 - code: 29.240.01
@@ -109,8 +121,8 @@ ics:
   text: Data communication networks
 - code: '33.200'
   text: Telecontrol. Telemetering
-- code: 43.040.15
-  text: Car informatics. On-board computer systems
+- code: '35.020'
+  text: Information technology in general
 ext:
   schema-version: v1.0.0
   standard_status: Active

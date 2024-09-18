@@ -24,6 +24,8 @@ docid:
   type: DOI
 docnumber: IEEE C37.301-2009
 date:
+- type: updated
+  value: '2009-04-27'
 - type: created
   value: '2009'
 - type: published
@@ -37,10 +39,6 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-    contact:
-    - address:
-        city: New York
-        country: USA
   role:
   - type: publisher
 revdate: '2020-03-23'
@@ -58,6 +56,9 @@ abstract:
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -67,13 +68,6 @@ copyright:
     url: http://www.ieee.org
   from: '2009'
 keyword:
-- content: IEEE Standards
-- content: Standards
-- content: Switchgear
-- content: Power measurement
-- content: Energy measurement
-- content: Warranties
-- content: Trademarks
 - content: C37.301-2009
 - content: 60270:2000
 - content: adoption
@@ -92,7 +86,7 @@ ics:
   text: High voltage switchgear and controlgear
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
-  standard_modified: Reserved
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

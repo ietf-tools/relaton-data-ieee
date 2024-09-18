@@ -66,16 +66,6 @@ copyright:
     url: http://www.ieee.org
   from: '2011'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE515-2017
-    docid:
-    - id: IEEE 515-2017
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 515-2017
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEE515-2004
@@ -93,6 +83,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE515-2017
+    docid:
+    - id: IEEE 515-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 515-2017
+      format: text/plain
 keyword:
 - content: IEEE standards
 - content: Testing

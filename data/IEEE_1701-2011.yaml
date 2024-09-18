@@ -24,10 +24,10 @@ docid:
   type: DOI
 docnumber: IEEE 1701-2011
 date:
+- type: updated
+  value: '2011-03-04'
 - type: created
   value: '2011-02-15'
-- type: published
-  value: '2011-02-17'
 - type: issued
   value: '2011-02-02'
 contributor:
@@ -37,13 +37,8 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-    contact:
-    - address:
-        city: New York
-        country: USA
   role:
   - type: publisher
-revdate: '2011-02-17'
 language:
 - en
 script:
@@ -60,6 +55,9 @@ abstract:
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -81,7 +79,7 @@ keyword:
 doctype: standard
 editorialgroup:
   committee:
-  - IEEE-SASB Coordinating Committees
+  - SCC31 - Automatic Meter Reading and Energy Management
 ics:
 - code: '35.040'
   text: Character sets and information coding
@@ -89,7 +87,7 @@ ics:
   text: IT applications in other fields
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
-  standard_modified: Reserved
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

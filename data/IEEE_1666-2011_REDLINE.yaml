@@ -39,7 +39,7 @@ contributor:
     url: http://www.ieee.org
     contact:
     - address:
-        city: New York
+        city: Piscataway
         country: USA
   role:
   - type: publisher
@@ -56,7 +56,8 @@ abstract:
     library so that a SystemC implementation can be developed with reference to this
     standard alone. The primary audiences for this standard are the implementors of
     the SystemC class library, the implementors of tools supporting the class library,
-    and the users of the class library.
+    and the users of the class library. This PDF of this standard is available at
+    no charge in PDF format, thanks to the Open System C Initiative. http://www.systemc.org/home/.
   language:
   - en
   script:
@@ -70,6 +71,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2012'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1666-2005
+    docid:
+    - id: IEEE 1666-2005
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1666-2005
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Computer languages
@@ -106,7 +125,7 @@ ics:
   text: Software
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Redline
   pubstatus: Active
   holdstatus: Publish

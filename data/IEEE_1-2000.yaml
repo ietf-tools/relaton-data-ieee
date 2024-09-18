@@ -27,7 +27,7 @@ date:
 - type: created
   value: '2001'
 - type: published
-  value: '2002-08-07'
+  value: '2013-01-21'
 - type: issued
   value: '2000-12-07'
 contributor:
@@ -43,21 +43,24 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2002-08-07'
+revdate: '2013-01-21'
 language:
 - en
 script:
 - Latn
 abstract:
 - content: This recommended practice is intended to serve in the preparation of standards
-    that are principally concerned with the thermal endurance of EIM and simple combinations
-    of such materials, with the establishment of limiting temperatures of EIS, and
-    with the provision of general principles for thermal classification of EIS.
+    that areprincipally concerned with the thermal endurance of EIM and simple combinations
+    of suchmaterials, with the establishment of limiting temperatures of EIS, and
+    with the provision of generalprinciples for thermal classification of EIS.
   language:
   - en
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -66,6 +69,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2001'
+relation:
+- type: updates
+  bibitem:
+    id: ANSI-IEEE1-1986
+    docid:
+    - id: ANSI/IEEE 1-1986
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ANSI/IEEE 1-1986
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE standards
 - content: aging factors
@@ -96,7 +117,7 @@ ics:
   text: Insulating materials in general
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
-  standard_modified: Reserved
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

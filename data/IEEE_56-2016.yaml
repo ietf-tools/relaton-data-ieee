@@ -23,6 +23,8 @@ docid:
   type: DOI
 docnumber: IEEE 56-2016
 date:
+- type: updated
+  value: '2016-12-01'
 - type: created
   value: '2016-11-11'
 - type: published
@@ -36,10 +38,6 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-    contact:
-    - address:
-        city: New York
-        country: USA
   role:
   - type: publisher
 revdate: '2016-11-10'
@@ -94,7 +92,7 @@ keyword:
 - content: flux
 - content: Global VPI
 - content: groundwall
-- content: IEEE 56&#8482;
+- content: IEEE 56(TM)
 - content: insulation
 - content: Ionization
 - content: ionizing radiation
@@ -120,9 +118,6 @@ doctype: standard
 editorialgroup:
   committee:
   - Electric Machinery of the IEEE Power and Energy Society
-ics:
-- code: 01.040.11
-  text: Health care technology (Vocabularies)
 ext:
   schema-version: v1.0.0
   standard_status: Active

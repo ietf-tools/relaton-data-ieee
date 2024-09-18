@@ -7,7 +7,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8400611
+- content: https://ieeexplore.ieee.org/document/4512343
   type: src
 type: standard
 docid:
@@ -20,14 +20,16 @@ docid:
   primary: true
 - id: 978-0-7381-5348-3
   type: ISBN
-- id: 10.1109/IEEESTD.2008.8400611
+- id: 10.1109/IEEESTD.2007.4512343
   type: DOI
 docnumber: IEEE 592-2007
 date:
+- type: updated
+  value: '2008-09-12'
 - type: created
   value: '2008-05-08'
 - type: published
-  value: '2018-06-29'
+  value: '2013-08-15'
 - type: issued
   value: '2007-12-05'
 contributor:
@@ -39,16 +41,16 @@ contributor:
     url: http://www.ieee.org
   role:
   - type: publisher
-revdate: '2018-06-29'
+revdate: '2013-08-15'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Revision of IEEE Std 592-1990. Design test for shield resistance and a
-    simulated fault-current initiation for exposed semiconducting shields used on
-    cable accessories, specifically joints and separable insulated connectors rated
-    15 kV through 35 kV is provided in this standard.
+- content: Design test for shield resistance and a simulated fault-current initiation
+    for exposed semiconducting shields used on cable accessories, specifically joints
+    and separable insulated connectors rated 15 kV through 35 kV are provided in this
+    standard.
   language:
   - en
   script:
@@ -107,24 +109,14 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEE592-2018
-    docid:
-    - id: IEEE 592-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 592-2018
-      format: text/plain
 keyword:
-- content: IEEE Standards
-- content: Semiconductor devices
-- content: Fault diagnosis
+- content: IEEE standards
+- content: Standards
+- content: Standards Board
+- content: Connectors
 - content: Cable shielding
-- content: Current distribution
-- content: Voltage control
-- content: High-voltage techniques
+- content: Cable insulation
+- content: Committees
 - content: 592-2007
 - content: fault-current initiation
 - content: shield resistance

@@ -24,6 +24,8 @@ docid:
   type: DOI
 docnumber: IEEE C37.13.1-2016
 date:
+- type: updated
+  value: '2017-03-04'
 - type: created
   value: '2017-02-15'
 - type: published
@@ -37,10 +39,6 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-    contact:
-    - address:
-        city: New York
-        country: USA
   role:
   - type: publisher
 revdate: '2017-02-15'
@@ -77,40 +75,6 @@ copyright:
     url: http://www.ieee.org
   from: '2016'
 relation:
-- type: updates
-  bibitem:
-    id: IEEEC37.13.1-2006
-    docid:
-    - id: IEEE C37.13.1-2006
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.13.1-2006
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC37.13.1-2006
-    docid:
-    - id: IEEE C37.13.1-2006
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.13.1-2006
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: updates
   bibitem:
     id: IEEEC37.13.1-2006

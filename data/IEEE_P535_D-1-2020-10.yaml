@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2020-10-19'
 - type: issued
-  value: '2020'
+  value: '2022-12-03'
 contributor:
 - organization:
     name:
@@ -49,12 +49,12 @@ script:
 abstract:
 - content: 'Qualification methods for Class 1E vented lead acid batteries and racks
     to be used in nuclear power generating stations outside primary containment are
-    described in this standard. Qualifications required by IEEE Std 308&#8482; can
-    be demonstrated by using the procedures in this standard in accordance with IEEE
-    Std 323&#8482;. The application of batteries in nuclear power generating stations
-    can be divided into two sections: duty cycles equal to or less than 8 h and duty
-    cycles greater than 8 h. A process to demonstrate qualifications for both applications
-    is provided in this standard.'
+    described in this standard. Qualifications required by IEEE Std 308 can be demonstrated
+    by using the procedures in this standard in accordance with IEEE Std 323. The
+    application of batteries in nuclear power generating stations can be divided into
+    two sections: duty cycles equal to or less than 8 h and duty cycles greater than
+    8 h. A process to demonstrate qualifications for both applications is provided
+    in this standard'
   language:
   - en
   script:
@@ -123,6 +123,40 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE535-2013
+    docid:
+    - id: IEEE 535-2013
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 535-2013
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE535-2013
+    docid:
+    - id: IEEE 535-2013
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 535-2013
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Lead acid batteries
@@ -138,8 +172,8 @@ keyword:
 - content: electrolyte level
 - content: equalize charge
 - content: float voltage
-- content: IEEE 450&#8482;
-- content: IEEE 535&#8482;
+- content: IEEE 450
+- content: IEEE 535
 - content: performance test
 - content: specific gravity
 - content: test-discharge rate

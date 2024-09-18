@@ -49,9 +49,10 @@ language:
 script:
 - Latn
 abstract:
-- content: This amendment to IEEE Std 802.3-2022 adds physical layer specifications
+- content: 'This amendment to IEEE Std 802.3-2022 adds physical layer specifications
     and management parameters for 25 Gb/s operation on a single balanced pair of conductors
-    suitable for automotive applications.
+    suitable for automotive applications. NOTE: The PDF of this standard is available
+    at no cost to you compliments of the IEEE GET program, https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=68.'
   language:
   - en
   script:
@@ -69,6 +70,23 @@ copyright:
     url: http://www.ieee.org
   from: '2023'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE802.3-2022
+    docid:
+    - id: IEEE 802.3-2022
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3-2022
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE802.3-2022

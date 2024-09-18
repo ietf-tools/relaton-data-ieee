@@ -71,6 +71,16 @@ copyright:
     url: http://www.ieee.org
   from: '1991'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE299-1997
+    docid:
+    - id: IEEE 299-1997
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 299-1997
+      format: text/plain
 - type: updates
   bibitem:
     id: IEEE299-1969
@@ -88,16 +98,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEE299-1997
-    docid:
-    - id: IEEE 299-1997
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 299-1997
-      format: text/plain
 keyword:
 - content: Electric field measurement
 - content: Magnetic field measurement

@@ -7,7 +7,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/4475826
+- content: https://ieeexplore.ieee.org/document/6042287
   type: src
 type: standard
 docid:
@@ -20,14 +20,14 @@ docid:
   primary: true
 - id: 978-0-7381-5664-4
   type: ISBN
-- id: 10.1109/IEEESTD.2008.4475826
-  type: DOI
 docnumber: IEEE 12207-2008
 date:
+- type: updated
+  value: '2011-11-07'
 - type: created
   value: '2008-01-31'
 - type: published
-  value: '2017-11-23'
+  value: '2013-08-15'
 - type: issued
   value: '2008-01-31'
 contributor:
@@ -37,42 +37,34 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-    contact:
-    - address:
-        city: New York
-        country: USA
   role:
   - type: publisher
-revdate: '2017-11-23'
+revdate: '2013-08-15'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Supersedes Std. 12207.0 and also makes 12207.2 obsolete. This International
-    Standard was jointly developed by ISO/IEC and IEEE. This International Standard
-    establishes a common framework for software life cycle processes, with well-defined
-    terminology, that can be referenced by the software industry. It applies to the
-    acquisition of systems and software products and services, to the supply, development,
-    operation, maintenance, and disposal of software products and the software portion
-    of a system, whether performed internally or externally to an organization. Those
-    aspects of system definition needed to provide the context for software products
-    and services are included. Software includes the software portion of firmware.
-    This revision integrates ISO/IEC 12207:1995 with its two amendments and was coordinated
-    with the parallel revision of ISO/IEC 15288:2002 (System life cycle processes)
-    to align structure, terms, and corresponding organizational and project processes.
-    This standard may be used stand alone or jointly with ISO/IEC 15288, and supplies
-    a process reference model that supports process capability assessment in accordance
-    with ISO/IEC 15504-2 (Process assessment). An annex provides support for IEEE
-    users and describes relationships of this International Standard to IEEE standards.
+- content: This International Standard establishes a common framework for software
+    life cycle processes, with well-defined terminology, that can be referenced by
+    the software industry. It applies to the acquisition of systems and software products
+    and services, to the supply, development, operation, maintenance, and disposal
+    of software products and the software portion of a system, whether performed internally
+    or externally to an organization. Those aspects of system definition needed to
+    provide the context for software products and services are included. Software
+    includes the software portion of firmware. This revision integrates ISO/IEC 12207:1995
+    with its two amendments and was coordinated with the parallel revision of ISO/I
+    EC 15288:2002 (System life cycle processes) to align structure, terms, and corresponding
+    organizational and project processes. This standard may be used stand alone or
+    jointly with ISO/IEC 15288, and supplies a process reference model that supports
+    process capability assessment in accordance with ISO/IEC 15504-2 (Process assessment).
+    An annex provides support for IEEE users and describes relationships of this International
+    Standard to IEEE standards.
   language:
   - en
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: superseded
 copyright:
 - owner:
   - name:
@@ -80,28 +72,12 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+  - name:
+    - content: ISO
+  - name:
+    - content: IEC
   from: '2008'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE12207-2008
-    docid:
-    - id: IEEE 12207-2008
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 12207-2008
-      format: text/plain
-- type: obsoletedBy
-  bibitem:
-    id: IEEE12207-2008
-    docid:
-    - id: IEEE 12207-2008
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 12207-2008
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEE-EIA12207.0-1996
@@ -119,16 +95,32 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: ISO-IEC-IEEE12207-2017
+    docid:
+    - id: ISO/IEC/IEEE 12207-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: ISO/IEC/IEEE 12207-2017
+      format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE12207-2008
+    docid:
+    - id: IEEE 12207-2008
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 12207-2008
+      format: text/plain
 keyword:
-- content: IEEE Standards
-- content: Quality assurance
-- content: Formal verification
-- content: ISO Standards
-- content: IEC Standards
-- content: Software engineering
-- content: Microprogramming
-- content: Maintenance engineering
+- content: IEEE standards
+- content: Software maintenance
 - content: Product life cycle management
+- content: Formal verification
+- content: Quality assurance
 - content: 12207-2008
 - content: acquisition
 - content: agreement
@@ -155,7 +147,6 @@ ics:
   text: Software
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Superseded
+  standard_status: Superseded
   pubstatus: Active
   holdstatus: Publish

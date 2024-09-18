@@ -54,6 +54,15 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: This paper talks about measurement procedure for the assessment of specific
+    absorption rate of human exposure to radio frequency fields from hand-held and
+    body-mounted wireless communication devices.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 copyright:
 - owner:
   - name:
@@ -65,6 +74,23 @@ copyright:
     - content: IEC
   from: '2020'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE1528-2013
+    docid:
+    - id: IEEE 1528-2013
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1528-2013
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE1528-2013

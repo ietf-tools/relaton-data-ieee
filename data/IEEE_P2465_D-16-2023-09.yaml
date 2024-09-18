@@ -2,8 +2,8 @@
 schema-version: v1.2.3
 id: IEEEP2465-D-16-2023-09
 title:
-- content: IEEE Draft Trial-Use Recommended Practice for Pulse-Type Partial Discharge
-    Measurements on Individual Stator Coils and Bars
+- content: IEEE Approved Draft Trial-Use Recommended Practice for Pulse-Type Partial
+    Discharge Measurements on Individual Stator Coils and Bars
   format: text/plain
   type: main
 link:
@@ -23,11 +23,11 @@ docid:
 docnumber: IEEE P2465/D-16-2023-09
 date:
 - type: created
-  value: '2023'
+  value: '2023-12-12'
 - type: published
   value: '2023-10-02'
 - type: issued
-  value: '2023'
+  value: '2023-12-06'
 contributor:
 - organization:
     name:
@@ -47,20 +47,16 @@ language:
 script:
 - Latn
 abstract:
-- content: During the last revision of the IEEE Std 1434 Guide for the Measurement
-    of Partial Discharges in AC Electric Machinery in 2014, it was agreed that a separate
-    document would be developed as a recommended practice for measuring pulse-type
-    partial discharges (PD) on individual stator coils and bars. The new recommended
-    practice IEEE P2465 therefore describes pulse-type partial discharge test methods
-    for individual form-wound stator coils and bars that are equipped with PD suppression
-    coatings and energized with a sinusoidal voltage source. It provides a uniform
+- content: Pulse-type partial discharge test methods for individual form-wound stator
+    coils and bars that are equipped with PD suppression coatings and energized with
+    a sinusoidal voltage source are described in this recommended practice. A uniform
     procedure for measurements in terms of apparent charge at frequencies below 1
-    MHz and for measurements in millivolts at higher frequencies, up to 300 MHz. This
-    document does not provide pass/fail criteria, but it does describe the measurement
-    circuit, the simulated slot, external factors affecting the measurements, the
-    recommended method for calibration or normalization, appropriate test voltage
-    levels, the need for and parameters of conditioning, and it provides guidelines
-    for interpretation of test results.
+    MHz and for measurements in millivolts at higher frequencies, up to 300 MHz is
+    also provided in this recommended practice. This document does not provide pass/fail
+    criteria, but it does describe the measurement circuit, the simulated slot, external
+    factors affecting the measurements, the recommended method for calibration or
+    normalization, appropriate test voltage levels, the need for and parameters of
+    conditioning, and it provides guidelines for interpretation of test results.
   language:
   - en
   script:
@@ -88,14 +84,20 @@ keyword:
 - content: form-wound bars
 - content: form-wound coils
 - content: groundwall
+- content: IEEE 2465&#8482;
 - content: partial discharge
 doctype: standard
 editorialgroup:
   committee:
   - Electric Machinery of the IEEE Power and Energy Society
+ics:
+- code: 17.220.20
+  text: Measurement of electrical and magnetic quantities
+- code: 29.080.30
+  text: Insulation systems
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

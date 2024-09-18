@@ -56,9 +56,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -85,17 +82,81 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: obsoletedBy
+- type: updates
   bibitem:
-    id: ISO-IEC-IEEE8802.3-Amd1-2021
+    id: IEEE802.3-2018
     docid:
-    - id: ISO/IEC/IEEE 8802.3/Amd1-2021
+    - id: IEEE 802.3-2018
       type: IEEE
       primary: true
     formattedref:
-      content: ISO/IEC/IEEE 8802.3/Amd1-2021
+      content: IEEE 802.3-2018
       format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.3-2018
+    docid:
+    - id: IEEE 802.3-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3-2018
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.3-2018
+    docid:
+    - id: IEEE 802.3-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3-2018
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.3-2018
+    docid:
+    - id: IEEE 802.3-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3-2018
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
+- content: IEEE Standards
+- content: Local area networks
+- content: Metropolitan area networks
+- content: Ethernet
+- content: Power system reliability
+- content: Maintenance engineering
 - content: amendment
 - content: DTE power via MDI
 - content: Ethernet
@@ -114,7 +175,6 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Superseded
   pubstatus: Active
   holdstatus: Publish

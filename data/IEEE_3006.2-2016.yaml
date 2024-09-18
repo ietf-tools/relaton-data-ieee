@@ -24,6 +24,8 @@ docid:
   type: DOI
 docnumber: IEEE 3006.2-2016
 date:
+- type: updated
+  value: '2016-09-02'
 - type: created
   value: '2016-08-16'
 - type: published
@@ -37,10 +39,6 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-    contact:
-    - address:
-        city: New York
-        country: USA
   role:
   - type: publisher
 revdate: '2016-08-16'
@@ -76,7 +74,7 @@ keyword:
 - content: Industrial power systems
 - content: Power system reliability
 - content: availability
-- content: IEEE 3006.8&#8482;
+- content: IEEE 3006.8™
 - content: mean down time (MDT)
 - content: mean time between failures (MTBF)
 - content: mean time to maintain (MTTM)
@@ -86,8 +84,7 @@ keyword:
 doctype: standard
 editorialgroup:
   committee:
-  - Industrial &amp; Commercial Power Systems Standards Development Committee of the
-    IEEE Industry Applications Society
+  - Technical Books Coordinating Committee of the IEEE Industry Applications Society
 ext:
   schema-version: v1.0.0
   standard_status: Active

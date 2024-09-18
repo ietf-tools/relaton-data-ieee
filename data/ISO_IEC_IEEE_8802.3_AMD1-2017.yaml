@@ -4,13 +4,13 @@ id: ISO-IEC-IEEE8802.3-Amd1-2017
 title:
 - content: 'ISO/IEC/IEEE International Standard - Information technology - Telecommunications
     and information exchange between systems - Local and metropolitan area networks
-    - Specific requirements - Part 3: Standard for Ethernet AMENDMENT 10: Media access
-    control parameters, physical layers, and management parameters for 200 Gb/s and
-    400 Gb/s operation'
+    - Specific requirements - Part 3: Standard for Ethernet AMENDMENT 11: Physical
+    layer and management parameters for serial 25 Gb/s Ethernet operation over single-mode
+    fiber'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8664714
+- content: https://ieeexplore.ieee.org/document/8664705
   type: src
 type: standard
 docid:
@@ -21,14 +21,14 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-5594-7
+- id: 978-1-5044-5595-4
   type: ISBN
-- id: 10.1109/IEEESTD.2019.8664714
+- id: 10.1109/IEEESTD.2019.8664705
   type: DOI
 docnumber: ISO/IEC/IEEE 8802.3/Amd1-2017
 date:
 - type: created
-  value: '2019-02-28'
+  value: '2019'
 - type: published
   value: '2019-03-11'
 - type: issued
@@ -52,10 +52,9 @@ language:
 script:
 - Latn
 abstract:
-- content: Clause 116 through Clause 124 and Annex 119A through Annex 120E are added
-    by this amendment to IEEE Std 802.3-2015. This amendment includes IEEE 802.3 Media
-    Access Control (MAC) parameters, Physical Layer specifications, and management
-    parameters for the transfer of IEEE 802.3 format frames at 200 Gb/s and 400 Gb/s.
+- content: This amendment to IEEE Std 802.3-2015 adds Physical Layer (PHY) specifications
+    and management parameters for 25 Gb/s operation over single-mode fiber at reaches
+    of at least 10 km (25GBASE-LR) and 40 km (25GBASE-ER).
   language:
   - en
   script:
@@ -76,6 +75,26 @@ copyright:
 relation:
 - type: adoptedFrom
   bibitem:
+    id: IEEE802.3cc-2017
+    docid:
+    - id: IEEE 802.3cc-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3cc-2017
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.3bw-2015
+    docid:
+    - id: IEEE 802.3bw-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3bw-2015
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
     id: IEEE802.3bs-2017
     docid:
     - id: IEEE 802.3bs-2017
@@ -83,6 +102,116 @@ relation:
       primary: true
     formattedref:
       content: IEEE 802.3bs-2017
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.3cc-2017
+    docid:
+    - id: IEEE 802.3cc-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3cc-2017
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.3bw-2015
+    docid:
+    - id: IEEE 802.3bw-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3bw-2015
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.3bs-2017
+    docid:
+    - id: IEEE 802.3bs-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3bs-2017
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.3cc-2017
+    docid:
+    - id: IEEE 802.3cc-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3cc-2017
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.3bs-2017
+    docid:
+    - id: IEEE 802.3bs-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3bs-2017
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.3cc-2017
+    docid:
+    - id: IEEE 802.3cc-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3cc-2017
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.3bw-2015
+    docid:
+    - id: IEEE 802.3bw-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3bw-2015
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.3bs-2017
+    docid:
+    - id: IEEE 802.3bs-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3bs-2017
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.3cc-2017
+    docid:
+    - id: IEEE 802.3cc-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3cc-2017
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.3bs-2017
+    docid:
+    - id: IEEE 802.3bs-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3bs-2017
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.3cc-2017
+    docid:
+    - id: IEEE 802.3cc-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3cc-2017
       format: text/plain
 - type: adoptedFrom
   bibitem:
@@ -176,6 +305,16 @@ relation:
       format: text/plain
 - type: adoptedFrom
   bibitem:
+    id: IEEE802.3bw-2015
+    docid:
+    - id: IEEE 802.3bw-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3bw-2015
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
     id: IEEE802.3bs-2017
     docid:
     - id: IEEE 802.3bs-2017
@@ -183,6 +322,86 @@ relation:
       primary: true
     formattedref:
       content: IEEE 802.3bs-2017
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.3bw-2015
+    docid:
+    - id: IEEE 802.3bw-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3bw-2015
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.3bs-2017
+    docid:
+    - id: IEEE 802.3bs-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3bs-2017
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.3bw-2015
+    docid:
+    - id: IEEE 802.3bw-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3bw-2015
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.3bs-2017
+    docid:
+    - id: IEEE 802.3bs-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3bs-2017
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.3bw-2015
+    docid:
+    - id: IEEE 802.3bw-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3bw-2015
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.3bw-2015
+    docid:
+    - id: IEEE 802.3bw-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3bw-2015
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.3bs-2017
+    docid:
+    - id: IEEE 802.3bs-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3bs-2017
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.3bw-2015
+    docid:
+    - id: IEEE 802.3bw-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3bw-2015
       format: text/plain
 - type: adoptedFrom
   bibitem:
@@ -233,6 +452,116 @@ relation:
       primary: true
     formattedref:
       content: IEEE 802.3bw-2015
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.3bs-2017
+    docid:
+    - id: IEEE 802.3bs-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3bs-2017
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.3bw-2015
+    docid:
+    - id: IEEE 802.3bw-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3bw-2015
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.3bs-2017
+    docid:
+    - id: IEEE 802.3bs-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3bs-2017
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.3bs-2017
+    docid:
+    - id: IEEE 802.3bs-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3bs-2017
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.3bw-2015
+    docid:
+    - id: IEEE 802.3bw-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3bw-2015
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.3bs-2017
+    docid:
+    - id: IEEE 802.3bs-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3bs-2017
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.3bw-2015
+    docid:
+    - id: IEEE 802.3bw-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3bw-2015
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.3bw-2015
+    docid:
+    - id: IEEE 802.3bw-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3bw-2015
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.3bs-2017
+    docid:
+    - id: IEEE 802.3bs-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3bs-2017
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.3bw-2015
+    docid:
+    - id: IEEE 802.3bw-2015
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3bw-2015
+      format: text/plain
+- type: adoptedFrom
+  bibitem:
+    id: IEEE802.3bs-2017
+    docid:
+    - id: IEEE 802.3bs-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3bs-2017
       format: text/plain
 - type: adoptedFrom
   bibitem:
@@ -303,39 +632,22 @@ keyword:
 - content: Information technology
 - content: Information exchange
 - content: Physical layer
-- content: Ethernet
 - content: Parameter estimation
-- content: 200 Gb/s Ethernet
-- content: 200GAUI-4
-- content: 200GAUI-8
-- content: 200GBASE-DR4
-- content: 200GBASE-FR4
-- content: 200GBASE-LR4
-- content: 200GBASE-R
-- content: 200GMII
-- content: 200GXS
-- content: 400 Gb/s Ethernet
-- content: 400GAUI-8
-- content: 400GAUI-16
-- content: 400GBASE-DR4
-- content: 400GBASE-FR8
-- content: 400GBASE-LR8
-- content: 400GBASE-SR16
-- content: 400GBASE-R
-- content: 400GMII
-- content: 400GXS
-- content: EEE
-- content: Energy Efficient Ethernet
+- content: 25 Gb/s Ethernet
+- content: 25GBASE-ER
+- content: 25GBASE-LR
+- content: 25GBASE-SR
+- content: Energy Efficient Ethernet (EEE)
 - content: Ethernet
-- content: FEC
-- content: forward error correction
+- content: Forward Error Correction (FEC)
 - content: IEEE 802.3&#8482;
-- content: IEEE 802.3bs&#8482;
-- content: MMF
-- content: PAM4
-- content: Physical Medium Dependent sublayer
-- content: PMD
-- content: SMF
+- content: IEEE 802.3by&#8482;
+- content: IEEE 802.3cc&#8482;
+- content: Physical Coding sublayer (PCS)
+- content: Physical Medium Attachment (PMA) sublayer
+- content: Physical Medium Dependent (PMD) sublayer
+- content: Reconciliation sublayer (RS)
+- content: single-mode fiber (SMF)
 doctype: standard
 editorialgroup:
   committee:

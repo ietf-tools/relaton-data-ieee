@@ -28,7 +28,7 @@ date:
 - type: published
   value: '2021-05-27'
 - type: issued
-  value: '2021'
+  value: '2021-12-08'
 contributor:
 - organization:
     name:
@@ -48,18 +48,19 @@ language:
 script:
 - Latn
 abstract:
-- content: This standard presents the combined efforts of IEEE P287 Working Group
-    that reflect the knowledge and experience of leading specialists in the development
-    and measurement of precision coaxial connectors for RF, microwave and millimeter-wave
-    frequencies. It presents minimum performance requirements to standardize both
-    hermaphroditic and pin- and socket-type connectors (IEEE P287.1). It provides
-    recommended electrical and mechanical test procedures for Instrument Grade and
-    Metrology Grade precision connectors (IEEE P287.2). Recommended reference procedures
-    including connector effects, connector care and cleaning, connector repeatability
-    and reproducibility test procedures, and a color code for connectors are detailed
-    in the third part of the standard (IEEE P287.3). A bibliography provides a list
-    of pertinent references for measurement techniques used in determining electrical,
-    mechanical, and dimensional parameters for coaxial connectors.
+- content: The IEEE 287 series of documents presents the combined efforts of IEEE
+    P287 Working Group that reflect the knowledge and experience of leading specialists
+    in the development and measurement of precision coaxial connectors for RF, microwave,
+    and millimeter-wave frequencies. It presents minimum performance requirements
+    to standardize both hermaphroditic and pin and socket-type connectors (IEEE Std
+    287.1-2021, this document). It provides recommended electrical and mechanical
+    test procedures for Instrument Grade and Metrology Grade precision connectors
+    (IEEE Std 287.2-2021). Recommended reference procedures including connector effects,
+    connector care and cleaning, connector repeatability and reproducibility test
+    procedures, and a color code for connectors are detailed in the third part of
+    the series (IEEE Std 287.3- 2021). A bibliography provides a list of pertinent
+    references for measurement techniques used in determining electrical, mechanical,
+    and dimensional parameters for coaxial connectors.
   language:
   - en
   script:
@@ -78,24 +79,29 @@ copyright:
   from: '2021'
 keyword:
 - content: IEEE Standards
-- content: Standards
+- content: Millimeter wave measurement
 - content: Connectors
 - content: Radio frequency
-- content: Patents
+- content: Reproducibility of results
 - content: Microwave measurement
 - content: Millimeter wave technology
+- content: Metrology
+- content: IEEE 287.1
+- content: instrument grade connector (IGC)
+- content: metrology grade connector (MGC)
 - content: minimum performance requirement
 - content: pin and socket connector
 - content: precision coaxial connector
-- content: instrument grade connector (IGC)
-- content: metrology grade connector (MGC)
 doctype: standard
 editorialgroup:
   committee:
   - TC4 - High Frequency Measurement of the IEEE Instrumentation and Measurement Society
+ics:
+- code: 31.220.10
+  text: Plug-and-socket devices. Connectors
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

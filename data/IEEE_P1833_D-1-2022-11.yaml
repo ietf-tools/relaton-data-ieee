@@ -25,9 +25,9 @@ date:
 - type: created
   value: '2022-11-09'
 - type: published
-  value: '2022-11-11'
+  value: '2022-11-10'
 - type: issued
-  value: '2022'
+  value: '2023-02-15'
 contributor:
 - organization:
     name:
@@ -41,11 +41,23 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-11-11'
+revdate: '2022-11-10'
 language:
 - en
 script:
 - Latn
+abstract:
+- content: The general parameters used in the design of direct current overhead contact
+    systems used in transit systems are defined in this guide. The guidelines mentioned
+    in this document are intended to be used for the design of either new or expanding
+    transit systems where a legacy of design standards does not exist. These guidelines
+    are not intended to replace or supersede existing design standards, but to formalize
+    the design process
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -63,21 +75,27 @@ keyword:
 - content: Public transportation
 - content: Power transmission lines
 - content: Light rail systems
-- content: overhead contact system
-- content: transit systems
+- content: electric trolleybuses
+- content: IEEE 1833
 - content: light rail system
-- content: streetcars
-- content: electric trolley buses
-- content: trolley
-- content: OCS styles
 - content: OCS design
+- content: OCS styles
+- content: overhead contact system
+- content: streetcars
+- content: transit systems
+- content: trolley
 doctype: standard
 editorialgroup:
   committee:
   - Overhead Contact Systems of the IEEE Vehicular Technology Society
+ics:
+- code: 01.040.29
+  text: Electrical engineering (Vocabularies)
+- code: '29.280'
+  text: Electric traction equipment
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

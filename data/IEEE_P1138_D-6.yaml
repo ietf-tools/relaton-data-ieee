@@ -87,6 +87,23 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1138-2009
+    docid:
+    - id: IEEE 1138-2009
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1138-2009
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Quality function deployment
@@ -101,6 +118,9 @@ keyword:
 - content: optical ground wire
 - content: type tests
 doctype: standard
+editorialgroup:
+  committee:
+  - IEEE Power and Energy Society
 ics:
 - code: 29.240.20
   text: Power transmission and distribution lines
@@ -108,7 +128,7 @@ ics:
   text: Fibre optic systems in general
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

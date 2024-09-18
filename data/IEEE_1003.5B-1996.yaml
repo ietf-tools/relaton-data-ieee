@@ -2,13 +2,13 @@
 schema-version: v1.2.3
 id: IEEE1003.5b-1996
 title:
-- content: 'ISO/IEC 14519 : 1999 (IEEE Std 1003.5b), Information technology--POSIX(R)
-    Ada Language Interfaces--Binding for System Application Program Interface (API)--Realtime
+- content: 'IEEE Standard for Information Technology--POSIX(R) Ada Language Interfaces--Part
+    1: Binding for System Application Program Interface (API)--Amendment 1: Realtime
     Extensions'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/9208346
+- content: https://ieeexplore.ieee.org/document/8569012
   type: src
 type: standard
 docid:
@@ -21,12 +21,14 @@ docid:
   primary: true
 - id: 978-0-7381-1571-9
   type: ISBN
+- id: 10.1109/IEEESTD.1995.8569012
+  type: DOI
 docnumber: IEEE 1003.5b-1996
 date:
 - type: created
-  value: '1999'
+  value: '1995-11-30'
 - type: published
-  value: '2020-09-28'
+  value: '2018-12-07'
 - type: issued
   value: '1999'
 contributor:
@@ -42,17 +44,24 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2020-09-28'
+revdate: '2018-12-07'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This standard is part of the POSIX series of standards for applications
+- content: 'This standard is part of the POSIX series of standards for applications
     and user interfaces to open systems. It defines the Ada language bindings as package
     specifications and accompanying textual descriptions of the application program
     interface (API). This standard supports application portability at the source
-    code level through the binding between ISO 8652
+    code level through the binding between ISO 8652: 1987 (Ada) and ISO/IEC 9945-1:
+    1990 (IEEE Std 1003.1-1990) (POSIX), as amended by IEEE Std 1003.1b-1993, IEEE
+    Std 1003.1c-1995, and IEEE Std 1003.1I-1995. Terminology and general requirements,
+    process primitives, the process environment, files and directories, input and
+    output primitives, device- and class-specific functions, language-specific services
+    for Ada, system databases, synchronization, memory management, execution scheduling,
+    clocks and timers, and message passing are covered. It also specifies behavior
+    to support the binding that must be provided by the Ada compilation system.'
   language:
   - en
   script:
@@ -66,6 +75,27 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '1997'
+keyword:
+- content: IEEE Standards
+- content: Operating systems
+- content: Computer applications
+- content: Real-time systems
+- content: Computer languages
+- content: Application programming interfaces
+- content: Open systems
+- content: Information technology
+- content: realtime extensions
+- content: ADA
+- content: API
+- content: application portability
+- content: computer language bindings
+- content: open systems
+- content: operating systems
+- content: portable application
+- content: POSIX
+- content: POSIX language bindings
+- content: realtime
+- content: thread
 doctype: standard
 editorialgroup:
   committee:

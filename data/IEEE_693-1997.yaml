@@ -66,16 +66,6 @@ copyright:
     url: http://www.ieee.org
   from: '1998'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE693-2005
-    docid:
-    - id: IEEE 693-2005
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 693-2005
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEE693-1984
@@ -93,6 +83,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE693-2005
+    docid:
+    - id: IEEE 693-2005
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 693-2005
+      format: text/plain
 keyword:
 - content: Substations
 - content: 'Author: Unknown'

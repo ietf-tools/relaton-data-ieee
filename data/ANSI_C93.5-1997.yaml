@@ -27,7 +27,7 @@ date:
 - type: created
   value: '2004-01-01'
 - type: published
-  value: '2011-05-11'
+  value: '2015-10-15'
 - type: issued
   value: '2004'
 contributor:
@@ -37,13 +37,9 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-    contact:
-    - address:
-        city: New York
-        country: USA
   role:
   - type: publisher
-revdate: '2011-05-11'
+revdate: '2015-10-15'
 language:
 - en
 script:
@@ -58,6 +54,9 @@ abstract:
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -83,10 +82,11 @@ editorialgroup:
   committee:
   - Transmission and Distribution of the IEEE Power and Energy Society
 ics:
-- code: 01.040.11
-  text: Health care technology (Vocabularies)
+- code: 33.040.50
+  text: Lines, connections and circuits
 ext:
   schema-version: v1.0.0
-  standard_status: Superseded
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

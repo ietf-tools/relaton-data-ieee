@@ -56,8 +56,7 @@ abstract:
     of MAC Bridges and VLAN Bridges, including management, protocols, and algorithms.
     Supersedes 802.1Q-2014. IEEE 802.1Qcd-2015, IEEE 802.1Qca-2015,IEEE 802.1Q-2014_Cor-1-2015,
     IEEE 802.1Qbv-2015, IEEE 802.1Qbu-2016, IEEE 802-1Qbz-2016, IEEE 802.1Qci-2017
-    and IEEE 802.1Qch-2017. (The PDF of this standard is available at no cost to you
-    compliments of the IEEE GET program https://ieeexplore.ieee.org/browse/standards/get-program/page)
+    and IEEE 802.1Qch-2017.
   language:
   - en
   script:
@@ -72,6 +71,33 @@ copyright:
     url: http://www.ieee.org
   from: '2018'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE802.1Q-2022
+    docid:
+    - id: IEEE 802.1Q-2022
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1Q-2022
+      format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.1Q-2014
+    docid:
+    - id: IEEE 802.1Q-2014
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1Q-2014
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: updates
   bibitem:
     id: IEEE802.1Q-2014

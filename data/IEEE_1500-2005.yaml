@@ -23,10 +23,12 @@ docid:
   type: DOI
 docnumber: IEEE 1500-2005
 date:
+- type: updated
+  value: '2012-08-10'
 - type: created
   value: '2005-08-29'
 - type: published
-  value: '2005-09-19'
+  value: '2016-12-19'
 - type: issued
   value: '2005-03-20'
 contributor:
@@ -36,13 +38,9 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-    contact:
-    - address:
-        city: New York
-        country: USA
   role:
   - type: publisher
-revdate: '2005-09-19'
+revdate: '2016-12-19'
 language:
 - en
 script:
@@ -57,6 +55,9 @@ abstract:
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -84,7 +85,7 @@ ics:
   text: Integrated circuits. Microelectronics
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
-  standard_modified: Reserved
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

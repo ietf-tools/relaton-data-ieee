@@ -24,6 +24,8 @@ docid:
   type: DOI
 docnumber: IEEE C37.122-2010
 date:
+- type: updated
+  value: '2011-02-04'
 - type: created
   value: '2011-01-21'
 - type: published
@@ -37,10 +39,6 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-    contact:
-    - address:
-        city: New York
-        country: USA
   role:
   - type: publisher
 revdate: '2020-08-07'
@@ -58,6 +56,9 @@ abstract:
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -66,6 +67,24 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2011'
+relation:
+- type: updates
+  bibitem:
+    id: IEEEC37.122-1993
+    docid:
+    - id: IEEE C37.122-1993
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.122-1993
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Substations
@@ -90,7 +109,7 @@ ics:
   text: Power stations in general
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
-  standard_modified: Reserved
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

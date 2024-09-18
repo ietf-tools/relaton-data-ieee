@@ -23,10 +23,12 @@ docid:
   type: DOI
 docnumber: ANSI C63.27-2017
 date:
+- type: updated
+  value: '2017-05-26'
 - type: created
   value: '2017-05-11'
 - type: published
-  value: '2017-05-15'
+  value: '2017-05-13'
 - type: issued
   value: '2017'
 contributor:
@@ -36,13 +38,9 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-    contact:
-    - address:
-        city: New York
-        country: USA
   role:
   - type: publisher
-revdate: '2017-05-15'
+revdate: '2017-05-13'
 language:
 - en
 script:
@@ -56,6 +54,9 @@ abstract:
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -87,11 +88,9 @@ keyword:
 - content: RFI
 - content: susceptibility
 doctype: standard
-ics:
-- code: 01.040.11
-  text: Health care technology (Vocabularies)
 ext:
   schema-version: v1.0.0
-  standard_status: Superseded
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

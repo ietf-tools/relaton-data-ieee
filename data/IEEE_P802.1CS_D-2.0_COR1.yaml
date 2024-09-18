@@ -26,9 +26,9 @@ date:
 - type: created
   value: '2023-10-18'
 - type: published
-  value: '2023-10-24'
+  value: '2023-10-23'
 - type: issued
-  value: '2023'
+  value: '2024-02-15'
 contributor:
 - organization:
     name:
@@ -42,14 +42,14 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2023-10-24'
+revdate: '2023-10-23'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Corrects errors in the YANG module, SNMP MIB and TLV encoding in IEEE Std
-    802.1CS-2020.
+- content: This corrigendum corrects errors in the YANG module, SNMP MIBs, and TLV
+    encoding in IEEE Std 802.1CS-2020.
   language:
   - en
   script:
@@ -84,6 +84,23 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.1
+    docid:
+    - id: IEEE 802.1
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.1
+      format: text/plain
+  description:
+    content: corrects
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Local area networks
@@ -91,7 +108,7 @@ keyword:
 - content: Protocols
 - content: Telecommunication network management
 - content: Bridged Local Area Networks
-- content: bridges
+- content: Bridges
 - content: bridging
 - content: IEEE 802&#174;
 - content: IEEE 802.1CS&#8482;
@@ -112,7 +129,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

@@ -24,6 +24,8 @@ docid:
   type: DOI
 docnumber: IEEE 1722.1-2013
 date:
+- type: updated
+  value: '2013-12-23'
 - type: created
   value: '2013-10-10'
 - type: published
@@ -37,10 +39,6 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-    contact:
-    - address:
-        city: New York
-        country: USA
   role:
   - type: publisher
 revdate: '2013-10-10'
@@ -58,6 +56,9 @@ abstract:
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -66,17 +67,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2013'
-relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE1722.1-2021
-    docid:
-    - id: IEEE 1722.1-2021
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1722.1-2021
-      format: text/plain
 keyword:
 - content: IEEE standards
 - content: Local area networks
@@ -107,6 +97,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Superseded
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

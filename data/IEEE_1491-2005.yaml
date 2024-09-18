@@ -24,6 +24,8 @@ docid:
   type: DOI
 docnumber: IEEE 1491-2005
 date:
+- type: updated
+  value: '2009-01-15'
 - type: created
   value: '2005-11-15'
 - type: published
@@ -37,10 +39,6 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
-    contact:
-    - address:
-        city: New York
-        country: USA
   role:
   - type: publisher
 revdate: '2012-07-25'
@@ -69,6 +67,26 @@ copyright:
     url: http://www.ieee.org
   from: '2005'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEEP1491-D-7.3-2010-06
+    docid:
+    - id: IEEE P1491/D-7.3-2010-06
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE P1491/D-7.3-2010-06
+      format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEEP1491-D-7.3-2010-06
+    docid:
+    - id: IEEE P1491/D-7.3-2010-06
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE P1491/D-7.3-2010-06
+      format: text/plain
 - type: obsoletedBy
   bibitem:
     id: IEEEP1491-D-7.3-2010-06
@@ -123,8 +141,8 @@ editorialgroup:
   - Energy Storage &amp; Stationary Battery Committee of the IEEE Power and Energy
     Society
 ics:
-- code: 01.040.11
-  text: Health care technology (Vocabularies)
+- code: 29.220.10
+  text: Primary cells and batteries
 ext:
   schema-version: v1.0.0
   standard_status: Superseded

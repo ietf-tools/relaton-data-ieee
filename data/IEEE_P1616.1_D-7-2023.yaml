@@ -48,20 +48,20 @@ script:
 abstract:
 - content: This standardization defines the goals and metrics of a Data Storage System
     for Automated Driving (DSSAD). It identifies functions and common technical requirements
-    for data storage requirements. It defines data elements relevant to Automated
-    Driving System (ADS) Level 3, Level 4 and Level 5. It defines the usage of data
-    amongst diverse end users. The standard compiles a compendium of data elements
-    used in vehicles of categories M1 and N1 regarding their EDR and DSSAD for partial
-    and fully automated vehicles. The standard also has an On-Board Diagnostic (OBD)
-    port lockout / Near Field Communication (NFC) protocol for protection against
-    data manipulation via the vehicle diagnostic port. This standard is made available
-    without prejudice [[of]] to national and regional laws related to data privacy,
-    protection, and personal data processing. Users are responsible for compliance
-    with all such laws and regulations. This standard may be frequently updated to
-    include relevant data definitions and data elements towards the development of
-    automated vehicles. The overall goal is to create a data collection standard for
-    automated driving that includes functional requirements for automated vehicle
-    gateways and security guidelines for cloud-based automotive data recorder requirements.
+    for data storage. It defines data elements relevant to Automated Driving System
+    (ADS) Level 3, Level 4 and Level 5. It defines the usage of data amongst diverse
+    end users. The standard compiles a compendium of data elements used in vehicles
+    of categories M1 and N1 regarding their EDR and DSSAD for partial and fully automated
+    vehicles. The standard also has an On-Board Diagnostic (OBD) port lockout / Near
+    Field Communication (NFC) protocol for protection against data manipulation via
+    the vehicle diagnostic port. This standard is made available without prejudice
+    to national and regional laws related to data privacy, protection, and personal
+    data processing. Users are responsible for compliance with all such laws and regulations.
+    This standard may be frequently updated to include relevant data definitions and
+    data elements towards the development of automated vehicles. The overall goal
+    is to create a data collection standard for automated driving that includes functional
+    requirements for automated vehicle gateways and security guidelines for cloud-based
+    automotive data recorder requirements.
   language:
   - en
   script:
@@ -79,6 +79,15 @@ copyright:
     url: http://www.ieee.org
   from: '2023'
 keyword:
+- content: IEEE Standards
+- content: Memory
+- content: Storage management
+- content: Intelligent transportation systems
+- content: Cloud computing
+- content: Data processing
+- content: Autonomous vehicles
+- content: Advanced driver assistance systems
+- content: Recording
 - content: ads-operated vehicle
 - content: assumption
 - content: automated driving system
@@ -109,7 +118,7 @@ editorialgroup:
   - Intelligent Transportation Systems of the IEEE Vehicular Technology Society
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

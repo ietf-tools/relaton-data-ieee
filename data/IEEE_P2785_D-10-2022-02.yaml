@@ -25,9 +25,9 @@ date:
 - type: created
   value: '2022-12-16'
 - type: published
-  value: '2022-12-20'
+  value: '2022-12-19'
 - type: issued
-  value: '2022'
+  value: '2023-03-30'
 contributor:
 - organization:
     name:
@@ -41,23 +41,15 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-12-20'
+revdate: '2022-12-19'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This standard provides the definitions and terminologies, information modeling,
-    1 architectural framework, key technological requirements, and general model for
-    intelligent level 2 evaluation related to the Smart Home systems. This standard
-    contains 11 chapters. Chapter 1 describes the scope and purpose of this standard.
-    Chapter 2 is normative references. Chapter 3 is definitions, acronyms and abbreviations.
-    Chapter 4 is the overview of smart home system, including system architecture,
-    reference model and system components. From Chapter 5 to Chapter 9, the functional
-    and technical requirements of smart home system components are specified respectively.
-    Chapter 10 is the requirements of security and data compliance of smart home system.
-    Chapter 11 is general requirements for intelligent level evaluation of smart home
-    system.
+- content: The definitions and terminologies, information modeling, architectural
+    framework, key technological requirements, and general model for intelligent level
+    evaluation related to the Smart Home systems are provided in this standard.
   language:
   - en
   script:
@@ -79,18 +71,24 @@ keyword:
 - content: Smart homes
 - content: Home automation
 - content: Home appliances
-- content: Smart home
-- content: reference model
 - content: architectural framework
-- content: interfaces
+- content: IEEE 2785
 - content: intelligent level
+- content: interfaces
+- content: reference model
+- content: smart home
 doctype: standard
 editorialgroup:
   committee:
   - Emerging Technology Standards Committee of the IEEE Consumer Technology Society
+ics:
+- code: 35.240.67
+  text: IT applications in building and construction industry
+- code: '97.120'
+  text: Automatic controls for household use
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold
