@@ -1,0 +1,122 @@
+---
+schema-version: v1.2.3
+id: IEEEP1159.3-D-6.2-2024-09
+title:
+- content: IEEE Draft Recommended Practice for Power Quality Data Interchange Format
+    (PQDIF)
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10689548
+  type: src
+type: standard
+docid:
+- id: IEEE P1159.3/D-6.2-2024-09
+  type: IEEE
+  primary: true
+- id: IEEE P1159.3™/D-6.2-2024-09
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-1280-3
+  type: ISBN
+docnumber: IEEE P1159.3/D-6.2-2024-09
+date:
+- type: created
+  value: '2024'
+- type: published
+  value: '2024-09-24'
+- type: issued
+  value: '2024'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2024-09-24'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: A file format suitable for exchanging power quality related measurement
+    and simulation data in a vendor independent manner is defined in this recommended
+    practice. The format is designed to represent all power quality phenomena identified
+    in IEEE Std 1159-2009, IEEE Recommended Practice on Monitoring Electric Power
+    Quality, other power related measurement data, and is extensible to other data
+    types as well. The recommended file format utilizes a highly compressed storage
+    scheme to help reduce disk space and transmission times. The utilization of Globally
+    Unique Identifiers (GUID) to represent each element in the file permits the format
+    to be extensible without the need for a central registration authority
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: draft
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2024'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1159.3-2019
+    docid:
+    - id: IEEE 1159.3-2019
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1159.3-2019
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Power quality
+- content: Information exchange
+- content: Monitoring
+- content: Power transmission
+- content: Power system reliability
+- content: Power system measurements
+- content: data interchange
+- content: file format
+- content: IEEE 1159.3
+- content: measurement
+- content: monitoring
+- content: power quality
+- content: 10 PQDIF11
+doctype: standard
+editorialgroup:
+  committee:
+  - Transmission and Distribution of the IEEE Power and Energy Society
+ics:
+- code: 29.240.01
+  text: Power transmission and distribution networks in general
+- code: 35.240.63
+  text: IT applications in trade
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

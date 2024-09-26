@@ -1,0 +1,111 @@
+---
+schema-version: v1.2.3
+id: IEEEP1900.5.2-D-2.1-2024-08
+title:
+- content: IEEE Draft Standard for Modeling Spectrum Consumption
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10689542
+  type: src
+type: standard
+docid:
+- id: IEEE P1900.5.2/D-2.1-2024-08
+  type: IEEE
+  primary: true
+- id: IEEE P1900.5.2™/D-2.1-2024-08
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-1284-1
+  type: ISBN
+docnumber: IEEE P1900.5.2/D-2.1-2024-08
+date:
+- type: created
+  value: '2024'
+- type: published
+  value: '2024-09-24'
+- type: issued
+  value: '2024'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2024-09-24'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: A vendor-independent generalized method for modeling spectrum consumption
+    of any type of use of radio frequency spectrum and the attendant computations
+    for arbitrating the compatibility among models are defined in this standard. The
+    methods of modeling are chosen to support the development of tractable algorithms
+    for determining the compatibility between models and for performing various spectrum
+    management tasks that operate on a plurality of models. The modeling methods are
+    exclusively focused on capturing spectrum use but are defined in a schema that
+    can be joined with other schemata related to spectrum management
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: draft
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2024'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE1900.5.2-2017
+    docid:
+    - id: IEEE 1900.5.2-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1900.5.2-2017
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Radio spectrum management
+- content: Modeling
+- content: Computational modeling
+doctype: standard
+editorialgroup:
+  committee:
+  - Dynamic Spectrum Access Networks Standards Committee of the IEEE Communications
+    Society
+ics:
+- code: 33.060.01
+  text: Radiocommunications in general
+- code: '35.110'
+  text: Networking
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

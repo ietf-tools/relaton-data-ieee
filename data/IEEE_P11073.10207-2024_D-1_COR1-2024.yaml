@@ -1,0 +1,136 @@
+---
+schema-version: v1.2.3
+id: IEEEP11073.10207-2024-D-1-Cor1-2024
+title:
+- content: 'IEEE Draft Standard - Health Informatics - Point-of-Care Medical Device
+    Communication Part 10207: Domain Information and Service Model for Service-Oriented
+    Point-of-Care Medical Device Communication - Corrigendum 1'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10685400
+  type: src
+type: standard
+docid:
+- id: IEEE P11073.10207-2024/D-1/Cor1-2024
+  type: IEEE
+  primary: true
+- id: IEEE P11073.10207-2024™/D-1/Cor1-2024
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-1266-7
+  type: ISBN
+docnumber: IEEE P11073.10207-2024/D-1/Cor1-2024
+date:
+- type: created
+  value: '2024'
+- type: published
+  value: '2024-09-23'
+- type: issued
+  value: '2024'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2024-09-23'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: The IEEE 11073-10207-2017 standard falls within the context of the ISO/IEEE
+    11073&#8482; family of standards for point-of-care medical device communication.
+    In this standard, a Participant Model is derived from the ISO/IEEE 11073-10201
+    Domain Information Model. The Participant Model specifies the structure of medical
+    information objects. Additionally, the standard defines an 4 abstract Communication
+    Model to facilitate the exchange of medical information objects. Both the Participant
+    Model and Communication Model elements are specified using XML Schema. The core
+    subjects covered by the Participant Model include the modeling of medical device-related
+    7 data (such as measurements and settings), alert systems, contextual information
+    (such as patient demographics and location), remote control, and archival information.
+    XML Schema is utilized to provide extensibility to the model. The corrigendum
+    for this standard comprises fixes related to definition terms, requirements, and
+    a significant retrofit of the versioning concept. It ensures that the standard
+    remains accurate and up-to-date, addressing any issues that may have arisen since
+    its initial publication.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: draft
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2024'
+relation:
+- type: updates
+  bibitem:
+    id: IEEE11073.10207-2017
+    docid:
+    - id: IEEE 11073.10207-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 11073.10207-2017
+      format: text/plain
+  description:
+    content: corrects
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+keyword:
+- content: IEEE Standards
+- content: Standards
+- content: Regulation
+- content: Data models
+- content: Context modeling
+- content: XML
+- content: Warranties
+- content: IEEE 11073-10207
+- content: BICEPS
+- content: Corrigendum 1
+- content: SDC
+- content: communication protocol specification
+- content: dynamic medical device interoperability
+- content: integrated clinical environment
+- content: medical device communication
+- content: point-of-care
+- content: remote control
+- content: safety
+- content: service-oriented architecture
+- content: service-oriented device connectivity
+- content: system function
+- content: xml schema
+doctype: standard
+editorialgroup:
+  committee:
+  - IEEE 11073 Standards Committee of the IEEE Engineering in Medicine and Biology
+    Society
+ics:
+- code: 35.240.80
+  text: IT applications in health care technology
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

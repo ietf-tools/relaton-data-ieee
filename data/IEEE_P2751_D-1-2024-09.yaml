@@ -1,0 +1,100 @@
+---
+schema-version: v1.2.3
+id: IEEEP2751-D-1-2024-09
+title:
+- content: IEEE Draft Standard for 3D Map Data Representation for Robotics and Automation
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10694759
+  type: src
+type: standard
+docid:
+- id: IEEE P2751/D-1-2024-09
+  type: IEEE
+  primary: true
+- id: IEEE P2751™/D-1-2024-09
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-1290-2
+  type: ISBN
+docnumber: IEEE P2751/D-1-2024-09
+date:
+- type: created
+  value: '2024'
+- type: published
+  value: '2024-09-25'
+- type: issued
+  value: '2024'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2024-09-25'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: This standard provides specifications for representing three-dimensional
+    (30) maps for robotics and automation. This standard defines a recommended format
+    for exchanging map data among robots, computers, and other devices. The representation
+    format specified by this standard considers static maps and describes their elements
+    and associated uncertainty independently of the geographic scale and sensor modalities
+    used to build the maps. In particular, this standard (a) defines a hierarchy of
+    terminologies related to 30 robot maps for robotics and automation; (b) specifies
+    a data model for each element of the hierarchy; and (c) specifies a JSON format
+    for map data exchange between different robots, computer systems, and devices.
+    This standard provides formats for exchanging 30 map data between robots and devices
+    (e.g., by transmitting them over a communication channel or by saving them on
+    some storing devices). This standard is not intended to affect internal formats
+    that robots and devices use to build, update, and use maps.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: draft
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  from: '2024'
+keyword:
+- content: IEEE Standards
+- content: Automation
+- content: Robots
+- content: Three-dimensional displays
+- content: Point cloud compression
+- content: robotics
+- content: automation
+- content: three-dimensional maps
+- content: grid maps
+- content: octrees
+- content: point clouds
+- content: polygonal meshes
+doctype: standard
+editorialgroup:
+  committee:
+  - Standing Committee for Standards of the IEEE Robotics and Automation Society
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Draft
+  pubstatus: Active
+  holdstatus: Hold

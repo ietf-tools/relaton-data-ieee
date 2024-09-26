@@ -1,0 +1,119 @@
+---
+schema-version: v1.2.3
+id: ISO-IEEE11073.10425-2024
+title:
+- content: 'ISO/IEEE International Standard: Health informatics--Device interoperability--Part
+    10425: Personal health device communication--Device specialization--Continuous
+    Glucose Monitor (CGM)'
+  format: text/plain
+  type: main
+link:
+- content: https://ieeexplore.ieee.org/document/10693327
+  type: src
+type: standard
+docid:
+- id: ISO/IEEE 11073.10425-2024
+  type: IEEE
+  primary: true
+- id: ISO/IEEE 11073.10425™-2024
+  type: IEEE
+  scope: trademark
+  primary: true
+- id: 979-8-8557-1245-2
+  type: ISBN
+- id: 10.1109/IEEESTD.2024.10693327
+  type: DOI
+docnumber: ISO/IEEE 11073.10425-2024
+date:
+- type: created
+  value: '2024'
+- type: published
+  value: '2024-09-25'
+- type: issued
+  value: '2024'
+contributor:
+- organization:
+    name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
+  role:
+  - type: publisher
+revdate: '2024-09-25'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: Within the context of the ISO/IEEE 11073 family of standards for device
+    communication, a normative definition of the communication between continuous
+    glucose monitor (CGM) devices and managers (e.g., cell phones, personal computers,
+    personal health appliances, set top boxes), in a manner that enables plug-and-play
+    interoperability, is established in this standard. It leverages appropriate portions
+    of existing standards including ISO/IEEE 11073 terminology and information models.
+    It specifies the use of specific term codes, formats, and behaviors in telehealth
+    environments, restricting optionality in base frameworks in favor of interoperability.
+    This standard defines a common core of communication functionality of CGM devices.
+    In this context, CGM refers to the measurement of the level of glucose in the
+    body on a regular (typically 5 minute) basis through a sensor continuously attached
+    to the person.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+docstatus:
+  stage:
+    value: approved
+copyright:
+- owner:
+  - name:
+    - content: Institute of Electrical and Electronics Engineers
+    abbreviation:
+      content: IEEE
+    url: http://www.ieee.org
+  - name:
+    - content: ISO
+  from: '2024'
+relation:
+- type: adoptedFrom
+  bibitem:
+    id: IEEE11073.10425-2023
+    docid:
+    - id: IEEE 11073.10425-2023
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 11073.10425-2023
+      format: text/plain
+keyword:
+- content: IEEE Standards
+- content: ISO Standards
+- content: Biomedical monitoring
+- content: Glucose sensors
+- content: Medical devices
+- content: continuous glucose monitor
+- content: IEEE 11073-10425&#8482;
+- content: medical device communication
+- content: personal health devices
+doctype: standard
+editorialgroup:
+  committee:
+  - IEEE 11073 Standards Committee of the IEEE Engineering in Medicine and Biology
+    Society
+ics:
+- code: 11.040.55
+  text: Diagnostic equipment
+- code: 35.240.80
+  text: IT applications in health care technology
+ext:
+  schema-version: v1.0.0
+  standard_status: Active
+  standard_modified: Approved
+  pubstatus: Active
+  holdstatus: Publish
