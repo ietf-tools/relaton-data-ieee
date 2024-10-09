@@ -2,12 +2,11 @@
 schema-version: v1.2.3
 id: IEEEIC
 title:
-- content: IEEE IC Industry Consortium on Learning Engineering--Proceedings of the
-    2019 Conference on Learning Engineering
+- content: 'IEEE IC Big Data Governance and Metadata Management: Standards Roadmap'
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/9145510
+- content: https://ieeexplore.ieee.org/document/9133347
   type: src
 type: standard
 docid:
@@ -18,14 +17,14 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-6679-0
+- id: 978-1-5044-6787-2
   type: ISBN
 docnumber: IEEE IC
 date:
 - type: created
   value: '2020'
 - type: published
-  value: '2020-07-21'
+  value: '2020-07-03'
 - type: issued
   value: '2020'
 contributor:
@@ -41,16 +40,24 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2020-07-21'
+revdate: '2020-07-03'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: The 2019 ICICLE Conference on Learning Engineering was designed as a series
-    of conversations about the emergence of Learning Engineering as a profession and
-    new academic discipline. The proceedings represent the variety of views presented.
-    It is a curation of papers, reflections, slide decks, demos, videos, and brainstorming.
+- content: 'This document focuses on forming a community of interest from industry,
+    academia, and government, intending to develop a standards roadmap for Big Data
+    Governance and Metadata Management (BDGMM). The approach includes the following:
+    *Review BDGMM-related technology trends, use cases, general requirements, and
+    reference architecture; * Gain an understanding of what standards are available
+    or under development that may apply to BDGMM; * Perform standards, gap analysis,
+    and document the findings; and * Document vision and recommendations for future
+    BDGMM standards activities that could have a significant industry impact. Within
+    the multitude of best practices and standards applicable to BDGMM-related technology,
+    this document focuses on approaches that: (1) apply to situations encountered
+    in BDGMM; (2) explore best BDGMM architectures that may be nonexistent, and (3)
+    facilitate addressing BDGMM industry use cases’ needs.'
   language:
   - en
   script:
@@ -63,12 +70,15 @@ copyright:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+  - name:
+    - content: ISTO
   from: '2020'
 keyword:
-- content: DoD learning
-- content: ICICLE
-- content: Industry Connections proceeding
-- content: learning engineering
+- content: BDGMM
+- content: big data
+- content: big data governance
+- content: metadata
+- content: standards roadmap
 doctype: standard
 editorialgroup:
   committee:

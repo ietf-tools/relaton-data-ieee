@@ -47,10 +47,10 @@ language:
 script:
 - Latn
 abstract:
-- content: Information of special relevance to the field testing of newly installed,
-    gas-insulated substations (GIS) is provided in this guide, which is intended to
-    supplement IEEE Std C37.122(TM). This guide is applicable to all GIS above 52
-    kV. This guide is applicable to all gas-insulated substations (GIS) above 52 kV.
+- content: Information of special relevance to field testing of newly installed gas-insulated
+    substations (GIS) is provided in this guide, which is intended to supplement IEEE
+    Std C37.122(TM). This guide is applicable to all gas-insulated substations (GIS)
+    above 52 kV.
   language:
   - en
   script:
@@ -73,6 +73,7 @@ keyword:
 - content: Substations
 - content: Switchgear
 - content: Metal enclosures
+- content: IEEE C37.122
 - content: gas-insulated metal-enclosed switchgear
 - content: gas-insulated substation
 - content: gas-insulated switchgear
@@ -81,7 +82,6 @@ keyword:
 - content: GIS equipment
 - content: GIS installation
 - content: GIS testing
-- content: IEEE C37.122.7
 - content: SF6
 - content: sulfur hexafluoride
 doctype: standard
@@ -90,7 +90,7 @@ editorialgroup:
   - Substations of the IEEE Power and Energy Society
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

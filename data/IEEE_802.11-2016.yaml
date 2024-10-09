@@ -38,6 +38,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2016-12-16'
@@ -50,8 +54,7 @@ abstract:
     local area networks (WLANs) as well as enhancements to the existing medium access
     control (MAC) and physical layer (PHY) functions are specified in this revision.
     Amendments 1 to 5 published in 2012 and 2013 have also been incorporated into
-    this revision.(The PDF of this standard is available at no cost compliments of
-    the IEEE GET program http://ieeexplore.ieee.org/browse/standards/get-program/page/)
+    this revision.
   language:
   - en
   script:
@@ -66,6 +69,87 @@ copyright:
     url: http://www.ieee.org
   from: '2016'
 relation:
+- type: obsoletedBy
+  bibitem:
+    id: IEEE802.11-2020
+    docid:
+    - id: IEEE 802.11-2020
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.11-2020
+      format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.11-2012
+    docid:
+    - id: IEEE 802.11-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.11-2012
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE802.11-2020
+    docid:
+    - id: IEEE 802.11-2020
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.11-2020
+      format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.11-2012
+    docid:
+    - id: IEEE 802.11-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.11-2012
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE802.11-2020
+    docid:
+    - id: IEEE 802.11-2020
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.11-2020
+      format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.11-2012
+    docid:
+    - id: IEEE 802.11-2012
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.11-2012
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: obsoletedBy
   bibitem:
     id: IEEE802.11-2020

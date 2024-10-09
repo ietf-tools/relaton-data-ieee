@@ -3,7 +3,7 @@ schema-version: v1.2.3
 id: IEEE1785.2-2016
 title:
 - content: 'IEEE Standard for Rectangular Metallic Waveguides and Their Interfaces
-    for Frequencies of 110 GHz and Above--Part 2: Waveguide Interfaces'
+    for Frequencies of 110 GHz and Above—Part 2: Waveguide Interfaces'
   format: text/plain
   type: main
 link:
@@ -24,8 +24,6 @@ docid:
   type: DOI
 docnumber: IEEE 1785.2-2016
 date:
-- type: updated
-  value: '2016-09-23'
 - type: created
   value: '2016'
 - type: published
@@ -39,6 +37,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2016-09-09'
@@ -75,7 +77,7 @@ keyword:
 - content: Microwave theory and techniques
 - content: Metallic waveguides
 - content: Millimeter wave communication
-- content: IEEE 1785.2(TM)
+- content: IEEE 1785.2&#8482;
 - content: millimeter-wave
 - content: rectangular waveguides
 - content: submillimeter-wave
@@ -87,6 +89,9 @@ doctype: standard
 editorialgroup:
   committee:
   - IEEE Microwave Theory and Techniques Society
+ics:
+- code: 01.040.11
+  text: Health care technology (Vocabularies)
 ext:
   schema-version: v1.0.0
   standard_status: Active

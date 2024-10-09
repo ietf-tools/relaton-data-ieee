@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2021-08-23'
 - type: issued
-  value: '2022-02-09'
+  value: '2021'
 contributor:
 - organization:
     name:
@@ -46,18 +46,6 @@ language:
 - en
 script:
 - Latn
-abstract:
-- content: Wearable Consumer Electronic Devices (Wearables) are given an overview,
-    terminology, and categorization in this standard. An architecture for a series
-    of standard specifications that define technical requirements and testing methods
-    for different aspects of wearables--from basic security and suitableness of wear
-    to various functional areas, such as health, fitness, and infotainment--is further
-    outlined.
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -76,26 +64,25 @@ keyword:
 - content: Information security
 - content: Classification
 - content: Reliability
-- content: application
-- content: architecture
+- content: wearable
 - content: classification
-- content: IEEE 360
+- content: architecture
+- content: safety
 - content: information security
 - content: reliability
-- content: safety
-- content: software
-- content: wearable
 - content: wireless
+- content: software
+- content: application
 doctype: standard
 editorialgroup:
   committee:
-  - Emerging Technology Standards Committee of the IEEE Consumer Technology Society
+  - Standards Committee of the IEEE Consumer Technology Society
 ics:
 - code: 01.040.11
   text: Health care technology (Vocabularies)
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

@@ -105,6 +105,23 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE765-2006
+    docid:
+    - id: IEEE 765-2006
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 765-2006
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE standards
 - content: AC machines
@@ -130,7 +147,7 @@ ics:
   text: Nuclear power plants. Safety
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Superseded
   standard_modified: Redline
   pubstatus: Active
   holdstatus: Publish

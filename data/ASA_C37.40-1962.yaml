@@ -8,7 +8,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8684451
+- content: https://ieeexplore.ieee.org/document/7442730
   type: src
 type: standard
 docid:
@@ -21,14 +21,16 @@ docid:
   primary: true
 - id: 978-1-5044-0488-4
   type: ISBN
-- id: 10.1109/IEEESTD.1961.8684451
+- id: 10.1109/IEEESTD.1962.7442730
   type: DOI
 docnumber: ASA C37.40-1962
 date:
+- type: updated
+  value: '2016-04-15'
 - type: created
-  value: '1961-11-30'
+  value: '1962'
 - type: published
-  value: '2019-04-05'
+  value: '2016-03-29'
 - type: issued
   value: '1962'
 contributor:
@@ -40,11 +42,28 @@ contributor:
     url: http://www.ieee.org
   role:
   - type: publisher
-revdate: '2019-04-05'
+revdate: '2016-03-29'
 language:
 - en
 script:
 - Latn
+abstract:
+- content: 'This standard applies to high voltage fuses (above 600 volts), secondary
+    fuses, distribution enclosed single-pole air switches, and accessories, as follows:
+    (1) Enclosed, open, and open-link types of distribution cutouts and fuses for
+    alternating-current distribution systems. (2) Secondary fuses, 600 volts and below,
+    used on supply circuits. Cartridge-type fuses, rated 600 volts and below, and
+    screw plug fuses are not included. (3) Distribution oil cutouts. (4) Distribution
+    enclosed single-pole air switches. (5) Power fuses for systems or circuits above
+    600 volts. (6) Outdoor and indoor fuse disconnecting switches. (7) Fuse supports,
+    fuse mountings, fuse hooks, fuse tongs, and fuse links, all of the type used exclusively
+    with products listed in (1), (2), (3), (4), (5), and (6). (8) Removable switch
+    blades for products listed in (1) and (3).'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 copyright:
 - owner:
   - name:
@@ -55,6 +74,12 @@ copyright:
   - name:
     - content: ASA
   from: '1962'
+keyword:
+- content: ASA Standards
+- content: Power distribution
+- content: Fuses
+- content: Switching systems
+- content: Terminology
 doctype: standard
 ext:
   schema-version: v1.0.0

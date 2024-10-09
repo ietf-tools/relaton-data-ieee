@@ -24,12 +24,10 @@ docid:
   type: DOI
 docnumber: IEEE C37.30.1-2011
 date:
-- type: updated
-  value: '2012-04-20'
 - type: created
   value: '2012'
 - type: published
-  value: '2013-10-01'
+  value: '2012-04-03'
 - type: issued
   value: '2011-12-07'
 contributor:
@@ -39,9 +37,13 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
-revdate: '2013-10-01'
+revdate: '2012-04-03'
 language:
 - en
 script:
@@ -59,9 +61,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -88,7 +87,7 @@ ics:
   text: High voltage switchgear and controlgear
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Inactive
+  standard_modified: Reserved
   pubstatus: Active
   holdstatus: Publish

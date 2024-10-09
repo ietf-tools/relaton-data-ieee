@@ -24,8 +24,6 @@ docid:
   type: DOI
 docnumber: IEEE 45.3-2015
 date:
-- type: updated
-  value: '2015-08-21'
 - type: created
   value: '2015'
 - type: published
@@ -39,6 +37,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2015-07-30'
@@ -90,10 +92,10 @@ keyword:
 doctype: standard
 editorialgroup:
   committee:
-  - Petroleum &amp; Chemical Industry of the IEEE Industry Applications Society
+  - Petroleum and Chemical Industry of the IEEE Industry Applications Society
 ics:
 - code: 47.020.60
-  text: Electrical equipment for ships or marine structures
+  text: Electrical equipment of ships and of marine structures
 ext:
   schema-version: v1.0.0
   standard_status: Active

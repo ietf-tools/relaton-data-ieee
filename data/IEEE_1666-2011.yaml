@@ -23,12 +23,10 @@ docid:
   type: DOI
 docnumber: IEEE 1666-2011
 date:
-- type: updated
-  value: '2012-03-19'
 - type: created
   value: '2012-01-09'
 - type: published
-  value: '2013-08-15'
+  value: '2012-01-18'
 - type: issued
   value: '2011-09-10'
 contributor:
@@ -38,9 +36,13 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
-revdate: '2013-08-15'
+revdate: '2012-01-18'
 language:
 - en
 script:
@@ -59,9 +61,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -70,24 +69,6 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '2012'
-relation:
-- type: updates
-  bibitem:
-    id: IEEE1666-2005
-    docid:
-    - id: IEEE 1666-2005
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1666-2005
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Computer languages
@@ -123,7 +104,7 @@ ics:
   text: Software
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Inactive
+  standard_modified: Reserved
   pubstatus: Active
   holdstatus: Publish

@@ -75,16 +75,6 @@ copyright:
     url: http://www.ieee.org
   from: '2016'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE1647-2019
-    docid:
-    - id: IEEE 1647-2019
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1647-2019
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEE1647-2011
@@ -102,6 +92,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE1647-2019
+    docid:
+    - id: IEEE 1647-2019
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1647-2019
+      format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Computer languages

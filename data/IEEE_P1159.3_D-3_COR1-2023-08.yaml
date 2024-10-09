@@ -47,12 +47,11 @@ language:
 script:
 - Latn
 abstract:
-- content: 'IEEE Std 1159.3&#8482;-2019 specifies the Power Quality Data Interchange
-    Format (PQDIF), which is a file format suitable for exchanging power quality related
-    measurement and simulation data in a vendor-independent manner. Two critical “tags”
-    to Table B.6 that were recommended in IEEE Std 1159.3-2003 but removed in IEEE
-    Std 1159.3-2019: tagChannelDefnIdx and tagChannelGroupID are reinstated in this
-    corrigendum.'
+- content: 'IEEE Std 1159.3-2019 specifies the Power Quality Data Interchange Format
+    (PQDIF), which is a file format suitable for exchanging power quality related
+    measurement and simulation data in a vendor-independent manner. This corrigendum
+    reinstates two critical “tags” to Table B.6 that were recommended in IEEE Std
+    1159.3-2003 but removed in IEEE Std 1159.3-2019: tagChannelDefnIdx and tagChannelGroupID'
   language:
   - en
   script:
@@ -104,6 +103,57 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1159.3-2019
+    docid:
+    - id: IEEE 1159.3-2019
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1159.3-2019
+      format: text/plain
+  description:
+    content: corrects
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1159.3-2019
+    docid:
+    - id: IEEE 1159.3-2019
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1159.3-2019
+      format: text/plain
+  description:
+    content: corrects
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE1159.3-2019
+    docid:
+    - id: IEEE 1159.3-2019
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1159.3-2019
+      format: text/plain
+  description:
+    content: corrects
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Information exchange
@@ -112,7 +162,7 @@ keyword:
 - content: Power quality
 - content: data interchange
 - content: file format
-- content: IEEE 1159.3&#8482;
+- content: IEEE 1159.3
 - content: measurement
 - content: monitoring
 - content: power quality
@@ -128,7 +178,7 @@ ics:
   text: IT applications in trade
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

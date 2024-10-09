@@ -24,6 +24,8 @@ docid:
   type: DOI
 docnumber: IEEE C37.012a-2020
 date:
+- type: updated
+  value: '2020-09-11'
 - type: created
   value: '2020-08-07'
 - type: published
@@ -59,6 +61,9 @@ abstract:
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -124,6 +129,7 @@ ics:
   text: Switches
 ext:
   schema-version: v1.0.0
-  standard_status: Superseded
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

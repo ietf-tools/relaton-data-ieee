@@ -69,16 +69,6 @@ copyright:
     url: http://www.ieee.org
   from: '1996'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE382-2006
-    docid:
-    - id: IEEE 382-2006
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 382-2006
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEE382-1985
@@ -106,23 +96,16 @@ relation:
     formattedref:
       content: IEEE 382-2006
       format: text/plain
-- type: updates
+- type: obsoletedBy
   bibitem:
-    id: IEEE382-1985
+    id: IEEE382-2006
     docid:
-    - id: IEEE 382-1985
+    - id: IEEE 382-2006
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE 382-1985
+      content: IEEE 382-2006
       format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE standards
 - content: Valves

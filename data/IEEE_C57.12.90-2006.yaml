@@ -68,6 +68,23 @@ copyright:
     url: http://www.ieee.org
   from: '2006'
 relation:
+- type: updates
+  bibitem:
+    id: IEEEC57.12.90-1999
+    docid:
+    - id: IEEE C57.12.90-1999
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C57.12.90-1999
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: obsoletedBy
   bibitem:
     id: IEEEC57.12.90-2010
@@ -95,23 +112,16 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
+- type: obsoletedBy
   bibitem:
-    id: IEEEC57.12.90-1999
+    id: IEEEC57.12.90-2010
     docid:
-    - id: IEEE C57.12.90-1999
+    - id: IEEE C57.12.90-2010
       type: IEEE
       primary: true
     formattedref:
-      content: IEEE C57.12.90-1999
+      content: IEEE C57.12.90-2010
       format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: tests
 - content: transformers

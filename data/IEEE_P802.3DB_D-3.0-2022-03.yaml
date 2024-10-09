@@ -28,7 +28,7 @@ date:
 - type: published
   value: '2022-03-04'
 - type: issued
-  value: '2022-09-21'
+  value: '2022'
 contributor:
 - organization:
     name:
@@ -48,8 +48,8 @@ language:
 script:
 - Latn
 abstract:
-- content: This amendment to IEEE Std 802.3-2022 adds Physical Layer specifications
-    and management parameters for 100 Gb/s, 200 Gb/s, and 400 Gb/s Ethernet optical
+- content: This amendment to IEEE Std 802.3-202x adds Physical Layer specifications
+    and Management Parameters for 100 Gb/s, 200 Gb/s, and 400 Gb/s Ethernet optical
     interfaces based on 100 Gb/s per wavelength optical signaling over multimode fiber.
   language:
   - en
@@ -70,6 +70,40 @@ copyright:
 relation:
 - type: updates
   bibitem:
+    id: IEEE802.3-2018
+    docid:
+    - id: IEEE 802.3-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3-2018
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.3-2018
+    docid:
+    - id: IEEE 802.3-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3-2018
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
     id: IEEE802.3-2022
     docid:
     - id: IEEE 802.3-2022
@@ -77,142 +111,6 @@ relation:
       primary: true
     formattedref:
       content: IEEE 802.3-2022
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE802.3-2018
-    docid:
-    - id: IEEE 802.3-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.3-2018
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE802.3-2018
-    docid:
-    - id: IEEE 802.3-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.3-2018
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE802.3-2018
-    docid:
-    - id: IEEE 802.3-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.3-2018
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE802.3-2018
-    docid:
-    - id: IEEE 802.3-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.3-2018
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE802.3-2018
-    docid:
-    - id: IEEE 802.3-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.3-2018
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE802.3-2018
-    docid:
-    - id: IEEE 802.3-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.3-2018
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE802.3-2018
-    docid:
-    - id: IEEE 802.3-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.3-2018
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE802.3-2018
-    docid:
-    - id: IEEE 802.3-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.3-2018
       format: text/plain
   description:
     content: amends
@@ -229,26 +127,23 @@ keyword:
 - content: Ethernet
 - content: Forward error correction
 - content: Optical fiber communication
-- content: Gb/s Ethernet
-- content: 100GBASE-SR1
+- content: 100 Gb/s Ethernet
 - content: 100GBASE-VR1
+- content: 100GBASE-SR1
 - content: 200 Gb/s Ethernet
-- content: 200GBASE-SR2
 - content: 200GBASE-VR2
+- content: 200GBASE-SR2
 - content: 400 Gb/s Ethernet
-- content: 400GBASE-SR4
 - content: 400GBASE-VR4
-- content: amendment
+- content: 400GBASE-SR4
 - content: Energy-Efficient Ethernet (EEE)
 - content: Ethernet
 - content: forward error correction (FEC)
-- content: IEEE 802.3
-- content: IEEE 802.3cs
-- content: IEEE 802.3db
-- content: IEEE 802.3dd
-- content: multimode fiber (MMF)
+- content: IEEE 802.3TM
+- content: IEEE 802.3dbTM
 - content: PAM4
 - content: Physical Medium Dependent (PMD) sublayer
+- content: multimode fiber (MMF).
 doctype: standard
 editorialgroup:
   committee:

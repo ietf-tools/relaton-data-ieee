@@ -7,7 +7,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8684344
+- content: https://ieeexplore.ieee.org/document/7384647
   type: src
 type: standard
 docid:
@@ -20,14 +20,16 @@ docid:
   primary: true
 - id: 978-1-5044-0230-9
   type: ISBN
-- id: 10.1109/IEEESTD.1964.8684344
+- id: 10.1109/IEEESTD.1965.7384647
   type: DOI
 docnumber: IEEE 259-1965
 date:
+- type: updated
+  value: '2016-02-03'
 - type: created
-  value: '1964-12-31'
+  value: '1965-01-16'
 - type: published
-  value: '2019-04-05'
+  value: '2016-01-18'
 - type: issued
   value: '1965'
 contributor:
@@ -39,11 +41,29 @@ contributor:
     url: http://www.ieee.org
   role:
   - type: publisher
-revdate: '2019-04-05'
+revdate: '2016-01-18'
 language:
 - en
 script:
 - Latn
+abstract:
+- content: The object of this Test Procedure is to establish a method for estimating
+    by comparison the life expectancy of specialty transformer insulation systems
+    under actual operating conditions. The electrical insulation of specialty transformers
+    is made up of many different components selected to withstand the widely different
+    electric, mechanical, and thermal stresses occurring in different parts of the
+    structure. How long an insulation system will be serviceable depends on the effectiveness
+    of the physical support for the insulation, and the severity of the forces acting
+    on it, as well as on the materials themselves and the service environment. Therefore,
+    the length of useful life of the insulation system will depend on the way that
+    its individual components are arranged, their interactions upon each other, and
+    the contribution of each component to the electrical and mechanical integrity
+    of the system.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 copyright:
 - owner:
   - name:
@@ -52,6 +72,12 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '1965'
+keyword:
+- content: IEEE Standards
+- content: Performance evaluation
+- content: Insulation
+- content: Transformers
+- content: Power transformers
 doctype: standard
 ext:
   schema-version: v1.0.0

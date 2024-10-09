@@ -65,16 +65,6 @@ copyright:
     url: http://www.ieee.org
   from: '1997'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEEC37.59-2002
-    docid:
-    - id: IEEE C37.59-2002
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.59-2002
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEEC37.59-1991
@@ -92,6 +82,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEEC37.59-2002
+    docid:
+    - id: IEEE C37.59-2002
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C37.59-2002
+      format: text/plain
 keyword:
 - content: Switchgear
 - content: conversion

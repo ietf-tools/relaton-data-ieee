@@ -68,16 +68,6 @@ copyright:
     url: http://www.ieee.org
   from: '2004'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE187-2018
-    docid:
-    - id: IEEE 187-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 187-2018
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEE187-1990
@@ -95,6 +85,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE187-2018
+    docid:
+    - id: IEEE 187-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 187-2018
+      format: text/plain
 keyword:
 - content: TV broadcasting
 - content: TV interference

@@ -24,10 +24,10 @@ docid:
   type: DOI
 docnumber: IEEE 1702-2011
 date:
-- type: updated
-  value: '2011-11-07'
 - type: created
   value: '2011'
+- type: published
+  value: '2011-03-07'
 - type: issued
   value: '2011-02-02'
 contributor:
@@ -37,8 +37,13 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
+revdate: '2011-03-07'
 language:
 - en
 script:
@@ -55,9 +60,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -79,7 +81,7 @@ keyword:
 doctype: standard
 editorialgroup:
   committee:
-  - SCC31 - Automatic Meter Reading and Energy Management
+  - IEEE-SASB Coordinating Committees
 ics:
 - code: 33.040.20
   text: Transmission systems
@@ -87,7 +89,7 @@ ics:
   text: IT applications in other fields
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Inactive
+  standard_modified: Reserved
   pubstatus: Active
   holdstatus: Publish

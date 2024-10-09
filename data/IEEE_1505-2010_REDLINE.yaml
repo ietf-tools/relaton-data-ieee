@@ -24,8 +24,6 @@ docid:
   type: ISBN
 docnumber: IEEE 1505-2010 Redline
 date:
-- type: updated
-  value: '2011-11-07'
 - type: created
   value: '2010-11-15'
 - type: published
@@ -39,6 +37,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2013-08-15'
@@ -113,13 +115,13 @@ keyword:
 doctype: redline
 editorialgroup:
   committee:
-  - SCC20 - Test and Diagnosis for Electronic Systems
+  - IEEE-SASB Coordinating Committees
 ics:
 - code: 31.220.10
-  text: Plug-and-socket devices
+  text: Plug-and-socket devices. Connectors
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Redline
   pubstatus: Active
   holdstatus: Publish

@@ -23,8 +23,6 @@ docid:
   type: DOI
 docnumber: IEEE 1887-2017
 date:
-- type: updated
-  value: '2017-04-07'
 - type: created
   value: '2017'
 - type: published
@@ -38,6 +36,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2017-03-21'
@@ -89,7 +91,10 @@ keyword:
 doctype: standard
 editorialgroup:
   committee:
-  - Rail Transportation Standards Committee of the IEEE Vehicular Technology Society
+  - Traction Power Systems Standards Committee of the IEEE Vehicular Technology Society
+ics:
+- code: 01.040.11
+  text: Health care technology (Vocabularies)
 ext:
   schema-version: v1.0.0
   standard_status: Active

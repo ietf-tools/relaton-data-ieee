@@ -24,8 +24,6 @@ docid:
   type: DOI
 docnumber: IEEE 1775-2010
 date:
-- type: updated
-  value: '2011-01-28'
 - type: created
   value: '2011-01-07'
 - type: published
@@ -39,6 +37,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2012-04-27'
@@ -57,9 +59,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -92,7 +91,7 @@ keyword:
 doctype: standard
 editorialgroup:
   committee:
-  - Power System Communications of the IEEE Power &amp; Energy Society
+  - IEEE Power and Energy Society
 ics:
 - code: 33.040.60
   text: Powerline telecommunications
@@ -100,7 +99,7 @@ ics:
   text: Immunity
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Inactive
+  standard_modified: Reserved
   pubstatus: Active
   holdstatus: Publish

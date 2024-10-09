@@ -24,6 +24,8 @@ docid:
   type: DOI
 docnumber: IEEE 802.3cn-2019
 date:
+- type: updated
+  value: '2020-03-20'
 - type: created
   value: '2019-12-20'
 - type: published
@@ -57,6 +59,9 @@ abstract:
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -66,16 +71,6 @@ copyright:
     url: http://www.ieee.org
   from: '2019'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE-ISO-IEC8802.3-Amd4-2021
-    docid:
-    - id: IEEE/ISO/IEC 8802.3/Amd4-2021
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE/ISO/IEC 8802.3/Amd4-2021
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEE802.3-2018
@@ -147,6 +142,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Superseded
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

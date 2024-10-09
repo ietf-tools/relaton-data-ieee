@@ -2,12 +2,12 @@
 schema-version: v1.2.3
 id: IEEE1138-1994
 title:
-- content: IEEE Standard Construction of Composite Fiber Optic Overhead Ground Wire
-    (OPGW) for Use on Electric
+- content: IEEE Standard Construction of Composite Fiber Optic Groundwire (OPGW) for
+    Use on Electric Utility Power Lines
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/392619
+- content: https://ieeexplore.ieee.org/document/8684633
   type: src
 type: standard
 docid:
@@ -20,12 +20,14 @@ docid:
   primary: true
 - id: 978-0-7381-0893-3
   type: ISBN
-- id: 10.1109/IEEESTD.1994.121449
+- id: 10.1109/IEEESTD.1993.8684633
   type: DOI
 docnumber: IEEE 1138-1994
 date:
 - type: created
-  value: '1994'
+  value: '1993-11-30'
+- type: published
+  value: '2019-04-05'
 - type: issued
   value: '1994-03-17'
 contributor:
@@ -41,10 +43,20 @@ contributor:
         country: USA
   role:
   - type: publisher
+revdate: '2019-04-05'
 language:
 - en
 script:
 - Latn
+abstract:
+- content: The construction, mechanical and electrical performance, installation guidelines,
+    acceptance criteria, and test requirements for a composite overhead ground wire
+    with optical fibers, commonly known as OPGW are discussed.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 copyright:
 - owner:
   - name:
@@ -64,6 +76,14 @@ relation:
     formattedref:
       content: IEEE 1138-2009
       format: text/plain
+keyword:
+- content: fiber optic cable
+- content: multimode fiber
+- content: optical cable
+- content: optical ground wire
+- content: single-mode fiber
+- content: Stranded metallic wires
+- content: Rated breaking strength
 doctype: standard
 editorialgroup:
   committee:

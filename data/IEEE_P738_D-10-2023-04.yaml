@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: IEEEP738-D-10-2023-04
 title:
-- content: IEEE Draft Standard for Calculating the Current-Temperature Relationship
+- content: IEEE Approved Draft Standard for Calculating the Current-Temperature Relationship
     of Bare Overhead Conductors
   format: text/plain
   type: main
@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2023-04-21'
 - type: issued
-  value: '2023'
+  value: '2023-06-29'
 contributor:
 - organization:
     name:
@@ -46,6 +46,19 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: A numerical method by which the core and surface temperatures of a bare
+    overhead conductor are related to the steady or time-varying electrical current
+    and weather conditions is described in this standard. Contents discussed also
+    include how this method may be used to determine the conductor’s current for a
+    corresponding conductor temperature limit. Please note the content in this standard
+    does not recommend suitable weather conditions or conductor parameters for use
+    in line rating calculations.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -160,68 +173,17 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE738-2012
-    docid:
-    - id: IEEE 738-2012
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 738-2012
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE738-2012
-    docid:
-    - id: IEEE 738-2012
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 738-2012
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE738-2012
-    docid:
-    - id: IEEE 738-2012
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 738-2012
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Conductors
 - content: Power transmission lines
 - content: Temperature measurement
 - content: Current distribution
+- content: ampacity
 - content: bare overhead lines
 - content: current-temperature relationship
-- content: line ratings
-- content: ampacity
 - content: IEEE 738&#8482;
+- content: line ratings
 doctype: standard
 editorialgroup:
   committee:
@@ -231,7 +193,7 @@ ics:
   text: Power transmission and distribution lines
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

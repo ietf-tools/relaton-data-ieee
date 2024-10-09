@@ -6,7 +6,7 @@ title:
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/8684428
+- content: https://ieeexplore.ieee.org/document/7431921
   type: src
 type: standard
 docid:
@@ -19,14 +19,16 @@ docid:
   primary: true
 - id: 978-1-5044-0404-4
   type: ISBN
-- id: 10.1109/IEEESTD.1957.8684428
+- id: 10.1109/IEEESTD.1958.7431921
   type: DOI
 docnumber: IEEE 62-1958
 date:
+- type: updated
+  value: '2016-04-01'
 - type: created
-  value: '1957-11-30'
+  value: '1958'
 - type: published
-  value: '2019-04-05'
+  value: '2016-03-11'
 - type: issued
   value: '1958'
 contributor:
@@ -38,11 +40,23 @@ contributor:
     url: http://www.ieee.org
   role:
   - type: publisher
-revdate: '2019-04-05'
+revdate: '2016-03-11'
 language:
 - en
 script:
 - Latn
+abstract:
+- content: The primary purpose of this Guide is to present and discuss the applicability
+    and limitations of the various measurement methods now in use, or available, for
+    testing the electrical insulation of power apparatus in the field. The purpose
+    of this Guide is also to consider the special conditions encountered in field
+    testing, and their effect on instruments, methods and procedures for making tests
+    on the electrical insulation of power apparatus.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 copyright:
 - owner:
   - name:
@@ -51,6 +65,10 @@ copyright:
       content: IEEE
     url: http://www.ieee.org
   from: '1958'
+keyword:
+- content: IEEE Standards
+- content: Dielectric measurements
+- content: Field measurements
 doctype: standard
 ext:
   schema-version: v1.0.0

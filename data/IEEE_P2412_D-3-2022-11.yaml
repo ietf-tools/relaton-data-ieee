@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2023-02-17'
 - type: issued
-  value: '2023'
+  value: '2023-06-29'
 contributor:
 - organization:
     name:
@@ -48,14 +48,14 @@ script:
 - Latn
 abstract:
 - content: Standardization of circuit integrity cable testing is beneficial to cable
-    manufactures, distributors, and users. Uniform procedures, consistent, repeatable
+    manufacturers, distributors, and users. Uniform procedures, consistent, repeatable
     results, and measurable test acceptance criteria are required to allow comparisons
     among competing products and to allow selection of the correct product for the
     application. In a tunnel environment, electrical cables are relied upon to operate
-    life safety systems. Circuit integrity cables serve as fire-resistive protection
+    life safety systems. Circuit integrity cables serve as fire resistive protection
     for electrical circuits. Circuit integrity cables are expected to protect the
     electrical circuit from the effects of severe fire conditions to allow emergency
-    lighting, emergency ventilation and other life safety circuits to remain functional
+    lighting, emergency ventilation, and other life safety circuits to remain functional
     for the required time for safe evacuation of occupants and aid first responders.
   language:
   - en
@@ -88,10 +88,10 @@ keyword:
 - content: Fires
 - content: cable
 - content: circuit integrity
-- content: vertical furnace
-- content: IEEE 2412
-- content: motor operated dampers
 - content: emergency lighting
+- content: IEEE 2412&#8482;
+- content: motor operated dampers
+- content: vertical furnace
 - content: safety systems
 - content: test protocol
 - content: wire
@@ -99,6 +99,9 @@ doctype: standard
 editorialgroup:
   committee:
   - Insulated Conductors of the IEEE Power and Energy Society
+ics:
+- code: 29.060.01
+  text: Electrical wires and cables in general
 ext:
   schema-version: v1.0.0
   standard_status: Inactive

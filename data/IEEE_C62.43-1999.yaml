@@ -3,12 +3,12 @@ schema-version: v1.2.3
 id: IEEEC62.43-1999
 title:
 - content: IEEE Guide for the Application of Surge Protectors Used in Low-Voltage
-    (Equal to Or Less Than 1000 V/Sub Rms/ Or 1200 Vdc) Data, Communications, and
-    Signaling Circuits
+    (Less Than Or Equal To 1000 Vrms or 1200 Vdc) Data, Communications, and Signaling
+    Circuits
   format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/846711
+- content: https://ieeexplore.ieee.org/document/8684623
   type: src
 type: standard
 docid:
@@ -21,12 +21,14 @@ docid:
   primary: true
 - id: 978-0-7381-1838-3
   type: ISBN
-- id: 10.1109/IEEESTD.1999.91519
+- id: 10.1109/IEEESTD.2000.8684623
   type: DOI
 docnumber: IEEE C62.43-1999
 date:
 - type: created
-  value: '1999'
+  value: '2000-05-04'
+- type: published
+  value: '2019-04-05'
 - type: issued
   value: '1999-09-16'
 contributor:
@@ -42,16 +44,17 @@ contributor:
         country: USA
   role:
   - type: publisher
+revdate: '2019-04-05'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: Assistance is provided for the selection of the most appropriate type of
-    low-voltage data, communications, and/or signalling circuit surge protector for
-    a particular application or set of conditions. Surge protector functions and characteristics
-    are also explained and evaluated. AC power circuit applications are not addressed
-    in this document.
+- content: 'Superseded by IEEE Std C62.43-2005 Abstract: Assistance is provided for
+    the selection of the most appropriate type of low-voltage data,communications,
+    and/or signalling circuit surge protector for a particular application or set
+    ofconditions. Surge protector functions and characteristics are also explained
+    and evaluated. ACpower circuit applications are not addressed in this document.'
   language:
   - en
   script:
@@ -77,7 +80,12 @@ relation:
       content: IEEE C62.43-2004
       format: text/plain
 keyword:
-- content: Surge protection
+- content: breakdown voltage
+- content: communications circuits
+- content: data circuits
+- content: signaling circuits
+- content: surgeprotectors
+- content: surge-protective devices
 doctype: standard
 editorialgroup:
   committee:

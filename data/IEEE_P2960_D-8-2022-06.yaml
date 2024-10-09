@@ -25,9 +25,9 @@ date:
 - type: created
   value: '2022'
 - type: published
-  value: '2022-09-28'
+  value: '2022-09-27'
 - type: issued
-  value: '2022'
+  value: '2023-02-15'
 contributor:
 - organization:
     name:
@@ -41,19 +41,19 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-09-28'
+revdate: '2022-09-27'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: This guide applies to stationary Meter Test Units (MTUs) permanently installed
-    in laboratories, used for testing and calibration of direct current electrical
-    energy meters, in particular for their type test, acceptance test and verification
-    test. It covers the requirements for automatic MTUs and applies to newly manufactured
+- content: Stationary Meter Test Units (MTUs) permanently installed in laboratories,
+    used for testing and calibration of direct current electrical energy meters, in
+    particular for their type test, acceptance test, and verification test, are applied
+    to in this guide. The requirements for automatic MTUs and applies to newly manufactured
     MTUs to test electrical energy meters on direct current systems with a voltage
-    up to 1 500 V. Finally, it should be noted that the entire guide does not contain
-    normative requirements.
+    up to 1 500 V is covered. Finally, it should be noted that the entire guide does
+    not contain normative requirements
   language:
   - en
   script:
@@ -76,19 +76,22 @@ keyword:
 - content: Testing
 - content: Calibration
 - content: Voltage control
-- content: P2960
-- content: meter test units
-- content: direct current electrical energy meters
-- content: type test
 - content: acceptance test
-- content: verification test.
+- content: direct current electrical energy meters
+- content: IEEE 2960
+- content: meter test units
+- content: type test
+- content: verification test
 doctype: standard
 editorialgroup:
   committee:
   - Power System Instrumentation and Measurements of the IEEE Power and Energy Society
+ics:
+- code: 17.220.20
+  text: Measurement of electrical and magnetic quantities
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

@@ -24,12 +24,10 @@ docid:
   type: DOI
 docnumber: IEEE 1020-2011
 date:
-- type: updated
-  value: '2012-04-27'
 - type: created
   value: '2012'
 - type: published
-  value: '2013-08-15'
+  value: '2012-04-13'
 - type: issued
   value: '2011-12-07'
 contributor:
@@ -39,9 +37,13 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
-revdate: '2013-08-15'
+revdate: '2012-04-13'
 language:
 - en
 script:
@@ -54,9 +56,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -104,7 +103,7 @@ ics:
   text: Hydraulic energy engineering
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Inactive
+  standard_modified: Reserved
   pubstatus: Active
   holdstatus: Publish

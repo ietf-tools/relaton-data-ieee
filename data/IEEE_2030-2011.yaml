@@ -25,12 +25,10 @@ docid:
   type: DOI
 docnumber: IEEE 2030-2011
 date:
-- type: updated
-  value: '2011-11-07'
 - type: created
   value: '2011'
 - type: published
-  value: '2013-11-04'
+  value: '2011-09-12'
 - type: issued
   value: '2011-09-10'
 contributor:
@@ -40,9 +38,13 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
-revdate: '2013-11-04'
+revdate: '2011-09-12'
 language:
 - en
 script:
@@ -72,9 +74,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -122,7 +121,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Inactive
+  standard_modified: Reserved
   pubstatus: Active
   holdstatus: Publish

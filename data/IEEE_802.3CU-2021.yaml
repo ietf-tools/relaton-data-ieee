@@ -52,14 +52,15 @@ script:
 abstract:
 - content: This amendment to IEEE Std 802.3-2018 adds Physical Layer specifications
     and management parameters for 100 Gb/s and 400 Gb/s Ethernet optical interfaces
-    for reaches up to 10 km based on 100 Gb/s per wavelength optical signaling. (The
-    PDF of this standard is available to you at no cost compliments of the IEEE GET
-    program https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=68)
+    for reaches up to 10 km based on 100 Gb/s per wavelength optical signaling.
   language:
   - en
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -69,6 +70,91 @@ copyright:
     url: http://www.ieee.org
   from: '2021'
 relation:
+- type: updates
+  bibitem:
+    id: IEEE802.3-2018
+    docid:
+    - id: IEEE 802.3-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3-2018
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.3-2018
+    docid:
+    - id: IEEE 802.3-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3-2018
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.3-2018
+    docid:
+    - id: IEEE 802.3-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3-2018
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.3-2018
+    docid:
+    - id: IEEE 802.3-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3-2018
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE802.3-2018
+    docid:
+    - id: IEEE 802.3-2018
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 802.3-2018
+      format: text/plain
+  description:
+    content: amends
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 - type: obsoletedBy
   bibitem:
     id: ISO-IEC-IEEE8802.3
@@ -79,40 +165,6 @@ relation:
     formattedref:
       content: ISO/IEC/IEEE 8802.3
       format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE802.3-2018
-    docid:
-    - id: IEEE 802.3-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.3-2018
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEE802.3-2018
-    docid:
-    - id: IEEE 802.3-2018
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.3-2018
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: obsoletedBy
   bibitem:
     id: ISO-IEC-IEEE8802.3
@@ -196,6 +248,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Superseded
+  standard_status: Active
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2023-03-07'
 - type: issued
-  value: '2023'
+  value: '2023-08-08'
 contributor:
 - organization:
     name:
@@ -46,6 +46,16 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: Procedures and test values for testing and rating of electrical submersible
+    pump (ESP) motors as well as installation and handling practices are specified
+    in this document. The specified procedures and test values apply to ESP motor
+    systems rated 3kV through 8kV (phase to phase).
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -62,16 +72,20 @@ keyword:
 - content: Pumps
 - content: Underwater vehicles
 - content: Testing
-- content: Electrical Submersible Pump Motor
+- content: electrical submersible pump
+- content: electrical submersible pump motor
 - content: ESP
-- content: Motor
-- content: Induction
-- content: Electrical Submersible Pump
-- content: Submersible Motor
+- content: IEEE 1017.4&#8482;
+- content: induction
+- content: motor
+- content: submersible motor
 doctype: standard
 editorialgroup:
   committee:
   - Petroleum and Chemical Industry of the IEEE Industry Applications Society
+ics:
+- code: '23.080'
+  text: Pumps
 ext:
   schema-version: v1.0.0
   standard_status: Inactive

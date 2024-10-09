@@ -23,8 +23,6 @@ docid:
   type: DOI
 docnumber: IEEE 15288.2-2014
 date:
-- type: updated
-  value: '2015-05-29'
 - type: created
   value: '2015-05-15'
 - type: published
@@ -38,6 +36,10 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
 revdate: '2015-05-11'
@@ -103,8 +105,8 @@ editorialgroup:
   committee:
   - Software &amp; Systems Engineering Standards Committee of the IEEE Computer Society
 ics:
-- code: '35.080'
-  text: Software
+- code: 01.040.11
+  text: Health care technology (Vocabularies)
 ext:
   schema-version: v1.0.0
   standard_status: Active

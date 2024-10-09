@@ -68,16 +68,6 @@ copyright:
     url: http://www.ieee.org
   from: '1990'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE741-1997
-    docid:
-    - id: IEEE 741-1997
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 741-1997
-      format: text/plain
 - type: updates
   bibitem:
     id: ANSI-IEEE741-1986
@@ -95,6 +85,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE741-1997
+    docid:
+    - id: IEEE 741-1997
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 741-1997
+      format: text/plain
 keyword:
 - content: Failure analysis
 - content: Nuclear power generation

@@ -24,12 +24,10 @@ docid:
   type: DOI
 docnumber: IEEE C37.238-2017
 date:
-- type: updated
-  value: '2017-07-07'
 - type: created
   value: '2017'
 - type: published
-  value: '2017-06-17'
+  value: '2017-06-19'
 - type: issued
   value: '2017-03-23'
 contributor:
@@ -39,9 +37,13 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
-revdate: '2017-06-17'
+revdate: '2017-06-19'
 language:
 - en
 script:
@@ -339,159 +341,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC37.238-2011
-    docid:
-    - id: IEEE C37.238-2011
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.238-2011
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC37.238-2011
-    docid:
-    - id: IEEE C37.238-2011
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.238-2011
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC37.238-2011
-    docid:
-    - id: IEEE C37.238-2011
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.238-2011
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC37.238-2011
-    docid:
-    - id: IEEE C37.238-2011
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.238-2011
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC37.238-2011
-    docid:
-    - id: IEEE C37.238-2011
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.238-2011
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC37.238-2011
-    docid:
-    - id: IEEE C37.238-2011
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.238-2011
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC37.238-2011
-    docid:
-    - id: IEEE C37.238-2011
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.238-2011
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC37.238-2011
-    docid:
-    - id: IEEE C37.238-2011
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.238-2011
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-- type: updates
-  bibitem:
-    id: IEEEC37.238-2011
-    docid:
-    - id: IEEE C37.238-2011
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE C37.238-2011
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Protocols
@@ -502,8 +351,8 @@ keyword:
 - content: Synchrophasors
 - content: Clocks
 - content: grandmaster clock
-- content: IEEE 1588(TM)
-- content: IEEE C37.238(TM)
+- content: IEEE 1588&#8482;
+- content: IEEE C37.238&#8482;
 - content: power substation
 - content: precise time synchronization
 - content: Precision Time Protocol
@@ -515,7 +364,7 @@ keyword:
 doctype: standard
 editorialgroup:
   committee:
-  - Power System Relaying and Control of the IEEE Power and Energy Society
+  - IEEE Power and Energy Society
 ics:
 - code: 29.240.01
   text: Power transmission and distribution networks in general

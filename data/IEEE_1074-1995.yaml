@@ -67,16 +67,6 @@ copyright:
     url: http://www.ieee.org
   from: '1996'
 relation:
-- type: obsoletedBy
-  bibitem:
-    id: IEEE1074-1997
-    docid:
-    - id: IEEE 1074-1997
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 1074-1997
-      format: text/plain
 - type: updates
   bibitem:
     id: IEEE1074-1991
@@ -94,6 +84,16 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: obsoletedBy
+  bibitem:
+    id: IEEE1074-1997
+    docid:
+    - id: IEEE 1074-1997
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 1074-1997
+      format: text/plain
 keyword:
 - content: IEEE standards
 - content: Software maintenance

@@ -24,10 +24,10 @@ docid:
   type: DOI
 docnumber: IEEE 1733-2011
 date:
-- type: updated
-  value: '2011-11-07'
 - type: created
   value: '2011'
+- type: published
+  value: '2011-05-05'
 - type: issued
   value: '2011-03-31'
 contributor:
@@ -37,8 +37,13 @@ contributor:
     abbreviation:
       content: IEEE
     url: http://www.ieee.org
+    contact:
+    - address:
+        city: New York
+        country: USA
   role:
   - type: publisher
+revdate: '2011-05-05'
 language:
 - en
 script:
@@ -55,9 +60,6 @@ abstract:
   script:
   - Latn
   format: text/plain
-docstatus:
-  stage:
-    value: approved
 copyright:
 - owner:
   - name:
@@ -81,7 +83,7 @@ keyword:
 - content: RTCP
 - content: RTP
 - content: time-sensitive media streaming
-- content: timesynchronization
+- content: time synchronization
 doctype: standard
 editorialgroup:
   committee:
@@ -91,7 +93,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Active
-  standard_modified: Approved
+  standard_status: Inactive
+  standard_modified: Reserved
   pubstatus: Active
   holdstatus: Publish

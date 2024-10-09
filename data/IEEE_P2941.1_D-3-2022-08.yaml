@@ -2,7 +2,7 @@
 schema-version: v1.2.3
 id: IEEEP2941.1-D-3-2022-08
 title:
-- content: IEEE Draft Standard for Operator Interfaces of Artificial Intelligence
+- content: IEEE Approved Draft Standard for Operator Interfaces of Artificial Intelligence
   format: text/plain
   type: main
 link:
@@ -22,11 +22,11 @@ docid:
 docnumber: IEEE P2941.1/D-3-2022-08
 date:
 - type: created
-  value: '2022-08-10'
+  value: '2022-11-15'
 - type: published
   value: '2022-08-11'
 - type: issued
-  value: '2022'
+  value: '2022-11-08'
 contributor:
 - organization:
     name:
@@ -45,6 +45,19 @@ language:
 - en
 script:
 - Latn
+abstract:
+- content: A set of operator interfaces frequently used in artificial intelligence
+    (AI) applications is defined in this standard, where the AI operators refer to
+    the standard building blocks and primitives for performing basic AI operations.
+    The functionality and the specific input and output operands of an AI operator
+    are discussed, as well as both generality and efficiency. Various types of operators,
+    such as those related to basic mathematics, neural network, and machine learning,
+    are highlighted.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -63,18 +76,23 @@ keyword:
 - content: Neural networks
 - content: Mathematics
 - content: User interfaces
-- content: Artificial Intelligence
-- content: Operators
-- content: Basic Mathematics
-- content: Neural Network
-- content: Machine Learning
+- content: artificial intelligence
+- content: AI
+- content: basic mathematics
+- content: IEEE 2941.1
+- content: neural network
+- content: machine learning
+- content: operators
 doctype: standard
 editorialgroup:
   committee:
   - Data Compression Standards Committee of the IEEE Computer Society
+ics:
+- code: 35.240.01
+  text: Application of information technology in general
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

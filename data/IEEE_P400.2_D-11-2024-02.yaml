@@ -25,7 +25,7 @@ date:
 - type: created
   value: '2024-02-27'
 - type: published
-  value: '2024-02-29'
+  value: '2024-02-28'
 - type: issued
   value: '2024'
 contributor:
@@ -41,7 +41,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2024-02-29'
+revdate: '2024-02-28'
 language:
 - en
 script:
@@ -138,17 +138,24 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEE400.2-2013
+    docid:
+    - id: IEEE 400.2-2013
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE 400.2-2013
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
-- content: IEEE Standards
-- content: Cable insulation
-- content: Insulation testing
-- content: Low-frequency noise
-- content: AC motors
-- content: Voltage control
-- content: Spectroscopy
-- content: Grounding
-- content: Partial discharges
-- content: Safety devices
 - content: cable fault locating
 - content: cable system testing
 - content: cable testing

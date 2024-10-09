@@ -25,9 +25,9 @@ date:
 - type: created
   value: '2022-10-21'
 - type: published
-  value: '2022-10-26'
+  value: '2023-04-25'
 - type: issued
-  value: '2022'
+  value: '2023-02-15'
 contributor:
 - organization:
     name:
@@ -41,11 +41,28 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-10-26'
+revdate: '2023-04-25'
 language:
 - en
 script:
 - Latn
+abstract:
+- content: Recommendations for colored stripes and raised ridges as identification
+    markings on non-conducting and semiconducting underground power cable jackets
+    are provided in this guide. Typically, power cables are identified by red stripes;
+    however, other colors may be permitted. The guide also applies to the duct containing
+    jacketed or unjacketed underground power cables. The colored stripe recommendations
+    include the number of stripes, color, width, thickness, color retention characteristics,
+    physical properties, storage criteria, and test methods. The raised ridge recommendations
+    include physical properties, width, height, and circumferential spacing. It is
+    the intent of this guide to provide a minimum level of physical, chemical, and
+    color stability of colored stripes used to identify underground power cable jackets
+    and ducts.
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -76,10 +93,14 @@ relation:
     - Latn
     format: text/plain
 keyword:
-- content: power cables
-- content: stripes
-- content: raised ridges
+- content: IEEE Standards
+- content: Underground power cables
+- content: Ducts
 - content: identification markings
+- content: IEEE 1235
+- content: power cables
+- content: raised ridges
+- content: stripes
 doctype: standard
 editorialgroup:
   committee:
@@ -91,7 +112,7 @@ ics:
   text: Conduits for electrical purposes
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

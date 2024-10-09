@@ -28,7 +28,7 @@ date:
 - type: created
   value: '2024'
 - type: published
-  value: '2024-07-09'
+  value: '2024-07-10'
 - type: issued
   value: '2024'
 contributor:
@@ -44,28 +44,11 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2024-07-09'
+revdate: '2024-07-10'
 language:
 - en
 script:
 - Latn
-abstract:
-- content: This amendment specifies modifications to the IEEE Std 802.11 medium access
-    control (MAC) sublayer mechanisms to preserve the existing services that might
-    otherwise be restricted in environments where STAs in an extended service set
-    (ESS) use randomized or changing MAC addresses, without affecting the privacy
-    of the users corresponding to the STAs. User privacy includes exposure of trackable
-    information to third parties or exposure of an individual’s presence of behavior.
-    This amendment introduces mechanisms to enable session continuity in the absence
-    of unique MAC address-to-STA mapping. For STAs in an ESS that use randomized or
-    changing MAC addresses, this amendment preserves the ability to provide customer
-    support, conduct network diagnostics and troubleshooting, and detect device arrival
-    in a trusted environment
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -78,23 +61,6 @@ copyright:
     url: http://www.ieee.org
   from: '2024'
 relation:
-- type: updates
-  bibitem:
-    id: IEEE802.11-2020
-    docid:
-    - id: IEEE 802.11-2020
-      type: IEEE
-      primary: true
-    formattedref:
-      content: IEEE 802.11-2020
-      format: text/plain
-  description:
-    content: amends
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 - type: updates
   bibitem:
     id: IEEE802.11-2020
@@ -131,7 +97,7 @@ ics:
   text: Networking
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

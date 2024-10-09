@@ -47,10 +47,10 @@ language:
 script:
 - Latn
 abstract:
-- content: Terms associated with electromagnetic compatibility and electromagnetic
-    environmental effects are defined including electromagnetic pulse and electrostatic
-    discharge terms. Quantities, units, multiplying factors, symbols, and abbreviations
-    are covered.
+- content: Terms associated with electromagnetic compatibility (EMC) and electromagnetic
+    environmental effects (E3) are defined including electromagnetic pulse (EMP) and
+    electrostatic discharge (ESD) terms. Quantities, units, multiplying factors, symbols,
+    and abbreviations are covered.
   language:
   - en
   script:
@@ -92,23 +92,6 @@ relation:
     script:
     - Latn
     format: text/plain
-- type: updates
-  bibitem:
-    id: ANSIC63.14-2014
-    docid:
-    - id: ANSI C63.14-2014
-      type: IEEE
-      primary: true
-    formattedref:
-      content: ANSI C63.14-2014
-      format: text/plain
-  description:
-    content: revises
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Dictionaries
@@ -117,15 +100,11 @@ keyword:
 - content: Environmental factors
 - content: EMP radiation effects
 - content: Electrostatic discharges
-- content: ANSI C63.14
-- content: electromagnetic compatibility
-- content: electromagnetic environmental effects
-- content: electromagnetic pulse
-- content: electrostatic discharge
-- content: E3
-- content: EMC
-- content: EMP
-- content: ESD
+- content: C63.14
+- content: electromagnetic compatibility (EMC)
+- content: electromagnetic environmental effects (E3)
+- content: electromagnetic pulse (EMP)
+- content: electrostatic discharge (ESD)
 doctype: standard
 editorialgroup:
   committee:
@@ -137,7 +116,7 @@ ics:
   text: Electromagnetic compatibility in general
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

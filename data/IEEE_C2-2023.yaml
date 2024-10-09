@@ -4,12 +4,9 @@ id: IEEEC2-2023
 title:
 - content: 2023 National Electrical Safety Code® (NESC®)
   format: text/plain
-  type: title-main
-- content: 2023 National Electrical Safety Code® (NESC®) - Redline
-  format: text/plain
   type: main
 link:
-- content: https://ieeexplore.ieee.org/document/9856620
+- content: https://ieeexplore.ieee.org/document/9825487
   type: src
 type: standard
 docid:
@@ -20,14 +17,16 @@ docid:
   type: IEEE
   scope: trademark
   primary: true
-- id: 978-1-5044-8435-0
+- id: 978-1-5044-8421-3
   type: ISBN
+- id: 10.1109/IEEESTD.2022.9825487
+  type: DOI
 docnumber: IEEE C2-2023
 date:
 - type: created
   value: '2022-08-01'
 - type: published
-  value: '2022-08-14'
+  value: '2022-07-08'
 - type: issued
   value: '2022'
 contributor:
@@ -43,7 +42,7 @@ contributor:
         country: USA
   role:
   - type: publisher
-revdate: '2022-08-14'
+revdate: '2022-07-08'
 language:
 - en
 script:
@@ -61,6 +60,9 @@ abstract:
   script:
   - Latn
   format: text/plain
+docstatus:
+  stage:
+    value: approved
 copyright:
 - owner:
   - name:
@@ -87,23 +89,181 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC2-2017
+    docid:
+    - id: IEEE C2-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C2-2017
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC2-2017
+    docid:
+    - id: IEEE C2-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C2-2017
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC2-2017
+    docid:
+    - id: IEEE C2-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C2-2017
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC2-2017
+    docid:
+    - id: IEEE C2-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C2-2017
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC2-2017
+    docid:
+    - id: IEEE C2-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C2-2017
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC2-2017
+    docid:
+    - id: IEEE C2-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C2-2017
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC2-2017
+    docid:
+    - id: IEEE C2-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C2-2017
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC2-2017
+    docid:
+    - id: IEEE C2-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C2-2017
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: IEEEC2-2017
+    docid:
+    - id: IEEE C2-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: IEEE C2-2017
+      format: text/plain
+  description:
+    content: revises
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: Electrical safety
-- content: Codes
+- content: NFPA
 - content: communications industry safety; construction of communication lines; construction
     of electric supply lines; electrical safety; electric supply stations; electric
     utility stations; high-voltage safety; NESC; National Electrical Safety Code;
     operation of communications sys­tems; operation of electric supply systems; power
     station equipment; power station safety; public utility safety; safety work rules;
     underground communication line safety; underground electric line safety.
-doctype: redline
+doctype: standard
 editorialgroup:
   committee:
   - National Electrical Safety Code
+ics:
+- code: '13.260'
+  text: Protection against electric shock. Live working
+- code: '29.020'
+  text: Electrical engineering in general
 ext:
   schema-version: v1.0.0
   standard_status: Active
-  standard_modified: Redline
+  standard_modified: Approved
   pubstatus: Active
   holdstatus: Publish

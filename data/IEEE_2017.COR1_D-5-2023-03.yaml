@@ -46,15 +46,6 @@ language:
 - en
 script:
 - Latn
-abstract:
-- content: 'Corrections to the XML Schema files to achieve full consistency with the
-    text of the standard are addressed in this corrigendum. Additional files are also
-    placed in the 1671 directory here: https://standards.ieee.org/wp-content/uploads/2024/04/1671.1-2017-cor1-2023-downloads.zip'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
 docstatus:
   stage:
     value: draft
@@ -101,6 +92,57 @@ relation:
     script:
     - Latn
     format: text/plain
+- type: updates
+  bibitem:
+    id: EEE1671.1-2017
+    docid:
+    - id: EEE 1671.1-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: EEE 1671.1-2017
+      format: text/plain
+  description:
+    content: corrects
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: EEE1671.1-2017
+    docid:
+    - id: EEE 1671.1-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: EEE 1671.1-2017
+      format: text/plain
+  description:
+    content: corrects
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+- type: updates
+  bibitem:
+    id: EEE1671.1-2017
+    docid:
+    - id: EEE 1671.1-2017
+      type: IEEE
+      primary: true
+    formattedref:
+      content: EEE 1671.1-2017
+      format: text/plain
+  description:
+    content: corrects
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
 keyword:
 - content: IEEE Standards
 - content: XML
@@ -111,7 +153,7 @@ keyword:
 - content: ATS
 - content: ATML instance document
 - content: automatic test equipment
-- content: automatic test markup language
+- content: Automatic Test Markup Language
 - content: automatic test system
 - content: IEEE 1671.1&#8482;
 - content: test program documentation
@@ -128,7 +170,7 @@ ics:
   text: IT applications in information, documentation and publishing
 ext:
   schema-version: v1.0.0
-  standard_status: Inactive
+  standard_status: Active
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold

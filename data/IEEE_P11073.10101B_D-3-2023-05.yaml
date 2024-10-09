@@ -27,7 +27,7 @@ date:
 - type: published
   value: '2023-05-12'
 - type: issued
-  value: '2023'
+  value: '2023-11-08'
 contributor:
 - organization:
     name:
@@ -51,10 +51,10 @@ abstract:
     of information from point-of-care medical devices. Primary emphasis is placed
     on acute care medical devices and patient vital signs information. The nomenclature
     also supports concepts in an object oriented information model that is for medical
-    device communications. This amendment extends IEEE Std 11073-10101 to include
+    device communications. This amendment extends IEEE Std 11073-10101-2019 to include
     additional terms primarily related to infusion pumps, ventilators, dialysis and
     other key medical devices as well as event and alert identifiers for devices and
-    systems used in acute care .
+    systems used in acute care.
   language:
   - en
   script:
@@ -114,7 +114,7 @@ keyword:
 - content: HFV
 - content: high flow therapy
 - content: high frequency ventilation
-- content: IEEE 11073-10101b
+- content: IEEE 11073-10101b&#8482;
 - content: IHE PCD
 - content: information model
 - content: infusion pump
@@ -161,11 +161,13 @@ editorialgroup:
   - IEEE 11073 Standards Committee of the IEEE Engineering in Medicine and Biology
     Society
 ics:
+- code: 01.040.35
+  text: Information technology (Vocabularies)
 - code: 35.240.80
   text: IT applications in health care technology
 ext:
   schema-version: v1.0.0
-  standard_status: Active
+  standard_status: Inactive
   standard_modified: Draft
   pubstatus: Active
   holdstatus: Hold
